@@ -1,0 +1,720 @@
+{
+    "tag:*=yes": "jah",
+    "tag:*=no": "ei",
+    "tag:accomodation": {
+        "description": "message 'tag:accomodation' not translated"
+    },
+    "tag:address": "Aadress",
+    "tag:addr:housenumber": {
+        "message": "Majanumber",
+        "!=1": "Majanumbrid"
+    },
+    "tag:addr:housename": {
+        "message": "Majanimi",
+        "!=1": "Majanimed"
+    },
+    "tag:addr:street": {
+        "message": "Tänav",
+        "!=1": "Tänavad"
+    },
+    "tag:addr:postcode": {
+        "message": "Postiindeks",
+        "!=1": "Postiindeksid"
+    },
+    "tag:addr:city": {
+        "message": "Linn",
+        "!=1": "Linnad"
+    },
+    "tag:addr:country": {
+        "message": "Riik",
+        "!=1": "Riigid"
+    },
+    "tag:addr:full": {
+        "message": "Täielik aadress",
+        "!=1": "Täielikud aadressid"
+    },
+    "tag:addr:interpolation": {
+        "description": "message 'tag:addr:interpolation' not translated"
+    },
+    "tag:aeroway": {
+        "description": "message 'tag:aeroway' not translated"
+    },
+    "tag:aeroway=runway": {
+        "description": "message 'tag:aeroway=runway' not translated"
+    },
+    "tag:aeroway=taxiway": {
+        "description": "message 'tag:aeroway=taxiway' not translated"
+    },
+    "tag:admin_level=2": "Riigipiir",
+    "tag:admin_level=3": {
+        "description": "message 'tag:admin_level=3' not translated"
+    },
+    "tag:admin_level=4": "Osariigi piir",
+    "tag:admin_level=5": {
+        "description": "message 'tag:admin_level=5' not translated"
+    },
+    "tag:admin_level=6": {
+        "description": "message 'tag:admin_level=6' not translated"
+    },
+    "tag:admin_level=8": {
+        "description": "message 'tag:admin_level=8' not translated"
+    },
+    "tag:admin_level=10": "Linnaosad",
+    "tag:amenity": "Hüve",
+    "tag:amenity=cinema": {
+        "message": "Kino",
+        "!=1": "Kinod"
+    },
+    "tag:amenity=restaurant": {
+        "message": "Restoran",
+        "!=1": "Restoranid"
+    },
+    "tag:amenity=pub": {
+        "message": "Pubi",
+        "!=1": "Pubid"
+    },
+    "tag:barrier": {
+        "description": "message 'tag:barrier' not translated"
+    },
+    "tag:barrier=city_wall": {
+        "message": "Linnamüür",
+        "!=1": "Linnamüürid"
+    },
+    "tag:barrier=wall": "Müür,Müürid",
+    "tag:barrier=retaining_wall": {
+        "description": "message 'tag:barrier=retaining_wall' not translated"
+    },
+    "tag:barrier=fence": {
+        "message": "Aed",
+        "!=1": "Aiad"
+    },
+    "tag:barrier=hedge": {
+        "message": "Hekk",
+        "!=1": "Hekid"
+    },
+    "tag:cables": {
+        "description": "message 'tag:cables' not translated"
+    },
+    "tag:description": "Kirjeldus",
+    "tag:fixme": {
+        "description": "message 'tag:fixme' not translated"
+    },
+    "tag:note": "Märkus",
+    "tag:food": {
+        "description": "message 'tag:food' not translated"
+    },
+    "tag:cuisine": "Köök",
+    "tag:cuisine=regional": {
+        "description": "message 'tag:cuisine=regional' not translated"
+    },
+    "tag:highway": {
+        "description": "message 'tag:highway' not translated"
+    },
+    "tag:highway=motorway": {
+        "description": "message 'tag:highway=motorway' not translated"
+    },
+    "tag:highway=motorway_link": {
+        "description": "message 'tag:highway=motorway_link' not translated"
+    },
+    "tag:highway=trunk": {
+        "description": "message 'tag:highway=trunk' not translated"
+    },
+    "tag:highway=trunk_link": {
+        "description": "message 'tag:highway=trunk_link' not translated"
+    },
+    "tag:highway=primary": {
+        "description": "message 'tag:highway=primary' not translated"
+    },
+    "tag:highway=primary_link": {
+        "description": "message 'tag:highway=primary_link' not translated"
+    },
+    "tag:highway=secondary": {
+        "description": "message 'tag:highway=secondary' not translated"
+    },
+    "tag:highway=tertiary": {
+        "description": "message 'tag:highway=tertiary' not translated"
+    },
+    "tag:highway=minor": {
+        "description": "message 'tag:highway=minor' not translated"
+    },
+    "tag:highway=road": {
+        "description": "message 'tag:highway=road' not translated"
+    },
+    "tag:highway=residential": {
+        "description": "message 'tag:highway=residential' not translated"
+    },
+    "tag:highway=unclassified": {
+        "description": "message 'tag:highway=unclassified' not translated"
+    },
+    "tag:highway=service": {
+        "description": "message 'tag:highway=service' not translated"
+    },
+    "tag:highway=pedestrian": {
+        "description": "message 'tag:highway=pedestrian' not translated"
+    },
+    "tag:highway=living_street": {
+        "description": "message 'tag:highway=living_street' not translated"
+    },
+    "tag:highway=path": {
+        "description": "message 'tag:highway=path' not translated"
+    },
+    "tag:highway=cycleway": {
+        "description": "message 'tag:highway=cycleway' not translated"
+    },
+    "tag:highway=footway": {
+        "description": "message 'tag:highway=footway' not translated"
+    },
+    "tag:highway=bridleway": {
+        "description": "message 'tag:highway=bridleway' not translated"
+    },
+    "tag:highway=track": {
+        "description": "message 'tag:highway=track' not translated"
+    },
+    "tag:highway=steps": "Trepp",
+    "tag:bridge": "Sild",
+    "tag:tunnel": "Tunnel",
+    "tag:traffic_calming": "Liikluse rahustamine",
+    "tag:service": {
+        "description": "message 'tag:service' not translated"
+    },
+    "tag:postal_code": "Postiindeks",
+    "tag:is_in": {
+        "description": "message 'tag:is_in' not translated"
+    },
+    "tag:leisure": "Vaba aeg",
+    "tag:leisure=sports_centre": "Spordikeskus",
+    "tag:leisure=golf_course": "Golfiväljak",
+    "tag:leisure=stadium": "Staadion",
+    "tag:leisure=track": {
+        "description": "message 'tag:leisure=track' not translated"
+    },
+    "tag:leisure=pitch": {
+        "description": "message 'tag:leisure=pitch' not translated"
+    },
+    "tag:leisure=water_park": "Veepark",
+    "tag:leisure=marina": {
+        "description": "message 'tag:leisure=marina' not translated"
+    },
+    "tag:leisure=slipway": {
+        "description": "message 'tag:leisure=slipway' not translated"
+    },
+    "tag:leisure=fishing": {
+        "description": "message 'tag:leisure=fishing' not translated"
+    },
+    "tag:leisure=nature_reserve": {
+        "description": "message 'tag:leisure=nature_reserve' not translated"
+    },
+    "tag:leisure=park": {
+        "description": "message 'tag:leisure=park' not translated"
+    },
+    "tag:leisure=playground": "Mänguväljak",
+    "tag:leisure=garden": "Aed",
+    "tag:leisure=common": {
+        "description": "message 'tag:leisure=common' not translated"
+    },
+    "tag:leisure=ice_rink": "Liuväli",
+    "tag:leisure=miniature_golf": "Minigolf",
+    "tag:leisure=swimming_pool": "Ujumisbassein",
+    "tag:leisure=beach_resort": {
+        "description": "message 'tag:leisure=beach_resort' not translated"
+    },
+    "tag:leisure=bird_hide": {
+        "description": "message 'tag:leisure=bird_hide' not translated"
+    },
+    "tag:leisure=sport": {
+        "description": "message 'tag:leisure=sport' not translated"
+    },
+    "tag:man_made": {
+        "description": "message 'tag:man_made' not translated"
+    },
+    "tag:man_made=pipeline": {
+        "message": "Torujuhe",
+        "!=1": "Torujuhtmed"
+    },
+    "tag:type": "Liik",
+    "tag:type=gas": "Gaas",
+    "tag:type=heat": "Soojus",
+    "tag:type=hot_water": "Kuum vesi",
+    "tag:type=oil": "Õli",
+    "tag:type=sewage": "Reovesi",
+    "tag:type=water": "Vesi",
+    "tag:name": {
+        "message": "Nimi",
+        "!=1": "Nimed"
+    },
+    "tag:alt_name": {
+        "message": "Alternatiivne nimi",
+        "!=1": "Alternatiivsed nimed"
+    },
+    "tag:official_name": {
+        "message": "Ametlik nimi",
+        "!=1": "Ametlikud nimed"
+    },
+    "tag:int_name": {
+        "message": "Rahvusvaheline nimi",
+        "!=1": "Rahvusvahelised nimed"
+    },
+    "tag:loc_name": {
+        "message": "Kohalik nimi",
+        "!=1": "Kohalikud nimed"
+    },
+    "tag:old_name": "Vana nimi(nimed)",
+    "tag:ref": "Viide",
+    "tag:network": "Võrk",
+    "tag:opening_hours": "Avatud",
+    "tag:operator": "Operaator",
+    "tag:place": {
+        "description": "message 'tag:place' not translated"
+    },
+    "tag:place=continent": {
+        "message": "Kontinent",
+        "!=1": "Kontinendid"
+    },
+    "tag:place=country": {
+        "message": "Riik",
+        "!=1": "Riigid"
+    },
+    "tag:place=state": {
+        "description": "message 'tag:place=state' not translated"
+    },
+    "tag:place=region": {
+        "description": "message 'tag:place=region' not translated"
+    },
+    "tag:place=county": {
+        "description": "message 'tag:place=county' not translated"
+    },
+    "tag:place=city": {
+        "description": "message 'tag:place=city' not translated"
+    },
+    "tag:place=town": {
+        "description": "message 'tag:place=town' not translated"
+    },
+    "tag:place=village": {
+        "description": "message 'tag:place=village' not translated"
+    },
+    "tag:place=suburb": {
+        "description": "message 'tag:place=suburb' not translated"
+    },
+    "tag:place=hamlet": {
+        "description": "message 'tag:place=hamlet' not translated"
+    },
+    "tag:place=locality": {
+        "description": "message 'tag:place=locality' not translated"
+    },
+    "tag:place=island": {
+        "message": "Saar",
+        "!=1": "Saared"
+    },
+    "tag:place=islet": {
+        "description": "message 'tag:place=islet' not translated"
+    },
+    "tag:place=ocean": "Ookean,Ookeanid",
+    "tag:place=sea": {
+        "message": "Meri",
+        "!=1": "Mered"
+    },
+    "tag:population": {
+        "description": "message 'tag:population' not translated"
+    },
+    "tag:power": {
+        "description": "message 'tag:power' not translated"
+    },
+    "tag:power=generator": {
+        "description": "message 'tag:power=generator' not translated"
+    },
+    "tag:power=line": {
+        "description": "message 'tag:power=line' not translated"
+    },
+    "tag:power=minor_line": {
+        "description": "message 'tag:power=minor_line' not translated"
+    },
+    "tag:power=tower": {
+        "description": "message 'tag:power=tower' not translated"
+    },
+    "tag:power=pole": {
+        "description": "message 'tag:power=pole' not translated"
+    },
+    "tag:power=station": "Elektrijaam",
+    "tag:power=sub_station": {
+        "description": "message 'tag:power=sub_station' not translated"
+    },
+    "tag:power_source": {
+        "description": "message 'tag:power_source' not translated"
+    },
+    "tag:power_source=biofuel": "Biokütus",
+    "tag:power_source=oil": {
+        "description": "message 'tag:power_source=oil' not translated"
+    },
+    "tag:power_source=coal": "Kivisüsi",
+    "tag:power_source=gas": "Gaas",
+    "tag:power_source=waste": {
+        "description": "message 'tag:power_source=waste' not translated"
+    },
+    "tag:power_source=hydro": {
+        "description": "message 'tag:power_source=hydro' not translated"
+    },
+    "tag:power_source=tidal": {
+        "description": "message 'tag:power_source=tidal' not translated"
+    },
+    "tag:power_source=wave": {
+        "description": "message 'tag:power_source=wave' not translated"
+    },
+    "tag:power_source=geothermal": {
+        "description": "message 'tag:power_source=geothermal' not translated"
+    },
+    "tag:power_source=nuclear": {
+        "description": "message 'tag:power_source=nuclear' not translated"
+    },
+    "tag:power_source=fusion": {
+        "description": "message 'tag:power_source=fusion' not translated"
+    },
+    "tag:power_source=wind": {
+        "description": "message 'tag:power_source=wind' not translated"
+    },
+    "tag:power_source=photovoltaic": {
+        "description": "message 'tag:power_source=photovoltaic' not translated"
+    },
+    "tag:power_source=solar-thermal": {
+        "description": "message 'tag:power_source=solar-thermal' not translated"
+    },
+    "tag:railway": {
+        "description": "message 'tag:railway' not translated"
+    },
+    "tag:railway=rail": {
+        "description": "message 'tag:railway=rail' not translated"
+    },
+    "tag:railway=tram": {
+        "description": "message 'tag:railway=tram' not translated"
+    },
+    "tag:railway=platform": {
+        "description": "message 'tag:railway=platform' not translated"
+    },
+    "tag:real_ale": {
+        "description": "message 'tag:real_ale' not translated"
+    },
+    "tag:religion": "Religioon",
+    "tag:religion=christian": "kristlik",
+    "tag:religion=buddhist": "budistlik",
+    "tag:religion=hindu": "hinduistlik",
+    "tag:religion=jewish": "juudi",
+    "tag:religion=muslim": "moslemi",
+    "tag:religion=multifaith": {
+        "description": "message 'tag:religion=multifaith' not translated"
+    },
+    "tag:denomination": "Usutunnistus",
+    "tag:denomination=anglican": "anglikaani",
+    "tag:denomination=baptist": "baptistlik",
+    "tag:denomination=catholic": "katoliiklik",
+    "tag:denomination=lutheran": "luteri",
+    "tag:denomination=orthodox": "ortodokslik",
+    "tag:denomination=protestant": "protestantlik",
+    "tag:denomination=russian_orthodox": "vene õigeusklik",
+    "tag:route": {
+        "description": "message 'tag:route' not translated"
+    },
+    "tag:route=train": "Rong",
+    "tag:route=railway": {
+        "description": "message 'tag:route=railway' not translated"
+    },
+    "tag:route=rail": {
+        "description": "message 'tag:route=rail' not translated"
+    },
+    "tag:route=light_rail": {
+        "description": "message 'tag:route=light_rail' not translated"
+    },
+    "tag:route=subway": {
+        "description": "message 'tag:route=subway' not translated"
+    },
+    "tag:route=tram": "Tramm",
+    "tag:route=tram_bus": "Tramm ja buss",
+    "tag:route=trolley": "Troll",
+    "tag:route=trolleybus": "Troll",
+    "tag:route=bus": "Buss",
+    "tag:route=minibus": {
+        "description": "message 'tag:route=minibus' not translated"
+    },
+    "tag:route=ferry": {
+        "description": "message 'tag:route=ferry' not translated"
+    },
+    "tag:route=road": {
+        "description": "message 'tag:route=road' not translated"
+    },
+    "tag:route=bicycle": "Jalgratas",
+    "tag:route=hiking": {
+        "description": "message 'tag:route=hiking' not translated"
+    },
+    "tag:route=mtb": {
+        "description": "message 'tag:route=mtb' not translated"
+    },
+    "tag:shop": "Pood",
+    "tag:sport": "Sport",
+    "tag:sport=9pin": {
+        "description": "message 'tag:sport=9pin' not translated"
+    },
+    "tag:sport=10pin": {
+        "description": "message 'tag:sport=10pin' not translated"
+    },
+    "tag:sport=archery": "Vibulaskmine",
+    "tag:sport=athletics": "Kergejõustik",
+    "tag:sport=australian_football": "Austraalia jalgpall",
+    "tag:sport=baseball": "Pesapall",
+    "tag:sport=basketball": "Korvpall",
+    "tag:sport=beachvolleyball": "Rannavõrkpall",
+    "tag:sport=boules": {
+        "description": "message 'tag:sport=boules' not translated"
+    },
+    "tag:sport=bowls": {
+        "description": "message 'tag:sport=bowls' not translated"
+    },
+    "tag:sport=canoe": "Kanuu",
+    "tag:sport=chess": "Male",
+    "tag:sport=climbing": "Ronimine",
+    "tag:sport=cricket": "Kriket",
+    "tag:sport=cricket_nets": {
+        "description": "message 'tag:sport=cricket_nets' not translated"
+    },
+    "tag:sport=croquet": "Kroket",
+    "tag:sport=cycling": "Jalgrattasõit",
+    "tag:sport=diving": "Vettehüpped",
+    "tag:sport=dog_racing": "Koerte võidujooks",
+    "tag:sport=equestrian": "Ratsasport",
+    "tag:sport=football": "Jalgpall",
+    "tag:sport=golf": "Golf",
+    "tag:sport=gymnastics": "Võimlemine",
+    "tag:sport=hockey": "Hoki",
+    "tag:sport=horse_racing": "Traavivõistlused",
+    "tag:sport=korfball": {
+        "description": "message 'tag:sport=korfball' not translated"
+    },
+    "tag:sport=motor": {
+        "description": "message 'tag:sport=motor' not translated"
+    },
+    "tag:sport=multi": {
+        "description": "message 'tag:sport=multi' not translated"
+    },
+    "tag:sport=orienteering": "Orienteerumine",
+    "tag:sport=paddle_tennis": {
+        "description": "message 'tag:sport=paddle_tennis' not translated"
+    },
+    "tag:sport=paragliding": {
+        "description": "message 'tag:sport=paragliding' not translated"
+    },
+    "tag:sport=pelota": {
+        "description": "message 'tag:sport=pelota' not translated"
+    },
+    "tag:sport=racquet": {
+        "description": "message 'tag:sport=racquet' not translated"
+    },
+    "tag:sport=rowing": "Sõudmine",
+    "tag:sport=rugby": "Ragbi",
+    "tag:sport=shooting": "Laskmine",
+    "tag:sport=skating": "Uisutamine",
+    "tag:sport=skateboard": "Rula",
+    "tag:sport=skiing": "Suusatamine",
+    "tag:sport=soccer": "Jalgpall",
+    "tag:sport=swimming": "Ujumine",
+    "tag:sport=table_tennis": "Lauatennis",
+    "tag:sport=team_handball": "Käsipall",
+    "tag:sport=tennis": "Tennis",
+    "tag:sport=volleyball": "Võrkpall",
+    "tag:tracks": {
+        "description": "message 'tag:tracks' not translated"
+    },
+    "tag:tracks=single": {
+        "description": "message 'tag:tracks=single' not translated"
+    },
+    "tag:tracks=double": {
+        "description": "message 'tag:tracks=double' not translated"
+    },
+    "tag:tracks=multiple": {
+        "description": "message 'tag:tracks=multiple' not translated"
+    },
+    "tag:vending": {
+        "description": "message 'tag:vending' not translated"
+    },
+    "tag:voltage": "Pinge",
+    "tag:wires": {
+        "description": "message 'tag:wires' not translated"
+    },
+    "tag:website": "Veebileht",
+    "tag:cycleway": "Jalgrattatee",
+    "tag:tracktype": {
+        "description": "message 'tag:tracktype' not translated"
+    },
+    "tag:waterway": {
+        "description": "message 'tag:waterway' not translated"
+    },
+    "tag:aerialway": {
+        "description": "message 'tag:aerialway' not translated"
+    },
+    "tag:public_transport": "Ühistransport",
+    "tag:office": {
+        "description": "message 'tag:office' not translated"
+    },
+    "tag:craft": {
+        "description": "message 'tag:craft' not translated"
+    },
+    "tag:emergency": {
+        "description": "message 'tag:emergency' not translated"
+    },
+    "tag:tourism": "Turism",
+    "tag:historic": "Ajalooline",
+    "tag:landuse": "Maakasutus",
+    "tag:wood": {
+        "description": "message 'tag:wood' not translated"
+    },
+    "tag:military": {
+        "description": "message 'tag:military' not translated"
+    },
+    "tag:natural": {
+        "description": "message 'tag:natural' not translated"
+    },
+    "tag:geological": "Geoloogiline",
+    "tag:boundary": {
+        "description": "message 'tag:boundary' not translated"
+    },
+    "tag:abutters": {
+        "description": "message 'tag:abutters' not translated"
+    },
+    "tag:lit": "Tänavavalgustus",
+    "tag:area": {
+        "description": "message 'tag:area' not translated"
+    },
+    "tag:crossing": {
+        "description": "message 'tag:crossing' not translated"
+    },
+    "tag:mountain_pass": {
+        "description": "message 'tag:mountain_pass' not translated"
+    },
+    "tag:cutting": {
+        "description": "message 'tag:cutting' not translated"
+    },
+    "tag:embankment": {
+        "description": "message 'tag:embankment' not translated"
+    },
+    "tag:lanes": {
+        "description": "message 'tag:lanes' not translated"
+    },
+    "tag:layer": {
+        "description": "message 'tag:layer' not translated"
+    },
+    "tag:surface": {
+        "description": "message 'tag:surface' not translated"
+    },
+    "tag:smoothness": {
+        "description": "message 'tag:smoothness' not translated"
+    },
+    "tag:ele": {
+        "description": "message 'tag:ele' not translated"
+    },
+    "tag:width": {
+        "description": "message 'tag:width' not translated"
+    },
+    "tag:est_width": {
+        "description": "message 'tag:est_width' not translated"
+    },
+    "tag:incline": {
+        "description": "message 'tag:incline' not translated"
+    },
+    "tag:start_date": {
+        "description": "message 'tag:start_date' not translated"
+    },
+    "tag:end_date": {
+        "description": "message 'tag:end_date' not translated"
+    },
+    "tag:disused": {
+        "description": "message 'tag:disused' not translated"
+    },
+    "tag:wheelchair": {
+        "description": "message 'tag:wheelchair' not translated"
+    },
+    "tag:wheelchair=limited": {
+        "description": "message 'tag:wheelchair=limited' not translated"
+    },
+    "tag:tactile_paving": {
+        "description": "message 'tag:tactile_paving' not translated"
+    },
+    "tag:narrow": {
+        "description": "message 'tag:narrow' not translated"
+    },
+    "tag:covered": {
+        "description": "message 'tag:covered' not translated"
+    },
+    "tag:ford": {
+        "description": "message 'tag:ford' not translated"
+    },
+    "tag:access": {
+        "description": "message 'tag:access' not translated"
+    },
+    "tag:vehicle": {
+        "description": "message 'tag:vehicle' not translated"
+    },
+    "tag:bicycle": {
+        "description": "message 'tag:bicycle' not translated"
+    },
+    "tag:foot": {
+        "description": "message 'tag:foot' not translated"
+    },
+    "tag:goods": {
+        "description": "message 'tag:goods' not translated"
+    },
+    "tag:hgv": {
+        "description": "message 'tag:hgv' not translated"
+    },
+    "tag:horse": {
+        "description": "message 'tag:horse' not translated"
+    },
+    "tag:motorcycle": {
+        "description": "message 'tag:motorcycle' not translated"
+    },
+    "tag:motorcar": {
+        "description": "message 'tag:motorcar' not translated"
+    },
+    "tag:psv": {
+        "description": "message 'tag:psv' not translated"
+    },
+    "tag:oneway": "Ühesuunaline",
+    "tag:noexit": {
+        "description": "message 'tag:noexit' not translated"
+    },
+    "tag:maxweight": {
+        "description": "message 'tag:maxweight' not translated"
+    },
+    "tag:maxheight": {
+        "description": "message 'tag:maxheight' not translated"
+    },
+    "tag:maxlength": {
+        "description": "message 'tag:maxlength' not translated"
+    },
+    "tag:maxspeed": {
+        "description": "message 'tag:maxspeed' not translated"
+    },
+    "tag:minspeed": {
+        "description": "message 'tag:minspeed' not translated"
+    },
+    "tag:traffic_sign": {
+        "description": "message 'tag:traffic_sign' not translated"
+    },
+    "tag:toll": {
+        "description": "message 'tag:toll' not translated"
+    },
+    "tag:charge": {
+        "description": "message 'tag:charge' not translated"
+    },
+    "tag:source": {
+        "description": "message 'tag:source' not translated"
+    },
+    "tag:phone": "Telefoninumber",
+    "tag:fax": "Faksinumber",
+    "tag:email": "E-post",
+    "tag:wikipedia": "Vikipeedia",
+    "tag:created_by": {
+        "description": "message 'tag:created_by' not translated"
+    },
+    "tag:construction": {
+        "description": "message 'tag:construction' not translated"
+    },
+    "tag:proposed": {
+        "description": "message 'tag:proposed' not translated"
+    }
+}

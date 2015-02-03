@@ -1,0 +1,548 @@
+{
+    "tag:*=yes": "так",
+    "tag:*=no": "ні",
+    "tag:accomodation": "Житло",
+    "tag:address": "Адреса",
+    "tag:addr:housenumber": {
+        "message": "Номер будинку",
+        "!=1": "Номери будинків"
+    },
+    "tag:addr:housename": {
+        "message": "Ім'я будинку",
+        "!=1": "Імена будинків"
+    },
+    "tag:addr:street": {
+        "message": "Вулиця",
+        "!=1": "Вулиці"
+    },
+    "tag:addr:postcode": {
+        "message": "Поштовий індекс",
+        "!=1": "Поштові індекси"
+    },
+    "tag:addr:city": {
+        "message": "Місто",
+        "!=1": "Міста"
+    },
+    "tag:addr:country": {
+        "message": "Країна",
+        "!=1": "Країни"
+    },
+    "tag:addr:full": {
+        "message": "Повна адреса",
+        "!=1": "Повні адреси"
+    },
+    "tag:addr:interpolation": "Інтерпольовані адреси",
+    "tag:aeroway": "Аеродромні доріжки",
+    "tag:aeroway=runway": "Злітні смуги",
+    "tag:aeroway=taxiway": "Руліжні доріжки",
+    "tag:admin_level=2": "Межі Країн",
+    "tag:admin_level=3": "Межі Федеральних округів",
+    "tag:admin_level=4": "Межі суб'єктів",
+    "tag:admin_level=5": "Межі об'єднаних районів та округів",
+    "tag:admin_level=6": "Межі районів та округів",
+    "tag:admin_level=8": "Межі міст або районів міст",
+    "tag:admin_level=10": "Межі територіальних органів",
+    "tag:amenity": "Корисні місця",
+    "tag:amenity=cinema": {
+        "message": "Кінотеатр",
+        "!=1": "Кінотеатри"
+    },
+    "tag:amenity=restaurant": {
+        "message": "Ресторан",
+        "!=1": "Ресторани"
+    },
+    "tag:amenity=pub": {
+        "message": "Паб",
+        "!=1": "Паби"
+    },
+    "tag:barrier": {
+        "message": "Перешкода",
+        "!=1": "Перешкоди"
+    },
+    "tag:barrier=city_wall": {
+        "message": "Міська стіна",
+        "!=1": "Міські стіни"
+    },
+    "tag:barrier=wall": {
+        "message": "Стіна",
+        "!=1": "Стіни"
+    },
+    "tag:barrier=retaining_wall": {
+        "message": "Підпірна стінка",
+        "!=1": "Підпірні стінки"
+    },
+    "tag:barrier=fence": {
+        "message": "Паркан",
+        "!=1": "Паркани"
+    },
+    "tag:barrier=hedge": {
+        "message": "Кущ",
+        "!=1": "Кущі"
+    },
+    "tag:cables": "Кабелі",
+    "tag:description": "Опис",
+    "tag:fixme": "Потрібно виправити",
+    "tag:note": "Замітка",
+    "tag:food": "Продукти харчування",
+    "tag:cuisine": "Громадське харчування",
+    "tag:cuisine=regional": "національна кухня",
+    "tag:highway": {
+        "message": "Дорога",
+        "!=1": "Дороги"
+    },
+    "tag:highway=motorway": "Автомагістраль",
+    "tag:highway=motorway_link": "Виїзд на автомагістраль",
+    "tag:highway=trunk": "Шосе",
+    "tag:highway=trunk_link": "Виїзд на шосе",
+    "tag:highway=primary": "Основна дорога (1-го рівня)",
+    "tag:highway=primary_link": "Виїзд на основну дорогу 1-го рівня",
+    "tag:highway=secondary": "Основна дорога (2-го рівня)",
+    "tag:highway=tertiary": "Основна дорога (3-го рівня)",
+    "tag:highway=minor": "Другорядна дорога",
+    "tag:highway=road": "Дорога з невизначеним типом",
+    "tag:highway=residential": "Міська вулиця",
+    "tag:highway=unclassified": "Не класифікована дорога",
+    "tag:highway=service": "Службова або внутрішньодворових дорога",
+    "tag:highway=pedestrian": "Пішохідна зона",
+    "tag:highway=living_street": "Житлова вулиця",
+    "tag:highway=path": "Стежка",
+    "tag:highway=cycleway": "Велодоріжка",
+    "tag:highway=footway": "Пішохідна доріжка",
+    "tag:highway=bridleway": "Дорога для верхової їзди",
+    "tag:highway=track": "Стихійна дорога",
+    "tag:highway=steps": "Сходинки",
+    "tag:bridge": "Міст",
+    "tag:tunnel": "Тунель",
+    "tag:traffic_calming": {
+        "description": "message 'tag:traffic_calming' not translated"
+    },
+    "tag:service": {
+        "description": "message 'tag:service' not translated"
+    },
+    "tag:postal_code": {
+        "description": "message 'tag:postal_code' not translated"
+    },
+    "tag:is_in": "знаходиться в",
+    "tag:leisure": "Дозвілля",
+    "tag:leisure=sports_centre": "Спортивний центр",
+    "tag:leisure=golf_course": "Курси гольфу",
+    "tag:leisure=stadium": "Стадіон",
+    "tag:leisure=track": "Трек",
+    "tag:leisure=pitch": "Спортивний майданчик",
+    "tag:leisure=water_park": "Аквапарк",
+    "tag:leisure=marina": "Гавань",
+    "tag:leisure=slipway": "Місця спуску на воду",
+    "tag:leisure=fishing": "Риболовля",
+    "tag:leisure=nature_reserve": "Заповідник",
+    "tag:leisure=park": "Парк розваг",
+    "tag:leisure=playground": "Ігровий майданчик",
+    "tag:leisure=garden": "Сад",
+    "tag:leisure=common": "Громадське місце",
+    "tag:leisure=ice_rink": "Льодовий каток",
+    "tag:leisure=miniature_golf": "Міні-гольф",
+    "tag:leisure=swimming_pool": "Басейн",
+    "tag:leisure=beach_resort": "Пляжний курорт",
+    "tag:leisure=bird_hide": "Птахоферми",
+    "tag:leisure=sport": "Інший спорт",
+    "tag:man_made": "Штучні споруди",
+    "tag:man_made=pipeline": {
+        "message": "Трубопровід",
+        "!=1": "Трубопроводи"
+    },
+    "tag:type": "Тип",
+    "tag:type=gas": "Газ",
+    "tag:type=heat": "Тепло",
+    "tag:type=hot_water": "Гряча вода",
+    "tag:type=oil": "Масло",
+    "tag:type=sewage": "Каналізація",
+    "tag:type=water": "Вода",
+    "tag:name": {
+        "message": "Назва",
+        "!=1": "Назви"
+    },
+    "tag:alt_name": {
+        "message": "Альтернативне ім'я",
+        "!=1": "Альтернативні імена"
+    },
+    "tag:official_name": {
+        "message": "Офіційне ім'я",
+        "!=1": "Офіційні імена"
+    },
+    "tag:int_name": {
+        "message": "Міжнародна назва",
+        "!=1": "Міжнародні назви"
+    },
+    "tag:loc_name": {
+        "message": "Місцева назва",
+        "!=1": "Місцеві назви"
+    },
+    "tag:old_name": "Стара назва(и)",
+    "tag:ref": "Посилання",
+    "tag:network": "Комп'ютерна мережа",
+    "tag:opening_hours": "Години роботи",
+    "tag:operator": "Оператор",
+    "tag:place": "Місце",
+    "tag:place=continent": {
+        "message": "Континент",
+        "!=1": "Континенти"
+    },
+    "tag:place=country": {
+        "message": "Країна",
+        "!=1": "Країни"
+    },
+    "tag:place=state": {
+        "message": "Штат",
+        "!=1": "Штати"
+    },
+    "tag:place=region": {
+        "message": "Регіон",
+        "!=1": "Регіони"
+    },
+    "tag:place=county": {
+        "message": "Округ",
+        "!=1": "Округа"
+    },
+    "tag:place=city": {
+        "message": "Місто",
+        "!=1": "Міста"
+    },
+    "tag:place=town": {
+        "message": "Місто",
+        "!=1": "Міста"
+    },
+    "tag:place=village": {
+        "message": "Село",
+        "!=1": "Села"
+    },
+    "tag:place=suburb": {
+        "message": "Передмістя",
+        "!=1": "Передмістя"
+    },
+    "tag:place=hamlet": {
+        "message": "Хутір",
+        "!=1": "Хутора"
+    },
+    "tag:place=locality": {
+        "message": "Район",
+        "!=1": "Райони"
+    },
+    "tag:place=island": {
+        "message": "Острів",
+        "!=1": "Острови"
+    },
+    "tag:place=islet": {
+        "message": "Острівець",
+        "!=1": "Острівці"
+    },
+    "tag:place=ocean": {
+        "message": "Океан",
+        "!=1": "Океани"
+    },
+    "tag:place=sea": {
+        "message": "Море",
+        "!=1": "Моря"
+    },
+    "tag:population": "Населення",
+    "tag:power": "Енергетика",
+    "tag:power=generator": "Електростанція",
+    "tag:power=line": "Лінія електропередачі",
+    "tag:power=minor_line": "Низьковольтні лінії електропередач",
+    "tag:power=tower": "Опора лінії електропередачі",
+    "tag:power=pole": "Електричний стовп",
+    "tag:power=station": "Електропідстанція",
+    "tag:power=sub_station": "Трансформаторна будка",
+    "tag:power_source": "Джерело енергії",
+    "tag:power_source=biofuel": "Біопаливо",
+    "tag:power_source=oil": "Нафта",
+    "tag:power_source=coal": "Вугілля",
+    "tag:power_source=gas": "Газ",
+    "tag:power_source=waste": "Відходи",
+    "tag:power_source=hydro": "Воды",
+    "tag:power_source=tidal": "Припливи",
+    "tag:power_source=wave": "Хвилі",
+    "tag:power_source=geothermal": "Геотермальна",
+    "tag:power_source=nuclear": "Ядерна реакція",
+    "tag:power_source=fusion": "Fusion",
+    "tag:power_source=wind": "Вітер",
+    "tag:power_source=photovoltaic": "Фотоелектрична",
+    "tag:power_source=solar-thermal": "Тепло сонця",
+    "tag:railway": "Рейкові шляхи",
+    "tag:railway=rail": {
+        "message": "Залізнична колія",
+        "!=1": "Залізничні колії"
+    },
+    "tag:railway=tram": {
+        "message": "Трамвайна колія",
+        "!=1": " Трамвайні колії"
+    },
+    "tag:railway=platform": {
+        "message": "Платформа",
+        "!=1": "Платформи"
+    },
+    "tag:real_ale": "Справжній ель",
+    "tag:religion": "Релігія",
+    "tag:religion=christian": "Християнство",
+    "tag:religion=buddhist": "Буддизм",
+    "tag:religion=hindu": "Індуїзм",
+    "tag:religion=jewish": "Іудаїзм",
+    "tag:religion=muslim": "Мусульманство",
+    "tag:religion=multifaith": {
+        "description": "message 'tag:religion=multifaith' not translated"
+    },
+    "tag:denomination": "Конфесії",
+    "tag:denomination=anglican": "Англіканство",
+    "tag:denomination=baptist": "Баптизм",
+    "tag:denomination=greek_orthodox": "Грецьке православ'я",
+    "tag:route": "Маршрут",
+    "tag:route=train": "Поїзд",
+    "tag:route=railway": "Залізниця",
+    "tag:route=rail": "Залізниця",
+    "tag:route=light_rail": "Залізниця",
+    "tag:route=subway": "Метро",
+    "tag:route=tram": "Трамвай",
+    "tag:route=tram_bus": "Трамвай та автобус",
+    "tag:route=trolley": "Тролейбус",
+    "tag:route=trolleybus": "Тролейбус",
+    "tag:route=bus": "Автобус",
+    "tag:route=minibus": "Маршрутне таксі",
+    "tag:route=ferry": "Пором",
+    "tag:route=road": "Автомобільна дорога",
+    "tag:route=bicycle": "Велосипед",
+    "tag:route=hiking": "Пішки",
+    "tag:route=mtb": "Гірський велосипед",
+    "tag:shop": "Магазин",
+    "tag:sport": "Спорт",
+    "tag:sport=9pin": "Боулінг (9-ти кеглевий)",
+    "tag:sport=10pin": "Боулінг (10-ти кеглевий)",
+    "tag:sport=archery": "Стрільба з лука",
+    "tag:sport=athletics": "Атлетика",
+    "tag:sport=australian_football": "Австралійський футбол",
+    "tag:sport=baseball": "Бейсбол",
+    "tag:sport=basketball": "Баскетбол",
+    "tag:sport=beachvolleyball": "Пляжний волейбол",
+    "tag:sport=boules": "Петанк",
+    "tag:sport=bowls": "Боулз",
+    "tag:sport=canoe": "Каноэ",
+    "tag:sport=chess": "Шахи",
+    "tag:sport=climbing": "Скелелазіння",
+    "tag:sport=cricket": "Крикет",
+    "tag:sport=cricket_nets": "Cricket Nets",
+    "tag:sport=croquet": "Крокет",
+    "tag:sport=cycling": "Велоспорт",
+    "tag:sport=diving": "Дайвінг",
+    "tag:sport=dog_racing": "Собачі біга",
+    "tag:sport=equestrian": "Кінний спорт",
+    "tag:sport=football": "Футбол",
+    "tag:sport=golf": "Гольф",
+    "tag:sport=gymnastics": "Гімнастика",
+    "tag:sport=hockey": "Хокей",
+    "tag:sport=horse_racing": "Кінські перегони",
+    "tag:sport=korfball": "Корфбол",
+    "tag:sport=motor": "Автомотоспорт",
+    "tag:sport=multi": "Різні види",
+    "tag:sport=orienteering": "Спортивне орієнтування",
+    "tag:sport=paddle_tennis": "Настільний теніс",
+    "tag:sport=paragliding": "Парапланеризм",
+    "tag:sport=pelota": "Пелота",
+    "tag:sport=racquet": "Бадмінтон, Сквош",
+    "tag:sport=rowing": "Гребля",
+    "tag:sport=rugby": "Регбі",
+    "tag:sport=shooting": "Стрілянина",
+    "tag:sport=skating": "Ковзанярський спорт",
+    "tag:sport=skateboard": "Скейтборд",
+    "tag:sport=skiing": "Лижний спорт",
+    "tag:sport=soccer": "Футбол",
+    "tag:sport=swimming": "Плавання",
+    "tag:sport=table_tennis": "Настільний теніс",
+    "tag:sport=team_handball": "Гандбол",
+    "tag:sport=tennis": "Теніс",
+    "tag:sport=volleyball": "Волейбол",
+    "tag:tracks": {
+        "description": "message 'tag:tracks' not translated"
+    },
+    "tag:tracks=single": {
+        "description": "message 'tag:tracks=single' not translated"
+    },
+    "tag:tracks=double": {
+        "description": "message 'tag:tracks=double' not translated"
+    },
+    "tag:tracks=multiple": {
+        "description": "message 'tag:tracks=multiple' not translated"
+    },
+    "tag:vending": "Торгові автомати",
+    "tag:voltage": "Напруга",
+    "tag:wires": "Дроти",
+    "tag:website": "Вебсайт",
+    "tag:cycleway": "Велодоріжка",
+    "tag:tracktype": "Покриття доріг",
+    "tag:waterway": "Проточні води",
+    "tag:aerialway": "Канатні дороги",
+    "tag:public_transport": "Перон",
+    "tag:office": "Офіс",
+    "tag:craft": "Майстерня",
+    "tag:emergency": "Екстрена служба",
+    "tag:tourism": "Туризм",
+    "tag:historic": "Історичне місце",
+    "tag:landuse": "Територія",
+    "tag:wood": "Дерево",
+    "tag:military": "Військовий",
+    "tag:natural": "Природа",
+    "tag:natural=beach": "Берегова зона",
+    "tag:geological": {
+        "description": "message 'tag:geological' not translated"
+    },
+    "tag:boundary": "Кордони",
+    "tag:abutters": "Прилеглий район",
+    "tag:lit": "Освітлення вулиці",
+    "tag:area": {
+        "description": "message 'tag:area' not translated"
+    },
+    "tag:crossing": {
+        "description": "message 'tag:crossing' not translated"
+    },
+    "tag:mountain_pass": {
+        "description": "message 'tag:mountain_pass' not translated"
+    },
+    "tag:cutting": {
+        "description": "message 'tag:cutting' not translated"
+    },
+    "tag:embankment": {
+        "description": "message 'tag:embankment' not translated"
+    },
+    "tag:lanes": {
+        "description": "message 'tag:lanes' not translated"
+    },
+    "tag:layer": {
+        "description": "message 'tag:layer' not translated"
+    },
+    "tag:surface": {
+        "description": "message 'tag:surface' not translated"
+    },
+    "tag:smoothness": {
+        "description": "message 'tag:smoothness' not translated"
+    },
+    "tag:ele": {
+        "description": "message 'tag:ele' not translated"
+    },
+    "tag:width": {
+        "description": "message 'tag:width' not translated"
+    },
+    "tag:est_width": {
+        "description": "message 'tag:est_width' not translated"
+    },
+    "tag:incline": {
+        "description": "message 'tag:incline' not translated"
+    },
+    "tag:start_date": {
+        "description": "message 'tag:start_date' not translated"
+    },
+    "tag:end_date": {
+        "description": "message 'tag:end_date' not translated"
+    },
+    "tag:disused": {
+        "description": "message 'tag:disused' not translated"
+    },
+    "tag:wheelchair": {
+        "description": "message 'tag:wheelchair' not translated"
+    },
+    "tag:wheelchair=limited": {
+        "description": "message 'tag:wheelchair=limited' not translated"
+    },
+    "tag:tactile_paving": {
+        "description": "message 'tag:tactile_paving' not translated"
+    },
+    "tag:narrow": {
+        "description": "message 'tag:narrow' not translated"
+    },
+    "tag:covered": {
+        "description": "message 'tag:covered' not translated"
+    },
+    "tag:ford": {
+        "description": "message 'tag:ford' not translated"
+    },
+    "tag:access": {
+        "description": "message 'tag:access' not translated"
+    },
+    "tag:vehicle": {
+        "description": "message 'tag:vehicle' not translated"
+    },
+    "tag:bicycle": {
+        "description": "message 'tag:bicycle' not translated"
+    },
+    "tag:foot": {
+        "description": "message 'tag:foot' not translated"
+    },
+    "tag:goods": {
+        "description": "message 'tag:goods' not translated"
+    },
+    "tag:hgv": {
+        "description": "message 'tag:hgv' not translated"
+    },
+    "tag:horse": {
+        "description": "message 'tag:horse' not translated"
+    },
+    "tag:motorcycle": {
+        "description": "message 'tag:motorcycle' not translated"
+    },
+    "tag:motorcar": {
+        "description": "message 'tag:motorcar' not translated"
+    },
+    "tag:psv": {
+        "description": "message 'tag:psv' not translated"
+    },
+    "tag:oneway": {
+        "description": "message 'tag:oneway' not translated"
+    },
+    "tag:noexit": {
+        "description": "message 'tag:noexit' not translated"
+    },
+    "tag:maxweight": {
+        "description": "message 'tag:maxweight' not translated"
+    },
+    "tag:maxheight": {
+        "description": "message 'tag:maxheight' not translated"
+    },
+    "tag:maxlength": {
+        "description": "message 'tag:maxlength' not translated"
+    },
+    "tag:maxspeed": {
+        "description": "message 'tag:maxspeed' not translated"
+    },
+    "tag:minspeed": {
+        "description": "message 'tag:minspeed' not translated"
+    },
+    "tag:traffic_sign": {
+        "description": "message 'tag:traffic_sign' not translated"
+    },
+    "tag:toll": {
+        "description": "message 'tag:toll' not translated"
+    },
+    "tag:charge": {
+        "description": "message 'tag:charge' not translated"
+    },
+    "tag:source": {
+        "description": "message 'tag:source' not translated"
+    },
+    "tag:phone": {
+        "description": "message 'tag:phone' not translated"
+    },
+    "tag:fax": {
+        "description": "message 'tag:fax' not translated"
+    },
+    "tag:email": {
+        "description": "message 'tag:email' not translated"
+    },
+    "tag:wikipedia": {
+        "description": "message 'tag:wikipedia' not translated"
+    },
+    "tag:created_by": {
+        "description": "message 'tag:created_by' not translated"
+    },
+    "tag:construction": {
+        "description": "message 'tag:construction' not translated"
+    },
+    "tag:proposed": {
+        "description": "message 'tag:proposed' not translated"
+    },
+    "tag:route_type": "Route type"
+}

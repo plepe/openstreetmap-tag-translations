@@ -1,0 +1,434 @@
+{
+    "tag:*=yes": "ja",
+    "tag:*=no": "nee",
+    "tag:accomodation": "Accomodatie",
+    "tag:address": "Adres",
+    "tag:addr:housenumber": {
+        "message": "Huisnummer",
+        "!=1": "Huisnummers"
+    },
+    "tag:addr:housename": {
+        "message": "Huisnaam",
+        "!=1": "Huisnamen"
+    },
+    "tag:addr:street": {
+        "message": "Straat",
+        "!=1": "Straten"
+    },
+    "tag:addr:postcode": {
+        "message": "Postcode",
+        "!=1": "Postcodes"
+    },
+    "tag:addr:city": {
+        "message": "Stad",
+        "!=1": "Steden"
+    },
+    "tag:addr:country": {
+        "message": "Land",
+        "!=1": "Landen"
+    },
+    "tag:addr:full": {
+        "message": "Volledig adres",
+        "!=1": "Volledige adressen"
+    },
+    "tag:addr:interpolation": "Geïnterpoleerde huisnummers",
+    "tag:aeroway": "Luchthaven",
+    "tag:aeroway=runway": "Startbaan",
+    "tag:aeroway=taxiway": "Taxibaan",
+    "tag:admin_level=2": "Landsgrens",
+    "tag:admin_level=3": {
+        "description": "message 'tag:admin_level=3' not translated"
+    },
+    "tag:admin_level=4": "Provinciegrens",
+    "tag:admin_level=5": {
+        "description": "message 'tag:admin_level=5' not translated"
+    },
+    "tag:admin_level=6": "Regiogrens",
+    "tag:admin_level=8": "Gemeentegrens",
+    "tag:admin_level=10": "Woonplaatsgrens",
+    "tag:amenity": "Voorzieningen",
+    "tag:amenity=cinema": {
+        "message": "Bioscoop",
+        "!=1": "Bioscopen"
+    },
+    "tag:amenity=restaurant": {
+        "message": "Restaurant",
+        "!=1": "Restaurants"
+    },
+    "tag:amenity=pub": {
+        "message": "Kroeg",
+        "!=1": "Kroegen"
+    },
+    "tag:barrier": {
+        "message": "Barrière",
+        "!=1": "Barrières"
+    },
+    "tag:barrier=city_wall": {
+        "message": "Stadsmuur",
+        "!=1": "Stadsmuren"
+    },
+    "tag:barrier=wall": {
+        "message": "Muur",
+        "!=1": "Muren"
+    },
+    "tag:barrier=retaining_wall": {
+        "message": "Keerwand",
+        "!=1": "Keerwanden"
+    },
+    "tag:barrier=fence": {
+        "message": "Omheining",
+        "!=1": "Omheiningen"
+    },
+    "tag:barrier=hedge": {
+        "message": "Heg",
+        "!=1": "Heggen"
+    },
+    "tag:cables": "Kabels",
+    "tag:description": "Description",
+    "tag:fixme": "Herstel mij",
+    "tag:note": "Aantekening",
+    "tag:food": "Serveert eten",
+    "tag:cuisine": "Keuken",
+    "tag:cuisine=regional": "Regionaal",
+    "tag:highway": {
+        "message": "Weg",
+        "!=1": "Wegen"
+    },
+    "tag:highway=motorway": "Autosnelweg",
+    "tag:highway=motorway_link": "Autosnelwegverbinding",
+    "tag:highway=trunk": "Autoweg",
+    "tag:highway=trunk_link": "Autowegverbinding",
+    "tag:highway=primary": "Provinciale weg",
+    "tag:highway=primary_link": "Verbindingsweg",
+    "tag:highway=secondary": "Secundaire weg",
+    "tag:highway=tertiary": "Tertiare weg",
+    "tag:highway=minor": "Kleine weg",
+    "tag:highway=road": "Weg (classificatie onbekend)",
+    "tag:highway=residential": "Woonstraat",
+    "tag:highway=unclassified": "Ongeclassificeerde weg",
+    "tag:highway=service": "Toegangsweg",
+    "tag:highway=pedestrian": "Voetgangersgebied",
+    "tag:highway=living_street": "Woonerf",
+    "tag:highway=path": "Pad",
+    "tag:highway=cycleway": "Fietspad",
+    "tag:highway=footway": "Voetpad",
+    "tag:highway=bridleway": "Ruiterpad",
+    "tag:highway=track": "Veldweg",
+    "tag:highway=steps": "Trappen",
+    "tag:bridge": "Brug",
+    "tag:tunnel": "Tunnel",
+    "tag:traffic_calming": "Verkeersremmer",
+    "tag:service": "Dienstweg attributen",
+    "tag:postal_code": "Postcode",
+    "tag:is_in": "Ligt in",
+    "tag:leisure": "Vrije tijd",
+    "tag:leisure=sports_centre": "Sportcentrum",
+    "tag:leisure=golf_course": "Golfbaan",
+    "tag:leisure=stadium": "Stadion",
+    "tag:leisure=track": "Sportbaan",
+    "tag:leisure=pitch": "Sportveld",
+    "tag:leisure=water_park": "Waterpark",
+    "tag:leisure=marina": "Jachthaven",
+    "tag:leisure=slipway": "Botenhelling",
+    "tag:leisure=fishing": "Visplek",
+    "tag:leisure=nature_reserve": "Natuurreservaat",
+    "tag:leisure=park": "Park",
+    "tag:leisure=playground": "Speelplaats",
+    "tag:leisure=garden": "Tuin",
+    "tag:leisure=common": "Algemeen",
+    "tag:leisure=ice_rink": "IJsbaan",
+    "tag:leisure=miniature_golf": "Midgetgolfbaan",
+    "tag:leisure=swimming_pool": "Zwembad",
+    "tag:leisure=beach_resort": {
+        "description": "message 'tag:leisure=beach_resort' not translated"
+    },
+    "tag:leisure=bird_hide": "Vogelkijkhut",
+    "tag:leisure=sport": "Andere sport",
+    "tag:man_made": "Kunstmatige constructies",
+    "tag:man_made=pipeline": {
+        "message": "Pijpleiding",
+        "!=1": "Pijpleidingen"
+    },
+    "tag:type": "Soort",
+    "tag:type=gas": "Gas",
+    "tag:type=heat": "Stadsverwarming",
+    "tag:type=hot_water": "Heet water",
+    "tag:type=oil": "Olie",
+    "tag:type=sewage": "Rioolwater",
+    "tag:type=water": "Water",
+    "tag:name": {
+        "message": "Naam",
+        "!=1": "Namen"
+    },
+    "tag:alt_name": {
+        "message": "Altenatieve naam",
+        "!=1": "Altenatieve namen"
+    },
+    "tag:official_name": {
+        "message": "Officiële naam",
+        "!=1": "Officiële namen"
+    },
+    "tag:int_name": {
+        "message": "Internationale naam",
+        "!=1": "Internationale namen"
+    },
+    "tag:loc_name": {
+        "message": "Lokale naam",
+        "!=1": "Lokale namen"
+    },
+    "tag:old_name": "Oude naam",
+    "tag:ref": "Referentie",
+    "tag:network": "Netwerk",
+    "tag:opening_hours": "Openingstijden",
+    "tag:operator": "Exploitant",
+    "tag:place": "Plaats",
+    "tag:place=continent": {
+        "message": "Continent",
+        "!=1": "Continenten"
+    },
+    "tag:place=country": {
+        "message": "Land",
+        "!=1": "Landen"
+    },
+    "tag:place=state": {
+        "message": "Staat",
+        "!=1": "Staten"
+    },
+    "tag:place=region": {
+        "message": "Regio",
+        "!=1": "Regio's"
+    },
+    "tag:place=county": {
+        "message": "Provincie",
+        "!=1": "Provincies"
+    },
+    "tag:place=city": {
+        "message": "Stad",
+        "!=1": "Steden"
+    },
+    "tag:place=town": {
+        "message": "Kleine stad",
+        "!=1": "Kleine steden"
+    },
+    "tag:place=village": {
+        "message": "Dorp",
+        "!=1": "Dorpen"
+    },
+    "tag:place=suburb": {
+        "message": "Buitenwijk",
+        "!=1": "Buitenwijken"
+    },
+    "tag:place=hamlet": {
+        "message": "Buurtschap",
+        "!=1": "Buurtschappen"
+    },
+    "tag:place=locality": {
+        "message": "Lokaliteit",
+        "!=1": "Lokaliteiten"
+    },
+    "tag:place=island": {
+        "message": "Eiland",
+        "!=1": "Eilanden"
+    },
+    "tag:place=islet": {
+        "message": "Eilandje",
+        "!=1": "Eilandjes"
+    },
+    "tag:place=ocean": {
+        "message": "Oceaan",
+        "!=1": "Oceanen"
+    },
+    "tag:place=sea": {
+        "message": "Zee",
+        "!=1": "Zeeën"
+    },
+    "tag:population": "Bevolking",
+    "tag:power": "Stroomvoorziening",
+    "tag:power=generator": "Elektriciteitsgenerator",
+    "tag:power=line": "Hoogspanningsleiding",
+    "tag:power=minor_line": "Electriciteitsleiding",
+    "tag:power=tower": "Hoogspanningsmast",
+    "tag:power=pole": "Elektriciteitspaal",
+    "tag:power=station": "Verdeelstation",
+    "tag:power=sub_station": "Transformatorstation",
+    "tag:power_source": "Energiebron",
+    "tag:power_source=biofuel": "Biobrandstof",
+    "tag:power_source=oil": "Olie",
+    "tag:power_source=coal": "Kolen",
+    "tag:power_source=gas": "Aardgas",
+    "tag:power_source=waste": "Afval",
+    "tag:power_source=hydro": "Water",
+    "tag:power_source=tidal": "Getijden",
+    "tag:power_source=wave": "Golven",
+    "tag:power_source=geothermal": "Geothermisch",
+    "tag:power_source=nuclear": "Nucleair",
+    "tag:power_source=fusion": "Fusie",
+    "tag:power_source=wind": "Wind",
+    "tag:power_source=photovoltaic": "Fotovoltaïsch",
+    "tag:power_source=solar-thermal": "Thermische zonne-energie",
+    "tag:railway": "Spoorweg",
+    "tag:railway=rail": {
+        "message": "Spoorbaan",
+        "!=1": "Spoorbanen"
+    },
+    "tag:railway=tram": {
+        "message": "Trambaan",
+        "!=1": "Trambanen"
+    },
+    "tag:railway=platform": {
+        "message": "Perron",
+        "!=1": "Perrons"
+    },
+    "tag:real_ale": "Real Ale aangeboden",
+    "tag:religion": "Religie",
+    "tag:religion=christian": "Christelijk",
+    "tag:religion=buddhist": "Boeddhistisch",
+    "tag:religion=hindu": "Hindoe",
+    "tag:religion=jewish": "Joods",
+    "tag:religion=muslim": "Moslim",
+    "tag:religion=multifaith": "Multireligieus",
+    "tag:denomination": "Denominatie",
+    "tag:route": "Route",
+    "tag:route=train": "Trein",
+    "tag:route=railway": "Spoorweg",
+    "tag:route=rail": "Spoorweg",
+    "tag:route=light_rail": "Sneltram",
+    "tag:route=subway": "Metro",
+    "tag:route=tram": "Tram",
+    "tag:route=tram_bus": "Tram en Bus",
+    "tag:route=trolley": "Trolley",
+    "tag:route=trolleybus": "Trolley",
+    "tag:route=bus": "Bus",
+    "tag:route=minibus": "Minibus",
+    "tag:route=ferry": "Veerboot",
+    "tag:route=road": "Straat",
+    "tag:route=bicycle": "Fiets",
+    "tag:route=hiking": "Wandel",
+    "tag:route=mtb": "Mountainbike",
+    "tag:shop": "Winkel",
+    "tag:sport": "Sport",
+    "tag:sport=9pin": "Kegelen",
+    "tag:sport=10pin": "Bowling",
+    "tag:sport=archery": "Boogschieten",
+    "tag:sport=athletics": "Atletiek",
+    "tag:sport=australian_football": "Australisch voetbal",
+    "tag:sport=baseball": "Honkbal",
+    "tag:sport=basketball": "Basketbal",
+    "tag:sport=beachvolleyball": "Beachvolleybal",
+    "tag:sport=boules": "Petanque",
+    "tag:sport=bowls": "Bowls",
+    "tag:sport=canoe": "Kanovaren",
+    "tag:sport=chess": "Schaken",
+    "tag:sport=climbing": "Klimsport",
+    "tag:sport=cricket": "Cricket",
+    "tag:sport=cricket_nets": "Cricket oefenbaan",
+    "tag:sport=croquet": "Croquet",
+    "tag:sport=cycling": "Wielersport",
+    "tag:sport=diving": "Sportduiken",
+    "tag:sport=dog_racing": "Hondenrennen",
+    "tag:sport=equestrian": "Paardensport",
+    "tag:sport=football": "Football",
+    "tag:sport=golf": "Golf",
+    "tag:sport=gymnastics": "Turnen",
+    "tag:sport=hockey": "Hockey",
+    "tag:sport=horse_racing": "Paardenrennen",
+    "tag:sport=korfball": "Korfbal",
+    "tag:sport=motor": "Motorsport",
+    "tag:sport=multi": "Multi",
+    "tag:sport=orienteering": "Oriëntatieloop",
+    "tag:sport=paddle_tennis": "Paddle tennis",
+    "tag:sport=paragliding": "Paragliding",
+    "tag:sport=pelota": "Pelota",
+    "tag:sport=racquet": "Racquet",
+    "tag:sport=rowing": "Roeien",
+    "tag:sport=rugby": "Rugby",
+    "tag:sport=shooting": "Schietsport",
+    "tag:sport=skating": "Skaten",
+    "tag:sport=skateboard": "Skateboarden",
+    "tag:sport=skiing": "Skiën",
+    "tag:sport=soccer": "Voetbal",
+    "tag:sport=swimming": "Zwemmen",
+    "tag:sport=table_tennis": "Tafeltennis",
+    "tag:sport=team_handball": "Handbal",
+    "tag:sport=tennis": "Tennis",
+    "tag:sport=volleyball": "Volleybal",
+    "tag:tracks": "Sportbanen",
+    "tag:tracks=single": "Enkelvoudig",
+    "tag:tracks=double": "Dubbelvoudig",
+    "tag:tracks=multiple": "Meervoudig",
+    "tag:vending": "Automaat",
+    "tag:voltage": "Voltage",
+    "tag:wires": "Draden",
+    "tag:website": "Website",
+    "tag:cycleway": "Fietspad",
+    "tag:tracktype": "Track type",
+    "tag:waterway": "Waterweg",
+    "tag:aerialway": "Kabelbaab",
+    "tag:public_transport": "Openbaar Vervoer",
+    "tag:office": "Kantoor",
+    "tag:craft": "Ambacht",
+    "tag:emergency": "Noodgeval",
+    "tag:tourism": "Toerisme",
+    "tag:historic": "Historisch",
+    "tag:landuse": "Grondgebruik",
+    "tag:wood": "Soort hout",
+    "tag:military": "Militair",
+    "tag:natural": "Natuur",
+    "tag:geological": "Geologie",
+    "tag:boundary": "Grens",
+    "tag:abutters": {
+        "description": "message 'tag:abutters' not translated"
+    },
+    "tag:lit": "Straatverlichting",
+    "tag:area": "Gebied",
+    "tag:crossing": "Kruising",
+    "tag:mountain_pass": "Bergpas",
+    "tag:cutting": "Landuitsnijding",
+    "tag:embankment": "Dijk",
+    "tag:lanes": "Rijstroken",
+    "tag:layer": "Laag",
+    "tag:surface": "Oppervlak",
+    "tag:smoothness": "Vlakheid",
+    "tag:ele": "Hoogte",
+    "tag:width": "Breedte",
+    "tag:est_width": "Geschatte breedte",
+    "tag:incline": "Hellend",
+    "tag:start_date": "Datum van aanmaak",
+    "tag:end_date": "Datum van verwijdering",
+    "tag:disused": "Niet in gebruik",
+    "tag:wheelchair": "Rolstoel",
+    "tag:wheelchair=limited": "beperkt",
+    "tag:tactile_paving": "Tactiele bestrating",
+    "tag:narrow": "Smal",
+    "tag:covered": "Overdekt",
+    "tag:ford": "Doorwaadbare plaats",
+    "tag:access": "Algemene toegangsrechten",
+    "tag:vehicle": "Toegangsrechten voor alle voertuigen",
+    "tag:bicycle": "Toegangsrechten voor rijwielen zonder hulpmotor",
+    "tag:foot": "Toegangsrechten voor voetgangers ",
+    "tag:goods": "Toegangsrechten voor vrachtverkeer",
+    "tag:hgv": "Toegangsrechten voor zwaar vrachtverkeer",
+    "tag:horse": "Toegangsrechten voor ruiters",
+    "tag:motorcycle": "Toegangsrechten voor motorfietsen",
+    "tag:motorcar": "Toegangsrechten voor gemotoriseerd (auto) verkeer",
+    "tag:psv": "Toegangsrechten voor openbaar vervoer",
+    "tag:oneway": "Eenrichtingsverkeer",
+    "tag:noexit": "Doodlopende straat",
+    "tag:maxweight": "Max. gewicht",
+    "tag:maxheight": "Max. hoogte",
+    "tag:maxlength": "Max. lengte",
+    "tag:maxspeed": "Max. snelheid",
+    "tag:minspeed": "Min. snelheid",
+    "tag:traffic_sign": "Verkeersbord",
+    "tag:toll": "Tol",
+    "tag:charge": "Kosten",
+    "tag:source": "Bron",
+    "tag:phone": "Telefoonnummer",
+    "tag:fax": "Faxnummer",
+    "tag:email": "E-mail",
+    "tag:wikipedia": "Wikipedia",
+    "tag:created_by": "Gecreëerd door",
+    "tag:construction": "Constructie",
+    "tag:proposed": "Voorgesteld",
+    "tag:route_type": "Soort route"
+}

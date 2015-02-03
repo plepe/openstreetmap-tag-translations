@@ -1,0 +1,494 @@
+{
+    "tag:*=yes": "ja",
+    "tag:*=no": "nein",
+    "tag:accomodation": "Unterkunft",
+    "tag:address": "Adresse",
+    "tag:addr:housenumber": "Hausnummer",
+    "tag:addr:housename": {
+        "message": "Hausname",
+        "!=1": "Hausnamen"
+    },
+    "tag:addr:street": {
+        "message": "Straße",
+        "!=1": "Straßen"
+    },
+    "tag:addr:postcode": {
+        "message": "Postleitzahl",
+        "!=1": "Postleitzahlen"
+    },
+    "tag:addr:city": {
+        "message": "Stadt",
+        "!=1": "Städte"
+    },
+    "tag:addr:country": {
+        "message": "Land",
+        "!=1": "Länder"
+    },
+    "tag:addr:full": {
+        "message": "komplette Adresse",
+        "!=1": "komplette Adressen"
+    },
+    "tag:addr:interpolation": "Interpolierte Hausnummern",
+    "tag:aeroway": "Luftverkehr",
+    "tag:aeroway=runway": "Start- und Landebahn",
+    "tag:aeroway=taxiway": "Rollbahn",
+    "tag:admin_level=2": "Staat",
+    "tag:admin_level=3": "Divisionen",
+    "tag:admin_level=4": "Land",
+    "tag:admin_level=5": "Regierungsbezirk",
+    "tag:admin_level=6": "Kreis",
+    "tag:admin_level=8": "Stadt und Gemeinde",
+    "tag:admin_level=10": "Stadtteil",
+    "tag:amenity": {
+        "message": "Einrichtung",
+        "!=1": "Einrichtungen"
+    },
+    "tag:amenity=cinema": {
+        "message": "Kino",
+        "!=1": "Kinos"
+    },
+    "tag:amenity=restaurant": {
+        "message": "Restaurant",
+        "!=1": "Restaurants"
+    },
+    "tag:amenity=pub": {
+        "message": "Pub",
+        "!=1": "Pubs"
+    },
+    "tag:barrier": {
+        "message": "Barriere",
+        "!=1": "Barrieren"
+    },
+    "tag:barrier=city_wall": {
+        "message": "Stadtmauer",
+        "!=1": "Stadtmauern"
+    },
+    "tag:barrier=wall": {
+        "message": "Mauer",
+        "!=1": "Mauern"
+    },
+    "tag:barrier=retaining_wall": {
+        "message": "Stützmauer",
+        "!=1": "Stützmauern"
+    },
+    "tag:barrier=fence": {
+        "message": "Zaun",
+        "!=1": "Zäune"
+    },
+    "tag:barrier=hedge": {
+        "message": "Hecke",
+        "!=1": "Hecken"
+    },
+    "tag:cables": "Stromkabel",
+    "tag:description": "Beschreibung",
+    "tag:fixme": "korrigiere mich",
+    "tag:note": "Anmerkung",
+    "tag:food": "Essen",
+    "tag:cuisine": "Küche",
+    "tag:cuisine=regional": "regional",
+    "tag:highway": {
+        "message": "Straße",
+        "!=1": "Straßen"
+    },
+    "tag:highway=motorway": "Autobahn",
+    "tag:highway=motorway_link": "Autobahnanschluss",
+    "tag:highway=trunk": "Fernstraße",
+    "tag:highway=trunk_link": "Anschluss",
+    "tag:highway=primary": "Bundesstraße",
+    "tag:highway=primary_link": "Anschluss",
+    "tag:highway=secondary": "Staats- oder Kreisstraße",
+    "tag:highway=tertiary": "Kreisstraße",
+    "tag:highway=minor": "Kleinere Straße",
+    "tag:highway=road": "Straße",
+    "tag:highway=residential": "Wohnstraße",
+    "tag:highway=unclassified": "Unklassifizierte Straße",
+    "tag:highway=service": "Erschließungsstraße",
+    "tag:highway=pedestrian": "Fußgängerzone",
+    "tag:highway=living_street": "Verkehrsberuhigter Bereich",
+    "tag:highway=path": "Weg\/Pfad",
+    "tag:highway=cycleway": "Radweg",
+    "tag:highway=footway": "Fußweg",
+    "tag:highway=bridleway": "Reitweg",
+    "tag:highway=track": "Feld-\/Waldweg",
+    "tag:highway=steps": "Stufen",
+    "tag:bridge": "Brücke",
+    "tag:tunnel": "Tunnel",
+    "tag:traffic_calming": "Bremsschwelle",
+    "tag:service": "Zufahrtsweg",
+    "tag:postal_code": "Postleitzahl",
+    "tag:is_in": "ist in",
+    "tag:leisure": "Freizeit",
+    "tag:leisure=sports_centre": "Sportzentrum",
+    "tag:leisure=golf_course": "Golfplatz",
+    "tag:leisure=stadium": "Stadion",
+    "tag:leisure=track": "Laufbahn",
+    "tag:leisure=pitch": "Spielfeld",
+    "tag:leisure=water_park": "Schwimmbad",
+    "tag:leisure=marina": "Jachthafen",
+    "tag:leisure=slipway": "Slipanlage",
+    "tag:leisure=fishing": "Angeln",
+    "tag:leisure=nature_reserve": "Naturschutzgebiet",
+    "tag:leisure=park": "Freizeitpark",
+    "tag:leisure=playground": "Spielplatz",
+    "tag:leisure=garden": "Garten",
+    "tag:leisure=common": "Common",
+    "tag:leisure=ice_rink": "Eislaufbahn",
+    "tag:leisure=miniature_golf": "Minigolf",
+    "tag:leisure=swimming_pool": "Schwimmbecken",
+    "tag:leisure=beach_resort": "Seebad",
+    "tag:leisure=bird_hide": "Vogelbeobachtungshütte",
+    "tag:leisure=sport": "Anderer Sport",
+    "tag:man_made": "Menschgeschaffenes",
+    "tag:man_made=pipeline": {
+        "message": "Pipeline",
+        "!=1": "Pipelines"
+    },
+    "tag:type": "Typ",
+    "tag:type=gas": "Gas",
+    "tag:type=heat": "Fernwärme",
+    "tag:type=hot_water": "Heißes Wasser",
+    "tag:type=oil": "Öl",
+    "tag:type=sewage": "Abwasser",
+    "tag:type=water": "Wasser",
+    "tag:name": {
+        "message": "Name",
+        "!=1": "Namen"
+    },
+    "tag:alt_name": {
+        "message": "Alternativer Name",
+        "!=1": " Alternative Namen"
+    },
+    "tag:official_name": {
+        "message": "Offizieller Name",
+        "!=1": "Offizielle Namen"
+    },
+    "tag:int_name": {
+        "message": "Internationaler Name",
+        "!=1": "Internationale Namen"
+    },
+    "tag:loc_name": {
+        "message": "Lokaler Name",
+        "!=1": " Lokale Namen"
+    },
+    "tag:old_name": "Alte Bezeichnung(en)",
+    "tag:ref": "Referenz",
+    "tag:network": "Netzwerk",
+    "tag:opening_hours": "Öffnungszeiten",
+    "tag:operator": "Betreiber",
+    "tag:place": {
+        "message": "Ort",
+        "!=1": "Orte"
+    },
+    "tag:place=continent": {
+        "message": "Kontinent",
+        "!=1": "Kontinente"
+    },
+    "tag:place=country": {
+        "message": "Land",
+        "!=1": "Länder"
+    },
+    "tag:place=state": {
+        "message": "Staat",
+        "!=1": "Staaten"
+    },
+    "tag:place=region": {
+        "message": "Region",
+        "!=1": "Regionen"
+    },
+    "tag:place=county": {
+        "message": "Bezirk",
+        "!=1": "Bezirke"
+    },
+    "tag:place=city": {
+        "message": "Stadt",
+        "!=1": "Städte"
+    },
+    "tag:place=town": {
+        "message": "Kleinstadt",
+        "!=1": "Kleinstädte"
+    },
+    "tag:place=village": {
+        "message": "Dorf",
+        "!=1": "Dörfer"
+    },
+    "tag:place=suburb": {
+        "message": "Vorort",
+        "!=1": "Vororte"
+    },
+    "tag:place=hamlet": "Weiler",
+    "tag:place=locality": {
+        "message": "Lokalität",
+        "!=1": "Lokalitäten"
+    },
+    "tag:place=island": {
+        "message": "Insel",
+        "!=1": "Inseln"
+    },
+    "tag:place=islet": "Inselchen",
+    "tag:place=ocean": {
+        "message": "Ozean",
+        "!=1": "Ozeane"
+    },
+    "tag:place=sea": {
+        "message": "Meer",
+        "!=1": "Meere"
+    },
+    "tag:population": "Einwohner",
+    "tag:power": "Strom",
+    "tag:power=generator": "Kraftwerk",
+    "tag:power=line": "Überlandleitung",
+    "tag:power=minor_line": "Freileitung",
+    "tag:power=tower": "Freileitungsmast",
+    "tag:power=pole": "Strommast",
+    "tag:power=station": "Umspannwerk",
+    "tag:power=sub_station": "Umspannstation",
+    "tag:power_source": "Energiequelle",
+    "tag:power_source=biofuel": "Bioethanol",
+    "tag:power_source=oil": "Erdöl",
+    "tag:power_source=coal": "Kohle",
+    "tag:power_source=gas": "Gas",
+    "tag:power_source=waste": "Abfall",
+    "tag:power_source=hydro": "Wasser",
+    "tag:power_source=tidal": "Gezeiten",
+    "tag:power_source=wave": "Wellen",
+    "tag:power_source=geothermal": "Geothermisch",
+    "tag:power_source=nuclear": "Nuklear",
+    "tag:power_source=fusion": "Fusion",
+    "tag:power_source=wind": "Wind",
+    "tag:power_source=photovoltaic": "Photovoltaik",
+    "tag:power_source=solar-thermal": "Solarthermisch",
+    "tag:railway": "Eisenbahn",
+    "tag:railway=rail": {
+        "message": "Gleis",
+        "!=1": "Gleise"
+    },
+    "tag:railway=tram": {
+        "message": "Straßenbahn",
+        "!=1": "Straßenbahnen"
+    },
+    "tag:railway=platform": {
+        "message": "Bahnsteig",
+        "!=1": "Bahnsteige"
+    },
+    "tag:real_ale": "Richtiges Bier angeboten",
+    "tag:religion": {
+        "message": "Religion",
+        "!=1": "Religionen",
+        "gender": "female"
+    },
+    "tag:religion=christian": "christlich",
+    "tag:religion=buddhist": "buddhistisch",
+    "tag:religion=hindu": "hindisch",
+    "tag:religion=jewish": "jüdisch",
+    "tag:religion=muslim": "muslimisch",
+    "tag:religion=multifaith": "multikonfessionell",
+    "tag:denomination": "Konfession",
+    "tag:denomination=anglican": "anglikanisch",
+    "tag:denomination=baptist": "baptistisch",
+    "tag:denomination=catholic": "katholisch",
+    "tag:denomination=greek_orthodox": "griechisch-orthodox",
+    "tag:denomination=lutheran": "evangelisch-lutheranisch",
+    "tag:denomination=orthodox": "orthodox",
+    "tag:denomination=old-catholic": "altkatholisch",
+    "tag:denomination=protestant": "evangelisch",
+    "tag:denomination=roman_catholic": "römisch-katholisch",
+    "tag:denomination=russian_orthodox": "russisch-orthodox",
+    "tag:denomination=united_reformed": "vereinigt-reformiert",
+    "tag:route": "Route",
+    "tag:route=train": "Zug",
+    "tag:route=railway": "Eisenbahn",
+    "tag:route=rail": "Eisenbahn",
+    "tag:route=light_rail": "Stadtbahn",
+    "tag:route=subway": "U-Bahn",
+    "tag:route=tram": "Straßenbahn",
+    "tag:route=tram_bus": "Straßenbahn und Bus",
+    "tag:route=trolley": "O-Bus",
+    "tag:route=trolleybus": "O-Bus",
+    "tag:route=bus": "Bus",
+    "tag:route=minibus": "Minibus",
+    "tag:route=ferry": "Fähre",
+    "tag:route=road": "Straße",
+    "tag:route=bicycle": "Fahrrad",
+    "tag:route=hiking": "Wandern",
+    "tag:route=mtb": "Mountainbike",
+    "tag:shop": "Geschäft",
+    "tag:shop=chemist": "Drogerie",
+    "tag:sport": "Sport",
+    "tag:sport=9pin": "Kegeln",
+    "tag:sport=10pin": "Bowling",
+    "tag:sport=archery": "Bogenschießen",
+    "tag:sport=athletics": "Leichtathletik",
+    "tag:sport=australian_football": "Australischer Football",
+    "tag:sport=baseball": "Baseball",
+    "tag:sport=basketball": "Basketball",
+    "tag:sport=beachvolleyball": "Beachvolleyball",
+    "tag:sport=boules": "Boule",
+    "tag:sport=bowls": "Bowls",
+    "tag:sport=canoe": "Kanu",
+    "tag:sport=chess": "Schach",
+    "tag:sport=climbing": "Klettern",
+    "tag:sport=cricket": "Cricket",
+    "tag:sport=cricket_nets": "Cricket Netze",
+    "tag:sport=croquet": "Croquet",
+    "tag:sport=cycling": "Radsport",
+    "tag:sport=diving": "Tauchen",
+    "tag:sport=dog_racing": "Hunderennen",
+    "tag:sport=equestrian": "Pferdesport",
+    "tag:sport=football": "Fußball",
+    "tag:sport=golf": "Golf",
+    "tag:sport=gymnastics": "Turnen",
+    "tag:sport=hockey": "Hockey",
+    "tag:sport=horse_racing": "Pferderennen",
+    "tag:sport=korfball": "Korfball",
+    "tag:sport=motor": "Motorsport",
+    "tag:sport=multi": "Diverse",
+    "tag:sport=orienteering": "Orientierungslauf",
+    "tag:sport=paddle_tennis": "Paddel-Tennis",
+    "tag:sport=paragliding": "Paragliding",
+    "tag:sport=pelota": "Pelota",
+    "tag:sport=racquet": "Racquetball",
+    "tag:sport=rowing": "Rudern",
+    "tag:sport=rugby": "Rugby",
+    "tag:sport=shooting": "Schießen",
+    "tag:sport=skating": "Skating",
+    "tag:sport=skateboard": "Skateboard",
+    "tag:sport=skiing": "Ski",
+    "tag:sport=soccer": "Fußball",
+    "tag:sport=swimming": "Schwimmen",
+    "tag:sport=table_tennis": "Tischtennis",
+    "tag:sport=team_handball": "Handball",
+    "tag:sport=tennis": "Tennis",
+    "tag:sport=volleyball": "Volleyball",
+    "tag:tracks": "Gleise",
+    "tag:tracks=single": "eingleisig",
+    "tag:tracks=double": "doppelgleisig",
+    "tag:tracks=multiple": "mehrgleisig",
+    "tag:vending": "Automatenverkauf",
+    "tag:voltage": "Spannung",
+    "tag:wires": "Kabel",
+    "tag:website": "Webseite",
+    "tag:cycleway": "Fahrradweg",
+    "tag:tracktype": "Wegtyp",
+    "tag:waterway": "Wasserweg",
+    "tag:aerialway": "Lift",
+    "tag:public_transport": "Öffentliche Verkehrsmittel",
+    "tag:office": "Büro",
+    "tag:craft": "Handwerk",
+    "tag:emergency": "Notaufnahme",
+    "tag:tourism": "Touristisch",
+    "tag:historic": "Geschichtlich",
+    "tag:landuse": "Landnutzung",
+    "tag:wood": "Holzart",
+    "tag:military": "Militärisch",
+    "tag:natural": "Natur",
+    "tag:natural=beach": "Strand",
+    "tag:natural=glacier": "Gletscher",
+    "tag:natural=cliff": "Klippe",
+    "tag:natural=spring": "Quelle",
+    "tag:natural=volcano": "Vulkan",
+    "tag:natural=wood": "Urwald",
+    "tag:natural=tree": "Baum",
+    "tag:geological": {
+        "description": "message 'tag:geological' not translated"
+    },
+    "tag:boundary": "Grenze",
+    "tag:abutters": {
+        "description": "message 'tag:abutters' not translated"
+    },
+    "tag:lit": "Straßenbeleuchtung",
+    "tag:area": "Gebiet",
+    "tag:crossing": {
+        "description": "message 'tag:crossing' not translated"
+    },
+    "tag:mountain_pass": "Gebirgspass",
+    "tag:cutting": {
+        "description": "message 'tag:cutting' not translated"
+    },
+    "tag:embankment": {
+        "description": "message 'tag:embankment' not translated"
+    },
+    "tag:lanes": {
+        "description": "message 'tag:lanes' not translated"
+    },
+    "tag:layer": "Ebene",
+    "tag:surface": {
+        "description": "message 'tag:surface' not translated"
+    },
+    "tag:smoothness": {
+        "description": "message 'tag:smoothness' not translated"
+    },
+    "tag:ele": "Höhe",
+    "tag:width": "Breite",
+    "tag:est_width": {
+        "description": "message 'tag:est_width' not translated"
+    },
+    "tag:incline": {
+        "description": "message 'tag:incline' not translated"
+    },
+    "tag:start_date": "Anfangsdatum",
+    "tag:end_date": "Enddatum",
+    "tag:disused": {
+        "description": "message 'tag:disused' not translated"
+    },
+    "tag:wheelchair": {
+        "description": "message 'tag:wheelchair' not translated"
+    },
+    "tag:wheelchair=limited": {
+        "description": "message 'tag:wheelchair=limited' not translated"
+    },
+    "tag:tactile_paving": {
+        "description": "message 'tag:tactile_paving' not translated"
+    },
+    "tag:narrow": "Eng",
+    "tag:covered": {
+        "description": "message 'tag:covered' not translated"
+    },
+    "tag:ford": {
+        "description": "message 'tag:ford' not translated"
+    },
+    "tag:access": "Allgemeine Zugangserlaubnis",
+    "tag:vehicle": "Fahrzeugzugangserlaubnis",
+    "tag:bicycle": "Fahrradzugangserlaubnis",
+    "tag:foot": {
+        "description": "message 'tag:foot' not translated"
+    },
+    "tag:goods": {
+        "description": "message 'tag:goods' not translated"
+    },
+    "tag:hgv": {
+        "description": "message 'tag:hgv' not translated"
+    },
+    "tag:horse": {
+        "description": "message 'tag:horse' not translated"
+    },
+    "tag:motorcycle": {
+        "description": "message 'tag:motorcycle' not translated"
+    },
+    "tag:motorcar": {
+        "description": "message 'tag:motorcar' not translated"
+    },
+    "tag:psv": {
+        "description": "message 'tag:psv' not translated"
+    },
+    "tag:oneway": "Einbahnstraße",
+    "tag:noexit": "Sackgasse",
+    "tag:maxweight": "Gewichtsbegrenzung",
+    "tag:maxheight": "Höhenbegrenzung",
+    "tag:maxlength": "Längenbegrenzung",
+    "tag:maxspeed": "Höchstgeschwindigkeit",
+    "tag:minspeed": "Mindestgeschwindigkeit",
+    "tag:traffic_sign": "Verkehrszeichen",
+    "tag:toll": "Maut",
+    "tag:charge": {
+        "description": "message 'tag:charge' not translated"
+    },
+    "tag:source": "Quelle",
+    "tag:phone": "Telefonnummer",
+    "tag:fax": "Faxnummer",
+    "tag:email": "E-Mail",
+    "tag:wikipedia": "Wikipedia",
+    "tag:created_by": "Erstellt von",
+    "tag:construction": "In Bau",
+    "tag:proposed": "In Planung",
+    "tag:route_type": "Routentyp"
+}

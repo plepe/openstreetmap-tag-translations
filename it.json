@@ -1,0 +1,429 @@
+{
+    "tag:*=yes": "si",
+    "tag:*=no": "no",
+    "tag:accomodation": "Alloggio",
+    "tag:address": "Indirizzo",
+    "tag:addr:housenumber": {
+        "message": "Numero civico",
+        "!=1": "Numeri civici"
+    },
+    "tag:addr:housename": {
+        "message": "Nome dell'edificio",
+        "!=1": "Nomi degli edifici"
+    },
+    "tag:addr:street": {
+        "message": "Via",
+        "!=1": "Vie"
+    },
+    "tag:addr:postcode": {
+        "message": "Codice di avviamento postale",
+        "!=1": "Codici di avviamento postale"
+    },
+    "tag:addr:city": {
+        "message": "Città",
+        "!=1": "Città"
+    },
+    "tag:addr:country": {
+        "message": "Nazione",
+        "!=1": "Nazioni"
+    },
+    "tag:addr:full": {
+        "message": "Indirizzo completo",
+        "!=1": "Indirizzi completi"
+    },
+    "tag:addr:interpolation": "Numeri civici interpolati",
+    "tag:aeroway": "Traffico aereo",
+    "tag:aeroway=runway": "Pista di decollo o atterraggio",
+    "tag:aeroway=taxiway": "Pista di rullaggio",
+    "tag:admin_level=2": "Confine nazionale",
+    "tag:admin_level=3": "Divisions",
+    "tag:admin_level=4": "Confine regionale",
+    "tag:admin_level=5": "Community Border",
+    "tag:admin_level=6": "Confine provinciale",
+    "tag:admin_level=8": "Confine comunale",
+    "tag:admin_level=10": "Confine di circoscrizione o di località",
+    "tag:amenity": "Strutture di servizio",
+    "tag:amenity=cinema": {
+        "message": "Cinema",
+        "!=1": "Cinema"
+    },
+    "tag:amenity=restaurant": {
+        "message": "Ristorante",
+        "!=1": "Ristoranti"
+    },
+    "tag:amenity=pub": {
+        "message": "Pub",
+        "!=1": "Pub"
+    },
+    "tag:barrier": {
+        "message": "Barriera",
+        "!=1": "Barriere"
+    },
+    "tag:barrier=city_wall": {
+        "message": "Mura cittadine",
+        "!=1": "Mura cittadine"
+    },
+    "tag:barrier=wall": {
+        "message": "Muro",
+        "!=1": "Muri"
+    },
+    "tag:barrier=retaining_wall": {
+        "message": "Muro di contenimento",
+        "!=1": "Muri di contenimento"
+    },
+    "tag:barrier=fence": {
+        "message": "Recinzione",
+        "!=1": "Recinzioni"
+    },
+    "tag:barrier=hedge": {
+        "message": "Siepe",
+        "!=1": "Siepi"
+    },
+    "tag:cables": "Cavi elettrici",
+    "tag:description": "Descrizione",
+    "tag:fixme": "Da rivedere",
+    "tag:note": "Annotazione",
+    "tag:food": "Serve vivande",
+    "tag:cuisine": "Cucina",
+    "tag:cuisine=regional": "regionale",
+    "tag:highway": {
+        "message": "Strada",
+        "!=1": "Strade"
+    },
+    "tag:highway=motorway": "Autostrada",
+    "tag:highway=motorway_link": "Rampe e svincoli di raccordo autostradale",
+    "tag:highway=trunk": "Superstrada",
+    "tag:highway=trunk_link": "Rampe e svincoli di raccordo di superstrada",
+    "tag:highway=primary": "Strada di importanza nazionale",
+    "tag:highway=primary_link": "Rampe e svincoli di raccordo di strada di importanza nazionale",
+    "tag:highway=secondary": "Strada di importanza provinciale",
+    "tag:highway=tertiary": "Strada locale importante o strada urbana a scorrimento veloce",
+    "tag:highway=minor": "Strada secondaria",
+    "tag:highway=road": "Strada",
+    "tag:highway=residential": "Strada residenziale",
+    "tag:highway=unclassified": "Strada urbana o extraurbana poco importante",
+    "tag:highway=service": "Strada di servizio",
+    "tag:highway=pedestrian": "Zona pedonale",
+    "tag:highway=living_street": "Zona a traffico limitato",
+    "tag:highway=path": "Sentieri\/Passaggi",
+    "tag:highway=cycleway": "Pista ciclabile",
+    "tag:highway=footway": "Pista pedonale",
+    "tag:highway=bridleway": "Pista per cavalli",
+    "tag:highway=track": "Strada agricola o forestale",
+    "tag:highway=steps": "Scala\/Gradini",
+    "tag:bridge": "Ponte",
+    "tag:tunnel": "Tunnel",
+    "tag:traffic_calming": "Rallentatore del traffico",
+    "tag:service": "Tipo di strada di servizio",
+    "tag:postal_code": "Codice di avviamento postale",
+    "tag:is_in": "è in",
+    "tag:leisure": "Tempo libero",
+    "tag:leisure=sports_centre": "Centro sportivo",
+    "tag:leisure=golf_course": "Campo di golf",
+    "tag:leisure=stadium": "Stadio",
+    "tag:leisure=track": "Pista",
+    "tag:leisure=pitch": "Campo da gioco",
+    "tag:leisure=water_park": "Parco acquatico",
+    "tag:leisure=marina": "Porticciolo turistico",
+    "tag:leisure=slipway": "Scalo di alaggio",
+    "tag:leisure=fishing": "Pesca",
+    "tag:leisure=nature_reserve": "Riserva naturale",
+    "tag:leisure=park": "Parco",
+    "tag:leisure=playground": "Area giochi",
+    "tag:leisure=garden": "Giardino",
+    "tag:leisure=common": "Area pubblica",
+    "tag:leisure=ice_rink": "Pista da pattinaggio su ghiaccio",
+    "tag:leisure=miniature_golf": "Minigolf",
+    "tag:leisure=swimming_pool": "Piscina",
+    "tag:leisure=beach_resort": "Stabilimento balneare",
+    "tag:leisure=bird_hide": "Capanno per birdwatching",
+    "tag:leisure=sport": "Altri sport",
+    "tag:man_made": "Manufatti",
+    "tag:man_made=pipeline": {
+        "message": "Conduttura",
+        "!=1": "Condutture"
+    },
+    "tag:type": "Tipo",
+    "tag:type=gas": "Gas",
+    "tag:type=heat": "Teleriscaldamento",
+    "tag:type=hot_water": "Acqua calda",
+    "tag:type=oil": "Petrolio",
+    "tag:type=sewage": "Acque di scarico",
+    "tag:type=water": "Acqua",
+    "tag:name": {
+        "message": "Nome",
+        "!=1": "Nomi"
+    },
+    "tag:alt_name": {
+        "message": "Nome alternativo",
+        "!=1": "Nomi alternativi"
+    },
+    "tag:official_name": {
+        "message": "Nome ufficiale",
+        "!=1": "Nomi ufficiali"
+    },
+    "tag:int_name": {
+        "message": "Nome internazionale",
+        "!=1": "Nomi internazionali"
+    },
+    "tag:loc_name": {
+        "message": "Nome locale",
+        "!=1": "Nomi locali"
+    },
+    "tag:old_name": {
+        "message": "Nome storico o precedente",
+        "!=1": "Nomi storici o precedenti"
+    },
+    "tag:ref": "Riferimento",
+    "tag:network": "Rete",
+    "tag:opening_hours": "Orario di apertura",
+    "tag:operator": "Gestore",
+    "tag:place": "Luogo",
+    "tag:place=continent": {
+        "message": "Continente",
+        "!=1": "Continenti"
+    },
+    "tag:place=country": {
+        "message": "Stato",
+        "!=1": "Stati"
+    },
+    "tag:place=state": {
+        "message": "Regione",
+        "!=1": "Regioni"
+    },
+    "tag:place=region": {
+        "message": "Provincia",
+        "!=1": "Province"
+    },
+    "tag:place=county": {
+        "message": "Circoscrizione",
+        "!=1": "Circoscrizioni"
+    },
+    "tag:place=city": {
+        "message": "Città",
+        "!=1": "Città"
+    },
+    "tag:place=town": {
+        "message": "Cittadina",
+        "!=1": "Cittadine"
+    },
+    "tag:place=village": {
+        "message": "Paese",
+        "!=1": "Paesi"
+    },
+    "tag:place=suburb": {
+        "message": "Sobborgo",
+        "!=1": "Sobborghi"
+    },
+    "tag:place=hamlet": {
+        "message": "Borgo",
+        "!=1": "Borghi"
+    },
+    "tag:place=locality": {
+        "message": "Località",
+        "!=1": "Località"
+    },
+    "tag:place=island": {
+        "message": "Isola",
+        "!=1": "Isole"
+    },
+    "tag:place=islet": {
+        "message": "Isolotto",
+        "!=1": "Isolotti"
+    },
+    "tag:place=ocean": {
+        "message": "Oceano",
+        "!=1": "Oceani"
+    },
+    "tag:place=sea": {
+        "message": "Mare",
+        "!=1": "Mari"
+    },
+    "tag:population": "Popolazione",
+    "tag:power": "Energia elettrica",
+    "tag:power=generator": "Centrale elettrica",
+    "tag:power=line": "Elettrodotto",
+    "tag:power=minor_line": "Linea elettrica secondaria",
+    "tag:power=tower": "Traliccio dell'alta tensione",
+    "tag:power=pole": "Pilone o palo",
+    "tag:power=station": "Stazione di trasformazione",
+    "tag:power=sub_station": "Sottostazione di trasformazione",
+    "tag:power_source": "Fonte di energia",
+    "tag:power_source=biofuel": "Biocarburante",
+    "tag:power_source=oil": "Petrolio",
+    "tag:power_source=coal": "Carbone",
+    "tag:power_source=gas": "Gas",
+    "tag:power_source=waste": "Rifiuti",
+    "tag:power_source=hydro": "Idroelettrica",
+    "tag:power_source=tidal": "Marea",
+    "tag:power_source=wave": "Onde",
+    "tag:power_source=geothermal": "Geotermica",
+    "tag:power_source=nuclear": "Nucleare",
+    "tag:power_source=fusion": "Fusione",
+    "tag:power_source=wind": "Vento",
+    "tag:power_source=photovoltaic": "Fotovoltaica",
+    "tag:power_source=solar-thermal": "Energia termica solare",
+    "tag:railway": "Ferrovia",
+    "tag:railway=rail": {
+        "message": "Ferrovia",
+        "!=1": "Ferrovie"
+    },
+    "tag:railway=tram": {
+        "message": "Tram",
+        "!=1": "Tram"
+    },
+    "tag:railway=platform": {
+        "message": "Banchina",
+        "!=1": "Banchine"
+    },
+    "tag:real_ale": "Birra autentica in offerta",
+    "tag:religion": "Religione",
+    "tag:religion=christian": "Cristiana",
+    "tag:religion=buddhist": "Buddista",
+    "tag:religion=hindu": "Indù",
+    "tag:religion=jewish": "Ebraica",
+    "tag:religion=muslim": "Mussulmana",
+    "tag:religion=multifaith": "Più religioni",
+    "tag:denomination": "Confessione",
+    "tag:route": "Linea",
+    "tag:route=train": "Treno",
+    "tag:route=railway": "Ferrovia",
+    "tag:route=rail": "Ferrovia",
+    "tag:route=light_rail": "Metropolitana leggera",
+    "tag:route=subway": "Metropolitana",
+    "tag:route=tram": "Tram",
+    "tag:route=tram_bus": "Tram e autobus",
+    "tag:route=trolley": "Filobus",
+    "tag:route=trolleybus": "Filobus",
+    "tag:route=bus": "Autobus",
+    "tag:route=minibus": "Minibus",
+    "tag:route=ferry": "Traghetto",
+    "tag:route=road": "Strada",
+    "tag:route=bicycle": "Bicicletta",
+    "tag:route=hiking": "Camminate",
+    "tag:route=mtb": "Mountain bike",
+    "tag:shop": "Esercizio commerciale",
+    "tag:sport": "Sport",
+    "tag:sport=9pin": "Bowling a 9 birilli",
+    "tag:sport=10pin": "Bowling a 10 birilli",
+    "tag:sport=archery": "Tiro con l'arco",
+    "tag:sport=athletics": "Atletica leggera",
+    "tag:sport=australian_football": "Football australiano",
+    "tag:sport=baseball": "Baseball",
+    "tag:sport=basketball": "Pallacanestro",
+    "tag:sport=beachvolleyball": "Beach volley",
+    "tag:sport=boules": "Boules",
+    "tag:sport=bowls": "Bowls",
+    "tag:sport=canoe": "Canoa",
+    "tag:sport=chess": "Scacchi",
+    "tag:sport=climbing": "Arrampicata",
+    "tag:sport=cricket": "Cricket",
+    "tag:sport=cricket_nets": "Cricket Nets",
+    "tag:sport=croquet": "Croquet",
+    "tag:sport=cycling": "Ciclismo",
+    "tag:sport=diving": "Immersione sportiva",
+    "tag:sport=dog_racing": "Corse di cani",
+    "tag:sport=equestrian": "Equitazione",
+    "tag:sport=football": "Football",
+    "tag:sport=golf": "Golf",
+    "tag:sport=gymnastics": "Ginnastica",
+    "tag:sport=hockey": "Hockey",
+    "tag:sport=horse_racing": "Ippica",
+    "tag:sport=korfball": "Pallacesto",
+    "tag:sport=motor": "Sport motoristici",
+    "tag:sport=multi": "Più discipline sportive",
+    "tag:sport=orienteering": "Orientamento",
+    "tag:sport=paddle_tennis": "Paddle Tennis",
+    "tag:sport=paragliding": "Parapendio",
+    "tag:sport=pelota": "Pelota basca",
+    "tag:sport=racquet": "Racquetball",
+    "tag:sport=rowing": "Canottaggio",
+    "tag:sport=rugby": "Rugby",
+    "tag:sport=shooting": "Tiro a segno",
+    "tag:sport=skating": "Pattinaggio",
+    "tag:sport=skateboard": "Skateboard",
+    "tag:sport=skiing": "Sci",
+    "tag:sport=soccer": "Calcio",
+    "tag:sport=swimming": "Nuoto",
+    "tag:sport=table_tennis": "Ping-Pong",
+    "tag:sport=team_handball": "Pallamano",
+    "tag:sport=tennis": "Tennis",
+    "tag:sport=volleyball": "Pallovolo",
+    "tag:tracks": "Corsie",
+    "tag:tracks=single": "Singola",
+    "tag:tracks=double": "Doppia",
+    "tag:tracks=multiple": "Multipla",
+    "tag:vending": "Distributore automatico",
+    "tag:voltage": "Tensione",
+    "tag:wires": "Cavi",
+    "tag:website": "Sito web",
+    "tag:cycleway": "Pista ciclabile",
+    "tag:tracktype": "Tipo di pista",
+    "tag:waterway": "Corso d'acqua",
+    "tag:aerialway": "Impianti a fune",
+    "tag:public_transport": "Trasporti pubblici",
+    "tag:office": "Ufficio",
+    "tag:craft": "Artigiani",
+    "tag:emergency": "Servizi d'emergenza",
+    "tag:tourism": "Turismo",
+    "tag:historic": "Storico",
+    "tag:landuse": "Uso del suolo",
+    "tag:wood": "Tipo di essenza",
+    "tag:military": "Militare",
+    "tag:natural": "Naturale",
+    "tag:geological": "Geologico",
+    "tag:boundary": "Confine",
+    "tag:abutters": "Frontisti",
+    "tag:lit": "Illuminazione stradale",
+    "tag:area": "Area",
+    "tag:crossing": "Attraversamento",
+    "tag:mountain_pass": "Passo alpino",
+    "tag:cutting": "Taglio",
+    "tag:embankment": "Terrapieno",
+    "tag:lanes": "Corsie",
+    "tag:layer": "Livello",
+    "tag:surface": "Superficie",
+    "tag:smoothness": "Scorrevolezza",
+    "tag:ele": "Altitudine",
+    "tag:width": "Larghezza",
+    "tag:est_width": "Larghezza stimata",
+    "tag:incline": "Pendenza",
+    "tag:start_date": "Data di creazione",
+    "tag:end_date": "Data di eliminazione o demolizione",
+    "tag:disused": "Abbandonato",
+    "tag:wheelchair": "Sedia a rotelle",
+    "tag:wheelchair=limited": "limitato",
+    "tag:tactile_paving": "Pavimentazione tattile",
+    "tag:narrow": "Stretto",
+    "tag:covered": "Coperto",
+    "tag:ford": "Guado",
+    "tag:access": "Permesso generale di accesso",
+    "tag:vehicle": "Permesso di accesso per i veicoli",
+    "tag:bicycle": "Permesso di accesso per le biciclette",
+    "tag:foot": "Permesso di accesso per i pedoni",
+    "tag:goods": "Permesso di accesso per veicoli commerciali leggeri",
+    "tag:hgv": "Permesso di accesso per veicoli commerciali pesanti",
+    "tag:horse": "Permesso di accesso a cavallo",
+    "tag:motorcycle": "Permesso di accesso per motocicli",
+    "tag:motorcar": "Permesso di accesso per autoveicoli",
+    "tag:psv": "Permesso di accesso per veicoli di servizio pubblico",
+    "tag:oneway": "Senso unico",
+    "tag:noexit": "Strada senza uscita",
+    "tag:maxweight": "Peso massimo",
+    "tag:maxheight": "Altezza massima",
+    "tag:maxlength": "Lunghezza massima",
+    "tag:maxspeed": "Velocità massima",
+    "tag:minspeed": "Velocità minima",
+    "tag:traffic_sign": "Cartello indicatore",
+    "tag:toll": "Pedaggio",
+    "tag:charge": "Tariffa",
+    "tag:source": "Fonte",
+    "tag:phone": "Numero telefonico",
+    "tag:fax": "Numero di fax",
+    "tag:email": "E-mail",
+    "tag:wikipedia": "Wikipedia",
+    "tag:created_by": "Creato da",
+    "tag:construction": "In costruzione",
+    "tag:proposed": "In progetto",
+    "tag:route_type": "Route type"
+}

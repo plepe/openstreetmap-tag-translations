@@ -1,0 +1,774 @@
+{
+    "tag:*=yes": "да",
+    "tag:*=no": "не",
+    "tag:accomodation": "Смештај",
+    "tag:address": "Адреса",
+    "tag:addr:housenumber": {
+        "message": "Кућни број",
+        "!=1": "Кућни бројеви"
+    },
+    "tag:addr:housename": {
+        "message": "Име куће",
+        "!=1": "Имена кућа"
+    },
+    "tag:addr:street": {
+        "message": "Улица",
+        "!=1": "Улице"
+    },
+    "tag:addr:postcode": {
+        "message": "Поштански број",
+        "!=1": "Поштански бројеви"
+    },
+    "tag:addr:city": {
+        "message": "Град",
+        "!=1": "Градови"
+    },
+    "tag:addr:country": {
+        "message": "Држава",
+        "!=1": "Државе"
+    },
+    "tag:addr:full": {
+        "message": "Пуна адреса",
+        "!=1": "Пуне адресе"
+    },
+    "tag:addr:interpolation": {
+        "description": "message 'tag:addr:interpolation' not translated"
+    },
+    "tag:aeroway": {
+        "description": "message 'tag:aeroway' not translated"
+    },
+    "tag:aeroway=runway": "Писта",
+    "tag:aeroway=taxiway": {
+        "description": "message 'tag:aeroway=taxiway' not translated"
+    },
+    "tag:admin_level=2": "Државна граница",
+    "tag:admin_level=3": {
+        "description": "message 'tag:admin_level=3' not translated"
+    },
+    "tag:admin_level=4": {
+        "description": "message 'tag:admin_level=4' not translated"
+    },
+    "tag:admin_level=5": {
+        "description": "message 'tag:admin_level=5' not translated"
+    },
+    "tag:admin_level=6": {
+        "description": "message 'tag:admin_level=6' not translated"
+    },
+    "tag:admin_level=8": {
+        "description": "message 'tag:admin_level=8' not translated"
+    },
+    "tag:admin_level=10": {
+        "description": "message 'tag:admin_level=10' not translated"
+    },
+    "tag:amenity": "Угодност",
+    "tag:amenity=cinema": {
+        "message": "Биоскоп",
+        "!=1": "Биоскопи"
+    },
+    "tag:amenity=restaurant": {
+        "message": "Ресторан",
+        "!=1": "Ресторани"
+    },
+    "tag:amenity=pub": "Кафић",
+    "tag:barrier": {
+        "description": "message 'tag:barrier' not translated"
+    },
+    "tag:barrier=city_wall": {
+        "description": "message 'tag:barrier=city_wall' not translated"
+    },
+    "tag:barrier=wall": {
+        "description": "message 'tag:barrier=wall' not translated"
+    },
+    "tag:barrier=retaining_wall": {
+        "description": "message 'tag:barrier=retaining_wall' not translated"
+    },
+    "tag:barrier=fence": {
+        "message": "Ограда",
+        "!=1": "Ограде"
+    },
+    "tag:barrier=hedge": {
+        "description": "message 'tag:barrier=hedge' not translated"
+    },
+    "tag:cables": "Жице",
+    "tag:description": "Опис",
+    "tag:fixme": {
+        "description": "message 'tag:fixme' not translated"
+    },
+    "tag:note": "Порука",
+    "tag:food": {
+        "description": "message 'tag:food' not translated"
+    },
+    "tag:cuisine": "Специјалитет",
+    "tag:cuisine=regional": "регионални",
+    "tag:highway": {
+        "message": "Пут",
+        "!=1": "Путеви"
+    },
+    "tag:highway=motorway": "Аутопут",
+    "tag:highway=motorway_link": "Укључење на аутопут",
+    "tag:highway=trunk": "Мотопут",
+    "tag:highway=trunk_link": "Укључење на мотопут",
+    "tag:highway=primary": "Примарни пут",
+    "tag:highway=primary_link": "Укључење на примарни пут",
+    "tag:highway=secondary": "Секундарни пут",
+    "tag:highway=tertiary": "Укључење на секундарни пут",
+    "tag:highway=minor": {
+        "description": "message 'tag:highway=minor' not translated"
+    },
+    "tag:highway=road": "Пут",
+    "tag:highway=residential": {
+        "description": "message 'tag:highway=residential' not translated"
+    },
+    "tag:highway=unclassified": "Некласификован пут",
+    "tag:highway=service": "Сервисни пут",
+    "tag:highway=pedestrian": "Пешачка зона",
+    "tag:highway=living_street": {
+        "description": "message 'tag:highway=living_street' not translated"
+    },
+    "tag:highway=path": "Стаза",
+    "tag:highway=cycleway": "Бициклистичка стаза",
+    "tag:highway=footway": "Пешачка стаза",
+    "tag:highway=bridleway": {
+        "description": "message 'tag:highway=bridleway' not translated"
+    },
+    "tag:highway=track": "Стазица",
+    "tag:highway=steps": {
+        "description": "message 'tag:highway=steps' not translated"
+    },
+    "tag:bridge": "Мост",
+    "tag:tunnel": "Тунел",
+    "tag:traffic_calming": "Смиривање саобраћаја",
+    "tag:service": "Особине сервисног пута",
+    "tag:postal_code": "Поштански број",
+    "tag:is_in": "Је у",
+    "tag:leisure": "Одмор",
+    "tag:leisure=sports_centre": "Спортски центар",
+    "tag:leisure=golf_course": "Терен за голф",
+    "tag:leisure=stadium": "Стадион",
+    "tag:leisure=track": "Стаза",
+    "tag:leisure=pitch": "Терен",
+    "tag:leisure=water_park": "Водени парк",
+    "tag:leisure=marina": "Пристаниште",
+    "tag:leisure=slipway": "Навоз",
+    "tag:leisure=fishing": "Пецање",
+    "tag:leisure=nature_reserve": "Резерват природе",
+    "tag:leisure=park": "Парк",
+    "tag:leisure=playground": "Игралиште",
+    "tag:leisure=garden": "Башта",
+    "tag:leisure=common": "Опште",
+    "tag:leisure=ice_rink": "Клизалиште",
+    "tag:leisure=miniature_golf": "Мали голф",
+    "tag:leisure=swimming_pool": "Базен",
+    "tag:leisure=beach_resort": "Плажа",
+    "tag:leisure=bird_hide": {
+        "description": "message 'tag:leisure=bird_hide' not translated"
+    },
+    "tag:leisure=sport": "Спорт",
+    "tag:man_made": "Вештачке гређевине",
+    "tag:man_made=pipeline": {
+        "message": "Цевовод",
+        "!=1": "Цевоводи"
+    },
+    "tag:type": "Врста",
+    "tag:type=gas": "Гасовод",
+    "tag:type=heat": "Грејање",
+    "tag:type=hot_water": "Топловод",
+    "tag:type=oil": "Нафтовод",
+    "tag:type=sewage": "Канализација",
+    "tag:type=water": "Водовод",
+    "tag:name": {
+        "message": "Назив",
+        "!=1": "Називи"
+    },
+    "tag:alt_name": {
+        "message": "Алтернативни назив",
+        "!=1": "Алтернативни називи"
+    },
+    "tag:official_name": {
+        "message": "Званични назив",
+        "!=1": "Званични називи"
+    },
+    "tag:int_name": {
+        "message": "Интернационални назив",
+        "!=1": "Интернационални називи"
+    },
+    "tag:loc_name": {
+        "message": "Локални назив",
+        "!=1": "Локални називи"
+    },
+    "tag:old_name": {
+        "message": "Стари назив",
+        "!=1": "Стари називи"
+    },
+    "tag:ref": "Препорука",
+    "tag:network": "Мрежа",
+    "tag:opening_hours": "Радно време",
+    "tag:operator": "Оператер",
+    "tag:place": "Место",
+    "tag:place=continent": {
+        "message": "Континент",
+        "!=1": "Континенти"
+    },
+    "tag:place=country": {
+        "message": "Држава",
+        "!=1": "Државе"
+    },
+    "tag:place=state": {
+        "description": "message 'tag:place=state' not translated"
+    },
+    "tag:place=region": {
+        "message": "Регион",
+        "!=1": "Региони"
+    },
+    "tag:place=county": {
+        "message": "Држава",
+        "!=1": "Државе"
+    },
+    "tag:place=city": {
+        "message": "Град",
+        "!=1": "Град"
+    },
+    "tag:place=town": {
+        "description": "message 'tag:place=town' not translated"
+    },
+    "tag:place=village": {
+        "message": "Село",
+        "!=1": "Села"
+    },
+    "tag:place=suburb": {
+        "message": "Предграђе",
+        "!=1": "Предграђа"
+    },
+    "tag:place=hamlet": {
+        "description": "message 'tag:place=hamlet' not translated"
+    },
+    "tag:place=locality": {
+        "description": "message 'tag:place=locality' not translated"
+    },
+    "tag:place=island": {
+        "message": "Острво",
+        "!=1": "Острва"
+    },
+    "tag:place=islet": {
+        "description": "message 'tag:place=islet' not translated"
+    },
+    "tag:place=ocean": {
+        "message": "Океан",
+        "!=1": "Океани"
+    },
+    "tag:place=sea": {
+        "message": "Море",
+        "!=1": "Мора"
+    },
+    "tag:population": "Становништво",
+    "tag:power": {
+        "description": "message 'tag:power' not translated"
+    },
+    "tag:power=generator": {
+        "description": "message 'tag:power=generator' not translated"
+    },
+    "tag:power=line": {
+        "description": "message 'tag:power=line' not translated"
+    },
+    "tag:power=minor_line": {
+        "description": "message 'tag:power=minor_line' not translated"
+    },
+    "tag:power=tower": {
+        "description": "message 'tag:power=tower' not translated"
+    },
+    "tag:power=pole": {
+        "description": "message 'tag:power=pole' not translated"
+    },
+    "tag:power=station": {
+        "description": "message 'tag:power=station' not translated"
+    },
+    "tag:power=sub_station": {
+        "description": "message 'tag:power=sub_station' not translated"
+    },
+    "tag:power_source": {
+        "description": "message 'tag:power_source' not translated"
+    },
+    "tag:power_source=biofuel": {
+        "description": "message 'tag:power_source=biofuel' not translated"
+    },
+    "tag:power_source=oil": {
+        "description": "message 'tag:power_source=oil' not translated"
+    },
+    "tag:power_source=coal": {
+        "description": "message 'tag:power_source=coal' not translated"
+    },
+    "tag:power_source=gas": {
+        "description": "message 'tag:power_source=gas' not translated"
+    },
+    "tag:power_source=waste": {
+        "description": "message 'tag:power_source=waste' not translated"
+    },
+    "tag:power_source=hydro": {
+        "description": "message 'tag:power_source=hydro' not translated"
+    },
+    "tag:power_source=tidal": {
+        "description": "message 'tag:power_source=tidal' not translated"
+    },
+    "tag:power_source=wave": {
+        "description": "message 'tag:power_source=wave' not translated"
+    },
+    "tag:power_source=geothermal": {
+        "description": "message 'tag:power_source=geothermal' not translated"
+    },
+    "tag:power_source=nuclear": {
+        "description": "message 'tag:power_source=nuclear' not translated"
+    },
+    "tag:power_source=fusion": {
+        "description": "message 'tag:power_source=fusion' not translated"
+    },
+    "tag:power_source=wind": {
+        "description": "message 'tag:power_source=wind' not translated"
+    },
+    "tag:power_source=photovoltaic": {
+        "description": "message 'tag:power_source=photovoltaic' not translated"
+    },
+    "tag:power_source=solar-thermal": {
+        "description": "message 'tag:power_source=solar-thermal' not translated"
+    },
+    "tag:railway": "Железница",
+    "tag:railway=rail": {
+        "description": "message 'tag:railway=rail' not translated"
+    },
+    "tag:railway=tram": {
+        "description": "message 'tag:railway=tram' not translated"
+    },
+    "tag:railway=platform": {
+        "description": "message 'tag:railway=platform' not translated"
+    },
+    "tag:real_ale": {
+        "description": "message 'tag:real_ale' not translated"
+    },
+    "tag:religion": "Религија",
+    "tag:religion=christian": "хришћанство",
+    "tag:religion=buddhist": "будизам",
+    "tag:religion=hindu": "хиндуизам",
+    "tag:religion=jewish": "јудаизам",
+    "tag:religion=muslim": "ислам",
+    "tag:religion=multifaith": {
+        "description": "message 'tag:religion=multifaith' not translated"
+    },
+    "tag:denomination": {
+        "description": "message 'tag:denomination' not translated"
+    },
+    "tag:route": {
+        "description": "message 'tag:route' not translated"
+    },
+    "tag:route=train": {
+        "description": "message 'tag:route=train' not translated"
+    },
+    "tag:route=railway": {
+        "description": "message 'tag:route=railway' not translated"
+    },
+    "tag:route=rail": {
+        "description": "message 'tag:route=rail' not translated"
+    },
+    "tag:route=light_rail": {
+        "description": "message 'tag:route=light_rail' not translated"
+    },
+    "tag:route=subway": {
+        "description": "message 'tag:route=subway' not translated"
+    },
+    "tag:route=tram": {
+        "description": "message 'tag:route=tram' not translated"
+    },
+    "tag:route=tram_bus": {
+        "description": "message 'tag:route=tram_bus' not translated"
+    },
+    "tag:route=trolley": {
+        "description": "message 'tag:route=trolley' not translated"
+    },
+    "tag:route=trolleybus": {
+        "description": "message 'tag:route=trolleybus' not translated"
+    },
+    "tag:route=bus": {
+        "description": "message 'tag:route=bus' not translated"
+    },
+    "tag:route=minibus": {
+        "description": "message 'tag:route=minibus' not translated"
+    },
+    "tag:route=ferry": {
+        "description": "message 'tag:route=ferry' not translated"
+    },
+    "tag:route=road": {
+        "description": "message 'tag:route=road' not translated"
+    },
+    "tag:route=bicycle": {
+        "description": "message 'tag:route=bicycle' not translated"
+    },
+    "tag:route=hiking": {
+        "description": "message 'tag:route=hiking' not translated"
+    },
+    "tag:route=mtb": {
+        "description": "message 'tag:route=mtb' not translated"
+    },
+    "tag:shop": "Продавница",
+    "tag:sport": {
+        "description": "message 'tag:sport' not translated"
+    },
+    "tag:sport=9pin": {
+        "description": "message 'tag:sport=9pin' not translated"
+    },
+    "tag:sport=10pin": {
+        "description": "message 'tag:sport=10pin' not translated"
+    },
+    "tag:sport=archery": {
+        "description": "message 'tag:sport=archery' not translated"
+    },
+    "tag:sport=athletics": {
+        "description": "message 'tag:sport=athletics' not translated"
+    },
+    "tag:sport=australian_football": {
+        "description": "message 'tag:sport=australian_football' not translated"
+    },
+    "tag:sport=baseball": {
+        "description": "message 'tag:sport=baseball' not translated"
+    },
+    "tag:sport=basketball": {
+        "description": "message 'tag:sport=basketball' not translated"
+    },
+    "tag:sport=beachvolleyball": {
+        "description": "message 'tag:sport=beachvolleyball' not translated"
+    },
+    "tag:sport=boules": {
+        "description": "message 'tag:sport=boules' not translated"
+    },
+    "tag:sport=bowls": {
+        "description": "message 'tag:sport=bowls' not translated"
+    },
+    "tag:sport=canoe": {
+        "description": "message 'tag:sport=canoe' not translated"
+    },
+    "tag:sport=chess": {
+        "description": "message 'tag:sport=chess' not translated"
+    },
+    "tag:sport=climbing": {
+        "description": "message 'tag:sport=climbing' not translated"
+    },
+    "tag:sport=cricket": {
+        "description": "message 'tag:sport=cricket' not translated"
+    },
+    "tag:sport=cricket_nets": {
+        "description": "message 'tag:sport=cricket_nets' not translated"
+    },
+    "tag:sport=croquet": {
+        "description": "message 'tag:sport=croquet' not translated"
+    },
+    "tag:sport=cycling": {
+        "description": "message 'tag:sport=cycling' not translated"
+    },
+    "tag:sport=diving": {
+        "description": "message 'tag:sport=diving' not translated"
+    },
+    "tag:sport=dog_racing": {
+        "description": "message 'tag:sport=dog_racing' not translated"
+    },
+    "tag:sport=equestrian": {
+        "description": "message 'tag:sport=equestrian' not translated"
+    },
+    "tag:sport=football": {
+        "description": "message 'tag:sport=football' not translated"
+    },
+    "tag:sport=golf": {
+        "description": "message 'tag:sport=golf' not translated"
+    },
+    "tag:sport=gymnastics": {
+        "description": "message 'tag:sport=gymnastics' not translated"
+    },
+    "tag:sport=hockey": {
+        "description": "message 'tag:sport=hockey' not translated"
+    },
+    "tag:sport=horse_racing": {
+        "description": "message 'tag:sport=horse_racing' not translated"
+    },
+    "tag:sport=korfball": {
+        "description": "message 'tag:sport=korfball' not translated"
+    },
+    "tag:sport=motor": {
+        "description": "message 'tag:sport=motor' not translated"
+    },
+    "tag:sport=multi": {
+        "description": "message 'tag:sport=multi' not translated"
+    },
+    "tag:sport=orienteering": {
+        "description": "message 'tag:sport=orienteering' not translated"
+    },
+    "tag:sport=paddle_tennis": {
+        "description": "message 'tag:sport=paddle_tennis' not translated"
+    },
+    "tag:sport=paragliding": {
+        "description": "message 'tag:sport=paragliding' not translated"
+    },
+    "tag:sport=pelota": {
+        "description": "message 'tag:sport=pelota' not translated"
+    },
+    "tag:sport=racquet": {
+        "description": "message 'tag:sport=racquet' not translated"
+    },
+    "tag:sport=rowing": {
+        "description": "message 'tag:sport=rowing' not translated"
+    },
+    "tag:sport=rugby": {
+        "description": "message 'tag:sport=rugby' not translated"
+    },
+    "tag:sport=shooting": {
+        "description": "message 'tag:sport=shooting' not translated"
+    },
+    "tag:sport=skating": {
+        "description": "message 'tag:sport=skating' not translated"
+    },
+    "tag:sport=skateboard": {
+        "description": "message 'tag:sport=skateboard' not translated"
+    },
+    "tag:sport=skiing": {
+        "description": "message 'tag:sport=skiing' not translated"
+    },
+    "tag:sport=soccer": {
+        "description": "message 'tag:sport=soccer' not translated"
+    },
+    "tag:sport=swimming": {
+        "description": "message 'tag:sport=swimming' not translated"
+    },
+    "tag:sport=table_tennis": {
+        "description": "message 'tag:sport=table_tennis' not translated"
+    },
+    "tag:sport=team_handball": {
+        "description": "message 'tag:sport=team_handball' not translated"
+    },
+    "tag:sport=tennis": {
+        "description": "message 'tag:sport=tennis' not translated"
+    },
+    "tag:sport=volleyball": {
+        "description": "message 'tag:sport=volleyball' not translated"
+    },
+    "tag:tracks": {
+        "description": "message 'tag:tracks' not translated"
+    },
+    "tag:tracks=single": {
+        "description": "message 'tag:tracks=single' not translated"
+    },
+    "tag:tracks=double": {
+        "description": "message 'tag:tracks=double' not translated"
+    },
+    "tag:tracks=multiple": {
+        "description": "message 'tag:tracks=multiple' not translated"
+    },
+    "tag:vending": {
+        "description": "message 'tag:vending' not translated"
+    },
+    "tag:voltage": {
+        "description": "message 'tag:voltage' not translated"
+    },
+    "tag:wires": {
+        "description": "message 'tag:wires' not translated"
+    },
+    "tag:website": {
+        "description": "message 'tag:website' not translated"
+    },
+    "tag:cycleway": {
+        "description": "message 'tag:cycleway' not translated"
+    },
+    "tag:tracktype": {
+        "description": "message 'tag:tracktype' not translated"
+    },
+    "tag:waterway": {
+        "description": "message 'tag:waterway' not translated"
+    },
+    "tag:aerialway": {
+        "description": "message 'tag:aerialway' not translated"
+    },
+    "tag:public_transport": {
+        "description": "message 'tag:public_transport' not translated"
+    },
+    "tag:office": {
+        "description": "message 'tag:office' not translated"
+    },
+    "tag:craft": {
+        "description": "message 'tag:craft' not translated"
+    },
+    "tag:emergency": {
+        "description": "message 'tag:emergency' not translated"
+    },
+    "tag:tourism": {
+        "description": "message 'tag:tourism' not translated"
+    },
+    "tag:historic": {
+        "description": "message 'tag:historic' not translated"
+    },
+    "tag:landuse": {
+        "description": "message 'tag:landuse' not translated"
+    },
+    "tag:wood": {
+        "description": "message 'tag:wood' not translated"
+    },
+    "tag:military": {
+        "description": "message 'tag:military' not translated"
+    },
+    "tag:natural": {
+        "description": "message 'tag:natural' not translated"
+    },
+    "tag:geological": {
+        "description": "message 'tag:geological' not translated"
+    },
+    "tag:boundary": {
+        "description": "message 'tag:boundary' not translated"
+    },
+    "tag:abutters": {
+        "description": "message 'tag:abutters' not translated"
+    },
+    "tag:lit": {
+        "description": "message 'tag:lit' not translated"
+    },
+    "tag:area": {
+        "description": "message 'tag:area' not translated"
+    },
+    "tag:crossing": {
+        "description": "message 'tag:crossing' not translated"
+    },
+    "tag:mountain_pass": {
+        "description": "message 'tag:mountain_pass' not translated"
+    },
+    "tag:cutting": {
+        "description": "message 'tag:cutting' not translated"
+    },
+    "tag:embankment": {
+        "description": "message 'tag:embankment' not translated"
+    },
+    "tag:lanes": {
+        "description": "message 'tag:lanes' not translated"
+    },
+    "tag:layer": {
+        "description": "message 'tag:layer' not translated"
+    },
+    "tag:surface": {
+        "description": "message 'tag:surface' not translated"
+    },
+    "tag:smoothness": {
+        "description": "message 'tag:smoothness' not translated"
+    },
+    "tag:ele": {
+        "description": "message 'tag:ele' not translated"
+    },
+    "tag:width": {
+        "description": "message 'tag:width' not translated"
+    },
+    "tag:est_width": {
+        "description": "message 'tag:est_width' not translated"
+    },
+    "tag:incline": {
+        "description": "message 'tag:incline' not translated"
+    },
+    "tag:start_date": {
+        "description": "message 'tag:start_date' not translated"
+    },
+    "tag:end_date": {
+        "description": "message 'tag:end_date' not translated"
+    },
+    "tag:disused": {
+        "description": "message 'tag:disused' not translated"
+    },
+    "tag:wheelchair": {
+        "description": "message 'tag:wheelchair' not translated"
+    },
+    "tag:wheelchair=limited": {
+        "description": "message 'tag:wheelchair=limited' not translated"
+    },
+    "tag:tactile_paving": {
+        "description": "message 'tag:tactile_paving' not translated"
+    },
+    "tag:narrow": {
+        "description": "message 'tag:narrow' not translated"
+    },
+    "tag:covered": {
+        "description": "message 'tag:covered' not translated"
+    },
+    "tag:ford": {
+        "description": "message 'tag:ford' not translated"
+    },
+    "tag:access": {
+        "description": "message 'tag:access' not translated"
+    },
+    "tag:vehicle": {
+        "description": "message 'tag:vehicle' not translated"
+    },
+    "tag:bicycle": {
+        "description": "message 'tag:bicycle' not translated"
+    },
+    "tag:foot": {
+        "description": "message 'tag:foot' not translated"
+    },
+    "tag:goods": {
+        "description": "message 'tag:goods' not translated"
+    },
+    "tag:hgv": {
+        "description": "message 'tag:hgv' not translated"
+    },
+    "tag:horse": {
+        "description": "message 'tag:horse' not translated"
+    },
+    "tag:motorcycle": {
+        "description": "message 'tag:motorcycle' not translated"
+    },
+    "tag:motorcar": {
+        "description": "message 'tag:motorcar' not translated"
+    },
+    "tag:psv": {
+        "description": "message 'tag:psv' not translated"
+    },
+    "tag:oneway": "Једносмерна",
+    "tag:noexit": {
+        "description": "message 'tag:noexit' not translated"
+    },
+    "tag:maxweight": {
+        "description": "message 'tag:maxweight' not translated"
+    },
+    "tag:maxheight": {
+        "description": "message 'tag:maxheight' not translated"
+    },
+    "tag:maxlength": {
+        "description": "message 'tag:maxlength' not translated"
+    },
+    "tag:maxspeed": {
+        "description": "message 'tag:maxspeed' not translated"
+    },
+    "tag:minspeed": {
+        "description": "message 'tag:minspeed' not translated"
+    },
+    "tag:traffic_sign": {
+        "description": "message 'tag:traffic_sign' not translated"
+    },
+    "tag:toll": {
+        "description": "message 'tag:toll' not translated"
+    },
+    "tag:charge": {
+        "description": "message 'tag:charge' not translated"
+    },
+    "tag:source": {
+        "description": "message 'tag:source' not translated"
+    },
+    "tag:phone": {
+        "description": "message 'tag:phone' not translated"
+    },
+    "tag:fax": {
+        "description": "message 'tag:fax' not translated"
+    },
+    "tag:email": {
+        "description": "message 'tag:email' not translated"
+    },
+    "tag:wikipedia": {
+        "description": "message 'tag:wikipedia' not translated"
+    },
+    "tag:created_by": {
+        "description": "message 'tag:created_by' not translated"
+    },
+    "tag:construction": {
+        "description": "message 'tag:construction' not translated"
+    },
+    "tag:proposed": {
+        "description": "message 'tag:proposed' not translated"
+    }
+}

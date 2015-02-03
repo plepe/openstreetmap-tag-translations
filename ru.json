@@ -1,0 +1,534 @@
+{
+    "tag:*=yes": "да",
+    "tag:*=no": "нет",
+    "tag:accomodation": "Жильё",
+    "tag:address": "Адрес",
+    "tag:addr:housenumber": {
+        "message": "Номер дома",
+        "!=1": "Номера домов"
+    },
+    "tag:addr:housename": {
+        "message": "Имя дома",
+        "!=1": "Имена домов"
+    },
+    "tag:addr:street": {
+        "message": "Улица",
+        "!=1": "Улицы"
+    },
+    "tag:addr:postcode": {
+        "message": "Почтовый индекс",
+        "!=1": "Почтовые индексы"
+    },
+    "tag:addr:city": {
+        "message": "Город",
+        "!=1": "Города"
+    },
+    "tag:addr:country": {
+        "message": "Страна",
+        "!=1": "Страны"
+    },
+    "tag:addr:full": {
+        "message": "Полный адрес",
+        "!=1": "Полные адреса"
+    },
+    "tag:addr:interpolation": "Интерполированные адреса",
+    "tag:aeroway": "Аэродромные дорожки",
+    "tag:aeroway=runway": "Взлётные полосы",
+    "tag:aeroway=taxiway": "Рулёжные дорожки",
+    "tag:admin_level=2": "Границы Стран",
+    "tag:admin_level=3": "Границы Федеральных округов",
+    "tag:admin_level=4": "Границы субъектов",
+    "tag:admin_level=5": "Границы объединённых районов и округов",
+    "tag:admin_level=6": "Границы районов и округов",
+    "tag:admin_level=8": "Границы городов или районов городов",
+    "tag:admin_level=10": "Границы территориальных органов",
+    "tag:amenity": "Полезные места",
+    "tag:amenity=cinema": {
+        "message": "Кинотеатр",
+        "!=1": "Кинотеатры"
+    },
+    "tag:amenity=restaurant": {
+        "message": "Ресторан",
+        "!=1": "Рестораны"
+    },
+    "tag:amenity=pub": {
+        "message": "Паб",
+        "!=1": "Пабы"
+    },
+    "tag:barrier": {
+        "message": "Преграда",
+        "!=1": "Преграды"
+    },
+    "tag:barrier=city_wall": {
+        "message": "Городская стена",
+        "!=1": "Городские стены"
+    },
+    "tag:barrier=wall": {
+        "message": "Стена",
+        "!=1": "Стены"
+    },
+    "tag:barrier=retaining_wall": {
+        "message": "Подпорная стенка",
+        "!=1": "Подпорные стенки"
+    },
+    "tag:barrier=fence": {
+        "message": "Забор",
+        "!=1": "Заборы"
+    },
+    "tag:barrier=hedge": {
+        "message": "Куст",
+        "!=1": "Кусты"
+    },
+    "tag:cables": "Кабели",
+    "tag:description": "Описание",
+    "tag:fixme": "Нужно исправить",
+    "tag:note": "Заметка",
+    "tag:food": "Продукты питания",
+    "tag:cuisine": "Общепит",
+    "tag:cuisine=regional": "национальная кухня",
+    "tag:highway": {
+        "message": "Дорога",
+        "!=1": "Дороги"
+    },
+    "tag:highway=motorway": "Автомагистраль",
+    "tag:highway=motorway_link": "Выезд на автомагистраль",
+    "tag:highway=trunk": "Шоссе",
+    "tag:highway=trunk_link": "Выезд на шоссе",
+    "tag:highway=primary": "Основная дорога (1-го уровня)",
+    "tag:highway=primary_link": "Выезд на основную дорогу 1-го уровня",
+    "tag:highway=secondary": "Основная дорога (2-го уровня)",
+    "tag:highway=tertiary": "Основная дорога (3-го уровня)",
+    "tag:highway=minor": "Второстепенная дорога",
+    "tag:highway=road": "Дорога с неопределённым типом",
+    "tag:highway=residential": "Городская улица",
+    "tag:highway=unclassified": "Не классифицированная дорога",
+    "tag:highway=service": "Служебная или внутридворовая дорога",
+    "tag:highway=pedestrian": "Пешеходная зона",
+    "tag:highway=living_street": "Жилая улица",
+    "tag:highway=path": "Тропинка",
+    "tag:highway=cycleway": "Велодорожка",
+    "tag:highway=footway": "Пешеходная дорожка",
+    "tag:highway=bridleway": "Дорога для верховой езды",
+    "tag:highway=track": "Стихийная дорога",
+    "tag:highway=steps": "Ступени",
+    "tag:bridge": "Мост",
+    "tag:tunnel": "Тоннель",
+    "tag:traffic_calming": {
+        "description": "message 'tag:traffic_calming' not translated"
+    },
+    "tag:service": {
+        "description": "message 'tag:service' not translated"
+    },
+    "tag:postal_code": "Почтовый индекс",
+    "tag:is_in": "находится в",
+    "tag:leisure": "Досуг",
+    "tag:leisure=sports_centre": "Спортивный центр",
+    "tag:leisure=golf_course": "Курсы гольфа",
+    "tag:leisure=stadium": "Стадион",
+    "tag:leisure=track": "Трек",
+    "tag:leisure=pitch": "Спортивная площадка",
+    "tag:leisure=water_park": "Аквапарк",
+    "tag:leisure=marina": "Гавань",
+    "tag:leisure=slipway": "Места спуска на воду",
+    "tag:leisure=fishing": "Рыбалка",
+    "tag:leisure=nature_reserve": "Заповедник",
+    "tag:leisure=park": "Парк развлечений",
+    "tag:leisure=playground": "Игровая площадка",
+    "tag:leisure=garden": "Сад",
+    "tag:leisure=common": "Общественное место",
+    "tag:leisure=ice_rink": "Ледовый каток",
+    "tag:leisure=miniature_golf": "Мини-гольф",
+    "tag:leisure=swimming_pool": "Бассейн",
+    "tag:leisure=beach_resort": "Пляжный курорт",
+    "tag:leisure=bird_hide": "Птицефермы",
+    "tag:leisure=sport": "Другой спорт",
+    "tag:man_made": "Искусственные сооружения",
+    "tag:man_made=pipeline": {
+        "message": "Трубопровод",
+        "!=1": "Трубопроводы"
+    },
+    "tag:type": "Тип",
+    "tag:type=gas": "Газ",
+    "tag:type=heat": "Тепло",
+    "tag:type=hot_water": "Грячая вода",
+    "tag:type=oil": "Масло",
+    "tag:type=sewage": "Канализация",
+    "tag:type=water": "Вода",
+    "tag:name": {
+        "message": "Название",
+        "!=1": "Названия"
+    },
+    "tag:alt_name": {
+        "message": "Альтернативное имя",
+        "!=1": "Альтернативные имена"
+    },
+    "tag:official_name": {
+        "message": "Официальное имя",
+        "!=1": "Официальные имена"
+    },
+    "tag:int_name": {
+        "message": "Международное название",
+        "!=1": "Международные названия"
+    },
+    "tag:loc_name": {
+        "message": "Местное название",
+        "!=1": "Местные названия"
+    },
+    "tag:old_name": "Старое название(я)",
+    "tag:ref": "Ссылка",
+    "tag:network": "Компьютерная сеть",
+    "tag:opening_hours": "Часы работы",
+    "tag:operator": "Оператор",
+    "tag:place": "Место",
+    "tag:place=continent": {
+        "message": "Континент",
+        "!=1": "Континенты"
+    },
+    "tag:place=country": {
+        "message": "Страна",
+        "!=1": "Страны"
+    },
+    "tag:place=state": {
+        "message": "Штат",
+        "!=1": "Штаты"
+    },
+    "tag:place=region": {
+        "message": "Регион",
+        "!=1": "Регионы"
+    },
+    "tag:place=county": {
+        "message": "Округ",
+        "!=1": "Округа"
+    },
+    "tag:place=city": {
+        "message": "Город",
+        "!=1": "Города"
+    },
+    "tag:place=town": {
+        "message": "Город",
+        "!=1": "Города"
+    },
+    "tag:place=village": {
+        "message": "Деревня",
+        "!=1": "Деревни"
+    },
+    "tag:place=suburb": {
+        "message": "Пригород",
+        "!=1": "Пригороды"
+    },
+    "tag:place=hamlet": {
+        "message": "Хутор",
+        "!=1": "Хутора"
+    },
+    "tag:place=locality": {
+        "message": "Район",
+        "!=1": "Районы"
+    },
+    "tag:place=island": {
+        "message": "Остров",
+        "!=1": "Острова"
+    },
+    "tag:place=islet": {
+        "message": "Островок",
+        "!=1": "Островки"
+    },
+    "tag:place=ocean": {
+        "message": "Океан",
+        "!=1": "Океаны"
+    },
+    "tag:place=sea": {
+        "message": "Море",
+        "!=1": "Моря"
+    },
+    "tag:population": "Население",
+    "tag:power": "Энергетика",
+    "tag:power=generator": "Электростанция",
+    "tag:power=line": "Линия электропередачи",
+    "tag:power=minor_line": "Низковольтные линии электропередач",
+    "tag:power=tower": "Опора линии электропередачи",
+    "tag:power=pole": "Электрический столб",
+    "tag:power=station": "Электроподстанция",
+    "tag:power=sub_station": "Трансформаторная будка",
+    "tag:power_source": "Источник энергии",
+    "tag:power_source=biofuel": "Биотопливо",
+    "tag:power_source=oil": "Нефть",
+    "tag:power_source=coal": "Уголь",
+    "tag:power_source=gas": "Газ",
+    "tag:power_source=waste": "Отходы",
+    "tag:power_source=hydro": "Воды",
+    "tag:power_source=tidal": "Приливы",
+    "tag:power_source=wave": "Волны",
+    "tag:power_source=geothermal": "Геотермальная",
+    "tag:power_source=nuclear": "Ядерная реакция",
+    "tag:power_source=fusion": {
+        "description": "message 'tag:power_source=fusion' not translated"
+    },
+    "tag:power_source=wind": "Ветер",
+    "tag:power_source=photovoltaic": "Фотоэлектрическая",
+    "tag:power_source=solar-thermal": "Тепло Солнца",
+    "tag:railway": "Рельсовые пути",
+    "tag:railway=rail": {
+        "message": "Железнодорожный путь",
+        "!=1": "Железнодорожные пути"
+    },
+    "tag:railway=tram": {
+        "message": "Трамвайный путь",
+        "!=1": "Трамвайные пути"
+    },
+    "tag:railway=platform": {
+        "message": "Платформа",
+        "!=1": "Платформы"
+    },
+    "tag:real_ale": "Настоящий эль",
+    "tag:religion": "Религия",
+    "tag:religion=christian": "Христианство",
+    "tag:religion=buddhist": "Буддизм",
+    "tag:religion=hindu": "Индуизм",
+    "tag:religion=jewish": "Иудаизм",
+    "tag:religion=muslim": "Мусульманство",
+    "tag:religion=multifaith": {
+        "description": "message 'tag:religion=multifaith' not translated"
+    },
+    "tag:denomination": "Конфессии",
+    "tag:denomination=anglican": "Англиканство",
+    "tag:denomination=baptist": "Баптизм",
+    "tag:denomination=greek_orthodox": "Греческое православие",
+    "tag:route": "Маршрут",
+    "tag:route=train": "Поезд",
+    "tag:route=railway": "Железная дорога",
+    "tag:route=rail": "Железная дорога",
+    "tag:route=light_rail": "Железная дорога",
+    "tag:route=subway": "Метро",
+    "tag:route=tram": "Трамвай",
+    "tag:route=tram_bus": "Трамвай и автобус",
+    "tag:route=trolley": "Троллейбус",
+    "tag:route=trolleybus": "Троллейбус",
+    "tag:route=bus": "Автобус",
+    "tag:route=minibus": "Маршрутное такси",
+    "tag:route=ferry": "Паром",
+    "tag:route=road": "Автомобильная дорога",
+    "tag:route=bicycle": "Велосипед",
+    "tag:route=hiking": "Пешком",
+    "tag:route=mtb": "Горный велосипед",
+    "tag:shop": "Магазин",
+    "tag:sport": "Спорт",
+    "tag:sport=9pin": "Боулинг (9-ти кеглевый)",
+    "tag:sport=10pin": "Боулинг (10-ти кеглевый)",
+    "tag:sport=archery": "Стрельба из лука",
+    "tag:sport=athletics": "Атлетика",
+    "tag:sport=australian_football": "Австралийский футбол",
+    "tag:sport=baseball": "Бейсбол",
+    "tag:sport=basketball": "Баскетбол",
+    "tag:sport=beachvolleyball": "Пляжный волейбол",
+    "tag:sport=boules": "Петанк",
+    "tag:sport=bowls": "Боулз",
+    "tag:sport=canoe": "Каноэ",
+    "tag:sport=chess": "Шахматы",
+    "tag:sport=climbing": "Скалолазание",
+    "tag:sport=cricket": "Крикет",
+    "tag:sport=cricket_nets": {
+        "description": "message 'tag:sport=cricket_nets' not translated"
+    },
+    "tag:sport=croquet": "Крокет",
+    "tag:sport=cycling": "Велоспорт",
+    "tag:sport=diving": "Дайвинг",
+    "tag:sport=dog_racing": "Собачьи бега",
+    "tag:sport=equestrian": "Конный спорт",
+    "tag:sport=football": "Футбол",
+    "tag:sport=golf": "Гольф",
+    "tag:sport=gymnastics": "Гимнастика",
+    "tag:sport=hockey": "Хоккей",
+    "tag:sport=horse_racing": "Лошадиные бега",
+    "tag:sport=korfball": "Корфбол",
+    "tag:sport=motor": "Автомотоспорт",
+    "tag:sport=multi": "Разные виды",
+    "tag:sport=orienteering": "Спортивное ориентирование",
+    "tag:sport=paddle_tennis": "Настольный теннис",
+    "tag:sport=paragliding": "Парапланеризм",
+    "tag:sport=pelota": "Пелота",
+    "tag:sport=racquet": "Бадминтон, Сквош",
+    "tag:sport=rowing": "Гребля",
+    "tag:sport=rugby": "Регби",
+    "tag:sport=shooting": "Стрельба",
+    "tag:sport=skating": "Конькобежный спорт",
+    "tag:sport=skateboard": "Скейтборд",
+    "tag:sport=skiing": "Лыжный спорт",
+    "tag:sport=soccer": "Футбол",
+    "tag:sport=swimming": "Плавание",
+    "tag:sport=table_tennis": "Настольный теннис",
+    "tag:sport=team_handball": "Гандбол",
+    "tag:sport=tennis": "Теннис",
+    "tag:sport=volleyball": "Волейбол",
+    "tag:tracks": {
+        "description": "message 'tag:tracks' not translated"
+    },
+    "tag:tracks=single": {
+        "description": "message 'tag:tracks=single' not translated"
+    },
+    "tag:tracks=double": {
+        "description": "message 'tag:tracks=double' not translated"
+    },
+    "tag:tracks=multiple": {
+        "description": "message 'tag:tracks=multiple' not translated"
+    },
+    "tag:vending": "Торговые автоматы",
+    "tag:voltage": "Напряжение",
+    "tag:wires": "Провода",
+    "tag:website": "Вебсайт",
+    "tag:cycleway": "Велодорожка",
+    "tag:tracktype": "Покрытие дорог",
+    "tag:waterway": "Проточные воды",
+    "tag:aerialway": "Канатные дороги",
+    "tag:public_transport": "Перрон",
+    "tag:office": "Офис",
+    "tag:craft": "Мастерская",
+    "tag:emergency": "Экстренная служба",
+    "tag:tourism": "Туризм",
+    "tag:historic": "Историческое место",
+    "tag:landuse": "Территория",
+    "tag:wood": "Дерево",
+    "tag:military": "Военный",
+    "tag:natural": "Природа",
+    "tag:natural=beach": "Береговая зона",
+    "tag:geological": {
+        "description": "message 'tag:geological' not translated"
+    },
+    "tag:boundary": "Границы",
+    "tag:abutters": "Прилегающий район",
+    "tag:lit": "Освещение улицы",
+    "tag:area": {
+        "description": "message 'tag:area' not translated"
+    },
+    "tag:crossing": {
+        "description": "message 'tag:crossing' not translated"
+    },
+    "tag:mountain_pass": {
+        "description": "message 'tag:mountain_pass' not translated"
+    },
+    "tag:cutting": "Выемка",
+    "tag:embankment": "Насыпь",
+    "tag:lanes": "Полос",
+    "tag:layer": "Слой",
+    "tag:surface": "Поверхность",
+    "tag:smoothness": "Ровная",
+    "tag:ele": "Возвышение",
+    "tag:width": "Ширина",
+    "tag:est_width": {
+        "description": "message 'tag:est_width' not translated"
+    },
+    "tag:incline": {
+        "description": "message 'tag:incline' not translated"
+    },
+    "tag:start_date": {
+        "description": "message 'tag:start_date' not translated"
+    },
+    "tag:end_date": {
+        "description": "message 'tag:end_date' not translated"
+    },
+    "tag:disused": {
+        "description": "message 'tag:disused' not translated"
+    },
+    "tag:wheelchair": {
+        "description": "message 'tag:wheelchair' not translated"
+    },
+    "tag:wheelchair=limited": {
+        "description": "message 'tag:wheelchair=limited' not translated"
+    },
+    "tag:tactile_paving": {
+        "description": "message 'tag:tactile_paving' not translated"
+    },
+    "tag:narrow": {
+        "description": "message 'tag:narrow' not translated"
+    },
+    "tag:covered": {
+        "description": "message 'tag:covered' not translated"
+    },
+    "tag:ford": {
+        "description": "message 'tag:ford' not translated"
+    },
+    "tag:access": {
+        "description": "message 'tag:access' not translated"
+    },
+    "tag:vehicle": {
+        "description": "message 'tag:vehicle' not translated"
+    },
+    "tag:bicycle": {
+        "description": "message 'tag:bicycle' not translated"
+    },
+    "tag:foot": {
+        "description": "message 'tag:foot' not translated"
+    },
+    "tag:goods": {
+        "description": "message 'tag:goods' not translated"
+    },
+    "tag:hgv": {
+        "description": "message 'tag:hgv' not translated"
+    },
+    "tag:horse": {
+        "description": "message 'tag:horse' not translated"
+    },
+    "tag:motorcycle": {
+        "description": "message 'tag:motorcycle' not translated"
+    },
+    "tag:motorcar": {
+        "description": "message 'tag:motorcar' not translated"
+    },
+    "tag:psv": {
+        "description": "message 'tag:psv' not translated"
+    },
+    "tag:oneway": {
+        "description": "message 'tag:oneway' not translated"
+    },
+    "tag:noexit": {
+        "description": "message 'tag:noexit' not translated"
+    },
+    "tag:maxweight": {
+        "description": "message 'tag:maxweight' not translated"
+    },
+    "tag:maxheight": {
+        "description": "message 'tag:maxheight' not translated"
+    },
+    "tag:maxlength": {
+        "description": "message 'tag:maxlength' not translated"
+    },
+    "tag:maxspeed": {
+        "description": "message 'tag:maxspeed' not translated"
+    },
+    "tag:minspeed": {
+        "description": "message 'tag:minspeed' not translated"
+    },
+    "tag:traffic_sign": {
+        "description": "message 'tag:traffic_sign' not translated"
+    },
+    "tag:toll": {
+        "description": "message 'tag:toll' not translated"
+    },
+    "tag:charge": {
+        "description": "message 'tag:charge' not translated"
+    },
+    "tag:source": {
+        "description": "message 'tag:source' not translated"
+    },
+    "tag:phone": {
+        "description": "message 'tag:phone' not translated"
+    },
+    "tag:fax": {
+        "description": "message 'tag:fax' not translated"
+    },
+    "tag:email": {
+        "description": "message 'tag:email' not translated"
+    },
+    "tag:wikipedia": {
+        "description": "message 'tag:wikipedia' not translated"
+    },
+    "tag:created_by": {
+        "description": "message 'tag:created_by' not translated"
+    },
+    "tag:construction": {
+        "description": "message 'tag:construction' not translated"
+    },
+    "tag:proposed": {
+        "description": "message 'tag:proposed' not translated"
+    },
+    "tag:route_type": "Тип маршрута"
+}

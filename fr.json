@@ -1,0 +1,405 @@
+{
+    "tag:*=yes": {
+        "description": "message 'tag:*=yes' not translated"
+    },
+    "tag:*=no": {
+        "description": "message 'tag:*=no' not translated"
+    },
+    "tag:accomodation": "Hébergement",
+    "tag:address": "Adresse",
+    "tag:addr:housenumber": "No. d'immeuble",
+    "tag:addr:housename": "Nom de maison",
+    "tag:addr:street": "Rue",
+    "tag:addr:postcode": "Code postal",
+    "tag:addr:city": "Ville",
+    "tag:addr:country": "Pays",
+    "tag:addr:full": "Adresse complète",
+    "tag:addr:interpolation": "Interpolation de l'adresse",
+    "tag:aeroway": "Aéroport",
+    "tag:aeroway=runway": "Piste d'aterrissage",
+    "tag:aeroway=taxiway": "Voie de circulation",
+    "tag:admin_level=2": "Frontières nationales",
+    "tag:admin_level=3": "Limites territoriales",
+    "tag:admin_level=4": "Limites d'État \/ Province \/ Lander",
+    "tag:admin_level=5": "Limites de Régions administratives",
+    "tag:admin_level=6": "Limites des MRC (Québec)",
+    "tag:admin_level=8": "Limites de Communes",
+    "tag:admin_level=10": "Limites d'Arrondissements municipaux",
+    "tag:admin_level=7": "Limites de Comtés",
+    "tag:admin_level=7.5": "Limites d'Agglomérations urbaines",
+    "tag:amenity": "Équipement",
+    "tag:amenity=cinema": {
+        "message": "Cinéma",
+        "!=1": "Cinémas"
+    },
+    "tag:amenity=restaurant": {
+        "message": "Restaurant",
+        "!=1": "Restaurants"
+    },
+    "tag:amenity=pub": {
+        "message": "Pub\/Brasserie",
+        "!=1": "Pubs\/Brasseries"
+    },
+    "tag:barrier": {
+        "message": "Barrière",
+        "!=1": "Barrières"
+    },
+    "tag:barrier=city_wall": {
+        "message": "Mur de la ville",
+        "!=1": "Murs de la ville"
+    },
+    "tag:barrier=wall": {
+        "message": "Mur",
+        "!=1": "Murs"
+    },
+    "tag:barrier=retaining_wall": {
+        "message": "Mur de soutien",
+        "!=1": "Murs de soutien"
+    },
+    "tag:barrier=fence": {
+        "message": "Clôture",
+        "!=1": "Clôtures"
+    },
+    "tag:barrier=hedge": {
+        "message": "Couverture",
+        "!=1": "Couvertures"
+    },
+    "tag:cables": "Cables",
+    "tag:description": "Description",
+    "tag:fixme": "A vérifier",
+    "tag:note": "Note",
+    "tag:food": "Servent aliments",
+    "tag:cuisine": "Cuisine",
+    "tag:cuisine=regional": "régionale",
+    "tag:highway": {
+        "message": "Route",
+        "!=1": "Routes"
+    },
+    "tag:highway=motorway": "Autoroute",
+    "tag:highway=motorway_link": "Lien autoroutier",
+    "tag:highway=trunk": "Voies rapides\/Express",
+    "tag:highway=trunk_link": "Lien Voies rapides\/Express",
+    "tag:highway=primary": "Route primaire",
+    "tag:highway=primary_link": "Lien route primaire",
+    "tag:highway=secondary": "Route secondaire",
+    "tag:highway=tertiary": "Route tertiaire",
+    "tag:highway=minor": "Route mineure",
+    "tag:highway=road": "Route générique",
+    "tag:highway=residential": "Rue résidentielle",
+    "tag:highway=unclassified": "Route non classifiée",
+    "tag:highway=service": "Route de service",
+    "tag:highway=pedestrian": "Zone piétonne",
+    "tag:highway=living_street": "Zone de rencontre",
+    "tag:highway=path": "Sentier",
+    "tag:highway=cycleway": "Piste cyclable",
+    "tag:highway=footway": "Sentier piétonnier",
+    "tag:highway=bridleway": "Sentier d'équitation",
+    "tag:highway=track": "Route non goudronnée",
+    "tag:highway=steps": "Escalier",
+    "tag:bridge": "Pont",
+    "tag:tunnel": "Tunnel",
+    "tag:traffic_calming": "Ralentisseur",
+    "tag:service": {
+        "description": "message 'tag:service' not translated"
+    },
+    "tag:postal_code": "Code postal",
+    "tag:is_in": "Est situé en\/dans",
+    "tag:leisure": "Loisir",
+    "tag:leisure=sports_centre": "Centre sportif",
+    "tag:leisure=golf_course": "Golf",
+    "tag:leisure=stadium": "Stade",
+    "tag:leisure=track": "Piste",
+    "tag:leisure=pitch": "Terrain de sports",
+    "tag:leisure=water_park": "Parc aquatique",
+    "tag:leisure=marina": "Marina",
+    "tag:leisure=slipway": "Rampes",
+    "tag:leisure=fishing": "Pêche",
+    "tag:leisure=nature_reserve": "Réserve naturelle",
+    "tag:leisure=park": "Parc de loisir",
+    "tag:leisure=playground": "Terrain de jeux",
+    "tag:leisure=garden": "Jardin",
+    "tag:leisure=common": "Loisirs",
+    "tag:leisure=ice_rink": "Patinoire",
+    "tag:leisure=miniature_golf": "Golf miniature",
+    "tag:leisure=swimming_pool": "Piscine",
+    "tag:leisure=beach_resort": "Station balnéaire",
+    "tag:leisure=bird_hide": "Sanctuaire d'oiseaux",
+    "tag:leisure=sport": "Autres sports",
+    "tag:man_made": "Structures artificielles",
+    "tag:man_made=pipeline": {
+        "message": "Pipeline",
+        "!=1": "Pipelines"
+    },
+    "tag:type": "Type",
+    "tag:type=gas": "Essence",
+    "tag:type=heat": "Chaleur",
+    "tag:type=hot_water": "Eau chaude",
+    "tag:type=oil": "Huile",
+    "tag:type=sewage": "Égouts",
+    "tag:type=water": "Eau",
+    "tag:name": {
+        "message": "Nom",
+        "!=1": "Noms"
+    },
+    "tag:alt_name": {
+        "message": "Autre appellation",
+        "!=1": "Autres appellations"
+    },
+    "tag:official_name": {
+        "message": "Nom officiel",
+        "!=1": "Noms offiiciels"
+    },
+    "tag:int_name": "Nom international",
+    "tag:loc_name": "Appellation locale",
+    "tag:old_name": "Ancien nom(s)",
+    "tag:ref": "Référence",
+    "tag:network": "Réseau",
+    "tag:opening_hours": "Heures d'ouverture",
+    "tag:operator": "Opérateur",
+    "tag:place": "Lieu",
+    "tag:place=continent": "Continent",
+    "tag:place=country": "Pays",
+    "tag:place=state": "État \/ Province \/ Lander",
+    "tag:place=region": "Région",
+    "tag:place=county": "Comté",
+    "tag:place=city": "Ville",
+    "tag:place=town": "Commune",
+    "tag:place=village": "Village",
+    "tag:place=suburb": "Quartier",
+    "tag:place=hamlet": "Hameau",
+    "tag:place=locality": "Lieu-dit non habité",
+    "tag:place=island": "Île",
+    "tag:place=islet": "Îlot",
+    "tag:place=ocean": "Océan",
+    "tag:place=sea": "Mer",
+    "tag:population": "Population",
+    "tag:power": "Énergie",
+    "tag:power=generator": "Génératrice",
+    "tag:power=line": "Lignes de transport d'électricité",
+    "tag:power=minor_line": "Ligne électrique locale",
+    "tag:power=tower": "Pylônes électriques",
+    "tag:power=pole": "Pylônes électriques à un seul pied",
+    "tag:power=station": "Centrale électrique",
+    "tag:power=sub_station": "Sous-station électrique",
+    "tag:power_source": "Source d'énergie",
+    "tag:power_source=biofuel": "Biocarburant",
+    "tag:power_source=oil": "Huile",
+    "tag:power_source=coal": "Charbon",
+    "tag:power_source=gas": "Essence",
+    "tag:power_source=waste": "Déchets",
+    "tag:power_source=hydro": "Hydrolique",
+    "tag:power_source=tidal": "Marée",
+    "tag:power_source=wave": "Vague",
+    "tag:power_source=geothermal": "Géothermie",
+    "tag:power_source=nuclear": "Nucléaire",
+    "tag:power_source=fusion": "Fusion atomique",
+    "tag:power_source=wind": "Vent",
+    "tag:power_source=photovoltaic": "Solaire (électrique)",
+    "tag:power_source=solar-thermal": "Solaire (thermique)",
+    "tag:railway": "Chemin de fer",
+    "tag:railway=rail": {
+        "message": "Rail",
+        "!=1": "Rails"
+    },
+    "tag:railway=tram": {
+        "message": "Rail de Tram",
+        "!=1": "Rails de Tram"
+    },
+    "tag:railway=platform": {
+        "message": "Quai",
+        "!=1": "Quais"
+    },
+    "tag:real_ale": "Micros-Brasseries",
+    "tag:religion": "Religion",
+    "tag:religion=christian": "chrétien",
+    "tag:religion=buddhist": "boudhiste",
+    "tag:religion=hindu": "hindou",
+    "tag:religion=jewish": "juif",
+    "tag:religion=muslim": "musulman",
+    "tag:religion=multifaith": "multiconfessionnel",
+    "tag:denomination": "Confession\/Forme",
+    "tag:route": "Route",
+    "tag:route=train": "Train",
+    "tag:route=railway": "Chemin de fer",
+    "tag:route=rail": "Chemin de fer",
+    "tag:route=light_rail": "Tramway",
+    "tag:route=subway": "Métro",
+    "tag:route=tram": "Tram",
+    "tag:route=tram_bus": "Trams et Bus",
+    "tag:route=trolley": "Trolley",
+    "tag:route=trolleybus": "Trolley",
+    "tag:route=bus": "Bus",
+    "tag:route=minibus": "Minibus",
+    "tag:route=ferry": "Ferry",
+    "tag:route=road": "Route",
+    "tag:route=bicycle": "Vélo",
+    "tag:route=hiking": "Randonnée",
+    "tag:route=mtb": "VTT",
+    "tag:shop": "Boutique",
+    "tag:sport": "Sport",
+    "tag:sport=9pin": "9pin Bowling",
+    "tag:sport=10pin": "10pin Bowling",
+    "tag:sport=archery": "Tir à l'arc \/ Arbalète",
+    "tag:sport=athletics": "Athlétisme",
+    "tag:sport=australian_football": "Football australien",
+    "tag:sport=baseball": "Baseball",
+    "tag:sport=basketball": "Basketball",
+    "tag:sport=beachvolleyball": "Beach Volley",
+    "tag:sport=boules": "Jeux de boules",
+    "tag:sport=bowls": "Bowling",
+    "tag:sport=canoe": "Canoé",
+    "tag:sport=chess": "Échecs",
+    "tag:sport=climbing": "Escalade",
+    "tag:sport=cricket": "Cricket",
+    "tag:sport=cricket_nets": "Filets de Cricket",
+    "tag:sport=croquet": "Croquet",
+    "tag:sport=cycling": "Vélo",
+    "tag:sport=diving": "Plongée",
+    "tag:sport=dog_racing": "Course de chiens",
+    "tag:sport=equestrian": "Sport équestre",
+    "tag:sport=football": "Football",
+    "tag:sport=golf": "Golf",
+    "tag:sport=gymnastics": "Gymnastique",
+    "tag:sport=hockey": "Hockey",
+    "tag:sport=horse_racing": "Course de chevaux",
+    "tag:sport=korfball": "Korfball",
+    "tag:sport=motor": "Sports mécaniques",
+    "tag:sport=multi": "Multi-sport",
+    "tag:sport=orienteering": "Course d'orientation",
+    "tag:sport=paddle_tennis": "Paddle Tennis",
+    "tag:sport=paragliding": "Paragliding",
+    "tag:sport=pelota": "Pelote Basque",
+    "tag:sport=racquet": "Raquette",
+    "tag:sport=rowing": "Aviron",
+    "tag:sport=rugby": "Rugby",
+    "tag:sport=shooting": "Tir",
+    "tag:sport=skating": "Patin",
+    "tag:sport=skateboard": "Skateboard",
+    "tag:sport=skiing": "Ski",
+    "tag:sport=soccer": "Football",
+    "tag:sport=swimming": "Natation",
+    "tag:sport=table_tennis": "Tennis de table",
+    "tag:sport=team_handball": "Handball",
+    "tag:sport=tennis": "Tennis",
+    "tag:sport=volleyball": "Volleyball",
+    "tag:tracks": "Voies",
+    "tag:tracks=single": "Simple",
+    "tag:tracks=double": "Doubles",
+    "tag:tracks=multiple": "Multiples",
+    "tag:vending": "Distributeur automatique",
+    "tag:voltage": "Voltage",
+    "tag:wires": "Fils",
+    "tag:website": "Site Web",
+    "tag:cycleway": "Piste cyclable",
+    "tag:tracktype": "Type de chemin",
+    "tag:waterway": "Cours d'eau",
+    "tag:aerialway": "Transport suspendu",
+    "tag:public_transport": "Transport en commun",
+    "tag:office": "Service",
+    "tag:craft": "Artisanat",
+    "tag:emergency": "Equipement de secours",
+    "tag:tourism": "Tourisme",
+    "tag:historic": "Historique",
+    "tag:landuse": "Nature du terrain",
+    "tag:wood": "Type de végétation",
+    "tag:military": "Zone militaire",
+    "tag:natural": "Nature du terrain naturel",
+    "tag:natural=beach": "plage",
+    "tag:natural=glacier": "glacier",
+    "tag:natural=volcano": "volcan",
+    "tag:natural=wood": "bois",
+    "tag:natural=tree": "fôret",
+    "tag:geological": "Type de site géologique",
+    "tag:boundary": "Limite",
+    "tag:abutters": "Environnement",
+    "tag:lit": "Eclairage nocturne",
+    "tag:area": "Place",
+    "tag:crossing": "Passage piéton",
+    "tag:mountain_pass": "Chemin de montagne",
+    "tag:cutting": "Passage encaissé",
+    "tag:embankment": {
+        "description": "message 'tag:embankment' not translated"
+    },
+    "tag:lanes": "Voies",
+    "tag:layer": "Claque",
+    "tag:surface": "Surface",
+    "tag:smoothness": "Surface roulante",
+    "tag:ele": "Altitude",
+    "tag:width": "Largeur exacte",
+    "tag:est_width": "Largeur estimée",
+    "tag:incline": "pente",
+    "tag:start_date": "Date de création",
+    "tag:end_date": "Date de suppression",
+    "tag:disused": "Désaffecté",
+    "tag:wheelchair": "Accès fauteuils roulants",
+    "tag:wheelchair=limited": "Accès partiel fauteuils roulants",
+    "tag:tactile_paving": {
+        "description": "message 'tag:tactile_paving' not translated"
+    },
+    "tag:narrow": {
+        "description": "message 'tag:narrow' not translated"
+    },
+    "tag:covered": {
+        "description": "message 'tag:covered' not translated"
+    },
+    "tag:ford": {
+        "description": "message 'tag:ford' not translated"
+    },
+    "tag:access": {
+        "description": "message 'tag:access' not translated"
+    },
+    "tag:vehicle": {
+        "description": "message 'tag:vehicle' not translated"
+    },
+    "tag:bicycle": {
+        "description": "message 'tag:bicycle' not translated"
+    },
+    "tag:foot": {
+        "description": "message 'tag:foot' not translated"
+    },
+    "tag:goods": {
+        "description": "message 'tag:goods' not translated"
+    },
+    "tag:hgv": {
+        "description": "message 'tag:hgv' not translated"
+    },
+    "tag:horse": {
+        "description": "message 'tag:horse' not translated"
+    },
+    "tag:motorcycle": {
+        "description": "message 'tag:motorcycle' not translated"
+    },
+    "tag:motorcar": {
+        "description": "message 'tag:motorcar' not translated"
+    },
+    "tag:psv": {
+        "description": "message 'tag:psv' not translated"
+    },
+    "tag:oneway": {
+        "description": "message 'tag:oneway' not translated"
+    },
+    "tag:noexit": {
+        "description": "message 'tag:noexit' not translated"
+    },
+    "tag:maxweight": "Poids max.",
+    "tag:maxheight": "Hauteur max.",
+    "tag:maxlength": "Longueur max.",
+    "tag:maxspeed": "Vitesse max.",
+    "tag:minspeed": "Vitesse min.",
+    "tag:traffic_sign": "Feux de signalisation",
+    "tag:toll": "Péage",
+    "tag:charge": {
+        "description": "message 'tag:charge' not translated"
+    },
+    "tag:source": "Source",
+    "tag:phone": "Numéro de tél.",
+    "tag:fax": "Numéro de fax",
+    "tag:email": "E-mail",
+    "tag:wikipedia": "Wikipedia",
+    "tag:created_by": "Créé par",
+    "tag:construction": {
+        "description": "message 'tag:construction' not translated"
+    },
+    "tag:proposed": "Proposé",
+    "tag:route_type": "Type de Route"
+}

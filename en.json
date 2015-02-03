@@ -1,0 +1,488 @@
+{
+    "tag:*=yes": "yes",
+    "tag:*=no": "no",
+    "tag:accomodation": "Accomodation",
+    "tag:address": "Address",
+    "tag:addr:housenumber": {
+        "message": "Housenumber",
+        "!=1": "Housenumbers"
+    },
+    "tag:addr:housename": {
+        "message": "House name",
+        "!=1": "House names"
+    },
+    "tag:addr:street": {
+        "message": "Street",
+        "!=1": "Streets"
+    },
+    "tag:addr:postcode": {
+        "message": "Postal Code",
+        "!=1": "Postal Codes"
+    },
+    "tag:addr:city": {
+        "message": "City",
+        "!=1": "Cities"
+    },
+    "tag:addr:country": {
+        "message": "Country",
+        "!=1": "Countries"
+    },
+    "tag:addr:full": {
+        "message": "Full address",
+        "!=1": "Full addresses"
+    },
+    "tag:addr:interpolation": "Interpolated housenumbers",
+    "tag:aeroway": "Aeroway",
+    "tag:aeroway=runway": "Runway",
+    "tag:aeroway=taxiway": "Taxiway",
+    "tag:admin_level=2": "Country Border",
+    "tag:admin_level=3": "Divisions",
+    "tag:admin_level=4": "State Border",
+    "tag:admin_level=5": "Community Border",
+    "tag:admin_level=6": "County Border",
+    "tag:admin_level=7": {
+        "description": "message 'tag:admin_level=7' not translated"
+    },
+    "tag:admin_level=7.5": {
+        "description": "message 'tag:admin_level=7.5' not translated"
+    },
+    "tag:admin_level=8": "Town\/Municipality Border",
+    "tag:admin_level=10": "Subdivisions of Cities",
+    "tag:amenity": "Amenity",
+    "tag:amenity=cinema": {
+        "message": "Cinema",
+        "!=1": "Cinemas"
+    },
+    "tag:amenity=restaurant": {
+        "message": "Restaurant",
+        "!=1": "Restaurants"
+    },
+    "tag:amenity=pub": {
+        "message": "Pub",
+        "!=1": "Pubs"
+    },
+    "tag:barrier": {
+        "message": "Barrier",
+        "!=1": "Barriers"
+    },
+    "tag:barrier=city_wall": {
+        "message": "City wall",
+        "!=1": "City walls"
+    },
+    "tag:barrier=wall": {
+        "message": "Wall",
+        "!=1": "Walls"
+    },
+    "tag:barrier=retaining_wall": {
+        "message": "Retaining Wall",
+        "!=1": "Retaining Walls"
+    },
+    "tag:barrier=fence": {
+        "message": "Fence",
+        "!=1": "Fences"
+    },
+    "tag:barrier=hedge": {
+        "message": "Hedge",
+        "!=1": "Hedges"
+    },
+    "tag:cables": "Cables",
+    "tag:description": "Description",
+    "tag:fixme": "Fix me",
+    "tag:note": "Note",
+    "tag:food": "Serves food",
+    "tag:cuisine": "Cuisine",
+    "tag:cuisine=regional": "regional",
+    "tag:highway": {
+        "message": "Highway",
+        "!=1": "Highways"
+    },
+    "tag:highway=motorway": "Motorway",
+    "tag:highway=motorway_link": "Motorway Link",
+    "tag:highway=trunk": "Trunk Road",
+    "tag:highway=trunk_link": "Trunk Road Link",
+    "tag:highway=primary": "Primary Road",
+    "tag:highway=primary_link": "Primary Road Link",
+    "tag:highway=secondary": "Secondary Road",
+    "tag:highway=tertiary": "Tertiary Road",
+    "tag:highway=minor": "Minor Road",
+    "tag:highway=road": "Road",
+    "tag:highway=residential": "Residential Road",
+    "tag:highway=unclassified": "Unclassified Road",
+    "tag:highway=service": "Service Road",
+    "tag:highway=pedestrian": "Pedestrian Zone",
+    "tag:highway=living_street": "Living Street",
+    "tag:highway=path": "Path",
+    "tag:highway=cycleway": "Cycleway",
+    "tag:highway=footway": "Footway",
+    "tag:highway=bridleway": "Bridleway",
+    "tag:highway=track": "Track",
+    "tag:highway=steps": "Steps",
+    "tag:bridge": "Bridge",
+    "tag:tunnel": "Tunnel",
+    "tag:traffic_calming": "Traffic calming",
+    "tag:service": "Service road attributes",
+    "tag:postal_code": "Postal Code",
+    "tag:is_in": "Is in",
+    "tag:leisure": "Leisure",
+    "tag:leisure=sports_centre": "Sport Centre",
+    "tag:leisure=golf_course": "Golf Course",
+    "tag:leisure=stadium": "Stadium",
+    "tag:leisure=track": "Track",
+    "tag:leisure=pitch": "Pitche",
+    "tag:leisure=water_park": "Water Park",
+    "tag:leisure=marina": "Marina",
+    "tag:leisure=slipway": "Slipway",
+    "tag:leisure=fishing": "Fishing",
+    "tag:leisure=nature_reserve": "Nature Reserve",
+    "tag:leisure=park": "Leisure Park",
+    "tag:leisure=playground": "Playground",
+    "tag:leisure=garden": "Garden",
+    "tag:leisure=common": "Common",
+    "tag:leisure=ice_rink": "Ice Rink",
+    "tag:leisure=miniature_golf": "Miniature Golf",
+    "tag:leisure=swimming_pool": "Swimming Pool",
+    "tag:leisure=beach_resort": "Beach Resort",
+    "tag:leisure=bird_hide": "Bird Hide",
+    "tag:leisure=sport": "Other Sport",
+    "tag:man_made": "Artificial structures",
+    "tag:man_made=pipeline": {
+        "message": "Pipeline",
+        "!=1": "Pipelines"
+    },
+    "tag:type": "Type",
+    "tag:type=gas": "Gas",
+    "tag:type=heat": "Heat",
+    "tag:type=hot_water": "Hot Water",
+    "tag:type=oil": "Oil",
+    "tag:type=sewage": "Sewage",
+    "tag:type=water": "Water",
+    "tag:name": {
+        "message": "Name",
+        "!=1": "Names"
+    },
+    "tag:alt_name": {
+        "message": "Alternative name",
+        "!=1": "Alternative names"
+    },
+    "tag:official_name": {
+        "message": "Official name",
+        "!=1": "Official names"
+    },
+    "tag:int_name": {
+        "message": "International name",
+        "!=1": "International names"
+    },
+    "tag:loc_name": {
+        "message": "Local name",
+        "!=1": "Local names"
+    },
+    "tag:old_name": "Old Name(s)",
+    "tag:ref": {
+        "message": "Reference",
+        "!=1": null
+    },
+    "tag:network": "Network",
+    "tag:opening_hours": "Opening hours",
+    "tag:operator": "Operator",
+    "tag:place": "Place",
+    "tag:place=continent": {
+        "message": "Continent",
+        "!=1": "Continents"
+    },
+    "tag:place=country": {
+        "message": "Country",
+        "!=1": "Countries"
+    },
+    "tag:place=state": {
+        "message": "State",
+        "!=1": "States"
+    },
+    "tag:place=region": {
+        "message": "Region",
+        "!=1": "Regions"
+    },
+    "tag:place=county": {
+        "message": "County",
+        "!=1": "Counties"
+    },
+    "tag:place=city": {
+        "message": "City",
+        "!=1": "Cities"
+    },
+    "tag:place=town": "Town",
+    "tag:place=village": {
+        "message": "Village",
+        "!=1": "Villages"
+    },
+    "tag:place=suburb": {
+        "message": "Suburb",
+        "!=1": "Suburbs"
+    },
+    "tag:place=hamlet": {
+        "message": "Hamlet",
+        "!=1": "Hamlets"
+    },
+    "tag:place=locality": {
+        "message": "Locality",
+        "!=1": "Localities"
+    },
+    "tag:place=island": {
+        "message": "Island",
+        "!=1": "Islands"
+    },
+    "tag:place=islet": {
+        "message": "Islet",
+        "!=1": "Islets"
+    },
+    "tag:place=ocean": {
+        "message": "Ocean",
+        "!=1": "Oceans"
+    },
+    "tag:place=sea": {
+        "message": "Sea",
+        "!=1": "Seas"
+    },
+    "tag:population": "Population",
+    "tag:power": "Power",
+    "tag:power=generator": "Power Generator",
+    "tag:power=line": "Power Line",
+    "tag:power=minor_line": "Minor Power Line",
+    "tag:power=tower": "Power Tower",
+    "tag:power=pole": "Power Pole",
+    "tag:power=station": "Power Station",
+    "tag:power=sub_station": "Power Substation",
+    "tag:power_source": "Power source",
+    "tag:power_source=biofuel": "Biofuel",
+    "tag:power_source=oil": "Oil",
+    "tag:power_source=coal": "Coal",
+    "tag:power_source=gas": "Gas",
+    "tag:power_source=waste": "Waste",
+    "tag:power_source=hydro": "Hydro",
+    "tag:power_source=tidal": "Tidal",
+    "tag:power_source=wave": "Wave",
+    "tag:power_source=geothermal": "Geothermal",
+    "tag:power_source=nuclear": "Nuclear",
+    "tag:power_source=fusion": "Fusion",
+    "tag:power_source=wind": "Wind",
+    "tag:power_source=photovoltaic": "Photovoltaic",
+    "tag:power_source=solar-thermal": "Solar Thermal",
+    "tag:railway": "Railway",
+    "tag:railway=rail": {
+        "message": "Rail Track",
+        "!=1": "Rail Tracks"
+    },
+    "tag:railway=tram": {
+        "message": "Tram Track",
+        "!=1": "Tram Tracks"
+    },
+    "tag:railway=platform": {
+        "message": "Platform",
+        "!=1": "Platforms"
+    },
+    "tag:real_ale": "Real ale offered",
+    "tag:religion": "Religion",
+    "tag:religion=christian": "christian",
+    "tag:religion=buddhist": "buddhist",
+    "tag:religion=hindu": "hindu",
+    "tag:religion=jewish": "jewish",
+    "tag:religion=muslim": "muslim",
+    "tag:religion=multifaith": "multifaith",
+    "tag:denomination": "Denomination",
+    "tag:denomination=anglican": {
+        "description": "message 'tag:denomination=anglican' not translated"
+    },
+    "tag:denomination=baptist": {
+        "description": "message 'tag:denomination=baptist' not translated"
+    },
+    "tag:denomination=catholic": {
+        "description": "message 'tag:denomination=catholic' not translated"
+    },
+    "tag:denomination=greek_orthodox": {
+        "description": "message 'tag:denomination=greek_orthodox' not translated"
+    },
+    "tag:denomination=lutheran": {
+        "description": "message 'tag:denomination=lutheran' not translated"
+    },
+    "tag:denomination=orthodox": {
+        "description": "message 'tag:denomination=orthodox' not translated"
+    },
+    "tag:denomination=old-catholic": {
+        "description": "message 'tag:denomination=old-catholic' not translated"
+    },
+    "tag:denomination=protestant": {
+        "description": "message 'tag:denomination=protestant' not translated"
+    },
+    "tag:denomination=roman_catholic": {
+        "description": "message 'tag:denomination=roman_catholic' not translated"
+    },
+    "tag:denomination=russian_orthodox": {
+        "description": "message 'tag:denomination=russian_orthodox' not translated"
+    },
+    "tag:denomination=united_reformed": {
+        "description": "message 'tag:denomination=united_reformed' not translated"
+    },
+    "tag:route": "Route",
+    "tag:route=train": "Train",
+    "tag:route=railway": "Railway",
+    "tag:route=rail": "Railway",
+    "tag:route=light_rail": "Light Rail",
+    "tag:route=subway": "Subway",
+    "tag:route=tram": "Tram",
+    "tag:route=tram_bus": "Tram and Bus",
+    "tag:route=trolley": "Trolley",
+    "tag:route=trolleybus": "Trolley",
+    "tag:route=bus": "Bus",
+    "tag:route=minibus": "Minibus",
+    "tag:route=ferry": "Ferry",
+    "tag:route=road": "Road",
+    "tag:route=bicycle": "Bicycle",
+    "tag:route=hiking": "Hiking",
+    "tag:route=mtb": "Mountainbike",
+    "tag:shop": "Shop",
+    "tag:shop=chemist": {
+        "description": "message 'tag:shop=chemist' not translated"
+    },
+    "tag:sport": "Sport",
+    "tag:sport=9pin": "9pin Bowling",
+    "tag:sport=10pin": "10pin Bowling",
+    "tag:sport=archery": "Archery",
+    "tag:sport=athletics": "Athletics",
+    "tag:sport=australian_football": "Australian Football",
+    "tag:sport=baseball": "Baseball",
+    "tag:sport=basketball": "Basketball",
+    "tag:sport=beachvolleyball": "Beachvolleyball",
+    "tag:sport=boules": "Boules",
+    "tag:sport=bowls": "Bowls",
+    "tag:sport=canoe": "Canoe",
+    "tag:sport=chess": "Chess",
+    "tag:sport=climbing": "Climbing",
+    "tag:sport=cricket": "Cricket",
+    "tag:sport=cricket_nets": "Cricket Nets",
+    "tag:sport=croquet": "Croquet",
+    "tag:sport=cycling": "Cycling",
+    "tag:sport=diving": "Diving",
+    "tag:sport=dog_racing": "Dog Racing",
+    "tag:sport=equestrian": "Equestrian",
+    "tag:sport=football": "Football",
+    "tag:sport=golf": "Golf",
+    "tag:sport=gymnastics": "Gymnastics",
+    "tag:sport=hockey": "Hockey",
+    "tag:sport=horse_racing": "Horse Racing",
+    "tag:sport=korfball": "Korfball",
+    "tag:sport=motor": "Motor",
+    "tag:sport=multi": "Multi",
+    "tag:sport=orienteering": "Orienteering",
+    "tag:sport=paddle_tennis": "Paddle Tennis",
+    "tag:sport=paragliding": "Paragliding",
+    "tag:sport=pelota": "Pelota",
+    "tag:sport=racquet": "Racquet",
+    "tag:sport=rowing": "Rowing",
+    "tag:sport=rugby": "Rugby",
+    "tag:sport=shooting": "Shooting",
+    "tag:sport=skating": "Skating",
+    "tag:sport=skateboard": "Skateboard",
+    "tag:sport=skiing": "Skiing",
+    "tag:sport=soccer": "Soccer",
+    "tag:sport=swimming": "Swimming",
+    "tag:sport=table_tennis": "Table Tennis",
+    "tag:sport=team_handball": "Handball",
+    "tag:sport=tennis": "Tennis",
+    "tag:sport=volleyball": "Volleyball",
+    "tag:tracks": "Tracks",
+    "tag:tracks=single": "Single",
+    "tag:tracks=double": "Double",
+    "tag:tracks=multiple": "Multiple",
+    "tag:vending": "Vending",
+    "tag:voltage": "Voltage",
+    "tag:wires": "Wires",
+    "tag:website": "Website",
+    "tag:cycleway": "Cycleway",
+    "tag:tracktype": "Track type",
+    "tag:waterway": "Waterway",
+    "tag:aerialway": "Aerialway",
+    "tag:public_transport": "Public Transport",
+    "tag:office": "Office",
+    "tag:craft": "Craft",
+    "tag:emergency": "Emergency",
+    "tag:tourism": "Tourism",
+    "tag:historic": "Historic",
+    "tag:landuse": "Landuse",
+    "tag:wood": "Type of wood",
+    "tag:military": "Military",
+    "tag:natural": "Natural",
+    "tag:natural=beach": {
+        "description": "message 'tag:natural=beach' not translated"
+    },
+    "tag:natural=glacier": {
+        "description": "message 'tag:natural=glacier' not translated"
+    },
+    "tag:natural=cliff": {
+        "description": "message 'tag:natural=cliff' not translated"
+    },
+    "tag:natural=spring": {
+        "description": "message 'tag:natural=spring' not translated"
+    },
+    "tag:natural=volcano": {
+        "description": "message 'tag:natural=volcano' not translated"
+    },
+    "tag:natural=wood": {
+        "description": "message 'tag:natural=wood' not translated"
+    },
+    "tag:natural=tree": {
+        "description": "message 'tag:natural=tree' not translated"
+    },
+    "tag:geological": "Geological",
+    "tag:boundary": "Boundary",
+    "tag:abutters": "Abutters",
+    "tag:lit": "Street lighting",
+    "tag:area": "Area",
+    "tag:crossing": "crossing",
+    "tag:mountain_pass": "Mountain Pass",
+    "tag:cutting": "Cutting",
+    "tag:embankment": "Embankment",
+    "tag:lanes": "Lanes",
+    "tag:layer": "Layer",
+    "tag:surface": "Surface",
+    "tag:smoothness": "Smoothness",
+    "tag:ele": "Elevation",
+    "tag:width": "Width",
+    "tag:est_width": "Estimated width",
+    "tag:incline": "incline",
+    "tag:start_date": "Date of creation",
+    "tag:end_date": "Date of removal",
+    "tag:disused": "Disused",
+    "tag:wheelchair": "Wheelchair",
+    "tag:wheelchair=limited": "limited",
+    "tag:tactile_paving": "Tactile paving",
+    "tag:narrow": "Narrow",
+    "tag:covered": "Covered",
+    "tag:ford": "Ford",
+    "tag:access": "General access permission",
+    "tag:vehicle": "Vehicle access permission",
+    "tag:bicycle": "Bicycle access permission",
+    "tag:foot": "Foot access permission",
+    "tag:goods": "LCV access permission",
+    "tag:hgv": "HGV access permission",
+    "tag:horse": "Horse riders access permission",
+    "tag:motorcycle": "Motorcycle access permission",
+    "tag:motorcar": "Motorcar access permission",
+    "tag:psv": "PSV access permission",
+    "tag:oneway": "Oneway",
+    "tag:noexit": "Dead end road",
+    "tag:maxweight": "Max. weight",
+    "tag:maxheight": "Max. height",
+    "tag:maxlength": "Max. length",
+    "tag:maxspeed": "Max. speed",
+    "tag:minspeed": "Min. speed",
+    "tag:traffic_sign": "Traffic sign",
+    "tag:toll": "Toll",
+    "tag:charge": "Charge",
+    "tag:source": "Source",
+    "tag:phone": "Phone number",
+    "tag:fax": "Fax number",
+    "tag:email": "E-mail",
+    "tag:wikipedia": "Wikipedia",
+    "tag:created_by": "Created by",
+    "tag:construction": "Construction",
+    "tag:proposed": "Proposed"
+}

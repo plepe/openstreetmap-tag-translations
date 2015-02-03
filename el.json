@@ -1,0 +1,558 @@
+{
+    "tag:*=yes": "ναι",
+    "tag:*=no": "όχι",
+    "tag:accomodation": "Διαμονή",
+    "tag:address": "Διεύθυνση",
+    "tag:addr:housenumber": {
+        "message": "Αριθμός σπιτιού",
+        "!=1": "Αριθμοί σπιτιών"
+    },
+    "tag:addr:housename": {
+        "message": "Όνομα σπιτιού",
+        "!=1": "Ονόματα σπιτιών"
+    },
+    "tag:addr:street": {
+        "message": "Οδός",
+        "!=1": "Οδοί"
+    },
+    "tag:addr:postcode": {
+        "message": "Ταχ. Κώδικας",
+        "!=1": "Ταχ. Κώδικες"
+    },
+    "tag:addr:city": {
+        "message": "Πόλη",
+        "!=1": "Πόλεις"
+    },
+    "tag:addr:country": {
+        "message": "Χώρα",
+        "!=1": "Χώρες"
+    },
+    "tag:addr:full": {
+        "message": "Πλήρης διεύθυνση",
+        "!=1": "Πλήρεις διευθύνσεις"
+    },
+    "tag:addr:interpolation": {
+        "description": "message 'tag:addr:interpolation' not translated"
+    },
+    "tag:aeroway": {
+        "description": "message 'tag:aeroway' not translated"
+    },
+    "tag:aeroway=runway": {
+        "description": "message 'tag:aeroway=runway' not translated"
+    },
+    "tag:aeroway=taxiway": {
+        "description": "message 'tag:aeroway=taxiway' not translated"
+    },
+    "tag:admin_level=2": "Όρια Χώρας",
+    "tag:admin_level=3": {
+        "description": "message 'tag:admin_level=3' not translated"
+    },
+    "tag:admin_level=4": "Όρια Περιφέρειας",
+    "tag:admin_level=5": {
+        "description": "message 'tag:admin_level=5' not translated"
+    },
+    "tag:admin_level=6": "Όρια Νομού",
+    "tag:admin_level=8": "Όρια Δήμου",
+    "tag:admin_level=10": "Διαμέρισμα Δήμου",
+    "tag:amenity": {
+        "description": "message 'tag:amenity' not translated"
+    },
+    "tag:amenity=cinema": {
+        "message": "Κινηματογράφος",
+        "!=1": "Κινηματογράφοι"
+    },
+    "tag:amenity=restaurant": {
+        "message": "Εστιατόριο",
+        "!=1": "Εστιατόρια"
+    },
+    "tag:amenity=pub": {
+        "description": "message 'tag:amenity=pub' not translated"
+    },
+    "tag:barrier": {
+        "message": "Μπάρα",
+        "!=1": "Μπάρες"
+    },
+    "tag:barrier=city_wall": {
+        "description": "message 'tag:barrier=city_wall' not translated"
+    },
+    "tag:barrier=wall": {
+        "message": "Τοίχος",
+        "!=1": "Τοίχοι"
+    },
+    "tag:barrier=retaining_wall": {
+        "description": "message 'tag:barrier=retaining_wall' not translated"
+    },
+    "tag:barrier=fence": {
+        "message": "Φράχτης",
+        "!=1": "Φράχτες"
+    },
+    "tag:barrier=hedge": {
+        "description": "message 'tag:barrier=hedge' not translated"
+    },
+    "tag:cables": {
+        "description": "message 'tag:cables' not translated"
+    },
+    "tag:description": "Περιγραφή",
+    "tag:fixme": {
+        "description": "message 'tag:fixme' not translated"
+    },
+    "tag:note": "Σημείωση",
+    "tag:food": "Σερβίρισμα φαγητού",
+    "tag:cuisine": "Κουζίνα",
+    "tag:cuisine=regional": "τοπική",
+    "tag:highway": {
+        "message": "Οδική αρτηρία",
+        "!=1": "Οδικές αρτηρίες"
+    },
+    "tag:highway=motorway": "Αυτοκινητόδρομος",
+    "tag:highway=motorway_link": "Σύνδεση Αυτοκινητόδρομου",
+    "tag:highway=trunk": {
+        "description": "message 'tag:highway=trunk' not translated"
+    },
+    "tag:highway=trunk_link": {
+        "description": "message 'tag:highway=trunk_link' not translated"
+    },
+    "tag:highway=primary": "Πρωτεύων Δρόμος",
+    "tag:highway=primary_link": "Σύνδεση Πρωτεύοντος Δρόμου",
+    "tag:highway=secondary": "Δευτερεύων Δρόμος",
+    "tag:highway=tertiary": "Τριτεύων Δρόμος",
+    "tag:highway=minor": "Μικρός Δρόμος",
+    "tag:highway=road": "Δρόμος",
+    "tag:highway=residential": {
+        "description": "message 'tag:highway=residential' not translated"
+    },
+    "tag:highway=unclassified": {
+        "description": "message 'tag:highway=unclassified' not translated"
+    },
+    "tag:highway=service": {
+        "description": "message 'tag:highway=service' not translated"
+    },
+    "tag:highway=pedestrian": "Ζώνη πεζών",
+    "tag:highway=living_street": {
+        "description": "message 'tag:highway=living_street' not translated"
+    },
+    "tag:highway=path": {
+        "description": "message 'tag:highway=path' not translated"
+    },
+    "tag:highway=cycleway": "Ποδηλατόδρομος",
+    "tag:highway=footway": "Μονοπάτι",
+    "tag:highway=bridleway": {
+        "description": "message 'tag:highway=bridleway' not translated"
+    },
+    "tag:highway=track": "Χωματόδρομος",
+    "tag:highway=steps": "Σκαλιά",
+    "tag:bridge": "Γέφυρα",
+    "tag:tunnel": "Σήραγγα",
+    "tag:traffic_calming": {
+        "description": "message 'tag:traffic_calming' not translated"
+    },
+    "tag:service": {
+        "description": "message 'tag:service' not translated"
+    },
+    "tag:postal_code": "Ταχ. Κώδικας",
+    "tag:is_in": {
+        "description": "message 'tag:is_in' not translated"
+    },
+    "tag:leisure": "Αναψυχή",
+    "tag:leisure=sports_centre": "Αθλητικό Κέντρο",
+    "tag:leisure=golf_course": "Γήπεδο Γκολφ",
+    "tag:leisure=stadium": "Στάδιο",
+    "tag:leisure=track": {
+        "description": "message 'tag:leisure=track' not translated"
+    },
+    "tag:leisure=pitch": {
+        "description": "message 'tag:leisure=pitch' not translated"
+    },
+    "tag:leisure=water_park": {
+        "description": "message 'tag:leisure=water_park' not translated"
+    },
+    "tag:leisure=marina": "Μαρίνα",
+    "tag:leisure=slipway": "Γλίστρα",
+    "tag:leisure=fishing": "Ψάρεμα",
+    "tag:leisure=nature_reserve": {
+        "description": "message 'tag:leisure=nature_reserve' not translated"
+    },
+    "tag:leisure=park": {
+        "description": "message 'tag:leisure=park' not translated"
+    },
+    "tag:leisure=playground": {
+        "description": "message 'tag:leisure=playground' not translated"
+    },
+    "tag:leisure=garden": "Κήπος",
+    "tag:leisure=common": {
+        "description": "message 'tag:leisure=common' not translated"
+    },
+    "tag:leisure=ice_rink": {
+        "description": "message 'tag:leisure=ice_rink' not translated"
+    },
+    "tag:leisure=miniature_golf": "Μίνι Γκολφ",
+    "tag:leisure=swimming_pool": "Πισίνα",
+    "tag:leisure=beach_resort": "Παραθαλάσσιο Θέρετρο",
+    "tag:leisure=bird_hide": "Καταφύγιο Πουλιών",
+    "tag:leisure=sport": "Άλλο Άθλημα",
+    "tag:man_made": "Τεχνητές Κατασκευές",
+    "tag:man_made=pipeline": {
+        "message": "Αγωγός",
+        "!=1": "Αγωγοί"
+    },
+    "tag:type": "Τύπος",
+    "tag:type=gas": "Αέριο",
+    "tag:type=heat": "Θέρμανση",
+    "tag:type=hot_water": "Ζεστό Νερό",
+    "tag:type=oil": "Πετρέλαιο",
+    "tag:type=sewage": "Απόβλητα",
+    "tag:type=water": "Νερό",
+    "tag:name": {
+        "message": "Όνομα",
+        "!=1": "Ονόματα"
+    },
+    "tag:alt_name": {
+        "message": "Εναλλακτικό όνομα",
+        "!=1": "Εναλλακτικά ονόματα"
+    },
+    "tag:official_name": {
+        "message": "Επίσημο όνομα",
+        "!=1": "Επίσημα ονόματα"
+    },
+    "tag:int_name": {
+        "message": "Διεθνές όνομα",
+        "!=1": "Διεθνή ονόματα"
+    },
+    "tag:loc_name": {
+        "message": "Τοπικό όνομα",
+        "!=1": "Τοπικά ονόματα"
+    },
+    "tag:old_name": "Παλιό(α) Όνομα(τα)",
+    "tag:ref": {
+        "description": "message 'tag:ref' not translated"
+    },
+    "tag:network": "Δίκτυο",
+    "tag:opening_hours": "Ώρες λειτουργίας",
+    "tag:operator": "Διαχειριστής",
+    "tag:place": "Τόπος",
+    "tag:place=continent": {
+        "message": "Ήπειρος",
+        "!=1": "Ήπειροι"
+    },
+    "tag:place=country": {
+        "message": "Χώρα",
+        "!=1": "Χώρες"
+    },
+    "tag:place=state": {
+        "message": "Πολιτεία",
+        "!=1": "Πολιτείες"
+    },
+    "tag:place=region": {
+        "message": "Περιοχή",
+        "!=1": "Περιοχές"
+    },
+    "tag:place=county": {
+        "message": "Επαρχία",
+        "!=1": "Επαρχίες"
+    },
+    "tag:place=city": {
+        "message": "Πόλη",
+        "!=1": "Πόλεις"
+    },
+    "tag:place=town": "Κωμόπολη",
+    "tag:place=village": {
+        "message": "Χωριό",
+        "!=1": "Χωριά"
+    },
+    "tag:place=suburb": {
+        "message": "Προάστιο",
+        "!=1": "Προάστια"
+    },
+    "tag:place=hamlet": {
+        "message": "Οικισμός",
+        "!=1": "Οικισμοί"
+    },
+    "tag:place=locality": {
+        "message": "Τοποθεσία",
+        "!=1": "Τοποθεσίες"
+    },
+    "tag:place=island": {
+        "message": "Νησί",
+        "!=1": "Νησιά"
+    },
+    "tag:place=islet": {
+        "message": "Νησίδα",
+        "!=1": "Νησίδες"
+    },
+    "tag:place=ocean": {
+        "message": "Ωκεανός",
+        "!=1": "Ωκεανοί"
+    },
+    "tag:place=sea": {
+        "message": "Θάλασσα",
+        "!=1": "Θάλασσες"
+    },
+    "tag:population": "Πληθυσμός",
+    "tag:power": "Ενέργεια",
+    "tag:power=generator": "Γενήτρια Ρεύματος",
+    "tag:power=line": "Γραμμή Ρεύματος",
+    "tag:power=minor_line": {
+        "description": "message 'tag:power=minor_line' not translated"
+    },
+    "tag:power=tower": "Πυλώνας Ρεύματος",
+    "tag:power=pole": "Κολόνα Ρεύματος",
+    "tag:power=station": "Σταθμός ρεύματος",
+    "tag:power=sub_station": "Υποσταθμός ρεύματος",
+    "tag:power_source": "Πηγή Ισχύος",
+    "tag:power_source=biofuel": "Βιοκαύσιμο",
+    "tag:power_source=oil": "Πετρέλαιο",
+    "tag:power_source=coal": "Κάρβουνο",
+    "tag:power_source=gas": "Αέριο",
+    "tag:power_source=waste": "Απορρίμματα",
+    "tag:power_source=hydro": "Νερό",
+    "tag:power_source=tidal": "Παλίρροια",
+    "tag:power_source=wave": "Κύματα",
+    "tag:power_source=geothermal": "Γεωθερμία",
+    "tag:power_source=nuclear": "Πυρηνικά",
+    "tag:power_source=fusion": "Σύντηξη",
+    "tag:power_source=wind": "Αέρας",
+    "tag:power_source=photovoltaic": "Φωτοβολταϊκά",
+    "tag:power_source=solar-thermal": "Ηλιοθερμία",
+    "tag:railway": "Σιδηρόδρομος",
+    "tag:railway=rail": {
+        "message": "Τροχιά Τρένου",
+        "!=1": "Τροχιές Τρένου"
+    },
+    "tag:railway=tram": {
+        "message": "Τροχιά Τραμ",
+        "!=1": "Τροχιές Τραμ"
+    },
+    "tag:railway=platform": {
+        "message": "Πλατφόρμα",
+        "!=1": "Πλατφόρμες"
+    },
+    "tag:real_ale": {
+        "description": "message 'tag:real_ale' not translated"
+    },
+    "tag:religion": "Θρησκεία",
+    "tag:religion=christian": "Χριστιανισμός",
+    "tag:religion=buddhist": "Βουδισμός",
+    "tag:religion=hindu": "Ινδουισμός",
+    "tag:religion=jewish": "Ιουδαϊσμός",
+    "tag:religion=muslim": "Μουσουλμανισμός",
+    "tag:religion=multifaith": "Πολυθεϊσμός",
+    "tag:denomination": "Δόγμα",
+    "tag:route": "Δρομολόγιο",
+    "tag:route=train": "Τρένο",
+    "tag:route=railway": "Σιδηρόδρομος",
+    "tag:route=rail": "Σιδηρόδρομος",
+    "tag:route=light_rail": {
+        "description": "message 'tag:route=light_rail' not translated"
+    },
+    "tag:route=subway": "Υπόγειος",
+    "tag:route=tram": "Τραμ",
+    "tag:route=tram_bus": "Τραμ και λεωφορείο",
+    "tag:route=trolley": "Τρόλεϊ",
+    "tag:route=trolleybus": "Τρόλεϊ",
+    "tag:route=bus": "Λεωφορείο",
+    "tag:route=minibus": {
+        "description": "message 'tag:route=minibus' not translated"
+    },
+    "tag:route=ferry": "Πορθμείο",
+    "tag:route=road": "Δρόμος",
+    "tag:route=bicycle": "Ποδήλατο",
+    "tag:route=hiking": "Πεζοπορία",
+    "tag:route=mtb": "Ποδήλατο Βουνού",
+    "tag:shop": "Κατάστημα",
+    "tag:sport": "Άθλητισμός",
+    "tag:sport=9pin": {
+        "description": "message 'tag:sport=9pin' not translated"
+    },
+    "tag:sport=10pin": {
+        "description": "message 'tag:sport=10pin' not translated"
+    },
+    "tag:sport=archery": "Τοξοβολία",
+    "tag:sport=athletics": {
+        "description": "message 'tag:sport=athletics' not translated"
+    },
+    "tag:sport=australian_football": "Αυστραλιανό Ποδόσφαιρο",
+    "tag:sport=baseball": {
+        "description": "message 'tag:sport=baseball' not translated"
+    },
+    "tag:sport=basketball": "Μπάσκετ",
+    "tag:sport=beachvolleyball": {
+        "description": "message 'tag:sport=beachvolleyball' not translated"
+    },
+    "tag:sport=boules": {
+        "description": "message 'tag:sport=boules' not translated"
+    },
+    "tag:sport=bowls": {
+        "description": "message 'tag:sport=bowls' not translated"
+    },
+    "tag:sport=canoe": "Κανό",
+    "tag:sport=chess": "Σκάκι",
+    "tag:sport=climbing": "Ορειβασία",
+    "tag:sport=cricket": "Κρίκετ",
+    "tag:sport=cricket_nets": {
+        "description": "message 'tag:sport=cricket_nets' not translated"
+    },
+    "tag:sport=croquet": {
+        "description": "message 'tag:sport=croquet' not translated"
+    },
+    "tag:sport=cycling": {
+        "description": "message 'tag:sport=cycling' not translated"
+    },
+    "tag:sport=diving": "Κατάδυση",
+    "tag:sport=dog_racing": "Κυνοδρομίες",
+    "tag:sport=equestrian": {
+        "description": "message 'tag:sport=equestrian' not translated"
+    },
+    "tag:sport=football": "Ποδόσφαιρο",
+    "tag:sport=golf": "Γκολφ",
+    "tag:sport=gymnastics": "Γυμναστική",
+    "tag:sport=hockey": "Χόκεϊ",
+    "tag:sport=horse_racing": "Ιππόδρομος",
+    "tag:sport=korfball": {
+        "description": "message 'tag:sport=korfball' not translated"
+    },
+    "tag:sport=motor": "Μηχανοκίνητα",
+    "tag:sport=multi": "Πολλαπλά",
+    "tag:sport=orienteering": {
+        "description": "message 'tag:sport=orienteering' not translated"
+    },
+    "tag:sport=paddle_tennis": {
+        "description": "message 'tag:sport=paddle_tennis' not translated"
+    },
+    "tag:sport=paragliding": {
+        "description": "message 'tag:sport=paragliding' not translated"
+    },
+    "tag:sport=pelota": {
+        "description": "message 'tag:sport=pelota' not translated"
+    },
+    "tag:sport=racquet": {
+        "description": "message 'tag:sport=racquet' not translated"
+    },
+    "tag:sport=rowing": "Κωπηλασία",
+    "tag:sport=rugby": {
+        "description": "message 'tag:sport=rugby' not translated"
+    },
+    "tag:sport=shooting": "Σκοποβολή",
+    "tag:sport=skating": {
+        "description": "message 'tag:sport=skating' not translated"
+    },
+    "tag:sport=skateboard": {
+        "description": "message 'tag:sport=skateboard' not translated"
+    },
+    "tag:sport=skiing": {
+        "description": "message 'tag:sport=skiing' not translated"
+    },
+    "tag:sport=soccer": "Ποδόσφαιρο",
+    "tag:sport=swimming": "Κολύμβηση",
+    "tag:sport=table_tennis": "Πινγκ Πονγκ",
+    "tag:sport=team_handball": "Χάντμπολ",
+    "tag:sport=tennis": "Τένις",
+    "tag:sport=volleyball": "Βόλεϊ",
+    "tag:tracks": "Τροχιές",
+    "tag:tracks=single": "Μονή",
+    "tag:tracks=double": "Διπλή",
+    "tag:tracks=multiple": "Πολλαπλή",
+    "tag:vending": {
+        "description": "message 'tag:vending' not translated"
+    },
+    "tag:voltage": "Τάση",
+    "tag:wires": "Καλώδια",
+    "tag:website": "Ιστότοπος",
+    "tag:cycleway": "Ποδηλατόδρομος",
+    "tag:tracktype": {
+        "description": "message 'tag:tracktype' not translated"
+    },
+    "tag:waterway": "Υδατοδιαδρομή",
+    "tag:aerialway": {
+        "description": "message 'tag:aerialway' not translated"
+    },
+    "tag:public_transport": "Μέσα Μαζικής Μεταφοράς",
+    "tag:office": {
+        "description": "message 'tag:office' not translated"
+    },
+    "tag:craft": {
+        "description": "message 'tag:craft' not translated"
+    },
+    "tag:emergency": {
+        "description": "message 'tag:emergency' not translated"
+    },
+    "tag:tourism": "Τουρισμός",
+    "tag:historic": "Ιστορικά",
+    "tag:landuse": "Χρήση Γης",
+    "tag:wood": "Τύπος δάσους",
+    "tag:military": "Στρατιωτικό",
+    "tag:natural": "Φυσικό",
+    "tag:geological": "Γεωλογικό",
+    "tag:boundary": "Όριο",
+    "tag:abutters": {
+        "description": "message 'tag:abutters' not translated"
+    },
+    "tag:lit": "Φωτισμός οδού",
+    "tag:area": "Περιοχή",
+    "tag:crossing": "Διασταύρωση",
+    "tag:mountain_pass": {
+        "description": "message 'tag:mountain_pass' not translated"
+    },
+    "tag:cutting": {
+        "description": "message 'tag:cutting' not translated"
+    },
+    "tag:embankment": "Ανάχωμα",
+    "tag:lanes": "Λωρίδες",
+    "tag:layer": "Επίπεδο",
+    "tag:surface": "Επιφάνεια",
+    "tag:smoothness": "Ομαλότητα",
+    "tag:ele": "Υψόμετρο",
+    "tag:width": "Πλάτος",
+    "tag:est_width": "Αναμενόμενο πλάτος",
+    "tag:incline": "Κλίση",
+    "tag:start_date": "Ημερ\/νία κατασκευής",
+    "tag:end_date": "Ημερ\/νία αφαίρεσης",
+    "tag:disused": "Εκτός χρήσης",
+    "tag:wheelchair": "Αναπηρική πολυθρόνα",
+    "tag:wheelchair=limited": "Περιορισμένο",
+    "tag:tactile_paving": {
+        "description": "message 'tag:tactile_paving' not translated"
+    },
+    "tag:narrow": "Στενό",
+    "tag:covered": "Επενδεδυμένο",
+    "tag:ford": "Κοιτόστρωση",
+    "tag:access": "Γενικοί κανόνες πρόσβασης",
+    "tag:vehicle": "Άδεια πρόσβασης οχημάτων",
+    "tag:bicycle": "Άδεια πρόσβασης ποδηλάτων",
+    "tag:foot": "Άδεια πρόσβασης πεζών",
+    "tag:goods": {
+        "description": "message 'tag:goods' not translated"
+    },
+    "tag:hgv": {
+        "description": "message 'tag:hgv' not translated"
+    },
+    "tag:horse": {
+        "description": "message 'tag:horse' not translated"
+    },
+    "tag:motorcycle": "Άδεια πρόσβασης μοτοσυκλετών",
+    "tag:motorcar": {
+        "description": "message 'tag:motorcar' not translated"
+    },
+    "tag:psv": {
+        "description": "message 'tag:psv' not translated"
+    },
+    "tag:oneway": "Μονόδρομος",
+    "tag:noexit": "Αδιέξοδο",
+    "tag:maxweight": "Μεγ. βάρος",
+    "tag:maxheight": "Μεγ. ύψος",
+    "tag:maxlength": "Μεγ. μήκος",
+    "tag:maxspeed": "Μεγ. ταχύτητα",
+    "tag:minspeed": "Ελαχ. ταχύτητα",
+    "tag:traffic_sign": "Πινακίδα τροχαίας",
+    "tag:toll": "Διόδια",
+    "tag:charge": "Φόρτιση",
+    "tag:source": "Πηγή",
+    "tag:phone": "Αριθμ. τηλεφώνου",
+    "tag:fax": "Αριθμ. φαξ",
+    "tag:email": "E-mail",
+    "tag:wikipedia": {
+        "description": "message 'tag:wikipedia' not translated"
+    },
+    "tag:created_by": "Δημιουργήθηκε από",
+    "tag:construction": "Υπό Κατασκευή",
+    "tag:proposed": "Προτεινόμενο"
+}
