@@ -1,0 +1,45 @@
+{
+    "lang:current": {
+        "message": "Українська",
+        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
+    },
+    "lang:de": "Німецька",
+    "lang:bg": "Болгарська",
+    "lang:cs": "Чеська",
+    "lang:en": "Англійска",
+    "lang:es": "Испанська",
+    "lang:it": "Італійська",
+    "lang:fr": "Французька",
+    "lang:uk": "Українська",
+    "lang:ru": "Російська",
+    "lang:ja": "Японська",
+    "lang:hu": "Угорська",
+    "lang:nl": "Голландська",
+    "lang:ast": {
+        "description": "message 'lang:ast' not translated"
+    },
+    "lang:el": {
+        "description": "message 'lang:el' not translated"
+    },
+    "lang:pl": {
+        "description": "message 'lang:pl' not translated"
+    },
+    "lang:ca": {
+        "description": "message 'lang:ca' not translated"
+    },
+    "lang:sr": {
+        "description": "message 'lang:sr' not translated"
+    },
+    "lang:ro": {
+        "description": "message 'lang:ro' not translated"
+    },
+    "lang:da": {
+        "description": "message 'lang:da' not translated"
+    },
+    "lang:pt": {
+        "description": "message 'lang:pt' not translated"
+    },
+    "lang:pt-br": {
+        "description": "message 'lang:pt-br' not translated"
+    }
+}

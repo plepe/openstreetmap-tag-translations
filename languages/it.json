@@ -1,0 +1,19 @@
+{
+    "lang:current": {
+        "message": "Italiano",
+        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
+    },
+    "lang:de": "Tedesco",
+    "lang:bg": "Bulgaro",
+    "lang:cs": "Ceco",
+    "lang:en": "Inglese",
+    "lang:es": "Spagnolo",
+    "lang:it": "Italiano",
+    "lang:fr": "Francese",
+    "lang:uk": "Ucraino",
+    "lang:ru": "Russo",
+    "lang:ja": "Giapponese",
+    "lang:hu": "Ungherese",
+    "lang:nl": "Olandese",
+    "lang:ast": "Asturiano"
+}

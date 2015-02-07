@@ -1,0 +1,23 @@
+{
+    "lang:current": {
+        "message": "Magyar",
+        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
+    },
+    "lang:de": "Német",
+    "lang:bg": "Bulgár",
+    "lang:cs": "Cseh",
+    "lang:en": "Angol",
+    "lang:es": "Spanyol",
+    "lang:it": "Olasz",
+    "lang:fr": "Francia",
+    "lang:uk": "Ukrán",
+    "lang:ru": "Orosz",
+    "lang:ja": "Japán",
+    "lang:hu": "Magyar",
+    "lang:nl": {
+        "description": "message 'lang:nl' not translated"
+    },
+    "lang:ast": {
+        "description": "message 'lang:ast' not translated"
+    }
+}

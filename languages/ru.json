@@ -1,0 +1,27 @@
+{
+    "lang:current": {
+        "message": "Русский",
+        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
+    },
+    "lang:de": "Немецкий",
+    "lang:bg": "Болгарский",
+    "lang:cs": "Чешский",
+    "lang:en": "Английский",
+    "lang:es": "Испанский",
+    "lang:it": "Итальянский",
+    "lang:fr": "Французский",
+    "lang:uk": "Украинский",
+    "lang:ru": "Русский",
+    "lang:ja": "Японский",
+    "lang:hu": "Венгерский",
+    "lang:nl": "Голландский",
+    "lang:ast": "Австрийский",
+    "lang:el": "Греческий",
+    "lang:pl": "Польский",
+    "lang:ca": "Каталонский",
+    "lang:sr": "Сербский",
+    "lang:ro": "Румынский",
+    "lang:da": "Датский",
+    "lang:pt": "Португальский",
+    "lang:pt-br": "Португальский (Бразилия)"
+}

@@ -1,0 +1,27 @@
+{
+    "lang:current": {
+        "message": "Dansk",
+        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
+    },
+    "lang:de": "Tysk",
+    "lang:bg": "Bulgarisk",
+    "lang:cs": "Tjekkisk",
+    "lang:en": "Engelsk",
+    "lang:es": "Spansk",
+    "lang:it": "Italiensk",
+    "lang:fr": "Fransk",
+    "lang:uk": "Ukrainsk",
+    "lang:ru": "Russisk",
+    "lang:ja": "Japansk",
+    "lang:hu": "Ungarsk",
+    "lang:nl": "Nederlansk",
+    "lang:ast": "Asturiansk",
+    "lang:el": "Græsk",
+    "lang:pl": "Polsk",
+    "lang:ca": "Catalansk",
+    "lang:sr": "Serbisk",
+    "lang:ro": "Rumænsk",
+    "lang:da": "Dansk",
+    "lang:pt": "Portugisisk",
+    "lang:pt-br": "Portugisisk (Brasilien)"
+}

@@ -1,0 +1,22 @@
+{
+    "lang:current": {
+        "message": "Asturianu",
+        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
+    },
+    "lang:de": "Alemán",
+    "lang:bg": "Búlgaru",
+    "lang:cs": "Checu",
+    "lang:en": "Inglés",
+    "lang:es": "Español",
+    "lang:it": "Italianu",
+    "lang:fr": "Francés",
+    "lang:uk": "Ucraín",
+    "lang:ru": "Rusu",
+    "lang:ja": "Xaponés",
+    "lang:hu": "Húngaru",
+    "lang:nl": "Neerlandés",
+    "lang:ast": "Asturianu",
+    "lang:el": "Griegu",
+    "lang:pl": "Polacu",
+    "lang:ca": "Catalán"
+}

@@ -1,0 +1,31 @@
+{
+    "lang:current": {
+        "message": "Polski",
+        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
+    },
+    "lang:de": "Niemiecki",
+    "lang:bg": "Bułgarski",
+    "lang:cs": "Czeski",
+    "lang:en": "Angielski",
+    "lang:es": "Hiszpański",
+    "lang:it": "Włoski",
+    "lang:fr": "Francuski",
+    "lang:uk": "Ukraiński",
+    "lang:ru": "Rosyjski",
+    "lang:ja": "Japoński",
+    "lang:hu": "Węgierski",
+    "lang:nl": "Duński",
+    "lang:ast": {
+        "description": "message 'lang:ast' not translated"
+    },
+    "lang:el": "Grecki",
+    "lang:pl": "Polski",
+    "lang:ca": {
+        "description": "message 'lang:ca' not translated"
+    },
+    "lang:sr": "Serbski",
+    "lang:ro": "Rumuński",
+    "lang:da": "Duński",
+    "lang:pt": "Portugalski",
+    "lang:pt-br": "Portugalski (Brazylia)"
+}

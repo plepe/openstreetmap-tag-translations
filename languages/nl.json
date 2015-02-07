@@ -1,0 +1,22 @@
+{
+    "lang:current": {
+        "message": "Nederlands",
+        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
+    },
+    "lang:de": "Duits",
+    "lang:bg": "Bulgaars",
+    "lang:cs": "Tsjechisch",
+    "lang:en": "Engels",
+    "lang:es": "Spaans",
+    "lang:it": "Italiaans",
+    "lang:fr": "Frans",
+    "lang:uk": "Oekraïens",
+    "lang:ru": "Russisch",
+    "lang:ja": "Japans",
+    "lang:hu": "Hongaars",
+    "lang:nl": "Nederlands",
+    "lang:ast": "Asturisch",
+    "lang:el": "Grieks",
+    "lang:pl": "Pools",
+    "lang:ca": "Catalaans"
+}

@@ -1,0 +1,22 @@
+{
+    "lang:current": {
+        "message": "Српски",
+        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
+    },
+    "lang:de": "немачки",
+    "lang:bg": "бугарски",
+    "lang:cs": "чешки",
+    "lang:en": "енглески",
+    "lang:es": "шпански",
+    "lang:it": "италијански",
+    "lang:fr": "француски",
+    "lang:uk": "украински",
+    "lang:ru": "руски",
+    "lang:ja": "јапански",
+    "lang:hu": "мађарски",
+    "lang:nl": "холандски",
+    "lang:ast": "аустријски",
+    "lang:el": "грчки",
+    "lang:pl": "пољски",
+    "lang:ca": "каталонски"
+}

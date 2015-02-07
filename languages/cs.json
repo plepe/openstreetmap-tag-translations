@@ -1,0 +1,28 @@
+{
+    "lang:current": {
+        "message": "Čeština",
+        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
+    },
+    "lang:de": "Němčina",
+    "lang:bg": "Bulharština",
+    "lang:cs": "Čeština",
+    "lang:en": "Angličtina",
+    "lang:es": "Španělština",
+    "lang:et": "Estonština",
+    "lang:it": "Italština",
+    "lang:fr": "Francouzština",
+    "lang:uk": "Ukrajinština",
+    "lang:ru": "Ruština",
+    "lang:ja": "Japonština",
+    "lang:hu": "Maďarština",
+    "lang:nl": "Holandština",
+    "lang:ast": "Asturština",
+    "lang:el": "Řečtina",
+    "lang:pl": "Polština",
+    "lang:ca": "Katalánština",
+    "lang:sr": "Srbština",
+    "lang:ro": "Rumunština",
+    "lang:da": "Dánština",
+    "lang:pt": "Portugalština",
+    "lang:pt-br": "Portugalština (Brazílie)"
+}

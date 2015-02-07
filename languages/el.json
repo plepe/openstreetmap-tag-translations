@@ -1,0 +1,30 @@
+{
+    "lang:current": {
+        "message": "Ελληνικά",
+        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
+    },
+    "lang:de": "Γερμανικά",
+    "lang:bg": "Βουλγαρικά",
+    "lang:cs": "Τσέχικα",
+    "lang:en": "Αγγλικά",
+    "lang:es": "Ισπανικά",
+    "lang:et": "Εσθονικά",
+    "lang:it": "Ιταλικά",
+    "lang:fr": "Γαλλικά",
+    "lang:uk": "Ουκρανικά",
+    "lang:ru": "Ρώσικα",
+    "lang:ja": "Ιαπωνικά",
+    "lang:hu": "Ουγγρικά",
+    "lang:nl": "Ολλανδικά",
+    "lang:ast": {
+        "description": "message 'lang:ast' not translated"
+    },
+    "lang:el": "Ελληνικά",
+    "lang:pl": "Πολωνικά",
+    "lang:ca": "Καταλανικά",
+    "lang:sr": "Σέρβικα",
+    "lang:ro": "Ρουμάνικα",
+    "lang:da": "Δανικά",
+    "lang:pt": "Πορτογαλικά",
+    "lang:pt-br": "Πορτογαλικά (Βραζιλίας)"
+}

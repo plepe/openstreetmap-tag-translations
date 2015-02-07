@@ -1,0 +1,22 @@
+{
+    "lang:current": {
+        "message": "Français",
+        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
+    },
+    "lang:de": "Allemand",
+    "lang:bg": "Bulgare",
+    "lang:cs": "Tchèque",
+    "lang:en": "Anglais",
+    "lang:es": "Espagnol",
+    "lang:it": "Italien",
+    "lang:fr": "Français",
+    "lang:uk": "Ukrainien",
+    "lang:ru": "Russe",
+    "lang:ja": "Japonais",
+    "lang:hu": "Hongrois",
+    "lang:nl": "Allemand",
+    "lang:ast": "Asturien",
+    "lang:el": "Grec",
+    "lang:pl": "Polonais",
+    "lang:ca": "Catalan"
+}
