@@ -152,6 +152,15 @@
     "tag:highway=unclassified": {
         "description": "message 'tag:highway=unclassified' not translated"
     },
+    "tag:internet_access=public": "Acceso no especificado a Internet",
+    "tag:internet_access=service": "Centro de acceso a Internet",
+    "tag:internet_access=terminal": "Acceso de pago a Internet con un ordenador",
+    "tag:internet_access=terminal internet_access:fee=no": "Acceso gratuito a Internet con un ordenador",
+    "tag:internet_access=wired": "Acceso con cable a Internet",
+    "tag:internet_access=wlan internet_access:access=customer internet_access:fee=no, wifi=customers": "Acceso WiFi gratuito a Internet para clientes",
+    "tag:internet_access=wlan internet_access:fee=no, wifi=free": "Acceso WiFi gratuito a Internet",
+    "tag:internet_access=wlan internet_access:fee=yes": "Acceso WiFi de pago a Internet",
+    "tag:internet_access=wlan, amenity=wlan, amenity=WLAN, amenity=wifi, wifi=yes": "Acceso WiFi no especificado a Internet",
     "tag:is_in": {
         "description": "message 'tag:is_in' not translated"
     },

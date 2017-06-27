@@ -74,10 +74,14 @@
         "!=1": "Alternatiivsed nimed"
     },
     "tag:amenity": "Hüve",
+    "tag:amenity=bench": "Pink",
+    "tag:amenity=brothel": "Bordell",
     "tag:amenity=cinema": {
-        "message": "Kino",
-        "!=1": "Kinod"
+        "!=1": "Kinod",
+        "message": "Kino"
     },
+    "tag:amenity=hospital": "Haigla",
+    "tag:amenity=nursing_home": "Vanadekodu",
     "tag:amenity=pub": {
         "message": "Pubi",
         "!=1": "Pubid"
@@ -86,6 +90,8 @@
         "message": "Restoran",
         "!=1": "Restoranid"
     },
+    "tag:amenity=sauna": "Saun",
+    "tag:amenity=telephone": "Telefon",
     "tag:area": {
         "description": "message 'tag:area' not translated"
     },
@@ -195,6 +201,7 @@
     "tag:highway": {
         "description": "message 'tag:highway' not translated"
     },
+    "tag:highway=* bridge=*!=no": "Sild",
     "tag:highway=bridleway": {
         "description": "message 'tag:highway=bridleway' not translated"
     },
@@ -369,6 +376,7 @@
     "tag:natural": {
         "description": "message 'tag:natural' not translated"
     },
+    "tag:natural=valley": "Org",
     "tag:network": "Võrk",
     "tag:noexit": {
         "description": "message 'tag:noexit' not translated"
@@ -392,10 +400,7 @@
     "tag:place=city": {
         "description": "message 'tag:place=city' not translated"
     },
-    "tag:place=continent": {
-        "message": "Kontinent",
-        "!=1": "Kontinendid"
-    },
+    "tag:place=continent": "Kontinent",
     "tag:place=country": {
         "message": "Riik",
         "!=1": "Riigid"
@@ -416,14 +421,11 @@
     "tag:place=locality": {
         "description": "message 'tag:place=locality' not translated"
     },
-    "tag:place=ocean": "Ookean,Ookeanid",
+    "tag:place=ocean": "Ookean",
     "tag:place=region": {
         "description": "message 'tag:place=region' not translated"
     },
-    "tag:place=sea": {
-        "message": "Meri",
-        "!=1": "Mered"
-    },
+    "tag:place=sea": "Meri",
     "tag:place=state": {
         "description": "message 'tag:place=state' not translated"
     },

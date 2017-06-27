@@ -10,22 +10,14 @@
     "tag:admin_level=3": {
         "description": "message 'tag:admin_level=3' not translated"
     },
-    "tag:admin_level=4": {
-        "description": "message 'tag:admin_level=4' not translated"
-    },
-    "tag:admin_level=5": {
-        "description": "message 'tag:admin_level=5' not translated"
-    },
-    "tag:admin_level=6": {
-        "description": "message 'tag:admin_level=6' not translated"
-    },
-    "tag:admin_level=7": {
-        "description": "message 'tag:admin_level=7' not translated"
-    },
+    "tag:admin_level=4": "Országrész határ",
+    "tag:admin_level=5": "Régió határ",
+    "tag:admin_level=6": "Megye határ",
+    "tag:admin_level=7": "Kistérség",
     "tag:admin_level=7.5": {
         "description": "message 'tag:admin_level=7.5' not translated"
     },
-    "tag:admin_level=8": "Város/község határa",
+    "tag:admin_level=8": "Település",
     "tag:aeroway": {
         "description": "message 'tag:aeroway' not translated"
     },
@@ -40,6 +32,9 @@
         "message": "Mozi",
         "!=1": "Mozik"
     },
+    "tag:amenity=marketplace": "Piac",
+    "tag:amenity=post_box": "Postaláda",
+    "tag:amenity=post_office": "Posta",
     "tag:amenity=pub": {
         "message": "Kocsma",
         "!=1": "Kocsmák"
@@ -48,6 +43,7 @@
         "message": "Étterem",
         "!=1": "Éttermek"
     },
+    "tag:amenity=telephone": "Telefon",
     "tag:barrier": {
         "description": "message 'tag:barrier' not translated"
     },
@@ -122,7 +118,17 @@
     "tag:highway=unclassified": {
         "description": "message 'tag:highway=unclassified' not translated"
     },
+    "tag:historic=castle": "Kastély",
     "tag:is_in": "Ebben van: ",
+    "tag:landuse=allotments": "Kertek",
+    "tag:landuse=farm, landuse=farmland": "Mezőgazdaság terület",
+    "tag:landuse=farmyard": "Farm, telephely",
+    "tag:landuse=forest": "Erdő",
+    "tag:landuse=meadow": "Rét",
+    "tag:landuse=orchard": "Gyümölcsös",
+    "tag:landuse=railway": "Vasútvonal",
+    "tag:landuse=residential": "Lakóövezet",
+    "tag:landuse=vineyard": "Szöllőültetvény",
     "tag:leisure=beach_resort": {
         "description": "message 'tag:leisure=beach_resort' not translated"
     },
@@ -165,9 +171,7 @@
     "tag:leisure=slipway": {
         "description": "message 'tag:leisure=slipway' not translated"
     },
-    "tag:leisure=sport": {
-        "description": "message 'tag:leisure=sport' not translated"
-    },
+    "tag:leisure=sport": "OEgyéb sport",
     "tag:leisure=sports_centre": {
         "description": "message 'tag:leisure=sports_centre' not translated"
     },
@@ -193,6 +197,10 @@
         "message": "Név",
         "!=1": "Nevek"
     },
+    "tag:natural=beach": "Strand",
+    "tag:natural=tree": "Fa",
+    "tag:natural=water": "Víz",
+    "tag:natural=wetland": "Mocsár",
     "tag:network": "Hálózat",
     "tag:note": "Megjegyzés",
     "tag:old_name": "régi név",
@@ -203,20 +211,13 @@
         "message": "Város",
         "!=1": "Városok"
     },
-    "tag:place=continent": {
-        "message": "Kontinens",
-        "!=1": "Kontinensek"
-    },
-    "tag:place=country": {
-        "message": "Ország",
-        "!=1": "Országok"
-    },
+    "tag:place=city population<200000": "Kisváros",
+    "tag:place=continent": "Kontinens",
+    "tag:place=country": "Ország",
     "tag:place=county": {
         "description": "message 'tag:place=county' not translated"
     },
-    "tag:place=hamlet": {
-        "description": "message 'tag:place=hamlet' not translated"
-    },
+    "tag:place=hamlet": "Kis falu",
     "tag:place=island": {
         "message": "Sziget",
         "!=1": "Szigetek"
@@ -227,27 +228,19 @@
     "tag:place=locality": {
         "description": "message 'tag:place=locality' not translated"
     },
+    "tag:place=ocean": "Óceán",
     "tag:place=region": {
         "description": "message 'tag:place=region' not translated"
     },
-    "tag:place=state": {
-        "description": "message 'tag:place=state' not translated"
-    },
-    "tag:place=suburb": {
-        "description": "message 'tag:place=suburb' not translated"
-    },
+    "tag:place=state": "Régió",
+    "tag:place=suburb": "Városrész",
     "tag:place=town": "Kisváros",
-    "tag:place=village": {
-        "message": "Falu",
-        "!=1": "Faluk"
-    },
+    "tag:place=village": "Falu",
     "tag:population": "népesség",
     "tag:power": {
         "description": "message 'tag:power' not translated"
     },
-    "tag:power=generator": {
-        "description": "message 'tag:power=generator' not translated"
-    },
+    "tag:power=generator": "Erőmű",
     "tag:power=line": {
         "description": "message 'tag:power=line' not translated"
     },
@@ -296,6 +289,7 @@
     "tag:railway=rail": {
         "description": "message 'tag:railway=rail' not translated"
     },
+    "tag:railway=station": "Vasúti megálló",
     "tag:railway=tram": {
         "description": "message 'tag:railway=tram' not translated"
     },
@@ -348,6 +342,9 @@
         "description": "message 'tag:route_type' not translated"
     },
     "tag:shop": "Bolt",
+    "tag:shop=books": "Könyvesbolt",
+    "tag:shop=supermarket": "Szupermarket",
+    "tag:shop=toys": "Játékbolt",
     "tag:sport": "Sport",
     "tag:sport=10pin": {
         "description": "message 'tag:sport=10pin' not translated"
@@ -391,9 +388,7 @@
     "tag:sport=diving": {
         "description": "message 'tag:sport=diving' not translated"
     },
-    "tag:sport=dog_racing": {
-        "description": "message 'tag:sport=dog_racing' not translated"
-    },
+    "tag:sport=dog_racing": "Kutyafuttatás",
     "tag:sport=equestrian": {
         "description": "message 'tag:sport=equestrian' not translated"
     },
@@ -402,9 +397,7 @@
     "tag:sport=gymnastics": {
         "description": "message 'tag:sport=gymnastics' not translated"
     },
-    "tag:sport=hockey": {
-        "description": "message 'tag:sport=hockey' not translated"
-    },
+    "tag:sport=hockey": "Hoki",
     "tag:sport=horse_racing": {
         "description": "message 'tag:sport=horse_racing' not translated"
     },
@@ -441,13 +434,13 @@
     "tag:sport=soccer": {
         "description": "message 'tag:sport=soccer' not translated"
     },
-    "tag:sport=swimming": {
-        "description": "message 'tag:sport=swimming' not translated"
-    },
+    "tag:sport=swimming": "Úszás",
     "tag:sport=table_tennis": "Asztalitenisz",
     "tag:sport=team_handball": "Kézilabda",
     "tag:sport=tennis": "Tenisz",
     "tag:sport=volleyball": "Röplabda",
+    "tag:tourism=guest_house": "Vendégház",
+    "tag:tourism=hotel": "Hotel",
     "tag:tracks": {
         "description": "message 'tag:tracks' not translated"
     },

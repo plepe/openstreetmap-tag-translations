@@ -72,10 +72,24 @@
     "tag:amenity": {
         "description": "message 'tag:amenity' not translated"
     },
-    "tag:amenity=cinema": {
-        "message": "Kino",
-        "!=1": "Kina"
-    },
+    "tag:amenity=arts_centre": "Centrum sztuki",
+    "tag:amenity=atm": "Bankomat",
+    "tag:amenity=baby_hatch": "Okno życia",
+    "tag:amenity=bank, amenity=bank;atm, amenity=atm;bank": "Bank",
+    "tag:amenity=bureau_de_change": "Kantor",
+    "tag:amenity=bus_station": "Przystanek autobusowy",
+    "tag:amenity=car_rental": "Wypożyczanie samochodów",
+    "tag:amenity=cinema": "Kino",
+    "tag:amenity=dentist": "Stomatolog",
+    "tag:amenity=doctors": "Przychodnia lekarska",
+    "tag:amenity=fountain": "Fontanna",
+    "tag:amenity=fuel": "Stacja benzynowa",
+    "tag:amenity=hospital": "Szpital",
+    "tag:amenity=kindergarten": "Przedszkole",
+    "tag:amenity=library": "Biblioteka",
+    "tag:amenity=marketplace": "Bazar",
+    "tag:amenity=parking": "Parking",
+    "tag:amenity=pharmacy": "Apteka",
     "tag:amenity=pub": {
         "message": "Pub",
         "!=1": "Puby"
@@ -84,6 +98,10 @@
         "message": "Restauracja",
         "!=1": "Restauracje"
     },
+    "tag:amenity=school": "Szkoła",
+    "tag:amenity=taxi": "Postój taksówek",
+    "tag:amenity=theatre": "Teatr",
+    "tag:amenity=veterinary": "Weterynarz",
     "tag:area": "Obszar",
     "tag:barrier": {
         "message": "Bariera",
@@ -180,9 +198,11 @@
         "message": "Droga",
         "!=1": "Drogi"
     },
+    "tag:highway=* bridge=*!=no": "Most",
     "tag:highway=bridleway": {
         "description": "message 'tag:highway=bridleway' not translated"
     },
+    "tag:highway=bus_stop, public_transport=stop_position bus=yes": "Przystanek autobusowy",
     "tag:highway=cycleway": "Droga dla rowerów",
     "tag:highway=footway": {
         "description": "message 'tag:highway=footway' not translated"
@@ -190,6 +210,7 @@
     "tag:highway=living_street": {
         "description": "message 'tag:highway=living_street' not translated"
     },
+    "tag:highway=mini_roundabout": "Mini rondo",
     "tag:highway=minor": {
         "description": "message 'tag:highway=minor' not translated"
     },
@@ -201,6 +222,7 @@
     },
     "tag:highway=path": "Ścieżka",
     "tag:highway=pedestrian": "Strefa pieszych",
+    "tag:highway=platform, public_transport=platform": "Peron",
     "tag:highway=primary": {
         "description": "message 'tag:highway=primary' not translated"
     },
@@ -213,11 +235,13 @@
     "tag:highway=road": {
         "description": "message 'tag:highway=road' not translated"
     },
+    "tag:highway=roundabout": "rondo",
     "tag:highway=secondary": {
         "description": "message 'tag:highway=secondary' not translated"
     },
     "tag:highway=service": "Droga serwisowa",
     "tag:highway=steps": "Schody",
+    "tag:highway=stop": "Stop",
     "tag:highway=tertiary": {
         "description": "message 'tag:highway=tertiary' not translated"
     },
@@ -236,6 +260,13 @@
     "tag:historic": {
         "description": "message 'tag:historic' not translated"
     },
+    "tag:historic=archaeological_site": "Wykopaliska archeologiczne",
+    "tag:historic=battlefield": "Pole bitwy",
+    "tag:historic=castle": "Zamek",
+    "tag:historic=icon": "Ikona",
+    "tag:historic=memorial": "Mniejszy pomnik",
+    "tag:historic=wayside_shrine": "Kapliczka przydrożna",
+    "tag:historic=wreck": "Wrak",
     "tag:horse": {
         "description": "message 'tag:horse' not translated"
     },
@@ -250,6 +281,7 @@
     "tag:landuse": {
         "description": "message 'tag:landuse' not translated"
     },
+    "tag:landuse=garages": "Garaż",
     "tag:lanes": {
         "description": "message 'tag:lanes' not translated"
     },
@@ -457,14 +489,13 @@
     "tag:railway": {
         "description": "message 'tag:railway' not translated"
     },
-    "tag:railway=platform": {
-        "message": "Peron",
-        "!=1": "Perony"
-    },
+    "tag:railway=platform": "Peron",
     "tag:railway=rail": {
         "message": "Tor Kolejowy",
         "!=1": "Tory Kolejowe"
     },
+    "tag:railway=station": "Stacja",
+    "tag:railway=subway_entrance": "Wejście do metra",
     "tag:railway=tram": {
         "message": "Tor Tramwajowy",
         "!=1": "Tory Tramwajowe"
@@ -527,6 +558,7 @@
         "description": "message 'tag:service' not translated"
     },
     "tag:shop": "Sklep",
+    "tag:shop=car_repair": "Warsztat samochodowy",
     "tag:smoothness": "Gładkość",
     "tag:source": "Źródło",
     "tag:sport": "Sport",
@@ -640,6 +672,11 @@
         "description": "message 'tag:toll' not translated"
     },
     "tag:tourism": "Turystyka",
+    "tag:tourism=camp_site": "Kemping",
+    "tag:tourism=gallery": "Galeria",
+    "tag:tourism=hostel": "Hostel",
+    "tag:tourism=hotel": "Hotel",
+    "tag:tourism=motel": "Motel",
     "tag:tracks": {
         "description": "message 'tag:tracks' not translated"
     },

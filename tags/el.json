@@ -38,17 +38,17 @@
         "!=1": "Οδοί"
     },
     "tag:address": "Διεύθυνση",
-    "tag:admin_level=10": "Διαμέρισμα Δήμου",
-    "tag:admin_level=2": "Όρια Χώρας",
+    "tag:admin_level=10": "Δημοτικό Διαμέρισμα (10)",
+    "tag:admin_level=2": "Εθνικά Σύνορα (2)",
     "tag:admin_level=3": {
         "description": "message 'tag:admin_level=3' not translated"
     },
-    "tag:admin_level=4": "Όρια Περιφέρειας",
+    "tag:admin_level=4": "Περιφέρειες (4)",
     "tag:admin_level=5": {
         "description": "message 'tag:admin_level=5' not translated"
     },
-    "tag:admin_level=6": "Όρια Νομού",
-    "tag:admin_level=8": "Όρια Δήμου",
+    "tag:admin_level=6": "Νομοί (6)",
+    "tag:admin_level=8": "Δήμος (8)",
     "tag:aerialway": {
         "description": "message 'tag:aerialway' not translated"
     },
@@ -69,16 +69,21 @@
         "description": "message 'tag:amenity' not translated"
     },
     "tag:amenity=cinema": {
-        "message": "Κινηματογράφος",
-        "!=1": "Κινηματογράφοι"
+        "!=1": "Κινηματογράφοι",
+        "message": "Κινηματογράφος"
     },
+    "tag:amenity=drinking_water maintenance!=needs_repair;broken disused!=yes , drinking_water=yes  disused!=yes": "Πόσιμο νερό",
+    "tag:amenity=hospital": "Νοσοκομείο",
+    "tag:amenity=nursing_home": "Γηροκομείο",
     "tag:amenity=pub": {
         "description": "message 'tag:amenity=pub' not translated"
     },
+    "tag:amenity=recycling recycling_type=centre": "Κέντρο ανακύκλωσης",
     "tag:amenity=restaurant": {
         "message": "Εστιατόριο",
         "!=1": "Εστιατόρια"
     },
+    "tag:amenity=sauna": "Σάουνα",
     "tag:area": "Περιοχή",
     "tag:barrier": {
         "message": "Μπάρα",
@@ -150,6 +155,7 @@
         "message": "Οδική αρτηρία",
         "!=1": "Οδικές αρτηρίες"
     },
+    "tag:highway=* bridge=*!=no": "Γέφυρα",
     "tag:highway=bridleway": {
         "description": "message 'tag:highway=bridleway' not translated"
     },
@@ -200,6 +206,8 @@
         "description": "message 'tag:is_in' not translated"
     },
     "tag:landuse": "Χρήση Γης",
+    "tag:landuse=landfill": "Χωματερή",
+    "tag:landuse=recreation_ground": "Πεδίο Δραστηριοτήτων",
     "tag:lanes": "Λωρίδες",
     "tag:layer": "Επίπεδο",
     "tag:leisure": "Αναψυχή",
@@ -216,23 +224,19 @@
     },
     "tag:leisure=marina": "Μαρίνα",
     "tag:leisure=miniature_golf": "Μίνι Γκολφ",
-    "tag:leisure=nature_reserve": {
-        "description": "message 'tag:leisure=nature_reserve' not translated"
-    },
+    "tag:leisure=nature_reserve": "Προστασία της Φύσης",
     "tag:leisure=park": {
         "description": "message 'tag:leisure=park' not translated"
     },
-    "tag:leisure=pitch": {
-        "description": "message 'tag:leisure=pitch' not translated"
-    },
+    "tag:leisure=pitch": "Γήπεδο",
     "tag:leisure=playground": {
         "description": "message 'tag:leisure=playground' not translated"
     },
     "tag:leisure=slipway": "Γλίστρα",
-    "tag:leisure=sport": "Άλλο Άθλημα",
+    "tag:leisure=sport": "Άλλο άθλημα",
     "tag:leisure=sports_centre": "Αθλητικό Κέντρο",
     "tag:leisure=stadium": "Στάδιο",
-    "tag:leisure=swimming_pool": "Πισίνα",
+    "tag:leisure=swimming_pool": "Πισίνα Κολύμβησης",
     "tag:leisure=track": {
         "description": "message 'tag:leisure=track' not translated"
     },
@@ -268,6 +272,9 @@
     },
     "tag:narrow": "Στενό",
     "tag:natural": "Φυσικό",
+    "tag:natural=mountain": "Βουνό",
+    "tag:natural=mountain_range": "Οροσειρά",
+    "tag:natural=valley": "Κοιλάδα",
     "tag:network": "Δίκτυο",
     "tag:noexit": "Αδιέξοδο",
     "tag:note": "Σημείωση",
@@ -288,59 +295,33 @@
         "message": "Πόλη",
         "!=1": "Πόλεις"
     },
-    "tag:place=continent": {
-        "message": "Ήπειρος",
-        "!=1": "Ήπειροι"
-    },
-    "tag:place=country": {
-        "message": "Χώρα",
-        "!=1": "Χώρες"
-    },
+    "tag:place=city population<200000": "Μικρή Πόλη",
+    "tag:place=continent": "Ήπειρος",
+    "tag:place=country": "Χώρα",
     "tag:place=county": {
         "message": "Επαρχία",
         "!=1": "Επαρχίες"
     },
-    "tag:place=hamlet": {
-        "message": "Οικισμός",
-        "!=1": "Οικισμοί"
-    },
+    "tag:place=farm": "Φάρμα",
+    "tag:place=hamlet": "Οικισμός",
     "tag:place=island": {
         "message": "Νησί",
         "!=1": "Νησιά"
     },
-    "tag:place=islet": {
-        "message": "Νησίδα",
-        "!=1": "Νησίδες"
-    },
+    "tag:place=islet": "Νησίδα",
     "tag:place=locality": {
         "message": "Τοποθεσία",
         "!=1": "Τοποθεσίες"
     },
-    "tag:place=ocean": {
-        "message": "Ωκεανός",
-        "!=1": "Ωκεανοί"
-    },
-    "tag:place=region": {
-        "message": "Περιοχή",
-        "!=1": "Περιοχές"
-    },
-    "tag:place=sea": {
-        "message": "Θάλασσα",
-        "!=1": "Θάλασσες"
-    },
-    "tag:place=state": {
-        "message": "Πολιτεία",
-        "!=1": "Πολιτείες"
-    },
-    "tag:place=suburb": {
-        "message": "Προάστιο",
-        "!=1": "Προάστια"
-    },
+    "tag:place=neighbourhood": "Γειτονιά",
+    "tag:place=ocean": "Ωκεανός",
+    "tag:place=region": "Περιοχή",
+    "tag:place=sea": "Θάλασσα",
+    "tag:place=state": "Πολιτεία",
+    "tag:place=suburb": "Προάστιο",
     "tag:place=town": "Κωμόπολη",
-    "tag:place=village": {
-        "message": "Χωριό",
-        "!=1": "Χωριά"
-    },
+    "tag:place=town population>=30000": "Μεγάλη Κωμόπολη",
+    "tag:place=village": "Χωριό",
     "tag:population": "Πληθυσμός",
     "tag:postal_code": "Ταχ. Κώδικας",
     "tag:power": "Ενέργεια",
@@ -434,9 +415,7 @@
         "description": "message 'tag:sport=9pin' not translated"
     },
     "tag:sport=archery": "Τοξοβολία",
-    "tag:sport=athletics": {
-        "description": "message 'tag:sport=athletics' not translated"
-    },
+    "tag:sport=athletics": "Γυμναστική",
     "tag:sport=australian_football": "Αυστραλιανό Ποδόσφαιρο",
     "tag:sport=baseball": {
         "description": "message 'tag:sport=baseball' not translated"
@@ -453,7 +432,7 @@
     },
     "tag:sport=canoe": "Κανό",
     "tag:sport=chess": "Σκάκι",
-    "tag:sport=climbing": "Ορειβασία",
+    "tag:sport=climbing": "Αναρρίχηση",
     "tag:sport=cricket": "Κρίκετ",
     "tag:sport=cricket_nets": {
         "description": "message 'tag:sport=cricket_nets' not translated"
@@ -461,19 +440,15 @@
     "tag:sport=croquet": {
         "description": "message 'tag:sport=croquet' not translated"
     },
-    "tag:sport=cycling": {
-        "description": "message 'tag:sport=cycling' not translated"
-    },
+    "tag:sport=cycling": "Ποδηλασία",
     "tag:sport=diving": "Κατάδυση",
     "tag:sport=dog_racing": "Κυνοδρομίες",
-    "tag:sport=equestrian": {
-        "description": "message 'tag:sport=equestrian' not translated"
-    },
+    "tag:sport=equestrian": "Έφιππα",
     "tag:sport=football": "Ποδόσφαιρο",
     "tag:sport=golf": "Γκολφ",
     "tag:sport=gymnastics": "Γυμναστική",
     "tag:sport=hockey": "Χόκεϊ",
-    "tag:sport=horse_racing": "Ιππόδρομος",
+    "tag:sport=horse_racing": "Ιπποδρομίες",
     "tag:sport=korfball": {
         "description": "message 'tag:sport=korfball' not translated"
     },
@@ -521,6 +496,7 @@
     },
     "tag:toll": "Διόδια",
     "tag:tourism": "Τουρισμός",
+    "tag:tourism=gallery": "Γκαλερί",
     "tag:tracks": "Τροχιές",
     "tag:tracks=double": "Διπλή",
     "tag:tracks=multiple": "Πολλαπλή",
@@ -546,6 +522,8 @@
     },
     "tag:voltage": "Τάση",
     "tag:waterway": "Υδατοδιαδρομή",
+    "tag:waterway=river width>10m;waterway=river est_width>10m": "Μεγάλο Ποτάμι",
+    "tag:waterway=riverbank": "Όχθη Ποταμού",
     "tag:website": "Ιστότοπος",
     "tag:wheelchair": "Αναπηρική πολυθρόνα",
     "tag:wheelchair=limited": "Περιορισμένο",

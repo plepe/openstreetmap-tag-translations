@@ -51,9 +51,15 @@
     },
     "tag:alt_name": "Nume alternativ",
     "tag:amenity": "Atractie",
+    "tag:amenity=bench": "Banca",
+    "tag:amenity=brothel": "Bordel",
     "tag:amenity=cinema": "Cinema",
+    "tag:amenity=fire_hydrant fire_hydrant:type!=pillar;underground, emergency=fire_hydrant fire_hydrant:type!=pillar;underground": "Hidrant",
     "tag:amenity=pub": "Pub",
+    "tag:amenity=recycling": "Recipient",
     "tag:amenity=restaurant": "Restaurant",
+    "tag:amenity=sauna": "Sauna",
+    "tag:amenity=telephone": "Telefon",
     "tag:area": "Zona",
     "tag:barrier": {
         "description": "message 'tag:barrier' not translated"
@@ -143,6 +149,7 @@
     "tag:highway": {
         "description": "message 'tag:highway' not translated"
     },
+    "tag:highway=* bridge=*!=no": "Pod",
     "tag:highway=bridleway": {
         "description": "message 'tag:highway=bridleway' not translated"
     },
@@ -196,6 +203,7 @@
     "tag:landuse": {
         "description": "message 'tag:landuse' not translated"
     },
+    "tag:landuse=recreation_ground": "Teren recreare",
     "tag:lanes": {
         "description": "message 'tag:lanes' not translated"
     },
@@ -214,9 +222,7 @@
     "tag:leisure=common": {
         "description": "message 'tag:leisure=common' not translated"
     },
-    "tag:leisure=fishing": {
-        "description": "message 'tag:leisure=fishing' not translated"
-    },
+    "tag:leisure=fishing": "Pescuit",
     "tag:leisure=garden": "Parc",
     "tag:leisure=golf_course": {
         "description": "message 'tag:leisure=golf_course' not translated"
@@ -227,38 +233,24 @@
     "tag:leisure=marina": {
         "description": "message 'tag:leisure=marina' not translated"
     },
-    "tag:leisure=miniature_golf": {
-        "description": "message 'tag:leisure=miniature_golf' not translated"
-    },
-    "tag:leisure=nature_reserve": {
-        "description": "message 'tag:leisure=nature_reserve' not translated"
-    },
+    "tag:leisure=miniature_golf": "Golf miniatura",
+    "tag:leisure=nature_reserve": "Rezervatie naturala",
     "tag:leisure=park": {
         "description": "message 'tag:leisure=park' not translated"
     },
-    "tag:leisure=pitch": {
-        "description": "message 'tag:leisure=pitch' not translated"
-    },
+    "tag:leisure=pitch": "Smoala",
     "tag:leisure=playground": "Teren de joaca",
     "tag:leisure=slipway": {
         "description": "message 'tag:leisure=slipway' not translated"
     },
-    "tag:leisure=sport": {
-        "description": "message 'tag:leisure=sport' not translated"
-    },
-    "tag:leisure=sports_centre": {
-        "description": "message 'tag:leisure=sports_centre' not translated"
-    },
+    "tag:leisure=sport": "Alt sport",
+    "tag:leisure=sports_centre": "Centru sport",
     "tag:leisure=stadium": "Stadion",
     "tag:leisure=swimming_pool": {
         "description": "message 'tag:leisure=swimming_pool' not translated"
     },
-    "tag:leisure=track": {
-        "description": "message 'tag:leisure=track' not translated"
-    },
-    "tag:leisure=water_park": {
-        "description": "message 'tag:leisure=water_park' not translated"
-    },
+    "tag:leisure=track": "Pista",
+    "tag:leisure=water_park": "Parc acvatic",
     "tag:lit": "Iluminat stradal",
     "tag:loc_name": "Nume local",
     "tag:man_made": {
@@ -342,9 +334,7 @@
     "tag:power=pole": {
         "description": "message 'tag:power=pole' not translated"
     },
-    "tag:power=station": {
-        "description": "message 'tag:power=station' not translated"
-    },
+    "tag:power=station": "Statie energie",
     "tag:power=sub_station": {
         "description": "message 'tag:power=sub_station' not translated"
     },
@@ -496,9 +486,7 @@
     "tag:sport=croquet": {
         "description": "message 'tag:sport=croquet' not translated"
     },
-    "tag:sport=cycling": {
-        "description": "message 'tag:sport=cycling' not translated"
-    },
+    "tag:sport=cycling": "Ciclism",
     "tag:sport=diving": {
         "description": "message 'tag:sport=diving' not translated"
     },
@@ -508,13 +496,11 @@
     },
     "tag:sport=football": "Fotbal",
     "tag:sport=golf": "Golf",
-    "tag:sport=gymnastics": {
-        "description": "message 'tag:sport=gymnastics' not translated"
-    },
+    "tag:sport=gymnastics": "Gimnastica",
     "tag:sport=hockey": {
         "description": "message 'tag:sport=hockey' not translated"
     },
-    "tag:sport=horse_racing": "Curse de cai",
+    "tag:sport=horse_racing": "Curse cai",
     "tag:sport=korfball": {
         "description": "message 'tag:sport=korfball' not translated"
     },
@@ -557,9 +543,7 @@
     "tag:sport=skiing": {
         "description": "message 'tag:sport=skiing' not translated"
     },
-    "tag:sport=soccer": {
-        "description": "message 'tag:sport=soccer' not translated"
-    },
+    "tag:sport=soccer": "Fotbal",
     "tag:sport=swimming": {
         "description": "message 'tag:sport=swimming' not translated"
     },
@@ -569,9 +553,7 @@
     "tag:sport=team_handball": {
         "description": "message 'tag:sport=team_handball' not translated"
     },
-    "tag:sport=tennis": {
-        "description": "message 'tag:sport=tennis' not translated"
-    },
+    "tag:sport=tennis": "Tenis",
     "tag:sport=volleyball": {
         "description": "message 'tag:sport=volleyball' not translated"
     },
