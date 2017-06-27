@@ -1,21 +1,11 @@
 {
-    "tag:*=yes": "ano",
     "tag:*=no": "ne",
+    "tag:*=yes": "ano",
+    "tag:abutters": {
+        "description": "message 'tag:abutters' not translated"
+    },
+    "tag:access": "Neomezeý přístup",
     "tag:accomodation": "Ubytování",
-    "tag:address": "Adresa",
-    "tag:addr:housenumber": "Číslo popisné",
-    "tag:addr:housename": {
-        "message": "Jméno domu",
-        "!=1": " Jména domu"
-    },
-    "tag:addr:street": {
-        "message": "Ulice",
-        "!=1": " Ulice"
-    },
-    "tag:addr:postcode": {
-        "message": "PSČ",
-        "!=1": " PSČ"
-    },
     "tag:addr:city": {
         "message": "Město",
         "!=1": " Města"
@@ -28,12 +18,22 @@
         "message": "Celá adresa",
         "!=1": " Celé adresy"
     },
-    "tag:addr:interpolation": "Interpolovaná P.S.Č",
-    "tag:aeroway": "Vzdušná cesta",
-    "tag:aeroway=runway": "Ranvej",
-    "tag:aeroway=taxiway": {
-        "description": "message 'tag:aeroway=taxiway' not translated"
+    "tag:addr:housename": {
+        "message": "Jméno domu",
+        "!=1": " Jména domu"
     },
+    "tag:addr:housenumber": "Číslo popisné",
+    "tag:addr:interpolation": "Interpolovaná P.S.Č",
+    "tag:addr:postcode": {
+        "message": "PSČ",
+        "!=1": " PSČ"
+    },
+    "tag:addr:street": {
+        "message": "Ulice",
+        "!=1": " Ulice"
+    },
+    "tag:address": "Adresa",
+    "tag:admin_level=10": "Městské části",
     "tag:admin_level=2": "Státní hranice",
     "tag:admin_level=3": {
         "description": "message 'tag:admin_level=3' not translated"
@@ -44,20 +44,30 @@
     },
     "tag:admin_level=6": "Kraj",
     "tag:admin_level=8": "Hranice obce",
-    "tag:admin_level=10": "Městské části",
+    "tag:aerialway": "Letecká cesta",
+    "tag:aeroway": "Vzdušná cesta",
+    "tag:aeroway=runway": "Ranvej",
+    "tag:aeroway=taxiway": {
+        "description": "message 'tag:aeroway=taxiway' not translated"
+    },
+    "tag:alt_name": {
+        "message": "Alternativní název",
+        "!=1": " Alternativní názvy"
+    },
     "tag:amenity": "Občanská vybavenost",
     "tag:amenity=cinema": {
         "message": "Kino",
         "!=1": "Kina"
     },
-    "tag:amenity=restaurant": {
-        "message": "Restaurace",
-        "!=1": "Restaurace"
-    },
     "tag:amenity=pub": {
         "message": "Hospoda",
         "!=1": "Hospody"
     },
+    "tag:amenity=restaurant": {
+        "message": "Restaurace",
+        "!=1": "Restaurace"
+    },
+    "tag:area": "Oblast",
     "tag:barrier": {
         "message": "Překážka",
         "!=1": "Překážky"
@@ -65,14 +75,6 @@
     "tag:barrier=city_wall": {
         "message": "Hradba",
         "!=1": "Hradby"
-    },
-    "tag:barrier=wall": {
-        "message": "Zeď",
-        "!=1": "Zdi"
-    },
-    "tag:barrier=retaining_wall": {
-        "message": "Opěrná zeď",
-        "!=1": "Opěrné zdi"
     },
     "tag:barrier=fence": {
         "message": "Plot",
@@ -82,205 +84,28 @@
         "message": "Živý plot",
         "!=1": "Živé ploty"
     },
+    "tag:barrier=retaining_wall": {
+        "message": "Opěrná zeď",
+        "!=1": "Opěrné zdi"
+    },
+    "tag:barrier=wall": {
+        "message": "Zeď",
+        "!=1": "Zdi"
+    },
+    "tag:bicycle": "Jízdní kola povolena",
+    "tag:boundary": "Hranice",
+    "tag:bridge": "Most",
     "tag:cables": "Kabely",
-    "tag:description": "Popis",
-    "tag:fixme": "Oprav mě",
-    "tag:note": "Poznámka",
-    "tag:food": "Podává jídlo",
+    "tag:charge": "Poplatek",
+    "tag:construction": "Výstavba",
+    "tag:covered": "Zakrytý",
+    "tag:craft": "Výroba",
+    "tag:created_by": "Vytvořil",
+    "tag:crossing": "přechod",
     "tag:cuisine": "Kuchyně",
     "tag:cuisine=regional": "regionální",
-    "tag:highway": {
-        "message": "Pozemní komunikace",
-        "!=1": "Pozemní komunikace"
-    },
-    "tag:highway=motorway": "Dálnice",
-    "tag:highway=motorway_link": "Nájezdová nebo sjezdová rampa dálnice",
-    "tag:highway=trunk": "Rychlostní komunikace",
-    "tag:highway=trunk_link": "Nájezdová nebo sjezdová rampa rychl. komunikace",
-    "tag:highway=primary": "Silnice I. třídy",
-    "tag:highway=primary_link": "Nájezdová nebo sjezdová rampa sil. I. třídy",
-    "tag:highway=secondary": "Silnice II. třídy",
-    "tag:highway=tertiary": "Silnice III. třídy",
-    "tag:highway=minor": "Vedlejší cesta",
-    "tag:highway=road": "Silnice",
-    "tag:highway=residential": "Ulice",
-    "tag:highway=unclassified": "Nezařazená komunikace",
-    "tag:highway=service": "Účelová komunikace",
-    "tag:highway=pedestrian": "Pěší zóna",
-    "tag:highway=living_street": "Obytná zóna",
-    "tag:highway=path": "Stezka",
-    "tag:highway=cycleway": "Cyklostezka",
-    "tag:highway=footway": "Chodník",
-    "tag:highway=bridleway": "Cesta pro koně",
-    "tag:highway=track": "Lesní\/Polní cesta",
-    "tag:highway=steps": "Schody",
-    "tag:bridge": "Most",
-    "tag:tunnel": "Tunel",
-    "tag:traffic_calming": "Zklidnění dopravy",
-    "tag:service": "Vlastnosti obslužné komunikace",
-    "tag:postal_code": "PSČ",
-    "tag:is_in": "Je v",
-    "tag:leisure": "Volný čas",
-    "tag:leisure=sports_centre": "Sportovní centrum",
-    "tag:leisure=golf_course": "Golfové hiště",
-    "tag:leisure=stadium": "Stadion",
-    "tag:leisure=track": "Dráha",
-    "tag:leisure=pitch": "Hřiště",
-    "tag:leisure=water_park": "Aquapark",
-    "tag:leisure=marina": "Přístav",
-    "tag:leisure=slipway": "Slipway",
-    "tag:leisure=fishing": "Rybaření",
-    "tag:leisure=nature_reserve": "Přirodní rezervace",
-    "tag:leisure=park": "Park",
-    "tag:leisure=playground": "Hřiště",
-    "tag:leisure=garden": "Zahrada",
-    "tag:leisure=common": "Volně přístupná oblast",
-    "tag:leisure=ice_rink": "Kluziště",
-    "tag:leisure=miniature_golf": "Minigolf",
-    "tag:leisure=swimming_pool": "Bazén",
-    "tag:leisure=beach_resort": "Plážový resort",
-    "tag:leisure=bird_hide": "Ptačí budka",
-    "tag:leisure=sport": "Jiný sport",
-    "tag:man_made": "Umělé stavby",
-    "tag:man_made=pipeline": {
-        "message": "Potrubí",
-        "!=1": "Potrubí"
-    },
-    "tag:type": "Typ",
-    "tag:type=gas": "Plyn",
-    "tag:type=heat": "Vytápění",
-    "tag:type=hot_water": "Horká voda",
-    "tag:type=oil": "Ropa",
-    "tag:type=sewage": "Odpad",
-    "tag:type=water": "Voda",
-    "tag:name": {
-        "message": "Název",
-        "!=1": "Názvy"
-    },
-    "tag:alt_name": {
-        "message": "Alternativní název",
-        "!=1": " Alternativní názvy"
-    },
-    "tag:official_name": {
-        "message": "Oficiální název",
-        "!=1": "Oficiální názvy"
-    },
-    "tag:int_name": {
-        "message": "Mezinárodní název",
-        "!=1": " Mezinárodní názvy"
-    },
-    "tag:loc_name": {
-        "message": "Místní název",
-        "!=1": "Místní názvy"
-    },
-    "tag:old_name": "Staré jméno(-a)",
-    "tag:ref": "Reference",
-    "tag:network": "Síť",
-    "tag:opening_hours": "Otevírací doba",
-    "tag:operator": "Provozovatel",
-    "tag:place": "Sídlo",
-    "tag:place=continent": {
-        "message": "Kontinent",
-        "!=1": "Kontinenty"
-    },
-    "tag:place=country": {
-        "message": "Stát",
-        "!=1": "Stát"
-    },
-    "tag:place=state": {
-        "message": "Země",
-        "!=1": "Země"
-    },
-    "tag:place=region": {
-        "message": "Region",
-        "!=1": "Regiony"
-    },
-    "tag:place=county": {
-        "message": "Kraj",
-        "!=1": "Kraje"
-    },
-    "tag:place=city": {
-        "message": "Město",
-        "!=1": "Města"
-    },
-    "tag:place=town": "Město",
-    "tag:place=village": {
-        "message": "Vesnice",
-        "!=1": "Vesnice"
-    },
-    "tag:place=suburb": {
-        "message": "Městská část",
-        "!=1": "Městské části"
-    },
-    "tag:place=hamlet": {
-        "message": "Samota",
-        "!=1": "Samoty"
-    },
-    "tag:place=locality": {
-        "message": "Lokalita",
-        "!=1": "Lokality"
-    },
-    "tag:place=island": {
-        "message": "Ostrov",
-        "!=1": "Ostrovy"
-    },
-    "tag:place=islet": {
-        "message": "Ostrůvek",
-        "!=1": "Ostrůvky"
-    },
-    "tag:place=ocean": {
-        "message": "Oceán",
-        "!=1": "Oceány"
-    },
-    "tag:place=sea": {
-        "message": "Moře",
-        "!=1": "Moře"
-    },
-    "tag:population": "Počet obyvatel",
-    "tag:power": "Elektrická síť",
-    "tag:power=generator": "Elektrárna",
-    "tag:power=line": "Elektrické vedení",
-    "tag:power=minor_line": "Elektrické vedení NN",
-    "tag:power=tower": "Stožár elektrického vedení",
-    "tag:power=pole": "Sloup elektrického vedení",
-    "tag:power=station": "Rozvodna VVN\/VN",
-    "tag:power=sub_station": "Trafostanice VN\/NN",
-    "tag:power_source": "Zdroj energie",
-    "tag:power_source=biofuel": "Biopalivo",
-    "tag:power_source=oil": "Ropa",
-    "tag:power_source=coal": "Uhlí",
-    "tag:power_source=gas": "Zemní plyn",
-    "tag:power_source=waste": "Odpad",
-    "tag:power_source=hydro": "Vodní",
-    "tag:power_source=tidal": "Příboj",
-    "tag:power_source=wave": "Vlny",
-    "tag:power_source=geothermal": "Geotermální energie",
-    "tag:power_source=nuclear": "Jádro",
-    "tag:power_source=fusion": "Fúze",
-    "tag:power_source=wind": "Vítr",
-    "tag:power_source=photovoltaic": "Solární články",
-    "tag:power_source=solar-thermal": "Solární kolektory",
-    "tag:railway": "Železnice",
-    "tag:railway=rail": {
-        "message": "Železniční kolej",
-        "!=1": "Železniční koleje"
-    },
-    "tag:railway=tram": {
-        "message": "Tramvajová kolej",
-        "!=1": "Tramvajové koleje"
-    },
-    "tag:railway=platform": {
-        "message": "Nástupiště",
-        "!=1": "Nástupiště"
-    },
-    "tag:real_ale": "Nabízen alkohol",
-    "tag:religion": "Náboženství",
-    "tag:religion=christian": "křesťanství",
-    "tag:religion=buddhist": "buddhismus",
-    "tag:religion=hindu": "hinduismus",
-    "tag:religion=jewish": "judaismus",
-    "tag:religion=muslim": "islám",
-    "tag:religion=multifaith": "více náboženství",
+    "tag:cutting": "Průsek",
+    "tag:cycleway": "Cyklostezka",
     "tag:denomination": "Vyznání",
     "tag:denomination=anglican": "anglikánské",
     "tag:denomination=baptist": "baptistické",
@@ -292,31 +117,261 @@
     "tag:denomination=roman_catholic": "římskokatolické",
     "tag:denomination=russian_orthodox": "ruské ortodoxní",
     "tag:denomination=united_reformed": "spojení reformisté",
+    "tag:description": "Popis",
+    "tag:disused": "Nevyužíváno",
+    "tag:ele": "Nadmořská výška",
+    "tag:email": "E-mail",
+    "tag:embankment": "Násep",
+    "tag:emergency": "Pohotovost",
+    "tag:end_date": "Datum smazání",
+    "tag:est_width": "Očekávaná šířka",
+    "tag:fax": "Fax. číslo",
+    "tag:fixme": "Oprav mě",
+    "tag:food": "Podává jídlo",
+    "tag:foot": "Pěší povoleno",
+    "tag:ford": "Brod",
+    "tag:geological": "Geologický",
+    "tag:goods": "Lehká užitkové vozy povoleny",
+    "tag:hgv": "Kamiony povoleny",
+    "tag:highway": {
+        "message": "Pozemní komunikace",
+        "!=1": "Pozemní komunikace"
+    },
+    "tag:highway=bridleway": "Cesta pro koně",
+    "tag:highway=cycleway": "Cyklostezka",
+    "tag:highway=footway": "Chodník",
+    "tag:highway=living_street": "Obytná zóna",
+    "tag:highway=minor": "Vedlejší cesta",
+    "tag:highway=motorway": "Dálnice",
+    "tag:highway=motorway_link": "Nájezdová nebo sjezdová rampa dálnice",
+    "tag:highway=path": "Stezka",
+    "tag:highway=pedestrian": "Pěší zóna",
+    "tag:highway=primary": "Silnice I. třídy",
+    "tag:highway=primary_link": "Nájezdová nebo sjezdová rampa sil. I. třídy",
+    "tag:highway=residential": "Ulice",
+    "tag:highway=road": "Silnice",
+    "tag:highway=secondary": "Silnice II. třídy",
+    "tag:highway=service": "Účelová komunikace",
+    "tag:highway=steps": "Schody",
+    "tag:highway=tertiary": "Silnice III. třídy",
+    "tag:highway=track": "Lesní/Polní cesta",
+    "tag:highway=trunk": "Rychlostní komunikace",
+    "tag:highway=trunk_link": "Nájezdová nebo sjezdová rampa rychl. komunikace",
+    "tag:highway=unclassified": "Nezařazená komunikace",
+    "tag:historic": "Historie",
+    "tag:horse": "Koně povoleny",
+    "tag:incline": "sklon",
+    "tag:int_name": {
+        "message": "Mezinárodní název",
+        "!=1": " Mezinárodní názvy"
+    },
+    "tag:is_in": "Je v",
+    "tag:landuse": "Využití země",
+    "tag:lanes": "Jízdní pruhy",
+    "tag:layer": "Vrstva",
+    "tag:leisure": "Volný čas",
+    "tag:leisure=beach_resort": "Plážový resort",
+    "tag:leisure=bird_hide": "Ptačí budka",
+    "tag:leisure=common": "Volně přístupná oblast",
+    "tag:leisure=fishing": "Rybaření",
+    "tag:leisure=garden": "Zahrada",
+    "tag:leisure=golf_course": "Golfové hiště",
+    "tag:leisure=ice_rink": "Kluziště",
+    "tag:leisure=marina": "Přístav",
+    "tag:leisure=miniature_golf": "Minigolf",
+    "tag:leisure=nature_reserve": "Přirodní rezervace",
+    "tag:leisure=park": "Park",
+    "tag:leisure=pitch": "Hřiště",
+    "tag:leisure=playground": "Hřiště",
+    "tag:leisure=slipway": "Slipway",
+    "tag:leisure=sport": "Jiný sport",
+    "tag:leisure=sports_centre": "Sportovní centrum",
+    "tag:leisure=stadium": "Stadion",
+    "tag:leisure=swimming_pool": "Bazén",
+    "tag:leisure=track": "Dráha",
+    "tag:leisure=water_park": "Aquapark",
+    "tag:lit": "Pouliční osvětlení",
+    "tag:loc_name": {
+        "message": "Místní název",
+        "!=1": "Místní názvy"
+    },
+    "tag:man_made": "Umělé stavby",
+    "tag:man_made=pipeline": {
+        "message": "Potrubí",
+        "!=1": "Potrubí"
+    },
+    "tag:maxheight": "Max. výška",
+    "tag:maxlength": "Max. délka",
+    "tag:maxspeed": "Max. rychlost",
+    "tag:maxweight": "Max. váha",
+    "tag:military": "Vojenství",
+    "tag:minspeed": "Min. rychlost",
+    "tag:motorcar": "Motorová vozidla povolena",
+    "tag:motorcycle": "Motocykly povoleny",
+    "tag:mountain_pass": "Průsmyk",
+    "tag:name": {
+        "message": "Název",
+        "!=1": "Názvy"
+    },
+    "tag:narrow": "Rovný",
+    "tag:natural": "Příroda",
+    "tag:natural=beach": "Pláž",
+    "tag:natural=cliff": "Útes",
+    "tag:natural=glacier": "Ledovec",
+    "tag:natural=spring": "Pramen",
+    "tag:natural=tree": "Strom",
+    "tag:natural=volcano": "Sopka",
+    "tag:natural=wood": "Les",
+    "tag:network": "Síť",
+    "tag:noexit": "Slepá ulice",
+    "tag:note": "Poznámka",
+    "tag:office": "Kancelář",
+    "tag:official_name": {
+        "message": "Oficiální název",
+        "!=1": "Oficiální názvy"
+    },
+    "tag:old_name": "Staré jméno(-a)",
+    "tag:oneway": "Jednosměrka",
+    "tag:opening_hours": "Otevírací doba",
+    "tag:operator": "Provozovatel",
+    "tag:phone": "Tel. číslo",
+    "tag:place": "Sídlo",
+    "tag:place=city": {
+        "message": "Město",
+        "!=1": "Města"
+    },
+    "tag:place=continent": {
+        "message": "Kontinent",
+        "!=1": "Kontinenty"
+    },
+    "tag:place=country": {
+        "message": "Stát",
+        "!=1": "Stát"
+    },
+    "tag:place=county": {
+        "message": "Kraj",
+        "!=1": "Kraje"
+    },
+    "tag:place=hamlet": {
+        "message": "Samota",
+        "!=1": "Samoty"
+    },
+    "tag:place=island": {
+        "message": "Ostrov",
+        "!=1": "Ostrovy"
+    },
+    "tag:place=islet": {
+        "message": "Ostrůvek",
+        "!=1": "Ostrůvky"
+    },
+    "tag:place=locality": {
+        "message": "Lokalita",
+        "!=1": "Lokality"
+    },
+    "tag:place=ocean": {
+        "message": "Oceán",
+        "!=1": "Oceány"
+    },
+    "tag:place=region": {
+        "message": "Region",
+        "!=1": "Regiony"
+    },
+    "tag:place=sea": {
+        "message": "Moře",
+        "!=1": "Moře"
+    },
+    "tag:place=state": {
+        "message": "Země",
+        "!=1": "Země"
+    },
+    "tag:place=suburb": {
+        "message": "Městská část",
+        "!=1": "Městské části"
+    },
+    "tag:place=town": "Město",
+    "tag:place=village": {
+        "message": "Vesnice",
+        "!=1": "Vesnice"
+    },
+    "tag:population": "Počet obyvatel",
+    "tag:postal_code": "PSČ",
+    "tag:power": "Elektrická síť",
+    "tag:power=generator": "Elektrárna",
+    "tag:power=line": "Elektrické vedení",
+    "tag:power=minor_line": "Elektrické vedení NN",
+    "tag:power=pole": "Sloup elektrického vedení",
+    "tag:power=station": "Rozvodna VVN/VN",
+    "tag:power=sub_station": "Trafostanice VN/NN",
+    "tag:power=tower": "Stožár elektrického vedení",
+    "tag:power_source": "Zdroj energie",
+    "tag:power_source=biofuel": "Biopalivo",
+    "tag:power_source=coal": "Uhlí",
+    "tag:power_source=fusion": "Fúze",
+    "tag:power_source=gas": "Zemní plyn",
+    "tag:power_source=geothermal": "Geotermální energie",
+    "tag:power_source=hydro": "Vodní",
+    "tag:power_source=nuclear": "Jádro",
+    "tag:power_source=oil": "Ropa",
+    "tag:power_source=photovoltaic": "Solární články",
+    "tag:power_source=solar-thermal": "Solární kolektory",
+    "tag:power_source=tidal": "Příboj",
+    "tag:power_source=waste": "Odpad",
+    "tag:power_source=wave": "Vlny",
+    "tag:power_source=wind": "Vítr",
+    "tag:proposed": "Plán",
+    "tag:psv": "Osobní auta povolena",
+    "tag:public_transport": "Veřejná doprava",
+    "tag:railway": "Železnice",
+    "tag:railway=platform": {
+        "message": "Nástupiště",
+        "!=1": "Nástupiště"
+    },
+    "tag:railway=rail": {
+        "message": "Železniční kolej",
+        "!=1": "Železniční koleje"
+    },
+    "tag:railway=tram": {
+        "message": "Tramvajová kolej",
+        "!=1": "Tramvajové koleje"
+    },
+    "tag:real_ale": "Nabízen alkohol",
+    "tag:ref": "Reference",
+    "tag:religion": "Náboženství",
+    "tag:religion=buddhist": "buddhismus",
+    "tag:religion=christian": "křesťanství",
+    "tag:religion=hindu": "hinduismus",
+    "tag:religion=jewish": "judaismus",
+    "tag:religion=multifaith": "více náboženství",
+    "tag:religion=muslim": "islám",
     "tag:route": "Dopravní trasy",
-    "tag:route=train": "Vlak",
-    "tag:route=railway": "Železnice",
-    "tag:route=rail": "Železnice",
+    "tag:route=bicycle": "Kolo",
+    "tag:route=bus": "Autobus",
+    "tag:route=ferry": "Trajekt",
+    "tag:route=hiking": "Pěší turistika",
     "tag:route=light_rail": "Rychlodráha",
+    "tag:route=minibus": "Minibus",
+    "tag:route=mtb": "Horské kolo",
+    "tag:route=rail": "Železnice",
+    "tag:route=railway": "Železnice",
+    "tag:route=road": "Cesta",
     "tag:route=subway": "Metro",
+    "tag:route=train": "Vlak",
     "tag:route=tram": "Tramvaj",
     "tag:route=tram_bus": "Tramvaj a Autobus",
     "tag:route=trolley": "Trolejbus",
     "tag:route=trolleybus": "Trolejbus",
-    "tag:route=bus": "Autobus",
-    "tag:route=minibus": "Minibus",
-    "tag:route=ferry": "Trajekt",
-    "tag:route=road": "Cesta",
-    "tag:route=bicycle": "Kolo",
-    "tag:route=hiking": "Pěší turistika",
-    "tag:route=mtb": "Horské kolo",
+    "tag:route_type": "Typ cesty",
+    "tag:service": "Vlastnosti obslužné komunikace",
     "tag:shop": "Obchod",
     "tag:shop=chemist": "Lékárna",
+    "tag:smoothness": "Plynulost",
+    "tag:source": "Zdroj",
     "tag:sport": "Sport",
-    "tag:sport=9pin": {
-        "description": "message 'tag:sport=9pin' not translated"
-    },
     "tag:sport=10pin": {
         "description": "message 'tag:sport=10pin' not translated"
+    },
+    "tag:sport=9pin": {
+        "description": "message 'tag:sport=9pin' not translated"
     },
     "tag:sport=archery": "Lukostřelba",
     "tag:sport=athletics": "Atletika",
@@ -364,8 +419,8 @@
     "tag:sport=rowing": "Veslování",
     "tag:sport=rugby": "Rugby",
     "tag:sport=shooting": "Střelba",
-    "tag:sport=skating": "Brusle",
     "tag:sport=skateboard": "Skateboard",
+    "tag:sport=skating": "Brusle",
     "tag:sport=skiing": "Lyžování",
     "tag:sport=soccer": "Fotbal",
     "tag:sport=swimming": "Plavání",
@@ -373,92 +428,37 @@
     "tag:sport=team_handball": "Házená",
     "tag:sport=tennis": "Tenis",
     "tag:sport=volleyball": "Volejbal",
+    "tag:start_date": "Datum vytvoření",
+    "tag:surface": "Povrch",
+    "tag:tactile_paving": "Hmatová dlažba",
+    "tag:toll": "Mýto",
+    "tag:tourism": "Turistika",
     "tag:tracks": "Počet kolejí",
-    "tag:tracks=single": "Jedna",
     "tag:tracks=double": "Dvě",
     "tag:tracks=multiple": "Více",
+    "tag:tracks=single": "Jedna",
+    "tag:tracktype": "Kvalita povrchu polní cesty",
+    "tag:traffic_calming": "Zklidnění dopravy",
+    "tag:traffic_sign": "Dopravní značka",
+    "tag:tunnel": "Tunel",
+    "tag:type": "Typ",
+    "tag:type=gas": "Plyn",
+    "tag:type=heat": "Vytápění",
+    "tag:type=hot_water": "Horká voda",
+    "tag:type=oil": "Ropa",
+    "tag:type=sewage": "Odpad",
+    "tag:type=water": "Voda",
+    "tag:vehicle": "Motorová vozidla povolena",
     "tag:vending": {
         "description": "message 'tag:vending' not translated"
     },
     "tag:voltage": "Napětí",
-    "tag:wires": "Dráty",
-    "tag:website": "Webová stránka",
-    "tag:cycleway": "Cyklostezka",
-    "tag:tracktype": "Kvalita povrchu polní cesty",
     "tag:waterway": "Vodní cesta",
-    "tag:aerialway": "Letecká cesta",
-    "tag:public_transport": "Veřejná doprava",
-    "tag:office": "Kancelář",
-    "tag:craft": "Výroba",
-    "tag:emergency": "Pohotovost",
-    "tag:tourism": "Turistika",
-    "tag:historic": "Historie",
-    "tag:landuse": "Využití země",
-    "tag:wood": "Druh lesa",
-    "tag:military": "Vojenství",
-    "tag:natural": "Příroda",
-    "tag:natural=beach": "Pláž",
-    "tag:natural=glacier": "Ledovec",
-    "tag:natural=cliff": "Útes",
-    "tag:natural=spring": "Pramen",
-    "tag:natural=volcano": "Sopka",
-    "tag:natural=wood": "Les",
-    "tag:natural=tree": "Strom",
-    "tag:geological": "Geologický",
-    "tag:boundary": "Hranice",
-    "tag:abutters": {
-        "description": "message 'tag:abutters' not translated"
-    },
-    "tag:lit": "Pouliční osvětlení",
-    "tag:area": "Oblast",
-    "tag:crossing": "přechod",
-    "tag:mountain_pass": "Průsmyk",
-    "tag:cutting": "Průsek",
-    "tag:embankment": "Násep",
-    "tag:lanes": "Jízdní pruhy",
-    "tag:layer": "Vrstva",
-    "tag:surface": "Povrch",
-    "tag:smoothness": "Plynulost",
-    "tag:ele": "Nadmořská výška",
-    "tag:width": "Šířka",
-    "tag:est_width": "Očekávaná šířka",
-    "tag:incline": "sklon",
-    "tag:start_date": "Datum vytvoření",
-    "tag:end_date": "Datum smazání",
-    "tag:disused": "Nevyužíváno",
+    "tag:website": "Webová stránka",
     "tag:wheelchair": "Kolečkové křeslo",
     "tag:wheelchair=limited": "omezený",
-    "tag:tactile_paving": "Hmatová dlažba",
-    "tag:narrow": "Rovný",
-    "tag:covered": "Zakrytý",
-    "tag:ford": "Brod",
-    "tag:access": "Neomezeý přístup",
-    "tag:vehicle": "Motorová vozidla povolena",
-    "tag:bicycle": "Jízdní kola povolena",
-    "tag:foot": "Pěší povoleno",
-    "tag:goods": "Lehká užitkové vozy povoleny",
-    "tag:hgv": "Kamiony povoleny",
-    "tag:horse": "Koně povoleny",
-    "tag:motorcycle": "Motocykly povoleny",
-    "tag:motorcar": "Motorová vozidla povolena",
-    "tag:psv": "Osobní auta povolena",
-    "tag:oneway": "Jednosměrka",
-    "tag:noexit": "Slepá ulice",
-    "tag:maxweight": "Max. váha",
-    "tag:maxheight": "Max. výška",
-    "tag:maxlength": "Max. délka",
-    "tag:maxspeed": "Max. rychlost",
-    "tag:minspeed": "Min. rychlost",
-    "tag:traffic_sign": "Dopravní značka",
-    "tag:toll": "Mýto",
-    "tag:charge": "Poplatek",
-    "tag:source": "Zdroj",
-    "tag:phone": "Tel. číslo",
-    "tag:fax": "Fax. číslo",
-    "tag:email": "E-mail",
+    "tag:width": "Šířka",
     "tag:wikipedia": "Wikipedie",
-    "tag:created_by": "Vytvořil",
-    "tag:construction": "Výstavba",
-    "tag:proposed": "Plán",
-    "tag:route_type": "Typ cesty"
+    "tag:wires": "Dráty",
+    "tag:wood": "Druh lesa"
 }

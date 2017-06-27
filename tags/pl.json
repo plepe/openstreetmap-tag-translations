@@ -1,25 +1,12 @@
 {
-    "tag:*=yes": "tak",
     "tag:*=no": "nie",
+    "tag:*=yes": "tak",
+    "tag:abutters": {
+        "description": "message 'tag:abutters' not translated"
+    },
+    "tag:access": "Dostęp",
     "tag:accomodation": {
         "description": "message 'tag:accomodation' not translated"
-    },
-    "tag:address": "Adres",
-    "tag:addr:housenumber": {
-        "message": "Numer budynku",
-        "!=1": "Numery budynków"
-    },
-    "tag:addr:housename": {
-        "message": "Nazwa budynku",
-        "!=1": "Nazwy budynków"
-    },
-    "tag:addr:street": {
-        "message": "Ulica",
-        "!=1": "Ulice"
-    },
-    "tag:addr:postcode": {
-        "message": "Kod pocztowy",
-        "!=1": "Kody pocztowe"
     },
     "tag:addr:city": {
         "message": "Miasto",
@@ -33,16 +20,25 @@
         "message": "Pełny adres",
         "!=1": "Pełne adresy"
     },
+    "tag:addr:housename": {
+        "message": "Nazwa budynku",
+        "!=1": "Nazwy budynków"
+    },
+    "tag:addr:housenumber": {
+        "message": "Numer budynku",
+        "!=1": "Numery budynków"
+    },
     "tag:addr:interpolation": "Interpolowane adresy budynków",
-    "tag:aeroway": {
-        "description": "message 'tag:aeroway' not translated"
+    "tag:addr:postcode": {
+        "message": "Kod pocztowy",
+        "!=1": "Kody pocztowe"
     },
-    "tag:aeroway=runway": {
-        "description": "message 'tag:aeroway=runway' not translated"
+    "tag:addr:street": {
+        "message": "Ulica",
+        "!=1": "Ulice"
     },
-    "tag:aeroway=taxiway": {
-        "description": "message 'tag:aeroway=taxiway' not translated"
-    },
+    "tag:address": "Adres",
+    "tag:admin_level=10": "Granica dzielnicy",
     "tag:admin_level=2": "Granica państwa",
     "tag:admin_level=3": {
         "description": "message 'tag:admin_level=3' not translated"
@@ -57,7 +53,22 @@
         "description": "message 'tag:admin_level=6' not translated"
     },
     "tag:admin_level=8": "Granica miasta",
-    "tag:admin_level=10": "Granica dzielnicy",
+    "tag:aerialway": {
+        "description": "message 'tag:aerialway' not translated"
+    },
+    "tag:aeroway": {
+        "description": "message 'tag:aeroway' not translated"
+    },
+    "tag:aeroway=runway": {
+        "description": "message 'tag:aeroway=runway' not translated"
+    },
+    "tag:aeroway=taxiway": {
+        "description": "message 'tag:aeroway=taxiway' not translated"
+    },
+    "tag:alt_name": {
+        "message": "Nazwa alternatywna",
+        "!=1": "Nazwy alternatywne"
+    },
     "tag:amenity": {
         "description": "message 'tag:amenity' not translated"
     },
@@ -65,27 +76,21 @@
         "message": "Kino",
         "!=1": "Kina"
     },
-    "tag:amenity=restaurant": {
-        "message": "Restauracja",
-        "!=1": "Restauracje"
-    },
     "tag:amenity=pub": {
         "message": "Pub",
         "!=1": "Puby"
     },
+    "tag:amenity=restaurant": {
+        "message": "Restauracja",
+        "!=1": "Restauracje"
+    },
+    "tag:area": "Obszar",
     "tag:barrier": {
         "message": "Bariera",
         "!=1": "Bariery"
     },
     "tag:barrier=city_wall": {
         "description": "message 'tag:barrier=city_wall' not translated"
-    },
-    "tag:barrier=wall": {
-        "message": "Ściana",
-        "!=1": "Ściany"
-    },
-    "tag:barrier=retaining_wall": {
-        "description": "message 'tag:barrier=retaining_wall' not translated"
     },
     "tag:barrier=fence": {
         "message": "Płot",
@@ -95,20 +100,98 @@
         "message": "Żywopłot",
         "!=1": "Żywopłoty"
     },
+    "tag:barrier=retaining_wall": {
+        "description": "message 'tag:barrier=retaining_wall' not translated"
+    },
+    "tag:barrier=wall": {
+        "message": "Ściana",
+        "!=1": "Ściany"
+    },
+    "tag:bicycle": {
+        "description": "message 'tag:bicycle' not translated"
+    },
+    "tag:boundary": {
+        "description": "message 'tag:boundary' not translated"
+    },
+    "tag:bridge": "Most",
     "tag:cables": {
         "description": "message 'tag:cables' not translated"
     },
+    "tag:charge": {
+        "description": "message 'tag:charge' not translated"
+    },
+    "tag:construction": "W budowie",
+    "tag:covered": {
+        "description": "message 'tag:covered' not translated"
+    },
+    "tag:craft": {
+        "description": "message 'tag:craft' not translated"
+    },
+    "tag:created_by": "Utworzone przez",
+    "tag:crossing": "Przejście",
+    "tag:cuisine": "Kuchnia",
+    "tag:cuisine=regional": "regionalna",
+    "tag:cutting": {
+        "description": "message 'tag:cutting' not translated"
+    },
+    "tag:cycleway": {
+        "description": "message 'tag:cycleway' not translated"
+    },
+    "tag:denomination": {
+        "description": "message 'tag:denomination' not translated"
+    },
     "tag:description": "Opis",
+    "tag:disused": {
+        "description": "message 'tag:disused' not translated"
+    },
+    "tag:ele": {
+        "description": "message 'tag:ele' not translated"
+    },
+    "tag:email": "E-mail",
+    "tag:embankment": {
+        "description": "message 'tag:embankment' not translated"
+    },
+    "tag:emergency": {
+        "description": "message 'tag:emergency' not translated"
+    },
+    "tag:end_date": "Data usunięcia",
+    "tag:est_width": "Oszacowana szerokość",
+    "tag:fax": "Nr faxu",
     "tag:fixme": "Napraw mnie",
-    "tag:note": "Notatka",
     "tag:food": {
         "description": "message 'tag:food' not translated"
     },
-    "tag:cuisine": "Kuchnia",
-    "tag:cuisine=regional": "regionalna",
+    "tag:foot": {
+        "description": "message 'tag:foot' not translated"
+    },
+    "tag:ford": {
+        "description": "message 'tag:ford' not translated"
+    },
+    "tag:geological": {
+        "description": "message 'tag:geological' not translated"
+    },
+    "tag:goods": {
+        "description": "message 'tag:goods' not translated"
+    },
+    "tag:hgv": {
+        "description": "message 'tag:hgv' not translated"
+    },
     "tag:highway": {
         "message": "Droga",
         "!=1": "Drogi"
+    },
+    "tag:highway=bridleway": {
+        "description": "message 'tag:highway=bridleway' not translated"
+    },
+    "tag:highway=cycleway": "Droga dla rowerów",
+    "tag:highway=footway": {
+        "description": "message 'tag:highway=footway' not translated"
+    },
+    "tag:highway=living_street": {
+        "description": "message 'tag:highway=living_street' not translated"
+    },
+    "tag:highway=minor": {
+        "description": "message 'tag:highway=minor' not translated"
     },
     "tag:highway=motorway": {
         "description": "message 'tag:highway=motorway' not translated"
@@ -116,149 +199,158 @@
     "tag:highway=motorway_link": {
         "description": "message 'tag:highway=motorway_link' not translated"
     },
-    "tag:highway=trunk": {
-        "description": "message 'tag:highway=trunk' not translated"
-    },
-    "tag:highway=trunk_link": {
-        "description": "message 'tag:highway=trunk_link' not translated"
-    },
+    "tag:highway=path": "Ścieżka",
+    "tag:highway=pedestrian": "Strefa pieszych",
     "tag:highway=primary": {
         "description": "message 'tag:highway=primary' not translated"
     },
     "tag:highway=primary_link": {
         "description": "message 'tag:highway=primary_link' not translated"
     },
-    "tag:highway=secondary": {
-        "description": "message 'tag:highway=secondary' not translated"
-    },
-    "tag:highway=tertiary": {
-        "description": "message 'tag:highway=tertiary' not translated"
-    },
-    "tag:highway=minor": {
-        "description": "message 'tag:highway=minor' not translated"
+    "tag:highway=residential": {
+        "description": "message 'tag:highway=residential' not translated"
     },
     "tag:highway=road": {
         "description": "message 'tag:highway=road' not translated"
     },
-    "tag:highway=residential": {
-        "description": "message 'tag:highway=residential' not translated"
-    },
-    "tag:highway=unclassified": {
-        "description": "message 'tag:highway=unclassified' not translated"
+    "tag:highway=secondary": {
+        "description": "message 'tag:highway=secondary' not translated"
     },
     "tag:highway=service": "Droga serwisowa",
-    "tag:highway=pedestrian": "Strefa pieszych",
-    "tag:highway=living_street": {
-        "description": "message 'tag:highway=living_street' not translated"
-    },
-    "tag:highway=path": "Ścieżka",
-    "tag:highway=cycleway": "Droga dla rowerów",
-    "tag:highway=footway": {
-        "description": "message 'tag:highway=footway' not translated"
-    },
-    "tag:highway=bridleway": {
-        "description": "message 'tag:highway=bridleway' not translated"
+    "tag:highway=steps": "Schody",
+    "tag:highway=tertiary": {
+        "description": "message 'tag:highway=tertiary' not translated"
     },
     "tag:highway=track": {
         "description": "message 'tag:highway=track' not translated"
     },
-    "tag:highway=steps": "Schody",
-    "tag:bridge": "Most",
-    "tag:tunnel": "Tunel",
-    "tag:traffic_calming": "Spowalnianie ruchu",
-    "tag:service": {
-        "description": "message 'tag:service' not translated"
+    "tag:highway=trunk": {
+        "description": "message 'tag:highway=trunk' not translated"
     },
-    "tag:postal_code": "Kod pocztowy",
+    "tag:highway=trunk_link": {
+        "description": "message 'tag:highway=trunk_link' not translated"
+    },
+    "tag:highway=unclassified": {
+        "description": "message 'tag:highway=unclassified' not translated"
+    },
+    "tag:historic": {
+        "description": "message 'tag:historic' not translated"
+    },
+    "tag:horse": {
+        "description": "message 'tag:horse' not translated"
+    },
+    "tag:incline": {
+        "description": "message 'tag:incline' not translated"
+    },
+    "tag:int_name": {
+        "message": "Nazwa międzynarodowa",
+        "!=1": "Nazwy międzynarodowe"
+    },
     "tag:is_in": "Jest w",
+    "tag:landuse": {
+        "description": "message 'tag:landuse' not translated"
+    },
+    "tag:lanes": {
+        "description": "message 'tag:lanes' not translated"
+    },
+    "tag:layer": "Warstwa",
     "tag:leisure": "Wypoczynek",
-    "tag:leisure=sports_centre": "Centrum Sportowe",
-    "tag:leisure=golf_course": "Pole Golfowe",
-    "tag:leisure=stadium": "Stadion",
-    "tag:leisure=track": {
-        "description": "message 'tag:leisure=track' not translated"
-    },
-    "tag:leisure=pitch": {
-        "description": "message 'tag:leisure=pitch' not translated"
-    },
-    "tag:leisure=water_park": {
-        "description": "message 'tag:leisure=water_park' not translated"
-    },
-    "tag:leisure=marina": {
-        "description": "message 'tag:leisure=marina' not translated"
-    },
-    "tag:leisure=slipway": {
-        "description": "message 'tag:leisure=slipway' not translated"
-    },
-    "tag:leisure=fishing": "Wędkarstwo",
-    "tag:leisure=nature_reserve": {
-        "description": "message 'tag:leisure=nature_reserve' not translated"
-    },
-    "tag:leisure=park": "Park",
-    "tag:leisure=playground": "Plac zabaw",
-    "tag:leisure=garden": "Ogród",
-    "tag:leisure=common": {
-        "description": "message 'tag:leisure=common' not translated"
-    },
-    "tag:leisure=ice_rink": {
-        "description": "message 'tag:leisure=ice_rink' not translated"
-    },
-    "tag:leisure=miniature_golf": {
-        "description": "message 'tag:leisure=miniature_golf' not translated"
-    },
-    "tag:leisure=swimming_pool": "Basen",
     "tag:leisure=beach_resort": {
         "description": "message 'tag:leisure=beach_resort' not translated"
     },
     "tag:leisure=bird_hide": {
         "description": "message 'tag:leisure=bird_hide' not translated"
     },
+    "tag:leisure=common": {
+        "description": "message 'tag:leisure=common' not translated"
+    },
+    "tag:leisure=fishing": "Wędkarstwo",
+    "tag:leisure=garden": "Ogród",
+    "tag:leisure=golf_course": "Pole Golfowe",
+    "tag:leisure=ice_rink": {
+        "description": "message 'tag:leisure=ice_rink' not translated"
+    },
+    "tag:leisure=marina": {
+        "description": "message 'tag:leisure=marina' not translated"
+    },
+    "tag:leisure=miniature_golf": {
+        "description": "message 'tag:leisure=miniature_golf' not translated"
+    },
+    "tag:leisure=nature_reserve": {
+        "description": "message 'tag:leisure=nature_reserve' not translated"
+    },
+    "tag:leisure=park": "Park",
+    "tag:leisure=pitch": {
+        "description": "message 'tag:leisure=pitch' not translated"
+    },
+    "tag:leisure=playground": "Plac zabaw",
+    "tag:leisure=slipway": {
+        "description": "message 'tag:leisure=slipway' not translated"
+    },
     "tag:leisure=sport": "Inny rodzaj sportu",
+    "tag:leisure=sports_centre": "Centrum Sportowe",
+    "tag:leisure=stadium": "Stadion",
+    "tag:leisure=swimming_pool": "Basen",
+    "tag:leisure=track": {
+        "description": "message 'tag:leisure=track' not translated"
+    },
+    "tag:leisure=water_park": {
+        "description": "message 'tag:leisure=water_park' not translated"
+    },
+    "tag:lit": "Droga oświetlona",
+    "tag:loc_name": {
+        "message": "Nazwa miejscowa",
+        "!=1": "Nazwy miejscowe"
+    },
     "tag:man_made": {
         "description": "message 'tag:man_made' not translated"
     },
     "tag:man_made=pipeline": {
         "description": "message 'tag:man_made=pipeline' not translated"
     },
-    "tag:type": "Typ",
-    "tag:type=gas": {
-        "description": "message 'tag:type=gas' not translated"
+    "tag:maxheight": "Max wysokość",
+    "tag:maxlength": "Max długość",
+    "tag:maxspeed": "Max szybkość",
+    "tag:maxweight": "Max szerokość",
+    "tag:military": "Wojskowy",
+    "tag:minspeed": "Min szybkość",
+    "tag:motorcar": {
+        "description": "message 'tag:motorcar' not translated"
     },
-    "tag:type=heat": "Ogrzewanie",
-    "tag:type=hot_water": "Gorąca woda",
-    "tag:type=oil": {
-        "description": "message 'tag:type=oil' not translated"
+    "tag:motorcycle": {
+        "description": "message 'tag:motorcycle' not translated"
     },
-    "tag:type=sewage": {
-        "description": "message 'tag:type=sewage' not translated"
+    "tag:mountain_pass": {
+        "description": "message 'tag:mountain_pass' not translated"
     },
-    "tag:type=water": "Woda",
     "tag:name": {
         "message": "Nazwa",
         "!=1": "Nazwy"
     },
-    "tag:alt_name": {
-        "message": "Nazwa alternatywna",
-        "!=1": "Nazwy alternatywne"
+    "tag:narrow": "Wąski",
+    "tag:natural": {
+        "description": "message 'tag:natural' not translated"
     },
+    "tag:network": "Sieć",
+    "tag:noexit": {
+        "description": "message 'tag:noexit' not translated"
+    },
+    "tag:note": "Notatka",
+    "tag:office": "Biuro",
     "tag:official_name": {
         "message": "Nazwa oficjalna",
         "!=1": "Nazwy oficjalne"
     },
-    "tag:int_name": {
-        "message": "Nazwa międzynarodowa",
-        "!=1": "Nazwy międzynarodowe"
-    },
-    "tag:loc_name": {
-        "message": "Nazwa miejscowa",
-        "!=1": "Nazwy miejscowe"
-    },
     "tag:old_name": "Stara nazwa",
-    "tag:ref": "Odniesienie",
-    "tag:network": "Sieć",
+    "tag:oneway": "Jednokierunkowa",
     "tag:opening_hours": "Godziny otwarcia",
     "tag:operator": "Operator",
+    "tag:phone": "Nr telefonu",
     "tag:place": "Miejsce",
+    "tag:place=city": {
+        "message": "Miasto",
+        "!=1": "Miasta"
+    },
     "tag:place=continent": {
         "message": "Kontynent",
         "!=1": "Kontynenty"
@@ -267,35 +359,11 @@
         "message": "Kraj",
         "!=1": "Kraje"
     },
-    "tag:place=state": {
-        "message": "Stan",
-        "!=1": "Stany"
-    },
-    "tag:place=region": {
-        "message": "Region",
-        "!=1": "Regiony"
-    },
     "tag:place=county": {
         "description": "message 'tag:place=county' not translated"
     },
-    "tag:place=city": {
-        "message": "Miasto",
-        "!=1": "Miasta"
-    },
-    "tag:place=town": {
-        "description": "message 'tag:place=town' not translated"
-    },
-    "tag:place=village": {
-        "description": "message 'tag:place=village' not translated"
-    },
-    "tag:place=suburb": {
-        "description": "message 'tag:place=suburb' not translated"
-    },
     "tag:place=hamlet": {
         "description": "message 'tag:place=hamlet' not translated"
-    },
-    "tag:place=locality": {
-        "description": "message 'tag:place=locality' not translated"
     },
     "tag:place=island": {
         "message": "Wyspa",
@@ -304,15 +372,36 @@
     "tag:place=islet": {
         "description": "message 'tag:place=islet' not translated"
     },
+    "tag:place=locality": {
+        "description": "message 'tag:place=locality' not translated"
+    },
     "tag:place=ocean": {
         "message": "Ocean",
         "!=1": "Oceany"
+    },
+    "tag:place=region": {
+        "message": "Region",
+        "!=1": "Regiony"
     },
     "tag:place=sea": {
         "message": "Morze",
         "!=1": "Morza"
     },
+    "tag:place=state": {
+        "message": "Stan",
+        "!=1": "Stany"
+    },
+    "tag:place=suburb": {
+        "description": "message 'tag:place=suburb' not translated"
+    },
+    "tag:place=town": {
+        "description": "message 'tag:place=town' not translated"
+    },
+    "tag:place=village": {
+        "description": "message 'tag:place=village' not translated"
+    },
     "tag:population": "Ludność",
+    "tag:postal_code": "Kod pocztowy",
     "tag:power": {
         "description": "message 'tag:power' not translated"
     },
@@ -325,9 +414,6 @@
     "tag:power=minor_line": {
         "description": "message 'tag:power=minor_line' not translated"
     },
-    "tag:power=tower": {
-        "description": "message 'tag:power=tower' not translated"
-    },
     "tag:power=pole": {
         "description": "message 'tag:power=pole' not translated"
     },
@@ -337,31 +423,43 @@
     "tag:power=sub_station": {
         "description": "message 'tag:power=sub_station' not translated"
     },
+    "tag:power=tower": {
+        "description": "message 'tag:power=tower' not translated"
+    },
     "tag:power_source": {
         "description": "message 'tag:power_source' not translated"
     },
     "tag:power_source=biofuel": "Biopaliwo",
-    "tag:power_source=oil": "Olej",
     "tag:power_source=coal": "Węgiel",
-    "tag:power_source=gas": "Gaz",
-    "tag:power_source=waste": "Odpady",
-    "tag:power_source=hydro": "Woda",
-    "tag:power_source=tidal": "Przypływ",
-    "tag:power_source=wave": "Fale",
-    "tag:power_source=geothermal": "Geotermiczne",
-    "tag:power_source=nuclear": "Nuklearne",
     "tag:power_source=fusion": {
         "description": "message 'tag:power_source=fusion' not translated"
     },
-    "tag:power_source=wind": "Wiatrowe",
+    "tag:power_source=gas": "Gaz",
+    "tag:power_source=geothermal": "Geotermiczne",
+    "tag:power_source=hydro": "Woda",
+    "tag:power_source=nuclear": "Nuklearne",
+    "tag:power_source=oil": "Olej",
     "tag:power_source=photovoltaic": {
         "description": "message 'tag:power_source=photovoltaic' not translated"
     },
     "tag:power_source=solar-thermal": {
         "description": "message 'tag:power_source=solar-thermal' not translated"
     },
+    "tag:power_source=tidal": "Przypływ",
+    "tag:power_source=waste": "Odpady",
+    "tag:power_source=wave": "Fale",
+    "tag:power_source=wind": "Wiatrowe",
+    "tag:proposed": "Propozycja",
+    "tag:psv": {
+        "description": "message 'tag:psv' not translated"
+    },
+    "tag:public_transport": "Transport Publiczny",
     "tag:railway": {
         "description": "message 'tag:railway' not translated"
+    },
+    "tag:railway=platform": {
+        "message": "Peron",
+        "!=1": "Perony"
     },
     "tag:railway=rail": {
         "message": "Tor Kolejowy",
@@ -371,39 +469,52 @@
         "message": "Tor Tramwajowy",
         "!=1": "Tory Tramwajowe"
     },
-    "tag:railway=platform": {
-        "message": "Peron",
-        "!=1": "Perony"
-    },
     "tag:real_ale": {
         "description": "message 'tag:real_ale' not translated"
     },
+    "tag:ref": "Odniesienie",
     "tag:religion": "Religia",
-    "tag:religion=christian": "chrześcijańska",
     "tag:religion=buddhist": "buddyjska",
+    "tag:religion=christian": "chrześcijańska",
     "tag:religion=hindu": "hindu",
     "tag:religion=jewish": "żydowska",
-    "tag:religion=muslim": "muzułmańska",
     "tag:religion=multifaith": {
         "description": "message 'tag:religion=multifaith' not translated"
     },
-    "tag:denomination": {
-        "description": "message 'tag:denomination' not translated"
-    },
+    "tag:religion=muslim": "muzułmańska",
     "tag:route": "Trasa",
-    "tag:route=train": {
-        "description": "message 'tag:route=train' not translated"
+    "tag:route=bicycle": "Rower",
+    "tag:route=bus": {
+        "description": "message 'tag:route=bus' not translated"
     },
-    "tag:route=railway": {
-        "description": "message 'tag:route=railway' not translated"
+    "tag:route=ferry": {
+        "description": "message 'tag:route=ferry' not translated"
     },
-    "tag:route=rail": {
-        "description": "message 'tag:route=rail' not translated"
+    "tag:route=hiking": {
+        "description": "message 'tag:route=hiking' not translated"
     },
     "tag:route=light_rail": {
         "description": "message 'tag:route=light_rail' not translated"
     },
+    "tag:route=minibus": {
+        "description": "message 'tag:route=minibus' not translated"
+    },
+    "tag:route=mtb": {
+        "description": "message 'tag:route=mtb' not translated"
+    },
+    "tag:route=rail": {
+        "description": "message 'tag:route=rail' not translated"
+    },
+    "tag:route=railway": {
+        "description": "message 'tag:route=railway' not translated"
+    },
+    "tag:route=road": {
+        "description": "message 'tag:route=road' not translated"
+    },
     "tag:route=subway": "Metro",
+    "tag:route=train": {
+        "description": "message 'tag:route=train' not translated"
+    },
     "tag:route=tram": "Tramwaj",
     "tag:route=tram_bus": "Tramwai i autobus",
     "tag:route=trolley": {
@@ -412,32 +523,18 @@
     "tag:route=trolleybus": {
         "description": "message 'tag:route=trolleybus' not translated"
     },
-    "tag:route=bus": {
-        "description": "message 'tag:route=bus' not translated"
-    },
-    "tag:route=minibus": {
-        "description": "message 'tag:route=minibus' not translated"
-    },
-    "tag:route=ferry": {
-        "description": "message 'tag:route=ferry' not translated"
-    },
-    "tag:route=road": {
-        "description": "message 'tag:route=road' not translated"
-    },
-    "tag:route=bicycle": "Rower",
-    "tag:route=hiking": {
-        "description": "message 'tag:route=hiking' not translated"
-    },
-    "tag:route=mtb": {
-        "description": "message 'tag:route=mtb' not translated"
+    "tag:service": {
+        "description": "message 'tag:service' not translated"
     },
     "tag:shop": "Sklep",
+    "tag:smoothness": "Gładkość",
+    "tag:source": "Źródło",
     "tag:sport": "Sport",
-    "tag:sport=9pin": {
-        "description": "message 'tag:sport=9pin' not translated"
-    },
     "tag:sport=10pin": {
         "description": "message 'tag:sport=10pin' not translated"
+    },
+    "tag:sport=9pin": {
+        "description": "message 'tag:sport=9pin' not translated"
     },
     "tag:sport=archery": {
         "description": "message 'tag:sport=archery' not translated"
@@ -513,11 +610,11 @@
     },
     "tag:sport=rugby": "Rugby",
     "tag:sport=shooting": "Strzelectwo",
-    "tag:sport=skating": {
-        "description": "message 'tag:sport=skating' not translated"
-    },
     "tag:sport=skateboard": {
         "description": "message 'tag:sport=skateboard' not translated"
+    },
+    "tag:sport=skating": {
+        "description": "message 'tag:sport=skating' not translated"
     },
     "tag:sport=skiing": {
         "description": "message 'tag:sport=skiing' not translated"
@@ -532,11 +629,19 @@
     },
     "tag:sport=tennis": "Tenis",
     "tag:sport=volleyball": "Siatkówka",
+    "tag:start_date": "Data stworzenia",
+    "tag:surface": {
+        "description": "message 'tag:surface' not translated"
+    },
+    "tag:tactile_paving": {
+        "description": "message 'tag:tactile_paving' not translated"
+    },
+    "tag:toll": {
+        "description": "message 'tag:toll' not translated"
+    },
+    "tag:tourism": "Turystyka",
     "tag:tracks": {
         "description": "message 'tag:tracks' not translated"
-    },
-    "tag:tracks=single": {
-        "description": "message 'tag:tracks=single' not translated"
     },
     "tag:tracks=double": {
         "description": "message 'tag:tracks=double' not translated"
@@ -544,156 +649,51 @@
     "tag:tracks=multiple": {
         "description": "message 'tag:tracks=multiple' not translated"
     },
-    "tag:vending": {
-        "description": "message 'tag:vending' not translated"
-    },
-    "tag:voltage": "Napięcie",
-    "tag:wires": "Przewody",
-    "tag:website": "Witryna",
-    "tag:cycleway": {
-        "description": "message 'tag:cycleway' not translated"
+    "tag:tracks=single": {
+        "description": "message 'tag:tracks=single' not translated"
     },
     "tag:tracktype": {
         "description": "message 'tag:tracktype' not translated"
     },
+    "tag:traffic_calming": "Spowalnianie ruchu",
+    "tag:traffic_sign": {
+        "description": "message 'tag:traffic_sign' not translated"
+    },
+    "tag:tunnel": "Tunel",
+    "tag:type": "Typ",
+    "tag:type=gas": {
+        "description": "message 'tag:type=gas' not translated"
+    },
+    "tag:type=heat": "Ogrzewanie",
+    "tag:type=hot_water": "Gorąca woda",
+    "tag:type=oil": {
+        "description": "message 'tag:type=oil' not translated"
+    },
+    "tag:type=sewage": {
+        "description": "message 'tag:type=sewage' not translated"
+    },
+    "tag:type=water": "Woda",
+    "tag:vehicle": {
+        "description": "message 'tag:vehicle' not translated"
+    },
+    "tag:vending": {
+        "description": "message 'tag:vending' not translated"
+    },
+    "tag:voltage": "Napięcie",
     "tag:waterway": {
         "description": "message 'tag:waterway' not translated"
     },
-    "tag:aerialway": {
-        "description": "message 'tag:aerialway' not translated"
-    },
-    "tag:public_transport": "Transport Publiczny",
-    "tag:office": "Biuro",
-    "tag:craft": {
-        "description": "message 'tag:craft' not translated"
-    },
-    "tag:emergency": {
-        "description": "message 'tag:emergency' not translated"
-    },
-    "tag:tourism": "Turystyka",
-    "tag:historic": {
-        "description": "message 'tag:historic' not translated"
-    },
-    "tag:landuse": {
-        "description": "message 'tag:landuse' not translated"
-    },
-    "tag:wood": {
-        "description": "message 'tag:wood' not translated"
-    },
-    "tag:military": "Wojskowy",
-    "tag:natural": {
-        "description": "message 'tag:natural' not translated"
-    },
-    "tag:geological": {
-        "description": "message 'tag:geological' not translated"
-    },
-    "tag:boundary": {
-        "description": "message 'tag:boundary' not translated"
-    },
-    "tag:abutters": {
-        "description": "message 'tag:abutters' not translated"
-    },
-    "tag:lit": "Droga oświetlona",
-    "tag:area": "Obszar",
-    "tag:crossing": "Przejście",
-    "tag:mountain_pass": {
-        "description": "message 'tag:mountain_pass' not translated"
-    },
-    "tag:cutting": {
-        "description": "message 'tag:cutting' not translated"
-    },
-    "tag:embankment": {
-        "description": "message 'tag:embankment' not translated"
-    },
-    "tag:lanes": {
-        "description": "message 'tag:lanes' not translated"
-    },
-    "tag:layer": "Warstwa",
-    "tag:surface": {
-        "description": "message 'tag:surface' not translated"
-    },
-    "tag:smoothness": "Gładkość",
-    "tag:ele": {
-        "description": "message 'tag:ele' not translated"
-    },
-    "tag:width": "Szerokość",
-    "tag:est_width": "Oszacowana szerokość",
-    "tag:incline": {
-        "description": "message 'tag:incline' not translated"
-    },
-    "tag:start_date": "Data stworzenia",
-    "tag:end_date": "Data usunięcia",
-    "tag:disused": {
-        "description": "message 'tag:disused' not translated"
-    },
+    "tag:website": "Witryna",
     "tag:wheelchair": {
         "description": "message 'tag:wheelchair' not translated"
     },
     "tag:wheelchair=limited": {
         "description": "message 'tag:wheelchair=limited' not translated"
     },
-    "tag:tactile_paving": {
-        "description": "message 'tag:tactile_paving' not translated"
-    },
-    "tag:narrow": "Wąski",
-    "tag:covered": {
-        "description": "message 'tag:covered' not translated"
-    },
-    "tag:ford": {
-        "description": "message 'tag:ford' not translated"
-    },
-    "tag:access": "Dostęp",
-    "tag:vehicle": {
-        "description": "message 'tag:vehicle' not translated"
-    },
-    "tag:bicycle": {
-        "description": "message 'tag:bicycle' not translated"
-    },
-    "tag:foot": {
-        "description": "message 'tag:foot' not translated"
-    },
-    "tag:goods": {
-        "description": "message 'tag:goods' not translated"
-    },
-    "tag:hgv": {
-        "description": "message 'tag:hgv' not translated"
-    },
-    "tag:horse": {
-        "description": "message 'tag:horse' not translated"
-    },
-    "tag:motorcycle": {
-        "description": "message 'tag:motorcycle' not translated"
-    },
-    "tag:motorcar": {
-        "description": "message 'tag:motorcar' not translated"
-    },
-    "tag:psv": {
-        "description": "message 'tag:psv' not translated"
-    },
-    "tag:oneway": "Jednokierunkowa",
-    "tag:noexit": {
-        "description": "message 'tag:noexit' not translated"
-    },
-    "tag:maxweight": "Max szerokość",
-    "tag:maxheight": "Max wysokość",
-    "tag:maxlength": "Max długość",
-    "tag:maxspeed": "Max szybkość",
-    "tag:minspeed": "Min szybkość",
-    "tag:traffic_sign": {
-        "description": "message 'tag:traffic_sign' not translated"
-    },
-    "tag:toll": {
-        "description": "message 'tag:toll' not translated"
-    },
-    "tag:charge": {
-        "description": "message 'tag:charge' not translated"
-    },
-    "tag:source": "Źródło",
-    "tag:phone": "Nr telefonu",
-    "tag:fax": "Nr faxu",
-    "tag:email": "E-mail",
+    "tag:width": "Szerokość",
     "tag:wikipedia": "Wikipedia",
-    "tag:created_by": "Utworzone przez",
-    "tag:construction": "W budowie",
-    "tag:proposed": "Propozycja"
+    "tag:wires": "Przewody",
+    "tag:wood": {
+        "description": "message 'tag:wood' not translated"
+    }
 }
