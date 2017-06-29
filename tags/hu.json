@@ -121,7 +121,7 @@
     "tag:historic=castle": "Kastély",
     "tag:is_in": "Ebben van: ",
     "tag:landuse=allotments": "Kertek",
-    "tag:landuse=farm, landuse=farmland": "Mezőgazdaság terület",
+    "tag:landuse=farmland": "Mezőgazdaság terület",
     "tag:landuse=farmyard": "Farm, telephely",
     "tag:landuse=forest": "Erdő",
     "tag:landuse=meadow": "Rét",

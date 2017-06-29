@@ -54,7 +54,7 @@
     "tag:amenity=bench": "Banca",
     "tag:amenity=brothel": "Bordel",
     "tag:amenity=cinema": "Cinema",
-    "tag:amenity=fire_hydrant fire_hydrant:type!=pillar;underground, emergency=fire_hydrant fire_hydrant:type!=pillar;underground": "Hidrant",
+    "tag:amenity=fire_hydrant": "Hidrant",
     "tag:amenity=pub": "Pub",
     "tag:amenity=recycling": "Recipient",
     "tag:amenity=restaurant": "Restaurant",

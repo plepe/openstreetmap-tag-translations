@@ -85,13 +85,12 @@
         "!=1": "Паби"
     },
     "tag:amenity=public_building": "Public Buildings",
-    "tag:amenity=recycling recycling_type=centre": "Recyclings Centres",
     "tag:amenity=restaurant": {
         "message": "Ресторан",
         "!=1": "Ресторани"
     },
     "tag:amenity=school": "Schools",
-    "tag:amenity=signpost, information=guidepost": "Signposts",
+    "tag:amenity=signpost": "Signposts",
     "tag:amenity=taxi": "Taxi Stations",
     "tag:amenity=telephone": "Telephones",
     "tag:amenity=theatre": "Theatres",
@@ -203,7 +202,7 @@
         "!=1": "Дороги"
     },
     "tag:highway=bridleway": "Дорога для верхової їзди",
-    "tag:highway=bus_stop, public_transport=stop_position bus=yes": "Автобусна зупинка",
+    "tag:highway=bus_stop": "Автобусна зупинка",
     "tag:highway=cycleway": "Велодоріжка",
     "tag:highway=footway": "Пішохідна доріжка",
     "tag:highway=living_street": "Житлова вулиця",
@@ -456,8 +455,9 @@
         "message": "Трамвайна колія",
         "!=1": " Трамвайні колії"
     },
-    "tag:railway=tram_stop, public_transport=stop_position tram=yes": "Трамвайна зупинка",
+    "tag:railway=tram_stop": "Трамвайна зупинка",
     "tag:real_ale": "Справжній ель",
+    "tag:recycling_type=centre": "Recyclings Centres",
     "tag:ref": "Посилання",
     "tag:religion": "Релігія",
     "tag:religion=buddhist": "Буддизм",

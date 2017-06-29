@@ -72,13 +72,12 @@
         "!=1": "Κινηματογράφοι",
         "message": "Κινηματογράφος"
     },
-    "tag:amenity=drinking_water maintenance!=needs_repair;broken disused!=yes , drinking_water=yes  disused!=yes": "Πόσιμο νερό",
+    "tag:amenity=drinking_water": "Πόσιμο νερό",
     "tag:amenity=hospital": "Νοσοκομείο",
     "tag:amenity=nursing_home": "Γηροκομείο",
     "tag:amenity=pub": {
         "description": "message 'tag:amenity=pub' not translated"
     },
-    "tag:amenity=recycling recycling_type=centre": "Κέντρο ανακύκλωσης",
     "tag:amenity=restaurant": {
         "message": "Εστιατόριο",
         "!=1": "Εστιατόρια"
@@ -370,6 +369,7 @@
     "tag:real_ale": {
         "description": "message 'tag:real_ale' not translated"
     },
+    "tag:recycling_type=centre": "Κέντρο ανακύκλωσης",
     "tag:ref": {
         "description": "message 'tag:ref' not translated"
     },

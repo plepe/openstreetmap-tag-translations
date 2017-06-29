@@ -75,7 +75,7 @@
     "tag:amenity=arts_centre": "Centrum sztuki",
     "tag:amenity=atm": "Bankomat",
     "tag:amenity=baby_hatch": "Okno życia",
-    "tag:amenity=bank, amenity=bank;atm, amenity=atm;bank": "Bank",
+    "tag:amenity=bank": "Bank",
     "tag:amenity=bureau_de_change": "Kantor",
     "tag:amenity=bus_station": "Przystanek autobusowy",
     "tag:amenity=car_rental": "Wypożyczanie samochodów",
@@ -202,7 +202,7 @@
     "tag:highway=bridleway": {
         "description": "message 'tag:highway=bridleway' not translated"
     },
-    "tag:highway=bus_stop, public_transport=stop_position bus=yes": "Przystanek autobusowy",
+    "tag:highway=bus_stop": "Przystanek autobusowy",
     "tag:highway=cycleway": "Droga dla rowerów",
     "tag:highway=footway": {
         "description": "message 'tag:highway=footway' not translated"
