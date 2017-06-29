@@ -1,6 +1,6 @@
 {
   "name": "openstreetmap-tag-translations",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Translations of OpenStreetMap tags",
   "repository": "git@github.com:plepe/openstreetmap-tag-translations.git",
   "author": "Stephan Bösch-Plepelits <skunk@xover.mud.at>",
