@@ -85,4 +85,4 @@ Additionally the following users contributed via OpenStreetMap Wiki (which was u
 * Viw
 * Xuacu
 
-I hope I didn't miss any contributors. If you fill missed out or like to change information about you, please contact me.
+I hope I didn't miss any contributors. If you feel missed out or like to change information about you, please contact me.
