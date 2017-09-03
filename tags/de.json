@@ -6,6 +6,10 @@
     },
     "tag:access": "Allgemeine Zugangserlaubnis",
     "tag:accomodation": "Unterkunft",
+    "tag:addr": {
+        "message": "Adresse",
+        "!=1": "Adressen"
+    },
     "tag:addr:city": {
         "message": "Stadt",
         "!=1": "Städte"
