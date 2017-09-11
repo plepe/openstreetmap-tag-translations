@@ -4,10 +4,6 @@
     "tag:abutters": "Abutters",
     "tag:access": "General access permission",
     "tag:accomodation": "Accomodation",
-    "tag:addr": {
-        "message": "Address",
-        "!=1": "Addresses"
-    },
     "tag:addr:city": {
         "message": "City",
         "!=1": "Cities"
