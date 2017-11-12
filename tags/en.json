@@ -535,7 +535,7 @@
     "tag:route=trolleybus": "Trolley",
     "tag:service": "Service road attributes",
     "tag:shop": "Shop",
-    "tag:shop=bakery": "Bäcker",
+    "tag:shop=bakery": "Bakery",
     "tag:shop=bicycle": "",
     "tag:shop=books": "Books",
     "tag:shop=car_repair": "",
