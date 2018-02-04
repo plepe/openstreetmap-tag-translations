@@ -134,9 +134,9 @@
     "tag:amenity=vending_machine vending=news_papers": "Zeitungsautomaten",
     "tag:amenity=vending_machine vending=parcel_pickup;parcel_mail_in": "Packstation",
     "tag:amenity=vending_machine vending=parking_tickets": {
+        "message": "Parkscheinautomat",
         "!=1": "Parkscheinautomaten",
-        "gender": "male",
-        "message": "Parkscheinautomat"
+        "gender": "male"
     },
     "tag:amenity=vending_machine vending=parking_tickets;public_transport_tickets": "Ticketautomat",
     "tag:amenity=vending_machine vending=public_transport_tickets": "Ticketautomaten (ÖPV)",
@@ -341,14 +341,13 @@
     "tag:leisure=miniature_golf": "Minigolf",
     "tag:leisure=nature_reserve": "Naturschutzgebiete",
     "tag:leisure=park": {
+        "message": "Park",
         "!=1": "Parks",
-        "gender": "male",
-        "message": "Park"
+        "gender": "male"
     },
     "tag:leisure=pitch": {
-        "!=1": "Spielfelder",
-        "gender": "neuter",
-        "message": "Spielfeld"
+        "message": "Spielfeld",
+        "!=1": "Spielfelder"
     },
     "tag:leisure=playground": "Spielplatz",
     "tag:leisure=slipway": "Slipanlage",
@@ -564,9 +563,8 @@
     "tag:shop=fixme": "zu überprüfen",
     "tag:shop=florist": "Blumenhändler",
     "tag:shop=furniture": {
-        "!=1": "Möbelhäuser",
-        "gender": "neuter",
-        "message": "Möbelhaus"
+        "message": "Möbelhaus",
+        "!=1": "Möbelhäuser"
     },
     "tag:shop=garden_centre": "Gartencenter",
     "tag:shop=gift": "Geschenkgeschäft",
@@ -595,9 +593,9 @@
     "tag:shop=sports": "Sportgeschäfte",
     "tag:shop=stationery": "Schreibwarenhändler",
     "tag:shop=supermarket": {
+        "message": "Supermarkt",
         "!=1": "Supermärkte",
-        "gender": "male",
-        "message": "Supermarkt"
+        "gender": "male"
     },
     "tag:shop=toys": "Spieleläden",
     "tag:shop=vacant": "Leerstand",
@@ -655,6 +653,9 @@
     "tag:sport=volleyball": "Volleyball",
     "tag:start_date": "Anfangsdatum",
     "tag:surface": {
+        "message": "Oberfläche",
+        "!=1": "Oberflächen",
+        "gender": "female",
         "description": "message 'tag:surface' not translated"
     },
     "tag:tactile_paving": {
@@ -702,6 +703,7 @@
     "tag:waterway=stream": "Bäche",
     "tag:website": "Webseite",
     "tag:wheelchair": {
+        "message": "Rollstuhl",
         "description": "message 'tag:wheelchair' not translated"
     },
     "tag:wheelchair=limited": {
