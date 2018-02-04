@@ -712,5 +712,8 @@
     "tag:width": "Breite",
     "tag:wikipedia": "Wikipedia",
     "tag:wires": "Kabel",
-    "tag:wood": "Holzart"
+    "tag:wood": {
+        "message": "Holzart",
+        "!=1": "Holzarten"
+    }
 }
