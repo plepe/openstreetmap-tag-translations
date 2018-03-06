@@ -4,5 +4,8 @@
   "description": "Translations of OpenStreetMap tags",
   "repository": "git@github.com:plepe/openstreetmap-tag-translations.git",
   "author": "Stephan Bösch-Plepelits <skunk@xover.mud.at>",
-  "license": "CC-SA-BY-2.0"
+  "license": "CC-SA-BY-2.0",
+  "devDependencies": {
+    "async-foreach": "^0.1.3"
+  }
 }

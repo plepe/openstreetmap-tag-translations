@@ -1,0 +1,63 @@
+#!/usr/bin/env node
+const fs = require('fs')
+const forEach = require('async-foreach').forEach
+
+let all = {}
+let allData = {}
+
+/* read existing translation files in lang/ */
+fs.readdir('tags', function (err, files) {
+  forEach(files, function (f) {
+    let m = f.match(/^(.*)\.json$/)
+    if (!m) {
+      return
+    }
+
+    let done = this.async()
+
+    fs.readFile('tags/' + f, function (f, err, contents) {
+      let data
+
+      try {
+        data = JSON.parse(contents)
+      } catch (e) {
+        return done()
+      }
+
+      if (!data) {
+        return done()
+      }
+
+      allData[f] = data
+
+      for (var k in data) {
+        all[k] = true
+      }
+
+      done()
+    }.bind(this, f))
+  },
+  allDone)
+})
+
+function allDone () {
+  forEach(Object.keys(allData), function (f) {
+    let data = allData[f]
+
+    for (var k in all) {
+      if (!(k in data)) {
+        data[k] = ''
+      }
+    }
+
+    var ret = {}
+    var keys = Object.keys(data)
+    keys.sort()
+
+    for (var i = 0; i < keys.length; i++) {
+      ret[keys[i]] = data[keys[i]]
+    }
+
+    fs.writeFile('tags/' + f, JSON.stringify(ret, null, '    ') + '\n')
+  })
+}
