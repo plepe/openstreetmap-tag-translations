@@ -342,6 +342,7 @@
     "tag:railway=tram_stop": "電停",
     "tag:real_ale": "リアルエール提供",
     "tag:recycling_type=centre": "リサイクルセンター",
+    "tag:recycling_type=container": null,
     "tag:ref": "参照番号",
     "tag:religion": "宗教",
     "tag:religion=buddhist": "仏教",

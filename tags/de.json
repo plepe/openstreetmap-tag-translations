@@ -111,7 +111,6 @@
         "!=1": "Pubs"
     },
     "tag:amenity=public_building": "Öffentliche Gebäude",
-    "tag:amenity=recycling": "Container",
     "tag:amenity=restaurant": {
         "message": "Restaurant",
         "!=1": "Restaurants"
@@ -515,6 +514,7 @@
     "tag:railway=tram_stop": "Straßenbahnhaltestellen",
     "tag:real_ale": "Richtiges Bier angeboten",
     "tag:recycling_type=centre": "Recyclinghöfe",
+    "tag:recycling_type=container": "Container",
     "tag:ref": "Referenz",
     "tag:religion": {
         "message": "Religion",

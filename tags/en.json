@@ -112,7 +112,7 @@
         "!=1": "Pubs"
     },
     "tag:amenity=public_building": "",
-    "tag:amenity=recycling": "Container",
+    "tag:amenity=recycling": "Recycling",
     "tag:amenity=restaurant": {
         "message": "Restaurant",
         "!=1": "Restaurants"
@@ -505,6 +505,7 @@
     "tag:railway=tram_stop": "",
     "tag:real_ale": "Real ale offered",
     "tag:recycling_type=centre": "Recycling Centre",
+    "tag:recycling_type=container": "Container",
     "tag:ref": {
         "message": "Reference",
         "!=1": null

@@ -526,6 +526,7 @@
     "tag:real_ale": {
         "description": "message 'tag:real_ale' not translated"
     },
+    "tag:recycling_type=container": null,
     "tag:ref": "Viide",
     "tag:religion": "Religioon",
     "tag:religion=buddhist": "budistlik",

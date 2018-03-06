@@ -452,6 +452,7 @@
     "tag:railway=tram_stop": "Tramhalte",
     "tag:real_ale": "Real Ale aangeboden",
     "tag:recycling_type=centre": "Recycling inzamelpunt",
+    "tag:recycling_type=container": null,
     "tag:ref": "Referentie",
     "tag:religion": "Religie",
     "tag:religion=buddhist": "Boeddhistisch",

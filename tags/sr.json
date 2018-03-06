@@ -490,6 +490,7 @@
     "tag:real_ale": {
         "description": "message 'tag:real_ale' not translated"
     },
+    "tag:recycling_type=container": null,
     "tag:ref": "Препорука",
     "tag:religion": "Религија",
     "tag:religion=buddhist": "будизам",

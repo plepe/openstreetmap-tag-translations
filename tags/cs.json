@@ -109,7 +109,6 @@
         "!=1": "Hospody"
     },
     "tag:amenity=public_building": "Veřejná budova",
-    "tag:amenity=recycling": "Kontejner",
     "tag:amenity=restaurant": {
         "message": "Restaurace",
         "!=1": "Restaurace"
@@ -466,6 +465,7 @@
     "tag:railway=tram_stop": "Zastávka tramvaje",
     "tag:real_ale": "Nabízen alkohol",
     "tag:recycling_type=centre": "Recyklace",
+    "tag:recycling_type=container": "Kontejner",
     "tag:ref": "Reference",
     "tag:religion": "Náboženství",
     "tag:religion=buddhist": "buddhismus",

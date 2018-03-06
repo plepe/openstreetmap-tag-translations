@@ -371,6 +371,7 @@
         "description": "message 'tag:real_ale' not translated"
     },
     "tag:recycling_type=centre": "Κέντρο ανακύκλωσης",
+    "tag:recycling_type=container": null,
     "tag:ref": {
         "description": "message 'tag:ref' not translated"
     },

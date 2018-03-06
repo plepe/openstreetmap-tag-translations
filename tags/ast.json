@@ -122,7 +122,6 @@
         "!=1": "Pubs"
     },
     "tag:amenity=public_building": "Edificiu públicu",
-    "tag:amenity=recycling": "Contenedor",
     "tag:amenity=restaurant": {
         "message": "Restaurante",
         "!=1": "Restaurantes"
@@ -489,6 +488,7 @@
     "tag:railway=tram_stop": "Parada de tranvía",
     "tag:real_ale": "Tien cerveza ale auténtica",
     "tag:recycling_type=centre": "Centru de reciclaxe",
+    "tag:recycling_type=container": "Contenedor",
     "tag:ref": "Referencia",
     "tag:religion": "Relixón",
     "tag:religion=buddhist": "budista",

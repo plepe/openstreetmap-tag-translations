@@ -459,6 +459,7 @@
     "tag:railway=tram_stop": "Трамвайна зупинка",
     "tag:real_ale": "Справжній ель",
     "tag:recycling_type=centre": "Recyclings Centres",
+    "tag:recycling_type=container": null,
     "tag:ref": "Посилання",
     "tag:religion": "Релігія",
     "tag:religion=buddhist": "Буддизм",

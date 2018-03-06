@@ -102,7 +102,6 @@
         "!=1": "Pub"
     },
     "tag:amenity=public_building": "Edifici pubblici",
-    "tag:amenity=recycling": "Cassone",
     "tag:amenity=restaurant": {
         "message": "Ristorante",
         "!=1": "Ristoranti"
@@ -439,6 +438,7 @@
     "tag:railway=tram_stop": "Fermate dei tram",
     "tag:real_ale": "Birra autentica in offerta",
     "tag:recycling_type=centre": "Centri per il riciclaggio",
+    "tag:recycling_type=container": "Cassone",
     "tag:ref": "Riferimento",
     "tag:religion": "Religione",
     "tag:religion=buddhist": "Buddista",

@@ -480,6 +480,7 @@
     },
     "tag:real_ale": "Настоящий эль",
     "tag:recycling_type=centre": "Переработка для вторсырья",
+    "tag:recycling_type=container": null,
     "tag:ref": "Ссылка",
     "tag:religion": "Религия",
     "tag:religion=buddhist": "Буддизм",

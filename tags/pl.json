@@ -504,6 +504,7 @@
     "tag:real_ale": {
         "description": "message 'tag:real_ale' not translated"
     },
+    "tag:recycling_type=container": null,
     "tag:ref": "Odniesienie",
     "tag:religion": "Religia",
     "tag:religion=buddhist": "buddyjska",

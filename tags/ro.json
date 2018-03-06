@@ -57,7 +57,6 @@
     "tag:amenity=courthouse": null,
     "tag:amenity=fire_hydrant": "Hidrant",
     "tag:amenity=pub": "Pub",
-    "tag:amenity=recycling": "Recipient",
     "tag:amenity=restaurant": "Restaurant",
     "tag:amenity=sauna": "Sauna",
     "tag:amenity=telephone": "Telefon",
@@ -389,6 +388,7 @@
     "tag:real_ale": {
         "description": "message 'tag:real_ale' not translated"
     },
+    "tag:recycling_type=container": "Recipient",
     "tag:ref": {
         "description": "message 'tag:ref' not translated"
     },
