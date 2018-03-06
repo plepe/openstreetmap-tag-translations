@@ -39,6 +39,7 @@
     },
     "tag:address": "Adres",
     "tag:admin_level=10": "Granica dzielnicy",
+    "tag:admin_level=11": "",
     "tag:admin_level=2": "Granica państwa",
     "tag:admin_level=3": {
         "description": "message 'tag:admin_level=3' not translated"
@@ -52,7 +53,10 @@
     "tag:admin_level=6": {
         "description": "message 'tag:admin_level=6' not translated"
     },
+    "tag:admin_level=7": "",
+    "tag:admin_level=7.5": "",
     "tag:admin_level=8": "Granica miasta",
+    "tag:admin_level=9": "",
     "tag:aerialway": {
         "description": "message 'tag:aerialway' not translated"
     },
@@ -76,33 +80,101 @@
     "tag:amenity=atm": "Bankomat",
     "tag:amenity=baby_hatch": "Okno życia",
     "tag:amenity=bank": "Bank",
+    "tag:amenity=bar": "",
+    "tag:amenity=bench": "",
+    "tag:amenity=bicycle_parking capacity<=20, amenity=bicycle_parking capacity!=*": "",
+    "tag:amenity=bicycle_parking capacity<=60 capacity>20": "",
+    "tag:amenity=bicycle_parking capacity>60": "",
+    "tag:amenity=bicycle_rental": "",
+    "tag:amenity=blood_bank": "",
+    "tag:amenity=blood_donation": "",
+    "tag:amenity=brothel": "",
     "tag:amenity=bureau_de_change": "Kantor",
     "tag:amenity=bus_station": "Przystanek autobusowy",
+    "tag:amenity=cafe": "",
     "tag:amenity=car_rental": "Wypożyczanie samochodów",
+    "tag:amenity=car_sharing": "",
     "tag:amenity=cinema": "Kino",
+    "tag:amenity=clinic": "",
+    "tag:amenity=clock": "",
+    "tag:amenity=college": "",
+    "tag:amenity=community_centre": "",
     "tag:amenity=courthouse": null,
+    "tag:amenity=crematorium": "",
     "tag:amenity=dentist": "Stomatolog",
     "tag:amenity=doctors": "Przychodnia lekarska",
+    "tag:amenity=drinking_water": "",
+    "tag:amenity=embassy": "",
+    "tag:amenity=emergency_phone": "",
+    "tag:amenity=fast_food": "",
+    "tag:amenity=ferry_terminal": "",
+    "tag:amenity=fire_hydrant": "",
+    "tag:amenity=fire_hydrant fire_hydrant:type=pillar, emergency=fire_hydrant fire_hydrant:type=pillar": "",
+    "tag:amenity=fire_hydrant fire_hydrant:type=underground, emergency=fire_hydrant fire_hydrant:type=underground": "",
+    "tag:amenity=fire_station": "",
     "tag:amenity=fountain": "Fontanna",
     "tag:amenity=fuel": "Stacja benzynowa",
+    "tag:amenity=government": "",
+    "tag:amenity=grave_yard": "",
     "tag:amenity=hospital": "Szpital",
+    "tag:amenity=internet_cafe": "",
     "tag:amenity=kindergarten": "Przedszkole",
+    "tag:amenity=language_school": "",
     "tag:amenity=library": "Biblioteka",
     "tag:amenity=marketplace": "Bazar",
+    "tag:amenity=nursing_home": "",
     "tag:amenity=parking": "Parking",
     "tag:amenity=pharmacy": "Apteka",
+    "tag:amenity=place_of_worship religion!=christian;jewish;muslim;sikh": "",
+    "tag:amenity=place_of_worship religion=christian": "",
+    "tag:amenity=place_of_worship religion=jewish": "",
+    "tag:amenity=place_of_worship religion=muslim": "",
+    "tag:amenity=place_of_worship religion=sikh": "",
+    "tag:amenity=police": "",
+    "tag:amenity=post_box": "",
+    "tag:amenity=post_office": "",
     "tag:amenity=pub": {
         "message": "Pub",
         "!=1": "Puby"
     },
+    "tag:amenity=public_bookcase": "",
+    "tag:amenity=public_building": "",
+    "tag:amenity=recycling": "",
     "tag:amenity=restaurant": {
         "message": "Restauracja",
         "!=1": "Restauracje"
     },
+    "tag:amenity=sauna": "",
     "tag:amenity=school": "Szkoła",
+    "tag:amenity=signpost": "",
+    "tag:amenity=social_facility": "",
+    "tag:amenity=studio": "",
     "tag:amenity=taxi": "Postój taksówek",
+    "tag:amenity=telephone": "",
     "tag:amenity=theatre": "Teatr",
+    "tag:amenity=ticket_counter": "",
+    "tag:amenity=toilets": "",
+    "tag:amenity=townhall": "",
+    "tag:amenity=university": "",
+    "tag:amenity=vending_machine": "",
+    "tag:amenity=vending_machine vending=bicycle_tube": "",
+    "tag:amenity=vending_machine vending=cigarettes": "",
+    "tag:amenity=vending_machine vending=condoms": "",
+    "tag:amenity=vending_machine vending=excrement_bags": "",
+    "tag:amenity=vending_machine vending=food": "",
+    "tag:amenity=vending_machine vending=food;drinks": "",
+    "tag:amenity=vending_machine vending=news_papers": "",
+    "tag:amenity=vending_machine vending=parcel_mail_in": "",
+    "tag:amenity=vending_machine vending=parcel_pickup": "",
+    "tag:amenity=vending_machine vending=parcel_pickup;parcel_mail_in": "",
+    "tag:amenity=vending_machine vending=parking_tickets": "",
+    "tag:amenity=vending_machine vending=parking_tickets;public_transport_tickets": "",
+    "tag:amenity=vending_machine vending=public_transport_tickets": "",
+    "tag:amenity=vending_machine vending=stamps": "",
+    "tag:amenity=vending_machine vending=sweets, amenity=vending_machine vending=chewing_gum": "",
+    "tag:amenity=vending_machine vending=telephone_vouchers": "",
     "tag:amenity=veterinary": "Weterynarz",
+    "tag:amenity=waste_basket": "",
     "tag:area": "Obszar",
     "tag:barrier": {
         "message": "Bariera",
@@ -156,9 +228,21 @@
     "tag:cycleway": {
         "description": "message 'tag:cycleway' not translated"
     },
+    "tag:cycleway=bike_box;asl": "",
     "tag:denomination": {
         "description": "message 'tag:denomination' not translated"
     },
+    "tag:denomination=anglican": "",
+    "tag:denomination=baptist": "",
+    "tag:denomination=catholic": "",
+    "tag:denomination=greek_orthodox": "",
+    "tag:denomination=lutheran": "",
+    "tag:denomination=old-catholic": "",
+    "tag:denomination=orthodox": "",
+    "tag:denomination=protestant": "",
+    "tag:denomination=roman_catholic": "",
+    "tag:denomination=russian_orthodox": "",
+    "tag:denomination=united_reformed": "",
     "tag:description": "Opis",
     "tag:disused": {
         "description": "message 'tag:disused' not translated"
@@ -173,6 +257,8 @@
     "tag:emergency": {
         "description": "message 'tag:emergency' not translated"
     },
+    "tag:emergency=access_point, highway=emergency_access_point": "",
+    "tag:emergency=defibrillator": "",
     "tag:end_date": "Data usunięcia",
     "tag:est_width": "Oszacowana szerokość",
     "tag:fax": "Nr faxu",
@@ -192,6 +278,11 @@
     "tag:goods": {
         "description": "message 'tag:goods' not translated"
     },
+    "tag:healthcare=doctor": "",
+    "tag:heritage=0": "",
+    "tag:heritage=2": "",
+    "tag:heritage=4": "",
+    "tag:heritage=8": "",
     "tag:hgv": {
         "description": "message 'tag:hgv' not translated"
     },
@@ -204,7 +295,9 @@
         "description": "message 'tag:highway=bridleway' not translated"
     },
     "tag:highway=bus_stop": "Przystanek autobusowy",
+    "tag:highway=construction": "",
     "tag:highway=cycleway": "Droga dla rowerów",
+    "tag:highway=emergency_access_point": "",
     "tag:highway=footway": {
         "description": "message 'tag:highway=footway' not translated"
     },
@@ -218,9 +311,11 @@
     "tag:highway=motorway": {
         "description": "message 'tag:highway=motorway' not translated"
     },
+    "tag:highway=motorway_junction": "",
     "tag:highway=motorway_link": {
         "description": "message 'tag:highway=motorway_link' not translated"
     },
+    "tag:highway=passing_place": "",
     "tag:highway=path": "Ścieżka",
     "tag:highway=pedestrian": "Strefa pieszych",
     "tag:highway=platform, public_transport=platform": "Peron",
@@ -241,6 +336,7 @@
         "description": "message 'tag:highway=secondary' not translated"
     },
     "tag:highway=service": "Droga serwisowa",
+    "tag:highway=services": "",
     "tag:highway=steps": "Schody",
     "tag:highway=stop": "Stop",
     "tag:highway=tertiary": {
@@ -261,13 +357,18 @@
     "tag:historic": {
         "description": "message 'tag:historic' not translated"
     },
+    "tag:historic=aircraft": "",
     "tag:historic=archaeological_site": "Wykopaliska archeologiczne",
     "tag:historic=battlefield": "Pole bitwy",
     "tag:historic=castle": "Zamek",
     "tag:historic=icon": "Ikona",
     "tag:historic=memorial": "Mniejszy pomnik",
+    "tag:historic=monument": "",
+    "tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage": "",
+    "tag:historic=wayside_cross": "",
     "tag:historic=wayside_shrine": "Kapliczka przydrożna",
     "tag:historic=wreck": "Wrak",
+    "tag:historic=yes": "",
     "tag:horse": {
         "description": "message 'tag:horse' not translated"
     },
@@ -278,11 +379,43 @@
         "message": "Nazwa międzynarodowa",
         "!=1": "Nazwy międzynarodowe"
     },
+    "tag:internet_access=public": "",
+    "tag:internet_access=service": "",
+    "tag:internet_access=terminal": "",
+    "tag:internet_access=terminal internet_access:fee=no": "",
+    "tag:internet_access=wired": "",
+    "tag:internet_access=wlan internet_access:access=customer internet_access:fee=no, wifi=customers": "",
+    "tag:internet_access=wlan internet_access:fee=no, wifi=free": "",
+    "tag:internet_access=wlan internet_access:fee=yes": "",
+    "tag:internet_access=wlan, amenity=wlan, amenity=WLAN, amenity=wifi, wifi=yes": "",
     "tag:is_in": "Jest w",
+    "tag:kids_area": "",
     "tag:landuse": {
         "description": "message 'tag:landuse' not translated"
     },
+    "tag:landuse=allotments": "",
+    "tag:landuse=basin": "",
+    "tag:landuse=brownfield": "",
+    "tag:landuse=construction": "",
+    "tag:landuse=farmland": "",
+    "tag:landuse=farmyard": "",
+    "tag:landuse=forest": "",
     "tag:landuse=garages": "Garaż",
+    "tag:landuse=grass": "",
+    "tag:landuse=greenfield": "",
+    "tag:landuse=greenhouse_horticulture": "",
+    "tag:landuse=industrial": "",
+    "tag:landuse=landfill": "",
+    "tag:landuse=meadow": "",
+    "tag:landuse=military": "",
+    "tag:landuse=orchard": "",
+    "tag:landuse=quarry": "",
+    "tag:landuse=railway": "",
+    "tag:landuse=recreation_ground": "",
+    "tag:landuse=reservoir": "",
+    "tag:landuse=residential": "",
+    "tag:landuse=salt_pond": "",
+    "tag:landuse=vineyard": "",
     "tag:lanes": {
         "description": "message 'tag:lanes' not translated"
     },
@@ -303,6 +436,7 @@
     "tag:leisure=ice_rink": {
         "description": "message 'tag:leisure=ice_rink' not translated"
     },
+    "tag:leisure=indoor_play": "",
     "tag:leisure=marina": {
         "description": "message 'tag:leisure=marina' not translated"
     },
@@ -323,6 +457,7 @@
     "tag:leisure=sport": "Inny rodzaj sportu",
     "tag:leisure=sports_centre": "Centrum Sportowe",
     "tag:leisure=stadium": "Stadion",
+    "tag:leisure=summer_camp": "",
     "tag:leisure=swimming_pool": "Basen",
     "tag:leisure=track": {
         "description": "message 'tag:leisure=track' not translated"
@@ -338,14 +473,22 @@
     "tag:man_made": {
         "description": "message 'tag:man_made' not translated"
     },
+    "tag:man_made=mineshaft": "",
     "tag:man_made=pipeline": {
         "description": "message 'tag:man_made=pipeline' not translated"
     },
+    "tag:man_made=wastewater_plant": "",
     "tag:maxheight": "Max wysokość",
     "tag:maxlength": "Max długość",
     "tag:maxspeed": "Max szybkość",
     "tag:maxweight": "Max szerokość",
     "tag:military": "Wojskowy",
+    "tag:military=airfield": "",
+    "tag:military=barracks": "",
+    "tag:military=bunker": "",
+    "tag:military=danger_area": "",
+    "tag:military=range": "",
+    "tag:military=yes": "",
     "tag:minspeed": "Min szybkość",
     "tag:motorcar": {
         "description": "message 'tag:motorcar' not translated"
@@ -364,7 +507,32 @@
     "tag:natural": {
         "description": "message 'tag:natural' not translated"
     },
+    "tag:natural=beach": "",
+    "tag:natural=cave_entrance": "",
+    "tag:natural=cliff": "",
+    "tag:natural=coastline": "",
+    "tag:natural=fell": "",
+    "tag:natural=glacier": "",
+    "tag:natural=heath": "",
+    "tag:natural=marsh": "",
+    "tag:natural=mountain": "",
+    "tag:natural=mountain_range": "",
+    "tag:natural=mud": "",
+    "tag:natural=peak": "",
+    "tag:natural=scree": "",
+    "tag:natural=scrub": "",
+    "tag:natural=spring": "",
+    "tag:natural=tree": "",
+    "tag:natural=valley": "",
+    "tag:natural=volcano": "",
+    "tag:natural=water": "",
+    "tag:natural=wetland": "",
+    "tag:natural=wood": "",
     "tag:network": "Sieć",
+    "tag:network=icn": "",
+    "tag:network=lcn": "",
+    "tag:network=ncn": "",
+    "tag:network=rcn": "",
     "tag:noexit": {
         "description": "message 'tag:noexit' not translated"
     },
@@ -384,6 +552,7 @@
         "message": "Miasto",
         "!=1": "Miasta"
     },
+    "tag:place=city population<200000": "",
     "tag:place=continent": {
         "message": "Kontynent",
         "!=1": "Kontynenty"
@@ -395,6 +564,7 @@
     "tag:place=county": {
         "description": "message 'tag:place=county' not translated"
     },
+    "tag:place=farm": "",
     "tag:place=hamlet": {
         "description": "message 'tag:place=hamlet' not translated"
     },
@@ -405,13 +575,16 @@
     "tag:place=islet": {
         "description": "message 'tag:place=islet' not translated"
     },
+    "tag:place=isolated_dwelling": "",
     "tag:place=locality": {
         "description": "message 'tag:place=locality' not translated"
     },
+    "tag:place=neighbourhood": "",
     "tag:place=ocean": {
         "message": "Ocean",
         "!=1": "Oceany"
     },
+    "tag:place=quarter": "",
     "tag:place=region": {
         "message": "Region",
         "!=1": "Regiony"
@@ -430,6 +603,7 @@
     "tag:place=town": {
         "description": "message 'tag:place=town' not translated"
     },
+    "tag:place=town population>=30000": "",
     "tag:place=village": {
         "description": "message 'tag:place=village' not translated"
     },
@@ -459,6 +633,7 @@
     "tag:power=tower": {
         "description": "message 'tag:power=tower' not translated"
     },
+    "tag:power=transformer": "",
     "tag:power_source": {
         "description": "message 'tag:power_source' not translated"
     },
@@ -490,20 +665,32 @@
     "tag:railway": {
         "description": "message 'tag:railway' not translated"
     },
+    "tag:railway=halt": "",
+    "tag:railway=level_crossing": "",
+    "tag:railway=light_rail": "",
+    "tag:railway=narrow_gauge": "",
     "tag:railway=platform": "Peron",
     "tag:railway=rail": {
         "message": "Tor Kolejowy",
         "!=1": "Tory Kolejowe"
     },
+    "tag:railway=rail service=siding": "",
+    "tag:railway=rail service=spur": "",
+    "tag:railway=rail usage!=main service!=*": "",
+    "tag:railway=rail usage=main": "",
     "tag:railway=station": "Stacja",
+    "tag:railway=subway": "",
     "tag:railway=subway_entrance": "Wejście do metra",
     "tag:railway=tram": {
         "message": "Tor Tramwajowy",
         "!=1": "Tory Tramwajowe"
     },
+    "tag:railway=tram;narrow_gauge": "",
+    "tag:railway=tram_stop": "",
     "tag:real_ale": {
         "description": "message 'tag:real_ale' not translated"
     },
+    "tag:recycling_type=centre": "",
     "tag:recycling_type=container": null,
     "tag:ref": "Odniesienie",
     "tag:religion": "Religia",
@@ -516,6 +703,7 @@
     },
     "tag:religion=muslim": "muzułmańska",
     "tag:route": "Trasa",
+    "tag:route=aerialway": "",
     "tag:route=bicycle": "Rower",
     "tag:route=bus": {
         "description": "message 'tag:route=bus' not translated"
@@ -556,11 +744,58 @@
     "tag:route=trolleybus": {
         "description": "message 'tag:route=trolleybus' not translated"
     },
+    "tag:route_type": "",
     "tag:service": {
         "description": "message 'tag:service' not translated"
     },
     "tag:shop": "Sklep",
+    "tag:shop=alcohol": "",
+    "tag:shop=art": "",
+    "tag:shop=bakery": "",
+    "tag:shop=bicycle": "",
+    "tag:shop=books": "",
     "tag:shop=car_repair": "Warsztat samochodowy",
+    "tag:shop=car_repair service=wheel_repair": "",
+    "tag:shop=chemist": "",
+    "tag:shop=clothes": "",
+    "tag:shop=convenience": "",
+    "tag:shop=department_store": "",
+    "tag:shop=doityourself": "",
+    "tag:shop=fish;seafood": "",
+    "tag:shop=fixme": "",
+    "tag:shop=florist": "",
+    "tag:shop=furniture": "",
+    "tag:shop=garden_centre": "",
+    "tag:shop=gift": "",
+    "tag:shop=grocery, shop=groceries": "",
+    "tag:shop=hairdresser": "",
+    "tag:shop=hardware": "",
+    "tag:shop=hifi": "",
+    "tag:shop=jewelry": "",
+    "tag:shop=kiosk": "",
+    "tag:shop=laundry": "",
+    "tag:shop=mall": "",
+    "tag:shop=market": "",
+    "tag:shop=motorcycle": "",
+    "tag:shop=music": "",
+    "tag:shop=newsagent": "",
+    "tag:shop=optician": "",
+    "tag:shop=organic": "",
+    "tag:shop=outdoor": "",
+    "tag:shop=pastry": "",
+    "tag:shop=pet": "",
+    "tag:shop=photo": "",
+    "tag:shop=second_hand": "",
+    "tag:shop=shoemaker": "",
+    "tag:shop=shoes": "",
+    "tag:shop=shopping_centre, shop=shopping_center": "",
+    "tag:shop=sports": "",
+    "tag:shop=stationery": "",
+    "tag:shop=supermarket": "",
+    "tag:shop=toys": "",
+    "tag:shop=vacant": "",
+    "tag:shop=video": "",
+    "tag:shop=wine": "",
     "tag:smoothness": "Gładkość",
     "tag:source": "Źródło",
     "tag:sport": "Sport",
@@ -674,11 +909,26 @@
         "description": "message 'tag:toll' not translated"
     },
     "tag:tourism": "Turystyka",
+    "tag:tourism=alpine_hut": "",
+    "tag:tourism=apartment": "",
+    "tag:tourism=aquarium": "",
+    "tag:tourism=artwork": "",
+    "tag:tourism=attraction": "",
     "tag:tourism=camp_site": "Kemping",
+    "tag:tourism=caravan_site": "",
+    "tag:tourism=chalet": "",
     "tag:tourism=gallery": "Galeria",
+    "tag:tourism=guest_house": "",
     "tag:tourism=hostel": "Hostel",
     "tag:tourism=hotel": "Hotel",
     "tag:tourism=motel": "Motel",
+    "tag:tourism=museum": "",
+    "tag:tourism=picnic_site": "",
+    "tag:tourism=theme_park": "",
+    "tag:tourism=viewpoint": "",
+    "tag:tourism=wilderness_hut": "",
+    "tag:tourism=yes": "",
+    "tag:tourism=zoo": "",
     "tag:tracks": {
         "description": "message 'tag:tracks' not translated"
     },
@@ -708,6 +958,7 @@
     "tag:type=oil": {
         "description": "message 'tag:type=oil' not translated"
     },
+    "tag:type=route route=mtb": "",
     "tag:type=sewage": {
         "description": "message 'tag:type=sewage' not translated"
     },
@@ -722,6 +973,15 @@
     "tag:waterway": {
         "description": "message 'tag:waterway' not translated"
     },
+    "tag:waterway=canal": "",
+    "tag:waterway=dam": "",
+    "tag:waterway=ditch": "",
+    "tag:waterway=divide": "",
+    "tag:waterway=river": "",
+    "tag:waterway=river width>10m;waterway=river est_width>10m": "",
+    "tag:waterway=riverbank": "",
+    "tag:waterway=stream": "",
+    "tag:waterway=weir": "",
     "tag:website": "Witryna",
     "tag:wheelchair": {
         "description": "message 'tag:wheelchair' not translated"

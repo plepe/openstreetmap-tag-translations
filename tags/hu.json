@@ -1,11 +1,22 @@
 {
+    "tag:*=no": "",
+    "tag:*=yes": "",
+    "tag:abutters": "",
+    "tag:access": "",
     "tag:accomodation": "Szállás",
+    "tag:addr:city": "",
+    "tag:addr:country": "",
+    "tag:addr:full": "",
+    "tag:addr:housename": "",
     "tag:addr:housenumber": "Házszám",
     "tag:addr:interpolation": {
         "description": "message 'tag:addr:interpolation' not translated"
     },
+    "tag:addr:postcode": "",
+    "tag:addr:street": "",
     "tag:address": "Cím",
     "tag:admin_level=10": "Kerület",
+    "tag:admin_level=11": "",
     "tag:admin_level=2": "Országhatár",
     "tag:admin_level=3": {
         "description": "message 'tag:admin_level=3' not translated"
@@ -18,6 +29,8 @@
         "description": "message 'tag:admin_level=7.5' not translated"
     },
     "tag:admin_level=8": "Település",
+    "tag:admin_level=9": "",
+    "tag:aerialway": "",
     "tag:aeroway": {
         "description": "message 'tag:aeroway' not translated"
     },
@@ -27,24 +40,111 @@
     "tag:aeroway=taxiway": {
         "description": "message 'tag:aeroway=taxiway' not translated"
     },
+    "tag:alt_name": "",
     "tag:amenity": "Vendéglátás",
+    "tag:amenity=arts_centre": "",
+    "tag:amenity=atm": "",
+    "tag:amenity=baby_hatch": "",
+    "tag:amenity=bank": "",
+    "tag:amenity=bar": "",
+    "tag:amenity=bench": "",
+    "tag:amenity=bicycle_parking capacity<=20, amenity=bicycle_parking capacity!=*": "",
+    "tag:amenity=bicycle_parking capacity<=60 capacity>20": "",
+    "tag:amenity=bicycle_parking capacity>60": "",
+    "tag:amenity=bicycle_rental": "",
+    "tag:amenity=blood_bank": "",
+    "tag:amenity=blood_donation": "",
+    "tag:amenity=brothel": "",
+    "tag:amenity=bureau_de_change": "",
+    "tag:amenity=bus_station": "",
+    "tag:amenity=cafe": "",
+    "tag:amenity=car_rental": "",
+    "tag:amenity=car_sharing": "",
     "tag:amenity=cinema": {
         "message": "Mozi",
         "!=1": "Mozik"
     },
+    "tag:amenity=clinic": "",
+    "tag:amenity=clock": "",
+    "tag:amenity=college": "",
+    "tag:amenity=community_centre": "",
     "tag:amenity=courthouse": null,
+    "tag:amenity=crematorium": "",
+    "tag:amenity=dentist": "",
+    "tag:amenity=doctors": "",
+    "tag:amenity=drinking_water": "",
+    "tag:amenity=embassy": "",
+    "tag:amenity=emergency_phone": "",
+    "tag:amenity=fast_food": "",
+    "tag:amenity=ferry_terminal": "",
+    "tag:amenity=fire_hydrant": "",
+    "tag:amenity=fire_hydrant fire_hydrant:type=pillar, emergency=fire_hydrant fire_hydrant:type=pillar": "",
+    "tag:amenity=fire_hydrant fire_hydrant:type=underground, emergency=fire_hydrant fire_hydrant:type=underground": "",
+    "tag:amenity=fire_station": "",
+    "tag:amenity=fountain": "",
+    "tag:amenity=fuel": "",
+    "tag:amenity=government": "",
+    "tag:amenity=grave_yard": "",
+    "tag:amenity=hospital": "",
+    "tag:amenity=internet_cafe": "",
+    "tag:amenity=kindergarten": "",
+    "tag:amenity=language_school": "",
+    "tag:amenity=library": "",
     "tag:amenity=marketplace": "Piac",
+    "tag:amenity=nursing_home": "",
+    "tag:amenity=parking": "",
+    "tag:amenity=pharmacy": "",
+    "tag:amenity=place_of_worship religion!=christian;jewish;muslim;sikh": "",
+    "tag:amenity=place_of_worship religion=christian": "",
+    "tag:amenity=place_of_worship religion=jewish": "",
+    "tag:amenity=place_of_worship religion=muslim": "",
+    "tag:amenity=place_of_worship religion=sikh": "",
+    "tag:amenity=police": "",
     "tag:amenity=post_box": "Postaláda",
     "tag:amenity=post_office": "Posta",
     "tag:amenity=pub": {
         "message": "Kocsma",
         "!=1": "Kocsmák"
     },
+    "tag:amenity=public_bookcase": "",
+    "tag:amenity=public_building": "",
+    "tag:amenity=recycling": "",
     "tag:amenity=restaurant": {
         "message": "Étterem",
         "!=1": "Éttermek"
     },
+    "tag:amenity=sauna": "",
+    "tag:amenity=school": "",
+    "tag:amenity=signpost": "",
+    "tag:amenity=social_facility": "",
+    "tag:amenity=studio": "",
+    "tag:amenity=taxi": "",
     "tag:amenity=telephone": "Telefon",
+    "tag:amenity=theatre": "",
+    "tag:amenity=ticket_counter": "",
+    "tag:amenity=toilets": "",
+    "tag:amenity=townhall": "",
+    "tag:amenity=university": "",
+    "tag:amenity=vending_machine": "",
+    "tag:amenity=vending_machine vending=bicycle_tube": "",
+    "tag:amenity=vending_machine vending=cigarettes": "",
+    "tag:amenity=vending_machine vending=condoms": "",
+    "tag:amenity=vending_machine vending=excrement_bags": "",
+    "tag:amenity=vending_machine vending=food": "",
+    "tag:amenity=vending_machine vending=food;drinks": "",
+    "tag:amenity=vending_machine vending=news_papers": "",
+    "tag:amenity=vending_machine vending=parcel_mail_in": "",
+    "tag:amenity=vending_machine vending=parcel_pickup": "",
+    "tag:amenity=vending_machine vending=parcel_pickup;parcel_mail_in": "",
+    "tag:amenity=vending_machine vending=parking_tickets": "",
+    "tag:amenity=vending_machine vending=parking_tickets;public_transport_tickets": "",
+    "tag:amenity=vending_machine vending=public_transport_tickets": "",
+    "tag:amenity=vending_machine vending=stamps": "",
+    "tag:amenity=vending_machine vending=sweets, amenity=vending_machine vending=chewing_gum": "",
+    "tag:amenity=vending_machine vending=telephone_vouchers": "",
+    "tag:amenity=veterinary": "",
+    "tag:amenity=waste_basket": "",
+    "tag:area": "",
     "tag:barrier": {
         "description": "message 'tag:barrier' not translated"
     },
@@ -63,34 +163,87 @@
     "tag:barrier=wall": {
         "description": "message 'tag:barrier=wall' not translated"
     },
+    "tag:bicycle": "",
+    "tag:boundary": "",
+    "tag:bridge": "",
     "tag:cables": "Vezetékek",
+    "tag:charge": "",
+    "tag:construction": "",
+    "tag:covered": "",
+    "tag:craft": "",
+    "tag:created_by": "",
+    "tag:crossing": "",
     "tag:cuisine": "Konyha",
     "tag:cuisine=regional": "helyi",
+    "tag:cutting": "",
+    "tag:cycleway": "",
+    "tag:cycleway=bike_box;asl": "",
+    "tag:denomination": "",
+    "tag:denomination=anglican": "",
+    "tag:denomination=baptist": "",
+    "tag:denomination=catholic": "",
+    "tag:denomination=greek_orthodox": "",
+    "tag:denomination=lutheran": "",
+    "tag:denomination=old-catholic": "",
+    "tag:denomination=orthodox": "",
+    "tag:denomination=protestant": "",
+    "tag:denomination=roman_catholic": "",
+    "tag:denomination=russian_orthodox": "",
+    "tag:denomination=united_reformed": "",
     "tag:description": "Leírás",
+    "tag:disused": "",
+    "tag:ele": "",
+    "tag:email": "",
+    "tag:embankment": "",
+    "tag:emergency": "",
+    "tag:emergency=access_point, highway=emergency_access_point": "",
+    "tag:emergency=defibrillator": "",
+    "tag:end_date": "",
+    "tag:est_width": "",
+    "tag:fax": "",
+    "tag:fixme": "",
     "tag:food": "Lehet ennivalót kapni",
+    "tag:foot": "",
+    "tag:ford": "",
+    "tag:geological": "",
+    "tag:goods": "",
+    "tag:healthcare=doctor": "",
+    "tag:heritage=0": "",
+    "tag:heritage=2": "",
+    "tag:heritage=4": "",
+    "tag:heritage=8": "",
+    "tag:hgv": "",
     "tag:highway": {
         "message": "Út",
         "!=1": "Utak"
     },
+    "tag:highway=* bridge=*!=no": "",
     "tag:highway=bridleway": {
         "description": "message 'tag:highway=bridleway' not translated"
     },
+    "tag:highway=bus_stop": "",
+    "tag:highway=construction": "",
     "tag:highway=cycleway": {
         "description": "message 'tag:highway=cycleway' not translated"
     },
+    "tag:highway=emergency_access_point": "",
     "tag:highway=footway": {
         "description": "message 'tag:highway=footway' not translated"
     },
     "tag:highway=living_street": {
         "description": "message 'tag:highway=living_street' not translated"
     },
+    "tag:highway=mini_roundabout": "",
     "tag:highway=minor": "Kisebb közút",
     "tag:highway=motorway": "Autópálya",
+    "tag:highway=motorway_junction": "",
     "tag:highway=motorway_link": {
         "description": "message 'tag:highway=motorway_link' not translated"
     },
+    "tag:highway=passing_place": "",
     "tag:highway=path": "Ösvény",
     "tag:highway=pedestrian": "Gyalogos terület",
+    "tag:highway=platform, public_transport=platform": "",
     "tag:highway=primary": "Főút",
     "tag:highway=primary_link": {
         "description": "message 'tag:highway=primary_link' not translated"
@@ -101,13 +254,16 @@
     "tag:highway=road": {
         "description": "message 'tag:highway=road' not translated"
     },
+    "tag:highway=roundabout": "",
     "tag:highway=secondary": "Összekötő út",
     "tag:highway=service": {
         "description": "message 'tag:highway=service' not translated"
     },
+    "tag:highway=services": "",
     "tag:highway=steps": {
         "description": "message 'tag:highway=steps' not translated"
     },
+    "tag:highway=stop": "",
     "tag:highway=tertiary": "Bekötőút",
     "tag:highway=track": {
         "description": "message 'tag:highway=track' not translated"
@@ -119,17 +275,60 @@
     "tag:highway=unclassified": {
         "description": "message 'tag:highway=unclassified' not translated"
     },
+    "tag:historic": "",
+    "tag:historic=aircraft": "",
+    "tag:historic=archaeological_site": "",
+    "tag:historic=battlefield": "",
     "tag:historic=castle": "Kastély",
+    "tag:historic=icon": "",
+    "tag:historic=memorial": "",
+    "tag:historic=monument": "",
+    "tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage": "",
+    "tag:historic=wayside_cross": "",
+    "tag:historic=wayside_shrine": "",
+    "tag:historic=wreck": "",
+    "tag:historic=yes": "",
+    "tag:horse": "",
+    "tag:incline": "",
+    "tag:int_name": "",
+    "tag:internet_access=public": "",
+    "tag:internet_access=service": "",
+    "tag:internet_access=terminal": "",
+    "tag:internet_access=terminal internet_access:fee=no": "",
+    "tag:internet_access=wired": "",
+    "tag:internet_access=wlan internet_access:access=customer internet_access:fee=no, wifi=customers": "",
+    "tag:internet_access=wlan internet_access:fee=no, wifi=free": "",
+    "tag:internet_access=wlan internet_access:fee=yes": "",
+    "tag:internet_access=wlan, amenity=wlan, amenity=WLAN, amenity=wifi, wifi=yes": "",
     "tag:is_in": "Ebben van: ",
+    "tag:kids_area": "",
+    "tag:landuse": "",
     "tag:landuse=allotments": "Kertek",
+    "tag:landuse=basin": "",
+    "tag:landuse=brownfield": "",
+    "tag:landuse=construction": "",
     "tag:landuse=farmland": "Mezőgazdaság terület",
     "tag:landuse=farmyard": "Farm, telephely",
     "tag:landuse=forest": "Erdő",
+    "tag:landuse=garages": "",
+    "tag:landuse=grass": "",
+    "tag:landuse=greenfield": "",
+    "tag:landuse=greenhouse_horticulture": "",
+    "tag:landuse=industrial": "",
+    "tag:landuse=landfill": "",
     "tag:landuse=meadow": "Rét",
+    "tag:landuse=military": "",
     "tag:landuse=orchard": "Gyümölcsös",
+    "tag:landuse=quarry": "",
     "tag:landuse=railway": "Vasútvonal",
+    "tag:landuse=recreation_ground": "",
+    "tag:landuse=reservoir": "",
     "tag:landuse=residential": "Lakóövezet",
+    "tag:landuse=salt_pond": "",
     "tag:landuse=vineyard": "Szöllőültetvény",
+    "tag:lanes": "",
+    "tag:layer": "",
+    "tag:leisure": "",
     "tag:leisure=beach_resort": {
         "description": "message 'tag:leisure=beach_resort' not translated"
     },
@@ -151,6 +350,7 @@
     "tag:leisure=ice_rink": {
         "description": "message 'tag:leisure=ice_rink' not translated"
     },
+    "tag:leisure=indoor_play": "",
     "tag:leisure=marina": {
         "description": "message 'tag:leisure=marina' not translated"
     },
@@ -179,6 +379,7 @@
     "tag:leisure=stadium": {
         "description": "message 'tag:leisure=stadium' not translated"
     },
+    "tag:leisure=summer_camp": "",
     "tag:leisure=swimming_pool": {
         "description": "message 'tag:leisure=swimming_pool' not translated"
     },
@@ -188,25 +389,72 @@
     "tag:leisure=water_park": {
         "description": "message 'tag:leisure=water_park' not translated"
     },
+    "tag:lit": "",
+    "tag:loc_name": "",
     "tag:man_made": {
         "description": "message 'tag:man_made' not translated"
     },
+    "tag:man_made=mineshaft": "",
     "tag:man_made=pipeline": {
         "description": "message 'tag:man_made=pipeline' not translated"
     },
+    "tag:man_made=wastewater_plant": "",
+    "tag:maxheight": "",
+    "tag:maxlength": "",
+    "tag:maxspeed": "",
+    "tag:maxweight": "",
+    "tag:military": "",
+    "tag:military=airfield": "",
+    "tag:military=barracks": "",
+    "tag:military=bunker": "",
+    "tag:military=danger_area": "",
+    "tag:military=range": "",
+    "tag:military=yes": "",
+    "tag:minspeed": "",
+    "tag:motorcar": "",
+    "tag:motorcycle": "",
+    "tag:mountain_pass": "",
     "tag:name": {
         "message": "Név",
         "!=1": "Nevek"
     },
+    "tag:narrow": "",
+    "tag:natural": "",
     "tag:natural=beach": "Strand",
+    "tag:natural=cave_entrance": "",
+    "tag:natural=cliff": "",
+    "tag:natural=coastline": "",
+    "tag:natural=fell": "",
+    "tag:natural=glacier": "",
+    "tag:natural=heath": "",
+    "tag:natural=marsh": "",
+    "tag:natural=mountain": "",
+    "tag:natural=mountain_range": "",
+    "tag:natural=mud": "",
+    "tag:natural=peak": "",
+    "tag:natural=scree": "",
+    "tag:natural=scrub": "",
+    "tag:natural=spring": "",
     "tag:natural=tree": "Fa",
+    "tag:natural=valley": "",
+    "tag:natural=volcano": "",
     "tag:natural=water": "Víz",
     "tag:natural=wetland": "Mocsár",
+    "tag:natural=wood": "",
     "tag:network": "Hálózat",
+    "tag:network=icn": "",
+    "tag:network=lcn": "",
+    "tag:network=ncn": "",
+    "tag:network=rcn": "",
+    "tag:noexit": "",
     "tag:note": "Megjegyzés",
+    "tag:office": "",
+    "tag:official_name": "",
     "tag:old_name": "régi név",
+    "tag:oneway": "",
     "tag:opening_hours": "Nyitvatartás",
     "tag:operator": "Kezelő",
+    "tag:phone": "",
     "tag:place": "Hely",
     "tag:place=city": {
         "message": "Város",
@@ -218,6 +466,7 @@
     "tag:place=county": {
         "description": "message 'tag:place=county' not translated"
     },
+    "tag:place=farm": "",
     "tag:place=hamlet": "Kis falu",
     "tag:place=island": {
         "message": "Sziget",
@@ -226,18 +475,24 @@
     "tag:place=islet": {
         "description": "message 'tag:place=islet' not translated"
     },
+    "tag:place=isolated_dwelling": "",
     "tag:place=locality": {
         "description": "message 'tag:place=locality' not translated"
     },
+    "tag:place=neighbourhood": "",
     "tag:place=ocean": "Óceán",
+    "tag:place=quarter": "",
     "tag:place=region": {
         "description": "message 'tag:place=region' not translated"
     },
+    "tag:place=sea": "",
     "tag:place=state": "Régió",
     "tag:place=suburb": "Városrész",
     "tag:place=town": "Kisváros",
+    "tag:place=town population>=30000": "",
     "tag:place=village": "Falu",
     "tag:population": "népesség",
+    "tag:postal_code": "",
     "tag:power": {
         "description": "message 'tag:power' not translated"
     },
@@ -260,6 +515,7 @@
     "tag:power=tower": {
         "description": "message 'tag:power=tower' not translated"
     },
+    "tag:power=transformer": "",
     "tag:power_source": {
         "description": "message 'tag:power_source' not translated"
     },
@@ -281,23 +537,40 @@
     "tag:power_source=waste": "Hulladék",
     "tag:power_source=wave": "Hullám",
     "tag:power_source=wind": "Szél",
+    "tag:proposed": "",
+    "tag:psv": "",
+    "tag:public_transport": "",
     "tag:railway": {
         "description": "message 'tag:railway' not translated"
     },
+    "tag:railway=halt": "",
+    "tag:railway=level_crossing": "",
+    "tag:railway=light_rail": "",
+    "tag:railway=narrow_gauge": "",
     "tag:railway=platform": {
         "description": "message 'tag:railway=platform' not translated"
     },
     "tag:railway=rail": {
         "description": "message 'tag:railway=rail' not translated"
     },
+    "tag:railway=rail service=siding": "",
+    "tag:railway=rail service=spur": "",
+    "tag:railway=rail usage!=main service!=*": "",
+    "tag:railway=rail usage=main": "",
     "tag:railway=station": "Vasúti megálló",
+    "tag:railway=subway": "",
+    "tag:railway=subway_entrance": "",
     "tag:railway=tram": {
         "description": "message 'tag:railway=tram' not translated"
     },
+    "tag:railway=tram;narrow_gauge": "",
+    "tag:railway=tram_stop": "",
     "tag:real_ale": {
         "description": "message 'tag:real_ale' not translated"
     },
+    "tag:recycling_type=centre": "",
     "tag:recycling_type=container": null,
+    "tag:ref": "",
     "tag:religion": "Vallás",
     "tag:religion=buddhist": {
         "description": "message 'tag:religion=buddhist' not translated"
@@ -318,6 +591,7 @@
     "tag:route": {
         "description": "message 'tag:route' not translated"
     },
+    "tag:route=aerialway": "",
     "tag:route=bicycle": "Kerékpár",
     "tag:route=bus": "Busz",
     "tag:route=ferry": "Komp",
@@ -343,10 +617,57 @@
     "tag:route_type": {
         "description": "message 'tag:route_type' not translated"
     },
+    "tag:service": "",
     "tag:shop": "Bolt",
+    "tag:shop=alcohol": "",
+    "tag:shop=art": "",
+    "tag:shop=bakery": "",
+    "tag:shop=bicycle": "",
     "tag:shop=books": "Könyvesbolt",
+    "tag:shop=car_repair": "",
+    "tag:shop=car_repair service=wheel_repair": "",
+    "tag:shop=chemist": "",
+    "tag:shop=clothes": "",
+    "tag:shop=convenience": "",
+    "tag:shop=department_store": "",
+    "tag:shop=doityourself": "",
+    "tag:shop=fish;seafood": "",
+    "tag:shop=fixme": "",
+    "tag:shop=florist": "",
+    "tag:shop=furniture": "",
+    "tag:shop=garden_centre": "",
+    "tag:shop=gift": "",
+    "tag:shop=grocery, shop=groceries": "",
+    "tag:shop=hairdresser": "",
+    "tag:shop=hardware": "",
+    "tag:shop=hifi": "",
+    "tag:shop=jewelry": "",
+    "tag:shop=kiosk": "",
+    "tag:shop=laundry": "",
+    "tag:shop=mall": "",
+    "tag:shop=market": "",
+    "tag:shop=motorcycle": "",
+    "tag:shop=music": "",
+    "tag:shop=newsagent": "",
+    "tag:shop=optician": "",
+    "tag:shop=organic": "",
+    "tag:shop=outdoor": "",
+    "tag:shop=pastry": "",
+    "tag:shop=pet": "",
+    "tag:shop=photo": "",
+    "tag:shop=second_hand": "",
+    "tag:shop=shoemaker": "",
+    "tag:shop=shoes": "",
+    "tag:shop=shopping_centre, shop=shopping_center": "",
+    "tag:shop=sports": "",
+    "tag:shop=stationery": "",
     "tag:shop=supermarket": "Szupermarket",
     "tag:shop=toys": "Játékbolt",
+    "tag:shop=vacant": "",
+    "tag:shop=video": "",
+    "tag:shop=wine": "",
+    "tag:smoothness": "",
+    "tag:source": "",
     "tag:sport": "Sport",
     "tag:sport=10pin": {
         "description": "message 'tag:sport=10pin' not translated"
@@ -441,8 +762,31 @@
     "tag:sport=team_handball": "Kézilabda",
     "tag:sport=tennis": "Tenisz",
     "tag:sport=volleyball": "Röplabda",
+    "tag:start_date": "",
+    "tag:surface": "",
+    "tag:tactile_paving": "",
+    "tag:toll": "",
+    "tag:tourism": "",
+    "tag:tourism=alpine_hut": "",
+    "tag:tourism=apartment": "",
+    "tag:tourism=aquarium": "",
+    "tag:tourism=artwork": "",
+    "tag:tourism=attraction": "",
+    "tag:tourism=camp_site": "",
+    "tag:tourism=caravan_site": "",
+    "tag:tourism=chalet": "",
+    "tag:tourism=gallery": "",
     "tag:tourism=guest_house": "Vendégház",
+    "tag:tourism=hostel": "",
     "tag:tourism=hotel": "Hotel",
+    "tag:tourism=motel": "",
+    "tag:tourism=museum": "",
+    "tag:tourism=picnic_site": "",
+    "tag:tourism=theme_park": "",
+    "tag:tourism=viewpoint": "",
+    "tag:tourism=wilderness_hut": "",
+    "tag:tourism=yes": "",
+    "tag:tourism=zoo": "",
     "tag:tracks": {
         "description": "message 'tag:tracks' not translated"
     },
@@ -455,6 +799,10 @@
     "tag:tracks=single": {
         "description": "message 'tag:tracks=single' not translated"
     },
+    "tag:tracktype": "",
+    "tag:traffic_calming": "",
+    "tag:traffic_sign": "",
+    "tag:tunnel": "",
     "tag:type": {
         "description": "message 'tag:type' not translated"
     },
@@ -470,22 +818,39 @@
     "tag:type=oil": {
         "description": "message 'tag:type=oil' not translated"
     },
+    "tag:type=route route=mtb": "",
     "tag:type=sewage": {
         "description": "message 'tag:type=sewage' not translated"
     },
     "tag:type=water": {
         "description": "message 'tag:type=water' not translated"
     },
+    "tag:vehicle": "",
     "tag:vending": {
         "description": "message 'tag:vending' not translated"
     },
     "tag:voltage": {
         "description": "message 'tag:voltage' not translated"
     },
+    "tag:waterway": "",
+    "tag:waterway=canal": "",
+    "tag:waterway=dam": "",
+    "tag:waterway=ditch": "",
+    "tag:waterway=divide": "",
+    "tag:waterway=river": "",
+    "tag:waterway=river width>10m;waterway=river est_width>10m": "",
+    "tag:waterway=riverbank": "",
+    "tag:waterway=stream": "",
+    "tag:waterway=weir": "",
     "tag:website": {
         "description": "message 'tag:website' not translated"
     },
+    "tag:wheelchair": "",
+    "tag:wheelchair=limited": "",
+    "tag:width": "",
+    "tag:wikipedia": "",
     "tag:wires": {
         "description": "message 'tag:wires' not translated"
-    }
+    },
+    "tag:wood": ""
 }
