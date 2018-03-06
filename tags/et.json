@@ -80,6 +80,7 @@
         "!=1": "Kinod",
         "message": "Kino"
     },
+    "tag:amenity=courthouse": null,
     "tag:amenity=hospital": "Haigla",
     "tag:amenity=nursing_home": "Vanadekodu",
     "tag:amenity=pub": {

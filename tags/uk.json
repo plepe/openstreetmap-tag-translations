@@ -60,6 +60,7 @@
     "tag:amenity=car_sharing": "Car Sharings",
     "tag:amenity=cinema": "Cinemas",
     "tag:amenity=college": "Colleges",
+    "tag:amenity=courthouse": null,
     "tag:amenity=crematorium": "Crematoriums",
     "tag:amenity=dentist": "Dentists",
     "tag:amenity=doctors": "Doctors",

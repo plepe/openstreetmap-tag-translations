@@ -80,6 +80,7 @@
     "tag:amenity=bus_station": "Przystanek autobusowy",
     "tag:amenity=car_rental": "Wypożyczanie samochodów",
     "tag:amenity=cinema": "Kino",
+    "tag:amenity=courthouse": null,
     "tag:amenity=dentist": "Stomatolog",
     "tag:amenity=doctors": "Przychodnia lekarska",
     "tag:amenity=fountain": "Fontanna",

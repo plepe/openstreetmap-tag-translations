@@ -71,7 +71,7 @@
     },
     "tag:amenity=clock": "Reló",
     "tag:amenity=college": "Colexu universitariu",
-    "tag:amenity=court_house": "Xulgáu",
+    "tag:amenity=courthouse": "Xulgáu",
     "tag:amenity=crematorium": {
         "!=1": "Crematorios",
         "message": "Crematoriu"

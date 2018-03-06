@@ -32,6 +32,7 @@
         "message": "Mozi",
         "!=1": "Mozik"
     },
+    "tag:amenity=courthouse": null,
     "tag:amenity=marketplace": "Piac",
     "tag:amenity=post_box": "Postaláda",
     "tag:amenity=post_office": "Posta",

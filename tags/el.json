@@ -72,6 +72,7 @@
         "!=1": "Κινηματογράφοι",
         "message": "Κινηματογράφος"
     },
+    "tag:amenity=courthouse": null,
     "tag:amenity=drinking_water": "Πόσιμο νερό",
     "tag:amenity=hospital": "Νοσοκομείο",
     "tag:amenity=nursing_home": "Γηροκομείο",

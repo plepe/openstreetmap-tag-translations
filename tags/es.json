@@ -51,6 +51,7 @@
     "tag:amenity=cinema": {
         "description": "message 'tag:amenity=cinema' not translated"
     },
+    "tag:amenity=courthouse": null,
     "tag:amenity=pub": {
         "description": "message 'tag:amenity=pub' not translated"
     },

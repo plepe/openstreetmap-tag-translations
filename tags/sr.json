@@ -78,6 +78,7 @@
         "message": "Биоскоп",
         "!=1": "Биоскопи"
     },
+    "tag:amenity=courthouse": null,
     "tag:amenity=pub": "Кафић",
     "tag:amenity=restaurant": {
         "message": "Ресторан",
