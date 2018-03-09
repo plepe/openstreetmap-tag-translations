@@ -3,43 +3,17 @@
         "message": "Español",
         "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
     },
-    "lang:de": {
-        "description": "message 'lang:de' not translated"
-    },
-    "lang:bg": {
-        "description": "message 'lang:bg' not translated"
-    },
-    "lang:cs": {
-        "description": "message 'lang:cs' not translated"
-    },
-    "lang:en": {
-        "description": "message 'lang:en' not translated"
-    },
-    "lang:es": {
-        "description": "message 'lang:es' not translated"
-    },
-    "lang:it": {
-        "description": "message 'lang:it' not translated"
-    },
-    "lang:fr": {
-        "description": "message 'lang:fr' not translated"
-    },
-    "lang:uk": {
-        "description": "message 'lang:uk' not translated"
-    },
-    "lang:ru": {
-        "description": "message 'lang:ru' not translated"
-    },
-    "lang:ja": {
-        "description": "message 'lang:ja' not translated"
-    },
-    "lang:hu": {
-        "description": "message 'lang:hu' not translated"
-    },
-    "lang:nl": {
-        "description": "message 'lang:nl' not translated"
-    },
-    "lang:ast": {
-        "description": "message 'lang:ast' not translated"
-    }
+    "lang:de": "",
+    "lang:bg": "",
+    "lang:cs": "",
+    "lang:en": "",
+    "lang:es": "",
+    "lang:it": "",
+    "lang:fr": "",
+    "lang:uk": "",
+    "lang:ru": "",
+    "lang:ja": "",
+    "lang:hu": "",
+    "lang:nl": "",
+    "lang:ast": ""
 }

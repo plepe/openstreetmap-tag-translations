@@ -1,9 +1,7 @@
 {
     "tag:*=no": "nein",
     "tag:*=yes": "ja",
-    "tag:abutters": {
-        "description": "message 'tag:abutters' not translated"
-    },
+    "tag:abutters": "",
     "tag:access": "Allgemeine Zugangserlaubnis",
     "tag:accomodation": "Unterkunft",
     "tag:addr:city": {
@@ -195,18 +193,12 @@
     "tag:bridge": "Brücke",
     "tag:cables": "Stromkabel",
     "tag:capacity": "",
-    "tag:charge": {
-        "description": "message 'tag:charge' not translated"
-    },
+    "tag:charge": "",
     "tag:construction": "In Bau",
-    "tag:covered": {
-        "description": "message 'tag:covered' not translated"
-    },
+    "tag:covered": "",
     "tag:craft": "Handwerk",
     "tag:created_by": "Erstellt von",
-    "tag:crossing": {
-        "description": "message 'tag:crossing' not translated"
-    },
+    "tag:crossing": "",
     "tag:cuisine": "Küche",
     "tag:cuisine=asian": "",
     "tag:cuisine=austrian": "",
@@ -238,9 +230,7 @@
     "tag:cuisine=vegan": "",
     "tag:cuisine=vegetarian": "",
     "tag:cuisine=vietnamese": "",
-    "tag:cutting": {
-        "description": "message 'tag:cutting' not translated"
-    },
+    "tag:cutting": "",
     "tag:cycleway": "Fahrradweg",
     "tag:cycleway=bike_box;asl": "",
     "tag:denomination": "Konfession",
@@ -256,48 +246,32 @@
     "tag:denomination=russian_orthodox": "russisch-orthodox",
     "tag:denomination=united_reformed": "vereinigt-reformiert",
     "tag:description": "Beschreibung",
-    "tag:disused": {
-        "description": "message 'tag:disused' not translated"
-    },
+    "tag:disused": "",
     "tag:ele": "Höhe",
     "tag:electrified": "",
     "tag:electrified=contact_line": "",
     "tag:electrified=rail": "",
     "tag:email": "E-Mail",
-    "tag:embankment": {
-        "description": "message 'tag:embankment' not translated"
-    },
+    "tag:embankment": "",
     "tag:emergency": "Notaufnahme",
     "tag:emergency=access_point, highway=emergency_access_point": "",
     "tag:emergency=defibrillator": "",
     "tag:end_date": "Enddatum",
-    "tag:est_width": {
-        "description": "message 'tag:est_width' not translated"
-    },
+    "tag:est_width": "",
     "tag:fax": "Faxnummer",
     "tag:fixme": "korrigiere mich",
     "tag:food": "Essen",
-    "tag:foot": {
-        "description": "message 'tag:foot' not translated"
-    },
-    "tag:ford": {
-        "description": "message 'tag:ford' not translated"
-    },
+    "tag:foot": "",
+    "tag:ford": "",
     "tag:frequency": "",
-    "tag:geological": {
-        "description": "message 'tag:geological' not translated"
-    },
-    "tag:goods": {
-        "description": "message 'tag:goods' not translated"
-    },
+    "tag:geological": "",
+    "tag:goods": "",
     "tag:healthcare=doctor": "",
     "tag:heritage=0": "",
     "tag:heritage=2": "",
     "tag:heritage=4": "",
     "tag:heritage=8": "",
-    "tag:hgv": {
-        "description": "message 'tag:hgv' not translated"
-    },
+    "tag:hgv": "",
     "tag:highway": {
         "message": "Straße",
         "!=1": "Straßen"
@@ -356,12 +330,8 @@
     "tag:historic=wayside_shrine": "Bildstöcke",
     "tag:historic=wreck": "Wracks",
     "tag:historic=yes": "historisch",
-    "tag:horse": {
-        "description": "message 'tag:horse' not translated"
-    },
-    "tag:incline": {
-        "description": "message 'tag:incline' not translated"
-    },
+    "tag:horse": "",
+    "tag:incline": "",
     "tag:information=board": "",
     "tag:information=guidepost": "",
     "tag:information=map": "",
@@ -404,9 +374,7 @@
     "tag:landuse=residential": "Wohngebiete",
     "tag:landuse=salt_pond": "Salzsee",
     "tag:landuse=vineyard": "Weinberg",
-    "tag:lanes": {
-        "description": "message 'tag:lanes' not translated"
-    },
+    "tag:lanes": "",
     "tag:layer": "Ebene",
     "tag:leisure": "Freizeit",
     "tag:leisure=adult_gaming_centre": "",
@@ -472,12 +440,8 @@
     "tag:military=range": "",
     "tag:military=yes": "",
     "tag:minspeed": "Mindestgeschwindigkeit",
-    "tag:motorcar": {
-        "description": "message 'tag:motorcar' not translated"
-    },
-    "tag:motorcycle": {
-        "description": "message 'tag:motorcycle' not translated"
-    },
+    "tag:motorcar": "",
+    "tag:motorcycle": "",
     "tag:mountain_pass": "Gebirgspass",
     "tag:name": {
         "message": "Name",
@@ -588,9 +552,7 @@
     "tag:power_source=wave": "Wellen",
     "tag:power_source=wind": "Wind",
     "tag:proposed": "In Planung",
-    "tag:psv": {
-        "description": "message 'tag:psv' not translated"
-    },
+    "tag:psv": "",
     "tag:public_transport": "Öffentliche Verkehrsmittel",
     "tag:public_transport=platform": "",
     "tag:public_transport=stop_position": "",
@@ -708,9 +670,7 @@
     "tag:shop=vacant": "Leerstand",
     "tag:shop=video": "Videotheken",
     "tag:shop=wine": "Weinhandlungen",
-    "tag:smoothness": {
-        "description": "message 'tag:smoothness' not translated"
-    },
+    "tag:smoothness": "",
     "tag:source": "Quelle",
     "tag:sport": "Sport",
     "tag:sport=10pin": "Bowling",
@@ -762,12 +722,9 @@
     "tag:surface": {
         "message": "Oberfläche",
         "!=1": "Oberflächen",
-        "gender": "female",
-        "description": "message 'tag:surface' not translated"
+        "gender": "female"
     },
-    "tag:tactile_paving": {
-        "description": "message 'tag:tactile_paving' not translated"
-    },
+    "tag:tactile_paving": "",
     "tag:toll": "Maut",
     "tag:tourism": "Touristisch",
     "tag:tourism=alpine_hut": "",
@@ -839,13 +796,8 @@
     "tag:waterway=stream": "Bäche",
     "tag:waterway=weir": "",
     "tag:website": "Webseite",
-    "tag:wheelchair": {
-        "message": "Rollstuhl",
-        "description": "message 'tag:wheelchair' not translated"
-    },
-    "tag:wheelchair=limited": {
-        "description": "message 'tag:wheelchair=limited' not translated"
-    },
+    "tag:wheelchair": "Rollstuhl",
+    "tag:wheelchair=limited": "",
     "tag:width": "Breite",
     "tag:wikipedia": "Wikipedia",
     "tag:wires": "Kabel",

@@ -1,9 +1,7 @@
 {
     "tag:*=no": "ne",
     "tag:*=yes": "ano",
-    "tag:abutters": {
-        "description": "message 'tag:abutters' not translated"
-    },
+    "tag:abutters": "",
     "tag:access": "Neomezeý přístup",
     "tag:accomodation": "Ubytování",
     "tag:addr:city": {
@@ -39,9 +37,7 @@
     "tag:admin_level=2": "Stát",
     "tag:admin_level=3": "Země",
     "tag:admin_level=4": "Region",
-    "tag:admin_level=5": {
-        "description": "message 'tag:admin_level=5' not translated"
-    },
+    "tag:admin_level=5": "",
     "tag:admin_level=6": "Kraj",
     "tag:admin_level=7": "Okres",
     "tag:admin_level=7.5": "",
@@ -50,9 +46,7 @@
     "tag:aerialway": "Letecká cesta",
     "tag:aeroway": "Vzdušná cesta",
     "tag:aeroway=runway": "Ranvej",
-    "tag:aeroway=taxiway": {
-        "description": "message 'tag:aeroway=taxiway' not translated"
-    },
+    "tag:aeroway=taxiway": "",
     "tag:alt_name": {
         "message": "Alternativní název",
         "!=1": " Alternativní názvy"
@@ -651,31 +645,21 @@
     "tag:smoothness": "Plynulost",
     "tag:source": "Zdroj",
     "tag:sport": "Sport",
-    "tag:sport=10pin": {
-        "description": "message 'tag:sport=10pin' not translated"
-    },
-    "tag:sport=9pin": {
-        "description": "message 'tag:sport=9pin' not translated"
-    },
+    "tag:sport=10pin": "",
+    "tag:sport=9pin": "",
     "tag:sport=archery": "Lukostřelba",
     "tag:sport=athletics": "Atletika",
-    "tag:sport=australian_football": {
-        "description": "message 'tag:sport=australian_football' not translated"
-    },
+    "tag:sport=australian_football": "",
     "tag:sport=baseball": "Baseball",
     "tag:sport=basketball": "Basketbal",
     "tag:sport=beachvolleyball": "Beachvolejbal",
     "tag:sport=boules": "Petanque",
-    "tag:sport=bowls": {
-        "description": "message 'tag:sport=bowls' not translated"
-    },
+    "tag:sport=bowls": "",
     "tag:sport=canoe": "Kánoe",
     "tag:sport=chess": "Šachy",
     "tag:sport=climbing": "Horolezectví",
     "tag:sport=cricket": "Kriket",
-    "tag:sport=cricket_nets": {
-        "description": "message 'tag:sport=cricket_nets' not translated"
-    },
+    "tag:sport=cricket_nets": "",
     "tag:sport=croquet": "CKroket",
     "tag:sport=cycling": "Cyklistika",
     "tag:sport=diving": "Potápění",
@@ -687,14 +671,10 @@
     "tag:sport=hockey": "Hokej",
     "tag:sport=horse_racing": "Dostihy",
     "tag:sport=korfball": "Korfbal",
-    "tag:sport=motor": {
-        "description": "message 'tag:sport=motor' not translated"
-    },
+    "tag:sport=motor": "",
     "tag:sport=multi": "Multi",
     "tag:sport=orienteering": "Orientační běh",
-    "tag:sport=paddle_tennis": {
-        "description": "message 'tag:sport=paddle_tennis' not translated"
-    },
+    "tag:sport=paddle_tennis": "",
     "tag:sport=paragliding": "Paragliding",
     "tag:sport=pelota": "Pelota",
     "tag:sport=racquet": "Raketové sporty",
@@ -756,9 +736,7 @@
     "tag:usage=branch": "",
     "tag:usage=main": "",
     "tag:vehicle": "Motorová vozidla povolena",
-    "tag:vending": {
-        "description": "message 'tag:vending' not translated"
-    },
+    "tag:vending": "",
     "tag:voltage": "Napětí",
     "tag:water": "",
     "tag:water=basin": "",

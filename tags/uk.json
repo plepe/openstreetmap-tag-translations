@@ -2,9 +2,7 @@
     "tag:*=no": "ні",
     "tag:*=yes": "так",
     "tag:abutters": "Прилеглий район",
-    "tag:access": {
-        "description": "message 'tag:access' not translated"
-    },
+    "tag:access": "",
     "tag:accomodation": "Житло",
     "tag:addr:city": {
         "message": "Місто",
@@ -82,7 +80,7 @@
     "tag:amenity=college": "Colleges",
     "tag:amenity=community_centre": "",
     "tag:amenity=compressed_air": "",
-    "tag:amenity=courthouse": null,
+    "tag:amenity=courthouse": "",
     "tag:amenity=crematorium": "Crematoriums",
     "tag:amenity=dentist": "Dentists",
     "tag:amenity=doctors": "Doctors",
@@ -161,9 +159,7 @@
     "tag:amenity=vending_machine vending=telephone_vouchers": "",
     "tag:amenity=veterinary": "Veterinaries",
     "tag:amenity=waste_basket": "",
-    "tag:area": {
-        "description": "message 'tag:area' not translated"
-    },
+    "tag:area": "",
     "tag:barrier": {
         "message": "Перешкода",
         "!=1": "Перешкоди"
@@ -188,29 +184,17 @@
         "message": "Стіна",
         "!=1": "Стіни"
     },
-    "tag:bicycle": {
-        "description": "message 'tag:bicycle' not translated"
-    },
+    "tag:bicycle": "",
     "tag:boundary": "Кордони",
     "tag:bridge": "Міст",
     "tag:cables": "Кабелі",
     "tag:capacity": "",
-    "tag:charge": {
-        "description": "message 'tag:charge' not translated"
-    },
-    "tag:construction": {
-        "description": "message 'tag:construction' not translated"
-    },
-    "tag:covered": {
-        "description": "message 'tag:covered' not translated"
-    },
+    "tag:charge": "",
+    "tag:construction": "",
+    "tag:covered": "",
     "tag:craft": "Майстерня",
-    "tag:created_by": {
-        "description": "message 'tag:created_by' not translated"
-    },
-    "tag:crossing": {
-        "description": "message 'tag:crossing' not translated"
-    },
+    "tag:created_by": "",
+    "tag:crossing": "",
     "tag:cuisine": "Громадське харчування",
     "tag:cuisine=asian": "",
     "tag:cuisine=austrian": "",
@@ -242,9 +226,7 @@
     "tag:cuisine=vegan": "",
     "tag:cuisine=vegetarian": "",
     "tag:cuisine=vietnamese": "",
-    "tag:cutting": {
-        "description": "message 'tag:cutting' not translated"
-    },
+    "tag:cutting": "",
     "tag:cycleway": "Велодоріжка",
     "tag:cycleway=bike_box;asl": "",
     "tag:denomination": "Конфесії",
@@ -260,56 +242,32 @@
     "tag:denomination=russian_orthodox": "",
     "tag:denomination=united_reformed": "",
     "tag:description": "Опис",
-    "tag:disused": {
-        "description": "message 'tag:disused' not translated"
-    },
-    "tag:ele": {
-        "description": "message 'tag:ele' not translated"
-    },
+    "tag:disused": "",
+    "tag:ele": "",
     "tag:electrified": "",
     "tag:electrified=contact_line": "",
     "tag:electrified=rail": "",
-    "tag:email": {
-        "description": "message 'tag:email' not translated"
-    },
-    "tag:embankment": {
-        "description": "message 'tag:embankment' not translated"
-    },
+    "tag:email": "",
+    "tag:embankment": "",
     "tag:emergency": "Екстрена служба",
     "tag:emergency=access_point, highway=emergency_access_point": "",
     "tag:emergency=defibrillator": "",
-    "tag:end_date": {
-        "description": "message 'tag:end_date' not translated"
-    },
-    "tag:est_width": {
-        "description": "message 'tag:est_width' not translated"
-    },
-    "tag:fax": {
-        "description": "message 'tag:fax' not translated"
-    },
+    "tag:end_date": "",
+    "tag:est_width": "",
+    "tag:fax": "",
     "tag:fixme": "Потрібно виправити",
     "tag:food": "Продукти харчування",
-    "tag:foot": {
-        "description": "message 'tag:foot' not translated"
-    },
-    "tag:ford": {
-        "description": "message 'tag:ford' not translated"
-    },
+    "tag:foot": "",
+    "tag:ford": "",
     "tag:frequency": "",
-    "tag:geological": {
-        "description": "message 'tag:geological' not translated"
-    },
-    "tag:goods": {
-        "description": "message 'tag:goods' not translated"
-    },
+    "tag:geological": "",
+    "tag:goods": "",
     "tag:healthcare=doctor": "",
     "tag:heritage=0": "",
     "tag:heritage=2": "",
     "tag:heritage=4": "",
     "tag:heritage=8": "",
-    "tag:hgv": {
-        "description": "message 'tag:hgv' not translated"
-    },
+    "tag:hgv": "",
     "tag:highway": {
         "message": "Дорога",
         "!=1": "Дороги"
@@ -368,12 +326,8 @@
     "tag:historic=wayside_shrine": "Wayside Shrines",
     "tag:historic=wreck": "Wrecks",
     "tag:historic=yes": "",
-    "tag:horse": {
-        "description": "message 'tag:horse' not translated"
-    },
-    "tag:incline": {
-        "description": "message 'tag:incline' not translated"
-    },
+    "tag:horse": "",
+    "tag:incline": "",
     "tag:information=board": "",
     "tag:information=guidepost": "",
     "tag:information=map": "",
@@ -416,12 +370,8 @@
     "tag:landuse=residential": "",
     "tag:landuse=salt_pond": "",
     "tag:landuse=vineyard": "",
-    "tag:lanes": {
-        "description": "message 'tag:lanes' not translated"
-    },
-    "tag:layer": {
-        "description": "message 'tag:layer' not translated"
-    },
+    "tag:lanes": "",
+    "tag:layer": "",
     "tag:leisure": "Дозвілля",
     "tag:leisure=adult_gaming_centre": "",
     "tag:leisure=amusement_arcade": "",
@@ -467,18 +417,10 @@
     "tag:man_made=mineshaft": "",
     "tag:man_made=pipeline": "Pipelines",
     "tag:man_made=wastewater_plant": "",
-    "tag:maxheight": {
-        "description": "message 'tag:maxheight' not translated"
-    },
-    "tag:maxlength": {
-        "description": "message 'tag:maxlength' not translated"
-    },
-    "tag:maxspeed": {
-        "description": "message 'tag:maxspeed' not translated"
-    },
-    "tag:maxweight": {
-        "description": "message 'tag:maxweight' not translated"
-    },
+    "tag:maxheight": "",
+    "tag:maxlength": "",
+    "tag:maxspeed": "",
+    "tag:maxweight": "",
     "tag:military": "Військовий",
     "tag:military=airfield": "",
     "tag:military=barracks": "",
@@ -486,25 +428,15 @@
     "tag:military=danger_area": "",
     "tag:military=range": "",
     "tag:military=yes": "",
-    "tag:minspeed": {
-        "description": "message 'tag:minspeed' not translated"
-    },
-    "tag:motorcar": {
-        "description": "message 'tag:motorcar' not translated"
-    },
-    "tag:motorcycle": {
-        "description": "message 'tag:motorcycle' not translated"
-    },
-    "tag:mountain_pass": {
-        "description": "message 'tag:mountain_pass' not translated"
-    },
+    "tag:minspeed": "",
+    "tag:motorcar": "",
+    "tag:motorcycle": "",
+    "tag:mountain_pass": "",
     "tag:name": {
         "message": "Назва",
         "!=1": "Назви"
     },
-    "tag:narrow": {
-        "description": "message 'tag:narrow' not translated"
-    },
+    "tag:narrow": "",
     "tag:natural": "Природа",
     "tag:natural=beach": "Beaches",
     "tag:natural=cave_entrance": "Cave Entrances",
@@ -533,9 +465,7 @@
     "tag:network=lcn": "",
     "tag:network=ncn": "",
     "tag:network=rcn": "",
-    "tag:noexit": {
-        "description": "message 'tag:noexit' not translated"
-    },
+    "tag:noexit": "",
     "tag:note": "Замітка",
     "tag:office": "Офіс",
     "tag:official_name": {
@@ -543,14 +473,10 @@
         "!=1": "Офіційні імена"
     },
     "tag:old_name": "Стара назва(и)",
-    "tag:oneway": {
-        "description": "message 'tag:oneway' not translated"
-    },
+    "tag:oneway": "",
     "tag:opening_hours": "Години роботи",
     "tag:operator": "Оператор",
-    "tag:phone": {
-        "description": "message 'tag:phone' not translated"
-    },
+    "tag:phone": "",
     "tag:place": "Місце",
     "tag:place=city": {
         "message": "Місто",
@@ -619,9 +545,7 @@
         "!=1": "Села"
     },
     "tag:population": "Населення",
-    "tag:postal_code": {
-        "description": "message 'tag:postal_code' not translated"
-    },
+    "tag:postal_code": "",
     "tag:power": "Енергетика",
     "tag:power=generator": "Power Generators",
     "tag:power=line": "Power lines",
@@ -646,12 +570,8 @@
     "tag:power_source=waste": "Відходи",
     "tag:power_source=wave": "Хвилі",
     "tag:power_source=wind": "Вітер",
-    "tag:proposed": {
-        "description": "message 'tag:proposed' not translated"
-    },
-    "tag:psv": {
-        "description": "message 'tag:psv' not translated"
-    },
+    "tag:proposed": "",
+    "tag:psv": "",
     "tag:public_transport": "Перон",
     "tag:public_transport=platform": "",
     "tag:public_transport=stop_position": "",
@@ -683,16 +603,14 @@
     "tag:railway=tram_stop": "Трамвайна зупинка",
     "tag:real_ale": "Справжній ель",
     "tag:recycling_type=centre": "Recyclings Centres",
-    "tag:recycling_type=container": null,
+    "tag:recycling_type=container": "",
     "tag:ref": "Посилання",
     "tag:religion": "Релігія",
     "tag:religion=buddhist": "Буддизм",
     "tag:religion=christian": "Християнство",
     "tag:religion=hindu": "Індуїзм",
     "tag:religion=jewish": "Іудаїзм",
-    "tag:religion=multifaith": {
-        "description": "message 'tag:religion=multifaith' not translated"
-    },
+    "tag:religion=multifaith": "",
     "tag:religion=muslim": "Мусульманство",
     "tag:route": "Маршрут",
     "tag:route=aerialway": "",
@@ -714,9 +632,7 @@
     "tag:route=trolley": "Тролейбус",
     "tag:route=trolleybus": "Тролейбус",
     "tag:route_type": "Route type",
-    "tag:service": {
-        "description": "message 'tag:service' not translated"
-    },
+    "tag:service": "",
     "tag:shop": "Магазин",
     "tag:shop=alcohol": "",
     "tag:shop=art": "",
@@ -765,12 +681,8 @@
     "tag:shop=vacant": "",
     "tag:shop=video": "Video Shops",
     "tag:shop=wine": "Wine Shops",
-    "tag:smoothness": {
-        "description": "message 'tag:smoothness' not translated"
-    },
-    "tag:source": {
-        "description": "message 'tag:source' not translated"
-    },
+    "tag:smoothness": "",
+    "tag:source": "",
     "tag:sport": "Спорт",
     "tag:sport=10pin": "Боулінг",
     "tag:sport=9pin": "9-ти кеглевий Б",
@@ -817,18 +729,10 @@
     "tag:sport=team_handball": "Гандбол",
     "tag:sport=tennis": "Теніс",
     "tag:sport=volleyball": "Волейбол",
-    "tag:start_date": {
-        "description": "message 'tag:start_date' not translated"
-    },
-    "tag:surface": {
-        "description": "message 'tag:surface' not translated"
-    },
-    "tag:tactile_paving": {
-        "description": "message 'tag:tactile_paving' not translated"
-    },
-    "tag:toll": {
-        "description": "message 'tag:toll' not translated"
-    },
+    "tag:start_date": "",
+    "tag:surface": "",
+    "tag:tactile_paving": "",
+    "tag:toll": "",
     "tag:tourism": "Туризм",
     "tag:tourism=alpine_hut": "",
     "tag:tourism=apartment": "",
@@ -851,25 +755,13 @@
     "tag:tourism=wilderness_hut": "",
     "tag:tourism=yes": "",
     "tag:tourism=zoo": "Zoos",
-    "tag:tracks": {
-        "description": "message 'tag:tracks' not translated"
-    },
-    "tag:tracks=double": {
-        "description": "message 'tag:tracks=double' not translated"
-    },
-    "tag:tracks=multiple": {
-        "description": "message 'tag:tracks=multiple' not translated"
-    },
-    "tag:tracks=single": {
-        "description": "message 'tag:tracks=single' not translated"
-    },
+    "tag:tracks": "",
+    "tag:tracks=double": "",
+    "tag:tracks=multiple": "",
+    "tag:tracks=single": "",
     "tag:tracktype": "Покриття доріг",
-    "tag:traffic_calming": {
-        "description": "message 'tag:traffic_calming' not translated"
-    },
-    "tag:traffic_sign": {
-        "description": "message 'tag:traffic_sign' not translated"
-    },
+    "tag:traffic_calming": "",
+    "tag:traffic_sign": "",
     "tag:tunnel": "Тунель",
     "tag:type": "Тип",
     "tag:type=gas": "Газ",
@@ -882,9 +774,7 @@
     "tag:usage": "",
     "tag:usage=branch": "",
     "tag:usage=main": "",
-    "tag:vehicle": {
-        "description": "message 'tag:vehicle' not translated"
-    },
+    "tag:vehicle": "",
     "tag:vending": "Торгові автомати",
     "tag:voltage": "Напруга",
     "tag:water": "",
@@ -913,18 +803,10 @@
     "tag:waterway=stream": "",
     "tag:waterway=weir": "",
     "tag:website": "Вебсайт",
-    "tag:wheelchair": {
-        "description": "message 'tag:wheelchair' not translated"
-    },
-    "tag:wheelchair=limited": {
-        "description": "message 'tag:wheelchair=limited' not translated"
-    },
-    "tag:width": {
-        "description": "message 'tag:width' not translated"
-    },
-    "tag:wikipedia": {
-        "description": "message 'tag:wikipedia' not translated"
-    },
+    "tag:wheelchair": "",
+    "tag:wheelchair=limited": "",
+    "tag:width": "",
+    "tag:wikipedia": "",
     "tag:wires": "Дроти",
     "tag:wood": "Дерево"
 }

@@ -1,14 +1,8 @@
 {
-    "tag:*=no": {
-        "description": "message 'tag:*=no' not translated"
-    },
-    "tag:*=yes": {
-        "description": "message 'tag:*=yes' not translated"
-    },
+    "tag:*=no": "",
+    "tag:*=yes": "",
     "tag:abutters": "Environnement",
-    "tag:access": {
-        "description": "message 'tag:access' not translated"
-    },
+    "tag:access": "",
     "tag:accomodation": "Hébergement",
     "tag:addr:city": "Ville",
     "tag:addr:country": "Pays",
@@ -169,22 +163,14 @@
         "message": "Mur",
         "!=1": "Murs"
     },
-    "tag:bicycle": {
-        "description": "message 'tag:bicycle' not translated"
-    },
+    "tag:bicycle": "",
     "tag:boundary": "Limite",
     "tag:bridge": "Pont",
     "tag:cables": "Cables",
     "tag:capacity": "",
-    "tag:charge": {
-        "description": "message 'tag:charge' not translated"
-    },
-    "tag:construction": {
-        "description": "message 'tag:construction' not translated"
-    },
-    "tag:covered": {
-        "description": "message 'tag:covered' not translated"
-    },
+    "tag:charge": "",
+    "tag:construction": "",
+    "tag:covered": "",
     "tag:craft": "Artisanat",
     "tag:created_by": "Créé par",
     "tag:crossing": "Passage piéton",
@@ -241,9 +227,7 @@
     "tag:electrified=contact_line": "",
     "tag:electrified=rail": "",
     "tag:email": "E-mail",
-    "tag:embankment": {
-        "description": "message 'tag:embankment' not translated"
-    },
+    "tag:embankment": "",
     "tag:emergency": "Equipement de secours",
     "tag:emergency=access_point, highway=emergency_access_point": "",
     "tag:emergency=defibrillator": "Défibrillateur",
@@ -252,25 +236,17 @@
     "tag:fax": "Numéro de fax",
     "tag:fixme": "À vérifier",
     "tag:food": "Servent aliments",
-    "tag:foot": {
-        "description": "message 'tag:foot' not translated"
-    },
-    "tag:ford": {
-        "description": "message 'tag:ford' not translated"
-    },
+    "tag:foot": "",
+    "tag:ford": "",
     "tag:frequency": "",
     "tag:geological": "Type de site géologique",
-    "tag:goods": {
-        "description": "message 'tag:goods' not translated"
-    },
+    "tag:goods": "",
     "tag:healthcare=doctor": "Médecin",
     "tag:heritage=0": "",
     "tag:heritage=2": "",
     "tag:heritage=4": "",
     "tag:heritage=8": "",
-    "tag:hgv": {
-        "description": "message 'tag:hgv' not translated"
-    },
+    "tag:hgv": "",
     "tag:highway": {
         "message": "Route",
         "!=1": "Routes"
@@ -329,9 +305,7 @@
     "tag:historic=wayside_shrine": "Calvaires, Chapelles, Oratoires",
     "tag:historic=wreck": "Épaves",
     "tag:historic=yes": "Objet historique",
-    "tag:horse": {
-        "description": "message 'tag:horse' not translated"
-    },
+    "tag:horse": "",
     "tag:incline": "pente",
     "tag:information=board": "",
     "tag:information=guidepost": "",
@@ -428,20 +402,14 @@
     "tag:military=range": "Zone de tir",
     "tag:military=yes": "Lieu militaire",
     "tag:minspeed": "Vitesse min.",
-    "tag:motorcar": {
-        "description": "message 'tag:motorcar' not translated"
-    },
-    "tag:motorcycle": {
-        "description": "message 'tag:motorcycle' not translated"
-    },
+    "tag:motorcar": "",
+    "tag:motorcycle": "",
     "tag:mountain_pass": "Chemin de montagne",
     "tag:name": {
         "message": "Nom",
         "!=1": "Noms"
     },
-    "tag:narrow": {
-        "description": "message 'tag:narrow' not translated"
-    },
+    "tag:narrow": "",
     "tag:natural": "Nature du terrain naturel",
     "tag:natural=beach": "Plages",
     "tag:natural=cave_entrance": "Entrées de grottes",
@@ -470,9 +438,7 @@
     "tag:network=lcn": "Route de vélo locale",
     "tag:network=ncn": "Route de vélo nationale",
     "tag:network=rcn": "Route de vélo régionale",
-    "tag:noexit": {
-        "description": "message 'tag:noexit' not translated"
-    },
+    "tag:noexit": "",
     "tag:note": "Note",
     "tag:office": "Service",
     "tag:official_name": {
@@ -480,9 +446,7 @@
         "!=1": "Noms officiels"
     },
     "tag:old_name": "Ancien nom(s)",
-    "tag:oneway": {
-        "description": "message 'tag:oneway' not translated"
-    },
+    "tag:oneway": "",
     "tag:opening_hours": "Heures d'ouverture",
     "tag:operator": "Opérateur",
     "tag:phone": "Numéro de tél.",
@@ -535,9 +499,7 @@
     "tag:power_source=wave": "Vague",
     "tag:power_source=wind": "Vent",
     "tag:proposed": "Proposé",
-    "tag:psv": {
-        "description": "message 'tag:psv' not translated"
-    },
+    "tag:psv": "",
     "tag:public_transport": "Transport en commun",
     "tag:public_transport=platform": "",
     "tag:public_transport=stop_position": "",
@@ -592,9 +554,7 @@
     "tag:route=trolley": "Trolley",
     "tag:route=trolleybus": "Trolleybus",
     "tag:route_type": "Type de Route",
-    "tag:service": {
-        "description": "message 'tag:service' not translated"
-    },
+    "tag:service": "",
     "tag:shop": "Boutique",
     "tag:shop=alcohol": "vente d'alcool",
     "tag:shop=art": "Galerie d'art",
@@ -693,9 +653,7 @@
     "tag:sport=volleyball": "Volleyball",
     "tag:start_date": "Date de création",
     "tag:surface": "Surface",
-    "tag:tactile_paving": {
-        "description": "message 'tag:tactile_paving' not translated"
-    },
+    "tag:tactile_paving": "",
     "tag:toll": "Péage",
     "tag:tourism": "Tourisme",
     "tag:tourism=alpine_hut": "Refuge de montagne",
@@ -738,9 +696,7 @@
     "tag:usage": "",
     "tag:usage=branch": "",
     "tag:usage=main": "",
-    "tag:vehicle": {
-        "description": "message 'tag:vehicle' not translated"
-    },
+    "tag:vehicle": "",
     "tag:vending": "Distributeur automatique",
     "tag:voltage": "Voltage",
     "tag:water": "",

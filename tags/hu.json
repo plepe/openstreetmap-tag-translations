@@ -9,9 +9,7 @@
     "tag:addr:full": "",
     "tag:addr:housename": "",
     "tag:addr:housenumber": "Házszám",
-    "tag:addr:interpolation": {
-        "description": "message 'tag:addr:interpolation' not translated"
-    },
+    "tag:addr:interpolation": "",
     "tag:addr:postcode": "",
     "tag:addr:street": "",
     "tag:address": "Cím",
@@ -19,28 +17,18 @@
     "tag:admin_level=10": "Kerület",
     "tag:admin_level=11": "",
     "tag:admin_level=2": "Országhatár",
-    "tag:admin_level=3": {
-        "description": "message 'tag:admin_level=3' not translated"
-    },
+    "tag:admin_level=3": "",
     "tag:admin_level=4": "Országrész határ",
     "tag:admin_level=5": "Régió határ",
     "tag:admin_level=6": "Megye határ",
     "tag:admin_level=7": "Kistérség",
-    "tag:admin_level=7.5": {
-        "description": "message 'tag:admin_level=7.5' not translated"
-    },
+    "tag:admin_level=7.5": "",
     "tag:admin_level=8": "Település",
     "tag:admin_level=9": "",
     "tag:aerialway": "",
-    "tag:aeroway": {
-        "description": "message 'tag:aeroway' not translated"
-    },
-    "tag:aeroway=runway": {
-        "description": "message 'tag:aeroway=runway' not translated"
-    },
-    "tag:aeroway=taxiway": {
-        "description": "message 'tag:aeroway=taxiway' not translated"
-    },
+    "tag:aeroway": "",
+    "tag:aeroway=runway": "",
+    "tag:aeroway=taxiway": "",
     "tag:alt_name": "",
     "tag:amenity": "Vendéglátás",
     "tag:amenity=arts_centre": "",
@@ -71,7 +59,7 @@
     "tag:amenity=college": "",
     "tag:amenity=community_centre": "",
     "tag:amenity=compressed_air": "",
-    "tag:amenity=courthouse": null,
+    "tag:amenity=courthouse": "",
     "tag:amenity=crematorium": "",
     "tag:amenity=dentist": "",
     "tag:amenity=doctors": "",
@@ -151,24 +139,12 @@
     "tag:amenity=veterinary": "",
     "tag:amenity=waste_basket": "",
     "tag:area": "",
-    "tag:barrier": {
-        "description": "message 'tag:barrier' not translated"
-    },
-    "tag:barrier=city_wall": {
-        "description": "message 'tag:barrier=city_wall' not translated"
-    },
-    "tag:barrier=fence": {
-        "description": "message 'tag:barrier=fence' not translated"
-    },
-    "tag:barrier=hedge": {
-        "description": "message 'tag:barrier=hedge' not translated"
-    },
-    "tag:barrier=retaining_wall": {
-        "description": "message 'tag:barrier=retaining_wall' not translated"
-    },
-    "tag:barrier=wall": {
-        "description": "message 'tag:barrier=wall' not translated"
-    },
+    "tag:barrier": "",
+    "tag:barrier=city_wall": "",
+    "tag:barrier=fence": "",
+    "tag:barrier=hedge": "",
+    "tag:barrier=retaining_wall": "",
+    "tag:barrier=wall": "",
     "tag:bicycle": "",
     "tag:boundary": "",
     "tag:bridge": "",
@@ -258,63 +234,37 @@
         "!=1": "Utak"
     },
     "tag:highway=* bridge=*!=no": "",
-    "tag:highway=bridleway": {
-        "description": "message 'tag:highway=bridleway' not translated"
-    },
+    "tag:highway=bridleway": "",
     "tag:highway=bus_stop": "",
     "tag:highway=construction": "",
-    "tag:highway=cycleway": {
-        "description": "message 'tag:highway=cycleway' not translated"
-    },
+    "tag:highway=cycleway": "",
     "tag:highway=emergency_access_point": "",
-    "tag:highway=footway": {
-        "description": "message 'tag:highway=footway' not translated"
-    },
-    "tag:highway=living_street": {
-        "description": "message 'tag:highway=living_street' not translated"
-    },
+    "tag:highway=footway": "",
+    "tag:highway=living_street": "",
     "tag:highway=mini_roundabout": "",
     "tag:highway=minor": "Kisebb közút",
     "tag:highway=motorway": "Autópálya",
     "tag:highway=motorway_junction": "",
-    "tag:highway=motorway_link": {
-        "description": "message 'tag:highway=motorway_link' not translated"
-    },
+    "tag:highway=motorway_link": "",
     "tag:highway=passing_place": "",
     "tag:highway=path": "Ösvény",
     "tag:highway=pedestrian": "Gyalogos terület",
     "tag:highway=platform, public_transport=platform": "",
     "tag:highway=primary": "Főút",
-    "tag:highway=primary_link": {
-        "description": "message 'tag:highway=primary_link' not translated"
-    },
-    "tag:highway=residential": {
-        "description": "message 'tag:highway=residential' not translated"
-    },
-    "tag:highway=road": {
-        "description": "message 'tag:highway=road' not translated"
-    },
+    "tag:highway=primary_link": "",
+    "tag:highway=residential": "",
+    "tag:highway=road": "",
     "tag:highway=roundabout": "",
     "tag:highway=secondary": "Összekötő út",
-    "tag:highway=service": {
-        "description": "message 'tag:highway=service' not translated"
-    },
+    "tag:highway=service": "",
     "tag:highway=services": "",
-    "tag:highway=steps": {
-        "description": "message 'tag:highway=steps' not translated"
-    },
+    "tag:highway=steps": "",
     "tag:highway=stop": "",
     "tag:highway=tertiary": "Bekötőút",
-    "tag:highway=track": {
-        "description": "message 'tag:highway=track' not translated"
-    },
+    "tag:highway=track": "",
     "tag:highway=trunk": "Autóút",
-    "tag:highway=trunk_link": {
-        "description": "message 'tag:highway=trunk_link' not translated"
-    },
-    "tag:highway=unclassified": {
-        "description": "message 'tag:highway=unclassified' not translated"
-    },
+    "tag:highway=trunk_link": "",
+    "tag:highway=unclassified": "",
     "tag:historic": "",
     "tag:historic=aircraft": "",
     "tag:historic=archaeological_site": "",
@@ -384,85 +334,43 @@
     "tag:leisure=adult_gaming_centre": "",
     "tag:leisure=amusement_arcade": "",
     "tag:leisure=bandstand": "",
-    "tag:leisure=beach_resort": {
-        "description": "message 'tag:leisure=beach_resort' not translated"
-    },
-    "tag:leisure=bird_hide": {
-        "description": "message 'tag:leisure=bird_hide' not translated"
-    },
-    "tag:leisure=common": {
-        "description": "message 'tag:leisure=common' not translated"
-    },
+    "tag:leisure=beach_resort": "",
+    "tag:leisure=bird_hide": "",
+    "tag:leisure=common": "",
     "tag:leisure=dance": "",
     "tag:leisure=dog_park": "",
     "tag:leisure=firepit": "",
-    "tag:leisure=fishing": {
-        "description": "message 'tag:leisure=fishing' not translated"
-    },
+    "tag:leisure=fishing": "",
     "tag:leisure=fitness_centre": "",
-    "tag:leisure=garden": {
-        "description": "message 'tag:leisure=garden' not translated"
-    },
-    "tag:leisure=golf_course": {
-        "description": "message 'tag:leisure=golf_course' not translated"
-    },
+    "tag:leisure=garden": "",
+    "tag:leisure=golf_course": "",
     "tag:leisure=hackerspace": "",
     "tag:leisure=horse_riding": "",
-    "tag:leisure=ice_rink": {
-        "description": "message 'tag:leisure=ice_rink' not translated"
-    },
+    "tag:leisure=ice_rink": "",
     "tag:leisure=indoor_play": "",
-    "tag:leisure=marina": {
-        "description": "message 'tag:leisure=marina' not translated"
-    },
-    "tag:leisure=miniature_golf": {
-        "description": "message 'tag:leisure=miniature_golf' not translated"
-    },
-    "tag:leisure=nature_reserve": {
-        "description": "message 'tag:leisure=nature_reserve' not translated"
-    },
-    "tag:leisure=park": {
-        "description": "message 'tag:leisure=park' not translated"
-    },
+    "tag:leisure=marina": "",
+    "tag:leisure=miniature_golf": "",
+    "tag:leisure=nature_reserve": "",
+    "tag:leisure=park": "",
     "tag:leisure=picnic_table": "",
-    "tag:leisure=pitch": {
-        "description": "message 'tag:leisure=pitch' not translated"
-    },
-    "tag:leisure=playground": {
-        "description": "message 'tag:leisure=playground' not translated"
-    },
+    "tag:leisure=pitch": "",
+    "tag:leisure=playground": "",
     "tag:leisure=sauna": "",
-    "tag:leisure=slipway": {
-        "description": "message 'tag:leisure=slipway' not translated"
-    },
+    "tag:leisure=slipway": "",
     "tag:leisure=sport": "OEgyéb sport",
-    "tag:leisure=sports_centre": {
-        "description": "message 'tag:leisure=sports_centre' not translated"
-    },
-    "tag:leisure=stadium": {
-        "description": "message 'tag:leisure=stadium' not translated"
-    },
+    "tag:leisure=sports_centre": "",
+    "tag:leisure=stadium": "",
     "tag:leisure=summer_camp": "",
     "tag:leisure=swimming_area": "",
-    "tag:leisure=swimming_pool": {
-        "description": "message 'tag:leisure=swimming_pool' not translated"
-    },
-    "tag:leisure=track": {
-        "description": "message 'tag:leisure=track' not translated"
-    },
-    "tag:leisure=water_park": {
-        "description": "message 'tag:leisure=water_park' not translated"
-    },
+    "tag:leisure=swimming_pool": "",
+    "tag:leisure=track": "",
+    "tag:leisure=water_park": "",
     "tag:leisure=wildlife_hide": "",
     "tag:lit": "",
     "tag:loc_name": "",
-    "tag:man_made": {
-        "description": "message 'tag:man_made' not translated"
-    },
+    "tag:man_made": "",
     "tag:man_made=mineshaft": "",
-    "tag:man_made=pipeline": {
-        "description": "message 'tag:man_made=pipeline' not translated"
-    },
+    "tag:man_made=pipeline": "",
     "tag:man_made=wastewater_plant": "",
     "tag:maxheight": "",
     "tag:maxlength": "",
@@ -529,28 +437,20 @@
     "tag:place=city population<200000": "Kisváros",
     "tag:place=continent": "Kontinens",
     "tag:place=country": "Ország",
-    "tag:place=county": {
-        "description": "message 'tag:place=county' not translated"
-    },
+    "tag:place=county": "",
     "tag:place=farm": "",
     "tag:place=hamlet": "Kis falu",
     "tag:place=island": {
         "message": "Sziget",
         "!=1": "Szigetek"
     },
-    "tag:place=islet": {
-        "description": "message 'tag:place=islet' not translated"
-    },
+    "tag:place=islet": "",
     "tag:place=isolated_dwelling": "",
-    "tag:place=locality": {
-        "description": "message 'tag:place=locality' not translated"
-    },
+    "tag:place=locality": "",
     "tag:place=neighbourhood": "",
     "tag:place=ocean": "Óceán",
     "tag:place=quarter": "",
-    "tag:place=region": {
-        "description": "message 'tag:place=region' not translated"
-    },
+    "tag:place=region": "",
     "tag:place=sea": "",
     "tag:place=state": "Régió",
     "tag:place=suburb": "Városrész",
@@ -559,32 +459,16 @@
     "tag:place=village": "Falu",
     "tag:population": "népesség",
     "tag:postal_code": "",
-    "tag:power": {
-        "description": "message 'tag:power' not translated"
-    },
+    "tag:power": "",
     "tag:power=generator": "Erőmű",
-    "tag:power=line": {
-        "description": "message 'tag:power=line' not translated"
-    },
-    "tag:power=minor_line": {
-        "description": "message 'tag:power=minor_line' not translated"
-    },
-    "tag:power=pole": {
-        "description": "message 'tag:power=pole' not translated"
-    },
-    "tag:power=station": {
-        "description": "message 'tag:power=station' not translated"
-    },
-    "tag:power=sub_station": {
-        "description": "message 'tag:power=sub_station' not translated"
-    },
-    "tag:power=tower": {
-        "description": "message 'tag:power=tower' not translated"
-    },
+    "tag:power=line": "",
+    "tag:power=minor_line": "",
+    "tag:power=pole": "",
+    "tag:power=station": "",
+    "tag:power=sub_station": "",
+    "tag:power=tower": "",
     "tag:power=transformer": "",
-    "tag:power_source": {
-        "description": "message 'tag:power_source' not translated"
-    },
+    "tag:power_source": "",
     "tag:power_source=biofuel": "Biohajtóanyag",
     "tag:power_source=coal": "Szén",
     "tag:power_source=fusion": "Fúziós",
@@ -594,12 +478,8 @@
     "tag:power_source=nuclear": "Nukleáris",
     "tag:power_source=oil": "Olay",
     "tag:power_source=photovoltaic": "Napelemes",
-    "tag:power_source=solar-thermal": {
-        "description": "message 'tag:power_source=solar-thermal' not translated"
-    },
-    "tag:power_source=tidal": {
-        "description": "message 'tag:power_source=tidal' not translated"
-    },
+    "tag:power_source=solar-thermal": "",
+    "tag:power_source=tidal": "",
     "tag:power_source=waste": "Hulladék",
     "tag:power_source=wave": "Hullám",
     "tag:power_source=wind": "Szél",
@@ -608,19 +488,13 @@
     "tag:public_transport": "",
     "tag:public_transport=platform": "",
     "tag:public_transport=stop_position": "",
-    "tag:railway": {
-        "description": "message 'tag:railway' not translated"
-    },
+    "tag:railway": "",
     "tag:railway=halt": "",
     "tag:railway=level_crossing": "",
     "tag:railway=light_rail": "",
     "tag:railway=narrow_gauge": "",
-    "tag:railway=platform": {
-        "description": "message 'tag:railway=platform' not translated"
-    },
-    "tag:railway=rail": {
-        "description": "message 'tag:railway=rail' not translated"
-    },
+    "tag:railway=platform": "",
+    "tag:railway=rail": "",
     "tag:railway=rail service=siding": "",
     "tag:railway=rail service=spur": "",
     "tag:railway=rail usage!=main service!=*": "",
@@ -628,64 +502,40 @@
     "tag:railway=station": "Vasúti megálló",
     "tag:railway=subway": "",
     "tag:railway=subway_entrance": "",
-    "tag:railway=tram": {
-        "description": "message 'tag:railway=tram' not translated"
-    },
+    "tag:railway=tram": "",
     "tag:railway=tram;narrow_gauge": "",
     "tag:railway=tram_stop": "",
-    "tag:real_ale": {
-        "description": "message 'tag:real_ale' not translated"
-    },
+    "tag:real_ale": "",
     "tag:recycling_type=centre": "",
-    "tag:recycling_type=container": null,
+    "tag:recycling_type=container": "",
     "tag:ref": "",
     "tag:religion": "Vallás",
-    "tag:religion=buddhist": {
-        "description": "message 'tag:religion=buddhist' not translated"
-    },
+    "tag:religion=buddhist": "",
     "tag:religion=christian": "keresztény",
-    "tag:religion=hindu": {
-        "description": "message 'tag:religion=hindu' not translated"
-    },
-    "tag:religion=jewish": {
-        "description": "message 'tag:religion=jewish' not translated"
-    },
-    "tag:religion=multifaith": {
-        "description": "message 'tag:religion=multifaith' not translated"
-    },
-    "tag:religion=muslim": {
-        "description": "message 'tag:religion=muslim' not translated"
-    },
-    "tag:route": {
-        "description": "message 'tag:route' not translated"
-    },
+    "tag:religion=hindu": "",
+    "tag:religion=jewish": "",
+    "tag:religion=multifaith": "",
+    "tag:religion=muslim": "",
+    "tag:route": "",
     "tag:route=aerialway": "",
     "tag:route=bicycle": "Kerékpár",
     "tag:route=bus": "Busz",
     "tag:route=ferry": "Komp",
     "tag:route=hiking": "Túra",
-    "tag:route=light_rail": {
-        "description": "message 'tag:route=light_rail' not translated"
-    },
+    "tag:route=light_rail": "",
     "tag:route=minibus": "Kisbusz",
     "tag:route=monorail": "",
     "tag:route=mtb": "Mountainbike",
     "tag:route=rail": "Vasút",
     "tag:route=railway": "Vasút",
-    "tag:route=road": {
-        "description": "message 'tag:route=road' not translated"
-    },
+    "tag:route=road": "",
     "tag:route=subway": "Metró/földalatti",
     "tag:route=train": "Vasút",
     "tag:route=tram": "Villamos",
-    "tag:route=tram_bus": {
-        "description": "message 'tag:route=tram_bus' not translated"
-    },
+    "tag:route=tram_bus": "",
     "tag:route=trolley": "Trolibusz",
     "tag:route=trolleybus": "Trolibusz",
-    "tag:route_type": {
-        "description": "message 'tag:route_type' not translated"
-    },
+    "tag:route_type": "",
     "tag:service": "",
     "tag:shop": "Bolt",
     "tag:shop=alcohol": "",
@@ -738,94 +588,46 @@
     "tag:smoothness": "",
     "tag:source": "",
     "tag:sport": "Sport",
-    "tag:sport=10pin": {
-        "description": "message 'tag:sport=10pin' not translated"
-    },
-    "tag:sport=9pin": {
-        "description": "message 'tag:sport=9pin' not translated"
-    },
+    "tag:sport=10pin": "",
+    "tag:sport=9pin": "",
     "tag:sport=archery": "Íjászat",
     "tag:sport=athletics": "Atlétika",
-    "tag:sport=australian_football": {
-        "description": "message 'tag:sport=australian_football' not translated"
-    },
+    "tag:sport=australian_football": "",
     "tag:sport=baseball": "Baseball",
     "tag:sport=basketball": "Kosárlabda",
-    "tag:sport=beachvolleyball": {
-        "description": "message 'tag:sport=beachvolleyball' not translated"
-    },
-    "tag:sport=boules": {
-        "description": "message 'tag:sport=boules' not translated"
-    },
-    "tag:sport=bowls": {
-        "description": "message 'tag:sport=bowls' not translated"
-    },
-    "tag:sport=canoe": {
-        "description": "message 'tag:sport=canoe' not translated"
-    },
+    "tag:sport=beachvolleyball": "",
+    "tag:sport=boules": "",
+    "tag:sport=bowls": "",
+    "tag:sport=canoe": "",
     "tag:sport=chess": "Sakk",
-    "tag:sport=climbing": {
-        "description": "message 'tag:sport=climbing' not translated"
-    },
-    "tag:sport=cricket": {
-        "description": "message 'tag:sport=cricket' not translated"
-    },
-    "tag:sport=cricket_nets": {
-        "description": "message 'tag:sport=cricket_nets' not translated"
-    },
-    "tag:sport=croquet": {
-        "description": "message 'tag:sport=croquet' not translated"
-    },
+    "tag:sport=climbing": "",
+    "tag:sport=cricket": "",
+    "tag:sport=cricket_nets": "",
+    "tag:sport=croquet": "",
     "tag:sport=cycling": "Kerékpározás",
-    "tag:sport=diving": {
-        "description": "message 'tag:sport=diving' not translated"
-    },
+    "tag:sport=diving": "",
     "tag:sport=dog_racing": "Kutyafuttatás",
-    "tag:sport=equestrian": {
-        "description": "message 'tag:sport=equestrian' not translated"
-    },
+    "tag:sport=equestrian": "",
     "tag:sport=football": "Labdarúgás",
     "tag:sport=golf": "Golf",
-    "tag:sport=gymnastics": {
-        "description": "message 'tag:sport=gymnastics' not translated"
-    },
+    "tag:sport=gymnastics": "",
     "tag:sport=hockey": "Hoki",
-    "tag:sport=horse_racing": {
-        "description": "message 'tag:sport=horse_racing' not translated"
-    },
-    "tag:sport=korfball": {
-        "description": "message 'tag:sport=korfball' not translated"
-    },
+    "tag:sport=horse_racing": "",
+    "tag:sport=korfball": "",
     "tag:sport=motor": "Motor",
     "tag:sport=multi": "Többféle",
     "tag:sport=orienteering": "Tájékozódási futás",
-    "tag:sport=paddle_tennis": {
-        "description": "message 'tag:sport=paddle_tennis' not translated"
-    },
-    "tag:sport=paragliding": {
-        "description": "message 'tag:sport=paragliding' not translated"
-    },
-    "tag:sport=pelota": {
-        "description": "message 'tag:sport=pelota' not translated"
-    },
-    "tag:sport=racquet": {
-        "description": "message 'tag:sport=racquet' not translated"
-    },
+    "tag:sport=paddle_tennis": "",
+    "tag:sport=paragliding": "",
+    "tag:sport=pelota": "",
+    "tag:sport=racquet": "",
     "tag:sport=rowing": "Evezés",
-    "tag:sport=rugby": {
-        "description": "message 'tag:sport=rugby' not translated"
-    },
+    "tag:sport=rugby": "",
     "tag:sport=shooting": "Célbalövés",
-    "tag:sport=skateboard": {
-        "description": "message 'tag:sport=skateboard' not translated"
-    },
+    "tag:sport=skateboard": "",
     "tag:sport=skating": "Korcsolyázás",
-    "tag:sport=skiing": {
-        "description": "message 'tag:sport=skiing' not translated"
-    },
-    "tag:sport=soccer": {
-        "description": "message 'tag:sport=soccer' not translated"
-    },
+    "tag:sport=skiing": "",
+    "tag:sport=soccer": "",
     "tag:sport=swimming": "Úszás",
     "tag:sport=table_tennis": "Asztalitenisz",
     "tag:sport=team_handball": "Kézilabda",
@@ -857,54 +659,28 @@
     "tag:tourism=wilderness_hut": "",
     "tag:tourism=yes": "",
     "tag:tourism=zoo": "",
-    "tag:tracks": {
-        "description": "message 'tag:tracks' not translated"
-    },
-    "tag:tracks=double": {
-        "description": "message 'tag:tracks=double' not translated"
-    },
-    "tag:tracks=multiple": {
-        "description": "message 'tag:tracks=multiple' not translated"
-    },
-    "tag:tracks=single": {
-        "description": "message 'tag:tracks=single' not translated"
-    },
+    "tag:tracks": "",
+    "tag:tracks=double": "",
+    "tag:tracks=multiple": "",
+    "tag:tracks=single": "",
     "tag:tracktype": "",
     "tag:traffic_calming": "",
     "tag:traffic_sign": "",
     "tag:tunnel": "",
-    "tag:type": {
-        "description": "message 'tag:type' not translated"
-    },
-    "tag:type=gas": {
-        "description": "message 'tag:type=gas' not translated"
-    },
-    "tag:type=heat": {
-        "description": "message 'tag:type=heat' not translated"
-    },
-    "tag:type=hot_water": {
-        "description": "message 'tag:type=hot_water' not translated"
-    },
-    "tag:type=oil": {
-        "description": "message 'tag:type=oil' not translated"
-    },
+    "tag:type": "",
+    "tag:type=gas": "",
+    "tag:type=heat": "",
+    "tag:type=hot_water": "",
+    "tag:type=oil": "",
     "tag:type=route route=mtb": "",
-    "tag:type=sewage": {
-        "description": "message 'tag:type=sewage' not translated"
-    },
-    "tag:type=water": {
-        "description": "message 'tag:type=water' not translated"
-    },
+    "tag:type=sewage": "",
+    "tag:type=water": "",
     "tag:usage": "",
     "tag:usage=branch": "",
     "tag:usage=main": "",
     "tag:vehicle": "",
-    "tag:vending": {
-        "description": "message 'tag:vending' not translated"
-    },
-    "tag:voltage": {
-        "description": "message 'tag:voltage' not translated"
-    },
+    "tag:vending": "",
+    "tag:voltage": "",
     "tag:water": "",
     "tag:water=basin": "",
     "tag:water=canal": "",
@@ -930,15 +706,11 @@
     "tag:waterway=riverbank": "",
     "tag:waterway=stream": "",
     "tag:waterway=weir": "",
-    "tag:website": {
-        "description": "message 'tag:website' not translated"
-    },
+    "tag:website": "",
     "tag:wheelchair": "",
     "tag:wheelchair=limited": "",
     "tag:width": "",
     "tag:wikipedia": "",
-    "tag:wires": {
-        "description": "message 'tag:wires' not translated"
-    },
+    "tag:wires": "",
     "tag:wood": ""
 }

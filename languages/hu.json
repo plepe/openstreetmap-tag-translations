@@ -14,10 +14,6 @@
     "lang:ru": "Orosz",
     "lang:ja": "Japán",
     "lang:hu": "Magyar",
-    "lang:nl": {
-        "description": "message 'lang:nl' not translated"
-    },
-    "lang:ast": {
-        "description": "message 'lang:ast' not translated"
-    }
+    "lang:nl": "",
+    "lang:ast": ""
 }

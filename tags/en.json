@@ -43,9 +43,7 @@
     "tag:admin_level=5": "(5)",
     "tag:admin_level=6": "Counties (6)",
     "tag:admin_level=7": "(7)",
-    "tag:admin_level=7.5": {
-        "description": "message 'tag:admin_level=7.5' not translated"
-    },
+    "tag:admin_level=7.5": "",
     "tag:admin_level=8": "Municipality (8)",
     "tag:admin_level=9": "(9)",
     "tag:aerialway": "Aerialway",
@@ -235,39 +233,17 @@
     "tag:cycleway": "Cycleway",
     "tag:cycleway=bike_box;asl": "Bike Box",
     "tag:denomination": "Denomination",
-    "tag:denomination=anglican": {
-        "description": "message 'tag:denomination=anglican' not translated"
-    },
-    "tag:denomination=baptist": {
-        "description": "message 'tag:denomination=baptist' not translated"
-    },
-    "tag:denomination=catholic": {
-        "description": "message 'tag:denomination=catholic' not translated"
-    },
-    "tag:denomination=greek_orthodox": {
-        "description": "message 'tag:denomination=greek_orthodox' not translated"
-    },
-    "tag:denomination=lutheran": {
-        "description": "message 'tag:denomination=lutheran' not translated"
-    },
-    "tag:denomination=old-catholic": {
-        "description": "message 'tag:denomination=old-catholic' not translated"
-    },
-    "tag:denomination=orthodox": {
-        "description": "message 'tag:denomination=orthodox' not translated"
-    },
-    "tag:denomination=protestant": {
-        "description": "message 'tag:denomination=protestant' not translated"
-    },
-    "tag:denomination=roman_catholic": {
-        "description": "message 'tag:denomination=roman_catholic' not translated"
-    },
-    "tag:denomination=russian_orthodox": {
-        "description": "message 'tag:denomination=russian_orthodox' not translated"
-    },
-    "tag:denomination=united_reformed": {
-        "description": "message 'tag:denomination=united_reformed' not translated"
-    },
+    "tag:denomination=anglican": "",
+    "tag:denomination=baptist": "",
+    "tag:denomination=catholic": "",
+    "tag:denomination=greek_orthodox": "",
+    "tag:denomination=lutheran": "",
+    "tag:denomination=old-catholic": "",
+    "tag:denomination=orthodox": "",
+    "tag:denomination=protestant": "",
+    "tag:denomination=roman_catholic": "",
+    "tag:denomination=russian_orthodox": "",
+    "tag:denomination=united_reformed": "",
     "tag:description": "Description",
     "tag:disused": "Disused",
     "tag:ele": "Elevation",
@@ -483,14 +459,10 @@
     "tag:natural=spring": "",
     "tag:natural=tree": "",
     "tag:natural=valley": "Valley",
-    "tag:natural=volcano": {
-        "description": "message 'tag:natural=volcano' not translated"
-    },
+    "tag:natural=volcano": "",
     "tag:natural=water": "",
     "tag:natural=wetland": "",
-    "tag:natural=wood": {
-        "description": "message 'tag:natural=wood' not translated"
-    },
+    "tag:natural=wood": "",
     "tag:network": "Network",
     "tag:network=icn": "International Bicycle Route",
     "tag:network=lcn": "Local Bicycle Route",
@@ -636,9 +608,7 @@
     "tag:shop=books": "Books",
     "tag:shop=car_repair": "",
     "tag:shop=car_repair service=wheel_repair": "",
-    "tag:shop=chemist": {
-        "description": "message 'tag:shop=chemist' not translated"
-    },
+    "tag:shop=chemist": "",
     "tag:shop=clothes": "",
     "tag:shop=convenience": "",
     "tag:shop=department_store": "",

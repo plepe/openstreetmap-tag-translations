@@ -561,7 +561,7 @@
     "tag:railway=tram_stop": "電停",
     "tag:real_ale": "リアルエール提供",
     "tag:recycling_type=centre": "リサイクルセンター",
-    "tag:recycling_type=container": null,
+    "tag:recycling_type=container": "",
     "tag:ref": "参照番号",
     "tag:religion": "宗教",
     "tag:religion=buddhist": "仏教",
@@ -586,9 +586,7 @@
     "tag:route=subway": "地下鉄",
     "tag:route=train": "列車",
     "tag:route=tram": "路面電車",
-    "tag:route=tram_bus": {
-        "description": "message 'tag:route=tram_bus' not translated"
-    },
+    "tag:route=tram_bus": "",
     "tag:route=trolley": "トローリー",
     "tag:route=trolleybus": "トローリーバス",
     "tag:route_type": "ルート種別",

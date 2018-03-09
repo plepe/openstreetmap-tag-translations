@@ -1,9 +1,7 @@
 {
     "tag:*=no": "nee",
     "tag:*=yes": "ja",
-    "tag:abutters": {
-        "description": "message 'tag:abutters' not translated"
-    },
+    "tag:abutters": "",
     "tag:access": "Algemene toegangsrechten",
     "tag:accomodation": "Accomodatie",
     "tag:addr:city": {
@@ -572,7 +570,7 @@
     "tag:railway=tram_stop": "Tramhalte",
     "tag:real_ale": "Real Ale aangeboden",
     "tag:recycling_type=centre": "Recycling inzamelpunt",
-    "tag:recycling_type=container": null,
+    "tag:recycling_type=container": "",
     "tag:ref": "Referentie",
     "tag:religion": "Religie",
     "tag:religion=buddhist": "Boeddhistisch",

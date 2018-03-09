@@ -1,21 +1,15 @@
 {
     "tag:*=no": "nu",
     "tag:*=yes": "da",
-    "tag:abutters": {
-        "description": "message 'tag:abutters' not translated"
-    },
-    "tag:access": {
-        "description": "message 'tag:access' not translated"
-    },
+    "tag:abutters": "",
+    "tag:access": "",
     "tag:accomodation": "Cazare",
     "tag:addr:city": "Oras",
     "tag:addr:country": "Tară",
     "tag:addr:full": "Adresa completa",
     "tag:addr:housename": "Nume casa ",
     "tag:addr:housenumber": "Numar casa",
-    "tag:addr:interpolation": {
-        "description": "message 'tag:addr:interpolation' not translated"
-    },
+    "tag:addr:interpolation": "",
     "tag:addr:postcode": "Cod postal",
     "tag:addr:street": {
         "message": "Strada",
@@ -23,37 +17,21 @@
     },
     "tag:address": "Adresa",
     "tag:admin_level": "",
-    "tag:admin_level=10": {
-        "description": "message 'tag:admin_level=10' not translated"
-    },
+    "tag:admin_level=10": "",
     "tag:admin_level=11": "",
     "tag:admin_level=2": "Frontieră tară",
     "tag:admin_level=3": "Diviziuni",
     "tag:admin_level=4": "Frontiera stat",
-    "tag:admin_level=5": {
-        "description": "message 'tag:admin_level=5' not translated"
-    },
-    "tag:admin_level=6": {
-        "description": "message 'tag:admin_level=6' not translated"
-    },
+    "tag:admin_level=5": "",
+    "tag:admin_level=6": "",
     "tag:admin_level=7": "",
     "tag:admin_level=7.5": "",
-    "tag:admin_level=8": {
-        "description": "message 'tag:admin_level=8' not translated"
-    },
+    "tag:admin_level=8": "",
     "tag:admin_level=9": "",
-    "tag:aerialway": {
-        "description": "message 'tag:aerialway' not translated"
-    },
-    "tag:aeroway": {
-        "description": "message 'tag:aeroway' not translated"
-    },
-    "tag:aeroway=runway": {
-        "description": "message 'tag:aeroway=runway' not translated"
-    },
-    "tag:aeroway=taxiway": {
-        "description": "message 'tag:aeroway=taxiway' not translated"
-    },
+    "tag:aerialway": "",
+    "tag:aeroway": "",
+    "tag:aeroway=runway": "",
+    "tag:aeroway=taxiway": "",
     "tag:alt_name": "Nume alternativ",
     "tag:amenity": "Atractie",
     "tag:amenity=arts_centre": "",
@@ -81,7 +59,7 @@
     "tag:amenity=college": "",
     "tag:amenity=community_centre": "",
     "tag:amenity=compressed_air": "",
-    "tag:amenity=courthouse": null,
+    "tag:amenity=courthouse": "",
     "tag:amenity=crematorium": "",
     "tag:amenity=dentist": "",
     "tag:amenity=doctors": "",
@@ -155,49 +133,23 @@
     "tag:amenity=veterinary": "",
     "tag:amenity=waste_basket": "",
     "tag:area": "Zona",
-    "tag:barrier": {
-        "description": "message 'tag:barrier' not translated"
-    },
-    "tag:barrier=city_wall": {
-        "description": "message 'tag:barrier=city_wall' not translated"
-    },
-    "tag:barrier=fence": {
-        "description": "message 'tag:barrier=fence' not translated"
-    },
-    "tag:barrier=hedge": {
-        "description": "message 'tag:barrier=hedge' not translated"
-    },
-    "tag:barrier=retaining_wall": {
-        "description": "message 'tag:barrier=retaining_wall' not translated"
-    },
-    "tag:barrier=wall": {
-        "description": "message 'tag:barrier=wall' not translated"
-    },
-    "tag:bicycle": {
-        "description": "message 'tag:bicycle' not translated"
-    },
-    "tag:boundary": {
-        "description": "message 'tag:boundary' not translated"
-    },
+    "tag:barrier": "",
+    "tag:barrier=city_wall": "",
+    "tag:barrier=fence": "",
+    "tag:barrier=hedge": "",
+    "tag:barrier=retaining_wall": "",
+    "tag:barrier=wall": "",
+    "tag:bicycle": "",
+    "tag:boundary": "",
     "tag:bridge": "Pod",
     "tag:cables": "Cabluri",
     "tag:capacity": "",
-    "tag:charge": {
-        "description": "message 'tag:charge' not translated"
-    },
-    "tag:construction": {
-        "description": "message 'tag:construction' not translated"
-    },
-    "tag:covered": {
-        "description": "message 'tag:covered' not translated"
-    },
-    "tag:craft": {
-        "description": "message 'tag:craft' not translated"
-    },
+    "tag:charge": "",
+    "tag:construction": "",
+    "tag:covered": "",
+    "tag:craft": "",
     "tag:created_by": "Creeat de ",
-    "tag:crossing": {
-        "description": "message 'tag:crossing' not translated"
-    },
+    "tag:crossing": "",
     "tag:cuisine": "Bucatarie",
     "tag:cuisine=asian": "",
     "tag:cuisine=austrian": "",
@@ -229,16 +181,10 @@
     "tag:cuisine=vegan": "",
     "tag:cuisine=vegetarian": "",
     "tag:cuisine=vietnamese": "",
-    "tag:cutting": {
-        "description": "message 'tag:cutting' not translated"
-    },
-    "tag:cycleway": {
-        "description": "message 'tag:cycleway' not translated"
-    },
+    "tag:cutting": "",
+    "tag:cycleway": "",
     "tag:cycleway=bike_box;asl": "",
-    "tag:denomination": {
-        "description": "message 'tag:denomination' not translated"
-    },
+    "tag:denomination": "",
     "tag:denomination=anglican": "",
     "tag:denomination=baptist": "",
     "tag:denomination=catholic": "",
@@ -251,19 +197,13 @@
     "tag:denomination=russian_orthodox": "",
     "tag:denomination=united_reformed": "",
     "tag:description": "Descriere",
-    "tag:disused": {
-        "description": "message 'tag:disused' not translated"
-    },
-    "tag:ele": {
-        "description": "message 'tag:ele' not translated"
-    },
+    "tag:disused": "",
+    "tag:ele": "",
     "tag:electrified": "",
     "tag:electrified=contact_line": "",
     "tag:electrified=rail": "",
     "tag:email": "E-mail",
-    "tag:embankment": {
-        "description": "message 'tag:embankment' not translated"
-    },
+    "tag:embankment": "",
     "tag:emergency": "Urgenta",
     "tag:emergency=access_point, highway=emergency_access_point": "",
     "tag:emergency=defibrillator": "",
@@ -271,66 +211,38 @@
     "tag:est_width": "Latime estimativa",
     "tag:fax": "Numar de fax",
     "tag:fixme": "Corecteaza",
-    "tag:food": {
-        "description": "message 'tag:food' not translated"
-    },
-    "tag:foot": {
-        "description": "message 'tag:foot' not translated"
-    },
+    "tag:food": "",
+    "tag:foot": "",
     "tag:ford": "Vad",
     "tag:frequency": "",
-    "tag:geological": {
-        "description": "message 'tag:geological' not translated"
-    },
-    "tag:goods": {
-        "description": "message 'tag:goods' not translated"
-    },
+    "tag:geological": "",
+    "tag:goods": "",
     "tag:healthcare=doctor": "",
     "tag:heritage=0": "",
     "tag:heritage=2": "",
     "tag:heritage=4": "",
     "tag:heritage=8": "",
-    "tag:hgv": {
-        "description": "message 'tag:hgv' not translated"
-    },
-    "tag:highway": {
-        "description": "message 'tag:highway' not translated"
-    },
+    "tag:hgv": "",
+    "tag:highway": "",
     "tag:highway=* bridge=*!=no": "Pod",
-    "tag:highway=bridleway": {
-        "description": "message 'tag:highway=bridleway' not translated"
-    },
+    "tag:highway=bridleway": "",
     "tag:highway=bus_stop": "",
     "tag:highway=construction": "",
-    "tag:highway=cycleway": {
-        "description": "message 'tag:highway=cycleway' not translated"
-    },
+    "tag:highway=cycleway": "",
     "tag:highway=emergency_access_point": "",
-    "tag:highway=footway": {
-        "description": "message 'tag:highway=footway' not translated"
-    },
-    "tag:highway=living_street": {
-        "description": "message 'tag:highway=living_street' not translated"
-    },
+    "tag:highway=footway": "",
+    "tag:highway=living_street": "",
     "tag:highway=mini_roundabout": "",
     "tag:highway=minor": "Drum mic",
-    "tag:highway=motorway": {
-        "description": "message 'tag:highway=motorway' not translated"
-    },
+    "tag:highway=motorway": "",
     "tag:highway=motorway_junction": "",
-    "tag:highway=motorway_link": {
-        "description": "message 'tag:highway=motorway_link' not translated"
-    },
+    "tag:highway=motorway_link": "",
     "tag:highway=passing_place": "",
-    "tag:highway=path": {
-        "description": "message 'tag:highway=path' not translated"
-    },
+    "tag:highway=path": "",
     "tag:highway=pedestrian": "Zona pietonala",
     "tag:highway=platform, public_transport=platform": "",
     "tag:highway=primary": "Drum principal",
-    "tag:highway=primary_link": {
-        "description": "message 'tag:highway=primary_link' not translated"
-    },
+    "tag:highway=primary_link": "",
     "tag:highway=residential": "Drum rezidential",
     "tag:highway=road": "Drum",
     "tag:highway=roundabout": "",
@@ -340,15 +252,9 @@
     "tag:highway=steps": "Trepte",
     "tag:highway=stop": "",
     "tag:highway=tertiary": "Drum tertiar",
-    "tag:highway=track": {
-        "description": "message 'tag:highway=track' not translated"
-    },
-    "tag:highway=trunk": {
-        "description": "message 'tag:highway=trunk' not translated"
-    },
-    "tag:highway=trunk_link": {
-        "description": "message 'tag:highway=trunk_link' not translated"
-    },
+    "tag:highway=track": "",
+    "tag:highway=trunk": "",
+    "tag:highway=trunk_link": "",
     "tag:highway=unclassified": "Drum neclasificat",
     "tag:historic": "Istoric",
     "tag:historic=aircraft": "",
@@ -372,9 +278,7 @@
     "tag:historic=wayside_shrine": "",
     "tag:historic=wreck": "",
     "tag:historic=yes": "",
-    "tag:horse": {
-        "description": "message 'tag:horse' not translated"
-    },
+    "tag:horse": "",
     "tag:incline": "înclinaţie",
     "tag:information=board": "",
     "tag:information=guidepost": "",
@@ -391,9 +295,7 @@
     "tag:internet_access=wlan, amenity=wlan, amenity=WLAN, amenity=wifi, wifi=yes": "",
     "tag:is_in": "este in",
     "tag:kids_area": "",
-    "tag:landuse": {
-        "description": "message 'tag:landuse' not translated"
-    },
+    "tag:landuse": "",
     "tag:landuse=allotments": "",
     "tag:landuse=basin": "",
     "tag:landuse=brownfield": "",
@@ -417,77 +319,49 @@
     "tag:landuse=residential": "",
     "tag:landuse=salt_pond": "",
     "tag:landuse=vineyard": "",
-    "tag:lanes": {
-        "description": "message 'tag:lanes' not translated"
-    },
-    "tag:layer": {
-        "description": "message 'tag:layer' not translated"
-    },
-    "tag:leisure": {
-        "description": "message 'tag:leisure' not translated"
-    },
+    "tag:lanes": "",
+    "tag:layer": "",
+    "tag:leisure": "",
     "tag:leisure=adult_gaming_centre": "",
     "tag:leisure=amusement_arcade": "",
     "tag:leisure=bandstand": "",
-    "tag:leisure=beach_resort": {
-        "description": "message 'tag:leisure=beach_resort' not translated"
-    },
-    "tag:leisure=bird_hide": {
-        "description": "message 'tag:leisure=bird_hide' not translated"
-    },
-    "tag:leisure=common": {
-        "description": "message 'tag:leisure=common' not translated"
-    },
+    "tag:leisure=beach_resort": "",
+    "tag:leisure=bird_hide": "",
+    "tag:leisure=common": "",
     "tag:leisure=dance": "",
     "tag:leisure=dog_park": "",
     "tag:leisure=firepit": "",
     "tag:leisure=fishing": "Pescuit",
     "tag:leisure=fitness_centre": "",
     "tag:leisure=garden": "Parc",
-    "tag:leisure=golf_course": {
-        "description": "message 'tag:leisure=golf_course' not translated"
-    },
+    "tag:leisure=golf_course": "",
     "tag:leisure=hackerspace": "",
     "tag:leisure=horse_riding": "",
-    "tag:leisure=ice_rink": {
-        "description": "message 'tag:leisure=ice_rink' not translated"
-    },
+    "tag:leisure=ice_rink": "",
     "tag:leisure=indoor_play": "",
-    "tag:leisure=marina": {
-        "description": "message 'tag:leisure=marina' not translated"
-    },
+    "tag:leisure=marina": "",
     "tag:leisure=miniature_golf": "Golf miniatura",
     "tag:leisure=nature_reserve": "Rezervatie naturala",
-    "tag:leisure=park": {
-        "description": "message 'tag:leisure=park' not translated"
-    },
+    "tag:leisure=park": "",
     "tag:leisure=picnic_table": "",
     "tag:leisure=pitch": "Smoala",
     "tag:leisure=playground": "Teren de joaca",
     "tag:leisure=sauna": "",
-    "tag:leisure=slipway": {
-        "description": "message 'tag:leisure=slipway' not translated"
-    },
+    "tag:leisure=slipway": "",
     "tag:leisure=sport": "Alt sport",
     "tag:leisure=sports_centre": "Centru sport",
     "tag:leisure=stadium": "Stadion",
     "tag:leisure=summer_camp": "",
     "tag:leisure=swimming_area": "",
-    "tag:leisure=swimming_pool": {
-        "description": "message 'tag:leisure=swimming_pool' not translated"
-    },
+    "tag:leisure=swimming_pool": "",
     "tag:leisure=track": "Pista",
     "tag:leisure=water_park": "Parc acvatic",
     "tag:leisure=wildlife_hide": "",
     "tag:lit": "Iluminat stradal",
     "tag:loc_name": "Nume local",
-    "tag:man_made": {
-        "description": "message 'tag:man_made' not translated"
-    },
+    "tag:man_made": "",
     "tag:man_made=mineshaft": "",
-    "tag:man_made=pipeline": {
-        "description": "message 'tag:man_made=pipeline' not translated"
-    },
+    "tag:man_made=pipeline": "",
     "tag:man_made=wastewater_plant": "",
     "tag:maxheight": "Inaltime maxima",
     "tag:maxlength": "Lungime maxima",
@@ -501,15 +375,9 @@
     "tag:military=range": "",
     "tag:military=yes": "",
     "tag:minspeed": "Viteza minima",
-    "tag:motorcar": {
-        "description": "message 'tag:motorcar' not translated"
-    },
-    "tag:motorcycle": {
-        "description": "message 'tag:motorcycle' not translated"
-    },
-    "tag:mountain_pass": {
-        "description": "message 'tag:mountain_pass' not translated"
-    },
+    "tag:motorcar": "",
+    "tag:motorcycle": "",
+    "tag:mountain_pass": "",
     "tag:name": "Nume",
     "tag:narrow": "Ingust",
     "tag:natural": "Natural",
@@ -535,9 +403,7 @@
     "tag:natural=water": "",
     "tag:natural=wetland": "",
     "tag:natural=wood": "",
-    "tag:network": {
-        "description": "message 'tag:network' not translated"
-    },
+    "tag:network": "",
     "tag:network=icn": "",
     "tag:network=lcn": "",
     "tag:network=ncn": "",
@@ -548,31 +414,19 @@
     "tag:official_name": "Nume oficial",
     "tag:old_name": "Nume vechi",
     "tag:oneway": "Un singur sens",
-    "tag:opening_hours": {
-        "description": "message 'tag:opening_hours' not translated"
-    },
+    "tag:opening_hours": "",
     "tag:operator": "Operator",
     "tag:phone": "Numar de telefon",
-    "tag:place": {
-        "description": "message 'tag:place' not translated"
-    },
+    "tag:place": "",
     "tag:place=city": "Oras",
     "tag:place=city population<200000": "",
     "tag:place=continent": "Continent",
-    "tag:place=country": {
-        "description": "message 'tag:place=country' not translated"
-    },
-    "tag:place=county": {
-        "description": "message 'tag:place=county' not translated"
-    },
+    "tag:place=country": "",
+    "tag:place=county": "",
     "tag:place=farm": "",
-    "tag:place=hamlet": {
-        "description": "message 'tag:place=hamlet' not translated"
-    },
+    "tag:place=hamlet": "",
     "tag:place=island": "Insula",
-    "tag:place=islet": {
-        "description": "message 'tag:place=islet' not translated"
-    },
+    "tag:place=islet": "",
     "tag:place=isolated_dwelling": "",
     "tag:place=locality": "Localitate",
     "tag:place=neighbourhood": "",
@@ -581,68 +435,38 @@
     "tag:place=region": "Regiune",
     "tag:place=sea": "Mare",
     "tag:place=state": "Stat",
-    "tag:place=suburb": {
-        "description": "message 'tag:place=suburb' not translated"
-    },
-    "tag:place=town": {
-        "description": "message 'tag:place=town' not translated"
-    },
+    "tag:place=suburb": "",
+    "tag:place=town": "",
     "tag:place=town population>=30000": "",
-    "tag:place=village": {
-        "description": "message 'tag:place=village' not translated"
-    },
+    "tag:place=village": "",
     "tag:population": "Populatie",
     "tag:postal_code": "Cod postal",
     "tag:power": "Energie",
     "tag:power=generator": "Generator energie",
     "tag:power=line": "Linie energie",
-    "tag:power=minor_line": {
-        "description": "message 'tag:power=minor_line' not translated"
-    },
-    "tag:power=pole": {
-        "description": "message 'tag:power=pole' not translated"
-    },
+    "tag:power=minor_line": "",
+    "tag:power=pole": "",
     "tag:power=station": "Statie energie",
-    "tag:power=sub_station": {
-        "description": "message 'tag:power=sub_station' not translated"
-    },
-    "tag:power=tower": {
-        "description": "message 'tag:power=tower' not translated"
-    },
+    "tag:power=sub_station": "",
+    "tag:power=tower": "",
     "tag:power=transformer": "",
     "tag:power_source": "Sursa energie",
     "tag:power_source=biofuel": "Combustibil Bio",
     "tag:power_source=coal": "Carbune",
-    "tag:power_source=fusion": {
-        "description": "message 'tag:power_source=fusion' not translated"
-    },
+    "tag:power_source=fusion": "",
     "tag:power_source=gas": "Gaz",
     "tag:power_source=geothermal": "Geotermal",
-    "tag:power_source=hydro": {
-        "description": "message 'tag:power_source=hydro' not translated"
-    },
+    "tag:power_source=hydro": "",
     "tag:power_source=nuclear": "Nuclear",
     "tag:power_source=oil": "Ulei",
-    "tag:power_source=photovoltaic": {
-        "description": "message 'tag:power_source=photovoltaic' not translated"
-    },
-    "tag:power_source=solar-thermal": {
-        "description": "message 'tag:power_source=solar-thermal' not translated"
-    },
-    "tag:power_source=tidal": {
-        "description": "message 'tag:power_source=tidal' not translated"
-    },
+    "tag:power_source=photovoltaic": "",
+    "tag:power_source=solar-thermal": "",
+    "tag:power_source=tidal": "",
     "tag:power_source=waste": "Deseuri",
-    "tag:power_source=wave": {
-        "description": "message 'tag:power_source=wave' not translated"
-    },
+    "tag:power_source=wave": "",
     "tag:power_source=wind": "Vant",
-    "tag:proposed": {
-        "description": "message 'tag:proposed' not translated"
-    },
-    "tag:psv": {
-        "description": "message 'tag:psv' not translated"
-    },
+    "tag:proposed": "",
+    "tag:psv": "",
     "tag:public_transport": "Transport public",
     "tag:public_transport=platform": "",
     "tag:public_transport=stop_position": "",
@@ -651,12 +475,8 @@
     "tag:railway=level_crossing": "",
     "tag:railway=light_rail": "",
     "tag:railway=narrow_gauge": "",
-    "tag:railway=platform": {
-        "description": "message 'tag:railway=platform' not translated"
-    },
-    "tag:railway=rail": {
-        "description": "message 'tag:railway=rail' not translated"
-    },
+    "tag:railway=platform": "",
+    "tag:railway=rail": "",
     "tag:railway=rail service=siding": "",
     "tag:railway=rail service=spur": "",
     "tag:railway=rail usage!=main service!=*": "",
@@ -664,57 +484,33 @@
     "tag:railway=station": "",
     "tag:railway=subway": "",
     "tag:railway=subway_entrance": "",
-    "tag:railway=tram": {
-        "description": "message 'tag:railway=tram' not translated"
-    },
+    "tag:railway=tram": "",
     "tag:railway=tram;narrow_gauge": "",
     "tag:railway=tram_stop": "",
-    "tag:real_ale": {
-        "description": "message 'tag:real_ale' not translated"
-    },
+    "tag:real_ale": "",
     "tag:recycling_type=centre": "",
     "tag:recycling_type=container": "Recipient",
-    "tag:ref": {
-        "description": "message 'tag:ref' not translated"
-    },
+    "tag:ref": "",
     "tag:religion": "Religie",
     "tag:religion=buddhist": "Budista",
     "tag:religion=christian": "Crestina",
-    "tag:religion=hindu": {
-        "description": "message 'tag:religion=hindu' not translated"
-    },
-    "tag:religion=jewish": {
-        "description": "message 'tag:religion=jewish' not translated"
-    },
-    "tag:religion=multifaith": {
-        "description": "message 'tag:religion=multifaith' not translated"
-    },
-    "tag:religion=muslim": {
-        "description": "message 'tag:religion=muslim' not translated"
-    },
+    "tag:religion=hindu": "",
+    "tag:religion=jewish": "",
+    "tag:religion=multifaith": "",
+    "tag:religion=muslim": "",
     "tag:route": "Ruta",
     "tag:route=aerialway": "",
     "tag:route=bicycle": "Bicicleta",
     "tag:route=bus": "Autobuz",
-    "tag:route=ferry": {
-        "description": "message 'tag:route=ferry' not translated"
-    },
-    "tag:route=hiking": {
-        "description": "message 'tag:route=hiking' not translated"
-    },
-    "tag:route=light_rail": {
-        "description": "message 'tag:route=light_rail' not translated"
-    },
-    "tag:route=minibus": {
-        "description": "message 'tag:route=minibus' not translated"
-    },
+    "tag:route=ferry": "",
+    "tag:route=hiking": "",
+    "tag:route=light_rail": "",
+    "tag:route=minibus": "",
     "tag:route=monorail": "",
     "tag:route=mtb": "Mountainbike",
     "tag:route=rail": "Cale ferata ",
     "tag:route=railway": "Cale ferata ",
-    "tag:route=road": {
-        "description": "message 'tag:route=road' not translated"
-    },
+    "tag:route=road": "",
     "tag:route=subway": "Metrou",
     "tag:route=train": "Tren",
     "tag:route=tram": "Tramvai",
@@ -722,9 +518,7 @@
     "tag:route=trolley": "Troleu",
     "tag:route=trolleybus": "Troleu",
     "tag:route_type": "",
-    "tag:service": {
-        "description": "message 'tag:service' not translated"
-    },
+    "tag:service": "",
     "tag:shop": "Magazin",
     "tag:shop=alcohol": "",
     "tag:shop=art": "",
@@ -773,136 +567,58 @@
     "tag:shop=vacant": "",
     "tag:shop=video": "",
     "tag:shop=wine": "",
-    "tag:smoothness": {
-        "description": "message 'tag:smoothness' not translated"
-    },
+    "tag:smoothness": "",
     "tag:source": "Sursa",
     "tag:sport": "Sport",
-    "tag:sport=10pin": {
-        "description": "message 'tag:sport=10pin' not translated"
-    },
-    "tag:sport=9pin": {
-        "description": "message 'tag:sport=9pin' not translated"
-    },
-    "tag:sport=archery": {
-        "description": "message 'tag:sport=archery' not translated"
-    },
-    "tag:sport=athletics": {
-        "description": "message 'tag:sport=athletics' not translated"
-    },
-    "tag:sport=australian_football": {
-        "description": "message 'tag:sport=australian_football' not translated"
-    },
-    "tag:sport=baseball": {
-        "description": "message 'tag:sport=baseball' not translated"
-    },
-    "tag:sport=basketball": {
-        "description": "message 'tag:sport=basketball' not translated"
-    },
-    "tag:sport=beachvolleyball": {
-        "description": "message 'tag:sport=beachvolleyball' not translated"
-    },
-    "tag:sport=boules": {
-        "description": "message 'tag:sport=boules' not translated"
-    },
-    "tag:sport=bowls": {
-        "description": "message 'tag:sport=bowls' not translated"
-    },
+    "tag:sport=10pin": "",
+    "tag:sport=9pin": "",
+    "tag:sport=archery": "",
+    "tag:sport=athletics": "",
+    "tag:sport=australian_football": "",
+    "tag:sport=baseball": "",
+    "tag:sport=basketball": "",
+    "tag:sport=beachvolleyball": "",
+    "tag:sport=boules": "",
+    "tag:sport=bowls": "",
     "tag:sport=canoe": "Canoe",
     "tag:sport=chess": "Sah",
-    "tag:sport=climbing": {
-        "description": "message 'tag:sport=climbing' not translated"
-    },
-    "tag:sport=cricket": {
-        "description": "message 'tag:sport=cricket' not translated"
-    },
-    "tag:sport=cricket_nets": {
-        "description": "message 'tag:sport=cricket_nets' not translated"
-    },
-    "tag:sport=croquet": {
-        "description": "message 'tag:sport=croquet' not translated"
-    },
+    "tag:sport=climbing": "",
+    "tag:sport=cricket": "",
+    "tag:sport=cricket_nets": "",
+    "tag:sport=croquet": "",
     "tag:sport=cycling": "Ciclism",
-    "tag:sport=diving": {
-        "description": "message 'tag:sport=diving' not translated"
-    },
+    "tag:sport=diving": "",
     "tag:sport=dog_racing": "Curse de caini",
-    "tag:sport=equestrian": {
-        "description": "message 'tag:sport=equestrian' not translated"
-    },
+    "tag:sport=equestrian": "",
     "tag:sport=football": "Fotbal",
     "tag:sport=golf": "Golf",
     "tag:sport=gymnastics": "Gimnastica",
-    "tag:sport=hockey": {
-        "description": "message 'tag:sport=hockey' not translated"
-    },
+    "tag:sport=hockey": "",
     "tag:sport=horse_racing": "Curse cai",
-    "tag:sport=korfball": {
-        "description": "message 'tag:sport=korfball' not translated"
-    },
-    "tag:sport=motor": {
-        "description": "message 'tag:sport=motor' not translated"
-    },
-    "tag:sport=multi": {
-        "description": "message 'tag:sport=multi' not translated"
-    },
-    "tag:sport=orienteering": {
-        "description": "message 'tag:sport=orienteering' not translated"
-    },
-    "tag:sport=paddle_tennis": {
-        "description": "message 'tag:sport=paddle_tennis' not translated"
-    },
-    "tag:sport=paragliding": {
-        "description": "message 'tag:sport=paragliding' not translated"
-    },
-    "tag:sport=pelota": {
-        "description": "message 'tag:sport=pelota' not translated"
-    },
-    "tag:sport=racquet": {
-        "description": "message 'tag:sport=racquet' not translated"
-    },
-    "tag:sport=rowing": {
-        "description": "message 'tag:sport=rowing' not translated"
-    },
-    "tag:sport=rugby": {
-        "description": "message 'tag:sport=rugby' not translated"
-    },
-    "tag:sport=shooting": {
-        "description": "message 'tag:sport=shooting' not translated"
-    },
-    "tag:sport=skateboard": {
-        "description": "message 'tag:sport=skateboard' not translated"
-    },
-    "tag:sport=skating": {
-        "description": "message 'tag:sport=skating' not translated"
-    },
-    "tag:sport=skiing": {
-        "description": "message 'tag:sport=skiing' not translated"
-    },
+    "tag:sport=korfball": "",
+    "tag:sport=motor": "",
+    "tag:sport=multi": "",
+    "tag:sport=orienteering": "",
+    "tag:sport=paddle_tennis": "",
+    "tag:sport=paragliding": "",
+    "tag:sport=pelota": "",
+    "tag:sport=racquet": "",
+    "tag:sport=rowing": "",
+    "tag:sport=rugby": "",
+    "tag:sport=shooting": "",
+    "tag:sport=skateboard": "",
+    "tag:sport=skating": "",
+    "tag:sport=skiing": "",
     "tag:sport=soccer": "Fotbal",
-    "tag:sport=swimming": {
-        "description": "message 'tag:sport=swimming' not translated"
-    },
-    "tag:sport=table_tennis": {
-        "description": "message 'tag:sport=table_tennis' not translated"
-    },
-    "tag:sport=team_handball": {
-        "description": "message 'tag:sport=team_handball' not translated"
-    },
+    "tag:sport=swimming": "",
+    "tag:sport=table_tennis": "",
+    "tag:sport=team_handball": "",
     "tag:sport=tennis": "Tenis",
-    "tag:sport=volleyball": {
-        "description": "message 'tag:sport=volleyball' not translated"
-    },
+    "tag:sport=volleyball": "",
     "tag:start_date": "Data creeri",
-    "tag:surface": {
-        "description": "message 'tag:surface' not translated"
-    },
-    "tag:tactile_paving": {
-        "description": "message 'tag:tactile_paving' not translated"
-    },
-    "tag:toll": {
-        "description": "message 'tag:toll' not translated"
-    },
+    "tag:surface": "",
+    "tag:tactile_paving": "",
+    "tag:toll": "",
     "tag:tourism": "Turism",
     "tag:tourism=alpine_hut": "",
     "tag:tourism=apartment": "",
@@ -925,52 +641,28 @@
     "tag:tourism=wilderness_hut": "",
     "tag:tourism=yes": "",
     "tag:tourism=zoo": "",
-    "tag:tracks": {
-        "description": "message 'tag:tracks' not translated"
-    },
-    "tag:tracks=double": {
-        "description": "message 'tag:tracks=double' not translated"
-    },
-    "tag:tracks=multiple": {
-        "description": "message 'tag:tracks=multiple' not translated"
-    },
-    "tag:tracks=single": {
-        "description": "message 'tag:tracks=single' not translated"
-    },
-    "tag:tracktype": {
-        "description": "message 'tag:tracktype' not translated"
-    },
-    "tag:traffic_calming": {
-        "description": "message 'tag:traffic_calming' not translated"
-    },
-    "tag:traffic_sign": {
-        "description": "message 'tag:traffic_sign' not translated"
-    },
+    "tag:tracks": "",
+    "tag:tracks=double": "",
+    "tag:tracks=multiple": "",
+    "tag:tracks=single": "",
+    "tag:tracktype": "",
+    "tag:traffic_calming": "",
+    "tag:traffic_sign": "",
     "tag:tunnel": "Tunel",
     "tag:type": "Model",
     "tag:type=gas": "Peco",
-    "tag:type=heat": {
-        "description": "message 'tag:type=heat' not translated"
-    },
+    "tag:type=heat": "",
     "tag:type=hot_water": "Apa calda",
     "tag:type=oil": "Ulei",
     "tag:type=route route=mtb": "",
-    "tag:type=sewage": {
-        "description": "message 'tag:type=sewage' not translated"
-    },
+    "tag:type=sewage": "",
     "tag:type=water": "Apa",
     "tag:usage": "",
     "tag:usage=branch": "",
     "tag:usage=main": "",
-    "tag:vehicle": {
-        "description": "message 'tag:vehicle' not translated"
-    },
-    "tag:vending": {
-        "description": "message 'tag:vending' not translated"
-    },
-    "tag:voltage": {
-        "description": "message 'tag:voltage' not translated"
-    },
+    "tag:vehicle": "",
+    "tag:vending": "",
+    "tag:voltage": "",
     "tag:water": "",
     "tag:water=basin": "",
     "tag:water=canal": "",
@@ -986,9 +678,7 @@
     "tag:water=river": "",
     "tag:water=stream_pool": "",
     "tag:water=wastewater": "",
-    "tag:waterway": {
-        "description": "message 'tag:waterway' not translated"
-    },
+    "tag:waterway": "",
     "tag:waterway=canal": "",
     "tag:waterway=dam": "",
     "tag:waterway=ditch": "",
@@ -999,20 +689,10 @@
     "tag:waterway=stream": "",
     "tag:waterway=weir": "",
     "tag:website": "Site web",
-    "tag:wheelchair": {
-        "description": "message 'tag:wheelchair' not translated"
-    },
-    "tag:wheelchair=limited": {
-        "description": "message 'tag:wheelchair=limited' not translated"
-    },
-    "tag:width": {
-        "description": "message 'tag:width' not translated"
-    },
+    "tag:wheelchair": "",
+    "tag:wheelchair=limited": "",
+    "tag:width": "",
     "tag:wikipedia": "\tWikipedia",
-    "tag:wires": {
-        "description": "message 'tag:wires' not translated"
-    },
-    "tag:wood": {
-        "description": "message 'tag:wood' not translated"
-    }
+    "tag:wires": "",
+    "tag:wood": ""
 }
