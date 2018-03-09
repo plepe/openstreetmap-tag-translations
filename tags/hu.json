@@ -15,6 +15,7 @@
     "tag:addr:postcode": "",
     "tag:addr:street": "",
     "tag:address": "Cím",
+    "tag:admin_level": "",
     "tag:admin_level=10": "Kerület",
     "tag:admin_level=11": "",
     "tag:admin_level=2": "Országhatár",
@@ -48,6 +49,7 @@
     "tag:amenity=bank": "",
     "tag:amenity=bar": "",
     "tag:amenity=bench": "",
+    "tag:amenity=bicycle_parking": "",
     "tag:amenity=bicycle_parking capacity<=20, amenity=bicycle_parking capacity!=*": "",
     "tag:amenity=bicycle_parking capacity<=60 capacity>20": "",
     "tag:amenity=bicycle_parking capacity>60": "",
@@ -68,6 +70,7 @@
     "tag:amenity=clock": "",
     "tag:amenity=college": "",
     "tag:amenity=community_centre": "",
+    "tag:amenity=compressed_air": "",
     "tag:amenity=courthouse": null,
     "tag:amenity=crematorium": "",
     "tag:amenity=dentist": "",
@@ -91,9 +94,11 @@
     "tag:amenity=language_school": "",
     "tag:amenity=library": "",
     "tag:amenity=marketplace": "Piac",
+    "tag:amenity=motorcycle_parking": "",
     "tag:amenity=nursing_home": "",
     "tag:amenity=parking": "",
     "tag:amenity=pharmacy": "",
+    "tag:amenity=place_of_worship": "",
     "tag:amenity=place_of_worship religion!=christian;jewish;muslim;sikh": "",
     "tag:amenity=place_of_worship religion=christian": "",
     "tag:amenity=place_of_worship religion=jewish": "",
@@ -115,6 +120,7 @@
     },
     "tag:amenity=sauna": "",
     "tag:amenity=school": "",
+    "tag:amenity=shelter": "",
     "tag:amenity=signpost": "",
     "tag:amenity=social_facility": "",
     "tag:amenity=studio": "",
@@ -167,6 +173,7 @@
     "tag:boundary": "",
     "tag:bridge": "",
     "tag:cables": "Vezetékek",
+    "tag:capacity": "",
     "tag:charge": "",
     "tag:construction": "",
     "tag:covered": "",
@@ -174,7 +181,36 @@
     "tag:created_by": "",
     "tag:crossing": "",
     "tag:cuisine": "Konyha",
+    "tag:cuisine=asian": "",
+    "tag:cuisine=austrian": "",
+    "tag:cuisine=burger": "",
+    "tag:cuisine=cake": "",
+    "tag:cuisine=chinese": "",
+    "tag:cuisine=coffee": "",
+    "tag:cuisine=coffee_shop": "",
+    "tag:cuisine=french": "",
+    "tag:cuisine=greek": "",
+    "tag:cuisine=ice_cream": "",
+    "tag:cuisine=international": "",
+    "tag:cuisine=italian": "",
+    "tag:cuisine=japanese": "",
+    "tag:cuisine=juice": "",
+    "tag:cuisine=kebab": "",
+    "tag:cuisine=local": "",
+    "tag:cuisine=noodles": "",
+    "tag:cuisine=pizza": "",
     "tag:cuisine=regional": "helyi",
+    "tag:cuisine=salad": "",
+    "tag:cuisine=sandwich": "",
+    "tag:cuisine=sausage": "",
+    "tag:cuisine=spanish": "",
+    "tag:cuisine=steak_house": "",
+    "tag:cuisine=sushi": "",
+    "tag:cuisine=thai": "",
+    "tag:cuisine=turkish": "",
+    "tag:cuisine=vegan": "",
+    "tag:cuisine=vegetarian": "",
+    "tag:cuisine=vietnamese": "",
     "tag:cutting": "",
     "tag:cycleway": "",
     "tag:cycleway=bike_box;asl": "",
@@ -193,6 +229,9 @@
     "tag:description": "Leírás",
     "tag:disused": "",
     "tag:ele": "",
+    "tag:electrified": "",
+    "tag:electrified=contact_line": "",
+    "tag:electrified=rail": "",
     "tag:email": "",
     "tag:embankment": "",
     "tag:emergency": "",
@@ -205,6 +244,7 @@
     "tag:food": "Lehet ennivalót kapni",
     "tag:foot": "",
     "tag:ford": "",
+    "tag:frequency": "",
     "tag:geological": "",
     "tag:goods": "",
     "tag:healthcare=doctor": "",
@@ -279,10 +319,19 @@
     "tag:historic=aircraft": "",
     "tag:historic=archaeological_site": "",
     "tag:historic=battlefield": "",
+    "tag:historic=building": "",
     "tag:historic=castle": "Kastély",
+    "tag:historic=citywalls": "",
+    "tag:historic=highwater_mark": "",
     "tag:historic=icon": "",
+    "tag:historic=manor": "",
     "tag:historic=memorial": "",
+    "tag:historic=milestone": "",
     "tag:historic=monument": "",
+    "tag:historic=ship": "",
+    "tag:historic=stone": "",
+    "tag:historic=tomb": "",
+    "tag:historic=tower": "",
     "tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage": "",
     "tag:historic=wayside_cross": "",
     "tag:historic=wayside_shrine": "",
@@ -290,6 +339,9 @@
     "tag:historic=yes": "",
     "tag:horse": "",
     "tag:incline": "",
+    "tag:information=board": "",
+    "tag:information=guidepost": "",
+    "tag:information=map": "",
     "tag:int_name": "",
     "tag:internet_access=public": "",
     "tag:internet_access=service": "",
@@ -329,6 +381,9 @@
     "tag:lanes": "",
     "tag:layer": "",
     "tag:leisure": "",
+    "tag:leisure=adult_gaming_centre": "",
+    "tag:leisure=amusement_arcade": "",
+    "tag:leisure=bandstand": "",
     "tag:leisure=beach_resort": {
         "description": "message 'tag:leisure=beach_resort' not translated"
     },
@@ -338,15 +393,21 @@
     "tag:leisure=common": {
         "description": "message 'tag:leisure=common' not translated"
     },
+    "tag:leisure=dance": "",
+    "tag:leisure=dog_park": "",
+    "tag:leisure=firepit": "",
     "tag:leisure=fishing": {
         "description": "message 'tag:leisure=fishing' not translated"
     },
+    "tag:leisure=fitness_centre": "",
     "tag:leisure=garden": {
         "description": "message 'tag:leisure=garden' not translated"
     },
     "tag:leisure=golf_course": {
         "description": "message 'tag:leisure=golf_course' not translated"
     },
+    "tag:leisure=hackerspace": "",
+    "tag:leisure=horse_riding": "",
     "tag:leisure=ice_rink": {
         "description": "message 'tag:leisure=ice_rink' not translated"
     },
@@ -363,12 +424,14 @@
     "tag:leisure=park": {
         "description": "message 'tag:leisure=park' not translated"
     },
+    "tag:leisure=picnic_table": "",
     "tag:leisure=pitch": {
         "description": "message 'tag:leisure=pitch' not translated"
     },
     "tag:leisure=playground": {
         "description": "message 'tag:leisure=playground' not translated"
     },
+    "tag:leisure=sauna": "",
     "tag:leisure=slipway": {
         "description": "message 'tag:leisure=slipway' not translated"
     },
@@ -380,6 +443,7 @@
         "description": "message 'tag:leisure=stadium' not translated"
     },
     "tag:leisure=summer_camp": "",
+    "tag:leisure=swimming_area": "",
     "tag:leisure=swimming_pool": {
         "description": "message 'tag:leisure=swimming_pool' not translated"
     },
@@ -389,6 +453,7 @@
     "tag:leisure=water_park": {
         "description": "message 'tag:leisure=water_park' not translated"
     },
+    "tag:leisure=wildlife_hide": "",
     "tag:lit": "",
     "tag:loc_name": "",
     "tag:man_made": {
@@ -424,6 +489,7 @@
     "tag:natural=cave_entrance": "",
     "tag:natural=cliff": "",
     "tag:natural=coastline": "",
+    "tag:natural=divide": "",
     "tag:natural=fell": "",
     "tag:natural=glacier": "",
     "tag:natural=heath": "",
@@ -540,6 +606,8 @@
     "tag:proposed": "",
     "tag:psv": "",
     "tag:public_transport": "",
+    "tag:public_transport=platform": "",
+    "tag:public_transport=stop_position": "",
     "tag:railway": {
         "description": "message 'tag:railway' not translated"
     },
@@ -600,6 +668,7 @@
         "description": "message 'tag:route=light_rail' not translated"
     },
     "tag:route=minibus": "Kisbusz",
+    "tag:route=monorail": "",
     "tag:route=mtb": "Mountainbike",
     "tag:route=rail": "Vasút",
     "tag:route=railway": "Vasút",
@@ -779,6 +848,7 @@
     "tag:tourism=guest_house": "Vendégház",
     "tag:tourism=hostel": "",
     "tag:tourism=hotel": "Hotel",
+    "tag:tourism=information": "",
     "tag:tourism=motel": "",
     "tag:tourism=museum": "",
     "tag:tourism=picnic_site": "",
@@ -825,6 +895,9 @@
     "tag:type=water": {
         "description": "message 'tag:type=water' not translated"
     },
+    "tag:usage": "",
+    "tag:usage=branch": "",
+    "tag:usage=main": "",
     "tag:vehicle": "",
     "tag:vending": {
         "description": "message 'tag:vending' not translated"
@@ -832,6 +905,21 @@
     "tag:voltage": {
         "description": "message 'tag:voltage' not translated"
     },
+    "tag:water": "",
+    "tag:water=basin": "",
+    "tag:water=canal": "",
+    "tag:water=fish_pass": "",
+    "tag:water=lagoon": "",
+    "tag:water=lake": "",
+    "tag:water=lock": "",
+    "tag:water=moat": "",
+    "tag:water=oxbow": "",
+    "tag:water=pond": "",
+    "tag:water=reflecting_pool": "",
+    "tag:water=reservoir": "",
+    "tag:water=river": "",
+    "tag:water=stream_pool": "",
+    "tag:water=wastewater": "",
     "tag:waterway": "",
     "tag:waterway=canal": "",
     "tag:waterway=dam": "",

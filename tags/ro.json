@@ -22,6 +22,7 @@
         "!=1": "Strazi"
     },
     "tag:address": "Adresa",
+    "tag:admin_level": "",
     "tag:admin_level=10": {
         "description": "message 'tag:admin_level=10' not translated"
     },
@@ -61,6 +62,7 @@
     "tag:amenity=bank": "",
     "tag:amenity=bar": "",
     "tag:amenity=bench": "Banca",
+    "tag:amenity=bicycle_parking": "",
     "tag:amenity=bicycle_parking capacity<=20, amenity=bicycle_parking capacity!=*": "",
     "tag:amenity=bicycle_parking capacity<=60 capacity>20": "",
     "tag:amenity=bicycle_parking capacity>60": "",
@@ -78,6 +80,7 @@
     "tag:amenity=clock": "",
     "tag:amenity=college": "",
     "tag:amenity=community_centre": "",
+    "tag:amenity=compressed_air": "",
     "tag:amenity=courthouse": null,
     "tag:amenity=crematorium": "",
     "tag:amenity=dentist": "",
@@ -101,9 +104,11 @@
     "tag:amenity=language_school": "",
     "tag:amenity=library": "",
     "tag:amenity=marketplace": "",
+    "tag:amenity=motorcycle_parking": "",
     "tag:amenity=nursing_home": "",
     "tag:amenity=parking": "",
     "tag:amenity=pharmacy": "",
+    "tag:amenity=place_of_worship": "",
     "tag:amenity=place_of_worship religion!=christian;jewish;muslim;sikh": "",
     "tag:amenity=place_of_worship religion=christian": "",
     "tag:amenity=place_of_worship religion=jewish": "",
@@ -119,6 +124,7 @@
     "tag:amenity=restaurant": "Restaurant",
     "tag:amenity=sauna": "Sauna",
     "tag:amenity=school": "",
+    "tag:amenity=shelter": "",
     "tag:amenity=signpost": "",
     "tag:amenity=social_facility": "",
     "tag:amenity=studio": "",
@@ -175,6 +181,7 @@
     },
     "tag:bridge": "Pod",
     "tag:cables": "Cabluri",
+    "tag:capacity": "",
     "tag:charge": {
         "description": "message 'tag:charge' not translated"
     },
@@ -192,7 +199,36 @@
         "description": "message 'tag:crossing' not translated"
     },
     "tag:cuisine": "Bucatarie",
+    "tag:cuisine=asian": "",
+    "tag:cuisine=austrian": "",
+    "tag:cuisine=burger": "",
+    "tag:cuisine=cake": "",
+    "tag:cuisine=chinese": "",
+    "tag:cuisine=coffee": "",
+    "tag:cuisine=coffee_shop": "",
+    "tag:cuisine=french": "",
+    "tag:cuisine=greek": "",
+    "tag:cuisine=ice_cream": "",
+    "tag:cuisine=international": "",
+    "tag:cuisine=italian": "",
+    "tag:cuisine=japanese": "",
+    "tag:cuisine=juice": "",
+    "tag:cuisine=kebab": "",
+    "tag:cuisine=local": "",
+    "tag:cuisine=noodles": "",
+    "tag:cuisine=pizza": "",
     "tag:cuisine=regional": "traditional",
+    "tag:cuisine=salad": "",
+    "tag:cuisine=sandwich": "",
+    "tag:cuisine=sausage": "",
+    "tag:cuisine=spanish": "",
+    "tag:cuisine=steak_house": "",
+    "tag:cuisine=sushi": "",
+    "tag:cuisine=thai": "",
+    "tag:cuisine=turkish": "",
+    "tag:cuisine=vegan": "",
+    "tag:cuisine=vegetarian": "",
+    "tag:cuisine=vietnamese": "",
     "tag:cutting": {
         "description": "message 'tag:cutting' not translated"
     },
@@ -221,6 +257,9 @@
     "tag:ele": {
         "description": "message 'tag:ele' not translated"
     },
+    "tag:electrified": "",
+    "tag:electrified=contact_line": "",
+    "tag:electrified=rail": "",
     "tag:email": "E-mail",
     "tag:embankment": {
         "description": "message 'tag:embankment' not translated"
@@ -239,6 +278,7 @@
         "description": "message 'tag:foot' not translated"
     },
     "tag:ford": "Vad",
+    "tag:frequency": "",
     "tag:geological": {
         "description": "message 'tag:geological' not translated"
     },
@@ -314,10 +354,19 @@
     "tag:historic=aircraft": "",
     "tag:historic=archaeological_site": "",
     "tag:historic=battlefield": "",
+    "tag:historic=building": "",
     "tag:historic=castle": "",
+    "tag:historic=citywalls": "",
+    "tag:historic=highwater_mark": "",
     "tag:historic=icon": "",
+    "tag:historic=manor": "",
     "tag:historic=memorial": "",
+    "tag:historic=milestone": "",
     "tag:historic=monument": "",
+    "tag:historic=ship": "",
+    "tag:historic=stone": "",
+    "tag:historic=tomb": "",
+    "tag:historic=tower": "",
     "tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage": "",
     "tag:historic=wayside_cross": "",
     "tag:historic=wayside_shrine": "",
@@ -327,6 +376,9 @@
         "description": "message 'tag:horse' not translated"
     },
     "tag:incline": "înclinaţie",
+    "tag:information=board": "",
+    "tag:information=guidepost": "",
+    "tag:information=map": "",
     "tag:int_name": "Nume international",
     "tag:internet_access=public": "",
     "tag:internet_access=service": "",
@@ -374,6 +426,9 @@
     "tag:leisure": {
         "description": "message 'tag:leisure' not translated"
     },
+    "tag:leisure=adult_gaming_centre": "",
+    "tag:leisure=amusement_arcade": "",
+    "tag:leisure=bandstand": "",
     "tag:leisure=beach_resort": {
         "description": "message 'tag:leisure=beach_resort' not translated"
     },
@@ -383,11 +438,17 @@
     "tag:leisure=common": {
         "description": "message 'tag:leisure=common' not translated"
     },
+    "tag:leisure=dance": "",
+    "tag:leisure=dog_park": "",
+    "tag:leisure=firepit": "",
     "tag:leisure=fishing": "Pescuit",
+    "tag:leisure=fitness_centre": "",
     "tag:leisure=garden": "Parc",
     "tag:leisure=golf_course": {
         "description": "message 'tag:leisure=golf_course' not translated"
     },
+    "tag:leisure=hackerspace": "",
+    "tag:leisure=horse_riding": "",
     "tag:leisure=ice_rink": {
         "description": "message 'tag:leisure=ice_rink' not translated"
     },
@@ -400,8 +461,10 @@
     "tag:leisure=park": {
         "description": "message 'tag:leisure=park' not translated"
     },
+    "tag:leisure=picnic_table": "",
     "tag:leisure=pitch": "Smoala",
     "tag:leisure=playground": "Teren de joaca",
+    "tag:leisure=sauna": "",
     "tag:leisure=slipway": {
         "description": "message 'tag:leisure=slipway' not translated"
     },
@@ -409,11 +472,13 @@
     "tag:leisure=sports_centre": "Centru sport",
     "tag:leisure=stadium": "Stadion",
     "tag:leisure=summer_camp": "",
+    "tag:leisure=swimming_area": "",
     "tag:leisure=swimming_pool": {
         "description": "message 'tag:leisure=swimming_pool' not translated"
     },
     "tag:leisure=track": "Pista",
     "tag:leisure=water_park": "Parc acvatic",
+    "tag:leisure=wildlife_hide": "",
     "tag:lit": "Iluminat stradal",
     "tag:loc_name": "Nume local",
     "tag:man_made": {
@@ -452,6 +517,7 @@
     "tag:natural=cave_entrance": "",
     "tag:natural=cliff": "",
     "tag:natural=coastline": "",
+    "tag:natural=divide": "",
     "tag:natural=fell": "",
     "tag:natural=glacier": "",
     "tag:natural=heath": "",
@@ -578,6 +644,8 @@
         "description": "message 'tag:psv' not translated"
     },
     "tag:public_transport": "Transport public",
+    "tag:public_transport=platform": "",
+    "tag:public_transport=stop_position": "",
     "tag:railway": "Cale ferata",
     "tag:railway=halt": "",
     "tag:railway=level_crossing": "",
@@ -640,6 +708,7 @@
     "tag:route=minibus": {
         "description": "message 'tag:route=minibus' not translated"
     },
+    "tag:route=monorail": "",
     "tag:route=mtb": "Mountainbike",
     "tag:route=rail": "Cale ferata ",
     "tag:route=railway": "Cale ferata ",
@@ -847,6 +916,7 @@
     "tag:tourism=guest_house": "",
     "tag:tourism=hostel": "",
     "tag:tourism=hotel": "",
+    "tag:tourism=information": "",
     "tag:tourism=motel": "",
     "tag:tourism=museum": "",
     "tag:tourism=picnic_site": "",
@@ -889,6 +959,9 @@
         "description": "message 'tag:type=sewage' not translated"
     },
     "tag:type=water": "Apa",
+    "tag:usage": "",
+    "tag:usage=branch": "",
+    "tag:usage=main": "",
     "tag:vehicle": {
         "description": "message 'tag:vehicle' not translated"
     },
@@ -898,6 +971,21 @@
     "tag:voltage": {
         "description": "message 'tag:voltage' not translated"
     },
+    "tag:water": "",
+    "tag:water=basin": "",
+    "tag:water=canal": "",
+    "tag:water=fish_pass": "",
+    "tag:water=lagoon": "",
+    "tag:water=lake": "",
+    "tag:water=lock": "",
+    "tag:water=moat": "",
+    "tag:water=oxbow": "",
+    "tag:water=pond": "",
+    "tag:water=reflecting_pool": "",
+    "tag:water=reservoir": "",
+    "tag:water=river": "",
+    "tag:water=stream_pool": "",
+    "tag:water=wastewater": "",
     "tag:waterway": {
         "description": "message 'tag:waterway' not translated"
     },
