@@ -1,0 +1,32 @@
+{
+    "lang:current": {
+        "message": "",
+        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
+    },
+    "lang:base": {
+        "message": "en",
+        "description": "Use this language if a string has not been translated"
+    },
+    "lang:ast": "",
+    "lang:bg": "",
+    "lang:ca": "",
+    "lang:cs": "",
+    "lang:da": "",
+    "lang:de": "",
+    "lang:el": "",
+    "lang:en": "",
+    "lang:es": "",
+    "lang:et": "",
+    "lang:fr": "",
+    "lang:hu": "",
+    "lang:it": "",
+    "lang:ja": "",
+    "lang:nl": "",
+    "lang:pl": "",
+    "lang:pt": "",
+    "lang:pt-br": "",
+    "lang:ro": "",
+    "lang:ru": "",
+    "lang:sr": "",
+    "lang:uk": ""
+}
