@@ -1,8 +1,5 @@
 {
-    "lang:current": {
-        "message": "Eesti",
-        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
-    },
+    "lang:current": "Eesti",
     "lang:de": "saksa",
     "lang:bg": "bulgaaria",
     "lang:cs": "tšehhi",

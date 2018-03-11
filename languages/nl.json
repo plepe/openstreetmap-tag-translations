@@ -1,8 +1,5 @@
 {
-    "lang:current": {
-        "message": "Nederlands",
-        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
-    },
+    "lang:current": "Nederlands",
     "lang:de": "Duits",
     "lang:bg": "Bulgaars",
     "lang:cs": "Tsjechisch",

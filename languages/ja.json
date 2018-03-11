@@ -1,8 +1,5 @@
 {
-    "lang:current": {
-        "message": "日本語",
-        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
-    },
+    "lang:current": "日本語",
     "lang:de": "ドイツ語",
     "lang:bg": "ブルガリア語",
     "lang:cs": "チェコ語",
