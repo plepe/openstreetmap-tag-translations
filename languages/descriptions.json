@@ -1,0 +1,4 @@
+{
+    "lang:current": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)",
+    "lang:base": "Use this language if a string has not been translated"
+}

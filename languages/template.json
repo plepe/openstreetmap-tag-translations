@@ -1,12 +1,6 @@
 {
-    "lang:current": {
-        "message": "",
-        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
-    },
-    "lang:base": {
-        "message": "en",
-        "description": "Use this language if a string has not been translated"
-    },
+    "lang:current": "",
+    "lang:base": "en",
     "lang:ast": "",
     "lang:bg": "",
     "lang:ca": "",
