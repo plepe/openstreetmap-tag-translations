@@ -1,8 +1,5 @@
 {
-    "lang:current": {
-        "message": "Asturianu",
-        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
-    },
+    "lang:current": "Asturianu",
     "lang:de": "Alemán",
     "lang:bg": "Búlgaru",
     "lang:cs": "Checu",

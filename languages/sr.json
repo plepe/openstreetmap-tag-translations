@@ -1,8 +1,5 @@
 {
-    "lang:current": {
-        "message": "Српски",
-        "description": "The name of the current language in the native tongue (e.g. \"Deutsch\" for German)"
-    },
+    "lang:current": "Српски",
     "lang:de": "немачки",
     "lang:bg": "бугарски",
     "lang:cs": "чешки",
