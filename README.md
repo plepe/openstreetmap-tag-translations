@@ -1,6 +1,6 @@
 In OpenStreetMap every map feature is described by tags, which are key-value-pairs. Usually these tags contain English values, but for localized maps these tags can be translated into the native language.
 
-This repository contains translations of common tags and additionally language names. The format is based on the i18n format for the [Chrome browser](https://developer.chrome.com/extensions/i18n-messages).
+This repository contains translations of common tags. The format is based on the i18n format for the [Chrome browser](https://developer.chrome.com/extensions/i18n-messages).
 
 Examples:
 ```json
@@ -31,7 +31,6 @@ Every tag key and every tag key-value-pair has an entry in the JSON file. Every 
 Directories
 -----------
 * The directory `tags/` contains the tag translations
-* The directory `languages/` contain language name translations. There's always the string `lang:current` with the full name of the language in question (E.g. file `fr.js` contains `lang:current` = "Français" and translations of other languages, e.g. `lang:de` = "Allemand" (the french name for German).
 
 Contributors
 ------------
