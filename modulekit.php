@@ -1,4 +1,4 @@
 <?php
 $id = 'openstreetmap-tag-translations';
 
-$lang_dirs = array('languages', 'tags');
+$lang_dirs = array('tags');
