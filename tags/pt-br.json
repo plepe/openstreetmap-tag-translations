@@ -1,6 +1,7 @@
 {
     "tag:*=no": "não",
     "tag:*=yes": "sim",
+    "tag:abandoned": "Abandonado",
     "tag:abutters": "Uso da via",
     "tag:access": "Permissão de acesso geral",
     "tag:accomodation": "Acomodação",
@@ -162,7 +163,6 @@
     "tag:amenity=vending_machine vending=telephone_vouchers": "",
     "tag:amenity=veterinary": "Veterinário",
     "tag:amenity=waste_basket": "Lixeira",
-    "tag:abandoned": "Abandonado",
     "tag:area": "Área",
     "tag:barrier": {
         "message": "Barreira",
@@ -607,7 +607,7 @@
     "tag:route_type": "",
     "tag:service": "Service road attributes",
     "tag:shop": "Compras",
-    "tag:shop=alcohol": "",	
+    "tag:shop=alcohol": "",
     "tag:shop=appliance": "Eletrodomésticos",
     "tag:shop=art": "",
     "tag:shop=bakery": "Padaria",
@@ -675,7 +675,6 @@
     "tag:sport=chess": "Chess",
     "tag:sport=climbing": "Escalada",
     "tag:sport=cricket": "Cricket",
-    "tag:sport=cricket_nets": "Cricket Nets",
     "tag:sport=croquet": "Croquet",
     "tag:sport=cycling": "Ciclismo",
     "tag:sport=diving": "Diving",
