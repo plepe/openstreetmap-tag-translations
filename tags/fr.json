@@ -487,7 +487,7 @@
     "tag:power=minor_line": "Ligne électrique secondaire",
     "tag:power=pole": "Pylône électrique à un seul pied",
     "tag:power=station": "Centrale électrique",
-    "tag:power=sub_station": "Sous-station électrique",
+    "tag:power=substation": "Sous-station électrique",
     "tag:power=tower": "Pylône électrique",
     "tag:power=transformer": "Transformateur",
     "tag:power_source": "Source d'énergie",
