@@ -51,6 +51,7 @@
     "tag:amenity=cafe": "",
     "tag:amenity=car_rental": "",
     "tag:amenity=car_sharing": "",
+    "tag:amenity=charging_station": "",
     "tag:amenity=cinema": {
         "message": "Mozi",
         "!=1": "Mozik"

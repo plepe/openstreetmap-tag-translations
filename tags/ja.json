@@ -72,6 +72,7 @@
     "tag:amenity=cafe": "",
     "tag:amenity=car_rental": "レンタカー",
     "tag:amenity=car_sharing": "カーシェアリング",
+    "tag:amenity=charging_station": "",
     "tag:amenity=cinema": "映画",
     "tag:amenity=clinic": "",
     "tag:amenity=clock": "時計",

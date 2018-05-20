@@ -54,6 +54,7 @@
     "tag:amenity=cafe": "Café",
     "tag:amenity=car_rental": "Location de voiture",
     "tag:amenity=car_sharing": "Partage de voiture",
+    "tag:amenity=charging_station": "",
     "tag:amenity=cinema": "Cinéma",
     "tag:amenity=clinic": "Clinique",
     "tag:amenity=clock": "Horloge",

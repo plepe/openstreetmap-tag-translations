@@ -75,6 +75,7 @@
     "tag:amenity=cafe": "",
     "tag:amenity=car_rental": "Прокат автомобилей",
     "tag:amenity=car_sharing": "",
+    "tag:amenity=charging_station": "",
     "tag:amenity=cinema": "Кинотеатр",
     "tag:amenity=clinic": "",
     "tag:amenity=clock": "Часы",

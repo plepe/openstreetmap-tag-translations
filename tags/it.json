@@ -75,6 +75,7 @@
     "tag:amenity=cafe": "",
     "tag:amenity=car_rental": "Autonoleggi",
     "tag:amenity=car_sharing": "Stazioni di Car Sharing",
+    "tag:amenity=charging_station": "",
     "tag:amenity=cinema": "Cinematografi",
     "tag:amenity=clinic": "",
     "tag:amenity=clock": "Orologi",

@@ -75,6 +75,7 @@
     "tag:amenity=cafe": "",
     "tag:amenity=car_rental": "Autoverhuur",
     "tag:amenity=car_sharing": "Autodelen",
+    "tag:amenity=charging_station": "",
     "tag:amenity=cinema": "Bioscoop",
     "tag:amenity=clinic": "",
     "tag:amenity=clock": "Klok",
