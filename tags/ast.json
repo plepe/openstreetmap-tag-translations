@@ -119,20 +119,6 @@
     "tag:amenity=parking": "Aparcaderu",
     "tag:amenity=pharmacy": "Farmacia",
     "tag:amenity=place_of_worship": "",
-    "tag:amenity=place_of_worship religion!=christian;jewish;muslim;sikh": "Llugar de cultu",
-    "tag:amenity=place_of_worship religion=christian": {
-        "!=1": "Ilesies",
-        "message": "Ilesia"
-    },
-    "tag:amenity=place_of_worship religion=jewish": {
-        "!=1": "Sinagogues",
-        "message": "Sinagoga"
-    },
-    "tag:amenity=place_of_worship religion=muslim": {
-        "!=1": "Mezquites",
-        "message": "Mezquita"
-    },
-    "tag:amenity=place_of_worship religion=sikh": "Gurdwara",
     "tag:amenity=police": "Policía",
     "tag:amenity=post_box": "Buzón",
     "tag:amenity=post_office": "Oficina de correos",
@@ -213,6 +199,28 @@
     "tag:bicycle": "Permisu d'accesu a bicicletes",
     "tag:boundary": "Llende",
     "tag:bridge": "Ponte",
+    "tag:building": "",
+    "tag:building=cathedral": "",
+    "tag:building=chapel": "",
+    "tag:building=church": "",
+    "tag:building=church religion=christian": {
+        "!=1": "Ilesies",
+        "message": "Ilesia"
+    },
+    "tag:building=mosque": "",
+    "tag:building=mosque religion=muslim": {
+        "!=1": "Mezquites",
+        "message": "Mezquita"
+    },
+    "tag:building=religious": "",
+    "tag:building=shrine": "",
+    "tag:building=synagogue": "",
+    "tag:building=synagogue religion=jewish": {
+        "!=1": "Sinagogues",
+        "message": "Sinagoga"
+    },
+    "tag:building=temple": "",
+    "tag:building=temple religion=sikh": "Gurdwara",
     "tag:cables": "Cables",
     "tag:capacity": "",
     "tag:charge": "Tarifa",
