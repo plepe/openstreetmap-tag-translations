@@ -75,6 +75,7 @@
     "tag:amenity=cafe": "",
     "tag:amenity=car_rental": "",
     "tag:amenity=car_sharing": "",
+    "tag:amenity=car_wash": "",
     "tag:amenity=charging_station": "",
     "tag:amenity=cinema": {
         "!=1": "Κινηματογράφοι",
@@ -340,6 +341,7 @@
     "tag:healthcare=clinic": "",
     "tag:healthcare=doctor": "",
     "tag:healthcare=laboratory": "",
+    "tag:healthcare=pharmacy": "",
     "tag:heritage=0": "",
     "tag:heritage=2": "",
     "tag:heritage=3": "",
@@ -423,6 +425,7 @@
     "tag:information=board": "",
     "tag:information=guidepost": "",
     "tag:information=map": "",
+    "tag:information=office": "",
     "tag:int_name": {
         "message": "Διεθνές όνομα",
         "!=1": "Διεθνή ονόματα"
@@ -931,6 +934,7 @@
     "tag:waterway=dam": "",
     "tag:waterway=ditch": "",
     "tag:waterway=divide": "",
+    "tag:waterway=drain": "",
     "tag:waterway=river": "",
     "tag:waterway=river width>10m;waterway=river est_width>10m": "Μεγάλο Ποτάμι",
     "tag:waterway=riverbank": "Όχθη Ποταμού",

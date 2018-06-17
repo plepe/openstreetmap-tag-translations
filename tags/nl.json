@@ -75,6 +75,7 @@
     "tag:amenity=cafe": "",
     "tag:amenity=car_rental": "Autoverhuur",
     "tag:amenity=car_sharing": "Autodelen",
+    "tag:amenity=car_wash": "",
     "tag:amenity=charging_station": "",
     "tag:amenity=cinema": "Bioscoop",
     "tag:amenity=clinic": "",
@@ -352,6 +353,7 @@
     "tag:healthcare=clinic": "",
     "tag:healthcare=doctor": "",
     "tag:healthcare=laboratory": "",
+    "tag:healthcare=pharmacy": "",
     "tag:heritage=0": "",
     "tag:heritage=2": "Rijksmonuments",
     "tag:heritage=3": "",
@@ -435,6 +437,7 @@
     "tag:information=board": "",
     "tag:information=guidepost": "",
     "tag:information=map": "",
+    "tag:information=office": "",
     "tag:int_name": {
         "message": "Internationale naam",
         "!=1": "Internationale namen"
@@ -937,6 +940,7 @@
     "tag:waterway=dam": "",
     "tag:waterway=ditch": "",
     "tag:waterway=divide": "",
+    "tag:waterway=drain": "",
     "tag:waterway=river": "Rivier",
     "tag:waterway=river width>10m;waterway=river est_width>10m": "Rivier",
     "tag:waterway=riverbank": "Rivierbedding",
