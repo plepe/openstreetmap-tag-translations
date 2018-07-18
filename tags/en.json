@@ -379,6 +379,7 @@
     "tag:ele": "Elevation",
     "tag:electrified": "",
     "tag:electrified=contact_line": "",
+    "tag:electrified=no": "not electrified",
     "tag:electrified=rail": "",
     "tag:email": "E-mail",
     "tag:embankment": "Embankment",

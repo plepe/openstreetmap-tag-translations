@@ -380,6 +380,7 @@
     "tag:ele": "Höhe",
     "tag:electrified": "",
     "tag:electrified=contact_line": "",
+    "tag:electrified=no": "nicht elektrifiziert",
     "tag:electrified=rail": "",
     "tag:email": "E-Mail",
     "tag:embankment": "",

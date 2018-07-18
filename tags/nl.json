@@ -379,6 +379,7 @@
     "tag:ele": "Hoogte",
     "tag:electrified": "",
     "tag:electrified=contact_line": "",
+    "tag:electrified=no": "",
     "tag:electrified=rail": "",
     "tag:email": "E-mail",
     "tag:embankment": "Dijk",

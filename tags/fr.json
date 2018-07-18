@@ -355,6 +355,7 @@
     "tag:ele": "Altitude",
     "tag:electrified": "Electrifié",
     "tag:electrified=contact_line": "Ligne de contact / Caténaire",
+    "tag:electrified=no": "",
     "tag:electrified=rail": "Rail électrifié",
     "tag:email": "E-mail",
     "tag:embankment": "Terre-plein",

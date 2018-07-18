@@ -379,6 +379,7 @@
     "tag:ele": "Altitude",
     "tag:electrified": "Eletrificado",
     "tag:electrified=contact_line": "rede aérea",
+    "tag:electrified=no": "",
     "tag:electrified=rail": "trilho eletrificado",
     "tag:email": "E-mail",
     "tag:embankment": "Aterro",
