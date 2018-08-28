@@ -488,7 +488,7 @@
     "tag:historic=locomotive": "",
     "tag:historic=manor": "",
     "tag:historic=memorial": "",
-    "tag:historic=memorial memorial=plaque": "",
+    "tag:historic=memorial memorial=plaque": "Commemorative plaque",
     "tag:historic=milestone": "",
     "tag:historic=mine": "",
     "tag:historic=monastery": "",
