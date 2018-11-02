@@ -67,6 +67,7 @@
     "tag:amenity=bicycle_parking capacity<=60 capacity>20": "Mittlerer Fahrradparkplatz",
     "tag:amenity=bicycle_parking capacity>60": "Großer Fahrradparkplatz",
     "tag:amenity=bicycle_rental": "Fahrradvermietungen",
+    "tag:amenity=biergarten": "",
     "tag:amenity=blood_bank": "",
     "tag:amenity=blood_donation": "",
     "tag:amenity=brothel": "Bordell",
@@ -596,6 +597,7 @@
     "tag:leisure=marina": "Yachthäfen",
     "tag:leisure=miniature_golf": "Minigolf",
     "tag:leisure=nature_reserve": "Naturschutzgebiete",
+    "tag:leisure=outdoor_seating": "",
     "tag:leisure=park": {
         "message": "Park",
         "!=1": "Parks",
