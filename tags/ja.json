@@ -131,6 +131,7 @@
     "tag:amenity=theatre": "劇場",
     "tag:amenity=ticket_counter": "切符売り場",
     "tag:amenity=toilets": "",
+    "tag:amenity=toilets diaper=yes": "",
     "tag:amenity=townhall": "市役所",
     "tag:amenity=university": "",
     "tag:amenity=vending_machine": "自動販売機",

@@ -152,6 +152,7 @@
     },
     "tag:amenity=ticket_counter": "Despachu de billetes",
     "tag:amenity=toilets": "",
+    "tag:amenity=toilets diaper=yes": "",
     "tag:amenity=townhall": "Casa del Conceyu",
     "tag:amenity=university": "",
     "tag:amenity=vending_machine": "Venta automática",

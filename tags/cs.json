@@ -137,6 +137,7 @@
     "tag:amenity=theatre": "Divadlo",
     "tag:amenity=ticket_counter": "",
     "tag:amenity=toilets": "",
+    "tag:amenity=toilets diaper=yes": "",
     "tag:amenity=townhall": "Radnice",
     "tag:amenity=university": "",
     "tag:amenity=vending_machine": "Automat",

@@ -137,6 +137,7 @@
     "tag:amenity=theatre": "Teatri",
     "tag:amenity=ticket_counter": "Biglietterie",
     "tag:amenity=toilets": "",
+    "tag:amenity=toilets diaper=yes": "",
     "tag:amenity=townhall": "Municipi",
     "tag:amenity=university": "",
     "tag:amenity=vending_machine": "Distributori automatici",

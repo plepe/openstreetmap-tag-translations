@@ -137,6 +137,7 @@
     "tag:amenity=theatre": "Theatres",
     "tag:amenity=ticket_counter": "Ticket Counter",
     "tag:amenity=toilets": "",
+    "tag:amenity=toilets diaper=yes": "",
     "tag:amenity=townhall": "Townhalls",
     "tag:amenity=university": "",
     "tag:amenity=vending_machine": "Торгівельні автомати",

@@ -140,6 +140,7 @@
     "tag:amenity=theatre": "Teatro",
     "tag:amenity=ticket_counter": "Balcão de ingressos",
     "tag:amenity=toilets": "Banheiros públicos",
+    "tag:amenity=toilets diaper=yes": "",
     "tag:amenity=townhall": "Prefeitura",
     "tag:amenity=university": "Universidade",
     "tag:amenity=vending_machine": "Máquina de vendas",

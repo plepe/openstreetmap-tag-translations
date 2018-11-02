@@ -116,6 +116,7 @@
     "tag:amenity=theatre": "Théatre",
     "tag:amenity=ticket_counter": "Billetterie",
     "tag:amenity=toilets": "Toilettes",
+    "tag:amenity=toilets diaper=yes": "",
     "tag:amenity=townhall": "Mairie",
     "tag:amenity=university": "Université",
     "tag:amenity=vending_machine": "Distributeur",
