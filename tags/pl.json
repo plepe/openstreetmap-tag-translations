@@ -1102,5 +1102,11 @@
     "tag:width": "Szerokość",
     "tag:wikipedia": "Wikipedia",
     "tag:wires": "Przewody",
-    "tag:wood": ""
+    "tag:wood": "",
+    "tag:xmas:feature": "",
+    "tag:xmas:feature=event": "",
+    "tag:xmas:feature=market": "",
+    "tag:xmas:feature=pyramid": "",
+    "tag:xmas:feature=shop": "",
+    "tag:xmas:feature=tree": ""
 }

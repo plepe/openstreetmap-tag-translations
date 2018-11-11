@@ -1138,5 +1138,11 @@
     "tag:width": "Anchura",
     "tag:wikipedia": "Uiquipedia",
     "tag:wires": "Cables",
-    "tag:wood": "Triba de viesca"
+    "tag:wood": "Triba de viesca",
+    "tag:xmas:feature": "",
+    "tag:xmas:feature=event": "",
+    "tag:xmas:feature=market": "",
+    "tag:xmas:feature=pyramid": "",
+    "tag:xmas:feature=shop": "",
+    "tag:xmas:feature=tree": ""
 }

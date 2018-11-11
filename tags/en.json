@@ -1099,5 +1099,11 @@
     "tag:width": "Width",
     "tag:wikipedia": "Wikipedia",
     "tag:wires": "Wires",
-    "tag:wood": "Type of wood"
+    "tag:wood": "Type of wood",
+    "tag:xmas:feature": "Christmas feature",
+    "tag:xmas:feature=event": "Christmas Event",
+    "tag:xmas:feature=market": "Christmas market",
+    "tag:xmas:feature=pyramid": "Christmas pyramid",
+    "tag:xmas:feature=shop": "Christmas shop",
+    "tag:xmas:feature=tree": "Christmas tree"
 }

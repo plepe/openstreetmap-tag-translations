@@ -1054,5 +1054,11 @@
     "tag:width": "Largeur exacte",
     "tag:wikipedia": "Wikipédia",
     "tag:wires": "Fils",
-    "tag:wood": "Type de végétation"
+    "tag:wood": "Type de végétation",
+    "tag:xmas:feature": "",
+    "tag:xmas:feature=event": "",
+    "tag:xmas:feature=market": "",
+    "tag:xmas:feature=pyramid": "",
+    "tag:xmas:feature=shop": "",
+    "tag:xmas:feature=tree": ""
 }

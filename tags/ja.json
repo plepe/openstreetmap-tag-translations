@@ -1090,5 +1090,11 @@
     "tag:width": "幅",
     "tag:wikipedia": "Wikipedia",
     "tag:wires": "ワイヤー数",
-    "tag:wood": "森林の種類"
+    "tag:wood": "森林の種類",
+    "tag:xmas:feature": "",
+    "tag:xmas:feature=event": "",
+    "tag:xmas:feature=market": "",
+    "tag:xmas:feature=pyramid": "",
+    "tag:xmas:feature=shop": "",
+    "tag:xmas:feature=tree": ""
 }

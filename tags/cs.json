@@ -1093,5 +1093,11 @@
     "tag:width": "Šířka",
     "tag:wikipedia": "Wikipedie",
     "tag:wires": "Dráty",
-    "tag:wood": "Druh lesa"
+    "tag:wood": "Druh lesa",
+    "tag:xmas:feature": "",
+    "tag:xmas:feature=event": "",
+    "tag:xmas:feature=market": "",
+    "tag:xmas:feature=pyramid": "",
+    "tag:xmas:feature=shop": "",
+    "tag:xmas:feature=tree": ""
 }

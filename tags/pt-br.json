@@ -1099,5 +1099,11 @@
     "tag:width": "Largura",
     "tag:wikipedia": "Wikipédia",
     "tag:wires": "Fios",
-    "tag:wood": "Tipo de mata"
+    "tag:wood": "Tipo de mata",
+    "tag:xmas:feature": "",
+    "tag:xmas:feature=event": "",
+    "tag:xmas:feature=market": "",
+    "tag:xmas:feature=pyramid": "",
+    "tag:xmas:feature=shop": "",
+    "tag:xmas:feature=tree": ""
 }

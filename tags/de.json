@@ -1128,5 +1128,11 @@
     "tag:wood": {
         "message": "Holzart",
         "!=1": "Holzarten"
-    }
+    },
+    "tag:xmas:feature": "Weihnachtseinrichtung",
+    "tag:xmas:feature=event": "Weihnachtsevent",
+    "tag:xmas:feature=market": "Weihnachtsmarkt",
+    "tag:xmas:feature=pyramid": "Weihnachtspyramide",
+    "tag:xmas:feature=shop": "Weihnachtsgeschäft",
+    "tag:xmas:feature=tree": "Weihnachtsbaum"
 }

@@ -1105,5 +1105,11 @@
     "tag:width": "Larghezza",
     "tag:wikipedia": "Wikipedia",
     "tag:wires": "Cavi",
-    "tag:wood": "Tipo di essenza"
+    "tag:wood": "Tipo di essenza",
+    "tag:xmas:feature": "",
+    "tag:xmas:feature=event": "",
+    "tag:xmas:feature=market": "",
+    "tag:xmas:feature=pyramid": "",
+    "tag:xmas:feature=shop": "",
+    "tag:xmas:feature=tree": ""
 }

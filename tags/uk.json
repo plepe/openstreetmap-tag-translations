@@ -1132,5 +1132,11 @@
     "tag:width": "",
     "tag:wikipedia": "",
     "tag:wires": "Дроти",
-    "tag:wood": "Дерево"
+    "tag:wood": "Дерево",
+    "tag:xmas:feature": "",
+    "tag:xmas:feature=event": "",
+    "tag:xmas:feature=market": "",
+    "tag:xmas:feature=pyramid": "",
+    "tag:xmas:feature=shop": "",
+    "tag:xmas:feature=tree": ""
 }
