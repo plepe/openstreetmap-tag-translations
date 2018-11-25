@@ -4,6 +4,8 @@
     "tag:abandoned": "",
     "tag:abutters": "Frontisti",
     "tag:access": "Permesso generale di accesso",
+    "tag:access!=private": "",
+    "tag:access=private": "",
     "tag:accomodation": "Alloggio",
     "tag:addr:city": {
         "message": "Città",

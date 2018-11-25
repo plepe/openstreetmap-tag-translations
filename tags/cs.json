@@ -4,6 +4,8 @@
     "tag:abandoned": "",
     "tag:abutters": "",
     "tag:access": "Neomezeý přístup",
+    "tag:access!=private": "",
+    "tag:access=private": "",
     "tag:accomodation": "Ubytování",
     "tag:addr:city": {
         "message": "Město",

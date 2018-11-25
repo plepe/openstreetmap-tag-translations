@@ -4,6 +4,8 @@
     "tag:abandoned": "",
     "tag:abutters": "Alredores",
     "tag:access": "Permisu d'accesu xeneral",
+    "tag:access!=private": "",
+    "tag:access=private": "",
     "tag:accomodation": "Agospiamientu",
     "tag:addr:city": {
         "message": "Ciudá",

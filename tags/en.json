@@ -4,6 +4,8 @@
     "tag:abandoned": "",
     "tag:abutters": "Abutters",
     "tag:access": "General access permission",
+    "tag:access!=private": "non-private",
+    "tag:access=private": "private",
     "tag:accomodation": "Accomodation",
     "tag:addr:city": {
         "message": "City",

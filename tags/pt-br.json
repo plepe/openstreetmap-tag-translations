@@ -4,6 +4,8 @@
     "tag:abandoned": "Abandonado",
     "tag:abutters": "Uso da via",
     "tag:access": "Permissão de acesso geral",
+    "tag:access!=private": "",
+    "tag:access=private": "",
     "tag:accomodation": "Acomodação",
     "tag:addr:city": {
         "message": "Cidade",

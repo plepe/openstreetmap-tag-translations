@@ -4,6 +4,8 @@
     "tag:abandoned": "",
     "tag:abutters": "",
     "tag:access": "Algemene toegangsrechten",
+    "tag:access!=private": "",
+    "tag:access=private": "",
     "tag:accomodation": "Accomodatie",
     "tag:addr:city": {
         "message": "Stad",

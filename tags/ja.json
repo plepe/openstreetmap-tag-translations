@@ -4,6 +4,8 @@
     "tag:abandoned": "",
     "tag:abutters": "沿道",
     "tag:access": "通行制限全般",
+    "tag:access!=private": "",
+    "tag:access=private": "",
     "tag:accomodation": "宿泊",
     "tag:addr:city": {
         "message": "都市",

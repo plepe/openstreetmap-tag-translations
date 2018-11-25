@@ -4,6 +4,8 @@
     "tag:abandoned": "",
     "tag:abutters": "",
     "tag:access": "Γενικοί κανόνες πρόσβασης",
+    "tag:access!=private": "",
+    "tag:access=private": "",
     "tag:accomodation": "Διαμονή",
     "tag:addr:city": {
         "message": "Πόλη",

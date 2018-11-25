@@ -4,6 +4,8 @@
     "tag:abandoned": "",
     "tag:abutters": "",
     "tag:access": "",
+    "tag:access!=private": "",
+    "tag:access=private": "",
     "tag:accomodation": "Szállás",
     "tag:addr:city": "",
     "tag:addr:country": "",

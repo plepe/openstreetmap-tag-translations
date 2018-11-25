@@ -4,6 +4,8 @@
     "tag:abandoned": "Abandonné.e",
     "tag:abutters": "Environnement",
     "tag:access": "Accès",
+    "tag:access!=private": "",
+    "tag:access=private": "",
     "tag:accomodation": "Hébergement",
     "tag:addr:city": "Ville",
     "tag:addr:country": "Pays",

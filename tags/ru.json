@@ -4,6 +4,8 @@
     "tag:abandoned": "",
     "tag:abutters": "Прилегающий район",
     "tag:access": "",
+    "tag:access!=private": "",
+    "tag:access=private": "",
     "tag:accomodation": "Жильё",
     "tag:addr:city": {
         "message": "Город",
