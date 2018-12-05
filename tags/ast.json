@@ -1090,6 +1090,7 @@
     "tag:tourism=motel": "Motel",
     "tag:tourism=museum": "",
     "tag:tourism=picnic_site": "",
+    "tag:tourism=spa_resort": "",
     "tag:tourism=theme_park": {
         "!=1": "Parques temáticos",
         "message": "Parque temáticu"
