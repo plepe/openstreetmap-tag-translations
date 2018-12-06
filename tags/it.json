@@ -131,6 +131,7 @@
     },
     "tag:amenity=school": "Scuole",
     "tag:amenity=shelter": "",
+    "tag:amenity=shower": "",
     "tag:amenity=signpost": "Segnavia",
     "tag:amenity=social_facility": "",
     "tag:amenity=studio": "",

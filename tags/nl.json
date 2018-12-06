@@ -131,6 +131,7 @@
     },
     "tag:amenity=school": "School",
     "tag:amenity=shelter": "",
+    "tag:amenity=shower": "",
     "tag:amenity=signpost": "Wegwijzer",
     "tag:amenity=social_facility": "",
     "tag:amenity=studio": "",

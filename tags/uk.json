@@ -131,6 +131,7 @@
     },
     "tag:amenity=school": "Schools",
     "tag:amenity=shelter": "",
+    "tag:amenity=shower": "",
     "tag:amenity=signpost": "Signposts",
     "tag:amenity=social_facility": "",
     "tag:amenity=studio": "",

@@ -131,6 +131,7 @@
     },
     "tag:amenity=school": "Schulen",
     "tag:amenity=shelter": "Unterstand",
+    "tag:amenity=shower": "Dusche",
     "tag:amenity=signpost": "Wegweiser",
     "tag:amenity=social_facility": "Sozialeinrichtung",
     "tag:amenity=studio": "",

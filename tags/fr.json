@@ -110,6 +110,7 @@
     },
     "tag:amenity=school": "École",
     "tag:amenity=shelter": "Abri",
+    "tag:amenity=shower": "",
     "tag:amenity=signpost": "Panneau indicateur",
     "tag:amenity=social_facility": "Services sociaux",
     "tag:amenity=studio": "Studio",

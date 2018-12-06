@@ -125,6 +125,7 @@
     "tag:amenity=restaurant": "レストラン",
     "tag:amenity=school": "学校",
     "tag:amenity=shelter": "",
+    "tag:amenity=shower": "",
     "tag:amenity=signpost": "標識",
     "tag:amenity=social_facility": "",
     "tag:amenity=studio": "",

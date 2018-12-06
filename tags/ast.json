@@ -140,6 +140,7 @@
     },
     "tag:amenity=school": "Escuela",
     "tag:amenity=shelter": "",
+    "tag:amenity=shower": "",
     "tag:amenity=signpost": {
         "!=1": "Señales",
         "message": "Señal"

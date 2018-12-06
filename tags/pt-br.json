@@ -134,6 +134,7 @@
     },
     "tag:amenity=school": "Escola",
     "tag:amenity=shelter": "Abrigo contra o tempo",
+    "tag:amenity=shower": "",
     "tag:amenity=signpost": "Poste de sinalização",
     "tag:amenity=social_facility": "Unidade de assistência social",
     "tag:amenity=studio": "Estúdio",
