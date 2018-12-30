@@ -852,6 +852,7 @@
     "tag:route=bicycle": "Bicycle",
     "tag:route=bus": "Bus",
     "tag:route=ferry": "Ferry",
+    "tag:route=fitness_trail": "Fitness trail",
     "tag:route=hiking": "Hiking",
     "tag:route=light_rail": "Light Rail",
     "tag:route=minibus": "Minibus",
