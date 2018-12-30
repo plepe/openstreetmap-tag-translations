@@ -167,7 +167,10 @@
     "tag:amenity=waste_basket": "",
     "tag:amenity=waste_disposal": "",
     "tag:amenity=waste_transfer_station": "",
+    "tag:architect": "Architect",
     "tag:area": "Area",
+    "tag:artist": "Artist",
+    "tag:artist_name": "Artist",
     "tag:barrier": {
         "message": "Barrier",
         "!=1": "Barriers"
@@ -202,6 +205,7 @@
     "tag:bath:type=thermal": "",
     "tag:bicycle": "Bicycle access permission",
     "tag:boundary": "Boundary",
+    "tag:brand": "Brand",
     "tag:bridge": "Bridge",
     "tag:building": "Building",
     "tag:building:levels": "levels",
@@ -654,6 +658,7 @@
         "message": "Name",
         "!=1": "Names"
     },
+    "tag:name:etymology": "Etymology of name",
     "tag:narrow": "Narrow",
     "tag:natural": "Natural",
     "tag:natural=beach": "",
@@ -996,6 +1001,7 @@
     "tag:smoking=separated": "",
     "tag:smoothness": "Smoothness",
     "tag:source": "Source",
+    "tag:species": "Species",
     "tag:sport": "Sport",
     "tag:sport=10pin": "10pin Bowling",
     "tag:sport=9pin": "9pin Bowling",
@@ -1044,6 +1050,7 @@
     "tag:sport=tennis": "Tennis",
     "tag:sport=volleyball": "Volleyball",
     "tag:start_date": "Date of creation",
+    "tag:subject": "Subject",
     "tag:surface": "Surface",
     "tag:tactile_paving": "Tactile paving",
     "tag:toll": "Toll",
