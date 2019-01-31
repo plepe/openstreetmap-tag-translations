@@ -104,6 +104,7 @@
     "tag:amenity=fire_hydrant fire_hydrant:type=pillar, emergency=fire_hydrant fire_hydrant:type=pillar": "Boca d'incendios en pilar",
     "tag:amenity=fire_hydrant fire_hydrant:type=underground, emergency=fire_hydrant fire_hydrant:type=underground": "Boca d'incendios soterrada",
     "tag:amenity=fire_station": "Parque de bomberos",
+    "tag:amenity=food_court": "",
     "tag:amenity=fountain": {
         "!=1": "Fontes",
         "message": "Fonte"
@@ -432,6 +433,9 @@
     "tag:craft=winery": "",
     "tag:created_by": "Creáu por",
     "tag:cuisine": "Cocina",
+    "tag:cuisine/dessert": "",
+    "tag:cuisine/ethnicity": "",
+    "tag:cuisine/food": "",
     "tag:cuisine=afghan": "",
     "tag:cuisine=arab": "",
     "tag:cuisine=asian": "",
