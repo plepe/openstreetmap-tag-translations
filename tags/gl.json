@@ -1,1 +1,47 @@
-{}
+{
+    "tag:*=no": {
+        "message": "non"
+    },
+    "tag:*=yes": {
+        "message": "si"
+    },
+    "tag:abandoned": {
+        "message": "Abandonado",
+        "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
+    },
+    "tag:access": {
+        "message": "Permiso de acceso xeral",
+        "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
+    },
+    "tag:access!=private": {
+        "message": "non privado"
+    },
+    "tag:access=private": {
+        "message": "privado",
+        "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
+    },
+    "tag:addr:city": {
+        "message": "Cidade",
+        "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
+    },
+    "tag:addr:country": {
+        "message": "País",
+        "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
+    },
+    "tag:addr:full": {
+        "message": "Enderezo completo",
+        "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
+    },
+    "tag:addr:housename": {
+        "message": "Nome do edificio",
+        "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
+    },
+    "tag:addr:housenumber": {
+        "message": "Número do edificio",
+        "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
+    },
+    "tag:addr:interpolation": {
+        "message": "Números interpolados",
+        "description": "Key \"addr:interpolation\". See https://wiki.openstreetmap.org/wiki/Key:addr:interpolation"
+    }
+}
