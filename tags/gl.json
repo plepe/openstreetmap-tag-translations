@@ -43,5 +43,61 @@
     "tag:addr:interpolation": {
         "message": "Números interpolados",
         "description": "Key \"addr:interpolation\". See https://wiki.openstreetmap.org/wiki/Key:addr:interpolation"
+    },
+    "tag:addr:postcode": {
+        "message": "Código postal",
+        "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
+    },
+    "tag:addr:street": {
+        "message": "Rúa",
+        "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
+    },
+    "tag:address": {
+        "message": "Enderezo",
+        "description": "Key \"address\". See https://wiki.openstreetmap.org/wiki/Key:address"
+    },
+    "tag:admin_level": {
+        "message": "Nivel administrativo",
+        "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
+    },
+    "tag:admin_level=10": {
+        "message": "Barrio (10)",
+        "description": "Tag \"admin_level=10\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=10"
+    },
+    "tag:admin_level=11": {
+        "message": "Veciñanza (11)",
+        "description": "Tag \"admin_level=11\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=11"
+    },
+    "tag:admin_level=2": {
+        "message": "Fronteira nacional (2)",
+        "description": "Tag \"admin_level=2\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=2"
+    },
+    "tag:admin_level=3": {
+        "message": "Nivel (3)",
+        "description": "Tag \"admin_level=3\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=3"
+    },
+    "tag:admin_level=4": {
+        "message": "Fronteira de autonomía (4)",
+        "description": "Tag \"admin_level=4\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=4"
+    },
+    "tag:admin_level=5": {
+        "message": "Nivel (5)",
+        "description": "Tag \"admin_level=5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=5"
+    },
+    "tag:admin_level=6": {
+        "message": "Provincia (6)",
+        "description": "Tag \"admin_level=6\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=6"
+    },
+    "tag:admin_level=7": {
+        "message": "Comarca (7)",
+        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
+    },
+    "tag:admin_level=8": {
+        "message": "Concello (8)",
+        "description": "Tag \"admin_level=8\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=8"
+    },
+    "tag:admin_level=9": {
+        "message": "Parroquia (9)",
+        "description": "Tag \"admin_level=9\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=9"
     }
 }
