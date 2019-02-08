@@ -1,27 +1,27 @@
 {
     "tag:*=no": {
-        "message": ""
+        "message": "nincs"
     },
     "tag:*=yes": {
-        "message": ""
+        "message": "van"
     },
     "tag:abandoned": {
-        "message": "",
+        "message": "Elhagyott",
         "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
     },
     "tag:abutters": {
-        "message": "",
+        "message": "Út menti terület használata",
         "description": "Key \"abutters\". See https://wiki.openstreetmap.org/wiki/Key:abutters"
     },
     "tag:access": {
-        "message": "",
+        "message": "Általánosan használható",
         "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
     },
     "tag:access!=private": {
-        "message": ""
+        "message": "nem magánterület"
     },
     "tag:access=private": {
-        "message": "",
+        "message": "magánterület",
         "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
     },
     "tag:accomodation": {
@@ -29,19 +29,19 @@
         "description": "Key \"accomodation\". See https://wiki.openstreetmap.org/wiki/Key:accomodation"
     },
     "tag:addr:city": {
-        "message": "",
+        "message": "Település",
         "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
     },
     "tag:addr:country": {
-        "message": "",
+        "message": "Ország",
         "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
     },
     "tag:addr:full": {
-        "message": "",
+        "message": "Teljes cím",
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
-        "message": "",
+        "message": "Háznév",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
@@ -49,15 +49,15 @@
         "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
     },
     "tag:addr:interpolation": {
-        "message": "",
+        "message": "Interpolált házszámok",
         "description": "Key \"addr:interpolation\". See https://wiki.openstreetmap.org/wiki/Key:addr:interpolation"
     },
     "tag:addr:postcode": {
-        "message": "",
+        "message": "Irányítószám",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
-        "message": "",
+        "message": "Utca",
         "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
     },
     "tag:address": {
@@ -65,7 +65,7 @@
         "description": "Key \"address\". See https://wiki.openstreetmap.org/wiki/Key:address"
     },
     "tag:admin_level": {
-        "message": "",
+        "message": "Közigazgatási szint",
         "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
     },
     "tag:admin_level=10": {
@@ -73,31 +73,31 @@
         "description": "Tag \"admin_level=10\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=10"
     },
     "tag:admin_level=11": {
-        "message": "",
+        "message": "Kerületrész",
         "description": "Tag \"admin_level=11\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=11"
     },
     "tag:admin_level=2": {
-        "message": "Országhatár",
+        "message": "Ország",
         "description": "Tag \"admin_level=2\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=2"
     },
     "tag:admin_level=3": {
-        "message": "",
+        "message": "Nagyrégió",
         "description": "Tag \"admin_level=3\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=3"
     },
     "tag:admin_level=4": {
-        "message": "Országrész határ",
+        "message": "Országrész",
         "description": "Tag \"admin_level=4\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=4"
     },
     "tag:admin_level=5": {
-        "message": "Régió határ",
+        "message": "Régió",
         "description": "Tag \"admin_level=5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=5"
     },
     "tag:admin_level=6": {
-        "message": "Megye határ",
+        "message": "Megye",
         "description": "Tag \"admin_level=6\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=6"
     },
     "tag:admin_level=7": {
-        "message": "Kistérség",
+        "message": "Járás, kistérség",
         "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=7.5": {
@@ -109,148 +109,147 @@
         "description": "Tag \"admin_level=8\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=8"
     },
     "tag:admin_level=9": {
-        "message": "",
+        "message": "Kerület",
         "description": "Tag \"admin_level=9\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=9"
     },
     "tag:aerialway": {
-        "message": "",
+        "message": "Kötélpályás felvonó",
         "description": "Key \"aerialway\". See https://wiki.openstreetmap.org/wiki/Key:aerialway"
     },
     "tag:aeroway": {
-        "message": "",
+        "message": "Légi közlekedés",
         "description": "Key \"aeroway\". See https://wiki.openstreetmap.org/wiki/Key:aeroway"
     },
     "tag:aeroway=runway": {
-        "message": "",
+        "message": "Kifutópálya",
         "description": "Tag \"aeroway=runway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=runway"
     },
     "tag:aeroway=taxiway": {
-        "message": "",
+        "message": "Gurulóút",
         "description": "Tag \"aeroway=taxiway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=taxiway"
     },
     "tag:alt_name": {
-        "message": "",
+        "message": "Alternatív név",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
-        "message": "Vendéglátás",
+        "message": "Hasznos létesítmény",
         "description": "Key \"amenity\". See https://wiki.openstreetmap.org/wiki/Key:amenity"
     },
     "tag:amenity=arts_centre": {
-        "message": "",
+        "message": "Művészeti központ",
         "description": "Tag \"amenity=arts_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=arts_centre"
     },
     "tag:amenity=atm": {
-        "message": "",
+        "message": "Bankautomata",
         "description": "Tag \"amenity=atm\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=atm"
     },
     "tag:amenity=baby_hatch": {
-        "message": "",
+        "message": "Inkubátor",
         "description": "Tag \"amenity=baby_hatch\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=baby_hatch"
     },
     "tag:amenity=bank": {
-        "message": "",
+        "message": "Bank",
         "description": "Tag \"amenity=bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bank"
     },
     "tag:amenity=bar": {
-        "message": "",
+        "message": "Bár",
         "description": "Tag \"amenity=bar\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bar"
     },
     "tag:amenity=bench": {
-        "message": "",
+        "message": "Pad",
         "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
     },
     "tag:amenity=bicycle_parking": {
-        "message": "",
+        "message": "Kerékpártároló",
         "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
     },
     "tag:amenity=bicycle_parking capacity<=20": {
-        "message": "",
+        "message": "Kis kerékpártároló (legfeljebb 20 hely)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>20<=60": {
-        "message": "",
+        "message": "Közepes kerékpártároló (20–60 hely)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>60": {
-        "message": "",
+        "message": "Nagy kerékpártároló (több mint 60 hely)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_rental": {
-        "message": "",
+        "message": "Kerékpárkölcsönző",
         "description": "Tag \"amenity=bicycle_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_rental"
     },
     "tag:amenity=biergarten": {
-        "message": "",
+        "message": "Sörkert",
         "description": "Tag \"amenity=biergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=biergarten"
     },
     "tag:amenity=blood_bank": {
-        "message": "",
+        "message": "Vérellátó központ",
         "description": "Tag \"amenity=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=blood_bank"
     },
     "tag:amenity=blood_donation": {
-        "message": "",
+        "message": "Véradó állomás",
         "description": "Tag \"amenity=blood_donation\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=blood_donation"
     },
     "tag:amenity=brothel": {
-        "message": "",
+        "message": "Bordély",
         "description": "Tag \"amenity=brothel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=brothel"
     },
     "tag:amenity=bureau_de_change": {
-        "message": "",
+        "message": "Pénzváltó",
         "description": "Tag \"amenity=bureau_de_change\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bureau_de_change"
     },
     "tag:amenity=bus_station": {
-        "message": "",
+        "message": "Autóbuszállomás",
         "description": "Tag \"amenity=bus_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bus_station"
     },
     "tag:amenity=cafe": {
-        "message": "",
+        "message": "Kávézó",
         "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
     },
     "tag:amenity=car_rental": {
-        "message": "",
+        "message": "Autókölcsönző",
         "description": "Tag \"amenity=car_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_rental"
     },
     "tag:amenity=car_sharing": {
-        "message": "",
+        "message": "Autómegosztó",
         "description": "Tag \"amenity=car_sharing\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_sharing"
     },
     "tag:amenity=car_wash": {
-        "message": "",
+        "message": "Autómosó",
         "description": "Tag \"amenity=car_wash\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_wash"
     },
     "tag:amenity=charging_station": {
-        "message": "",
+        "message": "Elektromos töltőállomás",
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
     "tag:amenity=cinema": {
         "message": "Mozi",
-        "!=1": "Mozik",
         "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
     },
     "tag:amenity=clinic": {
-        "message": "",
+        "message": "Rendelőintézet",
         "description": "Tag \"amenity=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clinic"
     },
     "tag:amenity=clock": {
-        "message": "",
+        "message": "Óra",
         "description": "Tag \"amenity=clock\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clock"
     },
     "tag:amenity=college": {
-        "message": "",
+        "message": "Főiskola",
         "description": "Tag \"amenity=college\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=college"
     },
     "tag:amenity=community_centre": {
-        "message": "",
+        "message": "Közösségi ház",
         "description": "Tag \"amenity=community_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=community_centre"
     },
     "tag:amenity=compressed_air": {
-        "message": "",
+        "message": "Sűrített levegő",
         "description": "Tag \"amenity=compressed_air\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=compressed_air"
     },
     "tag:amenity=courthouse": {
-        "message": "",
+        "message": "Bíróság",
         "description": "Tag \"amenity=courthouse\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=courthouse"
     },
     "tag:amenity=crematorium": {
@@ -367,7 +366,6 @@
     },
     "tag:amenity=pub": {
         "message": "Kocsma",
-        "!=1": "Kocsmák",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
@@ -388,7 +386,6 @@
     },
     "tag:amenity=restaurant": {
         "message": "Étterem",
-        "!=1": "Éttermek",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
@@ -968,7 +965,7 @@
         "description": "Tag \"building=water_tower\". See https://wiki.openstreetmap.org/wiki/Tag:building=water_tower"
     },
     "tag:cables": {
-        "message": "Vezetékek",
+        "message": "Vezetékek száma",
         "description": "Key \"cables\". See https://wiki.openstreetmap.org/wiki/Key:cables"
     },
     "tag:capacity": {
@@ -1889,7 +1886,7 @@
         "description": "Key \"fixme\". See https://wiki.openstreetmap.org/wiki/Key:fixme"
     },
     "tag:food": {
-        "message": "Lehet ennivalót kapni",
+        "message": "Ennivaló kapható",
         "description": "Key \"food\". See https://wiki.openstreetmap.org/wiki/Key:food"
     },
     "tag:foot": {
@@ -2030,7 +2027,6 @@
     },
     "tag:highway": {
         "message": "Út",
-        "!=1": "Utak",
         "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
     },
     "tag:highway=bridleway": {
@@ -2094,7 +2090,7 @@
         "description": "Tag \"highway=path\". See https://wiki.openstreetmap.org/wiki/Tag:highway=path"
     },
     "tag:highway=pedestrian": {
-        "message": "Gyalogos terület",
+        "message": "Sétálóutca",
         "description": "Tag \"highway=pedestrian\". See https://wiki.openstreetmap.org/wiki/Tag:highway=pedestrian"
     },
     "tag:highway=platform": {
@@ -2266,7 +2262,7 @@
         "description": "Tag \"historic=cannon\". See https://wiki.openstreetmap.org/wiki/Tag:historic=cannon"
     },
     "tag:historic=castle": {
-        "message": "Kastély",
+        "message": "Vár",
         "description": "Tag \"historic=castle\". See https://wiki.openstreetmap.org/wiki/Tag:historic=castle"
     },
     "tag:historic=church": {
@@ -2490,7 +2486,7 @@
         "description": "Combined tag \"internet_access=wlan\" and \"internet_access:fee=yes\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=wlan and https://wiki.openstreetmap.org/wiki/Tag:internet_access:fee=yes"
     },
     "tag:is_in": {
-        "message": "Ebben van: ",
+        "message": "Itt van:",
         "description": "Key \"is_in\". See https://wiki.openstreetmap.org/wiki/Key:is_in"
     },
     "tag:kids_area": {
@@ -2502,7 +2498,7 @@
         "description": "Key \"landuse\". See https://wiki.openstreetmap.org/wiki/Key:landuse"
     },
     "tag:landuse=allotments": {
-        "message": "Kertek",
+        "message": "Kiskertek",
         "description": "Tag \"landuse=allotments\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=allotments"
     },
     "tag:landuse=basin": {
@@ -2522,11 +2518,11 @@
         "description": "Tag \"landuse=construction\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=construction"
     },
     "tag:landuse=farmland": {
-        "message": "Mezőgazdaság terület",
+        "message": "Mezőgazdasági terület",
         "description": "Tag \"landuse=farmland\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=farmland"
     },
     "tag:landuse=farmyard": {
-        "message": "Farm, telephely",
+        "message": "Tanyaudvar",
         "description": "Tag \"landuse=farmyard\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=farmyard"
     },
     "tag:landuse=forest": {
@@ -2574,7 +2570,7 @@
         "description": "Tag \"landuse=quarry\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=quarry"
     },
     "tag:landuse=railway": {
-        "message": "Vasútvonal",
+        "message": "Vasúti terület",
         "description": "Tag \"landuse=railway\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=railway"
     },
     "tag:landuse=recreation_ground": {
@@ -2594,7 +2590,7 @@
         "description": "Tag \"landuse=salt_pond\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=salt_pond"
     },
     "tag:landuse=vineyard": {
-        "message": "Szöllőültetvény",
+        "message": "Szőlő",
         "description": "Tag \"landuse=vineyard\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=vineyard"
     },
     "tag:lanes": {
@@ -2722,7 +2718,7 @@
         "description": "Tag \"leisure=slipway\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=slipway"
     },
     "tag:leisure=sport": {
-        "message": "OEgyéb sport",
+        "message": "Egyéb sport",
         "description": "Tag \"leisure=sport\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sport"
     },
     "tag:leisure=sports_centre": {
@@ -3107,7 +3103,6 @@
     },
     "tag:name": {
         "message": "Név",
-        "!=1": "Nevek",
         "description": "Key \"name\". See https://wiki.openstreetmap.org/wiki/Key:name"
     },
     "tag:name:etymology": {
@@ -3123,7 +3118,7 @@
         "description": "Key \"natural\". See https://wiki.openstreetmap.org/wiki/Key:natural"
     },
     "tag:natural=beach": {
-        "message": "Strand",
+        "message": "Természetes strand",
         "description": "Tag \"natural=beach\". See https://wiki.openstreetmap.org/wiki/Tag:natural=beach"
     },
     "tag:natural=cave_entrance": {
@@ -3211,7 +3206,7 @@
         "description": "Tag \"natural=water\". See https://wiki.openstreetmap.org/wiki/Tag:natural=water"
     },
     "tag:natural=wetland": {
-        "message": "Mocsár",
+        "message": "Vizenyős terület",
         "description": "Tag \"natural=wetland\". See https://wiki.openstreetmap.org/wiki/Tag:natural=wetland"
     },
     "tag:natural=wood": {
@@ -3471,7 +3466,7 @@
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
-        "message": "régi név",
+        "message": "Korábbi név",
         "description": "Key \"old_name\". See https://wiki.openstreetmap.org/wiki/Key:old_name"
     },
     "tag:oneway": {
@@ -3483,11 +3478,11 @@
         "description": "Key \"opening_date\". See https://wiki.openstreetmap.org/wiki/Key:opening_date"
     },
     "tag:opening_hours": {
-        "message": "Nyitvatartás",
+        "message": "Nyitva tartás",
         "description": "Key \"opening_hours\". See https://wiki.openstreetmap.org/wiki/Key:opening_hours"
     },
     "tag:operator": {
-        "message": "Kezelő",
+        "message": "Üzemeltető",
         "description": "Key \"operator\". See https://wiki.openstreetmap.org/wiki/Key:operator"
     },
     "tag:payment": {
@@ -3588,7 +3583,6 @@
     },
     "tag:place=city": {
         "message": "Város",
-        "!=1": "Városok",
         "description": "Tag \"place=city\". See https://wiki.openstreetmap.org/wiki/Tag:place=city"
     },
     "tag:place=city population<200000": {
@@ -3617,7 +3611,6 @@
     },
     "tag:place=island": {
         "message": "Sziget",
-        "!=1": "Szigetek",
         "description": "Tag \"place=island\". See https://wiki.openstreetmap.org/wiki/Tag:place=island"
     },
     "tag:place=islet": {
@@ -3653,7 +3646,7 @@
         "description": "Tag \"place=sea\". See https://wiki.openstreetmap.org/wiki/Tag:place=sea"
     },
     "tag:place=state": {
-        "message": "Régió",
+        "message": "Tartomány, szövetségi állam",
         "description": "Tag \"place=state\". See https://wiki.openstreetmap.org/wiki/Tag:place=state"
     },
     "tag:place=suburb": {
@@ -3673,7 +3666,7 @@
         "description": "Tag \"place=village\". See https://wiki.openstreetmap.org/wiki/Tag:place=village"
     },
     "tag:population": {
-        "message": "népesség",
+        "message": "Népesség",
         "description": "Key \"population\". See https://wiki.openstreetmap.org/wiki/Key:population"
     },
     "tag:postal_code": {
@@ -3701,7 +3694,7 @@
         "description": "Tag \"power=converter\". See https://wiki.openstreetmap.org/wiki/Tag:power=converter"
     },
     "tag:power=generator": {
-        "message": "Erőmű",
+        "message": "Generátor",
         "description": "Tag \"power=generator\". See https://wiki.openstreetmap.org/wiki/Tag:power=generator"
     },
     "tag:power=heliostat": {
@@ -3757,7 +3750,7 @@
         "description": "Key \"power_source\". See https://wiki.openstreetmap.org/wiki/Key:power_source"
     },
     "tag:power_source=biofuel": {
-        "message": "Biohajtóanyag",
+        "message": "Bio-tüzelőanyag",
         "description": "Tag \"power_source=biofuel\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=biofuel"
     },
     "tag:power_source=coal": {
@@ -3765,19 +3758,19 @@
         "description": "Tag \"power_source=coal\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=coal"
     },
     "tag:power_source=fusion": {
-        "message": "Fúziós",
+        "message": "Fúzió",
         "description": "Tag \"power_source=fusion\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=fusion"
     },
     "tag:power_source=gas": {
-        "message": "Gáz",
+        "message": "Földgáz",
         "description": "Tag \"power_source=gas\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=gas"
     },
     "tag:power_source=geothermal": {
-        "message": "Geotermális",
+        "message": "Geotermikus",
         "description": "Tag \"power_source=geothermal\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=geothermal"
     },
     "tag:power_source=hydro": {
-        "message": "Vízi",
+        "message": "Víz",
         "description": "Tag \"power_source=hydro\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=hydro"
     },
     "tag:power_source=nuclear": {
@@ -3785,11 +3778,11 @@
         "description": "Tag \"power_source=nuclear\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=nuclear"
     },
     "tag:power_source=oil": {
-        "message": "Olay",
+        "message": "Kőolaj",
         "description": "Tag \"power_source=oil\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=oil"
     },
     "tag:power_source=photovoltaic": {
-        "message": "Napelemes",
+        "message": "Napelem",
         "description": "Tag \"power_source=photovoltaic\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=photovoltaic"
     },
     "tag:power_source=solar-thermal": {
@@ -3805,7 +3798,7 @@
         "description": "Tag \"power_source=waste\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=waste"
     },
     "tag:power_source=wave": {
-        "message": "Hullám",
+        "message": "Hullámzás",
         "description": "Tag \"power_source=wave\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=wave"
     },
     "tag:power_source=wind": {
@@ -3933,7 +3926,7 @@
         "description": "Combined tag \"railway=rail\" and \"usage=tourism\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail and https://wiki.openstreetmap.org/wiki/Tag:usage=tourism"
     },
     "tag:railway=station": {
-        "message": "Vasúti megálló",
+        "message": "Vasútállomás",
         "description": "Tag \"railway=station\". See https://wiki.openstreetmap.org/wiki/Tag:railway=station"
     },
     "tag:railway=subway": {
@@ -4149,7 +4142,7 @@
         "description": "Tag \"route=fitness_trail\". See https://wiki.openstreetmap.org/wiki/Tag:route=fitness_trail"
     },
     "tag:route=hiking": {
-        "message": "Túra",
+        "message": "Turistaút",
         "description": "Tag \"route=hiking\". See https://wiki.openstreetmap.org/wiki/Tag:route=hiking"
     },
     "tag:route=light_rail": {
@@ -4157,7 +4150,7 @@
         "description": "Tag \"route=light_rail\". See https://wiki.openstreetmap.org/wiki/Tag:route=light_rail"
     },
     "tag:route=minibus": {
-        "message": "Kisbusz",
+        "message": "Minibuszjárat",
         "description": "Tag \"route=minibus\". See https://wiki.openstreetmap.org/wiki/Tag:route=minibus"
     },
     "tag:route=monorail": {
@@ -4165,15 +4158,15 @@
         "description": "Tag \"route=monorail\". See https://wiki.openstreetmap.org/wiki/Tag:route=monorail"
     },
     "tag:route=mtb": {
-        "message": "Mountainbike",
+        "message": "Hegyikerékpáros-útvonal",
         "description": "Tag \"route=mtb\". See https://wiki.openstreetmap.org/wiki/Tag:route=mtb"
     },
     "tag:route=rail": {
-        "message": "Vasút",
+        "message": "Vasútvonal",
         "description": "Tag \"route=rail\". See https://wiki.openstreetmap.org/wiki/Tag:route=rail"
     },
     "tag:route=railway": {
-        "message": "Vasút",
+        "message": "Vasútvonal",
         "description": "Tag \"route=railway\". See https://wiki.openstreetmap.org/wiki/Tag:route=railway"
     },
     "tag:route=road": {
@@ -4181,15 +4174,15 @@
         "description": "Tag \"route=road\". See https://wiki.openstreetmap.org/wiki/Tag:route=road"
     },
     "tag:route=subway": {
-        "message": "Metró/földalatti",
+        "message": "Metróvonal",
         "description": "Tag \"route=subway\". See https://wiki.openstreetmap.org/wiki/Tag:route=subway"
     },
     "tag:route=train": {
-        "message": "Vasút",
+        "message": "Vonatjárat",
         "description": "Tag \"route=train\". See https://wiki.openstreetmap.org/wiki/Tag:route=train"
     },
     "tag:route=tram": {
-        "message": "Villamos",
+        "message": "Villamosvonal",
         "description": "Tag \"route=tram\". See https://wiki.openstreetmap.org/wiki/Tag:route=tram"
     },
     "tag:route=tram_bus": {
@@ -4197,11 +4190,11 @@
         "description": "Tag \"route=tram_bus\". See https://wiki.openstreetmap.org/wiki/Tag:route=tram_bus"
     },
     "tag:route=trolley": {
-        "message": "Trolibusz",
+        "message": "Trolibuszvonal",
         "description": "Tag \"route=trolley\". See https://wiki.openstreetmap.org/wiki/Tag:route=trolley"
     },
     "tag:route=trolleybus": {
-        "message": "Trolibusz",
+        "message": "Trolibuszvonal",
         "description": "Tag \"route=trolleybus\". See https://wiki.openstreetmap.org/wiki/Tag:route=trolleybus"
     },
     "tag:route_type": {
@@ -4797,7 +4790,7 @@
         "description": "Tag \"sport=diving\". See https://wiki.openstreetmap.org/wiki/Tag:sport=diving"
     },
     "tag:sport=dog_racing": {
-        "message": "Kutyafuttatás",
+        "message": "Kutyaverseny",
         "description": "Tag \"sport=dog_racing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=dog_racing"
     },
     "tag:sport=equestrian": {
@@ -4821,7 +4814,7 @@
         "description": "Tag \"sport=gymnastics\". See https://wiki.openstreetmap.org/wiki/Tag:sport=gymnastics"
     },
     "tag:sport=hockey": {
-        "message": "Hoki",
+        "message": "Valamilyen hoki",
         "description": "Tag \"sport=hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=hockey"
     },
     "tag:sport=horse_racing": {
@@ -4833,11 +4826,11 @@
         "description": "Tag \"sport=korfball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=korfball"
     },
     "tag:sport=motor": {
-        "message": "Motor",
+        "message": "Motorsport",
         "description": "Tag \"sport=motor\". See https://wiki.openstreetmap.org/wiki/Tag:sport=motor"
     },
     "tag:sport=multi": {
-        "message": "Többféle",
+        "message": "Több sportra is alkalmas",
         "description": "Tag \"sport=multi\". See https://wiki.openstreetmap.org/wiki/Tag:sport=multi"
     },
     "tag:sport=orienteering": {
@@ -4873,7 +4866,7 @@
         "description": "Tag \"sport=running\". See https://wiki.openstreetmap.org/wiki/Tag:sport=running"
     },
     "tag:sport=shooting": {
-        "message": "Célbalövés",
+        "message": "Lövészet",
         "description": "Tag \"sport=shooting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=shooting"
     },
     "tag:sport=skateboard": {
@@ -4881,7 +4874,7 @@
         "description": "Tag \"sport=skateboard\". See https://wiki.openstreetmap.org/wiki/Tag:sport=skateboard"
     },
     "tag:sport=skating": {
-        "message": "Korcsolyázás",
+        "message": "Korcsolya",
         "description": "Tag \"sport=skating\". See https://wiki.openstreetmap.org/wiki/Tag:sport=skating"
     },
     "tag:sport=skiing": {
@@ -5053,7 +5046,7 @@
         "description": "Tag \"tourism=hostel\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=hostel"
     },
     "tag:tourism=hotel": {
-        "message": "Hotel",
+        "message": "Szálloda",
         "description": "Tag \"tourism=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=hotel"
     },
     "tag:tourism=information": {
