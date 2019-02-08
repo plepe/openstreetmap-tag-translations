@@ -257,23 +257,23 @@
         "description": "Tag \"amenity=crematorium\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=crematorium"
     },
     "tag:amenity=dentist": {
-        "message": "",
+        "message": "Fogorvos",
         "description": "Tag \"amenity=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=dentist"
     },
     "tag:amenity=doctors": {
-        "message": "",
+        "message": "Orvos",
         "description": "Tag \"amenity=doctors\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=doctors"
     },
     "tag:amenity=drinking_water": {
-        "message": "",
+        "message": "Ivóvíz",
         "description": "Tag \"amenity=drinking_water\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=drinking_water"
     },
     "tag:amenity=embassy": {
-        "message": "",
+        "message": "Külképviselet (nagykövetség)",
         "description": "Tag \"amenity=embassy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=embassy"
     },
     "tag:amenity=fast_food": {
-        "message": "",
+        "message": "Gyorsétterem",
         "description": "Tag \"amenity=fast_food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fast_food"
     },
     "tag:amenity=ferry_terminal": {
