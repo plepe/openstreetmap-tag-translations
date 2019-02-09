@@ -6,7 +6,7 @@
         "message": "ja"
     },
     "tag:abandoned": {
-        "message": "",
+        "message": "verlassen",
         "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
     },
     "tag:abutters": {
@@ -21,7 +21,7 @@
         "message": ""
     },
     "tag:access=private": {
-        "message": "",
+        "message": "Privat",
         "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
     },
     "tag:accomodation": {
@@ -30,22 +30,18 @@
     },
     "tag:addr:city": {
         "message": "Stadt",
-        "!=1": "Städte",
         "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
     },
     "tag:addr:country": {
         "message": "Land",
-        "!=1": "Länder",
         "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
     },
     "tag:addr:full": {
         "message": "komplette Adresse",
-        "!=1": "komplette Adressen",
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
         "message": "Hausname",
-        "!=1": "Hausnamen",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
@@ -58,12 +54,10 @@
     },
     "tag:addr:postcode": {
         "message": "Postleitzahl",
-        "!=1": "Postleitzahlen",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
         "message": "Straße",
-        "!=1": "Straßen",
         "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
     },
     "tag:address": {
@@ -136,12 +130,10 @@
     },
     "tag:alt_name": {
         "message": "Alternativer Name",
-        "!=1": " Alternative Namen",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
         "message": "Einrichtung",
-        "!=1": "Einrichtungen",
         "description": "Key \"amenity\". See https://wiki.openstreetmap.org/wiki/Key:amenity"
     },
     "tag:amenity=arts_centre": {
@@ -169,7 +161,7 @@
         "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
     },
     "tag:amenity=bicycle_parking": {
-        "message": "",
+        "message": "Fahrradparkplatz",
         "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
     },
     "tag:amenity=bicycle_parking capacity<=20": {
@@ -197,7 +189,7 @@
         "description": "Tag \"amenity=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=blood_bank"
     },
     "tag:amenity=blood_donation": {
-        "message": "",
+        "message": "Blutspende",
         "description": "Tag \"amenity=blood_donation\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=blood_donation"
     },
     "tag:amenity=brothel": {
@@ -341,7 +333,7 @@
         "description": "Tag \"amenity=marketplace\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=marketplace"
     },
     "tag:amenity=motorcycle_parking": {
-        "message": "",
+        "message": "Motorradparkplatz",
         "description": "Tag \"amenity=motorcycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=motorcycle_parking"
     },
     "tag:amenity=nursing_home": {
@@ -374,7 +366,6 @@
     },
     "tag:amenity=pub": {
         "message": "Pub",
-        "!=1": "Pubs",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
@@ -390,12 +381,11 @@
         "description": "Tag \"amenity=public_building\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_building"
     },
     "tag:amenity=recycling": {
-        "message": "",
+        "message": "Recycling",
         "description": "Tag \"amenity=recycling\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=recycling"
     },
     "tag:amenity=restaurant": {
         "message": "Restaurant",
-        "!=1": "Restaurants",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
@@ -487,11 +477,11 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=news_papers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=news_papers"
     },
     "tag:amenity=vending_machine vending=parcel_mail_in": {
-        "message": "",
+        "message": "Packstation",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_mail_in"
     },
     "tag:amenity=vending_machine vending=parcel_pickup": {
-        "message": "",
+        "message": "Packstation",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_pickup\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_pickup"
     },
     "tag:amenity=vending_machine vending=parcel_pickup;parcel_mail_in": {
@@ -500,8 +490,6 @@
     },
     "tag:amenity=vending_machine vending=parking_tickets": {
         "message": "Parkscheinautomat",
-        "!=1": "Parkscheinautomaten",
-        "gender": "male",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets"
     },
     "tag:amenity=vending_machine vending=parking_tickets;public_transport_tickets": {
@@ -533,7 +521,7 @@
         "description": "Tag \"amenity=waste_basket\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_basket"
     },
     "tag:amenity=waste_disposal": {
-        "message": "",
+        "message": "mittelgroße Abfallbehälter für Haushalt- oder Industrieabfall",
         "description": "Tag \"amenity=waste_disposal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_disposal"
     },
     "tag:amenity=waste_transfer_station": {
@@ -558,32 +546,26 @@
     },
     "tag:barrier": {
         "message": "Barriere",
-        "!=1": "Barrieren",
         "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
     },
     "tag:barrier=city_wall": {
         "message": "Stadtmauer",
-        "!=1": "Stadtmauern",
         "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
     },
     "tag:barrier=fence": {
         "message": "Zaun",
-        "!=1": "Zäune",
         "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
     },
     "tag:barrier=hedge": {
         "message": "Hecke",
-        "!=1": "Hecken",
         "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
     },
     "tag:barrier=retaining_wall": {
         "message": "Stützmauer",
-        "!=1": "Stützmauern",
         "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
     },
     "tag:barrier=wall": {
         "message": "Mauer",
-        "!=1": "Mauern",
         "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
     },
     "tag:bath:open_air": {
@@ -2045,7 +2027,6 @@
     },
     "tag:highway": {
         "message": "Straße",
-        "!=1": "Straßen",
         "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
     },
     "tag:highway=bridleway": {
@@ -2466,7 +2447,6 @@
     },
     "tag:int_name": {
         "message": "Internationaler Name",
-        "!=1": "Internationale Namen",
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
     "tag:internet_access=public": {
@@ -2715,8 +2695,6 @@
     },
     "tag:leisure=park": {
         "message": "Park",
-        "!=1": "Parks",
-        "gender": "male",
         "description": "Tag \"leisure=park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=park"
     },
     "tag:leisure=picnic_table": {
@@ -2725,7 +2703,6 @@
     },
     "tag:leisure=pitch": {
         "message": "Spielfeld",
-        "!=1": "Spielfelder",
         "description": "Tag \"leisure=pitch\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch"
     },
     "tag:leisure=playground": {
@@ -2782,7 +2759,6 @@
     },
     "tag:loc_name": {
         "message": "Lokaler Name",
-        "!=1": " Lokale Namen",
         "description": "Key \"loc_name\". See https://wiki.openstreetmap.org/wiki/Key:loc_name"
     },
     "tag:man_made": {
@@ -3127,7 +3103,6 @@
     },
     "tag:name": {
         "message": "Name",
-        "!=1": "Namen",
         "description": "Key \"name\". See https://wiki.openstreetmap.org/wiki/Key:name"
     },
     "tag:name:etymology": {
@@ -3488,7 +3463,6 @@
     },
     "tag:official_name": {
         "message": "Offizieller Name",
-        "!=1": "Offizielle Namen",
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
@@ -3605,12 +3579,10 @@
     },
     "tag:place": {
         "message": "Ort",
-        "!=1": "Orte",
         "description": "Key \"place\". See https://wiki.openstreetmap.org/wiki/Key:place"
     },
     "tag:place=city": {
         "message": "Stadt",
-        "!=1": "Städte",
         "description": "Tag \"place=city\". See https://wiki.openstreetmap.org/wiki/Tag:place=city"
     },
     "tag:place=city population<200000": {
@@ -3627,7 +3599,6 @@
     },
     "tag:place=county": {
         "message": "Bezirk",
-        "!=1": "Bezirke",
         "description": "Tag \"place=county\". See https://wiki.openstreetmap.org/wiki/Tag:place=county"
     },
     "tag:place=farm": {
@@ -3640,7 +3611,6 @@
     },
     "tag:place=island": {
         "message": "Insel",
-        "!=1": "Inseln",
         "description": "Tag \"place=island\". See https://wiki.openstreetmap.org/wiki/Tag:place=island"
     },
     "tag:place=islet": {
@@ -3685,7 +3655,6 @@
     },
     "tag:place=town": {
         "message": "Kleinstadt",
-        "!=1": "Kleinstädte",
         "description": "Tag \"place=town\". See https://wiki.openstreetmap.org/wiki/Tag:place=town"
     },
     "tag:place=town population>=30000": {
@@ -3906,7 +3875,6 @@
     },
     "tag:railway=rail": {
         "message": "Gleis",
-        "!=1": "Gleise",
         "description": "Tag \"railway=rail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail"
     },
     "tag:railway=rail service": {
@@ -3975,7 +3943,6 @@
     },
     "tag:railway=tram": {
         "message": "Straßenbahn",
-        "!=1": "Straßenbahnen",
         "description": "Tag \"railway=tram\". See https://wiki.openstreetmap.org/wiki/Tag:railway=tram"
     },
     "tag:railway=tram;narrow_gauge": {
@@ -4008,8 +3975,6 @@
     },
     "tag:religion": {
         "message": "Religion",
-        "!=1": "Religionen",
-        "gender": "female",
         "description": "Key \"religion\". See https://wiki.openstreetmap.org/wiki/Key:religion"
     },
     "tag:religion=bahai": {
@@ -4474,7 +4439,6 @@
     },
     "tag:shop=furniture": {
         "message": "Möbelhaus",
-        "!=1": "Möbelhäuser",
         "description": "Tag \"shop=furniture\". See https://wiki.openstreetmap.org/wiki/Tag:shop=furniture"
     },
     "tag:shop=games": {
@@ -4659,8 +4623,6 @@
     },
     "tag:shop=supermarket": {
         "message": "Supermarkt",
-        "!=1": "Supermärkte",
-        "gender": "male",
         "description": "Tag \"shop=supermarket\". See https://wiki.openstreetmap.org/wiki/Tag:shop=supermarket"
     },
     "tag:shop=tailor": {
@@ -4953,8 +4915,6 @@
     },
     "tag:surface": {
         "message": "Oberfläche",
-        "!=1": "Oberflächen",
-        "gender": "female",
         "description": "Key \"surface\". See https://wiki.openstreetmap.org/wiki/Key:surface"
     },
     "tag:tactile_paving": {
@@ -5335,7 +5295,6 @@
     },
     "tag:wood": {
         "message": "Holzart",
-        "!=1": "Holzarten",
         "description": "Key \"wood\". See https://wiki.openstreetmap.org/wiki/Key:wood"
     },
     "tag:xmas:feature": {
