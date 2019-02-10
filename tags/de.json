@@ -529,7 +529,7 @@
         "description": "Tag \"amenity=waste_transfer_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_transfer_station"
     },
     "tag:architect": {
-        "message": "",
+        "message": "Architekt",
         "description": "Key \"architect\". See https://wiki.openstreetmap.org/wiki/Key:architect"
     },
     "tag:area": {
@@ -537,11 +537,11 @@
         "description": "Key \"area\". See https://wiki.openstreetmap.org/wiki/Key:area"
     },
     "tag:artist": {
-        "message": "",
+        "message": "Künstler",
         "description": "Key \"artist\". See https://wiki.openstreetmap.org/wiki/Key:artist"
     },
     "tag:artist_name": {
-        "message": "",
+        "message": "Künstlername",
         "description": "Key \"artist_name\". See https://wiki.openstreetmap.org/wiki/Key:artist_name"
     },
     "tag:barrier": {
@@ -621,19 +621,19 @@
         "description": "Key \"building\". See https://wiki.openstreetmap.org/wiki/Key:building"
     },
     "tag:building:levels": {
-        "message": "",
+        "message": "Stockwerke",
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
     "tag:building=apartments": {
-        "message": "",
+        "message": "Wohnungen",
         "description": "Tag \"building=apartments\". See https://wiki.openstreetmap.org/wiki/Tag:building=apartments"
     },
     "tag:building=bakehouse": {
-        "message": "",
+        "message": "Backhaus",
         "description": "Tag \"building=bakehouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=bakehouse"
     },
     "tag:building=barn": {
-        "message": "",
+        "message": "Scheune",
         "description": "Tag \"building=barn\". See https://wiki.openstreetmap.org/wiki/Tag:building=barn"
     },
     "tag:building=block": {
@@ -641,7 +641,7 @@
         "description": "Tag \"building=block\". See https://wiki.openstreetmap.org/wiki/Tag:building=block"
     },
     "tag:building=bridge": {
-        "message": "",
+        "message": "Brücke",
         "description": "Tag \"building=bridge\". See https://wiki.openstreetmap.org/wiki/Tag:building=bridge"
     },
     "tag:building=bungalow": {
@@ -649,7 +649,7 @@
         "description": "Tag \"building=bungalow\". See https://wiki.openstreetmap.org/wiki/Tag:building=bungalow"
     },
     "tag:building=bunker": {
-        "message": "",
+        "message": "Bunker",
         "description": "Tag \"building=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:building=bunker"
     },
     "tag:building=cabin": {
@@ -689,15 +689,15 @@
         "description": "Tag \"building=commercial\". See https://wiki.openstreetmap.org/wiki/Tag:building=commercial"
     },
     "tag:building=conservatory": {
-        "message": "",
+        "message": "Wintergarten",
         "description": "Tag \"building=conservatory\". See https://wiki.openstreetmap.org/wiki/Tag:building=conservatory"
     },
     "tag:building=construction": {
-        "message": "",
+        "message": "Baustelle",
         "description": "Tag \"building=construction\". See https://wiki.openstreetmap.org/wiki/Tag:building=construction"
     },
     "tag:building=cowshed": {
-        "message": "",
+        "message": "Kuhstall",
         "description": "Tag \"building=cowshed\". See https://wiki.openstreetmap.org/wiki/Tag:building=cowshed"
     },
     "tag:building=detached": {
@@ -705,11 +705,11 @@
         "description": "Tag \"building=detached\". See https://wiki.openstreetmap.org/wiki/Tag:building=detached"
     },
     "tag:building=dormitory": {
-        "message": "",
+        "message": "Wohnheim",
         "description": "Tag \"building=dormitory\". See https://wiki.openstreetmap.org/wiki/Tag:building=dormitory"
     },
     "tag:building=farm": {
-        "message": "",
+        "message": "Bauernhof",
         "description": "Tag \"building=farm\". See https://wiki.openstreetmap.org/wiki/Tag:building=farm"
     },
     "tag:building=farm_auxiliary": {
@@ -721,11 +721,11 @@
         "description": "Tag \"building=flats\". See https://wiki.openstreetmap.org/wiki/Tag:building=flats"
     },
     "tag:building=garage": {
-        "message": "",
+        "message": "Garage",
         "description": "Tag \"building=garage\". See https://wiki.openstreetmap.org/wiki/Tag:building=garage"
     },
     "tag:building=garages": {
-        "message": "",
+        "message": "Garagen",
         "description": "Tag \"building=garages\". See https://wiki.openstreetmap.org/wiki/Tag:building=garages"
     },
     "tag:building=garbage_shed": {
@@ -745,7 +745,7 @@
         "description": "Tag \"building=government\". See https://wiki.openstreetmap.org/wiki/Tag:building=government"
     },
     "tag:building=grandstand": {
-        "message": "",
+        "message": "Tribüne",
         "description": "Tag \"building=grandstand\". See https://wiki.openstreetmap.org/wiki/Tag:building=grandstand"
     },
     "tag:building=greenhouse": {
