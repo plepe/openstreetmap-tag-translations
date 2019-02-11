@@ -510,7 +510,6 @@
     "tag:amenity=vending_machine vending=sweets;chewing_gum": {
         "message": "Distributeur de sucreries",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=sweets;chewing_gum\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=sweets;chewing_gum"
-        "message": "Distributeur de sucreries"
     },
     "tag:amenity=vending_machine vending=telephone_vouchers": {
         "message": "Distributeur de cartes de téléphones",
@@ -2961,6 +2960,7 @@
         "description": "Tag \"military=danger_area\". See https://wiki.openstreetmap.org/wiki/Tag:military=danger_area"
     },
     "tag:military=naval_base": {
+        "message": "Base navale",
         "description": "Tag \"military=naval_base\". See https://wiki.openstreetmap.org/wiki/Tag:military=naval_base"
     },
     "tag:military=nuclear_explosion_site": {
