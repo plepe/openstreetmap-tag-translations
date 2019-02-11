@@ -130,7 +130,6 @@
     },
     "tag:alt_name": {
         "message": "Autre appellation",
-        "!=1": "Autres appellations",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
@@ -367,7 +366,6 @@
     },
     "tag:amenity=pub": {
         "message": "Pub/Brasserie",
-        "!=1": "Pubs/Brasseries",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
@@ -388,7 +386,6 @@
     },
     "tag:amenity=restaurant": {
         "message": "Restaurant",
-        "!=1": "Restaurants",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
@@ -549,32 +546,26 @@
     },
     "tag:barrier": {
         "message": "Barrière",
-        "!=1": "Barrières",
         "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
     },
     "tag:barrier=city_wall": {
         "message": "Rempart",
-        "!=1": "Remparts",
         "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
     },
     "tag:barrier=fence": {
         "message": "Clôture",
-        "!=1": "Clôtures",
         "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
     },
     "tag:barrier=hedge": {
         "message": "Haie",
-        "!=1": "Haies",
         "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
     },
     "tag:barrier=retaining_wall": {
         "message": "Mur de soutènement",
-        "!=1": "Murs de soutènement",
         "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
     },
     "tag:barrier=wall": {
         "message": "Mur",
-        "!=1": "Murs",
         "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
     },
     "tag:bath:open_air": {
@@ -1899,7 +1890,7 @@
         "description": "Key \"food\". See https://wiki.openstreetmap.org/wiki/Key:food"
     },
     "tag:foot": {
-        "message": "",
+        "message": "Accès piéton autorisé",
         "description": "Key \"foot\". See https://wiki.openstreetmap.org/wiki/Key:foot"
     },
     "tag:ford": {
@@ -2036,7 +2027,6 @@
     },
     "tag:highway": {
         "message": "Route",
-        "!=1": "Routes",
         "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
     },
     "tag:highway=bridleway": {
@@ -2428,7 +2418,7 @@
         "description": "Tag \"historic=yes\". See https://wiki.openstreetmap.org/wiki/Tag:historic=yes"
     },
     "tag:horse": {
-        "message": "",
+        "message": "Permissions d'accès pour cavaliers",
         "description": "Key \"horse\". See https://wiki.openstreetmap.org/wiki/Key:horse"
     },
     "tag:incline": {
@@ -2468,11 +2458,11 @@
         "description": "Tag \"internet_access=service\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=service"
     },
     "tag:internet_access=terminal": {
-        "message": "Terminal d'accès internet",
+        "message": "Terminal d'accès internet.",
         "description": "Tag \"internet_access=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=terminal"
     },
     "tag:internet_access=terminal internet_access:fee=no": {
-        "message": "Terminal d'accès internet gratuit",
+        "message": "Terminal d'accès internet gratuit.",
         "description": "Combined tag \"internet_access=terminal\" and \"internet_access:fee=no\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=terminal and https://wiki.openstreetmap.org/wiki/Tag:internet_access:fee=no"
     },
     "tag:internet_access=wired": {
@@ -2904,19 +2894,19 @@
         "description": "Tag \"material=wood\". See https://wiki.openstreetmap.org/wiki/Tag:material=wood"
     },
     "tag:maxheight": {
-        "message": "Hauteur max.",
+        "message": "Hauteur maximum",
         "description": "Key \"maxheight\". See https://wiki.openstreetmap.org/wiki/Key:maxheight"
     },
     "tag:maxlength": {
-        "message": "Longueur max.",
+        "message": "Longueur maximum",
         "description": "Key \"maxlength\". See https://wiki.openstreetmap.org/wiki/Key:maxlength"
     },
     "tag:maxspeed": {
-        "message": "Vitesse max.",
+        "message": "Vitesse maximum",
         "description": "Key \"maxspeed\". See https://wiki.openstreetmap.org/wiki/Key:maxspeed"
     },
     "tag:maxweight": {
-        "message": "Poids max.",
+        "message": "Poids maximum",
         "description": "Key \"maxweight\". See https://wiki.openstreetmap.org/wiki/Key:maxweight"
     },
     "tag:memorial:conflict": {
@@ -2992,7 +2982,7 @@
         "description": "Tag \"military=yes\". See https://wiki.openstreetmap.org/wiki/Tag:military=yes"
     },
     "tag:minspeed": {
-        "message": "Vitesse min.",
+        "message": "Vitesse minimum",
         "description": "Key \"minspeed\". See https://wiki.openstreetmap.org/wiki/Key:minspeed"
     },
     "tag:motorcar": {
@@ -3113,7 +3103,6 @@
     },
     "tag:name": {
         "message": "Nom",
-        "!=1": "Noms",
         "description": "Key \"name\". See https://wiki.openstreetmap.org/wiki/Key:name"
     },
     "tag:name:etymology": {
@@ -3474,7 +3463,6 @@
     },
     "tag:official_name": {
         "message": "Nom officiel",
-        "!=1": "Noms officiels",
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
@@ -3586,7 +3574,7 @@
         "description": "Key \"payment:visa_electron\". See https://wiki.openstreetmap.org/wiki/Key:payment:visa_electron"
     },
     "tag:phone": {
-        "message": "Numéro de tél.",
+        "message": "Numéro de téléphone",
         "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
     },
     "tag:place": {
@@ -3887,7 +3875,6 @@
     },
     "tag:railway=rail": {
         "message": "Voie ferrée",
-        "!=1": "Voies ferrées",
         "description": "Tag \"railway=rail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail"
     },
     "tag:railway=rail service": {
@@ -4739,7 +4726,7 @@
         "description": "Tag \"sport=10pin\". See https://wiki.openstreetmap.org/wiki/Tag:sport=10pin"
     },
     "tag:sport=9pin": {
-        "message": "Bowling 9pin ",
+        "message": "Bowling 9pin",
         "description": "Tag \"sport=9pin\". See https://wiki.openstreetmap.org/wiki/Tag:sport=9pin"
     },
     "tag:sport=archery": {
