@@ -749,7 +749,7 @@
         "description": "Tag \"building=grandstand\". See https://wiki.openstreetmap.org/wiki/Tag:building=grandstand"
     },
     "tag:building=greenhouse": {
-        "message": "",
+        "message": "Gewächshaus",
         "description": "Tag \"building=greenhouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=greenhouse"
     },
     "tag:building=hangar": {
@@ -757,23 +757,23 @@
         "description": "Tag \"building=hangar\". See https://wiki.openstreetmap.org/wiki/Tag:building=hangar"
     },
     "tag:building=hospital": {
-        "message": "",
+        "message": "Krankenhaus",
         "description": "Tag \"building=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:building=hospital"
     },
     "tag:building=hotel": {
-        "message": "",
+        "message": "Hotel",
         "description": "Tag \"building=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:building=hotel"
     },
     "tag:building=house": {
-        "message": "",
+        "message": "Haus",
         "description": "Tag \"building=house\". See https://wiki.openstreetmap.org/wiki/Tag:building=house"
     },
     "tag:building=houseboat": {
-        "message": "",
+        "message": "Hausboot",
         "description": "Tag \"building=houseboat\". See https://wiki.openstreetmap.org/wiki/Tag:building=houseboat"
     },
     "tag:building=hut": {
-        "message": "",
+        "message": "Hütte",
         "description": "Tag \"building=hut\". See https://wiki.openstreetmap.org/wiki/Tag:building=hut"
     },
     "tag:building=industrial": {
@@ -781,15 +781,15 @@
         "description": "Tag \"building=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:building=industrial"
     },
     "tag:building=kindergarten": {
-        "message": "",
+        "message": "Kindergarten",
         "description": "Tag \"building=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:building=kindergarten"
     },
     "tag:building=kiosk": {
-        "message": "",
+        "message": "Kiosk",
         "description": "Tag \"building=kiosk\". See https://wiki.openstreetmap.org/wiki/Tag:building=kiosk"
     },
     "tag:building=kitchen": {
-        "message": "",
+        "message": "Küche",
         "description": "Tag \"building=kitchen\". See https://wiki.openstreetmap.org/wiki/Tag:building=kitchen"
     },
     "tag:building=mall": {
@@ -801,7 +801,7 @@
         "description": "Tag \"building=military\". See https://wiki.openstreetmap.org/wiki/Tag:building=military"
     },
     "tag:building=monastery": {
-        "message": "",
+        "message": "Kloster",
         "description": "Tag \"building=monastery\". See https://wiki.openstreetmap.org/wiki/Tag:building=monastery"
     },
     "tag:building=mosque": {
@@ -813,11 +813,11 @@
         "description": "Combined tag \"building=mosque\" and \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque and https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
     },
     "tag:building=office": {
-        "message": "",
+        "message": "Bürogebäude",
         "description": "Tag \"building=office\". See https://wiki.openstreetmap.org/wiki/Tag:building=office"
     },
     "tag:building=parking": {
-        "message": "",
+        "message": "Parkhaus",
         "description": "Tag \"building=parking\". See https://wiki.openstreetmap.org/wiki/Tag:building=parking"
     },
     "tag:building=pavilion": {
@@ -841,23 +841,23 @@
         "description": "Tag \"building=retail\". See https://wiki.openstreetmap.org/wiki/Tag:building=retail"
     },
     "tag:building=riding_hall": {
-        "message": "",
+        "message": "Reithalle",
         "description": "Tag \"building=riding_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=riding_hall"
     },
     "tag:building=roof": {
-        "message": "",
+        "message": "Dach",
         "description": "Tag \"building=roof\". See https://wiki.openstreetmap.org/wiki/Tag:building=roof"
     },
     "tag:building=ruins": {
-        "message": "",
+        "message": "Ruinen",
         "description": "Tag \"building=ruins\". See https://wiki.openstreetmap.org/wiki/Tag:building=ruins"
     },
     "tag:building=school": {
-        "message": "",
+        "message": "Schule",
         "description": "Tag \"building=school\". See https://wiki.openstreetmap.org/wiki/Tag:building=school"
     },
     "tag:building=semidetached_house": {
-        "message": "",
+        "message": "Reihenendhaus",
         "description": "Tag \"building=semidetached_house\". See https://wiki.openstreetmap.org/wiki/Tag:building=semidetached_house"
     },
     "tag:building=service": {
@@ -881,19 +881,19 @@
         "description": "Tag \"building=silo\". See https://wiki.openstreetmap.org/wiki/Tag:building=silo"
     },
     "tag:building=slurry_tank": {
-        "message": "",
+        "message": "Güllebehälter",
         "description": "Tag \"building=slurry_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=slurry_tank"
     },
     "tag:building=sports_hall": {
-        "message": "",
+        "message": "Sporthalle",
         "description": "Tag \"building=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=sports_hall"
     },
     "tag:building=stable": {
-        "message": "",
+        "message": "Stall",
         "description": "Tag \"building=stable\". See https://wiki.openstreetmap.org/wiki/Tag:building=stable"
     },
     "tag:building=stadium": {
-        "message": "",
+        "message": "Stadion",
         "description": "Tag \"building=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:building=stadium"
     },
     "tag:building=static_caravan": {
@@ -909,7 +909,7 @@
         "description": "Tag \"building=sty\". See https://wiki.openstreetmap.org/wiki/Tag:building=sty"
     },
     "tag:building=supermarket": {
-        "message": "",
+        "message": "Supermarkt",
         "description": "Tag \"building=supermarket\". See https://wiki.openstreetmap.org/wiki/Tag:building=supermarket"
     },
     "tag:building=synagogue": {
@@ -929,15 +929,15 @@
         "description": "Combined tag \"building=temple\" and \"religion=sikh\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple and https://wiki.openstreetmap.org/wiki/Tag:religion=sikh"
     },
     "tag:building=terrace": {
-        "message": "",
+        "message": "Terasse",
         "description": "Tag \"building=terrace\". See https://wiki.openstreetmap.org/wiki/Tag:building=terrace"
     },
     "tag:building=toilets": {
-        "message": "",
+        "message": "Toiletten",
         "description": "Tag \"building=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:building=toilets"
     },
     "tag:building=train_station": {
-        "message": "",
+        "message": "Bahnhof",
         "description": "Tag \"building=train_station\". See https://wiki.openstreetmap.org/wiki/Tag:building=train_station"
     },
     "tag:building=transformer_tower": {
@@ -953,15 +953,15 @@
         "description": "Tag \"building=trullo\". See https://wiki.openstreetmap.org/wiki/Tag:building=trullo"
     },
     "tag:building=university": {
-        "message": "",
+        "message": "Universität",
         "description": "Tag \"building=university\". See https://wiki.openstreetmap.org/wiki/Tag:building=university"
     },
     "tag:building=warehouse": {
-        "message": "",
+        "message": "Warenlager",
         "description": "Tag \"building=warehouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=warehouse"
     },
     "tag:building=water_tower": {
-        "message": "",
+        "message": "Wasserturm",
         "description": "Tag \"building=water_tower\". See https://wiki.openstreetmap.org/wiki/Tag:building=water_tower"
     },
     "tag:cables": {
@@ -969,7 +969,7 @@
         "description": "Key \"cables\". See https://wiki.openstreetmap.org/wiki/Key:cables"
     },
     "tag:capacity": {
-        "message": "",
+        "message": "Kapazität",
         "description": "Key \"capacity\". See https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:charge": {
@@ -1025,7 +1025,7 @@
         "description": "Key \"construction\". See https://wiki.openstreetmap.org/wiki/Key:construction"
     },
     "tag:covered": {
-        "message": "",
+        "message": "Überdacht",
         "description": "Key \"covered\". See https://wiki.openstreetmap.org/wiki/Key:covered"
     },
     "tag:craft": {
@@ -1037,7 +1037,7 @@
         "description": "Tag \"craft=agricultural_engines\". See https://wiki.openstreetmap.org/wiki/Tag:craft=agricultural_engines"
     },
     "tag:craft=artist": {
-        "message": "",
+        "message": "Künstler",
         "description": "Tag \"craft=artist\". See https://wiki.openstreetmap.org/wiki/Tag:craft=artist"
     },
     "tag:craft=bakery": {
@@ -1085,7 +1085,7 @@
         "description": "Tag \"craft=car_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=car_repair"
     },
     "tag:craft=carpenter": {
-        "message": "",
+        "message": "Tischler",
         "description": "Tag \"craft=carpenter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=carpenter"
     },
     "tag:craft=carpet_layer": {
@@ -1101,7 +1101,7 @@
         "description": "Tag \"craft=ceramist\". See https://wiki.openstreetmap.org/wiki/Tag:craft=ceramist"
     },
     "tag:craft=chimney_sweeper": {
-        "message": "",
+        "message": "Schornsteinfeger",
         "description": "Tag \"craft=chimney_sweeper\". See https://wiki.openstreetmap.org/wiki/Tag:craft=chimney_sweeper"
     },
     "tag:craft=cleaning": {
@@ -1786,7 +1786,7 @@
         "description": "Key \"ele\". See https://wiki.openstreetmap.org/wiki/Key:ele"
     },
     "tag:electrified": {
-        "message": "",
+        "message": "Elektrifiziert",
         "description": "Key \"electrified\". See https://wiki.openstreetmap.org/wiki/Key:electrified"
     },
     "tag:electrified=contact_line": {
@@ -1842,7 +1842,7 @@
         "description": "Key \"end_date\". See https://wiki.openstreetmap.org/wiki/Key:end_date"
     },
     "tag:entrance": {
-        "message": "",
+        "message": "Eingang",
         "description": "Key \"entrance\". See https://wiki.openstreetmap.org/wiki/Key:entrance"
     },
     "tag:entrance=emergency": {
@@ -1850,19 +1850,19 @@
         "description": "Tag \"entrance=emergency\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=emergency"
     },
     "tag:entrance=exit": {
-        "message": "",
+        "message": "Ausgang",
         "description": "Tag \"entrance=exit\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=exit"
     },
     "tag:entrance=garage": {
-        "message": "",
+        "message": "Garageneinfahrt",
         "description": "Tag \"entrance=garage\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=garage"
     },
     "tag:entrance=home": {
-        "message": "",
+        "message": "Hauseingang",
         "description": "Tag \"entrance=home\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=home"
     },
     "tag:entrance=main": {
-        "message": "",
+        "message": "Haupteingang",
         "description": "Tag \"entrance=main\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=main"
     },
     "tag:entrance=service": {
@@ -1874,7 +1874,7 @@
         "description": "Tag \"entrance=staircase\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=staircase"
     },
     "tag:est_width": {
-        "message": "",
+        "message": "geschätzte Breite",
         "description": "Key \"est_width\". See https://wiki.openstreetmap.org/wiki/Key:est_width"
     },
     "tag:fax": {
@@ -1986,19 +1986,19 @@
         "description": "Tag \"healthcare=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=clinic"
     },
     "tag:healthcare=doctor": {
-        "message": "",
+        "message": "Arzt",
         "description": "Tag \"healthcare=doctor\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=doctor"
     },
     "tag:healthcare=laboratory": {
-        "message": "",
+        "message": "Labor",
         "description": "Tag \"healthcare=laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=laboratory"
     },
     "tag:healthcare=pharmacy": {
-        "message": "",
+        "message": "Apotheke",
         "description": "Tag \"healthcare=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=pharmacy"
     },
     "tag:height": {
-        "message": "",
+        "message": "Höhe",
         "description": "Key \"height\". See https://wiki.openstreetmap.org/wiki/Key:height"
     },
     "tag:heritage=0": {
@@ -2042,7 +2042,7 @@
         "description": "Tag \"highway=construction\". See https://wiki.openstreetmap.org/wiki/Tag:highway=construction"
     },
     "tag:highway=crossing": {
-        "message": "",
+        "message": "Kreuzung",
         "description": "Tag \"highway=crossing\". See https://wiki.openstreetmap.org/wiki/Tag:highway=crossing"
     },
     "tag:highway=cycleway": {
