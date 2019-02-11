@@ -286,7 +286,7 @@
         "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
     },
     "tag:amenity=food_court": {
-        "message": "",
+        "message": "Aire de restauration",
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
@@ -510,6 +510,7 @@
     "tag:amenity=vending_machine vending=sweets;chewing_gum": {
         "message": "Distributeur de sucreries",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=sweets;chewing_gum\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=sweets;chewing_gum"
+        "message": "Distributeur de sucreries"
     },
     "tag:amenity=vending_machine vending=telephone_vouchers": {
         "message": "Distributeur de cartes de téléphones",
@@ -714,7 +715,7 @@
         "description": "Tag \"building=detached\". See https://wiki.openstreetmap.org/wiki/Tag:building=detached"
     },
     "tag:building=dormitory": {
-        "message": "Résidence universitaire/Foyer",
+        "message": "Résidence universitaire / Foyer",
         "description": "Tag \"building=dormitory\". See https://wiki.openstreetmap.org/wiki/Tag:building=dormitory"
     },
     "tag:building=farm": {
@@ -742,11 +743,11 @@
         "description": "Tag \"building=garbage_shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=garbage_shed"
     },
     "tag:building=generic": {
-        "message": "",
+        "message": "Générique",
         "description": "Tag \"building=generic\". See https://wiki.openstreetmap.org/wiki/Tag:building=generic"
     },
     "tag:building=ger": {
-        "message": "",
+        "message": "Yourte",
         "description": "Tag \"building=ger\". See https://wiki.openstreetmap.org/wiki/Tag:building=ger"
     },
     "tag:building=government": {
@@ -806,7 +807,7 @@
         "description": "Tag \"building=mall\". See https://wiki.openstreetmap.org/wiki/Tag:building=mall"
     },
     "tag:building=military": {
-        "message": "",
+        "message": "Bâtiment militaire",
         "description": "Tag \"building=military\". See https://wiki.openstreetmap.org/wiki/Tag:building=military"
     },
     "tag:building=monastery": {
@@ -866,7 +867,7 @@
         "description": "Tag \"building=school\". See https://wiki.openstreetmap.org/wiki/Tag:building=school"
     },
     "tag:building=semidetached_house": {
-        "message": "",
+        "message": "Bâtiment partiellement détaché",
         "description": "Tag \"building=semidetached_house\". See https://wiki.openstreetmap.org/wiki/Tag:building=semidetached_house"
     },
     "tag:building=service": {
@@ -894,7 +895,7 @@
         "description": "Tag \"building=slurry_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=slurry_tank"
     },
     "tag:building=sports_hall": {
-        "message": "Sall de sport/Salle omnisports",
+        "message": "Salle de sport/salle omnisports",
         "description": "Tag \"building=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=sports_hall"
     },
     "tag:building=stable": {
@@ -1446,13 +1447,13 @@
         "description": "Key \"cuisine\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine/dessert": {
-        "message": ""
+        "message": "Dessert"
     },
     "tag:cuisine/ethnicity": {
-        "message": ""
+        "message": "Ethnicité"
     },
     "tag:cuisine/food": {
-        "message": ""
+        "message": "Nourriture"
     },
     "tag:cuisine=afghan": {
         "message": "afghane",
@@ -2836,7 +2837,7 @@
         "description": "Tag \"material=iron\". See https://wiki.openstreetmap.org/wiki/Tag:material=iron"
     },
     "tag:material=light": {
-        "message": "",
+        "message": "lumière",
         "description": "Tag \"material=light\". See https://wiki.openstreetmap.org/wiki/Tag:material=light"
     },
     "tag:material=limestone": {
@@ -2940,7 +2941,7 @@
         "description": "Tag \"military=airfield\". See https://wiki.openstreetmap.org/wiki/Tag:military=airfield"
     },
     "tag:military=ammunition": {
-        "message": "",
+        "message": "Magasin à munitions",
         "description": "Tag \"military=ammunition\". See https://wiki.openstreetmap.org/wiki/Tag:military=ammunition"
     },
     "tag:military=barracks": {
@@ -2952,7 +2953,7 @@
         "description": "Tag \"military=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:military=bunker"
     },
     "tag:military=checkpoint": {
-        "message": "",
+        "message": "Checkpoint",
         "description": "Tag \"military=checkpoint\". See https://wiki.openstreetmap.org/wiki/Tag:military=checkpoint"
     },
     "tag:military=danger_area": {
@@ -2960,19 +2961,18 @@
         "description": "Tag \"military=danger_area\". See https://wiki.openstreetmap.org/wiki/Tag:military=danger_area"
     },
     "tag:military=naval_base": {
-        "message": "",
         "description": "Tag \"military=naval_base\". See https://wiki.openstreetmap.org/wiki/Tag:military=naval_base"
     },
     "tag:military=nuclear_explosion_site": {
-        "message": "",
+        "message": "Site d'explosion nucléaire",
         "description": "Tag \"military=nuclear_explosion_site\". See https://wiki.openstreetmap.org/wiki/Tag:military=nuclear_explosion_site"
     },
     "tag:military=obstacle_course": {
-        "message": "",
+        "message": "Parcours du combattant",
         "description": "Tag \"military=obstacle_course\". See https://wiki.openstreetmap.org/wiki/Tag:military=obstacle_course"
     },
     "tag:military=office": {
-        "message": "",
+        "message": "Bureau militaire",
         "description": "Tag \"military=office\". See https://wiki.openstreetmap.org/wiki/Tag:military=office"
     },
     "tag:military=range": {
@@ -2980,11 +2980,11 @@
         "description": "Tag \"military=range\". See https://wiki.openstreetmap.org/wiki/Tag:military=range"
     },
     "tag:military=training_area": {
-        "message": "",
+        "message": "Camp d'entraînement militaire / Zone d'essais",
         "description": "Tag \"military=training_area\". See https://wiki.openstreetmap.org/wiki/Tag:military=training_area"
     },
     "tag:military=trench": {
-        "message": "",
+        "message": "Tranchée",
         "description": "Tag \"military=trench\". See https://wiki.openstreetmap.org/wiki/Tag:military=trench"
     },
     "tag:military=yes": {
@@ -3991,7 +3991,7 @@
         "description": "Key \"religion\". See https://wiki.openstreetmap.org/wiki/Key:religion"
     },
     "tag:religion=bahai": {
-        "message": "",
+        "message": "bahaïste",
         "description": "Tag \"religion=bahai\". See https://wiki.openstreetmap.org/wiki/Tag:religion=bahai"
     },
     "tag:religion=buddhist": {
@@ -3999,7 +3999,7 @@
         "description": "Tag \"religion=buddhist\". See https://wiki.openstreetmap.org/wiki/Tag:religion=buddhist"
     },
     "tag:religion=caodaism": {
-        "message": "",
+        "message": "caodaïste",
         "description": "Tag \"religion=caodaism\". See https://wiki.openstreetmap.org/wiki/Tag:religion=caodaism"
     },
     "tag:religion=christian": {
@@ -4007,7 +4007,7 @@
         "description": "Tag \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
     },
     "tag:religion=confucian": {
-        "message": "",
+        "message": "confucéenne",
         "description": "Tag \"religion=confucian\". See https://wiki.openstreetmap.org/wiki/Tag:religion=confucian"
     },
     "tag:religion=hindu": {
@@ -4015,7 +4015,7 @@
         "description": "Tag \"religion=hindu\". See https://wiki.openstreetmap.org/wiki/Tag:religion=hindu"
     },
     "tag:religion=jain": {
-        "message": "",
+        "message": "jaïniste",
         "description": "Tag \"religion=jain\". See https://wiki.openstreetmap.org/wiki/Tag:religion=jain"
     },
     "tag:religion=jewish": {
@@ -4031,67 +4031,67 @@
         "description": "Tag \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
     },
     "tag:religion=none": {
-        "message": "",
+        "message": "sans religion",
         "description": "Tag \"religion=none\". See https://wiki.openstreetmap.org/wiki/Tag:religion=none"
     },
     "tag:religion=pagan": {
-        "message": "",
+        "message": "païenne",
         "description": "Tag \"religion=pagan\". See https://wiki.openstreetmap.org/wiki/Tag:religion=pagan"
     },
     "tag:religion=pentecostal": {
-        "message": "",
+        "message": "pentecôtiste",
         "description": "Tag \"religion=pentecostal\". See https://wiki.openstreetmap.org/wiki/Tag:religion=pentecostal"
     },
     "tag:religion=scientologist": {
-        "message": "",
+        "message": "scientologiste",
         "description": "Tag \"religion=scientologist\". See https://wiki.openstreetmap.org/wiki/Tag:religion=scientologist"
     },
     "tag:religion=shamanic": {
-        "message": "",
+        "message": "chamanique",
         "description": "Tag \"religion=shamanic\". See https://wiki.openstreetmap.org/wiki/Tag:religion=shamanic"
     },
     "tag:religion=shinto": {
-        "message": "",
+        "message": "shintoïste",
         "description": "Tag \"religion=shinto\". See https://wiki.openstreetmap.org/wiki/Tag:religion=shinto"
     },
     "tag:religion=sikh": {
-        "message": "",
+        "message": "sikhe",
         "description": "Tag \"religion=sikh\". See https://wiki.openstreetmap.org/wiki/Tag:religion=sikh"
     },
     "tag:religion=spiritualist": {
-        "message": "",
+        "message": "spiritualiste",
         "description": "Tag \"religion=spiritualist\". See https://wiki.openstreetmap.org/wiki/Tag:religion=spiritualist"
     },
     "tag:religion=taoist": {
-        "message": "",
+        "message": "taoïste",
         "description": "Tag \"religion=taoist\". See https://wiki.openstreetmap.org/wiki/Tag:religion=taoist"
     },
     "tag:religion=tenrikyo": {
-        "message": "",
+        "message": "tenrikyo",
         "description": "Tag \"religion=tenrikyo\". See https://wiki.openstreetmap.org/wiki/Tag:religion=tenrikyo"
     },
     "tag:religion=unitarian_universialist": {
-        "message": "",
+        "message": "universalite unitarienne",
         "description": "Tag \"religion=unitarian_universialist\". See https://wiki.openstreetmap.org/wiki/Tag:religion=unitarian_universialist"
     },
     "tag:religion=vientamese_folk": {
-        "message": "",
+        "message": "religion indigène vietnamienne",
         "description": "Tag \"religion=vientamese_folk\". See https://wiki.openstreetmap.org/wiki/Tag:religion=vientamese_folk"
     },
     "tag:religion=voodoo": {
-        "message": "",
+        "message": "vaudoue",
         "description": "Tag \"religion=voodoo\". See https://wiki.openstreetmap.org/wiki/Tag:religion=voodoo"
     },
     "tag:religion=zoroastrian": {
-        "message": "",
+        "message": "zoroastrienne",
         "description": "Tag \"religion=zoroastrian\". See https://wiki.openstreetmap.org/wiki/Tag:religion=zoroastrian"
     },
     "tag:residential=HDB": {
-        "message": "",
+        "message": "Housing and Development Board",
         "description": "Tag \"residential=HDB\". See https://wiki.openstreetmap.org/wiki/Tag:residential=HDB"
     },
     "tag:residential=apartments": {
-        "message": "",
+        "message": "Appartements",
         "description": "Tag \"residential=apartments\". See https://wiki.openstreetmap.org/wiki/Tag:residential=apartments"
     },
     "tag:residential=cottage": {
@@ -4107,11 +4107,11 @@
         "description": "Tag \"residential=garden\". See https://wiki.openstreetmap.org/wiki/Tag:residential=garden"
     },
     "tag:residential=gated": {
-        "message": "",
+        "message": "Résidence fermée",
         "description": "Tag \"residential=gated\". See https://wiki.openstreetmap.org/wiki/Tag:residential=gated"
     },
     "tag:residential=halting_site": {
-        "message": "",
+        "message": "Aire d'accueil",
         "description": "Tag \"residential=halting_site\". See https://wiki.openstreetmap.org/wiki/Tag:residential=halting_site"
     },
     "tag:residential=irregular_settlement": {
@@ -4119,7 +4119,7 @@
         "description": "Tag \"residential=irregular_settlement\". See https://wiki.openstreetmap.org/wiki/Tag:residential=irregular_settlement"
     },
     "tag:residential=rural": {
-        "message": "",
+        "message": "Zone résidentielle pavillonaire",
         "description": "Tag \"residential=rural\". See https://wiki.openstreetmap.org/wiki/Tag:residential=rural"
     },
     "tag:residential=single_family": {
@@ -4127,7 +4127,7 @@
         "description": "Tag \"residential=single_family\". See https://wiki.openstreetmap.org/wiki/Tag:residential=single_family"
     },
     "tag:residential=urban": {
-        "message": "",
+        "message": "Zone résidentielle urbaine",
         "description": "Tag \"residential=urban\". See https://wiki.openstreetmap.org/wiki/Tag:residential=urban"
     },
     "tag:route": {
@@ -4151,7 +4151,7 @@
         "description": "Tag \"route=ferry\". See https://wiki.openstreetmap.org/wiki/Tag:route=ferry"
     },
     "tag:route=fitness_trail": {
-        "message": "",
+        "message": "Parcours de santé",
         "description": "Tag \"route=fitness_trail\". See https://wiki.openstreetmap.org/wiki/Tag:route=fitness_trail"
     },
     "tag:route=hiking": {
@@ -4243,7 +4243,7 @@
         "description": "Tag \"sauna=steam\". See https://wiki.openstreetmap.org/wiki/Tag:sauna=steam"
     },
     "tag:service": {
-        "message": "",
+        "message": "Voie de service",
         "description": "Key \"service\". See https://wiki.openstreetmap.org/wiki/Key:service"
     },
     "tag:shop": {
@@ -4727,7 +4727,7 @@
         "description": "Key \"source\". See https://wiki.openstreetmap.org/wiki/Key:source"
     },
     "tag:species": {
-        "message": "",
+        "message": "Espèce",
         "description": "Key \"species\". See https://wiki.openstreetmap.org/wiki/Key:species"
     },
     "tag:sport": {
