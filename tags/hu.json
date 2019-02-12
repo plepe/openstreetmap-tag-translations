@@ -437,7 +437,7 @@
         "description": "Combined tag \"amenity=toilets\" and \"diaper=yes\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets and https://wiki.openstreetmap.org/wiki/Tag:diaper=yes"
     },
     "tag:amenity=townhall": {
-        "message": "Városháza",
+        "message": "Városháza, községháza",
         "description": "Tag \"amenity=townhall\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=townhall"
     },
     "tag:amenity=university": {
@@ -465,7 +465,7 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=excrement_bags\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=excrement_bags"
     },
     "tag:amenity=vending_machine vending=food": {
-        "message": "Élelmiszerautomata",
+        "message": "Élelmiszer-automata",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=food"
     },
     "tag:amenity=vending_machine vending=food;drinks": {
@@ -497,7 +497,7 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets;public_transport_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets;public_transport_tickets"
     },
     "tag:amenity=vending_machine vending=public_transport_tickets": {
-        "message": "Tömegközlekedésijegy-automata",
+        "message": "Tömegközlekedési jegyet árusító automata",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=public_transport_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=public_transport_tickets"
     },
     "tag:amenity=vending_machine vending=stamps": {
@@ -525,7 +525,7 @@
         "description": "Tag \"amenity=waste_disposal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_disposal"
     },
     "tag:amenity=waste_transfer_station": {
-        "message": "",
+        "message": "Hulladék-átrakodó",
         "description": "Tag \"amenity=waste_transfer_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_transfer_station"
     },
     "tag:architect": {
@@ -1033,15 +1033,15 @@
         "description": "Key \"craft\". See https://wiki.openstreetmap.org/wiki/Key:craft"
     },
     "tag:craft=agricultural_engines": {
-        "message": "",
+        "message": "Mezőgazdaságigép-gyártó",
         "description": "Tag \"craft=agricultural_engines\". See https://wiki.openstreetmap.org/wiki/Tag:craft=agricultural_engines"
     },
     "tag:craft=artist": {
-        "message": "",
+        "message": "Művész",
         "description": "Tag \"craft=artist\". See https://wiki.openstreetmap.org/wiki/Tag:craft=artist"
     },
     "tag:craft=bakery": {
-        "message": "Pék",
+        "message": "Pékműhely",
         "description": "Tag \"craft=bakery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=bakery"
     },
     "tag:craft=basket_maker": {
@@ -1061,7 +1061,7 @@
         "description": "Tag \"craft=boatbuilder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=boatbuilder"
     },
     "tag:craft=bookbinder": {
-        "message": "Konyvkötő",
+        "message": "Könyvkötő",
         "description": "Tag \"craft=bookbinder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=bookbinder"
     },
     "tag:craft=brewery": {
@@ -1069,11 +1069,11 @@
         "description": "Tag \"craft=brewery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=brewery"
     },
     "tag:craft=builder": {
-        "message": "",
+        "message": "Építőműhely",
         "description": "Tag \"craft=builder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=builder"
     },
     "tag:craft=cabinet_maker": {
-        "message": "",
+        "message": "Bútorasztalos",
         "description": "Tag \"craft=cabinet_maker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=cabinet_maker"
     },
     "tag:craft=car_painter": {
@@ -1089,11 +1089,11 @@
         "description": "Tag \"craft=carpenter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=carpenter"
     },
     "tag:craft=carpet_layer": {
-        "message": "",
+        "message": "Szőnyegpadló-lerakó műhely",
         "description": "Tag \"craft=carpet_layer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=carpet_layer"
     },
     "tag:craft=caterer": {
-        "message": "",
+        "message": "Partyszerviz",
         "description": "Tag \"craft=caterer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=caterer"
     },
     "tag:craft=ceramist": {
@@ -1105,7 +1105,7 @@
         "description": "Tag \"craft=chimney_sweeper\". See https://wiki.openstreetmap.org/wiki/Tag:craft=chimney_sweeper"
     },
     "tag:craft=cleaning": {
-        "message": "",
+        "message": "Takarító",
         "description": "Tag \"craft=cleaning\". See https://wiki.openstreetmap.org/wiki/Tag:craft=cleaning"
     },
     "tag:craft=clockmaker": {
@@ -1113,7 +1113,7 @@
         "description": "Tag \"craft=clockmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=clockmaker"
     },
     "tag:craft=computer": {
-        "message": "",
+        "message": "Számítógép-szerelő",
         "description": "Tag \"craft=computer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=computer"
     },
     "tag:craft=confectionery": {
@@ -1133,7 +1133,7 @@
         "description": "Tag \"craft=distillery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=distillery"
     },
     "tag:craft=dressmaker": {
-        "message": "",
+        "message": "Nőiruha-készítő",
         "description": "Tag \"craft=dressmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=dressmaker"
     },
     "tag:craft=electrician": {
@@ -1141,19 +1141,19 @@
         "description": "Tag \"craft=electrician\". See https://wiki.openstreetmap.org/wiki/Tag:craft=electrician"
     },
     "tag:craft=electronics_repair": {
-        "message": "",
+        "message": "Villamosgép-szerelő",
         "description": "Tag \"craft=electronics_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=electronics_repair"
     },
     "tag:craft=embroidery": {
-        "message": "",
+        "message": "Hímzőműhely",
         "description": "Tag \"craft=embroidery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=embroidery"
     },
     "tag:craft=engraver": {
-        "message": "",
+        "message": "Gravírozó-, metszőműhely",
         "description": "Tag \"craft=engraver\". See https://wiki.openstreetmap.org/wiki/Tag:craft=engraver"
     },
     "tag:craft=floorer": {
-        "message": "",
+        "message": "Padlólerakó",
         "description": "Tag \"craft=floorer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=floorer"
     },
     "tag:craft=furniture": {
@@ -1169,11 +1169,11 @@
         "description": "Tag \"craft=glass\". See https://wiki.openstreetmap.org/wiki/Tag:craft=glass"
     },
     "tag:craft=glaziery": {
-        "message": "",
+        "message": "Üvegműves",
         "description": "Tag \"craft=glaziery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=glaziery"
     },
     "tag:craft=goldsmith": {
-        "message": "",
+        "message": "Aranyműves",
         "description": "Tag \"craft=goldsmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=goldsmith"
     },
     "tag:craft=graphic_design": {
@@ -1181,15 +1181,15 @@
         "description": "Tag \"craft=graphic_design\". See https://wiki.openstreetmap.org/wiki/Tag:craft=graphic_design"
     },
     "tag:craft=grinding_mill": {
-        "message": "",
+        "message": "Malom, őrlő- vagy darálóüzem",
         "description": "Tag \"craft=grinding_mill\". See https://wiki.openstreetmap.org/wiki/Tag:craft=grinding_mill"
     },
     "tag:craft=handicraft": {
-        "message": "",
+        "message": "Kézművestermék-készítő",
         "description": "Tag \"craft=handicraft\". See https://wiki.openstreetmap.org/wiki/Tag:craft=handicraft"
     },
     "tag:craft=heating_engineer": {
-        "message": "",
+        "message": "Fűtésszerelő",
         "description": "Tag \"craft=heating_engineer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=heating_engineer"
     },
     "tag:craft=hvac": {
@@ -1197,7 +1197,7 @@
         "description": "Tag \"craft=hvac\". See https://wiki.openstreetmap.org/wiki/Tag:craft=hvac"
     },
     "tag:craft=insulation": {
-        "message": "Szigetelő",
+        "message": "Hőszigetelő",
         "description": "Tag \"craft=insulation\". See https://wiki.openstreetmap.org/wiki/Tag:craft=insulation"
     },
     "tag:craft=iron_craftsman": {
@@ -1209,11 +1209,11 @@
         "description": "Tag \"craft=jeweller\". See https://wiki.openstreetmap.org/wiki/Tag:craft=jeweller"
     },
     "tag:craft=joiner": {
-        "message": "",
+        "message": "Asztalos",
         "description": "Tag \"craft=joiner\". See https://wiki.openstreetmap.org/wiki/Tag:craft=joiner"
     },
     "tag:craft=juice_bottler": {
-        "message": "",
+        "message": "Gyümölcslé-palackozó",
         "description": "Tag \"craft=juice_bottler\". See https://wiki.openstreetmap.org/wiki/Tag:craft=juice_bottler"
     },
     "tag:craft=key_cutter": {
@@ -1229,11 +1229,11 @@
         "description": "Tag \"craft=leather\". See https://wiki.openstreetmap.org/wiki/Tag:craft=leather"
     },
     "tag:craft=locksmith": {
-        "message": "",
+        "message": "Zárlakatos",
         "description": "Tag \"craft=locksmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=locksmith"
     },
     "tag:craft=luthier": {
-        "message": "",
+        "message": "Hangszerész (húros hangszer)",
         "description": "Tag \"craft=luthier\". See https://wiki.openstreetmap.org/wiki/Tag:craft=luthier"
     },
     "tag:craft=mason": {
@@ -1241,7 +1241,7 @@
         "description": "Tag \"craft=mason\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mason"
     },
     "tag:craft=metal_construction": {
-        "message": "",
+        "message": "Fémiparos",
         "description": "Tag \"craft=metal_construction\". See https://wiki.openstreetmap.org/wiki/Tag:craft=metal_construction"
     },
     "tag:craft=metal_works": {
@@ -1249,7 +1249,7 @@
         "description": "Tag \"craft=metal_works\". See https://wiki.openstreetmap.org/wiki/Tag:craft=metal_works"
     },
     "tag:craft=mint": {
-        "message": "",
+        "message": "Pénzverde",
         "description": "Tag \"craft=mint\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mint"
     },
     "tag:craft=mobile_phone": {
@@ -1257,7 +1257,7 @@
         "description": "Tag \"craft=mobile_phone\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mobile_phone"
     },
     "tag:craft=model_maker": {
-        "message": "",
+        "message": "Makettkészítő",
         "description": "Tag \"craft=model_maker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=model_maker"
     },
     "tag:craft=musical_instrument": {
@@ -1273,15 +1273,15 @@
         "description": "Tag \"craft=organ_builder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=organ_builder"
     },
     "tag:craft=painter": {
-        "message": "",
+        "message": "Szobafestő",
         "description": "Tag \"craft=painter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=painter"
     },
     "tag:craft=parquet_layer": {
-        "message": "",
+        "message": "Parkettalerakó",
         "description": "Tag \"craft=parquet_layer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=parquet_layer"
     },
     "tag:craft=paver": {
-        "message": "Burkoló",
+        "message": "Kültéri burkoló",
         "description": "Tag \"craft=paver\". See https://wiki.openstreetmap.org/wiki/Tag:craft=paver"
     },
     "tag:craft=photo_studio": {
@@ -1301,7 +1301,7 @@
         "description": "Tag \"craft=piano_tuner\". See https://wiki.openstreetmap.org/wiki/Tag:craft=piano_tuner"
     },
     "tag:craft=plasterer": {
-        "message": "",
+        "message": "Gipszműves, stukkós",
         "description": "Tag \"craft=plasterer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=plasterer"
     },
     "tag:craft=plumber": {
@@ -1313,7 +1313,7 @@
         "description": "Tag \"craft=pottery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=pottery"
     },
     "tag:craft=print_shop": {
-        "message": "",
+        "message": "Gyorsnyomda",
         "description": "Tag \"craft=print_shop\". See https://wiki.openstreetmap.org/wiki/Tag:craft=print_shop"
     },
     "tag:craft=printer": {
@@ -1321,7 +1321,7 @@
         "description": "Tag \"craft=printer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=printer"
     },
     "tag:craft=printmaker": {
-        "message": "",
+        "message": "Nyomat-, metszetkészítő",
         "description": "Tag \"craft=printmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=printmaker"
     },
     "tag:craft=repair": {
@@ -1329,15 +1329,15 @@
         "description": "Tag \"craft=repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=repair"
     },
     "tag:craft=restoration": {
-        "message": "",
+        "message": "Restaurátor",
         "description": "Tag \"craft=restoration\". See https://wiki.openstreetmap.org/wiki/Tag:craft=restoration"
     },
     "tag:craft=rigger": {
-        "message": "",
+        "message": "Vitorlásfelszerelés-készítő",
         "description": "Tag \"craft=rigger\". See https://wiki.openstreetmap.org/wiki/Tag:craft=rigger"
     },
     "tag:craft=roofer": {
-        "message": "",
+        "message": "Tetőfedő",
         "description": "Tag \"craft=roofer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=roofer"
     },
     "tag:craft=saddler": {
@@ -1353,7 +1353,7 @@
         "description": "Tag \"craft=sawmill\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sawmill"
     },
     "tag:craft=scaffolder": {
-        "message": "",
+        "message": "Állványépítő",
         "description": "Tag \"craft=scaffolder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=scaffolder"
     },
     "tag:craft=sculptor": {
@@ -1369,47 +1369,47 @@
         "description": "Tag \"craft=shoemaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=shoemaker"
     },
     "tag:craft=signmaker": {
-        "message": "",
+        "message": "Címfestő",
         "description": "Tag \"craft=signmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=signmaker"
     },
     "tag:craft=stand_builder": {
-        "message": "",
+        "message": "Standépítő",
         "description": "Tag \"craft=stand_builder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=stand_builder"
     },
     "tag:craft=stonemason": {
-        "message": "",
+        "message": "Kőfaragó",
         "description": "Tag \"craft=stonemason\". See https://wiki.openstreetmap.org/wiki/Tag:craft=stonemason"
     },
     "tag:craft=sun_protection": {
-        "message": "",
+        "message": "Árnyékolástechnikus",
         "description": "Tag \"craft=sun_protection\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sun_protection"
     },
     "tag:craft=tailor": {
-        "message": "Szabó",
+        "message": "Férfi szabó",
         "description": "Tag \"craft=tailor\". See https://wiki.openstreetmap.org/wiki/Tag:craft=tailor"
     },
     "tag:craft=tiler": {
-        "message": "",
+        "message": "Beltéri burkoló",
         "description": "Tag \"craft=tiler\". See https://wiki.openstreetmap.org/wiki/Tag:craft=tiler"
     },
     "tag:craft=tinsmith": {
-        "message": "",
+        "message": "Bádogos",
         "description": "Tag \"craft=tinsmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=tinsmith"
     },
     "tag:craft=toolmaker": {
-        "message": "",
+        "message": "Szerszámkészítő",
         "description": "Tag \"craft=toolmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=toolmaker"
     },
     "tag:craft=turner": {
-        "message": "",
+        "message": "Esztergályos",
         "description": "Tag \"craft=turner\". See https://wiki.openstreetmap.org/wiki/Tag:craft=turner"
     },
     "tag:craft=upholsterer": {
-        "message": "",
+        "message": "Kárpitos",
         "description": "Tag \"craft=upholsterer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=upholsterer"
     },
     "tag:craft=varnisher": {
-        "message": "",
+        "message": "Lakkozó, fényező",
         "description": "Tag \"craft=varnisher\". See https://wiki.openstreetmap.org/wiki/Tag:craft=varnisher"
     },
     "tag:craft=watchmaker": {
@@ -1417,11 +1417,11 @@
         "description": "Tag \"craft=watchmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=watchmaker"
     },
     "tag:craft=welder": {
-        "message": "",
+        "message": "Hegesztő",
         "description": "Tag \"craft=welder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=welder"
     },
     "tag:craft=window_construction": {
-        "message": "",
+        "message": "Ablakkészítő",
         "description": "Tag \"craft=window_construction\". See https://wiki.openstreetmap.org/wiki/Tag:craft=window_construction"
     },
     "tag:craft=winery": {
@@ -4358,7 +4358,7 @@
         "description": "Tag \"shop=copyshop\". See https://wiki.openstreetmap.org/wiki/Tag:shop=copyshop"
     },
     "tag:shop=craft": {
-        "message": "",
+        "message": "Kézműveskellék-bolt",
         "description": "Tag \"shop=craft\". See https://wiki.openstreetmap.org/wiki/Tag:shop=craft"
     },
     "tag:shop=curtain": {
