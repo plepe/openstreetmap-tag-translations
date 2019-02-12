@@ -3278,7 +3278,7 @@
         "description": "Tag \"office=advertising_agency\". See https://wiki.openstreetmap.org/wiki/Tag:office=advertising_agency"
     },
     "tag:office=architect": {
-        "message": "",
+        "message": "Architekt",
         "description": "Tag \"office=architect\". See https://wiki.openstreetmap.org/wiki/Tag:office=architect"
     },
     "tag:office=association": {
@@ -3290,7 +3290,7 @@
         "description": "Tag \"office=camping\". See https://wiki.openstreetmap.org/wiki/Tag:office=camping"
     },
     "tag:office=charity": {
-        "message": "",
+        "message": "Wohltätigkeit",
         "description": "Tag \"office=charity\". See https://wiki.openstreetmap.org/wiki/Tag:office=charity"
     },
     "tag:office=company": {
@@ -3302,7 +3302,7 @@
         "description": "Tag \"office=cooperative\". See https://wiki.openstreetmap.org/wiki/Tag:office=cooperative"
     },
     "tag:office=coworking": {
-        "message": "",
+        "message": "CoWorking",
         "description": "Tag \"office=coworking\". See https://wiki.openstreetmap.org/wiki/Tag:office=coworking"
     },
     "tag:office=diplomatic": {
@@ -3322,7 +3322,7 @@
         "description": "Tag \"office=energy_supplier\". See https://wiki.openstreetmap.org/wiki/Tag:office=energy_supplier"
     },
     "tag:office=engineer": {
-        "message": "",
+        "message": "Ingenieur",
         "description": "Tag \"office=engineer\". See https://wiki.openstreetmap.org/wiki/Tag:office=engineer"
     },
     "tag:office=estate_agent": {
@@ -3354,7 +3354,7 @@
         "description": "Tag \"office=guide\". See https://wiki.openstreetmap.org/wiki/Tag:office=guide"
     },
     "tag:office=insurance": {
-        "message": "",
+        "message": "Versicherung",
         "description": "Tag \"office=insurance\". See https://wiki.openstreetmap.org/wiki/Tag:office=insurance"
     },
     "tag:office=it": {
@@ -3362,19 +3362,19 @@
         "description": "Tag \"office=it\". See https://wiki.openstreetmap.org/wiki/Tag:office=it"
     },
     "tag:office=lawyer": {
-        "message": "",
+        "message": "Rechtsanwalt",
         "description": "Tag \"office=lawyer\". See https://wiki.openstreetmap.org/wiki/Tag:office=lawyer"
     },
     "tag:office=logistics": {
-        "message": "",
+        "message": "Logistik",
         "description": "Tag \"office=logistics\". See https://wiki.openstreetmap.org/wiki/Tag:office=logistics"
     },
     "tag:office=moving_company": {
-        "message": "",
+        "message": "Umzugsspedition",
         "description": "Tag \"office=moving_company\". See https://wiki.openstreetmap.org/wiki/Tag:office=moving_company"
     },
     "tag:office=newspaper": {
-        "message": "",
+        "message": "Zeitungsverlag",
         "description": "Tag \"office=newspaper\". See https://wiki.openstreetmap.org/wiki/Tag:office=newspaper"
     },
     "tag:office=ngo": {
@@ -3382,7 +3382,7 @@
         "description": "Tag \"office=ngo\". See https://wiki.openstreetmap.org/wiki/Tag:office=ngo"
     },
     "tag:office=notary": {
-        "message": "",
+        "message": "Notar",
         "description": "Tag \"office=notary\". See https://wiki.openstreetmap.org/wiki/Tag:office=notary"
     },
     "tag:office=parish": {
@@ -3390,11 +3390,11 @@
         "description": "Tag \"office=parish\". See https://wiki.openstreetmap.org/wiki/Tag:office=parish"
     },
     "tag:office=political_party": {
-        "message": "",
+        "message": "Politische Partei",
         "description": "Tag \"office=political_party\". See https://wiki.openstreetmap.org/wiki/Tag:office=political_party"
     },
     "tag:office=private_investigator": {
-        "message": "",
+        "message": "Privatdetektiv",
         "description": "Tag \"office=private_investigator\". See https://wiki.openstreetmap.org/wiki/Tag:office=private_investigator"
     },
     "tag:office=property_management": {
@@ -3402,7 +3402,7 @@
         "description": "Tag \"office=property_management\". See https://wiki.openstreetmap.org/wiki/Tag:office=property_management"
     },
     "tag:office=publisher": {
-        "message": "",
+        "message": "Verlag",
         "description": "Tag \"office=publisher\". See https://wiki.openstreetmap.org/wiki/Tag:office=publisher"
     },
     "tag:office=quango": {
@@ -3422,11 +3422,11 @@
         "description": "Tag \"office=surveyor\". See https://wiki.openstreetmap.org/wiki/Tag:office=surveyor"
     },
     "tag:office=tax": {
-        "message": "",
+        "message": "Steuerberatung",
         "description": "Tag \"office=tax\". See https://wiki.openstreetmap.org/wiki/Tag:office=tax"
     },
     "tag:office=tax_advisor": {
-        "message": "",
+        "message": "Steuerberatung",
         "description": "Tag \"office=tax_advisor\". See https://wiki.openstreetmap.org/wiki/Tag:office=tax_advisor"
     },
     "tag:office=telecommunication": {
@@ -3446,7 +3446,7 @@
         "description": "Tag \"office=tourist_accomodation\". See https://wiki.openstreetmap.org/wiki/Tag:office=tourist_accomodation"
     },
     "tag:office=travel_agent": {
-        "message": "",
+        "message": "Reisebüro",
         "description": "Tag \"office=travel_agent\". See https://wiki.openstreetmap.org/wiki/Tag:office=travel_agent"
     },
     "tag:office=vacant": {
@@ -3510,7 +3510,7 @@
         "description": "Key \"payment:coins\". See https://wiki.openstreetmap.org/wiki/Key:payment:coins"
     },
     "tag:payment:credit_cards": {
-        "message": "",
+        "message": "Kreditkarten",
         "description": "Key \"payment:credit_cards\". See https://wiki.openstreetmap.org/wiki/Key:payment:credit_cards"
     },
     "tag:payment:cryptocurrencies": {
@@ -3550,7 +3550,7 @@
         "description": "Key \"payment:mastercard\". See https://wiki.openstreetmap.org/wiki/Key:payment:mastercard"
     },
     "tag:payment:none": {
-        "message": "",
+        "message": "Keine",
         "description": "Key \"payment:none\". See https://wiki.openstreetmap.org/wiki/Key:payment:none"
     },
     "tag:payment:notes": {
