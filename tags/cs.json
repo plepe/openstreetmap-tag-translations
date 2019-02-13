@@ -393,6 +393,14 @@
         "message": "",
         "description": "Tag \"amenity=recycling\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=recycling"
     },
+    "tag:amenity=recycling recycling_type=centre": {
+        "message": "Recyklace",
+        "description": "Tag \"recycling_type=centre\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=centre"
+    },
+    "tag:amenity=recycling recycling_type=container": {
+        "message": "Kontejner",
+        "description": "Tag \"recycling_type=container\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=container"
+    },
     "tag:amenity=restaurant": {
         "message": "Restaurace",
         "!=1": "Restaurace",
@@ -3986,14 +3994,6 @@
     "tag:real_ale": {
         "message": "Nabízen alkohol",
         "description": "Key \"real_ale\". See https://wiki.openstreetmap.org/wiki/Key:real_ale"
-    },
-    "tag:recycling_type=centre": {
-        "message": "Recyklace",
-        "description": "Tag \"recycling_type=centre\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=centre"
-    },
-    "tag:recycling_type=container": {
-        "message": "Kontejner",
-        "description": "Tag \"recycling_type=container\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=container"
     },
     "tag:ref": {
         "message": "Reference",

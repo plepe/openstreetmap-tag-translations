@@ -393,6 +393,14 @@
         "message": "",
         "description": "Tag \"amenity=recycling\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=recycling"
     },
+    "tag:amenity=recycling recycling_type=centre": {
+        "message": "",
+        "description": "Tag \"recycling_type=centre\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=centre"
+    },
+    "tag:amenity=recycling recycling_type=container": {
+        "message": "",
+        "description": "Tag \"recycling_type=container\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=container"
+    },
     "tag:amenity=restaurant": {
         "message": "Ресторан",
         "!=1": "Ресторани",
@@ -3988,14 +3996,6 @@
     "tag:real_ale": {
         "message": "",
         "description": "Key \"real_ale\". See https://wiki.openstreetmap.org/wiki/Key:real_ale"
-    },
-    "tag:recycling_type=centre": {
-        "message": "",
-        "description": "Tag \"recycling_type=centre\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=centre"
-    },
-    "tag:recycling_type=container": {
-        "message": "",
-        "description": "Tag \"recycling_type=container\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=container"
     },
     "tag:ref": {
         "message": "Препорука",
