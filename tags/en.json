@@ -2785,6 +2785,10 @@
         "message": "Artificial structures",
         "description": "Key \"man_made\". See https://wiki.openstreetmap.org/wiki/Key:man_made"
     },
+    "tag:man_made=incinerator": {
+        "message": "Incinerator",
+        "description": "Tag \"man_made=incinerator\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=incinerator"
+    },
     "tag:man_made=mineshaft": {
         "message": "Mineshaft",
         "description": "Tag \"man_made=mineshaft\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=mineshaft"
