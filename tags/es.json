@@ -1,9 +1,9 @@
 {
     "tag:*=no": {
-        "message": ""
+        "message": "no"
     },
     "tag:*=yes": {
-        "message": ""
+        "message": "sí"
     },
     "tag:abandoned": {
         "message": "",
@@ -14,50 +14,50 @@
         "description": "Key \"abutters\". See https://wiki.openstreetmap.org/wiki/Key:abutters"
     },
     "tag:access": {
-        "message": "",
+        "message": "Permiso de acceso general",
         "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
     },
     "tag:access!=private": {
-        "message": ""
+        "message": "no privado"
     },
     "tag:access=private": {
-        "message": "",
+        "message": "privado",
         "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
     },
     "tag:accomodation": {
-        "message": "",
+        "message": "Alojamiento",
         "description": "Key \"accomodation\". See https://wiki.openstreetmap.org/wiki/Key:accomodation"
     },
     "tag:addr:city": {
-        "message": "",
+        "message": "Ciudad",
         "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
     },
     "tag:addr:country": {
-        "message": "",
+        "message": "País",
         "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
     },
     "tag:addr:full": {
-        "message": "",
+        "message": "Dirección completa",
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
-        "message": "",
+        "message": "Nombre de la casa",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
-        "message": "",
+        "message": "Número de casa",
         "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
     },
     "tag:addr:interpolation": {
-        "message": "",
+        "message": "Números de casa interpolados",
         "description": "Key \"addr:interpolation\". See https://wiki.openstreetmap.org/wiki/Key:addr:interpolation"
     },
     "tag:addr:postcode": {
-        "message": "",
+        "message": "Código Postal",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
-        "message": "",
+        "message": "Calle",
         "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
     },
     "tag:address": {
@@ -69,35 +69,35 @@
         "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
     },
     "tag:admin_level=10": {
-        "message": "",
+        "message": "Suburbio (10)",
         "description": "Tag \"admin_level=10\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=10"
     },
     "tag:admin_level=11": {
-        "message": "",
+        "message": "Barrio (11)",
         "description": "Tag \"admin_level=11\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=11"
     },
     "tag:admin_level=2": {
-        "message": "",
+        "message": "Frontera Nacional (2)",
         "description": "Tag \"admin_level=2\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=2"
     },
     "tag:admin_level=3": {
-        "message": "",
+        "message": "? (3)",
         "description": "Tag \"admin_level=3\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=3"
     },
     "tag:admin_level=4": {
-        "message": "",
+        "message": "Frontera del estado (4)",
         "description": "Tag \"admin_level=4\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=4"
     },
     "tag:admin_level=5": {
-        "message": "",
+        "message": "(5)",
         "description": "Tag \"admin_level=5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=5"
     },
     "tag:admin_level=6": {
-        "message": "",
+        "message": "Condados (6)",
         "description": "Tag \"admin_level=6\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=6"
     },
     "tag:admin_level=7": {
-        "message": "",
+        "message": "(7)",
         "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=7.5": {
@@ -105,15 +105,15 @@
         "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
     },
     "tag:admin_level=8": {
-        "message": "",
+        "message": "Municipio (8)",
         "description": "Tag \"admin_level=8\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=8"
     },
     "tag:admin_level=9": {
-        "message": "",
+        "message": "(9)",
         "description": "Tag \"admin_level=9\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=9"
     },
     "tag:aerialway": {
-        "message": "",
+        "message": "Vía aérea",
         "description": "Key \"aerialway\". See https://wiki.openstreetmap.org/wiki/Key:aerialway"
     },
     "tag:aeroway": {
@@ -121,7 +121,7 @@
         "description": "Key \"aeroway\". See https://wiki.openstreetmap.org/wiki/Key:aeroway"
     },
     "tag:aeroway=runway": {
-        "message": "",
+        "message": "Pista",
         "description": "Tag \"aeroway=runway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=runway"
     },
     "tag:aeroway=taxiway": {
@@ -3591,7 +3591,6 @@
     },
     "tag:place=city": {
         "message": "Ciudad",
-        "!=1": "Ciudades",
         "description": "Tag \"place=city\". See https://wiki.openstreetmap.org/wiki/Tag:place=city"
     },
     "tag:place=city population<200000": {
@@ -3600,12 +3599,10 @@
     },
     "tag:place=continent": {
         "message": "Continente",
-        "!=1": "Continentes",
         "description": "Tag \"place=continent\". See https://wiki.openstreetmap.org/wiki/Tag:place=continent"
     },
     "tag:place=country": {
         "message": "País",
-        "!=1": "Países",
         "description": "Tag \"place=country\". See https://wiki.openstreetmap.org/wiki/Tag:place=country"
     },
     "tag:place=county": {
@@ -3622,7 +3619,6 @@
     },
     "tag:place=island": {
         "message": "Isla",
-        "!=1": "Islas",
         "description": "Tag \"place=island\". See https://wiki.openstreetmap.org/wiki/Tag:place=island"
     },
     "tag:place=islet": {
@@ -3651,7 +3647,6 @@
     },
     "tag:place=region": {
         "message": "Región",
-        "!=1": "Regiones",
         "description": "Tag \"place=region\". See https://wiki.openstreetmap.org/wiki/Tag:place=region"
     },
     "tag:place=sea": {
@@ -3660,12 +3655,10 @@
     },
     "tag:place=state": {
         "message": "Estado",
-        "!=1": "Estados",
         "description": "Tag \"place=state\". See https://wiki.openstreetmap.org/wiki/Tag:place=state"
     },
     "tag:place=suburb": {
         "message": "Suburbio",
-        "!=1": "Suburbios",
         "description": "Tag \"place=suburb\". See https://wiki.openstreetmap.org/wiki/Tag:place=suburb"
     },
     "tag:place=town": {
