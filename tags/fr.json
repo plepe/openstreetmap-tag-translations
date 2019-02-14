@@ -69,7 +69,7 @@
         "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
     },
     "tag:admin_level=10": {
-        "message": "Arrondissement  (10)",
+        "message": "Arrondissement (10)",
         "description": "Tag \"admin_level=10\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=10"
     },
     "tag:admin_level=11": {
@@ -121,7 +121,7 @@
         "description": "Key \"aeroway\". See https://wiki.openstreetmap.org/wiki/Key:aeroway"
     },
     "tag:aeroway=runway": {
-        "message": "Piste d'aterrissage",
+        "message": "Piste",
         "description": "Tag \"aeroway=runway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=runway"
     },
     "tag:aeroway=taxiway": {
@@ -1029,7 +1029,7 @@
         "description": "Tag \"community_centre=youth_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=youth_centre"
     },
     "tag:construction": {
-        "message": "Construction",
+        "message": "Chantier de construction",
         "description": "Key \"construction\". See https://wiki.openstreetmap.org/wiki/Key:construction"
     },
     "tag:covered": {
@@ -1766,7 +1766,7 @@
         "description": "Key \"diet:raw\". See https://wiki.openstreetmap.org/wiki/Key:diet:raw"
     },
     "tag:diet:vegan": {
-        "message": "vegan",
+        "message": "végan",
         "description": "Key \"diet:vegan\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegan"
     },
     "tag:diet:vegetarian": {
@@ -4182,7 +4182,7 @@
         "description": "Tag \"route=train\". See https://wiki.openstreetmap.org/wiki/Tag:route=train"
     },
     "tag:route=tram": {
-        "message": "Tram",
+        "message": "Tramway",
         "description": "Tag \"route=tram\". See https://wiki.openstreetmap.org/wiki/Tag:route=tram"
     },
     "tag:route=tram_bus": {
@@ -4190,7 +4190,7 @@
         "description": "Tag \"route=tram_bus\". See https://wiki.openstreetmap.org/wiki/Tag:route=tram_bus"
     },
     "tag:route=trolley": {
-        "message": "Trolley",
+        "message": "Trolleybus",
         "description": "Tag \"route=trolley\". See https://wiki.openstreetmap.org/wiki/Tag:route=trolley"
     },
     "tag:route=trolleybus": {
@@ -4746,7 +4746,7 @@
         "description": "Tag \"sport=baseball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=baseball"
     },
     "tag:sport=basketball": {
-        "message": "Basketball",
+        "message": "Basket-ball",
         "description": "Tag \"sport=basketball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=basketball"
     },
     "tag:sport=beachvolleyball": {
@@ -4902,7 +4902,7 @@
         "description": "Tag \"sport=tennis\". See https://wiki.openstreetmap.org/wiki/Tag:sport=tennis"
     },
     "tag:sport=volleyball": {
-        "message": "Volleyball",
+        "message": "Volley-ball",
         "description": "Tag \"sport=volleyball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=volleyball"
     },
     "tag:start_date": {
@@ -5320,5 +5320,9 @@
     "tag:xmas:feature=tree": {
         "message": "Arbre de Noël",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:man_made=incinerator": {
+        "message": "Incinérateur",
+        "description": "Tag \"man_made=incinerator\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=incinerator"
     }
 }
