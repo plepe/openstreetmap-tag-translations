@@ -100,6 +100,10 @@
         "message": "Parroquia (9)",
         "description": "Tag \"admin_level=9\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=9"
     },
-    "tag:amenity=recycling recycling_type=centre": null,
-    "tag:amenity=recycling recycling_type=container": null
+    "tag:amenity=recycling recycling_type=centre": {
+        "message": ""
+    },
+    "tag:amenity=recycling recycling_type=container": {
+        "message": ""
+    }
 }
