@@ -6,7 +6,7 @@
         "message": "sí"
     },
     "tag:abandoned": {
-        "message": "",
+        "message": "Abandonado",
         "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
     },
     "tag:abutters": {
@@ -65,7 +65,7 @@
         "description": "Key \"address\". See https://wiki.openstreetmap.org/wiki/Key:address"
     },
     "tag:admin_level": {
-        "message": "",
+        "message": "Nivel administrativo",
         "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
     },
     "tag:admin_level=10": {
@@ -101,7 +101,7 @@
         "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=7.5": {
-        "message": "",
+        "message": "Nivel administrativo (7.5)",
         "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
     },
     "tag:admin_level=8": {
@@ -129,7 +129,7 @@
         "description": "Tag \"aeroway=taxiway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=taxiway"
     },
     "tag:alt_name": {
-        "message": "",
+        "message": "Nombre alternativo",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
@@ -137,11 +137,11 @@
         "description": "Key \"amenity\". See https://wiki.openstreetmap.org/wiki/Key:amenity"
     },
     "tag:amenity=arts_centre": {
-        "message": "",
+        "message": "Centro de artes",
         "description": "Tag \"amenity=arts_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=arts_centre"
     },
     "tag:amenity=atm": {
-        "message": "",
+        "message": "Cajero automático",
         "description": "Tag \"amenity=atm\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=atm"
     },
     "tag:amenity=baby_hatch": {
@@ -149,35 +149,35 @@
         "description": "Tag \"amenity=baby_hatch\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=baby_hatch"
     },
     "tag:amenity=bank": {
-        "message": "",
+        "message": "Banco",
         "description": "Tag \"amenity=bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bank"
     },
     "tag:amenity=bar": {
-        "message": "",
+        "message": "Pub",
         "description": "Tag \"amenity=bar\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bar"
     },
     "tag:amenity=bench": {
-        "message": "",
+        "message": "Banco (asiento)",
         "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
     },
     "tag:amenity=bicycle_parking": {
-        "message": "",
+        "message": "Aparcamiento de bicicletas",
         "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
     },
     "tag:amenity=bicycle_parking capacity<=20": {
-        "message": "",
+        "message": "Aparcamiento de bicicletas (hasta 20 plazas)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>20<=60": {
-        "message": "",
+        "message": "Aparcamiento de bicicletas (entre 20 y 60 plazas)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>60": {
-        "message": "",
+        "message": "Aparcamiento de bicicletas (más de 60 plazas)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_rental": {
-        "message": "",
+        "message": "Alquiler de bicicletas",
         "description": "Tag \"amenity=bicycle_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_rental"
     },
     "tag:amenity=biergarten": {
@@ -185,31 +185,31 @@
         "description": "Tag \"amenity=biergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=biergarten"
     },
     "tag:amenity=blood_bank": {
-        "message": "",
+        "message": "Banco de sangre",
         "description": "Tag \"amenity=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=blood_bank"
     },
     "tag:amenity=blood_donation": {
-        "message": "",
+        "message": "Donación de sangre",
         "description": "Tag \"amenity=blood_donation\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=blood_donation"
     },
     "tag:amenity=brothel": {
-        "message": "",
+        "message": "Burdel",
         "description": "Tag \"amenity=brothel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=brothel"
     },
     "tag:amenity=bureau_de_change": {
-        "message": "",
+        "message": "Cambio de moneda",
         "description": "Tag \"amenity=bureau_de_change\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bureau_de_change"
     },
     "tag:amenity=bus_station": {
-        "message": "",
+        "message": "Estación de autobuses",
         "description": "Tag \"amenity=bus_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bus_station"
     },
     "tag:amenity=cafe": {
-        "message": "",
+        "message": "Cafetería",
         "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
     },
     "tag:amenity=car_rental": {
-        "message": "",
+        "message": "Alquiler de coches",
         "description": "Tag \"amenity=car_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_rental"
     },
     "tag:amenity=car_sharing": {
@@ -221,19 +221,19 @@
         "description": "Tag \"amenity=car_wash\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_wash"
     },
     "tag:amenity=charging_station": {
-        "message": "",
+        "message": "Estación de carga",
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
     "tag:amenity=cinema": {
-        "message": "",
+        "message": "Cine",
         "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
     },
     "tag:amenity=clinic": {
-        "message": "",
+        "message": "Clínica",
         "description": "Tag \"amenity=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clinic"
     },
     "tag:amenity=clock": {
-        "message": "",
+        "message": "Reloj",
         "description": "Tag \"amenity=clock\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clock"
     },
     "tag:amenity=college": {
@@ -241,11 +241,11 @@
         "description": "Tag \"amenity=college\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=college"
     },
     "tag:amenity=community_centre": {
-        "message": "",
+        "message": "Centro comunitario",
         "description": "Tag \"amenity=community_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=community_centre"
     },
     "tag:amenity=compressed_air": {
-        "message": "",
+        "message": "Aire comprimido",
         "description": "Tag \"amenity=compressed_air\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=compressed_air"
     },
     "tag:amenity=courthouse": {
@@ -253,11 +253,11 @@
         "description": "Tag \"amenity=courthouse\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=courthouse"
     },
     "tag:amenity=crematorium": {
-        "message": "",
+        "message": "Crematorio",
         "description": "Tag \"amenity=crematorium\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=crematorium"
     },
     "tag:amenity=dentist": {
-        "message": "",
+        "message": "Dentista",
         "description": "Tag \"amenity=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=dentist"
     },
     "tag:amenity=doctors": {
@@ -265,15 +265,15 @@
         "description": "Tag \"amenity=doctors\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=doctors"
     },
     "tag:amenity=drinking_water": {
-        "message": "",
+        "message": "Agua potable",
         "description": "Tag \"amenity=drinking_water\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=drinking_water"
     },
     "tag:amenity=embassy": {
-        "message": "",
+        "message": "Embajada",
         "description": "Tag \"amenity=embassy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=embassy"
     },
     "tag:amenity=fast_food": {
-        "message": "",
+        "message": "Restaurante de comida rápida",
         "description": "Tag \"amenity=fast_food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fast_food"
     },
     "tag:amenity=ferry_terminal": {
@@ -281,7 +281,7 @@
         "description": "Tag \"amenity=ferry_terminal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ferry_terminal"
     },
     "tag:amenity=fire_station": {
-        "message": "",
+        "message": "Estación de bomberos",
         "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
     },
     "tag:amenity=food_court": {
@@ -289,11 +289,11 @@
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
-        "message": "",
+        "message": "Fuente",
         "description": "Tag \"amenity=fountain\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fountain"
     },
     "tag:amenity=fuel": {
-        "message": "",
+        "message": "Gasolinera",
         "description": "Tag \"amenity=fuel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fuel"
     },
     "tag:amenity=government": {
@@ -301,39 +301,39 @@
         "description": "Tag \"amenity=government\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=government"
     },
     "tag:amenity=grave_yard": {
-        "message": "",
+        "message": "Cementerio",
         "description": "Tag \"amenity=grave_yard\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=grave_yard"
     },
     "tag:amenity=hospital": {
-        "message": "",
+        "message": "Hospital",
         "description": "Tag \"amenity=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=hospital"
     },
     "tag:amenity=ice_cream": {
-        "message": "",
+        "message": "Heladería",
         "description": "Tag \"amenity=ice_cream\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ice_cream"
     },
     "tag:amenity=internet_cafe": {
-        "message": "",
+        "message": "Cibercafé",
         "description": "Tag \"amenity=internet_cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=internet_cafe"
     },
     "tag:amenity=kindergarten": {
-        "message": "",
+        "message": "Guardería",
         "description": "Tag \"amenity=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=kindergarten"
     },
     "tag:amenity=language_school": {
-        "message": "",
+        "message": "Escuela de idiomas",
         "description": "Tag \"amenity=language_school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=language_school"
     },
     "tag:amenity=library": {
-        "message": "",
+        "message": "Biblioteca",
         "description": "Tag \"amenity=library\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=library"
     },
     "tag:amenity=marketplace": {
-        "message": "",
+        "message": "Mercado",
         "description": "Tag \"amenity=marketplace\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=marketplace"
     },
     "tag:amenity=motorcycle_parking": {
-        "message": "",
+        "message": "Aparcamiento de motocicletas",
         "description": "Tag \"amenity=motorcycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=motorcycle_parking"
     },
     "tag:amenity=nursing_home": {
@@ -341,19 +341,19 @@
         "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
     },
     "tag:amenity=parking": {
-        "message": "",
+        "message": "Aparcamiento",
         "description": "Tag \"amenity=parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parking"
     },
     "tag:amenity=pharmacy": {
-        "message": "",
+        "message": "Farmacia",
         "description": "Tag \"amenity=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pharmacy"
     },
     "tag:amenity=place_of_worship": {
-        "message": "",
+        "message": "Lugar de culto",
         "description": "Tag \"amenity=place_of_worship\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship"
     },
     "tag:amenity=police": {
-        "message": "",
+        "message": "Policía",
         "description": "Tag \"amenity=police\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=police"
     },
     "tag:amenity=post_box": {
@@ -361,43 +361,43 @@
         "description": "Tag \"amenity=post_box\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_box"
     },
     "tag:amenity=post_office": {
-        "message": "",
+        "message": "Oficina de correos",
         "description": "Tag \"amenity=post_office\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_office"
     },
     "tag:amenity=pub": {
-        "message": "",
+        "message": "Bar",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
-        "message": "",
+        "message": "Baño público",
         "description": "Tag \"amenity=public_bath\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bath"
     },
     "tag:amenity=public_bookcase": {
-        "message": "",
+        "message": "Librería pública",
         "description": "Tag \"amenity=public_bookcase\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bookcase"
     },
     "tag:amenity=public_building": {
-        "message": "",
+        "message": "Edificio público",
         "description": "Tag \"amenity=public_building\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_building"
     },
     "tag:amenity=recycling": {
-        "message": "",
+        "message": "Reciclaje",
         "description": "Tag \"amenity=recycling\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=recycling"
     },
     "tag:amenity=recycling recycling_type=centre": {
-        "message": "",
+        "message": "Centro de reciclaje",
         "description": "Tag \"recycling_type=centre\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=centre"
     },
     "tag:amenity=recycling recycling_type=container": {
-        "message": "",
+        "message": "Contenedor",
         "description": "Tag \"recycling_type=container\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=container"
     },
     "tag:amenity=restaurant": {
-        "message": "",
+        "message": "Restaurante",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
-        "message": "",
+        "message": "Escuela",
         "description": "Tag \"amenity=school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=school"
     },
     "tag:amenity=shelter": {
@@ -405,11 +405,11 @@
         "description": "Tag \"amenity=shelter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shelter"
     },
     "tag:amenity=shower": {
-        "message": "",
+        "message": "Ducha",
         "description": "Tag \"amenity=shower\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shower"
     },
     "tag:amenity=signpost": {
-        "message": "",
+        "message": "Poste indicador",
         "description": "Tag \"amenity=signpost\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=signpost"
     },
     "tag:amenity=social_facility": {
@@ -417,39 +417,39 @@
         "description": "Tag \"amenity=social_facility\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=social_facility"
     },
     "tag:amenity=studio": {
-        "message": "",
+        "message": "Estudio",
         "description": "Tag \"amenity=studio\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=studio"
     },
     "tag:amenity=taxi": {
-        "message": "",
+        "message": "Taxi",
         "description": "Tag \"amenity=taxi\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=taxi"
     },
     "tag:amenity=telephone": {
-        "message": "",
+        "message": "Teléfono",
         "description": "Tag \"amenity=telephone\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=telephone"
     },
     "tag:amenity=theatre": {
-        "message": "",
+        "message": "Teatro",
         "description": "Tag \"amenity=theatre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=theatre"
     },
     "tag:amenity=ticket_counter": {
-        "message": "",
+        "message": "Taquilla",
         "description": "Tag \"amenity=ticket_counter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ticket_counter"
     },
     "tag:amenity=toilets": {
-        "message": "",
+        "message": "Aseos",
         "description": "Tag \"amenity=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets"
     },
     "tag:amenity=toilets diaper=yes": {
-        "message": "",
+        "message": "Aseos con cambiador de pañales",
         "description": "Combined tag \"amenity=toilets\" and \"diaper=yes\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets and https://wiki.openstreetmap.org/wiki/Tag:diaper=yes"
     },
     "tag:amenity=townhall": {
-        "message": "",
+        "message": "Ayuntamiento",
         "description": "Tag \"amenity=townhall\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=townhall"
     },
     "tag:amenity=university": {
-        "message": "",
+        "message": "Universidad",
         "description": "Tag \"amenity=university\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=university"
     },
     "tag:amenity=vending_machine": {
@@ -465,11 +465,11 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=cigarettes\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=cigarettes"
     },
     "tag:amenity=vending_machine vending=condoms": {
-        "message": "",
+        "message": "Condones",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=condoms\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=condoms"
     },
     "tag:amenity=vending_machine vending=excrement_bags": {
-        "message": "",
+        "message": "Bolsas para excrementos",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=excrement_bags\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=excrement_bags"
     },
     "tag:amenity=vending_machine vending=food": {
@@ -497,7 +497,7 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_pickup;parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_pickup;parcel_mail_in"
     },
     "tag:amenity=vending_machine vending=parking_tickets": {
-        "message": "",
+        "message": "Máquina expendedora de tickets de aparcamiento",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets"
     },
     "tag:amenity=vending_machine vending=parking_tickets;public_transport_tickets": {
@@ -509,11 +509,11 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=public_transport_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=public_transport_tickets"
     },
     "tag:amenity=vending_machine vending=stamps": {
-        "message": "",
+        "message": "Máquina expendedora de sellos",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=stamps\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=stamps"
     },
     "tag:amenity=vending_machine vending=sweets;chewing_gum": {
-        "message": "",
+        "message": "Máquina expendedora de chicles",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=sweets;chewing_gum\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=sweets;chewing_gum"
     },
     "tag:amenity=vending_machine vending=telephone_vouchers": {
@@ -521,15 +521,15 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=telephone_vouchers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=telephone_vouchers"
     },
     "tag:amenity=veterinary": {
-        "message": "",
+        "message": "Veterinario",
         "description": "Tag \"amenity=veterinary\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=veterinary"
     },
     "tag:amenity=waste_basket": {
-        "message": "",
+        "message": "Papelera",
         "description": "Tag \"amenity=waste_basket\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_basket"
     },
     "tag:amenity=waste_disposal": {
-        "message": "",
+        "message": "Contenedor de basura",
         "description": "Tag \"amenity=waste_disposal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_disposal"
     },
     "tag:amenity=waste_transfer_station": {
@@ -537,31 +537,31 @@
         "description": "Tag \"amenity=waste_transfer_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_transfer_station"
     },
     "tag:architect": {
-        "message": "",
+        "message": "Arquitecto",
         "description": "Key \"architect\". See https://wiki.openstreetmap.org/wiki/Key:architect"
     },
     "tag:area": {
-        "message": "",
+        "message": "Área",
         "description": "Key \"area\". See https://wiki.openstreetmap.org/wiki/Key:area"
     },
     "tag:artist": {
-        "message": "",
+        "message": "Artista",
         "description": "Key \"artist\". See https://wiki.openstreetmap.org/wiki/Key:artist"
     },
     "tag:artist_name": {
-        "message": "",
+        "message": "Nombre del artista",
         "description": "Key \"artist_name\". See https://wiki.openstreetmap.org/wiki/Key:artist_name"
     },
     "tag:barrier": {
-        "message": "",
+        "message": "Barrera",
         "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
     },
     "tag:barrier=city_wall": {
-        "message": "",
+        "message": "Muralla",
         "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
     },
     "tag:barrier=fence": {
-        "message": "",
+        "message": "Valla",
         "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
     },
     "tag:barrier=hedge": {
@@ -569,11 +569,11 @@
         "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
     },
     "tag:barrier=retaining_wall": {
-        "message": "",
+        "message": "Muro de contención",
         "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
     },
     "tag:barrier=wall": {
-        "message": "",
+        "message": "Muro",
         "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
     },
     "tag:bath:open_air": {
