@@ -2661,7 +2661,7 @@
         "description": "Tag \"leisure=dance\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=dance"
     },
     "tag:leisure=dog_park": {
-        "message": "Fishing",
+        "message": "",
         "description": "Tag \"leisure=dog_park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=dog_park"
     },
     "tag:leisure=firepit": {
@@ -2673,7 +2673,7 @@
         "description": "Tag \"leisure=fishing\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=fishing"
     },
     "tag:leisure=fitness_centre": {
-        "message": "Fishing",
+        "message": "",
         "description": "Tag \"leisure=fitness_centre\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=fitness_centre"
     },
     "tag:leisure=fitness_station": {
