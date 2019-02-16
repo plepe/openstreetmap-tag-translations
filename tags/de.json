@@ -4086,11 +4086,11 @@
         "description": "Tag \"residential=cottage\". See https://wiki.openstreetmap.org/wiki/Tag:residential=cottage"
     },
     "tag:residential=detached": {
-        "message": "",
+        "message": "Alleinstehendes Haus",
         "description": "Tag \"residential=detached\". See https://wiki.openstreetmap.org/wiki/Tag:residential=detached"
     },
     "tag:residential=garden": {
-        "message": "",
+        "message": "Garten",
         "description": "Tag \"residential=garden\". See https://wiki.openstreetmap.org/wiki/Tag:residential=garden"
     },
     "tag:residential=gated": {
@@ -4314,7 +4314,7 @@
         "description": "Combined tag \"shop=car_repair\" and \"service=wheel_repair\". See https://wiki.openstreetmap.org/wiki/Tag:shop=car_repair and https://wiki.openstreetmap.org/wiki/Tag:service=wheel_repair"
     },
     "tag:shop=carpet": {
-        "message": "",
+        "message": "Teppichgeschäft",
         "description": "Tag \"shop=carpet\". See https://wiki.openstreetmap.org/wiki/Tag:shop=carpet"
     },
     "tag:shop=charity": {
@@ -4642,7 +4642,7 @@
         "description": "Tag \"shop=ticket\". See https://wiki.openstreetmap.org/wiki/Tag:shop=ticket"
     },
     "tag:shop=tobacco": {
-        "message": "",
+        "message": "Tabak",
         "description": "Tag \"shop=tobacco\". See https://wiki.openstreetmap.org/wiki/Tag:shop=tobacco"
     },
     "tag:shop=toys": {
@@ -4678,7 +4678,7 @@
         "description": "Tag \"shop=watches\". See https://wiki.openstreetmap.org/wiki/Tag:shop=watches"
     },
     "tag:shop=weapons": {
-        "message": "",
+        "message": "Waffen",
         "description": "Tag \"shop=weapons\". See https://wiki.openstreetmap.org/wiki/Tag:shop=weapons"
     },
     "tag:shop=wine": {
@@ -4862,7 +4862,7 @@
         "description": "Tag \"sport=rugby\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rugby"
     },
     "tag:sport=running": {
-        "message": "",
+        "message": "Laufen",
         "description": "Tag \"sport=running\". See https://wiki.openstreetmap.org/wiki/Tag:sport=running"
     },
     "tag:sport=shooting": {
@@ -4934,7 +4934,7 @@
         "description": "Tag \"theatre:genre=boulevard\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=boulevard"
     },
     "tag:theatre:genre=cabaret": {
-        "message": "",
+        "message": "Kabaret",
         "description": "Tag \"theatre:genre=cabaret\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=cabaret"
     },
     "tag:theatre:genre=chamber_music": {
@@ -4942,7 +4942,7 @@
         "description": "Tag \"theatre:genre=chamber_music\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=chamber_music"
     },
     "tag:theatre:genre=circus": {
-        "message": "",
+        "message": "Zirkus",
         "description": "Tag \"theatre:genre=circus\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=circus"
     },
     "tag:theatre:genre=comedy": {
@@ -4966,7 +4966,7 @@
         "description": "Tag \"theatre:genre=musical\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=musical"
     },
     "tag:theatre:genre=opera": {
-        "message": "",
+        "message": "Oper",
         "description": "Tag \"theatre:genre=opera\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=opera"
     },
     "tag:theatre:genre=philharmonic": {
@@ -4982,7 +4982,7 @@
         "description": "Tag \"theatre:genre=puppet\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=puppet"
     },
     "tag:theatre:genre=shadow_play": {
-        "message": "",
+        "message": "Schattenspiel",
         "description": "Tag \"theatre:genre=shadow_play\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=shadow_play"
     },
     "tag:theatre:genre=stand_up_comedy": {
@@ -5190,7 +5190,7 @@
         "description": "Tag \"water=lake\". See https://wiki.openstreetmap.org/wiki/Tag:water=lake"
     },
     "tag:water=lock": {
-        "message": "",
+        "message": "Schleuse",
         "description": "Tag \"water=lock\". See https://wiki.openstreetmap.org/wiki/Tag:water=lock"
     },
     "tag:water=moat": {
