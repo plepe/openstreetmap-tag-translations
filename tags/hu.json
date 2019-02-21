@@ -1574,7 +1574,7 @@
         "description": "Tag \"cuisine=coffee\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=coffee_shop": {
-        "message": "",
+        "message": "Kávé",
         "description": "Tag \"cuisine=coffee_shop\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=cookie": {
@@ -2790,7 +2790,7 @@
         "description": "Tag \"landuse=allotments\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=allotments"
     },
     "tag:landuse=basin": {
-        "message": "",
+        "message": "Vízgyűjtő",
         "description": "Tag \"landuse=basin\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=basin"
     },
     "tag:landuse=brownfield": {
@@ -2814,11 +2814,11 @@
         "description": "Tag \"landuse=farmyard\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=farmyard"
     },
     "tag:landuse=forest": {
-        "message": "Erdő",
+        "message": "Telepített erdő",
         "description": "Tag \"landuse=forest\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=forest"
     },
     "tag:landuse=garages": {
-        "message": "Garázssor",
+        "message": "Garázsok",
         "description": "Tag \"landuse=garages\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=garages"
     },
     "tag:landuse=grass": {
@@ -2830,7 +2830,7 @@
         "description": "Tag \"landuse=greenfield\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=greenfield"
     },
     "tag:landuse=greenhouse_horticulture": {
-        "message": "Üvegház",
+        "message": "Üvegházi kertészet",
         "description": "Tag \"landuse=greenhouse_horticulture\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=greenhouse_horticulture"
     },
     "tag:landuse=industrial": {
@@ -2862,11 +2862,11 @@
         "description": "Tag \"landuse=railway\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=railway"
     },
     "tag:landuse=recreation_ground": {
-        "message": "",
+        "message": "Szabadidőpark",
         "description": "Tag \"landuse=recreation_ground\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=recreation_ground"
     },
     "tag:landuse=reservoir": {
-        "message": "",
+        "message": "Víztározó",
         "description": "Tag \"landuse=reservoir\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=reservoir"
     },
     "tag:landuse=residential": {
@@ -2874,7 +2874,7 @@
         "description": "Tag \"landuse=residential\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=residential"
     },
     "tag:landuse=salt_pond": {
-        "message": "",
+        "message": "Sólepárló medence",
         "description": "Tag \"landuse=salt_pond\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=salt_pond"
     },
     "tag:landuse=vineyard": {
@@ -4518,27 +4518,27 @@
         "description": "Key \"shop\". See https://wiki.openstreetmap.org/wiki/Key:shop"
     },
     "tag:shop=agrarian": {
-        "message": "",
+        "message": "Gazdabolt",
         "description": "Tag \"shop=agrarian\". See https://wiki.openstreetmap.org/wiki/Tag:shop=agrarian"
     },
     "tag:shop=alcohol": {
-        "message": "",
+        "message": "Szeszesitalbolt",
         "description": "Tag \"shop=alcohol\". See https://wiki.openstreetmap.org/wiki/Tag:shop=alcohol"
     },
     "tag:shop=anime": {
-        "message": "",
+        "message": "Anime képregényekkel kapcsolatos bolt",
         "description": "Tag \"shop=anime\". See https://wiki.openstreetmap.org/wiki/Tag:shop=anime"
     },
     "tag:shop=antiques": {
-        "message": "",
+        "message": "Régiségkereskedés",
         "description": "Tag \"shop=antiques\". See https://wiki.openstreetmap.org/wiki/Tag:shop=antiques"
     },
     "tag:shop=appliance": {
-        "message": "",
+        "message": "Háztartási gépek",
         "description": "Tag \"shop=appliance\". See https://wiki.openstreetmap.org/wiki/Tag:shop=appliance"
     },
     "tag:shop=art": {
-        "message": "",
+        "message": "Műalkotásbolt",
         "description": "Tag \"shop=art\". See https://wiki.openstreetmap.org/wiki/Tag:shop=art"
     },
     "tag:shop=baby_goods": {
@@ -4558,7 +4558,7 @@
         "description": "Tag \"shop=beauty\". See https://wiki.openstreetmap.org/wiki/Tag:shop=beauty"
     },
     "tag:shop=bed": {
-        "message": "",
+        "message": "Hálószobafelszerelés-bolt",
         "description": "Tag \"shop=bed\". See https://wiki.openstreetmap.org/wiki/Tag:shop=bed"
     },
     "tag:shop=beverages": {
@@ -4574,19 +4574,19 @@
         "description": "Tag \"shop=books\". See https://wiki.openstreetmap.org/wiki/Tag:shop=books"
     },
     "tag:shop=boutique": {
-        "message": "",
+        "message": "Butik",
         "description": "Tag \"shop=boutique\". See https://wiki.openstreetmap.org/wiki/Tag:shop=boutique"
     },
     "tag:shop=butcher": {
-        "message": "",
+        "message": "Hentes",
         "description": "Tag \"shop=butcher\". See https://wiki.openstreetmap.org/wiki/Tag:shop=butcher"
     },
     "tag:shop=camera": {
-        "message": "",
+        "message": "Fényképezőgépbolt",
         "description": "Tag \"shop=camera\". See https://wiki.openstreetmap.org/wiki/Tag:shop=camera"
     },
     "tag:shop=car_parts": {
-        "message": "Autóalkatrész bolt",
+        "message": "Autóalkatrészbolt",
         "description": "Tag \"shop=car_parts\". See https://wiki.openstreetmap.org/wiki/Tag:shop=car_parts"
     },
     "tag:shop=car_repair": {
@@ -4594,15 +4594,15 @@
         "description": "Tag \"shop=car_repair\". See https://wiki.openstreetmap.org/wiki/Tag:shop=car_repair"
     },
     "tag:shop=car_repair service=wheel_repair": {
-        "message": "",
+        "message": "Gumiszerelő",
         "description": "Combined tag \"shop=car_repair\" and \"service=wheel_repair\". See https://wiki.openstreetmap.org/wiki/Tag:shop=car_repair and https://wiki.openstreetmap.org/wiki/Tag:service=wheel_repair"
     },
     "tag:shop=carpet": {
-        "message": "",
+        "message": "Szőnyegbolt",
         "description": "Tag \"shop=carpet\". See https://wiki.openstreetmap.org/wiki/Tag:shop=carpet"
     },
     "tag:shop=charity": {
-        "message": "",
+        "message": "Jótékonysági bolt",
         "description": "Tag \"shop=charity\". See https://wiki.openstreetmap.org/wiki/Tag:shop=charity"
     },
     "tag:shop=cheese": {
@@ -4626,7 +4626,7 @@
         "description": "Tag \"shop=coffee\". See https://wiki.openstreetmap.org/wiki/Tag:shop=coffee"
     },
     "tag:shop=computer": {
-        "message": "",
+        "message": "Számítástechnikai bolt",
         "description": "Tag \"shop=computer\". See https://wiki.openstreetmap.org/wiki/Tag:shop=computer"
     },
     "tag:shop=confectionery": {
@@ -4638,7 +4638,7 @@
         "description": "Tag \"shop=convenience\". See https://wiki.openstreetmap.org/wiki/Tag:shop=convenience"
     },
     "tag:shop=copyshop": {
-        "message": "",
+        "message": "Fénymásoló",
         "description": "Tag \"shop=copyshop\". See https://wiki.openstreetmap.org/wiki/Tag:shop=copyshop"
     },
     "tag:shop=craft": {
@@ -4646,11 +4646,11 @@
         "description": "Tag \"shop=craft\". See https://wiki.openstreetmap.org/wiki/Tag:shop=craft"
     },
     "tag:shop=curtain": {
-        "message": "",
+        "message": "Függönybolt",
         "description": "Tag \"shop=curtain\". See https://wiki.openstreetmap.org/wiki/Tag:shop=curtain"
     },
     "tag:shop=dairy": {
-        "message": "",
+        "message": "Tejtermékbolt",
         "description": "Tag \"shop=dairy\". See https://wiki.openstreetmap.org/wiki/Tag:shop=dairy"
     },
     "tag:shop=deli": {
@@ -4666,7 +4666,7 @@
         "description": "Tag \"shop=doityourself\". See https://wiki.openstreetmap.org/wiki/Tag:shop=doityourself"
     },
     "tag:shop=dry_cleaning": {
-        "message": "",
+        "message": "Vegytisztító",
         "description": "Tag \"shop=dry_cleaning\". See https://wiki.openstreetmap.org/wiki/Tag:shop=dry_cleaning"
     },
     "tag:shop=e-cigarette": {
@@ -4674,11 +4674,11 @@
         "description": "Tag \"shop=e-cigarette\". See https://wiki.openstreetmap.org/wiki/Tag:shop=e-cigarette"
     },
     "tag:shop=electrical": {
-        "message": "",
+        "message": "Villamossági szaküzlet",
         "description": "Tag \"shop=electrical\". See https://wiki.openstreetmap.org/wiki/Tag:shop=electrical"
     },
     "tag:shop=electronics": {
-        "message": "",
+        "message": "Szórakoztató elektronikai bolt",
         "description": "Tag \"shop=electronics\". See https://wiki.openstreetmap.org/wiki/Tag:shop=electronics"
     },
     "tag:shop=erotic": {
@@ -4690,15 +4690,15 @@
         "description": "Tag \"shop=estate_agent\". See https://wiki.openstreetmap.org/wiki/Tag:shop=estate_agent"
     },
     "tag:shop=fabric": {
-        "message": "",
+        "message": "Méteráru",
         "description": "Tag \"shop=fabric\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fabric"
     },
     "tag:shop=farm": {
-        "message": "",
+        "message": "Termelői bolt",
         "description": "Tag \"shop=farm\". See https://wiki.openstreetmap.org/wiki/Tag:shop=farm"
     },
     "tag:shop=fashion": {
-        "message": "Divatbolt",
+        "message": "Divatüzlet",
         "description": "Tag \"shop=fashion\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fashion"
     },
     "tag:shop=fish": {
@@ -4706,27 +4706,27 @@
         "description": "Tag \"shop=fish\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fish"
     },
     "tag:shop=fishing": {
-        "message": "",
+        "message": "Horgászfelszerelés",
         "description": "Tag \"shop=fishing\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fishing"
     },
     "tag:shop=fishmonger": {
-        "message": "",
+        "message": "Halbolt",
         "description": "Tag \"shop=fishmonger\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fishmonger"
     },
     "tag:shop=fixme": {
-        "message": "",
+        "message": "Javítandó",
         "description": "Tag \"shop=fixme\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fixme"
     },
     "tag:shop=florist": {
-        "message": "",
+        "message": "Virágüzlet",
         "description": "Tag \"shop=florist\". See https://wiki.openstreetmap.org/wiki/Tag:shop=florist"
     },
     "tag:shop=frame": {
-        "message": "",
+        "message": "Képkeretbolt",
         "description": "Tag \"shop=frame\". See https://wiki.openstreetmap.org/wiki/Tag:shop=frame"
     },
     "tag:shop=frozen_food": {
-        "message": "",
+        "message": "Fagyasztott élelmiszer",
         "description": "Tag \"shop=frozen_food\". See https://wiki.openstreetmap.org/wiki/Tag:shop=frozen_food"
     },
     "tag:shop=furniture": {
@@ -4734,15 +4734,15 @@
         "description": "Tag \"shop=furniture\". See https://wiki.openstreetmap.org/wiki/Tag:shop=furniture"
     },
     "tag:shop=games": {
-        "message": "",
+        "message": "Társasjátékbolt",
         "description": "Tag \"shop=games\". See https://wiki.openstreetmap.org/wiki/Tag:shop=games"
     },
     "tag:shop=garden_centre": {
-        "message": "",
+        "message": "Kertészet",
         "description": "Tag \"shop=garden_centre\". See https://wiki.openstreetmap.org/wiki/Tag:shop=garden_centre"
     },
     "tag:shop=general": {
-        "message": "",
+        "message": "Vegyesbolt",
         "description": "Tag \"shop=general\". See https://wiki.openstreetmap.org/wiki/Tag:shop=general"
     },
     "tag:shop=gift": {
