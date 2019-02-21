@@ -6,6 +6,7 @@
   "author": "Stephan Bösch-Plepelits <skunk@xover.mud.at>",
   "license": "CC-SA-BY-2.0",
   "devDependencies": {
+    "argparse": "^1.0.10",
     "async-foreach": "^0.1.3"
   }
 }
