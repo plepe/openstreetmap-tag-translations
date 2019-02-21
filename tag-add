@@ -64,9 +64,13 @@ fs.readdir('tags/', function (err, files) {
         return done()
       }
 
-      data[tag] = {
-        message: '',
-        description: description
+      if (tag in data) {
+        console.log('File ' + file + ': tag already exists')
+      } else {
+        data[tag] = {
+          message: '',
+          description: description
+        }
       }
 
       var ret = {}
