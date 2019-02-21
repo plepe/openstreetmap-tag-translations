@@ -105,5 +105,6 @@
     },
     "tag:amenity=recycling recycling_type=container": {
         "message": ""
-    }
+    },
+    "tag:cuisine=noodle": null
 }
