@@ -28,6 +28,9 @@ if (description === null) {
   if (m = args.tag.match(/^([a-z_:0-9]+)$/)) {
     description = `Key "${m[1]}". See https:\/\/wiki.openstreetmap.org/wiki/Key:${m[1]}`
   }
+  else if (m = args.tag.match(/^(cuisine=[^ ]+)$/)) {
+    description = `Tag "${m[1]}". See https:\/\/wiki.openstreetmap.org/wiki/Key:cuisine`
+  }
   else if (m = args.tag.match(/^([a-z_:0-9]+=[^ ]+)$/)) {
     description = `Tag "${m[1]}". See https:\/\/wiki.openstreetmap.org/wiki/Tag:${m[1]}`
   }
