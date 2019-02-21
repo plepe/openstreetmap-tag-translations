@@ -382,7 +382,10 @@
         "message": "",
         "description": "Tag \"cuisine=new_mexican\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
-    "tag:cuisine=noodle": null,
+    "tag:cuisine=noodle": {
+        "message": "",
+        "description": "Tag \"cuisine=noodle\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=okinawa_ryori": {
         "message": "",
         "description": "Tag \"cuisine=okinawa_ryori\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
