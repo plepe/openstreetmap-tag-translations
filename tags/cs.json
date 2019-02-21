@@ -4599,6 +4599,10 @@
         "message": "",
         "description": "Tag \"shop=books\". See https://wiki.openstreetmap.org/wiki/Tag:shop=books"
     },
+    "tag:shop=boutique": {
+        "message": "",
+        "description": "Tag \"shop=boutique\". See https://wiki.openstreetmap.org/wiki/Tag:shop=boutique"
+    },
     "tag:shop=butcher": {
         "message": "",
         "description": "Tag \"shop=butcher\". See https://wiki.openstreetmap.org/wiki/Tag:shop=butcher"
@@ -4671,6 +4675,10 @@
         "message": "",
         "description": "Tag \"shop=curtain\". See https://wiki.openstreetmap.org/wiki/Tag:shop=curtain"
     },
+    "tag:shop=dairy": {
+        "message": "",
+        "description": "Tag \"shop=dairy\". See https://wiki.openstreetmap.org/wiki/Tag:shop=dairy"
+    },
     "tag:shop=deli": {
         "message": "",
         "description": "Tag \"shop=deli\". See https://wiki.openstreetmap.org/wiki/Tag:shop=deli"
@@ -4723,6 +4731,10 @@
         "message": "Obchod s rybami",
         "description": "Tag \"shop=fish\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fish"
     },
+    "tag:shop=fishing": {
+        "message": "",
+        "description": "Tag \"shop=fishing\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fishing"
+    },
     "tag:shop=fishmonger": {
         "message": "Obchod s rybami",
         "description": "Tag \"shop=fishmonger\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fishmonger"
@@ -4754,6 +4766,10 @@
     "tag:shop=garden_centre": {
         "message": "Zahradnické centrum",
         "description": "Tag \"shop=garden_centre\". See https://wiki.openstreetmap.org/wiki/Tag:shop=garden_centre"
+    },
+    "tag:shop=general": {
+        "message": "",
+        "description": "Tag \"shop=general\". See https://wiki.openstreetmap.org/wiki/Tag:shop=general"
     },
     "tag:shop=gift": {
         "message": "",
@@ -4915,6 +4931,10 @@
         "message": "Nákupní centrum",
         "description": "Tag \"shop=shopping_centre\". See https://wiki.openstreetmap.org/wiki/Tag:shop=shopping_centre"
     },
+    "tag:shop=spices": {
+        "message": "",
+        "description": "Tag \"shop=spices\". See https://wiki.openstreetmap.org/wiki/Tag:shop=spices"
+    },
     "tag:shop=sports": {
         "message": "Sportovní potřeby",
         "description": "Tag \"shop=sports\". See https://wiki.openstreetmap.org/wiki/Tag:shop=sports"
@@ -5035,6 +5055,10 @@
         "message": "",
         "description": "Tag \"sport=9pin\". See https://wiki.openstreetmap.org/wiki/Tag:sport=9pin"
     },
+    "tag:sport=american_football": {
+        "message": "",
+        "description": "Tag \"sport=american_football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=american_football"
+    },
     "tag:sport=archery": {
         "message": "Lukostřelba",
         "description": "Tag \"sport=archery\". See https://wiki.openstreetmap.org/wiki/Tag:sport=archery"
@@ -5046,6 +5070,10 @@
     "tag:sport=australian_football": {
         "message": "",
         "description": "Tag \"sport=australian_football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=australian_football"
+    },
+    "tag:sport=badminton": {
+        "message": "",
+        "description": "Tag \"sport=badminton\". See https://wiki.openstreetmap.org/wiki/Tag:sport=badminton"
     },
     "tag:sport=baseball": {
         "message": "Baseball",
@@ -5059,6 +5087,14 @@
         "message": "Beachvolejbal",
         "description": "Tag \"sport=beachvolleyball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=beachvolleyball"
     },
+    "tag:sport=billiards": {
+        "message": "",
+        "description": "Tag \"sport=billiards\". See https://wiki.openstreetmap.org/wiki/Tag:sport=billiards"
+    },
+    "tag:sport=bmx": {
+        "message": "",
+        "description": "Tag \"sport=bmx\". See https://wiki.openstreetmap.org/wiki/Tag:sport=bmx"
+    },
     "tag:sport=boules": {
         "message": "Petanque",
         "description": "Tag \"sport=boules\". See https://wiki.openstreetmap.org/wiki/Tag:sport=boules"
@@ -5066,6 +5102,10 @@
     "tag:sport=bowls": {
         "message": "",
         "description": "Tag \"sport=bowls\". See https://wiki.openstreetmap.org/wiki/Tag:sport=bowls"
+    },
+    "tag:sport=canadian_football": {
+        "message": "",
+        "description": "Tag \"sport=canadian_football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=canadian_football"
     },
     "tag:sport=canoe": {
         "message": "Kánoe",
@@ -5079,6 +5119,10 @@
         "message": "Horolezectví",
         "description": "Tag \"sport=climbing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=climbing"
     },
+    "tag:sport=cockfighting": {
+        "message": "",
+        "description": "Tag \"sport=cockfighting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cockfighting"
+    },
     "tag:sport=cricket": {
         "message": "Kriket",
         "description": "Tag \"sport=cricket\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cricket"
@@ -5091,6 +5135,10 @@
         "message": "Cyklistika",
         "description": "Tag \"sport=cycling\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cycling"
     },
+    "tag:sport=darts": {
+        "message": "",
+        "description": "Tag \"sport=darts\". See https://wiki.openstreetmap.org/wiki/Tag:sport=darts"
+    },
     "tag:sport=diving": {
         "message": "Potápění",
         "description": "Tag \"sport=diving\". See https://wiki.openstreetmap.org/wiki/Tag:sport=diving"
@@ -5102,6 +5150,10 @@
     "tag:sport=equestrian": {
         "message": "Krasojezdectví",
         "description": "Tag \"sport=equestrian\". See https://wiki.openstreetmap.org/wiki/Tag:sport=equestrian"
+    },
+    "tag:sport=field_hockey": {
+        "message": "",
+        "description": "Tag \"sport=field_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=field_hockey"
     },
     "tag:sport=fitness": {
         "message": "",
@@ -5127,9 +5179,25 @@
         "message": "Dostihy",
         "description": "Tag \"sport=horse_racing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=horse_racing"
     },
+    "tag:sport=ice_hockey": {
+        "message": "",
+        "description": "Tag \"sport=ice_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_hockey"
+    },
+    "tag:sport=ice_skating": {
+        "message": "",
+        "description": "Tag \"sport=ice_skating\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_skating"
+    },
     "tag:sport=korfball": {
         "message": "Korfbal",
         "description": "Tag \"sport=korfball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=korfball"
+    },
+    "tag:sport=model_aerodrome": {
+        "message": "",
+        "description": "Tag \"sport=model_aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:sport=model_aerodrome"
+    },
+    "tag:sport=motocross": {
+        "message": "",
+        "description": "Tag \"sport=motocross\". See https://wiki.openstreetmap.org/wiki/Tag:sport=motocross"
     },
     "tag:sport=motor": {
         "message": "",
@@ -5167,9 +5235,21 @@
         "message": "Rugby",
         "description": "Tag \"sport=rugby\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rugby"
     },
+    "tag:sport=rugby_league": {
+        "message": "",
+        "description": "Tag \"sport=rugby_league\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_league"
+    },
+    "tag:sport=rugby_union": {
+        "message": "",
+        "description": "Tag \"sport=rugby_union\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_union"
+    },
     "tag:sport=running": {
         "message": "",
         "description": "Tag \"sport=running\". See https://wiki.openstreetmap.org/wiki/Tag:sport=running"
+    },
+    "tag:sport=sailing": {
+        "message": "",
+        "description": "Tag \"sport=sailing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=sailing"
     },
     "tag:sport=shooting": {
         "message": "Střelba",
@@ -5191,6 +5271,10 @@
         "message": "Fotbal",
         "description": "Tag \"sport=soccer\". See https://wiki.openstreetmap.org/wiki/Tag:sport=soccer"
     },
+    "tag:sport=surfing": {
+        "message": "",
+        "description": "Tag \"sport=surfing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=surfing"
+    },
     "tag:sport=swimming": {
         "message": "Plavání",
         "description": "Tag \"sport=swimming\". See https://wiki.openstreetmap.org/wiki/Tag:sport=swimming"
@@ -5210,6 +5294,10 @@
     "tag:sport=volleyball": {
         "message": "Volejbal",
         "description": "Tag \"sport=volleyball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=volleyball"
+    },
+    "tag:sport=weightlifting": {
+        "message": "",
+        "description": "Tag \"sport=weightlifting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=weightlifting"
     },
     "tag:start_date": {
         "message": "Datum vytvoření",

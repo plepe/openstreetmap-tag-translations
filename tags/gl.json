@@ -542,5 +542,109 @@
     "tag:cuisine=wings": {
         "message": "",
         "description": "Tag \"cuisine=wings\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:shop=boutique": {
+        "message": "",
+        "description": "Tag \"shop=boutique\". See https://wiki.openstreetmap.org/wiki/Tag:shop=boutique"
+    },
+    "tag:shop=dairy": {
+        "message": "",
+        "description": "Tag \"shop=dairy\". See https://wiki.openstreetmap.org/wiki/Tag:shop=dairy"
+    },
+    "tag:shop=fishing": {
+        "message": "",
+        "description": "Tag \"shop=fishing\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fishing"
+    },
+    "tag:shop=general": {
+        "message": "",
+        "description": "Tag \"shop=general\". See https://wiki.openstreetmap.org/wiki/Tag:shop=general"
+    },
+    "tag:shop=spices": {
+        "message": "",
+        "description": "Tag \"shop=spices\". See https://wiki.openstreetmap.org/wiki/Tag:shop=spices"
+    },
+    "tag:sport=10pin": {
+        "message": "",
+        "description": "Tag \"sport=10pin\". See https://wiki.openstreetmap.org/wiki/Tag:sport=10pin"
+    },
+    "tag:sport=9pin": {
+        "message": "",
+        "description": "Tag \"sport=9pin\". See https://wiki.openstreetmap.org/wiki/Tag:sport=9pin"
+    },
+    "tag:sport=american_football": {
+        "message": "",
+        "description": "Tag \"sport=american_football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=american_football"
+    },
+    "tag:sport=archery": {
+        "message": "",
+        "description": "Tag \"sport=archery\". See https://wiki.openstreetmap.org/wiki/Tag:sport=archery"
+    },
+    "tag:sport=badminton": {
+        "message": "",
+        "description": "Tag \"sport=badminton\". See https://wiki.openstreetmap.org/wiki/Tag:sport=badminton"
+    },
+    "tag:sport=billiards": {
+        "message": "",
+        "description": "Tag \"sport=billiards\". See https://wiki.openstreetmap.org/wiki/Tag:sport=billiards"
+    },
+    "tag:sport=bmx": {
+        "message": "",
+        "description": "Tag \"sport=bmx\". See https://wiki.openstreetmap.org/wiki/Tag:sport=bmx"
+    },
+    "tag:sport=canadian_football": {
+        "message": "",
+        "description": "Tag \"sport=canadian_football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=canadian_football"
+    },
+    "tag:sport=cockfighting": {
+        "message": "",
+        "description": "Tag \"sport=cockfighting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cockfighting"
+    },
+    "tag:sport=cycling": {
+        "message": "",
+        "description": "Tag \"sport=cycling\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cycling"
+    },
+    "tag:sport=darts": {
+        "message": "",
+        "description": "Tag \"sport=darts\". See https://wiki.openstreetmap.org/wiki/Tag:sport=darts"
+    },
+    "tag:sport=field_hockey": {
+        "message": "",
+        "description": "Tag \"sport=field_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=field_hockey"
+    },
+    "tag:sport=ice_hockey": {
+        "message": "",
+        "description": "Tag \"sport=ice_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_hockey"
+    },
+    "tag:sport=ice_skating": {
+        "message": "",
+        "description": "Tag \"sport=ice_skating\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_skating"
+    },
+    "tag:sport=model_aerodrome": {
+        "message": "",
+        "description": "Tag \"sport=model_aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:sport=model_aerodrome"
+    },
+    "tag:sport=motocross": {
+        "message": "",
+        "description": "Tag \"sport=motocross\". See https://wiki.openstreetmap.org/wiki/Tag:sport=motocross"
+    },
+    "tag:sport=rugby_league": {
+        "message": "",
+        "description": "Tag \"sport=rugby_league\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_league"
+    },
+    "tag:sport=rugby_union": {
+        "message": "",
+        "description": "Tag \"sport=rugby_union\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_union"
+    },
+    "tag:sport=sailing": {
+        "message": "",
+        "description": "Tag \"sport=sailing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=sailing"
+    },
+    "tag:sport=surfing": {
+        "message": "",
+        "description": "Tag \"sport=surfing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=surfing"
+    },
+    "tag:sport=weightlifting": {
+        "message": "",
+        "description": "Tag \"sport=weightlifting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=weightlifting"
     }
 }
