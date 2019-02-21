@@ -1458,9 +1458,21 @@
         "message": "",
         "description": "Tag \"cuisine=afghan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:cuisine=african": {
+        "message": "",
+        "description": "Tag \"cuisine=african\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=american": {
+        "message": "",
+        "description": "Tag \"cuisine=american\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=arab": {
         "message": "",
         "description": "Tag \"cuisine=arab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=argentinian": {
+        "message": "",
+        "description": "Tag \"cuisine=argentinian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=asian": {
         "message": "",
@@ -1474,9 +1486,49 @@
         "message": "",
         "description": "Tag \"cuisine=austrian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:cuisine=bagel": {
+        "message": "",
+        "description": "Tag \"cuisine=bagel\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=baiana": {
+        "message": "",
+        "description": "Tag \"cuisine=baiana\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=balkan": {
+        "message": "",
+        "description": "Tag \"cuisine=balkan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=barbecue": {
         "message": "",
         "description": "Tag \"cuisine=barbecue\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=basque": {
+        "message": "",
+        "description": "Tag \"cuisine=basque\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=bavarian": {
+        "message": "",
+        "description": "Tag \"cuisine=bavarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=belarusan": {
+        "message": "",
+        "description": "Tag \"cuisine=belarusan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=biscuit": {
+        "message": "",
+        "description": "Tag \"cuisine=biscuit\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=bolivian": {
+        "message": "",
+        "description": "Tag \"cuisine=bolivian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=bougatsa": {
+        "message": "",
+        "description": "Tag \"cuisine=bougatsa\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=brazilian": {
+        "message": "",
+        "description": "Tag \"cuisine=brazilian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=burger": {
         "message": "",
@@ -1486,6 +1538,14 @@
         "message": "",
         "description": "Tag \"cuisine=cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:cuisine=cantonese": {
+        "message": "",
+        "description": "Tag \"cuisine=cantonese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=capixaba": {
+        "message": "",
+        "description": "Tag \"cuisine=capixaba\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=caribbean": {
         "message": "",
         "description": "Tag \"cuisine=caribbean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
@@ -1493,6 +1553,18 @@
     "tag:cuisine=caribean": {
         "message": "",
         "description": "Tag \"cuisine=caribean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=casserole": {
+        "message": "",
+        "description": "Tag \"cuisine=casserole\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=chicken": {
+        "message": "",
+        "description": "Tag \"cuisine=chicken\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=chimney_cake": {
+        "message": "",
+        "description": "Tag \"cuisine=chimney_cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chinese": {
         "message": "",
@@ -1506,13 +1578,49 @@
         "message": "",
         "description": "Tag \"cuisine=coffee_shop\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:cuisine=cookie": {
+        "message": "",
+        "description": "Tag \"cuisine=cookie\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=couscous": {
+        "message": "",
+        "description": "Tag \"cuisine=couscous\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=crepe": {
         "message": "",
         "description": "Tag \"cuisine=crepe\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:cuisine=croatian": {
+        "message": "",
+        "description": "Tag \"cuisine=croatian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=curry": {
+        "message": "",
+        "description": "Tag \"cuisine=curry\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=czech": {
+        "message": "",
+        "description": "Tag \"cuisine=czech\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=danish": {
+        "message": "",
+        "description": "Tag \"cuisine=danish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=dessert": {
+        "message": "",
+        "description": "Tag \"cuisine=dessert\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=donut": {
+        "message": "",
+        "description": "Tag \"cuisine=donut\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=empanada": {
         "message": "",
         "description": "Tag \"cuisine=empanada\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=fish": {
+        "message": "",
+        "description": "Tag \"cuisine=fish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=fish_and_chips": {
         "message": "",
@@ -1530,6 +1638,22 @@
         "message": "",
         "description": "Tag \"cuisine=friture\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:cuisine=frozen_yogurt": {
+        "message": "",
+        "description": "Tag \"cuisine=frozen_yogurt\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=gaucho": {
+        "message": "",
+        "description": "Tag \"cuisine=gaucho\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=german": {
+        "message": "",
+        "description": "Tag \"cuisine=german\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=gingerbread": {
+        "message": "",
+        "description": "Tag \"cuisine=gingerbread\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=greek": {
         "message": "",
         "description": "Tag \"cuisine=greek\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
@@ -1537,6 +1661,18 @@
     "tag:cuisine=gyros": {
         "message": "",
         "description": "Tag \"cuisine=gyros\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=hawaiian": {
+        "message": "",
+        "description": "Tag \"cuisine=hawaiian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=hunan": {
+        "message": "",
+        "description": "Tag \"cuisine=hunan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=hungarian": {
+        "message": "",
+        "description": "Tag \"cuisine=hungarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=ice_cream": {
         "message": "",
@@ -1550,6 +1686,10 @@
         "message": "",
         "description": "Tag \"cuisine=international\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:cuisine=iranian": {
+        "message": "",
+        "description": "Tag \"cuisine=iranian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=italian": {
         "message": "",
         "description": "Tag \"cuisine=italian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
@@ -1557,6 +1697,10 @@
     "tag:cuisine=japanese": {
         "message": "",
         "description": "Tag \"cuisine=japanese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=jewish": {
+        "message": "",
+        "description": "Tag \"cuisine=jewish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=juice": {
         "message": "",
@@ -1570,21 +1714,77 @@
         "message": "",
         "description": "Tag \"cuisine=korean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:cuisine=kyo_ryouri": {
+        "message": "",
+        "description": "Tag \"cuisine=kyo_ryouri\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=langos": {
+        "message": "",
+        "description": "Tag \"cuisine=langos\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=latin_american": {
+        "message": "",
+        "description": "Tag \"cuisine=latin_american\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=lebanese": {
+        "message": "",
+        "description": "Tag \"cuisine=lebanese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=local": {
         "message": "",
         "description": "Tag \"cuisine=local\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=malagasy": {
+        "message": "",
+        "description": "Tag \"cuisine=malagasy\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=mediterranean": {
+        "message": "",
+        "description": "Tag \"cuisine=mediterranean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=mexican": {
         "message": "",
         "description": "Tag \"cuisine=mexican\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:cuisine=mineira": {
+        "message": "",
+        "description": "Tag \"cuisine=mineira\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=new_mexican": {
+        "message": "",
+        "description": "Tag \"cuisine=new_mexican\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=noodle": {
         "message": "",
         "description": "Tag \"cuisine=noodle\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:cuisine=okinawa_ryori": {
+        "message": "",
+        "description": "Tag \"cuisine=okinawa_ryori\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pakistani": {
+        "message": "",
+        "description": "Tag \"cuisine=pakistani\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pancake": {
+        "message": "",
+        "description": "Tag \"cuisine=pancake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=pasta": {
         "message": "",
         "description": "Tag \"cuisine=pasta\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pastry": {
+        "message": "",
+        "description": "Tag \"cuisine=pastry\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=peruvian": {
+        "message": "",
+        "description": "Tag \"cuisine=peruvian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=petit_four": {
+        "message": "",
+        "description": "Tag \"cuisine=petit_four\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pie": {
         "message": "",
@@ -1594,9 +1794,41 @@
         "message": "",
         "description": "Tag \"cuisine=pizza\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:cuisine=pogacha": {
+        "message": "",
+        "description": "Tag \"cuisine=pogacha\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=polish": {
+        "message": "",
+        "description": "Tag \"cuisine=polish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=poppy_seed_roll": {
+        "message": "",
+        "description": "Tag \"cuisine=poppy_seed_roll\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=portuguese": {
+        "message": "",
+        "description": "Tag \"cuisine=portuguese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=profiterole": {
+        "message": "",
+        "description": "Tag \"cuisine=profiterole\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=punch_cake": {
+        "message": "",
+        "description": "Tag \"cuisine=punch_cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=regional": {
         "message": "traditional",
         "description": "Tag \"cuisine=regional\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=rhenish": {
+        "message": "",
+        "description": "Tag \"cuisine=rhenish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=russian": {
+        "message": "",
+        "description": "Tag \"cuisine=russian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=salad": {
         "message": "",
@@ -1610,9 +1842,21 @@
         "message": "",
         "description": "Tag \"cuisine=sausage\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:cuisine=savory_pancakes": {
+        "message": "",
+        "description": "Tag \"cuisine=savory_pancakes\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=seafood": {
         "message": "",
         "description": "Tag \"cuisine=seafood\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=shandong": {
+        "message": "",
+        "description": "Tag \"cuisine=shandong\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=sichuan": {
+        "message": "",
+        "description": "Tag \"cuisine=sichuan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=soup": {
         "message": "",
@@ -1626,9 +1870,33 @@
         "message": "",
         "description": "Tag \"cuisine=steak_house\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:cuisine=strudel": {
+        "message": "",
+        "description": "Tag \"cuisine=strudel\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=sub": {
+        "message": "",
+        "description": "Tag \"cuisine=sub\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=sushi": {
         "message": "",
         "description": "Tag \"cuisine=sushi\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=tapas": {
+        "message": "",
+        "description": "Tag \"cuisine=tapas\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=teahouse": {
+        "message": "",
+        "description": "Tag \"cuisine=teahouse\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=tex-mex": {
+        "message": "",
+        "description": "Tag \"cuisine=tex-mex\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=texan": {
+        "message": "",
+        "description": "Tag \"cuisine=texan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=thai": {
         "message": "",
@@ -1649,6 +1917,18 @@
     "tag:cuisine=vietnamese": {
         "message": "",
         "description": "Tag \"cuisine=vietnamese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=waffle": {
+        "message": "",
+        "description": "Tag \"cuisine=waffle\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=westphalian": {
+        "message": "",
+        "description": "Tag \"cuisine=westphalian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=wings": {
+        "message": "",
+        "description": "Tag \"cuisine=wings\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cutting": {
         "message": "",
