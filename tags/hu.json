@@ -632,6 +632,10 @@
         "message": "Szintek",
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
+    "tag:building=agriculture": {
+        "message": "Mezőgazdasági épület",
+        "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
+    },
     "tag:building=apartments": {
         "message": "Társasház",
         "description": "Tag \"building=apartments\". See https://wiki.openstreetmap.org/wiki/Tag:building=apartments"
@@ -5688,9 +5692,5 @@
     "tag:xmas:feature=tree": {
         "message": "",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
-    },
-    "tag:building=agriculture": {
-        "message": "Mezőgazdasági épület",
-        "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
     }
 }
