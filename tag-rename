@@ -1,0 +1,73 @@
+#!/usr/bin/env node
+const fs = require('fs')
+const forEach = require('async-foreach').forEach
+const ArgumentParser = require('argparse').ArgumentParser
+var parser = new ArgumentParser({
+  addHelp: true,
+  description: 'Add a tag to all language files'
+})
+
+let all = {}
+let allData = {}
+
+parser.addArgument('from', {
+  help: 'Tag, e.g. amenity=retaurant'
+})
+
+parser.addArgument('to', {
+  help: 'Tag, e.g. amenity=restaurant'
+})
+
+parser.addArgument([ '-d', '--description' ], {
+  help: 'Change description'
+})
+
+let args = parser.parseArgs()
+
+fs.readdir('tags/', function (err, files) {
+  forEach(files, function (file) {
+    let m = file.match(/^(.*)\.json$/)
+    if (!m) {
+      return
+    }
+
+    let done = this.async()
+
+    fs.readFile('tags/' + file, (err, contents) => {
+      let data
+
+      try {
+        data = JSON.parse(contents)
+      } catch (e) {
+        return done()
+      }
+
+      if (!data) {
+        return done()
+      }
+
+      if ('tag:' + args.from in data) {
+        data['tag:' + args.to] = data['tag:' + args.from]
+        delete data['tag:' + args.from]
+
+        if (args.description) {
+          data['tag:' + args.to].description = args.description
+        }
+      }
+
+      var ret = {}
+      var keys = Object.keys(data)
+      keys.sort()
+
+      for (var i = 0; i < keys.length; i++) {
+        ret[keys[i]] = data[keys[i]]
+      }
+
+      fs.writeFile('tags/' + file, JSON.stringify(ret, null, '    ') + '\n', done)
+    })
+  },
+  allDone)
+})
+
+function allDone () {
+}
