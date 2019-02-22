@@ -185,14 +185,6 @@
         "message": "",
         "description": "Tag \"amenity=biergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=biergarten"
     },
-    "tag:amenity=blood_bank": {
-        "message": "",
-        "description": "Tag \"amenity=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=blood_bank"
-    },
-    "tag:amenity=blood_donation": {
-        "message": "",
-        "description": "Tag \"amenity=blood_donation\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=blood_donation"
-    },
     "tag:amenity=brothel": {
         "message": "Bordel",
         "description": "Tag \"amenity=brothel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=brothel"
@@ -2266,6 +2258,26 @@
         "message": "",
         "description": "Key \"goods\". See https://wiki.openstreetmap.org/wiki/Key:goods"
     },
+    "tag:healthcare=alternative": {
+        "message": "",
+        "description": "Tag \"healthcare=alternative\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=alternative"
+    },
+    "tag:healthcare=audiologist": {
+        "message": "",
+        "description": "Tag \"healthcare=audiologist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=audiologist"
+    },
+    "tag:healthcare=birthing_center": {
+        "message": "",
+        "description": "Tag \"healthcare=birthing_center\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=birthing_center"
+    },
+    "tag:healthcare=blood_bank": {
+        "message": "",
+        "description": "Tag \"healthcare=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=blood_bank"
+    },
+    "tag:healthcare=blood_donation": {
+        "message": "",
+        "description": "Tag \"healthcare=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=blood_donation"
+    },
     "tag:healthcare=centre": {
         "message": "",
         "description": "Tag \"healthcare=centre\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=centre"
@@ -2274,17 +2286,65 @@
         "message": "",
         "description": "Tag \"healthcare=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=clinic"
     },
+    "tag:healthcare=dentist": {
+        "message": "",
+        "description": "Tag \"healthcare=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dentist"
+    },
+    "tag:healthcare=dialysis": {
+        "message": "",
+        "description": "Tag \"healthcare=dialysis\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dialysis"
+    },
     "tag:healthcare=doctor": {
         "message": "",
         "description": "Tag \"healthcare=doctor\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=doctor"
+    },
+    "tag:healthcare=hospital": {
+        "message": "",
+        "description": "Tag \"healthcare=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=hospital"
     },
     "tag:healthcare=laboratory": {
         "message": "",
         "description": "Tag \"healthcare=laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=laboratory"
     },
+    "tag:healthcare=midwife": {
+        "message": "",
+        "description": "Tag \"healthcare=midwife\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=midwife"
+    },
+    "tag:healthcare=nutrition_counseling": {
+        "message": "",
+        "description": "Tag \"healthcare=nutrition_counseling\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=nutrition_counseling"
+    },
+    "tag:healthcare=occupational_therapist": {
+        "message": "",
+        "description": "Tag \"healthcare=occupational_therapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=occupational_therapist"
+    },
+    "tag:healthcare=optometrist": {
+        "message": "",
+        "description": "Tag \"healthcare=optometrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=optometrist"
+    },
     "tag:healthcare=pharmacy": {
         "message": "",
         "description": "Tag \"healthcare=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=pharmacy"
+    },
+    "tag:healthcare=physiotherapist": {
+        "message": "",
+        "description": "Tag \"healthcare=physiotherapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=physiotherapist"
+    },
+    "tag:healthcare=podiatrist": {
+        "message": "",
+        "description": "Tag \"healthcare=podiatrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=podiatrist"
+    },
+    "tag:healthcare=psychotherapist": {
+        "message": "",
+        "description": "Tag \"healthcare=psychotherapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=psychotherapist"
+    },
+    "tag:healthcare=rehabilitation": {
+        "message": "",
+        "description": "Tag \"healthcare=rehabilitation\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=rehabilitation"
+    },
+    "tag:healthcare=speech_therapist": {
+        "message": "",
+        "description": "Tag \"healthcare=speech_therapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=speech_therapist"
     },
     "tag:height": {
         "message": "",
