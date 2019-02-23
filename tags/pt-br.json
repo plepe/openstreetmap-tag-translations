@@ -3810,9 +3810,9 @@
         "message": "Turístico",
         "description": "Tag \"office=tourism\". See https://wiki.openstreetmap.org/wiki/Tag:office=tourism"
     },
-    "tag:office=tourist_accomodation": {
+    "tag:office=tourist_accommodation": {
         "message": "",
-        "description": "Tag \"office=tourist_accomodation\". See https://wiki.openstreetmap.org/wiki/Tag:office=tourist_accomodation"
+        "description": "Tag \"office=tourist_accommodation\". See https://wiki.openstreetmap.org/wiki/Tag:office=tourist_accommodation"
     },
     "tag:office=travel_agent": {
         "message": "Agente de viagens",
