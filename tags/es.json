@@ -2749,6 +2749,10 @@
         "message": "",
         "description": "Tag \"historic=unesco_world_heritage;historic=UNESCO_world_heritage\". See https://wiki.openstreetmap.org/wiki/Tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage"
     },
+    "tag:historic=wayside_chapel": {
+        "message": "",
+        "description": "Tag \"historic=wayside_chapel\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_chapel"
+    },
     "tag:historic=wayside_cross": {
         "message": "",
         "description": "Tag \"historic=wayside_cross\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_cross"
