@@ -2794,7 +2794,7 @@
         "description": "Tag \"information=map\". See https://wiki.openstreetmap.org/wiki/Tag:information=map"
     },
     "tag:information=office": {
-        "message": "",
+        "message": "Tourinform iroda",
         "description": "Tag \"information=office\". See https://wiki.openstreetmap.org/wiki/Tag:information=office"
     },
     "tag:inscription": {
@@ -2962,31 +2962,31 @@
         "description": "Key \"leisure\". See https://wiki.openstreetmap.org/wiki/Key:leisure"
     },
     "tag:leisure=adult_gaming_centre": {
-        "message": "",
+        "message": "Játékterem (csak felnőtteknek)",
         "description": "Tag \"leisure=adult_gaming_centre\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=adult_gaming_centre"
     },
     "tag:leisure=amusement_arcade": {
-        "message": "",
+        "message": "Játékterem (kiskorúaknak is)",
         "description": "Tag \"leisure=amusement_arcade\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=amusement_arcade"
     },
     "tag:leisure=bandstand": {
-        "message": "",
+        "message": "Zenepavilon",
         "description": "Tag \"leisure=bandstand\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=bandstand"
     },
     "tag:leisure=beach_resort": {
-        "message": "",
+        "message": "Fürdőhely, vízparti strand",
         "description": "Tag \"leisure=beach_resort\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=beach_resort"
     },
     "tag:leisure=bird_hide": {
-        "message": "",
+        "message": "Madárles",
         "description": "Tag \"leisure=bird_hide\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=bird_hide"
     },
     "tag:leisure=common": {
-        "message": "",
+        "message": "Szabadidős tevékenységre használható közös föld (UK)",
         "description": "Tag \"leisure=common\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=common"
     },
     "tag:leisure=dance": {
-        "message": "",
+        "message": "Tánc",
         "description": "Tag \"leisure=dance\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=dance"
     },
     "tag:leisure=dog_park": {
@@ -3018,7 +3018,7 @@
         "description": "Tag \"leisure=golf_course\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=golf_course"
     },
     "tag:leisure=hackerspace": {
-        "message": "",
+        "message": "Hackerspace",
         "description": "Tag \"leisure=hackerspace\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=hackerspace"
     },
     "tag:leisure=horse_riding": {
@@ -3026,11 +3026,11 @@
         "description": "Tag \"leisure=horse_riding\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=horse_riding"
     },
     "tag:leisure=ice_rink": {
-        "message": "",
+        "message": "Műjégpálya",
         "description": "Tag \"leisure=ice_rink\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=ice_rink"
     },
     "tag:leisure=indoor_play": {
-        "message": "",
+        "message": "Beltéri játszótér",
         "description": "Tag \"leisure=indoor_play\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=indoor_play"
     },
     "tag:leisure=marina": {
@@ -3050,7 +3050,7 @@
         "description": "Tag \"leisure=outdoor_seating\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=outdoor_seating"
     },
     "tag:leisure=park": {
-        "message": "",
+        "message": "Park",
         "description": "Tag \"leisure=park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=park"
     },
     "tag:leisure=picnic_table": {
@@ -3070,7 +3070,7 @@
         "description": "Tag \"leisure=sauna\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sauna"
     },
     "tag:leisure=slipway": {
-        "message": "",
+        "message": "Sólya",
         "description": "Tag \"leisure=slipway\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=slipway"
     },
     "tag:leisure=sport": {
@@ -3086,7 +3086,7 @@
         "description": "Tag \"leisure=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=stadium"
     },
     "tag:leisure=summer_camp": {
-        "message": "",
+        "message": "Nyáritábor-hely",
         "description": "Tag \"leisure=summer_camp\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=summer_camp"
     },
     "tag:leisure=swimming_area": {
@@ -3102,11 +3102,11 @@
         "description": "Tag \"leisure=track\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=track"
     },
     "tag:leisure=water_park": {
-        "message": "",
+        "message": "Élményfürdő, strand",
         "description": "Tag \"leisure=water_park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=water_park"
     },
     "tag:leisure=wildlife_hide": {
-        "message": "",
+        "message": "Vadfigyelő rejtek",
         "description": "Tag \"leisure=wildlife_hide\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=wildlife_hide"
     },
     "tag:lit": {
@@ -3318,7 +3318,7 @@
         "description": "Tag \"military=obstacle_course\". See https://wiki.openstreetmap.org/wiki/Tag:military=obstacle_course"
     },
     "tag:military=office": {
-        "message": "",
+        "message": "Katonai iroda",
         "description": "Tag \"military=office\". See https://wiki.openstreetmap.org/wiki/Tag:military=office"
     },
     "tag:military=range": {
@@ -3618,59 +3618,59 @@
         "description": "Key \"office\". See https://wiki.openstreetmap.org/wiki/Key:office"
     },
     "tag:office=accountant": {
-        "message": "",
+        "message": "Könyvelő",
         "description": "Tag \"office=accountant\". See https://wiki.openstreetmap.org/wiki/Tag:office=accountant"
     },
     "tag:office=administration": {
-        "message": "",
+        "message": "Közigazgatási hivatal",
         "description": "Tag \"office=administration\". See https://wiki.openstreetmap.org/wiki/Tag:office=administration"
     },
     "tag:office=adoption_agency": {
-        "message": "",
+        "message": "Örökbefogadási ügynökség",
         "description": "Tag \"office=adoption_agency\". See https://wiki.openstreetmap.org/wiki/Tag:office=adoption_agency"
     },
     "tag:office=advertising_agency": {
-        "message": "",
+        "message": "Reklámügynökség",
         "description": "Tag \"office=advertising_agency\". See https://wiki.openstreetmap.org/wiki/Tag:office=advertising_agency"
     },
     "tag:office=architect": {
-        "message": "",
+        "message": "Építésziroda",
         "description": "Tag \"office=architect\". See https://wiki.openstreetmap.org/wiki/Tag:office=architect"
     },
     "tag:office=association": {
-        "message": "",
+        "message": "Egyesület irodája",
         "description": "Tag \"office=association\". See https://wiki.openstreetmap.org/wiki/Tag:office=association"
     },
     "tag:office=camping": {
-        "message": "",
+        "message": "Kempingiroda",
         "description": "Tag \"office=camping\". See https://wiki.openstreetmap.org/wiki/Tag:office=camping"
     },
     "tag:office=charity": {
-        "message": "",
+        "message": "Jótékonysági szervezet irodája",
         "description": "Tag \"office=charity\". See https://wiki.openstreetmap.org/wiki/Tag:office=charity"
     },
     "tag:office=company": {
-        "message": "",
+        "message": "Vállalat irodája",
         "description": "Tag \"office=company\". See https://wiki.openstreetmap.org/wiki/Tag:office=company"
     },
     "tag:office=cooperative": {
-        "message": "",
+        "message": "Szövetkezet irodája",
         "description": "Tag \"office=cooperative\". See https://wiki.openstreetmap.org/wiki/Tag:office=cooperative"
     },
     "tag:office=coworking": {
-        "message": "",
+        "message": "Közösségi (CoWorking) iroda",
         "description": "Tag \"office=coworking\". See https://wiki.openstreetmap.org/wiki/Tag:office=coworking"
     },
     "tag:office=diplomatic": {
-        "message": "",
+        "message": "Diplomáciai testület irodája",
         "description": "Tag \"office=diplomatic\". See https://wiki.openstreetmap.org/wiki/Tag:office=diplomatic"
     },
     "tag:office=educational_institution": {
-        "message": "",
+        "message": "Oktatási intézmény irodája",
         "description": "Tag \"office=educational_institution\". See https://wiki.openstreetmap.org/wiki/Tag:office=educational_institution"
     },
     "tag:office=employment_agency": {
-        "message": "",
+        "message": "Munkaközvetítő iroda",
         "description": "Tag \"office=employment_agency\". See https://wiki.openstreetmap.org/wiki/Tag:office=employment_agency"
     },
     "tag:office=energy_supplier": {
@@ -3678,79 +3678,79 @@
         "description": "Tag \"office=energy_supplier\". See https://wiki.openstreetmap.org/wiki/Tag:office=energy_supplier"
     },
     "tag:office=engineer": {
-        "message": "",
+        "message": "Mérnökiroda",
         "description": "Tag \"office=engineer\". See https://wiki.openstreetmap.org/wiki/Tag:office=engineer"
     },
     "tag:office=estate_agent": {
-        "message": "",
+        "message": "Ingatlaniroda",
         "description": "Tag \"office=estate_agent\". See https://wiki.openstreetmap.org/wiki/Tag:office=estate_agent"
     },
     "tag:office=financial": {
-        "message": "",
+        "message": "Pénzügyi vállalat irodája",
         "description": "Tag \"office=financial\". See https://wiki.openstreetmap.org/wiki/Tag:office=financial"
     },
     "tag:office=forestry": {
-        "message": "",
+        "message": "Erdészet irodája",
         "description": "Tag \"office=forestry\". See https://wiki.openstreetmap.org/wiki/Tag:office=forestry"
     },
     "tag:office=foundation": {
-        "message": "",
+        "message": "Alapítvány irodája",
         "description": "Tag \"office=foundation\". See https://wiki.openstreetmap.org/wiki/Tag:office=foundation"
     },
     "tag:office=geodesist": {
-        "message": "",
+        "message": "Földmérő irodája",
         "description": "Tag \"office=geodesist\". See https://wiki.openstreetmap.org/wiki/Tag:office=geodesist"
     },
     "tag:office=government": {
-        "message": "",
+        "message": "Kormányzati hivatal",
         "description": "Tag \"office=government\". See https://wiki.openstreetmap.org/wiki/Tag:office=government"
     },
     "tag:office=guide": {
-        "message": "",
+        "message": "Idegenvezetői iroda",
         "description": "Tag \"office=guide\". See https://wiki.openstreetmap.org/wiki/Tag:office=guide"
     },
     "tag:office=insurance": {
-        "message": "",
+        "message": "Biztosító irodája",
         "description": "Tag \"office=insurance\". See https://wiki.openstreetmap.org/wiki/Tag:office=insurance"
     },
     "tag:office=it": {
-        "message": "",
+        "message": "Informatikai vállalat irodája",
         "description": "Tag \"office=it\". See https://wiki.openstreetmap.org/wiki/Tag:office=it"
     },
     "tag:office=lawyer": {
-        "message": "",
+        "message": "Ügyvédi iroda",
         "description": "Tag \"office=lawyer\". See https://wiki.openstreetmap.org/wiki/Tag:office=lawyer"
     },
     "tag:office=logistics": {
-        "message": "",
+        "message": "Logisztikai vállalat irodája",
         "description": "Tag \"office=logistics\". See https://wiki.openstreetmap.org/wiki/Tag:office=logistics"
     },
     "tag:office=moving_company": {
-        "message": "",
+        "message": "Költöztetővállalat irodája",
         "description": "Tag \"office=moving_company\". See https://wiki.openstreetmap.org/wiki/Tag:office=moving_company"
     },
     "tag:office=newspaper": {
-        "message": "",
+        "message": "Újságszerkesztőség",
         "description": "Tag \"office=newspaper\". See https://wiki.openstreetmap.org/wiki/Tag:office=newspaper"
     },
     "tag:office=ngo": {
-        "message": "",
+        "message": "Civil szervezet irodája",
         "description": "Tag \"office=ngo\". See https://wiki.openstreetmap.org/wiki/Tag:office=ngo"
     },
     "tag:office=notary": {
-        "message": "",
+        "message": "Közjegyző",
         "description": "Tag \"office=notary\". See https://wiki.openstreetmap.org/wiki/Tag:office=notary"
     },
     "tag:office=parish": {
-        "message": "",
+        "message": "Egyházközségi iroda",
         "description": "Tag \"office=parish\". See https://wiki.openstreetmap.org/wiki/Tag:office=parish"
     },
     "tag:office=political_party": {
-        "message": "",
+        "message": "Politikai párt",
         "description": "Tag \"office=political_party\". See https://wiki.openstreetmap.org/wiki/Tag:office=political_party"
     },
     "tag:office=private_investigator": {
-        "message": "",
+        "message": "Magánnyomozó",
         "description": "Tag \"office=private_investigator\". See https://wiki.openstreetmap.org/wiki/Tag:office=private_investigator"
     },
     "tag:office=property_management": {
@@ -3758,7 +3758,7 @@
         "description": "Tag \"office=property_management\". See https://wiki.openstreetmap.org/wiki/Tag:office=property_management"
     },
     "tag:office=publisher": {
-        "message": "",
+        "message": "Könyvkiadó",
         "description": "Tag \"office=publisher\". See https://wiki.openstreetmap.org/wiki/Tag:office=publisher"
     },
     "tag:office=quango": {
@@ -3766,7 +3766,7 @@
         "description": "Tag \"office=quango\". See https://wiki.openstreetmap.org/wiki/Tag:office=quango"
     },
     "tag:office=religion": {
-        "message": "",
+        "message": "Egyházi iroda",
         "description": "Tag \"office=religion\". See https://wiki.openstreetmap.org/wiki/Tag:office=religion"
     },
     "tag:office=research": {
@@ -3782,11 +3782,11 @@
         "description": "Tag \"office=tax\". See https://wiki.openstreetmap.org/wiki/Tag:office=tax"
     },
     "tag:office=tax_advisor": {
-        "message": "",
+        "message": "Adótanácsadó",
         "description": "Tag \"office=tax_advisor\". See https://wiki.openstreetmap.org/wiki/Tag:office=tax_advisor"
     },
     "tag:office=telecommunication": {
-        "message": "",
+        "message": "Távközlési vállalat irodája",
         "description": "Tag \"office=telecommunication\". See https://wiki.openstreetmap.org/wiki/Tag:office=telecommunication"
     },
     "tag:office=therapist": {
@@ -3794,7 +3794,7 @@
         "description": "Tag \"office=therapist\". See https://wiki.openstreetmap.org/wiki/Tag:office=therapist"
     },
     "tag:office=tourism": {
-        "message": "",
+        "message": "Tourinform iroda",
         "description": "Tag \"office=tourism\". See https://wiki.openstreetmap.org/wiki/Tag:office=tourism"
     },
     "tag:office=tourist_accommodation": {
@@ -3802,11 +3802,11 @@
         "description": "Tag \"office=tourist_accommodation\". See https://wiki.openstreetmap.org/wiki/Tag:office=tourist_accommodation"
     },
     "tag:office=travel_agent": {
-        "message": "",
+        "message": "Utazási iroda",
         "description": "Tag \"office=travel_agent\". See https://wiki.openstreetmap.org/wiki/Tag:office=travel_agent"
     },
     "tag:office=vacant": {
-        "message": "",
+        "message": "Üres irodahelyiség",
         "description": "Tag \"office=vacant\". See https://wiki.openstreetmap.org/wiki/Tag:office=vacant"
     },
     "tag:office=visa": {
@@ -3814,7 +3814,7 @@
         "description": "Tag \"office=visa\". See https://wiki.openstreetmap.org/wiki/Tag:office=visa"
     },
     "tag:office=water_utility": {
-        "message": "",
+        "message": "Vízmű irodája",
         "description": "Tag \"office=water_utility\". See https://wiki.openstreetmap.org/wiki/Tag:office=water_utility"
     },
     "tag:official_name": {
@@ -4278,7 +4278,7 @@
         "description": "Combined tag \"railway=rail\" and \"usage=test\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail and https://wiki.openstreetmap.org/wiki/Tag:usage=test"
     },
     "tag:railway=rail usage=tourism": {
-        "message": "",
+        "message": "Turisztikai használatú vasútvonal",
         "description": "Combined tag \"railway=rail\" and \"usage=tourism\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail and https://wiki.openstreetmap.org/wiki/Tag:usage=tourism"
     },
     "tag:railway=station": {
@@ -5438,15 +5438,15 @@
         "description": "Key \"tourism\". See https://wiki.openstreetmap.org/wiki/Key:tourism"
     },
     "tag:tourism=alpine_hut": {
-        "message": "",
+        "message": "Menedékház (személyzettel)",
         "description": "Tag \"tourism=alpine_hut\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=alpine_hut"
     },
     "tag:tourism=apartment": {
-        "message": "",
+        "message": "Apartman",
         "description": "Tag \"tourism=apartment\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=apartment"
     },
     "tag:tourism=aquarium": {
-        "message": "",
+        "message": "Akvárium",
         "description": "Tag \"tourism=aquarium\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=aquarium"
     },
     "tag:tourism=artwork": {
@@ -5454,23 +5454,23 @@
         "description": "Tag \"tourism=artwork\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=artwork"
     },
     "tag:tourism=attraction": {
-        "message": "",
+        "message": "Látványosság",
         "description": "Tag \"tourism=attraction\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=attraction"
     },
     "tag:tourism=camp_site": {
-        "message": "",
+        "message": "Kemping",
         "description": "Tag \"tourism=camp_site\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=camp_site"
     },
     "tag:tourism=caravan_site": {
-        "message": "",
+        "message": "Lakókocsihely",
         "description": "Tag \"tourism=caravan_site\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=caravan_site"
     },
     "tag:tourism=chalet": {
-        "message": "",
+        "message": "Nyaralóház",
         "description": "Tag \"tourism=chalet\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=chalet"
     },
     "tag:tourism=gallery": {
-        "message": "",
+        "message": "Művészeti galéria",
         "description": "Tag \"tourism=gallery\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=gallery"
     },
     "tag:tourism=guest_house": {
@@ -5478,7 +5478,7 @@
         "description": "Tag \"tourism=guest_house\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=guest_house"
     },
     "tag:tourism=hostel": {
-        "message": "",
+        "message": "Turistaszálló",
         "description": "Tag \"tourism=hostel\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=hostel"
     },
     "tag:tourism=hotel": {
@@ -5486,19 +5486,19 @@
         "description": "Tag \"tourism=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=hotel"
     },
     "tag:tourism=information": {
-        "message": "",
+        "message": "Turisztikai információ",
         "description": "Tag \"tourism=information\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=information"
     },
     "tag:tourism=motel": {
-        "message": "",
+        "message": "Motel",
         "description": "Tag \"tourism=motel\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=motel"
     },
     "tag:tourism=museum": {
-        "message": "",
+        "message": "Múzeum",
         "description": "Tag \"tourism=museum\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=museum"
     },
     "tag:tourism=picnic_site": {
-        "message": "",
+        "message": "Piknikezőhely",
         "description": "Tag \"tourism=picnic_site\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=picnic_site"
     },
     "tag:tourism=spa_resort": {
@@ -5506,15 +5506,15 @@
         "description": "Tag \"tourism=spa_resort\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=spa_resort"
     },
     "tag:tourism=theme_park": {
-        "message": "",
+        "message": "Vidámpark",
         "description": "Tag \"tourism=theme_park\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=theme_park"
     },
     "tag:tourism=viewpoint": {
-        "message": "",
+        "message": "Kilátóhely",
         "description": "Tag \"tourism=viewpoint\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=viewpoint"
     },
     "tag:tourism=wilderness_hut": {
-        "message": "",
+        "message": "Menedékház (személyzet nélkül)",
         "description": "Tag \"tourism=wilderness_hut\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=wilderness_hut"
     },
     "tag:tourism=yes": {
@@ -5522,7 +5522,7 @@
         "description": "Tag \"tourism=yes\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=yes"
     },
     "tag:tourism=zoo": {
-        "message": "",
+        "message": "Állatkert",
         "description": "Tag \"tourism=zoo\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=zoo"
     },
     "tag:tracks": {
