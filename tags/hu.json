@@ -369,7 +369,7 @@
         "description": "Tag \"amenity=public_bookcase\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bookcase"
     },
     "tag:amenity=public_building": {
-        "message": "Középület",
+        "message": "középület",
         "description": "Tag \"amenity=public_building\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_building"
     },
     "tag:amenity=recycling": {
@@ -625,99 +625,99 @@
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
     "tag:building=agriculture": {
-        "message": "Mezőgazdasági épület",
+        "message": "mezőgazdasági épület",
         "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
     },
     "tag:building=apartments": {
-        "message": "Társasház",
+        "message": "társasház",
         "description": "Tag \"building=apartments\". See https://wiki.openstreetmap.org/wiki/Tag:building=apartments"
     },
     "tag:building=bakehouse": {
-        "message": "Pékségépület",
+        "message": "pékségépület",
         "description": "Tag \"building=bakehouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=bakehouse"
     },
     "tag:building=barn": {
-        "message": "Pajta",
+        "message": "pajta",
         "description": "Tag \"building=barn\". See https://wiki.openstreetmap.org/wiki/Tag:building=barn"
     },
     "tag:building=block": {
-        "message": "Tömbház (panel)",
+        "message": "tömbház (panel)",
         "description": "Tag \"building=block\". See https://wiki.openstreetmap.org/wiki/Tag:building=block"
     },
     "tag:building=bridge": {
-        "message": "Híd",
+        "message": "híd",
         "description": "Tag \"building=bridge\". See https://wiki.openstreetmap.org/wiki/Tag:building=bridge"
     },
     "tag:building=bungalow": {
-        "message": "Bungaló",
+        "message": "bungaló",
         "description": "Tag \"building=bungalow\". See https://wiki.openstreetmap.org/wiki/Tag:building=bungalow"
     },
     "tag:building=bunker": {
-        "message": "Bunker",
+        "message": "bunker",
         "description": "Tag \"building=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:building=bunker"
     },
     "tag:building=cabin": {
-        "message": "Kis faház",
+        "message": "kis faház",
         "description": "Tag \"building=cabin\". See https://wiki.openstreetmap.org/wiki/Tag:building=cabin"
     },
     "tag:building=carport": {
-        "message": "Garázstető (oldalról nyitott)",
+        "message": "garázstető (oldalról nyitott)",
         "description": "Tag \"building=carport\". See https://wiki.openstreetmap.org/wiki/Tag:building=carport"
     },
     "tag:building=cathedral": {
-        "message": "Székesegyház (katedrális)",
+        "message": "székesegyház (katedrális)",
         "description": "Tag \"building=cathedral\". See https://wiki.openstreetmap.org/wiki/Tag:building=cathedral"
     },
     "tag:building=chapel": {
-        "message": "Kápolna",
+        "message": "kápolna",
         "description": "Tag \"building=chapel\". See https://wiki.openstreetmap.org/wiki/Tag:building=chapel"
     },
     "tag:building=church": {
-        "message": "Templomépület",
+        "message": "templomépület",
         "description": "Tag \"building=church\". See https://wiki.openstreetmap.org/wiki/Tag:building=church"
     },
     "tag:building=church religion=christian": {
-        "message": "Keresztény templom",
+        "message": "keresztény templom",
         "description": "Combined tag \"building=church\" and \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:building=church and https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
     },
     "tag:building=civic": {
-        "message": "Közösségi épület",
+        "message": "közösségi épület",
         "description": "Tag \"building=civic\". See https://wiki.openstreetmap.org/wiki/Tag:building=civic"
     },
     "tag:building=college": {
-        "message": "Főiskolai épület",
+        "message": "főiskolai épület",
         "description": "Tag \"building=college\". See https://wiki.openstreetmap.org/wiki/Tag:building=college"
     },
     "tag:building=commercial": {
-        "message": "Üzleti épület",
+        "message": "üzleti épület",
         "description": "Tag \"building=commercial\". See https://wiki.openstreetmap.org/wiki/Tag:building=commercial"
     },
     "tag:building=conservatory": {
-        "message": "Üvegház (télikert)",
+        "message": "üvegház (télikert)",
         "description": "Tag \"building=conservatory\". See https://wiki.openstreetmap.org/wiki/Tag:building=conservatory"
     },
     "tag:building=construction": {
-        "message": "Építkezés",
+        "message": "építkezés",
         "description": "Tag \"building=construction\". See https://wiki.openstreetmap.org/wiki/Tag:building=construction"
     },
     "tag:building=cowshed": {
-        "message": "Szarvasmarha-istálló",
+        "message": "szarvasmarha-istálló",
         "description": "Tag \"building=cowshed\". See https://wiki.openstreetmap.org/wiki/Tag:building=cowshed"
     },
     "tag:building=detached": {
-        "message": "Egyedül álló családi ház (UK)",
+        "message": "egyedül álló családi ház (UK)",
         "description": "Tag \"building=detached\". See https://wiki.openstreetmap.org/wiki/Tag:building=detached"
     },
     "tag:building=dormitory": {
-        "message": "Diákotthon, kollégium",
+        "message": "diákotthon, kollégium",
         "description": "Tag \"building=dormitory\". See https://wiki.openstreetmap.org/wiki/Tag:building=dormitory"
     },
     "tag:building=farm": {
-        "message": "Tanyaépület",
+        "message": "tanyaépület",
         "description": "Tag \"building=farm\". See https://wiki.openstreetmap.org/wiki/Tag:building=farm"
     },
     "tag:building=farm_auxiliary": {
-        "message": "Tanya melléképülete",
+        "message": "tanya melléképülete",
         "description": "Tag \"building=farm_auxiliary\". See https://wiki.openstreetmap.org/wiki/Tag:building=farm_auxiliary"
     },
     "tag:building=flats": {
@@ -725,15 +725,15 @@
         "description": "Tag \"building=flats\". See https://wiki.openstreetmap.org/wiki/Tag:building=flats"
     },
     "tag:building=garage": {
-        "message": "Garázs",
+        "message": "garázs",
         "description": "Tag \"building=garage\". See https://wiki.openstreetmap.org/wiki/Tag:building=garage"
     },
     "tag:building=garages": {
-        "message": "Garázssor",
+        "message": "garázssor",
         "description": "Tag \"building=garages\". See https://wiki.openstreetmap.org/wiki/Tag:building=garages"
     },
     "tag:building=garbage_shed": {
-        "message": "Kukatároló",
+        "message": "kukatároló",
         "description": "Tag \"building=garbage_shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=garbage_shed"
     },
     "tag:building=generic": {
@@ -741,55 +741,55 @@
         "description": "Tag \"building=generic\". See https://wiki.openstreetmap.org/wiki/Tag:building=generic"
     },
     "tag:building=ger": {
-        "message": "Jurta",
+        "message": "jurta",
         "description": "Tag \"building=ger\". See https://wiki.openstreetmap.org/wiki/Tag:building=ger"
     },
     "tag:building=government": {
-        "message": "Kormányzati épület",
+        "message": "kormányzati épület",
         "description": "Tag \"building=government\". See https://wiki.openstreetmap.org/wiki/Tag:building=government"
     },
     "tag:building=grandstand": {
-        "message": "Lelátó",
+        "message": "lelátó",
         "description": "Tag \"building=grandstand\". See https://wiki.openstreetmap.org/wiki/Tag:building=grandstand"
     },
     "tag:building=greenhouse": {
-        "message": "Üvegház",
+        "message": "üvegház",
         "description": "Tag \"building=greenhouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=greenhouse"
     },
     "tag:building=hangar": {
-        "message": "Hangár",
+        "message": "hangár",
         "description": "Tag \"building=hangar\". See https://wiki.openstreetmap.org/wiki/Tag:building=hangar"
     },
     "tag:building=hospital": {
-        "message": "Kórházépület",
+        "message": "kórházépület",
         "description": "Tag \"building=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:building=hospital"
     },
     "tag:building=hotel": {
-        "message": "Szállodaépület",
+        "message": "szállodaépület",
         "description": "Tag \"building=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:building=hotel"
     },
     "tag:building=house": {
-        "message": "Családi ház",
+        "message": "családi ház",
         "description": "Tag \"building=house\". See https://wiki.openstreetmap.org/wiki/Tag:building=house"
     },
     "tag:building=houseboat": {
-        "message": "Lakóhajó",
+        "message": "lakóhajó",
         "description": "Tag \"building=houseboat\". See https://wiki.openstreetmap.org/wiki/Tag:building=houseboat"
     },
     "tag:building=hut": {
-        "message": "Kunyhó",
+        "message": "kunyhó",
         "description": "Tag \"building=hut\". See https://wiki.openstreetmap.org/wiki/Tag:building=hut"
     },
     "tag:building=industrial": {
-        "message": "Ipari épület",
+        "message": "ipari épület",
         "description": "Tag \"building=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:building=industrial"
     },
     "tag:building=kindergarten": {
-        "message": "Óvodaépület",
+        "message": "óvodaépület",
         "description": "Tag \"building=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:building=kindergarten"
     },
     "tag:building=kiosk": {
-        "message": "Trafiképület",
+        "message": "trafiképület",
         "description": "Tag \"building=kiosk\". See https://wiki.openstreetmap.org/wiki/Tag:building=kiosk"
     },
     "tag:building=kitchen": {
@@ -797,19 +797,19 @@
         "description": "Tag \"building=kitchen\". See https://wiki.openstreetmap.org/wiki/Tag:building=kitchen"
     },
     "tag:building=mall": {
-        "message": "Bevásárlóközpont épülete",
+        "message": "bevásárlóközpont épülete",
         "description": "Tag \"building=mall\". See https://wiki.openstreetmap.org/wiki/Tag:building=mall"
     },
     "tag:building=military": {
-        "message": "Katonai épület",
+        "message": "katonai épület",
         "description": "Tag \"building=military\". See https://wiki.openstreetmap.org/wiki/Tag:building=military"
     },
     "tag:building=monastery": {
-        "message": "Kolostorépület",
+        "message": "kolostorépület",
         "description": "Tag \"building=monastery\". See https://wiki.openstreetmap.org/wiki/Tag:building=monastery"
     },
     "tag:building=mosque": {
-        "message": "Mecsetépület",
+        "message": "mecsetépület",
         "description": "Tag \"building=mosque\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque"
     },
     "tag:building=mosque religion=muslim": {
@@ -817,107 +817,107 @@
         "description": "Combined tag \"building=mosque\" and \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque and https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
     },
     "tag:building=office": {
-        "message": "Irodaház",
+        "message": "irodaház",
         "description": "Tag \"building=office\". See https://wiki.openstreetmap.org/wiki/Tag:building=office"
     },
     "tag:building=parking": {
-        "message": "Parkolóház",
+        "message": "parkolóház",
         "description": "Tag \"building=parking\". See https://wiki.openstreetmap.org/wiki/Tag:building=parking"
     },
     "tag:building=pavilion": {
-        "message": "Öltözőépület (sport)",
+        "message": "öltözőépület (sport)",
         "description": "Tag \"building=pavilion\". See https://wiki.openstreetmap.org/wiki/Tag:building=pavilion"
     },
     "tag:building=public": {
-        "message": "Középület",
+        "message": "középület",
         "description": "Tag \"building=public\". See https://wiki.openstreetmap.org/wiki/Tag:building=public"
     },
     "tag:building=religious": {
-        "message": "Egyházi épület",
+        "message": "egyházi épület",
         "description": "Tag \"building=religious\". See https://wiki.openstreetmap.org/wiki/Tag:building=religious"
     },
     "tag:building=residential": {
-        "message": "Lakóépület",
+        "message": "lakóépület",
         "description": "Tag \"building=residential\". See https://wiki.openstreetmap.org/wiki/Tag:building=residential"
     },
     "tag:building=retail": {
-        "message": "Kiskereskedelmi épület",
+        "message": "kiskereskedelmi épület",
         "description": "Tag \"building=retail\". See https://wiki.openstreetmap.org/wiki/Tag:building=retail"
     },
     "tag:building=riding_hall": {
-        "message": "Lovardaépület",
+        "message": "lovardaépület",
         "description": "Tag \"building=riding_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=riding_hall"
     },
     "tag:building=roof": {
-        "message": "Tető",
+        "message": "tető",
         "description": "Tag \"building=roof\". See https://wiki.openstreetmap.org/wiki/Tag:building=roof"
     },
     "tag:building=ruins": {
-        "message": "Rom",
+        "message": "rom",
         "description": "Tag \"building=ruins\". See https://wiki.openstreetmap.org/wiki/Tag:building=ruins"
     },
     "tag:building=school": {
-        "message": "Iskolaépület",
+        "message": "iskolaépület",
         "description": "Tag \"building=school\". See https://wiki.openstreetmap.org/wiki/Tag:building=school"
     },
     "tag:building=semidetached_house": {
-        "message": "Ikerház",
+        "message": "ikerház",
         "description": "Tag \"building=semidetached_house\". See https://wiki.openstreetmap.org/wiki/Tag:building=semidetached_house"
     },
     "tag:building=service": {
-        "message": "Gépészeti épület",
+        "message": "gépészeti épület",
         "description": "Tag \"building=service\". See https://wiki.openstreetmap.org/wiki/Tag:building=service"
     },
     "tag:building=shed": {
-        "message": "Fészer",
+        "message": "fészer",
         "description": "Tag \"building=shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=shed"
     },
     "tag:building=shop": {
-        "message": "Boltépület",
+        "message": "boltépület",
         "description": "Tag \"building=shop\". See https://wiki.openstreetmap.org/wiki/Tag:building=shop"
     },
     "tag:building=shrine": {
-        "message": "Szentély",
+        "message": "szentély",
         "description": "Tag \"building=shrine\". See https://wiki.openstreetmap.org/wiki/Tag:building=shrine"
     },
     "tag:building=silo": {
-        "message": "Siló",
+        "message": "siló",
         "description": "Tag \"building=silo\". See https://wiki.openstreetmap.org/wiki/Tag:building=silo"
     },
     "tag:building=slurry_tank": {
-        "message": "Trágyalétároló",
+        "message": "trágyalétároló",
         "description": "Tag \"building=slurry_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=slurry_tank"
     },
     "tag:building=sports_hall": {
-        "message": "Sportcsarnok",
+        "message": "sportcsarnok",
         "description": "Tag \"building=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=sports_hall"
     },
     "tag:building=stable": {
-        "message": "Lóistálló",
+        "message": "lóistálló",
         "description": "Tag \"building=stable\". See https://wiki.openstreetmap.org/wiki/Tag:building=stable"
     },
     "tag:building=stadium": {
-        "message": "Stadion",
+        "message": "stadion",
         "description": "Tag \"building=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:building=stadium"
     },
     "tag:building=static_caravan": {
-        "message": "Rögzített lakókocsi",
+        "message": "rögzített lakókocsi",
         "description": "Tag \"building=static_caravan\". See https://wiki.openstreetmap.org/wiki/Tag:building=static_caravan"
     },
     "tag:building=storage_tank": {
-        "message": "Tárolótartály",
+        "message": "tárolótartály",
         "description": "Tag \"building=storage_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=storage_tank"
     },
     "tag:building=sty": {
-        "message": "Disznóól",
+        "message": "disznóól",
         "description": "Tag \"building=sty\". See https://wiki.openstreetmap.org/wiki/Tag:building=sty"
     },
     "tag:building=supermarket": {
-        "message": "Szupermarket-épület",
+        "message": "szupermarket-épület",
         "description": "Tag \"building=supermarket\". See https://wiki.openstreetmap.org/wiki/Tag:building=supermarket"
     },
     "tag:building=synagogue": {
-        "message": "Zsinagógaépület",
+        "message": "zsinagógaépület",
         "description": "Tag \"building=synagogue\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue"
     },
     "tag:building=synagogue religion=jewish": {
@@ -925,7 +925,7 @@
         "description": "Combined tag \"building=synagogue\" and \"religion=jewish\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue and https://wiki.openstreetmap.org/wiki/Tag:religion=jewish"
     },
     "tag:building=temple": {
-        "message": "Nem keresztény templom",
+        "message": "nem keresztény templom",
         "description": "Tag \"building=temple\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple"
     },
     "tag:building=temple religion=sikh": {
@@ -933,7 +933,7 @@
         "description": "Combined tag \"building=temple\" and \"religion=sikh\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple and https://wiki.openstreetmap.org/wiki/Tag:religion=sikh"
     },
     "tag:building=terrace": {
-        "message": "Sorház",
+        "message": "sorház",
         "description": "Tag \"building=terrace\". See https://wiki.openstreetmap.org/wiki/Tag:building=terrace"
     },
     "tag:building=toilets": {
@@ -941,31 +941,31 @@
         "description": "Tag \"building=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:building=toilets"
     },
     "tag:building=train_station": {
-        "message": "Vasútállomás-épület",
+        "message": "vasútállomás-épület",
         "description": "Tag \"building=train_station\". See https://wiki.openstreetmap.org/wiki/Tag:building=train_station"
     },
     "tag:building=transformer_tower": {
-        "message": "Transzformátortorony",
+        "message": "transzformátortorony",
         "description": "Tag \"building=transformer_tower\". See https://wiki.openstreetmap.org/wiki/Tag:building=transformer_tower"
     },
     "tag:building=transportation": {
-        "message": "Közlekedési épület",
+        "message": "közlekedési épület",
         "description": "Tag \"building=transportation\". See https://wiki.openstreetmap.org/wiki/Tag:building=transportation"
     },
     "tag:building=trullo": {
-        "message": "Trullo",
+        "message": "trullo",
         "description": "Tag \"building=trullo\". See https://wiki.openstreetmap.org/wiki/Tag:building=trullo"
     },
     "tag:building=university": {
-        "message": "Egyetemi épület",
+        "message": "egyetemi épület",
         "description": "Tag \"building=university\". See https://wiki.openstreetmap.org/wiki/Tag:building=university"
     },
     "tag:building=warehouse": {
-        "message": "Raktárépület",
+        "message": "raktárépület",
         "description": "Tag \"building=warehouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=warehouse"
     },
     "tag:building=water_tower": {
-        "message": "Víztorony",
+        "message": "víztorony",
         "description": "Tag \"building=water_tower\". See https://wiki.openstreetmap.org/wiki/Tag:building=water_tower"
     },
     "tag:cables": {
@@ -1450,479 +1450,479 @@
         "message": "Konyha (étel)"
     },
     "tag:cuisine=afghan": {
-        "message": "",
+        "message": "afgán",
         "description": "Tag \"cuisine=afghan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=african": {
-        "message": "",
+        "message": "afrikai",
         "description": "Tag \"cuisine=african\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=american": {
-        "message": "",
+        "message": "amerikai",
         "description": "Tag \"cuisine=american\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=arab": {
-        "message": "",
+        "message": "arab",
         "description": "Tag \"cuisine=arab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=argentinian": {
-        "message": "",
+        "message": "argentin",
         "description": "Tag \"cuisine=argentinian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=asian": {
-        "message": "",
+        "message": "ázsiai",
         "description": "Tag \"cuisine=asian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=australian": {
-        "message": "",
+        "message": "ausztrál",
         "description": "Tag \"cuisine=australian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=austrian": {
-        "message": "",
+        "message": "osztrák",
         "description": "Tag \"cuisine=austrian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=bagel": {
-        "message": "",
+        "message": "bagel",
         "description": "Tag \"cuisine=bagel\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=baiana": {
-        "message": "",
+        "message": "bahiai (brazil szövetségi állam)",
         "description": "Tag \"cuisine=baiana\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=balkan": {
-        "message": "",
+        "message": "balkáni",
         "description": "Tag \"cuisine=balkan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=barbecue": {
-        "message": "",
+        "message": "barbecue",
         "description": "Tag \"cuisine=barbecue\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=basque": {
-        "message": "",
+        "message": "baszk",
         "description": "Tag \"cuisine=basque\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=bavarian": {
-        "message": "",
+        "message": "bajor",
         "description": "Tag \"cuisine=bavarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=belarusan": {
-        "message": "",
+        "message": "fehérorosz",
         "description": "Tag \"cuisine=belarusan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=biscuit": {
-        "message": "",
+        "message": "keksz, aprósütemény",
         "description": "Tag \"cuisine=biscuit\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=bolivian": {
-        "message": "",
+        "message": "bolíviai",
         "description": "Tag \"cuisine=bolivian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=bougatsa": {
-        "message": "",
+        "message": "bugaca (görög rétes)",
         "description": "Tag \"cuisine=bougatsa\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=brazilian": {
-        "message": "",
+        "message": "brazil",
         "description": "Tag \"cuisine=brazilian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=burger": {
-        "message": "",
+        "message": "hamburger",
         "description": "Tag \"cuisine=burger\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=cake": {
-        "message": "",
+        "message": "torta",
         "description": "Tag \"cuisine=cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=cantonese": {
-        "message": "",
+        "message": "kantoni (kínai)",
         "description": "Tag \"cuisine=cantonese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=capixaba": {
-        "message": "",
+        "message": "capixaba (Espiritu Santu brazil szövetségi állam)",
         "description": "Tag \"cuisine=capixaba\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=caribbean": {
-        "message": "",
+        "message": "karibi",
         "description": "Tag \"cuisine=caribbean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=caribean": {
-        "message": "",
+        "message": "karibi",
         "description": "Tag \"cuisine=caribean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=casserole": {
-        "message": "",
+        "message": "casserole",
         "description": "Tag \"cuisine=casserole\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chicken": {
-        "message": "",
+        "message": "csirke",
         "description": "Tag \"cuisine=chicken\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chimney_cake": {
-        "message": "",
+        "message": "kürtőskalács",
         "description": "Tag \"cuisine=chimney_cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chinese": {
-        "message": "",
+        "message": "kínai",
         "description": "Tag \"cuisine=chinese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=coffee": {
-        "message": "",
+        "message": "kávé",
         "description": "Tag \"cuisine=coffee\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=coffee_shop": {
-        "message": "Kávé",
+        "message": "kávézó",
         "description": "Tag \"cuisine=coffee_shop\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=cookie": {
-        "message": "",
+        "message": "kerek keksz, cookie",
         "description": "Tag \"cuisine=cookie\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=couscous": {
-        "message": "",
+        "message": "kuszkusz",
         "description": "Tag \"cuisine=couscous\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=crepe": {
-        "message": "",
+        "message": "crêpe (francia palacsinta)",
         "description": "Tag \"cuisine=crepe\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=croatian": {
-        "message": "",
+        "message": "horvát",
         "description": "Tag \"cuisine=croatian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=curry": {
-        "message": "",
+        "message": "curry",
         "description": "Tag \"cuisine=curry\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=czech": {
-        "message": "",
+        "message": "cseh",
         "description": "Tag \"cuisine=czech\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=danish": {
-        "message": "",
+        "message": "dán",
         "description": "Tag \"cuisine=danish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=dessert": {
-        "message": "",
+        "message": "desszert",
         "description": "Tag \"cuisine=dessert\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=donut": {
-        "message": "",
+        "message": "fánk, donut",
         "description": "Tag \"cuisine=donut\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=empanada": {
-        "message": "",
+        "message": "empanada",
         "description": "Tag \"cuisine=empanada\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=fish": {
-        "message": "",
+        "message": "hal",
         "description": "Tag \"cuisine=fish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=fish_and_chips": {
-        "message": "",
+        "message": "fish & chips",
         "description": "Tag \"cuisine=fish_and_chips\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=french": {
-        "message": "",
+        "message": "francia",
         "description": "Tag \"cuisine=french\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=fried_food": {
-        "message": "",
+        "message": "olajban sült étel",
         "description": "Tag \"cuisine=fried_food\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=friture": {
-        "message": "",
+        "message": "sült burgonya",
         "description": "Tag \"cuisine=friture\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=frozen_yogurt": {
-        "message": "",
+        "message": "fagyasztott joghurt",
         "description": "Tag \"cuisine=frozen_yogurt\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=gaucho": {
-        "message": "",
+        "message": "gaucho (dél-brazil)",
         "description": "Tag \"cuisine=gaucho\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=german": {
-        "message": "",
+        "message": "német",
         "description": "Tag \"cuisine=german\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=gingerbread": {
-        "message": "",
+        "message": "gyömbéres piskóta",
         "description": "Tag \"cuisine=gingerbread\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=greek": {
-        "message": "",
+        "message": "görög",
         "description": "Tag \"cuisine=greek\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=gyros": {
-        "message": "",
+        "message": "gyros",
         "description": "Tag \"cuisine=gyros\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=hawaiian": {
-        "message": "",
+        "message": "hawaii",
         "description": "Tag \"cuisine=hawaiian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=hunan": {
-        "message": "",
+        "message": "hunan (kínai)",
         "description": "Tag \"cuisine=hunan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=hungarian": {
-        "message": "",
+        "message": "magyar",
         "description": "Tag \"cuisine=hungarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=ice_cream": {
-        "message": "",
+        "message": "fagylalt",
         "description": "Tag \"cuisine=ice_cream\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=indian": {
-        "message": "",
+        "message": "indiai",
         "description": "Tag \"cuisine=indian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=international": {
-        "message": "",
+        "message": "nemzetközi",
         "description": "Tag \"cuisine=international\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=iranian": {
-        "message": "",
+        "message": "iráni",
         "description": "Tag \"cuisine=iranian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=italian": {
-        "message": "",
+        "message": "olasz",
         "description": "Tag \"cuisine=italian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=japanese": {
-        "message": "",
+        "message": "japán",
         "description": "Tag \"cuisine=japanese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=jewish": {
-        "message": "",
+        "message": "zsidó",
         "description": "Tag \"cuisine=jewish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=juice": {
-        "message": "",
+        "message": "gyümölcslé",
         "description": "Tag \"cuisine=juice\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=kebab": {
-        "message": "",
+        "message": "kebab",
         "description": "Tag \"cuisine=kebab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=korean": {
-        "message": "",
+        "message": "koreai",
         "description": "Tag \"cuisine=korean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=kyo_ryouri": {
-        "message": "",
+        "message": "kiotói (japán)",
         "description": "Tag \"cuisine=kyo_ryouri\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=langos": {
-        "message": "",
+        "message": "lángos",
         "description": "Tag \"cuisine=langos\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=latin_american": {
-        "message": "",
+        "message": "latin-amerikai",
         "description": "Tag \"cuisine=latin_american\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=lebanese": {
-        "message": "",
+        "message": "libanoni",
         "description": "Tag \"cuisine=lebanese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=local": {
-        "message": "",
+        "message": "helyi",
         "description": "Tag \"cuisine=local\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=malagasy": {
-        "message": "",
+        "message": "madagaszkári",
         "description": "Tag \"cuisine=malagasy\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=mediterranean": {
-        "message": "",
+        "message": "mediterrán",
         "description": "Tag \"cuisine=mediterranean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=mexican": {
-        "message": "",
+        "message": "mexikói",
         "description": "Tag \"cuisine=mexican\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=mineira": {
-        "message": "",
+        "message": "mineira (Minas Gerais brazil szövetségi állam)",
         "description": "Tag \"cuisine=mineira\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=new_mexican": {
-        "message": "",
+        "message": "újmexikói (USA szövetségi állam)",
         "description": "Tag \"cuisine=new_mexican\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=noodle": {
-        "message": "",
+        "message": "tészta",
         "description": "Tag \"cuisine=noodle\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=okinawa_ryori": {
-        "message": "",
+        "message": "okinavai (japán)",
         "description": "Tag \"cuisine=okinawa_ryori\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pakistani": {
-        "message": "",
+        "message": "pakisztáni",
         "description": "Tag \"cuisine=pakistani\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pancake": {
-        "message": "",
+        "message": "palacsinta (pancake)",
         "description": "Tag \"cuisine=pancake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pasta": {
-        "message": "",
+        "message": "olasz tészta",
         "description": "Tag \"cuisine=pasta\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pastry": {
-        "message": "",
+        "message": "sütemény",
         "description": "Tag \"cuisine=pastry\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=peruvian": {
-        "message": "",
+        "message": "perui",
         "description": "Tag \"cuisine=peruvian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=petit_four": {
-        "message": "",
+        "message": "petit four (kis francia sütemény)",
         "description": "Tag \"cuisine=petit_four\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pie": {
-        "message": "",
+        "message": "pite",
         "description": "Tag \"cuisine=pie\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pizza": {
-        "message": "",
+        "message": "pizza",
         "description": "Tag \"cuisine=pizza\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pogacha": {
-        "message": "",
+        "message": "pogácsa",
         "description": "Tag \"cuisine=pogacha\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=polish": {
-        "message": "",
+        "message": "lengyel",
         "description": "Tag \"cuisine=polish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=poppy_seed_roll": {
-        "message": "",
+        "message": "bejgli",
         "description": "Tag \"cuisine=poppy_seed_roll\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=portuguese": {
-        "message": "",
+        "message": "portugál",
         "description": "Tag \"cuisine=portuguese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=profiterole": {
-        "message": "",
+        "message": "profiterole (képviselőfánk)",
         "description": "Tag \"cuisine=profiterole\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=punch_cake": {
-        "message": "",
+        "message": "mignon",
         "description": "Tag \"cuisine=punch_cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=regional": {
-        "message": "helyi",
+        "message": "regionális",
         "description": "Tag \"cuisine=regional\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=rhenish": {
-        "message": "",
+        "message": "rajnai",
         "description": "Tag \"cuisine=rhenish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=russian": {
-        "message": "",
+        "message": "orosz",
         "description": "Tag \"cuisine=russian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=salad": {
-        "message": "",
+        "message": "saláta",
         "description": "Tag \"cuisine=salad\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sandwich": {
-        "message": "",
+        "message": "szendvics",
         "description": "Tag \"cuisine=sandwich\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sausage": {
-        "message": "",
+        "message": "kolbász",
         "description": "Tag \"cuisine=sausage\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=savory_pancakes": {
-        "message": "",
+        "message": "savoury pancakes (japán palacsintaféleség)",
         "description": "Tag \"cuisine=savory_pancakes\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=seafood": {
-        "message": "",
+        "message": "tenger gyümölcsei",
         "description": "Tag \"cuisine=seafood\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=shandong": {
-        "message": "",
+        "message": "sandong (kínai, pekingi)",
         "description": "Tag \"cuisine=shandong\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sichuan": {
-        "message": "",
+        "message": "szecsuáni (kínai)",
         "description": "Tag \"cuisine=sichuan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=soup": {
-        "message": "",
+        "message": "leves",
         "description": "Tag \"cuisine=soup\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=spanish": {
-        "message": "",
+        "message": "spanyol",
         "description": "Tag \"cuisine=spanish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=steak_house": {
-        "message": "",
+        "message": "steak house (marhaszelet)",
         "description": "Tag \"cuisine=steak_house\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=strudel": {
-        "message": "",
+        "message": "rétes",
         "description": "Tag \"cuisine=strudel\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sub": {
-        "message": "",
+        "message": "bagett, szendvics",
         "description": "Tag \"cuisine=sub\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sushi": {
-        "message": "",
+        "message": "szusi",
         "description": "Tag \"cuisine=sushi\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=tapas": {
-        "message": "",
+        "message": "tapas",
         "description": "Tag \"cuisine=tapas\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=teahouse": {
-        "message": "",
+        "message": "teaház",
         "description": "Tag \"cuisine=teahouse\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=tex-mex": {
-        "message": "",
+        "message": "tex-mex",
         "description": "Tag \"cuisine=tex-mex\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=texan": {
-        "message": "",
+        "message": "texasi",
         "description": "Tag \"cuisine=texan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=thai": {
-        "message": "",
+        "message": "thaiföldi",
         "description": "Tag \"cuisine=thai\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=turkish": {
-        "message": "",
+        "message": "török",
         "description": "Tag \"cuisine=turkish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=vegan": {
-        "message": "",
+        "message": "vegán",
         "description": "Tag \"cuisine=vegan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=vegetarian": {
-        "message": "",
+        "message": "vegetáriánus",
         "description": "Tag \"cuisine=vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=vietnamese": {
-        "message": "",
+        "message": "vietnami",
         "description": "Tag \"cuisine=vietnamese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=waffle": {
-        "message": "",
+        "message": "waffel",
         "description": "Tag \"cuisine=waffle\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=westphalian": {
-        "message": "",
+        "message": "vesztfáliai",
         "description": "Tag \"cuisine=westphalian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=wings": {
-        "message": "",
+        "message": "szárny",
         "description": "Tag \"cuisine=wings\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cutting": {
