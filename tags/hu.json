@@ -2050,7 +2050,7 @@
         "description": "Key \"diet:vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegetarian"
     },
     "tag:disused": {
-        "message": "Használato kívü",
+        "message": "Használaton kívül",
         "description": "Key \"disused\". See https://wiki.openstreetmap.org/wiki/Key:disused"
     },
     "tag:driving_side": {
