@@ -2518,67 +2518,67 @@
         "description": "Key \"historic:civilization\". See https://wiki.openstreetmap.org/wiki/Key:historic:civilization"
     },
     "tag:historic:civilization=ancient_egyptian": {
-        "message": "",
+        "message": "óegyiptomi",
         "description": "Tag \"historic:civilization=ancient_egyptian\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=ancient_egyptian"
     },
     "tag:historic:civilization=ancient_greek": {
-        "message": "",
+        "message": "ókori görög",
         "description": "Tag \"historic:civilization=ancient_greek\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=ancient_greek"
     },
     "tag:historic:civilization=ancient_roman": {
-        "message": "",
+        "message": "ókori római",
         "description": "Tag \"historic:civilization=ancient_roman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=ancient_roman"
     },
     "tag:historic:civilization=byzantine": {
-        "message": "",
+        "message": "Bizánc",
         "description": "Tag \"historic:civilization=byzantine\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=byzantine"
     },
     "tag:historic:civilization=celtic": {
-        "message": "",
+        "message": "kelta",
         "description": "Tag \"historic:civilization=celtic\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=celtic"
     },
     "tag:historic:civilization=etruscan": {
-        "message": "",
+        "message": "etruszk",
         "description": "Tag \"historic:civilization=etruscan\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=etruscan"
     },
     "tag:historic:civilization=imperial_chinese": {
-        "message": "",
+        "message": "birodalmi kína",
         "description": "Tag \"historic:civilization=imperial_chinese\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=imperial_chinese"
     },
     "tag:historic:civilization=korean": {
-        "message": "",
+        "message": "korea",
         "description": "Tag \"historic:civilization=korean\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=korean"
     },
     "tag:historic:civilization=medieval": {
-        "message": "",
+        "message": "középkori",
         "description": "Tag \"historic:civilization=medieval\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=medieval"
     },
     "tag:historic:civilization=modern": {
-        "message": "",
+        "message": "modern",
         "description": "Tag \"historic:civilization=modern\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=modern"
     },
     "tag:historic:civilization=neolithic": {
-        "message": "",
+        "message": "újkőkorszaki",
         "description": "Tag \"historic:civilization=neolithic\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=neolithic"
     },
     "tag:historic:civilization=nuragic": {
-        "message": "",
+        "message": "nuraghe",
         "description": "Tag \"historic:civilization=nuragic\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=nuragic"
     },
     "tag:historic:civilization=ottoman": {
-        "message": "",
+        "message": "oszmán török",
         "description": "Tag \"historic:civilization=ottoman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=ottoman"
     },
     "tag:historic:civilization=prehistoric": {
-        "message": "",
+        "message": "prehisztorikus",
         "description": "Tag \"historic:civilization=prehistoric\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=prehistoric"
     },
     "tag:historic:civilization=roman": {
-        "message": "",
+        "message": "római",
         "description": "Tag \"historic:civilization=roman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=roman"
     },
     "tag:historic:civilization=western_roman": {
-        "message": "",
+        "message": "Nyugat-Római Birodalom",
         "description": "Tag \"historic:civilization=western_roman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=western_roman"
     },
     "tag:historic=aircraft": {
@@ -2630,7 +2630,7 @@
         "description": "Tag \"historic=citywalls\". See https://wiki.openstreetmap.org/wiki/Tag:historic=citywalls"
     },
     "tag:historic=exhibit": {
-        "message": "",
+        "message": "Kiállított történelmi tárgy",
         "description": "Tag \"historic=exhibit\". See https://wiki.openstreetmap.org/wiki/Tag:historic=exhibit"
     },
     "tag:historic=farm": {
@@ -2638,19 +2638,19 @@
         "description": "Tag \"historic=farm\". See https://wiki.openstreetmap.org/wiki/Tag:historic=farm"
     },
     "tag:historic=fort": {
-        "message": "",
+        "message": "Erőd",
         "description": "Tag \"historic=fort\". See https://wiki.openstreetmap.org/wiki/Tag:historic=fort"
     },
     "tag:historic=highwater_mark": {
-        "message": "",
+        "message": "Történelmi árvízszint jelölése",
         "description": "Tag \"historic=highwater_mark\". See https://wiki.openstreetmap.org/wiki/Tag:historic=highwater_mark"
     },
     "tag:historic=industrial": {
-        "message": "",
+        "message": "Történelmi ipari létesítmény",
         "description": "Tag \"historic=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:historic=industrial"
     },
     "tag:historic=kiln": {
-        "message": "",
+        "message": "Történelmi égetőkemence",
         "description": "Tag \"historic=kiln\". See https://wiki.openstreetmap.org/wiki/Tag:historic=kiln"
     },
     "tag:historic=locomotive": {
@@ -2658,7 +2658,7 @@
         "description": "Tag \"historic=locomotive\". See https://wiki.openstreetmap.org/wiki/Tag:historic=locomotive"
     },
     "tag:historic=manor": {
-        "message": "",
+        "message": "Történelmi kúria",
         "description": "Tag \"historic=manor\". See https://wiki.openstreetmap.org/wiki/Tag:historic=manor"
     },
     "tag:historic=memorial": {
@@ -2714,39 +2714,39 @@
         "description": "Tag \"historic=monastery\". See https://wiki.openstreetmap.org/wiki/Tag:historic=monastery"
     },
     "tag:historic=monument": {
-        "message": "Monumentáli, épületszerű emlékmű",
+        "message": "Monumentális, épületszerű emlékmű",
         "description": "Tag \"historic=monument\". See https://wiki.openstreetmap.org/wiki/Tag:historic=monument"
     },
     "tag:historic=pillory": {
-        "message": "",
+        "message": "Történelmi kaloda",
         "description": "Tag \"historic=pillory\". See https://wiki.openstreetmap.org/wiki/Tag:historic=pillory"
     },
     "tag:historic=railway_car": {
-        "message": "",
+        "message": "Történelmi vasúti kocsi",
         "description": "Tag \"historic=railway_car\". See https://wiki.openstreetmap.org/wiki/Tag:historic=railway_car"
     },
     "tag:historic=ruins": {
-        "message": "",
+        "message": "Történelmi rom",
         "description": "Tag \"historic=ruins\". See https://wiki.openstreetmap.org/wiki/Tag:historic=ruins"
     },
     "tag:historic=ship": {
-        "message": "",
+        "message": "Történelmi hajó",
         "description": "Tag \"historic=ship\". See https://wiki.openstreetmap.org/wiki/Tag:historic=ship"
     },
     "tag:historic=stone": {
-        "message": "",
+        "message": "Történelmi kő",
         "description": "Tag \"historic=stone\". See https://wiki.openstreetmap.org/wiki/Tag:historic=stone"
     },
     "tag:historic=technical_monument": {
-        "message": "",
+        "message": "Ipari műemlék",
         "description": "Tag \"historic=technical_monument\". See https://wiki.openstreetmap.org/wiki/Tag:historic=technical_monument"
     },
     "tag:historic=tomb": {
-        "message": "",
+        "message": "Történelmi sír",
         "description": "Tag \"historic=tomb\". See https://wiki.openstreetmap.org/wiki/Tag:historic=tomb"
     },
     "tag:historic=tower": {
-        "message": "",
+        "message": "Történelmi torony",
         "description": "Tag \"historic=tower\". See https://wiki.openstreetmap.org/wiki/Tag:historic=tower"
     },
     "tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage": {
@@ -2754,23 +2754,23 @@
         "description": "Tag \"historic=unesco_world_heritage;historic=UNESCO_world_heritage\". See https://wiki.openstreetmap.org/wiki/Tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage"
     },
     "tag:historic=wayside_chapel": {
-        "message": "",
+        "message": "Út menti kápolna",
         "description": "Tag \"historic=wayside_chapel\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_chapel"
     },
     "tag:historic=wayside_cross": {
-        "message": "Útmenti kereszt",
+        "message": "Út menti kereszt",
         "description": "Tag \"historic=wayside_cross\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_cross"
     },
     "tag:historic=wayside_shrine": {
-        "message": "Útmenti szentély",
+        "message": "Út menti szentély",
         "description": "Tag \"historic=wayside_shrine\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_shrine"
     },
     "tag:historic=wreck": {
-        "message": "",
+        "message": "Hajóroncs",
         "description": "Tag \"historic=wreck\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wreck"
     },
     "tag:historic=yes": {
-        "message": "",
+        "message": "Történelmi objektum",
         "description": "Tag \"historic=yes\". See https://wiki.openstreetmap.org/wiki/Tag:historic=yes"
     },
     "tag:horse": {
@@ -3138,7 +3138,7 @@
         "description": "Key \"material\". See https://wiki.openstreetmap.org/wiki/Key:material"
     },
     "tag:material=adobe": {
-        "message": "",
+        "message": "Vályog",
         "description": "Tag \"material=adobe\". See https://wiki.openstreetmap.org/wiki/Tag:material=adobe"
     },
     "tag:material=andesite": {
@@ -3150,35 +3150,35 @@
         "description": "Tag \"material=bamboo\". See https://wiki.openstreetmap.org/wiki/Tag:material=bamboo"
     },
     "tag:material=brass": {
-        "message": "",
+        "message": "Sárgaréz",
         "description": "Tag \"material=brass\". See https://wiki.openstreetmap.org/wiki/Tag:material=brass"
     },
     "tag:material=brick": {
-        "message": "",
+        "message": "Tégla",
         "description": "Tag \"material=brick\". See https://wiki.openstreetmap.org/wiki/Tag:material=brick"
     },
     "tag:material=bronze": {
-        "message": "",
+        "message": "Bronz",
         "description": "Tag \"material=bronze\". See https://wiki.openstreetmap.org/wiki/Tag:material=bronze"
     },
     "tag:material=concrete": {
-        "message": "",
+        "message": "Beton",
         "description": "Tag \"material=concrete\". See https://wiki.openstreetmap.org/wiki/Tag:material=concrete"
     },
     "tag:material=glass": {
-        "message": "",
+        "message": "Üveg",
         "description": "Tag \"material=glass\". See https://wiki.openstreetmap.org/wiki/Tag:material=glass"
     },
     "tag:material=gold": {
-        "message": "",
+        "message": "Arany",
         "description": "Tag \"material=gold\". See https://wiki.openstreetmap.org/wiki/Tag:material=gold"
     },
     "tag:material=granite": {
-        "message": "",
+        "message": "Gránit",
         "description": "Tag \"material=granite\". See https://wiki.openstreetmap.org/wiki/Tag:material=granite"
     },
     "tag:material=iron": {
-        "message": "",
+        "message": "Vas",
         "description": "Tag \"material=iron\". See https://wiki.openstreetmap.org/wiki/Tag:material=iron"
     },
     "tag:material=light": {
@@ -3186,67 +3186,67 @@
         "description": "Tag \"material=light\". See https://wiki.openstreetmap.org/wiki/Tag:material=light"
     },
     "tag:material=limestone": {
-        "message": "",
+        "message": "Mészkő",
         "description": "Tag \"material=limestone\". See https://wiki.openstreetmap.org/wiki/Tag:material=limestone"
     },
     "tag:material=marble": {
-        "message": "",
+        "message": "Márvány",
         "description": "Tag \"material=marble\". See https://wiki.openstreetmap.org/wiki/Tag:material=marble"
     },
     "tag:material=masonry": {
-        "message": "",
+        "message": "Fal",
         "description": "Tag \"material=masonry\". See https://wiki.openstreetmap.org/wiki/Tag:material=masonry"
     },
     "tag:material=metal": {
-        "message": "",
+        "message": "Fém",
         "description": "Tag \"material=metal\". See https://wiki.openstreetmap.org/wiki/Tag:material=metal"
     },
     "tag:material=mixed": {
-        "message": "",
+        "message": "Vegyes",
         "description": "Tag \"material=mixed\". See https://wiki.openstreetmap.org/wiki/Tag:material=mixed"
     },
     "tag:material=palm_leaves": {
-        "message": "",
+        "message": "Pálmalevél",
         "description": "Tag \"material=palm_leaves\". See https://wiki.openstreetmap.org/wiki/Tag:material=palm_leaves"
     },
     "tag:material=plastic": {
-        "message": "",
+        "message": "Műanyag",
         "description": "Tag \"material=plastic\". See https://wiki.openstreetmap.org/wiki/Tag:material=plastic"
     },
     "tag:material=rammed_earth": {
-        "message": "",
+        "message": "Döngölt agyag",
         "description": "Tag \"material=rammed_earth\". See https://wiki.openstreetmap.org/wiki/Tag:material=rammed_earth"
     },
     "tag:material=reinforced_concrete": {
-        "message": "",
+        "message": "Vasbeton",
         "description": "Tag \"material=reinforced_concrete\". See https://wiki.openstreetmap.org/wiki/Tag:material=reinforced_concrete"
     },
     "tag:material=sandstone": {
-        "message": "",
+        "message": "Homokkő",
         "description": "Tag \"material=sandstone\". See https://wiki.openstreetmap.org/wiki/Tag:material=sandstone"
     },
     "tag:material=silicate_brick": {
-        "message": "",
+        "message": "Szilikáttégla",
         "description": "Tag \"material=silicate_brick\". See https://wiki.openstreetmap.org/wiki/Tag:material=silicate_brick"
     },
     "tag:material=silver": {
-        "message": "",
+        "message": "Ezüst",
         "description": "Tag \"material=silver\". See https://wiki.openstreetmap.org/wiki/Tag:material=silver"
     },
     "tag:material=soil": {
-        "message": "",
+        "message": "Föld",
         "description": "Tag \"material=soil\". See https://wiki.openstreetmap.org/wiki/Tag:material=soil"
     },
     "tag:material=steel": {
-        "message": "",
+        "message": "Acél",
         "description": "Tag \"material=steel\". See https://wiki.openstreetmap.org/wiki/Tag:material=steel"
     },
     "tag:material=stone": {
-        "message": "",
+        "message": "Kő",
         "description": "Tag \"material=stone\". See https://wiki.openstreetmap.org/wiki/Tag:material=stone"
     },
     "tag:material=wood": {
-        "message": "",
+        "message": "Fa",
         "description": "Tag \"material=wood\". See https://wiki.openstreetmap.org/wiki/Tag:material=wood"
     },
     "tag:maxheight": {
