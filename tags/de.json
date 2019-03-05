@@ -2661,42 +2661,6 @@
         "message": "Gedenkstätten",
         "description": "Tag \"historic=memorial\". See https://wiki.openstreetmap.org/wiki/Tag:historic=memorial"
     },
-    "tag:historic=memorial memorial=blue_plaque": {
-        "message": "",
-        "description": "Combined tag \"historic=memorial\" and \"memorial=blue_plaque\". See https://wiki.openstreetmap.org/wiki/Tag:historic=memorial and https://wiki.openstreetmap.org/wiki/Tag:memorial=blue_plaque"
-    },
-    "tag:historic=memorial memorial=bust": {
-        "message": "",
-        "description": "Combined tag \"historic=memorial\" and \"memorial=bust\". See https://wiki.openstreetmap.org/wiki/Tag:historic=memorial and https://wiki.openstreetmap.org/wiki/Tag:memorial=bust"
-    },
-    "tag:historic=memorial memorial=obelisk": {
-        "message": "",
-        "description": "Combined tag \"historic=memorial\" and \"memorial=obelisk\". See https://wiki.openstreetmap.org/wiki/Tag:historic=memorial and https://wiki.openstreetmap.org/wiki/Tag:memorial=obelisk"
-    },
-    "tag:historic=memorial memorial=plaque": {
-        "message": "",
-        "description": "Combined tag \"historic=memorial\" and \"memorial=plaque\". See https://wiki.openstreetmap.org/wiki/Tag:historic=memorial and https://wiki.openstreetmap.org/wiki/Tag:memorial=plaque"
-    },
-    "tag:historic=memorial memorial=statue": {
-        "message": "",
-        "description": "Combined tag \"historic=memorial\" and \"memorial=statue\". See https://wiki.openstreetmap.org/wiki/Tag:historic=memorial and https://wiki.openstreetmap.org/wiki/Tag:memorial=statue"
-    },
-    "tag:historic=memorial memorial=stele": {
-        "message": "",
-        "description": "Combined tag \"historic=memorial\" and \"memorial=stele\". See https://wiki.openstreetmap.org/wiki/Tag:historic=memorial and https://wiki.openstreetmap.org/wiki/Tag:memorial=stele"
-    },
-    "tag:historic=memorial memorial=stolperstein": {
-        "message": "",
-        "description": "Combined tag \"historic=memorial\" and \"memorial=stolperstein\". See https://wiki.openstreetmap.org/wiki/Tag:historic=memorial and https://wiki.openstreetmap.org/wiki/Tag:memorial=stolperstein"
-    },
-    "tag:historic=memorial memorial=stone": {
-        "message": "",
-        "description": "Combined tag \"historic=memorial\" and \"memorial=stone\". See https://wiki.openstreetmap.org/wiki/Tag:historic=memorial and https://wiki.openstreetmap.org/wiki/Tag:memorial=stone"
-    },
-    "tag:historic=memorial memorial=war_memorial": {
-        "message": "",
-        "description": "Combined tag \"historic=memorial\" and \"memorial=war_memorial\". See https://wiki.openstreetmap.org/wiki/Tag:historic=memorial and https://wiki.openstreetmap.org/wiki/Tag:memorial=war_memorial"
-    },
     "tag:historic=milestone": {
         "message": "",
         "description": "Tag \"historic=milestone\". See https://wiki.openstreetmap.org/wiki/Tag:historic=milestone"
@@ -3272,6 +3236,78 @@
     "tag:memorial:conflict=WW2": {
         "message": "",
         "description": "Tag \"memorial:conflict=WW2\". See https://wiki.openstreetmap.org/wiki/Tag:memorial:conflict=WW2"
+    },
+    "tag:memorial=blue_plaque": {
+        "message": "",
+        "description": "Tag \"memorial=blue_plaque\" or \"memorial:type=blue_plaque\" or \"monument=blue_plaque\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=blue_plaque"
+    },
+    "tag:memorial=bust": {
+        "message": "",
+        "description": "Tag \"memorial=bust\" or \"memorial:type=bust\" or \"monument=bust\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=bust"
+    },
+    "tag:memorial=cross": {
+        "message": "",
+        "description": "Tag \"memorial=cross\" or \"memorial:type=cross\" or \"monument=cross\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=cross"
+    },
+    "tag:memorial=flood_mark": {
+        "message": "",
+        "description": "Tag \"memorial=flood_mark\" or \"memorial:type=flood_mark\" or \"monument=flood_mark\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=flood_mark"
+    },
+    "tag:memorial=ghost_bike": {
+        "message": "",
+        "description": "Tag \"memorial=ghost_bike\" or \"memorial:type=ghost_bike\" or \"monument=ghost_bike\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=ghost_bike"
+    },
+    "tag:memorial=grave": {
+        "message": "",
+        "description": "Tag \"memorial=grave\" or \"memorial:type=grave\" or \"monument=grave\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=grave"
+    },
+    "tag:memorial=graveyard": {
+        "message": "",
+        "description": "Tag \"memorial=graveyard\" or \"memorial:type=graveyard\" or \"monument=graveyard\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=graveyard"
+    },
+    "tag:memorial=high_water_mark": {
+        "message": "",
+        "description": "Tag \"memorial=high_water_mark\" or \"memorial:type=high_water_mark\" or \"monument=high_water_mark\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=high_water_mark"
+    },
+    "tag:memorial=obelisk": {
+        "message": "",
+        "description": "Tag \"memorial=obelisk\" or \"memorial:type=obelisk\" or \"monument=obelisk\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=obelisk"
+    },
+    "tag:memorial=plaque": {
+        "message": "",
+        "description": "Tag \"memorial=plaque\" or \"memorial:type=plaque\" or \"monument=plaque\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=plaque"
+    },
+    "tag:memorial=sculpture": {
+        "message": "",
+        "description": "Tag \"memorial=sculpture\" or \"memorial:type=sculpture\" or \"monument=sculpture\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=sculpture"
+    },
+    "tag:memorial=statue": {
+        "message": "",
+        "description": "Tag \"memorial=statue\" or \"memorial:type=statue\" or \"monument=statue\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=statue"
+    },
+    "tag:memorial=stele": {
+        "message": "",
+        "description": "Tag \"memorial=stele\" or \"memorial:type=stele\" or \"monument=stele\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=stele"
+    },
+    "tag:memorial=stolperstein": {
+        "message": "",
+        "description": "Tag \"memorial=stolperstein\" or \"memorial:type=stolperstein\" or \"monument=stolperstein\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=stolperstein"
+    },
+    "tag:memorial=stone": {
+        "message": "",
+        "description": "Tag \"memorial=stone\" or \"memorial:type=stone\" or \"monument=stone\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=stone"
+    },
+    "tag:memorial=tank": {
+        "message": "",
+        "description": "Tag \"memorial=tank\" or \"memorial:type=tank\" or \"monument=tank\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=tank"
+    },
+    "tag:memorial=vehicle": {
+        "message": "",
+        "description": "Tag \"memorial=vehicle\" or \"memorial:type=vehicle\" or \"monument=vehicle\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=vehicle"
+    },
+    "tag:memorial=war_memorial": {
+        "message": "",
+        "description": "Tag \"memorial=war_memorial\" or \"memorial:type=war_memorial\" or \"monument=war_memorial\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=war_memorial"
     },
     "tag:military": {
         "message": "Militärisch",

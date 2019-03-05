@@ -614,6 +614,42 @@
         "message": "",
         "description": "Tag \"historic=wayside_chapel\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_chapel"
     },
+    "tag:memorial=cross": {
+        "message": "",
+        "description": "Tag \"memorial=cross\" or \"memorial:type=cross\" or \"monument=cross\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=cross"
+    },
+    "tag:memorial=flood_mark": {
+        "message": "",
+        "description": "Tag \"memorial=flood_mark\" or \"memorial:type=flood_mark\" or \"monument=flood_mark\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=flood_mark"
+    },
+    "tag:memorial=ghost_bike": {
+        "message": "",
+        "description": "Tag \"memorial=ghost_bike\" or \"memorial:type=ghost_bike\" or \"monument=ghost_bike\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=ghost_bike"
+    },
+    "tag:memorial=grave": {
+        "message": "",
+        "description": "Tag \"memorial=grave\" or \"memorial:type=grave\" or \"monument=grave\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=grave"
+    },
+    "tag:memorial=graveyard": {
+        "message": "",
+        "description": "Tag \"memorial=graveyard\" or \"memorial:type=graveyard\" or \"monument=graveyard\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=graveyard"
+    },
+    "tag:memorial=high_water_mark": {
+        "message": "",
+        "description": "Tag \"memorial=high_water_mark\" or \"memorial:type=high_water_mark\" or \"monument=high_water_mark\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=high_water_mark"
+    },
+    "tag:memorial=sculpture": {
+        "message": "",
+        "description": "Tag \"memorial=sculpture\" or \"memorial:type=sculpture\" or \"monument=sculpture\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=sculpture"
+    },
+    "tag:memorial=tank": {
+        "message": "",
+        "description": "Tag \"memorial=tank\" or \"memorial:type=tank\" or \"monument=tank\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=tank"
+    },
+    "tag:memorial=vehicle": {
+        "message": "",
+        "description": "Tag \"memorial=vehicle\" or \"memorial:type=vehicle\" or \"monument=vehicle\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=vehicle"
+    },
     "tag:shop=boutique": {
         "message": "",
         "description": "Tag \"shop=boutique\". See https://wiki.openstreetmap.org/wiki/Tag:shop=boutique"
