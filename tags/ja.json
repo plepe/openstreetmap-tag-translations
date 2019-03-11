@@ -990,6 +990,122 @@
         "message": "料金",
         "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
     },
+    "tag:clothes": {
+        "message": "",
+        "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=accessories": {
+        "message": "",
+        "description": "Tag \"clothes=accessories\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=babies": {
+        "message": "",
+        "description": "Tag \"clothes=babies\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=brand": {
+        "message": "",
+        "description": "Tag \"clothes=brand\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=bridal": {
+        "message": "",
+        "description": "Tag \"clothes=bridal\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=children": {
+        "message": "",
+        "description": "Tag \"clothes=children\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=costumes": {
+        "message": "",
+        "description": "Tag \"clothes=costumes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=denim": {
+        "message": "",
+        "description": "Tag \"clothes=denim\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=fashion": {
+        "message": "",
+        "description": "Tag \"clothes=fashion\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=fur": {
+        "message": "",
+        "description": "Tag \"clothes=fur\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=hats": {
+        "message": "",
+        "description": "Tag \"clothes=hats\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=leather": {
+        "message": "",
+        "description": "Tag \"clothes=leather\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=lingerie": {
+        "message": "",
+        "description": "Tag \"clothes=lingerie\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=maternity": {
+        "message": "",
+        "description": "Tag \"clothes=maternity\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=men": {
+        "message": "",
+        "description": "Tag \"clothes=men\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=military": {
+        "message": "",
+        "description": "Tag \"clothes=military\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=motorcycle": {
+        "message": "",
+        "description": "Tag \"clothes=motorcycle\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=oversize": {
+        "message": "",
+        "description": "Tag \"clothes=oversize\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=schoolwear": {
+        "message": "",
+        "description": "Tag \"clothes=schoolwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=sports": {
+        "message": "",
+        "description": "Tag \"clothes=sports\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=suits": {
+        "message": "",
+        "description": "Tag \"clothes=suits\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=swimwear": {
+        "message": "",
+        "description": "Tag \"clothes=swimwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=traditional": {
+        "message": "",
+        "description": "Tag \"clothes=traditional\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=underwear": {
+        "message": "",
+        "description": "Tag \"clothes=underwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=unisexs": {
+        "message": "",
+        "description": "Tag \"clothes=unisexs\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=vintage": {
+        "message": "",
+        "description": "Tag \"clothes=vintage\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=wedding": {
+        "message": "",
+        "description": "Tag \"clothes=wedding\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=women": {
+        "message": "",
+        "description": "Tag \"clothes=women\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=workwear": {
+        "message": "",
+        "description": "Tag \"clothes=workwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
     "tag:community_centre=club_home": {
         "message": "",
         "description": "Tag \"community_centre=club_home\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=club_home"
