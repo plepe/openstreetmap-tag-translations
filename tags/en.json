@@ -30,27 +30,22 @@
     },
     "tag:addr:city": {
         "message": "City",
-        "!=1": "Cities",
         "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
     },
     "tag:addr:country": {
         "message": "Country",
-        "!=1": "Countries",
         "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
     },
     "tag:addr:full": {
         "message": "Full address",
-        "!=1": "Full addresses",
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
         "message": "House name",
-        "!=1": "House names",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
         "message": "Housenumber",
-        "!=1": "Housenumbers",
         "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
     },
     "tag:addr:interpolation": {
@@ -59,12 +54,10 @@
     },
     "tag:addr:postcode": {
         "message": "Postal Code",
-        "!=1": "Postal Codes",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
         "message": "Street",
-        "!=1": "Streets",
         "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
     },
     "tag:address": {
@@ -137,7 +130,6 @@
     },
     "tag:alt_name": {
         "message": "Alternative name",
-        "!=1": "Alternative names",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
@@ -225,7 +217,6 @@
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
     "tag:amenity=cinema": {
-        "!=1": "Cinemas",
         "message": "Cinema",
         "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
     },
@@ -367,7 +358,6 @@
     },
     "tag:amenity=pub": {
         "message": "Pub",
-        "!=1": "Pubs",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
@@ -396,7 +386,6 @@
     },
     "tag:amenity=restaurant": {
         "message": "Restaurant",
-        "!=1": "Restaurants",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
@@ -557,32 +546,26 @@
     },
     "tag:barrier": {
         "message": "Barrier",
-        "!=1": "Barriers",
         "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
     },
     "tag:barrier=city_wall": {
         "message": "City wall",
-        "!=1": "City walls",
         "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
     },
     "tag:barrier=fence": {
         "message": "Fence",
-        "!=1": "Fences",
         "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
     },
     "tag:barrier=hedge": {
         "message": "Hedge",
-        "!=1": "Hedges",
         "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
     },
     "tag:barrier=retaining_wall": {
         "message": "Retaining Wall",
-        "!=1": "Retaining Walls",
         "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
     },
     "tag:barrier=wall": {
         "message": "Wall",
-        "!=1": "Walls",
         "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
     },
     "tag:bath:open_air": {
@@ -1835,7 +1818,7 @@
         "description": "Tag \"cuisine=juice\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=kebab": {
-        "message": "KEBAB",
+        "message": "Kebab",
         "description": "Tag \"cuisine=kebab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=korean": {
@@ -2512,7 +2495,6 @@
     },
     "tag:highway": {
         "message": "Highway",
-        "!=1": "Highways",
         "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
     },
     "tag:highway=bridleway": {
@@ -2901,7 +2883,6 @@
     },
     "tag:int_name": {
         "message": "International name",
-        "!=1": "International names",
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
     "tag:internet_access=public": {
@@ -3214,7 +3195,6 @@
     },
     "tag:loc_name": {
         "message": "Local name",
-        "!=1": "Local names",
         "description": "Key \"loc_name\". See https://wiki.openstreetmap.org/wiki/Key:loc_name"
     },
     "tag:man_made": {
@@ -3635,7 +3615,6 @@
     },
     "tag:name": {
         "message": "Name",
-        "!=1": "Names",
         "description": "Key \"name\". See https://wiki.openstreetmap.org/wiki/Key:name"
     },
     "tag:name:etymology": {
@@ -3996,7 +3975,6 @@
     },
     "tag:official_name": {
         "message": "Official name",
-        "!=1": "Official names",
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
@@ -4117,7 +4095,6 @@
     },
     "tag:place=city": {
         "message": "City",
-        "!=1": "Cities",
         "description": "Tag \"place=city\". See https://wiki.openstreetmap.org/wiki/Tag:place=city"
     },
     "tag:place=city population<200000": {
@@ -4134,7 +4111,6 @@
     },
     "tag:place=county": {
         "message": "County",
-        "!=1": "Counties",
         "description": "Tag \"place=county\". See https://wiki.openstreetmap.org/wiki/Tag:place=county"
     },
     "tag:place=farm": {
@@ -4147,7 +4123,6 @@
     },
     "tag:place=island": {
         "message": "Island",
-        "!=1": "Islands",
         "description": "Tag \"place=island\". See https://wiki.openstreetmap.org/wiki/Tag:place=island"
     },
     "tag:place=islet": {
@@ -4412,7 +4387,6 @@
     },
     "tag:railway=rail": {
         "message": "Rail Track",
-        "!=1": "Rail Tracks",
         "description": "Tag \"railway=rail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail"
     },
     "tag:railway=rail service": {
@@ -4481,7 +4455,6 @@
     },
     "tag:railway=tram": {
         "message": "Tram Track",
-        "!=1": "Tram Tracks",
         "description": "Tag \"railway=tram\". See https://wiki.openstreetmap.org/wiki/Tag:railway=tram"
     },
     "tag:railway=tram;narrow_gauge": {
@@ -4502,7 +4475,6 @@
     },
     "tag:ref": {
         "message": "Reference",
-        "!=1": null,
         "description": "Key \"ref\". See https://wiki.openstreetmap.org/wiki/Key:ref"
     },
     "tag:religion": {
