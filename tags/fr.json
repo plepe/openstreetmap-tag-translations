@@ -1077,7 +1077,7 @@
         "description": "Tag \"clothes=unisexs\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=vintage": {
-        "message": "",
+        "message": "Vêtements vintage",
         "description": "Tag \"clothes=vintage\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=wedding": {
