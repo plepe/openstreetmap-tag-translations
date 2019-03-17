@@ -2304,6 +2304,14 @@
         "message": "",
         "description": "Key \"frequency\". See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
+    "tag:frequency=0": {
+        "message": "",
+        "description": "Tag \"frequency=0\" (direct current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
+    },
+    "tag:frequency>0": {
+        "message": "",
+        "description": "Tag \"frequency=*\" (not 0, meaning alternating current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
+    },
     "tag:gauge": {
         "message": "",
         "description": "Key \"gauge\". See https://wiki.openstreetmap.org/wiki/Key:gauge"
