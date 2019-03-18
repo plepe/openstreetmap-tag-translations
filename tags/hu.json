@@ -2202,7 +2202,7 @@
         "description": "Tag \"electrified=rail\". See https://wiki.openstreetmap.org/wiki/Tag:electrified=rail"
     },
     "tag:email": {
-        "message": "",
+        "message": "E-mail",
         "description": "Key \"email\". See https://wiki.openstreetmap.org/wiki/Key:email"
     },
     "tag:embankment": {
@@ -2214,7 +2214,7 @@
         "description": "Key \"emergency\". See https://wiki.openstreetmap.org/wiki/Key:emergency"
     },
     "tag:emergency=access_point": {
-        "message": "",
+        "message": "Vészhelyzeti bejutási pont",
         "description": "Tag \"emergency=access_point\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=access_point"
     },
     "tag:emergency=defibrillator": {
@@ -2226,11 +2226,11 @@
         "description": "Tag \"emergency=fire_hydrant\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant"
     },
     "tag:emergency=fire_hydrant fire_hydrant:type=pillar": {
-        "message": "",
+        "message": "Álló tűzcsap",
         "description": "Combined tag \"emergency=fire_hydrant\" and \"fire_hydrant:type=pillar\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant and https://wiki.openstreetmap.org/wiki/Tag:fire_hydrant:type=pillar"
     },
     "tag:emergency=fire_hydrant fire_hydrant:type=underground": {
-        "message": "",
+        "message": "Föld alatti tűzcsap",
         "description": "Combined tag \"emergency=fire_hydrant\" and \"fire_hydrant:type=underground\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant and https://wiki.openstreetmap.org/wiki/Tag:fire_hydrant:type=underground"
     },
     "tag:emergency=phone": {
@@ -2290,7 +2290,7 @@
         "description": "Key \"food\". See https://wiki.openstreetmap.org/wiki/Key:food"
     },
     "tag:foot": {
-        "message": "",
+        "message": "Gyalogosan megengedett",
         "description": "Key \"foot\". See https://wiki.openstreetmap.org/wiki/Key:foot"
     },
     "tag:ford": {
@@ -2302,11 +2302,11 @@
         "description": "Key \"frequency\". See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:frequency=0": {
-        "message": "",
+        "message": "egyenáram",
         "description": "Tag \"frequency=0\" (direct current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:frequency>0": {
-        "message": "",
+        "message": "váltóáram",
         "description": "Tag \"frequency=*\" (not 0, meaning alternating current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:gauge": {
@@ -2318,63 +2318,63 @@
         "description": "Key \"generator:source\". See https://wiki.openstreetmap.org/wiki/Key:generator:source"
     },
     "tag:generator:source=biofuel": {
-        "message": "",
+        "message": "Áramforrás: bioüzemanyag",
         "description": "Tag \"generator:source=biofuel\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biofuel"
     },
     "tag:generator:source=biogas": {
-        "message": "",
+        "message": "Áramforrás: biogáz",
         "description": "Tag \"generator:source=biogas\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biogas"
     },
     "tag:generator:source=biomass": {
-        "message": "",
+        "message": "Áramforrás: biomassza",
         "description": "Tag \"generator:source=biomass\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biomass"
     },
     "tag:generator:source=diesel": {
-        "message": "",
+        "message": "Áramforrás: gázolaj",
         "description": "Tag \"generator:source=diesel\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=diesel"
     },
     "tag:generator:source=gas": {
-        "message": "",
+        "message": "Áramforrás: földgáz",
         "description": "Tag \"generator:source=gas\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=gas"
     },
     "tag:generator:source=gasoline": {
-        "message": "",
+        "message": "Áramforrás: benzin",
         "description": "Tag \"generator:source=gasoline\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=gasoline"
     },
     "tag:generator:source=geothermal": {
-        "message": "",
+        "message": "Áramforrás: geotermikus energia",
         "description": "Tag \"generator:source=geothermal\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=geothermal"
     },
     "tag:generator:source=hydro": {
-        "message": "",
+        "message": "Áramforrás: vízenergia",
         "description": "Tag \"generator:source=hydro\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=hydro"
     },
     "tag:generator:source=nuclear": {
-        "message": "",
+        "message": "Áramforrás: nukleáris energia",
         "description": "Tag \"generator:source=nuclear\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=nuclear"
     },
     "tag:generator:source=oil": {
-        "message": "",
+        "message": "Áramforrás: kőolaj",
         "description": "Tag \"generator:source=oil\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=oil"
     },
     "tag:generator:source=solar": {
-        "message": "",
+        "message": "Áramforrás: napenergia",
         "description": "Tag \"generator:source=solar\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=solar"
     },
     "tag:generator:source=tidal": {
-        "message": "",
+        "message": "Áramforrás: árapály-energia",
         "description": "Tag \"generator:source=tidal\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=tidal"
     },
     "tag:generator:source=waste": {
-        "message": "",
+        "message": "Áramforrás: hulladék",
         "description": "Tag \"generator:source=waste\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=waste"
     },
     "tag:generator:source=wave": {
-        "message": "",
+        "message": "Áramforrás: hullámzás",
         "description": "Tag \"generator:source=wave\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=wave"
     },
     "tag:generator:source=wind": {
-        "message": "",
+        "message": "Áramforrás: szélenergia",
         "description": "Tag \"generator:source=wind\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=wind"
     },
     "tag:geological": {
