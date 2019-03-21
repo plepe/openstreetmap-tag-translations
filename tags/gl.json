@@ -662,6 +662,26 @@
         "message": "",
         "description": "Tag \"cuisine=wings\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:flood_date": {
+        "message": "",
+        "description": "Key \"flood_date\". See https://wiki.openstreetmap.org/wiki/Key:flood_date"
+    },
+    "tag:flood_mark=engraving": {
+        "message": "",
+        "description": "Tag \"flood_mark=engraving\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=engraving"
+    },
+    "tag:flood_mark=painting": {
+        "message": "",
+        "description": "Tag \"flood_mark=painting\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=painting"
+    },
+    "tag:flood_mark=plaque": {
+        "message": "",
+        "description": "Tag \"flood_mark=plaque\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=plaque"
+    },
+    "tag:flood_mark=pole": {
+        "message": "",
+        "description": "Tag \"flood_mark=pole\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=pole"
+    },
     "tag:frequency=0": {
         "message": "",
         "description": "Tag \"frequency=0\" (direct current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
@@ -741,10 +761,6 @@
     "tag:memorial=cross": {
         "message": "",
         "description": "Tag \"memorial=cross\" or \"memorial:type=cross\" or \"monument=cross\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=cross"
-    },
-    "tag:memorial=flood_mark": {
-        "message": "",
-        "description": "Tag \"memorial=flood_mark\" or \"memorial:type=flood_mark\" or \"monument=flood_mark\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=flood_mark"
     },
     "tag:memorial=ghost_bike": {
         "message": "",
