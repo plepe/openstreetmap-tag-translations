@@ -30,27 +30,22 @@
     },
     "tag:addr:city": {
         "message": "Cidade",
-        "!=1": "Cidades",
         "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
     },
     "tag:addr:country": {
         "message": "País",
-        "!=1": "Países",
         "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
     },
     "tag:addr:full": {
         "message": "Endereço completo",
-        "!=1": "Endereços completos",
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
         "message": "Nome de casa",
-        "!=1": "Nomes de casa",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
         "message": "Número",
-        "!=1": "Números",
         "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
     },
     "tag:addr:interpolation": {
@@ -59,12 +54,10 @@
     },
     "tag:addr:postcode": {
         "message": "CEP",
-        "!=1": "CEPs",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
         "message": "Rua",
-        "!=1": "Ruas",
         "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
     },
     "tag:address": {
@@ -137,7 +130,6 @@
     },
     "tag:alt_name": {
         "message": "Nome alternativo",
-        "!=1": "Nomes alternativos",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
@@ -225,7 +217,6 @@
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
     "tag:amenity=cinema": {
-        "!=1": "Cinemas",
         "message": "Cinema",
         "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
     },
@@ -367,7 +358,6 @@
     },
     "tag:amenity=pub": {
         "message": "Boteco",
-        "!=1": "Botecos",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
@@ -396,7 +386,6 @@
     },
     "tag:amenity=restaurant": {
         "message": "Restaurante",
-        "!=1": "Restaurantes",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
@@ -557,32 +546,26 @@
     },
     "tag:barrier": {
         "message": "Barreira",
-        "!=1": "Barreiras",
         "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
     },
     "tag:barrier=city_wall": {
         "message": "Muralha da cidade",
-        "!=1": "Muralhas da cidade",
         "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
     },
     "tag:barrier=fence": {
         "message": "Cerca",
-        "!=1": "Cercas",
         "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
     },
     "tag:barrier=hedge": {
         "message": "Cerca viva",
-        "!=1": "Cercas vivas",
         "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
     },
     "tag:barrier=retaining_wall": {
         "message": "Muro de arrimo",
-        "!=1": "Muros de arrimo",
         "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
     },
     "tag:barrier=wall": {
         "message": "Muro",
-        "!=1": "Muros",
         "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
     },
     "tag:bath:open_air": {
@@ -814,7 +797,7 @@
         "description": "Tag \"building=mall\". See https://wiki.openstreetmap.org/wiki/Tag:building=mall"
     },
     "tag:building=military": {
-        "message": "",
+        "message": "Tag \"building=military\". Vejo https://wiki.openstreetmap.org/wiki/Tag:building=military",
         "description": "Tag \"building=military\". See https://wiki.openstreetmap.org/wiki/Tag:building=military"
     },
     "tag:building=monastery": {
@@ -994,15 +977,15 @@
         "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
     },
     "tag:clothes": {
-        "message": "",
+        "message": "Chave \"roupas\". Vejo https://wiki.openstreetmap.org/wiki/Key:clothes",
         "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=accessories": {
-        "message": "",
+        "message": "Tag \"clothes=accessories\". Vejo https://wiki.openstreetmap.org/wiki/Key:clothes",
         "description": "Tag \"clothes=accessories\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=babies": {
-        "message": "",
+        "message": "Tag \"clothes=babies\". Vejo https://wiki.openstreetmap.org/wiki/Key:clothes",
         "description": "Tag \"clothes=babies\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=brand": {
@@ -2536,7 +2519,6 @@
     },
     "tag:highway": {
         "message": "Via",
-        "!=1": "Vias",
         "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
     },
     "tag:highway=bridleway": {
@@ -2925,7 +2907,6 @@
     },
     "tag:int_name": {
         "message": "International name",
-        "!=1": "International names",
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
     "tag:internet_access=public": {
@@ -3238,7 +3219,6 @@
     },
     "tag:loc_name": {
         "message": "Nome local",
-        "!=1": "Nomes locais",
         "description": "Key \"loc_name\". See https://wiki.openstreetmap.org/wiki/Key:loc_name"
     },
     "tag:man_made": {
@@ -3651,7 +3631,6 @@
     },
     "tag:name": {
         "message": "Nome",
-        "!=1": "Nomes",
         "description": "Key \"name\". See https://wiki.openstreetmap.org/wiki/Key:name"
     },
     "tag:name:etymology": {
@@ -4012,7 +3991,6 @@
     },
     "tag:official_name": {
         "message": "Nome oficial",
-        "!=1": "Nomes oficiais",
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
@@ -4133,7 +4111,6 @@
     },
     "tag:place=city": {
         "message": "Cidade",
-        "!=1": "Cidades",
         "description": "Tag \"place=city\". See https://wiki.openstreetmap.org/wiki/Tag:place=city"
     },
     "tag:place=city population<200000": {
@@ -4150,7 +4127,6 @@
     },
     "tag:place=county": {
         "message": "Condado",
-        "!=1": "Condados",
         "description": "Tag \"place=county\". See https://wiki.openstreetmap.org/wiki/Tag:place=county"
     },
     "tag:place=farm": {
@@ -4163,7 +4139,6 @@
     },
     "tag:place=island": {
         "message": "Ilha",
-        "!=1": "Ilhas",
         "description": "Tag \"place=island\". See https://wiki.openstreetmap.org/wiki/Tag:place=island"
     },
     "tag:place=islet": {
@@ -4428,7 +4403,6 @@
     },
     "tag:railway=rail": {
         "message": "Trilho de trem",
-        "!=1": "Trilhos de trem",
         "description": "Tag \"railway=rail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail"
     },
     "tag:railway=rail service": {
@@ -4497,7 +4471,6 @@
     },
     "tag:railway=tram": {
         "message": "Trilho de bonde/VLT",
-        "!=1": "Trilhos de bonde/VLT",
         "description": "Tag \"railway=tram\". See https://wiki.openstreetmap.org/wiki/Tag:railway=tram"
     },
     "tag:railway=tram;narrow_gauge": {
@@ -4518,7 +4491,6 @@
     },
     "tag:ref": {
         "message": "Referência",
-        "!=1": null,
         "description": "Key \"ref\". See https://wiki.openstreetmap.org/wiki/Key:ref"
     },
     "tag:religion": {
