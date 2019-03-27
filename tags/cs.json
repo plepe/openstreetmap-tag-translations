@@ -2927,6 +2927,10 @@
         "!=1": " Mezinárodní názvy",
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
+    "tag:intermittent": {
+        "message": "",
+        "description": "Key \"intermittent\". See https://wiki.openstreetmap.org/wiki/Key:intermittent"
+    },
     "tag:internet_access=public": {
         "message": "Neupřesněný přístup k internetu",
         "description": "Tag \"internet_access=public\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=public"
@@ -5974,6 +5978,10 @@
     "tag:waterway=stream": {
         "message": "Potok",
         "description": "Tag \"waterway=stream\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=stream"
+    },
+    "tag:waterway=waterfall": {
+        "message": "",
+        "description": "Tag \"waterway=waterfall\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=waterfall"
     },
     "tag:waterway=weir": {
         "message": "",

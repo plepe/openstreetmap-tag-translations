@@ -758,6 +758,10 @@
         "message": "",
         "description": "Tag \"historic=wayside_chapel\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_chapel"
     },
+    "tag:intermittent": {
+        "message": "",
+        "description": "Key \"intermittent\". See https://wiki.openstreetmap.org/wiki/Key:intermittent"
+    },
     "tag:memorial=cross": {
         "message": "",
         "description": "Tag \"memorial=cross\" or \"memorial:type=cross\" or \"monument=cross\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=cross"
@@ -821,6 +825,10 @@
     "tag:natural=coastline": {
         "message": "",
         "description": "Tag \"natural=coastline\". See https://wiki.openstreetmap.org/wiki/Tag:natural=coastline"
+    },
+    "tag:natural=divide": {
+        "message": "",
+        "description": "Tag \"natural=divide\". See https://wiki.openstreetmap.org/wiki/Tag:natural=divide"
     },
     "tag:natural=fell": {
         "message": "",
@@ -1029,5 +1037,49 @@
     "tag:sport=weightlifting": {
         "message": "",
         "description": "Tag \"sport=weightlifting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=weightlifting"
+    },
+    "tag:water=canal": {
+        "message": "",
+        "description": "Tag \"water=canal\". See https://wiki.openstreetmap.org/wiki/Tag:water=canal"
+    },
+    "tag:water=lagoon": {
+        "message": "",
+        "description": "Tag \"water=lagoon\". See https://wiki.openstreetmap.org/wiki/Tag:water=lagoon"
+    },
+    "tag:water=lake": {
+        "message": "",
+        "description": "Tag \"water=lake\". See https://wiki.openstreetmap.org/wiki/Tag:water=lake"
+    },
+    "tag:water=reservoir": {
+        "message": "",
+        "description": "Tag \"water=reservoir\". See https://wiki.openstreetmap.org/wiki/Tag:water=reservoir"
+    },
+    "tag:water=river": {
+        "message": "",
+        "description": "Tag \"water=river\". See https://wiki.openstreetmap.org/wiki/Tag:water=river"
+    },
+    "tag:waterway=dam": {
+        "message": "",
+        "description": "Tag \"waterway=dam\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=dam"
+    },
+    "tag:waterway=ditch": {
+        "message": "",
+        "description": "Tag \"waterway=ditch\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=ditch"
+    },
+    "tag:waterway=drain": {
+        "message": "",
+        "description": "Tag \"waterway=drain\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=drain"
+    },
+    "tag:waterway=stream": {
+        "message": "",
+        "description": "Tag \"waterway=stream\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=stream"
+    },
+    "tag:waterway=waterfall": {
+        "message": "",
+        "description": "Tag \"waterway=waterfall\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=waterfall"
+    },
+    "tag:waterway=weir": {
+        "message": "",
+        "description": "Tag \"waterway=weir\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=weir"
     }
 }

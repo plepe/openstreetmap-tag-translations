@@ -2916,6 +2916,10 @@
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name",
         "message": "key:int_name"
     },
+    "tag:intermittent": {
+        "message": "",
+        "description": "Key \"intermittent\". See https://wiki.openstreetmap.org/wiki/Key:intermittent"
+    },
     "tag:internet_access=public": {
         "description": "Tag \"internet_access=public\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=public",
         "message": "tag:internet_access=public"
@@ -5959,6 +5963,10 @@
     "tag:waterway=stream": {
         "description": "Tag \"waterway=stream\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=stream",
         "message": "tag:waterway=stream"
+    },
+    "tag:waterway=waterfall": {
+        "message": "",
+        "description": "Tag \"waterway=waterfall\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=waterfall"
     },
     "tag:waterway=weir": {
         "description": "Tag \"waterway=weir\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=weir",

@@ -2935,6 +2935,10 @@
         "!=1": "Nomes internacionales",
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
+    "tag:intermittent": {
+        "message": "",
+        "description": "Key \"intermittent\". See https://wiki.openstreetmap.org/wiki/Key:intermittent"
+    },
     "tag:internet_access=public": {
         "message": "Accesu Internet indefiníu",
         "description": "Tag \"internet_access=public\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=public"
@@ -5989,6 +5993,10 @@
     "tag:waterway=stream": {
         "message": "Regueru",
         "description": "Tag \"waterway=stream\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=stream"
+    },
+    "tag:waterway=waterfall": {
+        "message": "",
+        "description": "Tag \"waterway=waterfall\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=waterfall"
     },
     "tag:waterway=weir": {
         "message": "",
