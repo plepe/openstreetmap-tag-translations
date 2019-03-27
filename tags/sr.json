@@ -3661,9 +3661,25 @@
         "message": "",
         "description": "Key \"natural\". See https://wiki.openstreetmap.org/wiki/Key:natural"
     },
+    "tag:natural=arete": {
+        "message": "",
+        "description": "Tag \"natural=arete\". See https://wiki.openstreetmap.org/wiki/Tag:natural=arete"
+    },
+    "tag:natural=bare_rock": {
+        "message": "",
+        "description": "Tag \"natural=bare_rock\". See https://wiki.openstreetmap.org/wiki/Tag:natural=bare_rock"
+    },
+    "tag:natural=bay": {
+        "message": "",
+        "description": "Tag \"natural=bay\". See https://wiki.openstreetmap.org/wiki/Tag:natural=bay"
+    },
     "tag:natural=beach": {
         "message": "",
         "description": "Tag \"natural=beach\". See https://wiki.openstreetmap.org/wiki/Tag:natural=beach"
+    },
+    "tag:natural=cape": {
+        "message": "",
+        "description": "Tag \"natural=cape\". See https://wiki.openstreetmap.org/wiki/Tag:natural=cape"
     },
     "tag:natural=cave_entrance": {
         "message": "",
@@ -3685,6 +3701,10 @@
         "message": "",
         "description": "Tag \"natural=fell\". See https://wiki.openstreetmap.org/wiki/Tag:natural=fell"
     },
+    "tag:natural=geyser": {
+        "message": "",
+        "description": "Tag \"natural=geyser\". See https://wiki.openstreetmap.org/wiki/Tag:natural=geyser"
+    },
     "tag:natural=glacier": {
         "message": "",
         "description": "Tag \"natural=glacier\". See https://wiki.openstreetmap.org/wiki/Tag:natural=glacier"
@@ -3697,9 +3717,21 @@
         "message": "",
         "description": "Tag \"natural=heath\". See https://wiki.openstreetmap.org/wiki/Tag:natural=heath"
     },
+    "tag:natural=hill": {
+        "message": "",
+        "description": "Tag \"natural=hill\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hill"
+    },
+    "tag:natural=hot_spring": {
+        "message": "",
+        "description": "Tag \"natural=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hot_spring"
+    },
     "tag:natural=marsh": {
         "message": "",
         "description": "Tag \"natural=marsh\". See https://wiki.openstreetmap.org/wiki/Tag:natural=marsh"
+    },
+    "tag:natural=moor": {
+        "message": "",
+        "description": "Tag \"natural=moor\". See https://wiki.openstreetmap.org/wiki/Tag:natural=moor"
     },
     "tag:natural=mountain": {
         "message": "",
@@ -3717,6 +3749,34 @@
         "message": "",
         "description": "Tag \"natural=peak\". See https://wiki.openstreetmap.org/wiki/Tag:natural=peak"
     },
+    "tag:natural=peninsula": {
+        "message": "",
+        "description": "Tag \"natural=peninsula\". See https://wiki.openstreetmap.org/wiki/Tag:natural=peninsula"
+    },
+    "tag:natural=reef": {
+        "message": "",
+        "description": "Tag \"natural=reef\". See https://wiki.openstreetmap.org/wiki/Tag:natural=reef"
+    },
+    "tag:natural=ridge": {
+        "message": "",
+        "description": "Tag \"natural=ridge\". See https://wiki.openstreetmap.org/wiki/Tag:natural=ridge"
+    },
+    "tag:natural=river_terrace": {
+        "message": "",
+        "description": "Tag \"natural=river_terrace\". See https://wiki.openstreetmap.org/wiki/Tag:natural=river_terrace"
+    },
+    "tag:natural=rock": {
+        "message": "",
+        "description": "Tag \"natural=rock\". See https://wiki.openstreetmap.org/wiki/Tag:natural=rock"
+    },
+    "tag:natural=saddle": {
+        "message": "",
+        "description": "Tag \"natural=saddle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=saddle"
+    },
+    "tag:natural=sand": {
+        "message": "",
+        "description": "Tag \"natural=sand\". See https://wiki.openstreetmap.org/wiki/Tag:natural=sand"
+    },
     "tag:natural=scree": {
         "message": "",
         "description": "Tag \"natural=scree\". See https://wiki.openstreetmap.org/wiki/Tag:natural=scree"
@@ -3725,9 +3785,25 @@
         "message": "",
         "description": "Tag \"natural=scrub\". See https://wiki.openstreetmap.org/wiki/Tag:natural=scrub"
     },
+    "tag:natural=shingle": {
+        "message": "",
+        "description": "Tag \"natural=shingle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=shingle"
+    },
+    "tag:natural=sinkhole": {
+        "message": "",
+        "description": "Tag \"natural=sinkhole\". See https://wiki.openstreetmap.org/wiki/Tag:natural=sinkhole"
+    },
     "tag:natural=spring": {
         "message": "",
         "description": "Tag \"natural=spring\". See https://wiki.openstreetmap.org/wiki/Tag:natural=spring"
+    },
+    "tag:natural=stone": {
+        "message": "",
+        "description": "Tag \"natural=stone\". See https://wiki.openstreetmap.org/wiki/Tag:natural=stone"
+    },
+    "tag:natural=strait": {
+        "message": "",
+        "description": "Tag \"natural=strait\". See https://wiki.openstreetmap.org/wiki/Tag:natural=strait"
     },
     "tag:natural=tree": {
         "message": "",
