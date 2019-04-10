@@ -101,7 +101,7 @@
         "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=7.5": {
-        "message": "",
+        "message": "Administratief niveau 7,5",
         "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
     },
     "tag:admin_level=8": {
@@ -341,7 +341,7 @@
         "description": "Tag \"amenity=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pharmacy"
     },
     "tag:amenity=place_of_worship": {
-        "message": "",
+        "message": "Gebedsplaats",
         "description": "Tag \"amenity=place_of_worship\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship"
     },
     "tag:amenity=police": {
@@ -361,11 +361,11 @@
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
-        "message": "",
+        "message": "Openbaar bad",
         "description": "Tag \"amenity=public_bath\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bath"
     },
     "tag:amenity=public_bookcase": {
-        "message": "",
+        "message": "Openbare boekenkast",
         "description": "Tag \"amenity=public_bookcase\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bookcase"
     },
     "tag:amenity=public_building": {
@@ -373,7 +373,7 @@
         "description": "Tag \"amenity=public_building\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_building"
     },
     "tag:amenity=recycling": {
-        "message": "",
+        "message": "Recycling",
         "description": "Tag \"amenity=recycling\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=recycling"
     },
     "tag:amenity=recycling recycling_type=centre": {
@@ -381,7 +381,7 @@
         "description": "Tag \"recycling_type=centre\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=centre"
     },
     "tag:amenity=recycling recycling_type=container": {
-        "message": "",
+        "message": "Container",
         "description": "Tag \"recycling_type=container\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=container"
     },
     "tag:amenity=restaurant": {
@@ -393,11 +393,11 @@
         "description": "Tag \"amenity=school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=school"
     },
     "tag:amenity=shelter": {
-        "message": "",
+        "message": "Schuilplaats",
         "description": "Tag \"amenity=shelter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shelter"
     },
     "tag:amenity=shower": {
-        "message": "",
+        "message": "Douche",
         "description": "Tag \"amenity=shower\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shower"
     },
     "tag:amenity=signpost": {
@@ -405,11 +405,11 @@
         "description": "Tag \"amenity=signpost\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=signpost"
     },
     "tag:amenity=social_facility": {
-        "message": "",
+        "message": "Sociale voorziening",
         "description": "Tag \"amenity=social_facility\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=social_facility"
     },
     "tag:amenity=studio": {
-        "message": "",
+        "message": "Studio",
         "description": "Tag \"amenity=studio\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=studio"
     },
     "tag:amenity=taxi": {
@@ -429,11 +429,11 @@
         "description": "Tag \"amenity=ticket_counter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ticket_counter"
     },
     "tag:amenity=toilets": {
-        "message": "",
+        "message": "Toiletten",
         "description": "Tag \"amenity=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets"
     },
     "tag:amenity=toilets diaper=yes": {
-        "message": "",
+        "message": "Toiletten met luierwisseltafel",
         "description": "Combined tag \"amenity=toilets\" and \"diaper=yes\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets and https://wiki.openstreetmap.org/wiki/Tag:diaper=yes"
     },
     "tag:amenity=townhall": {
@@ -441,7 +441,7 @@
         "description": "Tag \"amenity=townhall\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=townhall"
     },
     "tag:amenity=university": {
-        "message": "",
+        "message": "Universiteit",
         "description": "Tag \"amenity=university\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=university"
     },
     "tag:amenity=vending_machine": {
@@ -517,19 +517,19 @@
         "description": "Tag \"amenity=veterinary\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=veterinary"
     },
     "tag:amenity=waste_basket": {
-        "message": "",
+        "message": "Prullenbak",
         "description": "Tag \"amenity=waste_basket\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_basket"
     },
     "tag:amenity=waste_disposal": {
-        "message": "",
+        "message": "Afvalbak",
         "description": "Tag \"amenity=waste_disposal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_disposal"
     },
     "tag:amenity=waste_transfer_station": {
-        "message": "",
+        "message": "Afvalscheidingsstation",
         "description": "Tag \"amenity=waste_transfer_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_transfer_station"
     },
     "tag:architect": {
-        "message": "",
+        "message": "Architect",
         "description": "Key \"architect\". See https://wiki.openstreetmap.org/wiki/Key:architect"
     },
     "tag:area": {
@@ -537,11 +537,11 @@
         "description": "Key \"area\". See https://wiki.openstreetmap.org/wiki/Key:area"
     },
     "tag:artist": {
-        "message": "",
+        "message": "Kunstenaar",
         "description": "Key \"artist\". See https://wiki.openstreetmap.org/wiki/Key:artist"
     },
     "tag:artist_name": {
-        "message": "",
+        "message": "Kunstenaar",
         "description": "Key \"artist_name\". See https://wiki.openstreetmap.org/wiki/Key:artist_name"
     },
     "tag:barrier": {
@@ -569,15 +569,15 @@
         "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
     },
     "tag:bath:open_air": {
-        "message": "",
+        "message": "Openluchtbad",
         "description": "Key \"bath:open_air\". See https://wiki.openstreetmap.org/wiki/Key:bath:open_air"
     },
     "tag:bath:type": {
-        "message": "",
+        "message": "badtype",
         "description": "Key \"bath:type\". See https://wiki.openstreetmap.org/wiki/Key:bath:type"
     },
     "tag:bath:type=hammam": {
-        "message": "",
+        "message": "Hammam bad",
         "description": "Tag \"bath:type=hammam\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hammam"
     },
     "tag:bath:type=hot_spring": {
@@ -609,7 +609,7 @@
         "description": "Key \"boundary\". See https://wiki.openstreetmap.org/wiki/Key:boundary"
     },
     "tag:brand": {
-        "message": "",
+        "message": "Merk",
         "description": "Key \"brand\". See https://wiki.openstreetmap.org/wiki/Key:brand"
     },
     "tag:bridge": {
@@ -617,23 +617,23 @@
         "description": "Key \"bridge\". See https://wiki.openstreetmap.org/wiki/Key:bridge"
     },
     "tag:building": {
-        "message": "",
+        "message": "Gebouw",
         "description": "Key \"building\". See https://wiki.openstreetmap.org/wiki/Key:building"
     },
     "tag:building:levels": {
-        "message": "",
+        "message": "Verdiepingen",
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
     "tag:building=apartments": {
-        "message": "",
+        "message": "Appartementen",
         "description": "Tag \"building=apartments\". See https://wiki.openstreetmap.org/wiki/Tag:building=apartments"
     },
     "tag:building=bakehouse": {
-        "message": "",
+        "message": "Bakhuis",
         "description": "Tag \"building=bakehouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=bakehouse"
     },
     "tag:building=barn": {
-        "message": "",
+        "message": "Schuur",
         "description": "Tag \"building=barn\". See https://wiki.openstreetmap.org/wiki/Tag:building=barn"
     },
     "tag:building=block": {
@@ -641,35 +641,35 @@
         "description": "Tag \"building=block\". See https://wiki.openstreetmap.org/wiki/Tag:building=block"
     },
     "tag:building=bridge": {
-        "message": "",
+        "message": "Brug",
         "description": "Tag \"building=bridge\". See https://wiki.openstreetmap.org/wiki/Tag:building=bridge"
     },
     "tag:building=bungalow": {
-        "message": "",
+        "message": "Bungalow",
         "description": "Tag \"building=bungalow\". See https://wiki.openstreetmap.org/wiki/Tag:building=bungalow"
     },
     "tag:building=bunker": {
-        "message": "",
+        "message": "Bunker",
         "description": "Tag \"building=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:building=bunker"
     },
     "tag:building=cabin": {
-        "message": "",
+        "message": "Hut",
         "description": "Tag \"building=cabin\". See https://wiki.openstreetmap.org/wiki/Tag:building=cabin"
     },
     "tag:building=carport": {
-        "message": "",
+        "message": "carport",
         "description": "Tag \"building=carport\". See https://wiki.openstreetmap.org/wiki/Tag:building=carport"
     },
     "tag:building=cathedral": {
-        "message": "",
+        "message": "kathedraal",
         "description": "Tag \"building=cathedral\". See https://wiki.openstreetmap.org/wiki/Tag:building=cathedral"
     },
     "tag:building=chapel": {
-        "message": "",
+        "message": "Kapel",
         "description": "Tag \"building=chapel\". See https://wiki.openstreetmap.org/wiki/Tag:building=chapel"
     },
     "tag:building=church": {
-        "message": "",
+        "message": "Kerk",
         "description": "Tag \"building=church\". See https://wiki.openstreetmap.org/wiki/Tag:building=church"
     },
     "tag:building=church religion=christian": {
@@ -677,7 +677,7 @@
         "description": "Combined tag \"building=church\" and \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:building=church and https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
     },
     "tag:building=civic": {
-        "message": "",
+        "message": "burgerlijk",
         "description": "Tag \"building=civic\". See https://wiki.openstreetmap.org/wiki/Tag:building=civic"
     },
     "tag:building=college": {
@@ -685,99 +685,99 @@
         "description": "Tag \"building=college\". See https://wiki.openstreetmap.org/wiki/Tag:building=college"
     },
     "tag:building=commercial": {
-        "message": "",
+        "message": "Commercieel",
         "description": "Tag \"building=commercial\". See https://wiki.openstreetmap.org/wiki/Tag:building=commercial"
     },
     "tag:building=conservatory": {
-        "message": "",
+        "message": "Serre",
         "description": "Tag \"building=conservatory\". See https://wiki.openstreetmap.org/wiki/Tag:building=conservatory"
     },
     "tag:building=construction": {
-        "message": "",
+        "message": "Bouw",
         "description": "Tag \"building=construction\". See https://wiki.openstreetmap.org/wiki/Tag:building=construction"
     },
     "tag:building=cowshed": {
-        "message": "",
+        "message": "Stal",
         "description": "Tag \"building=cowshed\". See https://wiki.openstreetmap.org/wiki/Tag:building=cowshed"
     },
     "tag:building=detached": {
-        "message": "",
+        "message": "Vrijstaand",
         "description": "Tag \"building=detached\". See https://wiki.openstreetmap.org/wiki/Tag:building=detached"
     },
     "tag:building=dormitory": {
-        "message": "",
+        "message": "Slaapzaal",
         "description": "Tag \"building=dormitory\". See https://wiki.openstreetmap.org/wiki/Tag:building=dormitory"
     },
     "tag:building=farm": {
-        "message": "",
+        "message": "Boerderij",
         "description": "Tag \"building=farm\". See https://wiki.openstreetmap.org/wiki/Tag:building=farm"
     },
     "tag:building=farm_auxiliary": {
-        "message": "",
+        "message": "Boerderij gebouw",
         "description": "Tag \"building=farm_auxiliary\". See https://wiki.openstreetmap.org/wiki/Tag:building=farm_auxiliary"
     },
     "tag:building=flats": {
-        "message": "",
+        "message": "Flats",
         "description": "Tag \"building=flats\". See https://wiki.openstreetmap.org/wiki/Tag:building=flats"
     },
     "tag:building=garage": {
-        "message": "",
+        "message": "Garage",
         "description": "Tag \"building=garage\". See https://wiki.openstreetmap.org/wiki/Tag:building=garage"
     },
     "tag:building=garages": {
-        "message": "",
+        "message": "Garages",
         "description": "Tag \"building=garages\". See https://wiki.openstreetmap.org/wiki/Tag:building=garages"
     },
     "tag:building=garbage_shed": {
-        "message": "",
+        "message": "Afvalschuur",
         "description": "Tag \"building=garbage_shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=garbage_shed"
     },
     "tag:building=generic": {
-        "message": "",
+        "message": "Algemeen",
         "description": "Tag \"building=generic\". See https://wiki.openstreetmap.org/wiki/Tag:building=generic"
     },
     "tag:building=ger": {
-        "message": "",
+        "message": "Ger",
         "description": "Tag \"building=ger\". See https://wiki.openstreetmap.org/wiki/Tag:building=ger"
     },
     "tag:building=government": {
-        "message": "",
+        "message": "Overheidsgebouw",
         "description": "Tag \"building=government\". See https://wiki.openstreetmap.org/wiki/Tag:building=government"
     },
     "tag:building=grandstand": {
-        "message": "",
+        "message": "Tribune",
         "description": "Tag \"building=grandstand\". See https://wiki.openstreetmap.org/wiki/Tag:building=grandstand"
     },
     "tag:building=greenhouse": {
-        "message": "",
+        "message": "Kas",
         "description": "Tag \"building=greenhouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=greenhouse"
     },
     "tag:building=hangar": {
-        "message": "",
+        "message": "Hangar",
         "description": "Tag \"building=hangar\". See https://wiki.openstreetmap.org/wiki/Tag:building=hangar"
     },
     "tag:building=hospital": {
-        "message": "",
+        "message": "Ziekenhuis",
         "description": "Tag \"building=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:building=hospital"
     },
     "tag:building=hotel": {
-        "message": "",
+        "message": "Hotel",
         "description": "Tag \"building=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:building=hotel"
     },
     "tag:building=house": {
-        "message": "",
+        "message": "Huis",
         "description": "Tag \"building=house\". See https://wiki.openstreetmap.org/wiki/Tag:building=house"
     },
     "tag:building=houseboat": {
-        "message": "",
+        "message": "Woonboot",
         "description": "Tag \"building=houseboat\". See https://wiki.openstreetmap.org/wiki/Tag:building=houseboat"
     },
     "tag:building=hut": {
-        "message": "",
+        "message": "Hut",
         "description": "Tag \"building=hut\". See https://wiki.openstreetmap.org/wiki/Tag:building=hut"
     },
     "tag:building=industrial": {
-        "message": "",
+        "message": "Industrieel",
         "description": "Tag \"building=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:building=industrial"
     },
     "tag:building=kindergarten": {
@@ -789,23 +789,23 @@
         "description": "Tag \"building=kiosk\". See https://wiki.openstreetmap.org/wiki/Tag:building=kiosk"
     },
     "tag:building=kitchen": {
-        "message": "",
+        "message": "Keuken",
         "description": "Tag \"building=kitchen\". See https://wiki.openstreetmap.org/wiki/Tag:building=kitchen"
     },
     "tag:building=mall": {
-        "message": "",
+        "message": "Winkelcentrum",
         "description": "Tag \"building=mall\". See https://wiki.openstreetmap.org/wiki/Tag:building=mall"
     },
     "tag:building=military": {
-        "message": "",
+        "message": "Militair",
         "description": "Tag \"building=military\". See https://wiki.openstreetmap.org/wiki/Tag:building=military"
     },
     "tag:building=monastery": {
-        "message": "",
+        "message": "Klooster",
         "description": "Tag \"building=monastery\". See https://wiki.openstreetmap.org/wiki/Tag:building=monastery"
     },
     "tag:building=mosque": {
-        "message": "",
+        "message": "Moskee",
         "description": "Tag \"building=mosque\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque"
     },
     "tag:building=mosque religion=muslim": {
@@ -813,7 +813,7 @@
         "description": "Combined tag \"building=mosque\" and \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque and https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
     },
     "tag:building=office": {
-        "message": "",
+        "message": "Kantoor",
         "description": "Tag \"building=office\". See https://wiki.openstreetmap.org/wiki/Tag:building=office"
     },
     "tag:building=parking": {
@@ -6010,7 +6010,11 @@
         "description": "Tag \"xmas:feature=shop\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=shop"
     },
     "tag:xmas:feature=tree": {
-        "message": "",
+        "message": "Kerstboom",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:building=agriculture": {
+        "message": "Landbouw gebouw",
+        "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
     }
 }
