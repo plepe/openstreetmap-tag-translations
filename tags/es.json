@@ -253,7 +253,7 @@
         "description": "Tag \"amenity=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=dentist"
     },
     "tag:amenity=doctors": {
-        "message": "",
+        "message": "Médico",
         "description": "Tag \"amenity=doctors\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=doctors"
     },
     "tag:amenity=drinking_water": {
@@ -277,7 +277,7 @@
         "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
     },
     "tag:amenity=food_court": {
-        "message": "",
+        "message": "Zona de comidas",
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
@@ -349,7 +349,7 @@
         "description": "Tag \"amenity=police\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=police"
     },
     "tag:amenity=post_box": {
-        "message": "Buzón",
+        "message": "Buzón postal",
         "description": "Tag \"amenity=post_box\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_box"
     },
     "tag:amenity=post_office": {
@@ -449,11 +449,11 @@
         "description": "Tag \"amenity=vending_machine\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine"
     },
     "tag:amenity=vending_machine vending=bicycle_tube": {
-        "message": "",
+        "message": "Dispensador de tubo de bicicleta",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=bicycle_tube\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=bicycle_tube"
     },
     "tag:amenity=vending_machine vending=cigarettes": {
-        "message": "",
+        "message": "Tabaco",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=cigarettes\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=cigarettes"
     },
     "tag:amenity=vending_machine vending=condoms": {
@@ -493,7 +493,7 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets"
     },
     "tag:amenity=vending_machine vending=parking_tickets;public_transport_tickets": {
-        "message": "",
+        "message": "Máquina expendedora de tickets de aparcamiento para transporte público",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets;public_transport_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets;public_transport_tickets"
     },
     "tag:amenity=vending_machine vending=public_transport_tickets": {
