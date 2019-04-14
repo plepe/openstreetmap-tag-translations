@@ -205,11 +205,11 @@
         "description": "Tag \"amenity=car_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_rental"
     },
     "tag:amenity=car_sharing": {
-        "message": "",
+        "message": "Auto compartido",
         "description": "Tag \"amenity=car_sharing\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_sharing"
     },
     "tag:amenity=car_wash": {
-        "message": "",
+        "message": "Lavado de autos",
         "description": "Tag \"amenity=car_wash\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_wash"
     },
     "tag:amenity=charging_station": {
