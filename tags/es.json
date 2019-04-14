@@ -241,7 +241,7 @@
         "description": "Tag \"amenity=compressed_air\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=compressed_air"
     },
     "tag:amenity=courthouse": {
-        "message": "",
+        "message": "Palacio de justicia",
         "description": "Tag \"amenity=courthouse\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=courthouse"
     },
     "tag:amenity=crematorium": {
