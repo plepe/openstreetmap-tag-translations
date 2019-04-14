@@ -269,7 +269,7 @@
         "description": "Tag \"amenity=fast_food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fast_food"
     },
     "tag:amenity=ferry_terminal": {
-        "message": "",
+        "message": "Atracadero de ferry",
         "description": "Tag \"amenity=ferry_terminal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ferry_terminal"
     },
     "tag:amenity=fire_station": {
@@ -405,7 +405,7 @@
         "description": "Tag \"amenity=signpost\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=signpost"
     },
     "tag:amenity=social_facility": {
-        "message": "",
+        "message": "Institución social",
         "description": "Tag \"amenity=social_facility\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=social_facility"
     },
     "tag:amenity=studio": {
