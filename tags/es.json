@@ -229,7 +229,7 @@
         "description": "Tag \"amenity=clock\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clock"
     },
     "tag:amenity=college": {
-        "message": "Universidad",
+        "message": "Facultad técnica o de estudios superiores",
         "description": "Tag \"amenity=college\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=college"
     },
     "tag:amenity=community_centre": {
