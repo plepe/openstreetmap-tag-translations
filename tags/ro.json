@@ -21,7 +21,7 @@
         "message": ""
     },
     "tag:access=private": {
-        "message": "",
+        "message": "privat",
         "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
     },
     "tag:accomodation": {
@@ -29,7 +29,7 @@
         "description": "Key \"accomodation\". See https://wiki.openstreetmap.org/wiki/Key:accomodation"
     },
     "tag:addr:city": {
-        "message": "Oras",
+        "message": "Oraș",
         "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
     },
     "tag:addr:country": {
@@ -58,7 +58,6 @@
     },
     "tag:addr:street": {
         "message": "Strada",
-        "!=1": "Strazi",
         "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
     },
     "tag:address": {
