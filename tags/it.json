@@ -6,7 +6,7 @@
         "message": "si"
     },
     "tag:abandoned": {
-        "message": "",
+        "message": "Abbandonato",
         "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
     },
     "tag:abutters": {
@@ -18,10 +18,10 @@
         "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
     },
     "tag:access!=private": {
-        "message": ""
+        "message": "non-privato , pubblico"
     },
     "tag:access=private": {
-        "message": "",
+        "message": "privato",
         "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
     },
     "tag:accomodation": {
@@ -30,27 +30,22 @@
     },
     "tag:addr:city": {
         "message": "Città",
-        "!=1": "Città",
         "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
     },
     "tag:addr:country": {
         "message": "Nazione",
-        "!=1": "Nazioni",
         "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
     },
     "tag:addr:full": {
         "message": "Indirizzo completo",
-        "!=1": "Indirizzi completi",
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
         "message": "Nome dell'edificio",
-        "!=1": "Nomi degli edifici",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
         "message": "Numero civico",
-        "!=1": "Numeri civici",
         "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
     },
     "tag:addr:interpolation": {
@@ -59,12 +54,10 @@
     },
     "tag:addr:postcode": {
         "message": "Codice di avviamento postale",
-        "!=1": "Codici di avviamento postale",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
         "message": "Via",
-        "!=1": "Vie",
         "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
     },
     "tag:address": {
@@ -72,7 +65,7 @@
         "description": "Key \"address\". See https://wiki.openstreetmap.org/wiki/Key:address"
     },
     "tag:admin_level": {
-        "message": "",
+        "message": "Livello Amministrativo Territoriale",
         "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
     },
     "tag:admin_level=10": {
@@ -104,7 +97,7 @@
         "description": "Tag \"admin_level=6\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=6"
     },
     "tag:admin_level=7": {
-        "message": "",
+        "message": "Unioni di Comuni o Comunità montane",
         "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=7.5": {
@@ -137,7 +130,6 @@
     },
     "tag:alt_name": {
         "message": "Nome alternativo",
-        "!=1": "Nomi alternativi",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
@@ -145,15 +137,15 @@
         "description": "Key \"amenity\". See https://wiki.openstreetmap.org/wiki/Key:amenity"
     },
     "tag:amenity=arts_centre": {
-        "message": "Centri delle arti",
+        "message": "Centri Belle Arti",
         "description": "Tag \"amenity=arts_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=arts_centre"
     },
     "tag:amenity=atm": {
-        "message": "Bancomat",
+        "message": "Cassa Automatica - Bancomat",
         "description": "Tag \"amenity=atm\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=atm"
     },
     "tag:amenity=baby_hatch": {
-        "message": "Culle per la vita",
+        "message": "Rota degli Esposti",
         "description": "Tag \"amenity=baby_hatch\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=baby_hatch"
     },
     "tag:amenity=bank": {
@@ -161,7 +153,7 @@
         "description": "Tag \"amenity=bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bank"
     },
     "tag:amenity=bar": {
-        "message": "",
+        "message": "Bar-Pub",
         "description": "Tag \"amenity=bar\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bar"
     },
     "tag:amenity=bench": {
@@ -169,7 +161,7 @@
         "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
     },
     "tag:amenity=bicycle_parking": {
-        "message": "",
+        "message": "Parcheggio Bici",
         "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
     },
     "tag:amenity=bicycle_parking capacity<=20": {
@@ -177,7 +169,7 @@
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>20<=60": {
-        "message": "",
+        "message": "Parcheggio bici (20-60 stalli)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>60": {
@@ -205,7 +197,7 @@
         "description": "Tag \"amenity=bus_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bus_station"
     },
     "tag:amenity=cafe": {
-        "message": "",
+        "message": "Caffè",
         "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
     },
     "tag:amenity=car_rental": {
@@ -221,7 +213,7 @@
         "description": "Tag \"amenity=car_wash\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_wash"
     },
     "tag:amenity=charging_station": {
-        "message": "",
+        "message": "Punto-stazione di ricarica elettrica",
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
     "tag:amenity=cinema": {
@@ -273,7 +265,7 @@
         "description": "Tag \"amenity=embassy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=embassy"
     },
     "tag:amenity=fast_food": {
-        "message": "",
+        "message": "Tavola Calda-Fast Food",
         "description": "Tag \"amenity=fast_food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fast_food"
     },
     "tag:amenity=ferry_terminal": {
@@ -337,7 +329,7 @@
         "description": "Tag \"amenity=motorcycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=motorcycle_parking"
     },
     "tag:amenity=nursing_home": {
-        "message": "",
+        "message": "Ospizio-Casa di riposo RSA",
         "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
     },
     "tag:amenity=parking": {
@@ -349,7 +341,7 @@
         "description": "Tag \"amenity=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pharmacy"
     },
     "tag:amenity=place_of_worship": {
-        "message": "",
+        "message": "Lugo di Culto",
         "description": "Tag \"amenity=place_of_worship\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship"
     },
     "tag:amenity=police": {
@@ -365,12 +357,11 @@
         "description": "Tag \"amenity=post_office\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_office"
     },
     "tag:amenity=pub": {
-        "message": "Pub",
-        "!=1": "Pub",
+        "message": "Pub-Bar",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
-        "message": "",
+        "message": "Terme e bagni pubblici",
         "description": "Tag \"amenity=public_bath\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bath"
     },
     "tag:amenity=public_bookcase": {
@@ -395,7 +386,6 @@
     },
     "tag:amenity=restaurant": {
         "message": "Ristorante",
-        "!=1": "Ristoranti",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
@@ -439,11 +429,11 @@
         "description": "Tag \"amenity=ticket_counter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ticket_counter"
     },
     "tag:amenity=toilets": {
-        "message": "",
+        "message": "Gabinetti-Servizi igienici",
         "description": "Tag \"amenity=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets"
     },
     "tag:amenity=toilets diaper=yes": {
-        "message": "",
+        "message": "Gabinetti-Servizi igienici con fasciatio neonati",
         "description": "Combined tag \"amenity=toilets\" and \"diaper=yes\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets and https://wiki.openstreetmap.org/wiki/Tag:diaper=yes"
     },
     "tag:amenity=townhall": {
@@ -551,37 +541,31 @@
         "description": "Key \"artist\". See https://wiki.openstreetmap.org/wiki/Key:artist"
     },
     "tag:artist_name": {
-        "message": "",
+        "message": "Artista",
         "description": "Key \"artist_name\". See https://wiki.openstreetmap.org/wiki/Key:artist_name"
     },
     "tag:barrier": {
         "message": "Barriera",
-        "!=1": "Barriere",
         "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
     },
     "tag:barrier=city_wall": {
         "message": "Mura cittadine",
-        "!=1": "Mura cittadine",
         "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
     },
     "tag:barrier=fence": {
         "message": "Recinzione",
-        "!=1": "Recinzioni",
         "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
     },
     "tag:barrier=hedge": {
         "message": "Siepe",
-        "!=1": "Siepi",
         "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
     },
     "tag:barrier=retaining_wall": {
         "message": "Muro di contenimento",
-        "!=1": "Muri di contenimento",
         "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
     },
     "tag:barrier=wall": {
         "message": "Muro",
-        "!=1": "Muri",
         "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
     },
     "tag:bath:open_air": {
@@ -625,7 +609,7 @@
         "description": "Key \"boundary\". See https://wiki.openstreetmap.org/wiki/Key:boundary"
     },
     "tag:brand": {
-        "message": "",
+        "message": "Marchio-Insegna",
         "description": "Key \"brand\". See https://wiki.openstreetmap.org/wiki/Key:brand"
     },
     "tag:bridge": {
@@ -633,11 +617,11 @@
         "description": "Key \"bridge\". See https://wiki.openstreetmap.org/wiki/Key:bridge"
     },
     "tag:building": {
-        "message": "",
+        "message": "Edificio",
         "description": "Key \"building\". See https://wiki.openstreetmap.org/wiki/Key:building"
     },
     "tag:building:levels": {
-        "message": "",
+        "message": "livelli-piano",
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
     "tag:building=apartments": {
@@ -813,7 +797,7 @@
         "description": "Tag \"building=mall\". See https://wiki.openstreetmap.org/wiki/Tag:building=mall"
     },
     "tag:building=military": {
-        "message": "",
+        "message": "Militare",
         "description": "Tag \"building=military\". See https://wiki.openstreetmap.org/wiki/Tag:building=military"
     },
     "tag:building=monastery": {
@@ -2535,7 +2519,6 @@
     },
     "tag:highway": {
         "message": "Strada",
-        "!=1": "Strade",
         "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
     },
     "tag:highway=bridleway": {
@@ -2924,7 +2907,6 @@
     },
     "tag:int_name": {
         "message": "Nome internazionale",
-        "!=1": "Nomi internazionali",
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
     "tag:intermittent": {
@@ -3241,7 +3223,6 @@
     },
     "tag:loc_name": {
         "message": "Nome locale",
-        "!=1": "Nomi locali",
         "description": "Key \"loc_name\". See https://wiki.openstreetmap.org/wiki/Key:loc_name"
     },
     "tag:man_made": {
@@ -3654,7 +3635,6 @@
     },
     "tag:name": {
         "message": "Nome",
-        "!=1": "Nomi",
         "description": "Key \"name\". See https://wiki.openstreetmap.org/wiki/Key:name"
     },
     "tag:name:etymology": {
@@ -4091,12 +4071,10 @@
     },
     "tag:official_name": {
         "message": "Nome ufficiale",
-        "!=1": "Nomi ufficiali",
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
         "message": "Nome storico o precedente",
-        "!=1": "Nomi storici o precedenti",
         "description": "Key \"old_name\". See https://wiki.openstreetmap.org/wiki/Key:old_name"
     },
     "tag:oneway": {
@@ -4213,7 +4191,6 @@
     },
     "tag:place=city": {
         "message": "Città",
-        "!=1": "Città",
         "description": "Tag \"place=city\". See https://wiki.openstreetmap.org/wiki/Tag:place=city"
     },
     "tag:place=city population<200000": {
@@ -4230,7 +4207,6 @@
     },
     "tag:place=county": {
         "message": "Circoscrizione",
-        "!=1": "Circoscrizioni",
         "description": "Tag \"place=county\". See https://wiki.openstreetmap.org/wiki/Tag:place=county"
     },
     "tag:place=farm": {
@@ -4243,7 +4219,6 @@
     },
     "tag:place=island": {
         "message": "Isola",
-        "!=1": "Isole",
         "description": "Tag \"place=island\". See https://wiki.openstreetmap.org/wiki/Tag:place=island"
     },
     "tag:place=islet": {
@@ -4264,7 +4239,6 @@
     },
     "tag:place=ocean": {
         "message": "Oceano",
-        "!=1": "Oceani",
         "description": "Tag \"place=ocean\". See https://wiki.openstreetmap.org/wiki/Tag:place=ocean"
     },
     "tag:place=quarter": {
@@ -4277,7 +4251,6 @@
     },
     "tag:place=sea": {
         "message": "Mare",
-        "!=1": "Mari",
         "description": "Tag \"place=sea\". See https://wiki.openstreetmap.org/wiki/Tag:place=sea"
     },
     "tag:place=state": {
@@ -4290,7 +4263,6 @@
     },
     "tag:place=town": {
         "message": "Cittadina",
-        "!=1": "Cittadine",
         "description": "Tag \"place=town\". See https://wiki.openstreetmap.org/wiki/Tag:place=town"
     },
     "tag:place=town population>=30000": {
@@ -4511,7 +4483,6 @@
     },
     "tag:railway=rail": {
         "message": "Ferrovia",
-        "!=1": "Ferrovie",
         "description": "Tag \"railway=rail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail"
     },
     "tag:railway=rail service": {
@@ -4580,7 +4551,6 @@
     },
     "tag:railway=tram": {
         "message": "Tram",
-        "!=1": "Tram",
         "description": "Tag \"railway=tram\". See https://wiki.openstreetmap.org/wiki/Tag:railway=tram"
     },
     "tag:railway=tram;narrow_gauge": {
@@ -4780,7 +4750,7 @@
         "description": "Tag \"route=light_rail\". See https://wiki.openstreetmap.org/wiki/Tag:route=light_rail"
     },
     "tag:route=minibus": {
-        "message": "Minibus",
+        "message": "Mini-bus",
         "description": "Tag \"route=minibus\". See https://wiki.openstreetmap.org/wiki/Tag:route=minibus"
     },
     "tag:route=monorail": {
@@ -4812,7 +4782,7 @@
         "description": "Tag \"route=train\". See https://wiki.openstreetmap.org/wiki/Tag:route=train"
     },
     "tag:route=tram": {
-        "message": "Tram",
+        "message": "Tramvia",
         "description": "Tag \"route=tram\". See https://wiki.openstreetmap.org/wiki/Tag:route=tram"
     },
     "tag:route=tram_bus": {
@@ -5424,7 +5394,7 @@
         "description": "Tag \"sport=boules\". See https://wiki.openstreetmap.org/wiki/Tag:sport=boules"
     },
     "tag:sport=bowls": {
-        "message": "Bowls",
+        "message": "Bocciodromo",
         "description": "Tag \"sport=bowls\". See https://wiki.openstreetmap.org/wiki/Tag:sport=bowls"
     },
     "tag:sport=canadian_football": {
@@ -5448,11 +5418,11 @@
         "description": "Tag \"sport=cockfighting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cockfighting"
     },
     "tag:sport=cricket": {
-        "message": "Cricket",
+        "message": "Cricket_sport",
         "description": "Tag \"sport=cricket\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cricket"
     },
     "tag:sport=croquet": {
-        "message": "Croquet",
+        "message": "Croquet_sport",
         "description": "Tag \"sport=croquet\". See https://wiki.openstreetmap.org/wiki/Tag:sport=croquet"
     },
     "tag:sport=cycling": {
@@ -5484,7 +5454,7 @@
         "description": "Tag \"sport=fitness\". See https://wiki.openstreetmap.org/wiki/Tag:sport=fitness"
     },
     "tag:sport=football": {
-        "message": "Football",
+        "message": "Football americano",
         "description": "Tag \"sport=football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=football"
     },
     "tag:sport=golf": {
@@ -5496,7 +5466,7 @@
         "description": "Tag \"sport=gymnastics\". See https://wiki.openstreetmap.org/wiki/Tag:sport=gymnastics"
     },
     "tag:sport=hockey": {
-        "message": "Hockey",
+        "message": "Hockey_sport",
         "description": "Tag \"sport=hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=hockey"
     },
     "tag:sport=horse_racing": {
@@ -5536,7 +5506,7 @@
         "description": "Tag \"sport=orienteering\". See https://wiki.openstreetmap.org/wiki/Tag:sport=orienteering"
     },
     "tag:sport=paddle_tennis": {
-        "message": "Paddle Tennis",
+        "message": "Paddle_Tennis",
         "description": "Tag \"sport=paddle_tennis\". See https://wiki.openstreetmap.org/wiki/Tag:sport=paddle_tennis"
     },
     "tag:sport=paragliding": {
@@ -5544,7 +5514,7 @@
         "description": "Tag \"sport=paragliding\". See https://wiki.openstreetmap.org/wiki/Tag:sport=paragliding"
     },
     "tag:sport=pelota": {
-        "message": "Pelota",
+        "message": "La_Pelota",
         "description": "Tag \"sport=pelota\". See https://wiki.openstreetmap.org/wiki/Tag:sport=pelota"
     },
     "tag:sport=racquet": {
@@ -5556,7 +5526,7 @@
         "description": "Tag \"sport=rowing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rowing"
     },
     "tag:sport=rugby": {
-        "message": "Rugby",
+        "message": "Rugby_sport",
         "description": "Tag \"sport=rugby\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rugby"
     },
     "tag:sport=rugby_league": {
@@ -5580,7 +5550,7 @@
         "description": "Tag \"sport=shooting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=shooting"
     },
     "tag:sport=skateboard": {
-        "message": "Skateboard",
+        "message": "Skate_board",
         "description": "Tag \"sport=skateboard\". See https://wiki.openstreetmap.org/wiki/Tag:sport=skateboard"
     },
     "tag:sport=skating": {
@@ -5612,7 +5582,7 @@
         "description": "Tag \"sport=team_handball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=team_handball"
     },
     "tag:sport=tennis": {
-        "message": "Tennis",
+        "message": "Tennis_",
         "description": "Tag \"sport=tennis\". See https://wiki.openstreetmap.org/wiki/Tag:sport=tennis"
     },
     "tag:sport=volleyball": {
@@ -5836,7 +5806,7 @@
         "description": "Key \"traffic_sign\". See https://wiki.openstreetmap.org/wiki/Key:traffic_sign"
     },
     "tag:tunnel": {
-        "message": "Tunnel",
+        "message": "Tunnel_Galleria",
         "description": "Key \"tunnel\". See https://wiki.openstreetmap.org/wiki/Key:tunnel"
     },
     "tag:type": {
