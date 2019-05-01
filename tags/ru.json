@@ -21,7 +21,7 @@
         "message": ""
     },
     "tag:access=private": {
-        "message": "",
+        "message": "частный",
         "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
     },
     "tag:accomodation": {
@@ -30,27 +30,22 @@
     },
     "tag:addr:city": {
         "message": "Город",
-        "!=1": "Города",
         "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
     },
     "tag:addr:country": {
         "message": "Страна",
-        "!=1": "Страны",
         "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
     },
     "tag:addr:full": {
         "message": "Полный адрес",
-        "!=1": "Полные адреса",
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
         "message": "Имя дома",
-        "!=1": "Имена домов",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
         "message": "Номер дома",
-        "!=1": "Номера домов",
         "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
     },
     "tag:addr:interpolation": {
@@ -59,12 +54,10 @@
     },
     "tag:addr:postcode": {
         "message": "Почтовый индекс",
-        "!=1": "Почтовые индексы",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
         "message": "Улица",
-        "!=1": "Улицы",
         "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
     },
     "tag:address": {
@@ -137,7 +130,6 @@
     },
     "tag:alt_name": {
         "message": "Альтернативное имя",
-        "!=1": "Альтернативные имена",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
@@ -366,7 +358,6 @@
     },
     "tag:amenity=pub": {
         "message": "Паб",
-        "!=1": "Пабы",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
@@ -395,7 +386,6 @@
     },
     "tag:amenity=restaurant": {
         "message": "Ресторан",
-        "!=1": "Рестораны",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
@@ -556,32 +546,26 @@
     },
     "tag:barrier": {
         "message": "Преграда",
-        "!=1": "Преграды",
         "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
     },
     "tag:barrier=city_wall": {
         "message": "Городская стена",
-        "!=1": "Городские стены",
         "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
     },
     "tag:barrier=fence": {
         "message": "Забор",
-        "!=1": "Заборы",
         "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
     },
     "tag:barrier=hedge": {
         "message": "Куст",
-        "!=1": "Кусты",
         "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
     },
     "tag:barrier=retaining_wall": {
         "message": "Подпорная стенка",
-        "!=1": "Подпорные стенки",
         "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
     },
     "tag:barrier=wall": {
         "message": "Стена",
-        "!=1": "Стены",
         "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
     },
     "tag:bath:open_air": {
@@ -2535,7 +2519,6 @@
     },
     "tag:highway": {
         "message": "Дорога",
-        "!=1": "Дороги",
         "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
     },
     "tag:highway=bridleway": {
@@ -2924,7 +2907,6 @@
     },
     "tag:int_name": {
         "message": "Международное название",
-        "!=1": "Международные названия",
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
     "tag:intermittent": {
@@ -3241,7 +3223,6 @@
     },
     "tag:loc_name": {
         "message": "Местное название",
-        "!=1": "Местные названия",
         "description": "Key \"loc_name\". See https://wiki.openstreetmap.org/wiki/Key:loc_name"
     },
     "tag:man_made": {
@@ -3254,7 +3235,6 @@
     },
     "tag:man_made=pipeline": {
         "message": "Трубопровод",
-        "!=1": "Трубопроводы",
         "description": "Tag \"man_made=pipeline\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=pipeline"
     },
     "tag:man_made=wastewater_plant": {
@@ -3655,7 +3635,6 @@
     },
     "tag:name": {
         "message": "Название",
-        "!=1": "Названия",
         "description": "Key \"name\". See https://wiki.openstreetmap.org/wiki/Key:name"
     },
     "tag:name:etymology": {
@@ -4092,7 +4071,6 @@
     },
     "tag:official_name": {
         "message": "Официальное имя",
-        "!=1": "Официальные имена",
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
@@ -4213,7 +4191,6 @@
     },
     "tag:place=city": {
         "message": "Город",
-        "!=1": "Города",
         "description": "Tag \"place=city\". See https://wiki.openstreetmap.org/wiki/Tag:place=city"
     },
     "tag:place=city population<200000": {
@@ -4230,7 +4207,6 @@
     },
     "tag:place=county": {
         "message": "Округ",
-        "!=1": "Округа",
         "description": "Tag \"place=county\". See https://wiki.openstreetmap.org/wiki/Tag:place=county"
     },
     "tag:place=farm": {
@@ -4243,7 +4219,6 @@
     },
     "tag:place=island": {
         "message": "Остров",
-        "!=1": "Острова",
         "description": "Tag \"place=island\". See https://wiki.openstreetmap.org/wiki/Tag:place=island"
     },
     "tag:place=islet": {
@@ -4256,7 +4231,6 @@
     },
     "tag:place=locality": {
         "message": "Район",
-        "!=1": "Районы",
         "description": "Tag \"place=locality\". See https://wiki.openstreetmap.org/wiki/Tag:place=locality"
     },
     "tag:place=neighbourhood": {
@@ -4265,7 +4239,6 @@
     },
     "tag:place=ocean": {
         "message": "Океан",
-        "!=1": "Океаны",
         "description": "Tag \"place=ocean\". See https://wiki.openstreetmap.org/wiki/Tag:place=ocean"
     },
     "tag:place=quarter": {
@@ -4278,7 +4251,6 @@
     },
     "tag:place=sea": {
         "message": "Море",
-        "!=1": "Моря",
         "description": "Tag \"place=sea\". See https://wiki.openstreetmap.org/wiki/Tag:place=sea"
     },
     "tag:place=state": {
@@ -4291,7 +4263,6 @@
     },
     "tag:place=town": {
         "message": "Город",
-        "!=1": "Города",
         "description": "Tag \"place=town\". See https://wiki.openstreetmap.org/wiki/Tag:place=town"
     },
     "tag:place=town population>=30000": {
@@ -4504,7 +4475,6 @@
     },
     "tag:railway=platform": {
         "message": "Платформа",
-        "!=1": "Платформы",
         "description": "Tag \"railway=platform\". See https://wiki.openstreetmap.org/wiki/Tag:railway=platform"
     },
     "tag:railway=preserved": {
@@ -4513,7 +4483,6 @@
     },
     "tag:railway=rail": {
         "message": "Железнодорожный путь",
-        "!=1": "Железнодорожные пути",
         "description": "Tag \"railway=rail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail"
     },
     "tag:railway=rail service": {
@@ -4582,7 +4551,6 @@
     },
     "tag:railway=tram": {
         "message": "Трамвайный путь",
-        "!=1": "Трамвайные пути",
         "description": "Tag \"railway=tram\". See https://wiki.openstreetmap.org/wiki/Tag:railway=tram"
     },
     "tag:railway=tram;narrow_gauge": {
