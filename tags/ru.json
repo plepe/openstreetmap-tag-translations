@@ -113,7 +113,7 @@
         "description": "Tag \"admin_level=9\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=9"
     },
     "tag:aerialway": {
-        "message": "Канатные дороги",
+        "message": "Канатная дорога",
         "description": "Key \"aerialway\". See https://wiki.openstreetmap.org/wiki/Key:aerialway"
     },
     "tag:aeroway": {
@@ -121,11 +121,11 @@
         "description": "Key \"aeroway\". See https://wiki.openstreetmap.org/wiki/Key:aeroway"
     },
     "tag:aeroway=runway": {
-        "message": "Взлётные полосы",
+        "message": "Взлётная полоса",
         "description": "Tag \"aeroway=runway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=runway"
     },
     "tag:aeroway=taxiway": {
-        "message": "Рулёжные дорожки",
+        "message": "Рулёжная дорожка",
         "description": "Tag \"aeroway=taxiway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=taxiway"
     },
     "tag:alt_name": {
@@ -153,27 +153,27 @@
         "description": "Tag \"amenity=bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bank"
     },
     "tag:amenity=bar": {
-        "message": "",
+        "message": "Бар",
         "description": "Tag \"amenity=bar\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bar"
     },
     "tag:amenity=bench": {
-        "message": "Лавочки",
+        "message": "Скамейка",
         "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
     },
     "tag:amenity=bicycle_parking": {
-        "message": "",
+        "message": "Велопарковка",
         "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
     },
     "tag:amenity=bicycle_parking capacity<=20": {
-        "message": "Маленькая велопарковка",
+        "message": "Велопарковка (до 20 мест)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>20<=60": {
-        "message": "",
+        "message": "Велопарковка (20-60 мест)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>60": {
-        "message": "Велопарковка",
+        "message": "Велопарковка (>60 мест)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_rental": {
@@ -185,7 +185,7 @@
         "description": "Tag \"amenity=biergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=biergarten"
     },
     "tag:amenity=brothel": {
-        "message": "Бордели",
+        "message": "Бордель",
         "description": "Tag \"amenity=brothel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=brothel"
     },
     "tag:amenity=bureau_de_change": {
@@ -197,7 +197,7 @@
         "description": "Tag \"amenity=bus_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bus_station"
     },
     "tag:amenity=cafe": {
-        "message": "",
+        "message": "Кафе",
         "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
     },
     "tag:amenity=car_rental": {
@@ -213,7 +213,7 @@
         "description": "Tag \"amenity=car_wash\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_wash"
     },
     "tag:amenity=charging_station": {
-        "message": "",
+        "message": "Зарядная станция",
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
     "tag:amenity=cinema": {
@@ -221,7 +221,7 @@
         "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
     },
     "tag:amenity=clinic": {
-        "message": "",
+        "message": "Клиника",
         "description": "Tag \"amenity=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clinic"
     },
     "tag:amenity=clock": {
@@ -229,7 +229,7 @@
         "description": "Tag \"amenity=clock\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clock"
     },
     "tag:amenity=college": {
-        "message": "Техникумы",
+        "message": "Техникум",
         "description": "Tag \"amenity=college\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=college"
     },
     "tag:amenity=community_centre": {
@@ -241,7 +241,7 @@
         "description": "Tag \"amenity=compressed_air\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=compressed_air"
     },
     "tag:amenity=courthouse": {
-        "message": "Здание суда",
+        "message": "Суд",
         "description": "Tag \"amenity=courthouse\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=courthouse"
     },
     "tag:amenity=crematorium": {
@@ -277,7 +277,7 @@
         "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
     },
     "tag:amenity=food_court": {
-        "message": "",
+        "message": "Фудкорт",
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
@@ -309,7 +309,7 @@
         "description": "Tag \"amenity=internet_cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=internet_cafe"
     },
     "tag:amenity=kindergarten": {
-        "message": "Детские сады",
+        "message": "Детский сад",
         "description": "Tag \"amenity=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=kindergarten"
     },
     "tag:amenity=language_school": {
@@ -317,7 +317,7 @@
         "description": "Tag \"amenity=language_school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=language_school"
     },
     "tag:amenity=library": {
-        "message": "Библиотеки",
+        "message": "Библиотека",
         "description": "Tag \"amenity=library\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=library"
     },
     "tag:amenity=marketplace": {
@@ -381,7 +381,7 @@
         "description": "Tag \"recycling_type=centre\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=centre"
     },
     "tag:amenity=recycling recycling_type=container": {
-        "message": "",
+        "message": "Контейнер",
         "description": "Tag \"recycling_type=container\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=container"
     },
     "tag:amenity=restaurant": {
@@ -389,7 +389,7 @@
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
-        "message": "Школы",
+        "message": "Школа",
         "description": "Tag \"amenity=school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=school"
     },
     "tag:amenity=shelter": {
@@ -417,7 +417,7 @@
         "description": "Tag \"amenity=taxi\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=taxi"
     },
     "tag:amenity=telephone": {
-        "message": "Узел связи",
+        "message": "Телефон",
         "description": "Tag \"amenity=telephone\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=telephone"
     },
     "tag:amenity=theatre": {
@@ -429,7 +429,7 @@
         "description": "Tag \"amenity=ticket_counter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ticket_counter"
     },
     "tag:amenity=toilets": {
-        "message": "",
+        "message": "Туалет",
         "description": "Tag \"amenity=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets"
     },
     "tag:amenity=toilets diaper=yes": {
@@ -445,7 +445,7 @@
         "description": "Tag \"amenity=university\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=university"
     },
     "tag:amenity=vending_machine": {
-        "message": "Торговые автоматы",
+        "message": "Торговый автомат",
         "description": "Tag \"amenity=vending_machine\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine"
     },
     "tag:amenity=vending_machine vending=bicycle_tube": {
@@ -453,7 +453,7 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=bicycle_tube\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=bicycle_tube"
     },
     "tag:amenity=vending_machine vending=cigarettes": {
-        "message": "Сигаретные автоматы",
+        "message": "Сигаретный автомат",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=cigarettes\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=cigarettes"
     },
     "tag:amenity=vending_machine vending=condoms": {
@@ -473,7 +473,7 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=food;drinks\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=food;drinks"
     },
     "tag:amenity=vending_machine vending=news_papers": {
-        "message": "Газетные автоматы",
+        "message": "Газетный автомат",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=news_papers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=news_papers"
     },
     "tag:amenity=vending_machine vending=parcel_mail_in": {
@@ -493,7 +493,7 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets"
     },
     "tag:amenity=vending_machine vending=parking_tickets;public_transport_tickets": {
-        "message": "Билетные автоматы",
+        "message": "Билетный автомат",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets;public_transport_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets;public_transport_tickets"
     },
     "tag:amenity=vending_machine vending=public_transport_tickets": {
@@ -557,7 +557,7 @@
         "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
     },
     "tag:barrier=hedge": {
-        "message": "Куст",
+        "message": "Живая изгородь",
         "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
     },
     "tag:barrier=retaining_wall": {
@@ -617,11 +617,11 @@
         "description": "Key \"bridge\". See https://wiki.openstreetmap.org/wiki/Key:bridge"
     },
     "tag:building": {
-        "message": "",
+        "message": "Здание",
         "description": "Key \"building\". See https://wiki.openstreetmap.org/wiki/Key:building"
     },
     "tag:building:levels": {
-        "message": "",
+        "message": "этажи",
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
     "tag:building=apartments": {
@@ -5822,7 +5822,7 @@
         "description": "Tag \"type=heat\". See https://wiki.openstreetmap.org/wiki/Tag:type=heat"
     },
     "tag:type=hot_water": {
-        "message": "Грячая вода",
+        "message": "Горячая вода",
         "description": "Tag \"type=hot_water\". See https://wiki.openstreetmap.org/wiki/Tag:type=hot_water"
     },
     "tag:type=oil": {
