@@ -451,5 +451,37 @@
     "tag:network=rwn": {
         "message": "Itinerari de caminada regionau",
         "description": "Tag \"network=rwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=rwn"
+    },
+    "tag:admin_level=3": {
+        "message": "n/a (3)",
+        "description": "Tag \"admin_level=3\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=3"
+    },
+    "tag:amenity=vending_machine vending=cigarettes": {
+        "message": "Distributor automatic de cigaretas",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=cigarettes\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=cigarettes"
+    },
+    "tag:amenity=vending_machine vending=condoms": {
+        "message": "Distributor automatic de preservatius",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=condoms\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=condoms"
+    },
+    "tag:amenity=vending_machine vending=excrement_bags": {
+        "message": "Distributor de saquets per leis estrons de can",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=excrement_bags\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=excrement_bags"
+    },
+    "tag:amenity=vending_machine vending=food": {
+        "message": "Distributor automatic d’aliments",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=food"
+    },
+    "tag:amenity=vending_machine vending=food;drinks": {
+        "message": "Distributor automatic d'aliments e de bevendas",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=food;drinks\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=food;drinks"
+    },
+    "tag:amenity=vending_machine vending=news_papers": {
+        "message": "Distributor automatic de jornaus",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=news_papers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=news_papers"
+    },
+    "tag:amenity=vending_machine vending=parcel_mail_in": {
+        "message": "Boita postala",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_mail_in"
     }
 }
