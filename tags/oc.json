@@ -483,5 +483,425 @@
     "tag:amenity=vending_machine vending=parcel_mail_in": {
         "message": "Boita postala",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_mail_in"
+    },
+    "tag:amenity=baby_hatch": {
+        "message": "N/A",
+        "description": "Tag \"amenity=baby_hatch\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=baby_hatch"
+    },
+    "tag:amenity=biergarten": {
+        "message": "N/A",
+        "description": "Tag \"amenity=biergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=biergarten"
+    },
+    "tag:amenity=vending_machine vending=bicycle_tube": {
+        "message": "Distributor de cambra d'aire per bidicletas",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=bicycle_tube\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=bicycle_tube"
+    },
+    "tag:amenity=vending_machine vending=parcel_pickup": {
+        "message": "Retirament automatic de paquets",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_pickup\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_pickup"
+    },
+    "tag:amenity=vending_machine vending=parcel_pickup;parcel_mail_in": {
+        "message": "Distributor automatic per retirar e enviar de paquets",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_pickup;parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_pickup;parcel_mail_in"
+    },
+    "tag:amenity=vending_machine vending=parking_tickets": {
+        "message": "Distributor automatic de bilhetas per l'aparcament",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets"
+    },
+    "tag:amenity=vending_machine vending=parking_tickets;public_transport_tickets": {
+        "message": "Distributor automatic de bilhetas per lo transpòrt public e l'aparcament",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets;public_transport_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets;public_transport_tickets"
+    },
+    "tag:amenity=vending_machine vending=public_transport_tickets": {
+        "message": "Distributor de bihletas per lo transpòrt public",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=public_transport_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=public_transport_tickets"
+    },
+    "tag:amenity=vending_machine vending=stamps": {
+        "message": "Distributor de timbres",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=stamps\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=stamps"
+    },
+    "tag:amenity=vending_machine vending=sweets;chewing_gum": {
+        "message": "Distributor automatic de sucrariás",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=sweets;chewing_gum\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=sweets;chewing_gum"
+    },
+    "tag:amenity=vending_machine vending=telephone_vouchers": {
+        "message": "Distributor automtic de cartas de telefòn",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=telephone_vouchers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=telephone_vouchers"
+    },
+    "tag:amenity=veterinary": {
+        "message": "Veterinari",
+        "description": "Tag \"amenity=veterinary\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=veterinary"
+    },
+    "tag:amenity=waste_basket": {
+        "message": "Banasta",
+        "description": "Tag \"amenity=waste_basket\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_basket"
+    },
+    "tag:amenity=waste_disposal": {
+        "message": "Bordilhier",
+        "description": "Tag \"amenity=waste_disposal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_disposal"
+    },
+    "tag:amenity=waste_transfer_station": {
+        "message": "Bordigau / Reciclatge",
+        "description": "Tag \"amenity=waste_transfer_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_transfer_station"
+    },
+    "tag:architect": {
+        "message": "Arquitècte",
+        "description": "Key \"architect\". See https://wiki.openstreetmap.org/wiki/Key:architect"
+    },
+    "tag:area": {
+        "message": "Plaça",
+        "description": "Key \"area\". See https://wiki.openstreetmap.org/wiki/Key:area"
+    },
+    "tag:artist": {
+        "message": "Artiste",
+        "description": "Key \"artist\". See https://wiki.openstreetmap.org/wiki/Key:artist"
+    },
+    "tag:artist_name": {
+        "message": "Nom de l'artista",
+        "description": "Key \"artist_name\". See https://wiki.openstreetmap.org/wiki/Key:artist_name"
+    },
+    "tag:barrier": {
+        "message": "Barriera",
+        "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
+    },
+    "tag:barrier=city_wall": {
+        "message": "Barri",
+        "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
+    },
+    "tag:barrier=fence": {
+        "message": "Clausura",
+        "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
+    },
+    "tag:barrier=hedge": {
+        "message": "Sebissa",
+        "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
+    },
+    "tag:barrier=retaining_wall": {
+        "message": "Restanca",
+        "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
+    },
+    "tag:barrier=wall": {
+        "message": "Mureta",
+        "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
+    },
+    "tag:bath:open_air": {
+        "message": "Plen aire",
+        "description": "Key \"bath:open_air\". See https://wiki.openstreetmap.org/wiki/Key:bath:open_air"
+    },
+    "tag:bath:type": {
+        "message": "Tipe de banh",
+        "description": "Key \"bath:type\". See https://wiki.openstreetmap.org/wiki/Key:bath:type"
+    },
+    "tag:bath:type=hammam": {
+        "message": "Hammam",
+        "description": "Tag \"bath:type=hammam\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hammam"
+    },
+    "tag:bath:type=hot_spring": {
+        "message": "Fònt cauda",
+        "description": "Tag \"bath:type=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hot_spring"
+    },
+    "tag:bath:type=lake": {
+        "message": "Lac",
+        "description": "Tag \"bath:type=lake\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=lake"
+    },
+    "tag:bath:type=river": {
+        "message": "Riu",
+        "description": "Tag \"bath:type=river\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=river"
+    },
+    "tag:bath:type=thermal": {
+        "message": "Termau",
+        "description": "Tag \"bath:type=thermal\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=thermal"
+    },
+    "tag:bicycle": {
+        "message": "Bicicleta",
+        "description": "Key \"bicycle\". See https://wiki.openstreetmap.org/wiki/Key:bicycle"
+    },
+    "tag:boundary": {
+        "message": "Limit",
+        "description": "Key \"boundary\". See https://wiki.openstreetmap.org/wiki/Key:boundary"
+    },
+    "tag:brand": {
+        "message": "Marca / Ensenha",
+        "description": "Key \"brand\". See https://wiki.openstreetmap.org/wiki/Key:brand"
+    },
+    "tag:bridge": {
+        "message": "Pònt",
+        "description": "Key \"bridge\". See https://wiki.openstreetmap.org/wiki/Key:bridge"
+    },
+    "tag:building": {
+        "message": "Bastissa",
+        "description": "Key \"building\". See https://wiki.openstreetmap.org/wiki/Key:building"
+    },
+    "tag:building:levels": {
+        "message": "Estanci / Nivèu",
+        "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
+    },
+    "tag:building=agriculture": {
+        "message": "Agricultura",
+        "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
+    },
+    "tag:building=apartments": {
+        "message": "Lotjaments",
+        "description": "Tag \"building=apartments\". See https://wiki.openstreetmap.org/wiki/Tag:building=apartments"
+    },
+    "tag:building=bakehouse": {
+        "message": "Fornier",
+        "description": "Tag \"building=bakehouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=bakehouse"
+    },
+    "tag:building=barn": {
+        "message": "Granja / Calabèrt",
+        "description": "Tag \"building=barn\". See https://wiki.openstreetmap.org/wiki/Tag:building=barn"
+    },
+    "tag:building=block": {
+        "message": "Blòt",
+        "description": "Tag \"building=block\". See https://wiki.openstreetmap.org/wiki/Tag:building=block"
+    },
+    "tag:building=bridge": {
+        "message": "Pònt",
+        "description": "Tag \"building=bridge\". See https://wiki.openstreetmap.org/wiki/Tag:building=bridge"
+    },
+    "tag:building=bungalow": {
+        "message": "Cabanon",
+        "description": "Tag \"building=bungalow\". See https://wiki.openstreetmap.org/wiki/Tag:building=bungalow"
+    },
+    "tag:building=bunker": {
+        "message": "Casemata",
+        "description": "Tag \"building=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:building=bunker"
+    },
+    "tag:building=cabin": {
+        "message": "Cabana",
+        "description": "Tag \"building=cabin\". See https://wiki.openstreetmap.org/wiki/Tag:building=cabin"
+    },
+    "tag:building=carport": {
+        "message": "Envant per la veitura",
+        "description": "Tag \"building=carport\". See https://wiki.openstreetmap.org/wiki/Tag:building=carport"
+    },
+    "tag:building=cathedral": {
+        "message": "Catedrala",
+        "description": "Tag \"building=cathedral\". See https://wiki.openstreetmap.org/wiki/Tag:building=cathedral"
+    },
+    "tag:building=chapel": {
+        "message": "Capèla",
+        "description": "Tag \"building=chapel\". See https://wiki.openstreetmap.org/wiki/Tag:building=chapel"
+    },
+    "tag:building=church": {
+        "message": "Glèisa",
+        "description": "Tag \"building=church\". See https://wiki.openstreetmap.org/wiki/Tag:building=church"
+    },
+    "tag:building=church religion=christian": {
+        "message": "crestian",
+        "description": "Combined tag \"building=church\" and \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:building=church and https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
+    },
+    "tag:building=civic": {
+        "message": "Edifici public",
+        "description": "Tag \"building=civic\". See https://wiki.openstreetmap.org/wiki/Tag:building=civic"
+    },
+    "tag:building=college": {
+        "message": "Establiment d'ensenhament post-secondari",
+        "description": "Tag \"building=college\". See https://wiki.openstreetmap.org/wiki/Tag:building=college"
+    },
+    "tag:building=commercial": {
+        "message": "Bastiment comerciau",
+        "description": "Tag \"building=commercial\". See https://wiki.openstreetmap.org/wiki/Tag:building=commercial"
+    },
+    "tag:building=conservatory": {
+        "message": "Jardin d'ivèrn",
+        "description": "Tag \"building=conservatory\". See https://wiki.openstreetmap.org/wiki/Tag:building=conservatory"
+    },
+    "tag:building=construction": {
+        "message": "Bastissa a se bastir",
+        "description": "Tag \"building=construction\". See https://wiki.openstreetmap.org/wiki/Tag:building=construction"
+    },
+    "tag:building=cowshed": {
+        "message": "Estable",
+        "description": "Tag \"building=cowshed\". See https://wiki.openstreetmap.org/wiki/Tag:building=cowshed"
+    },
+    "tag:building=detached": {
+        "message": "Bastissa isolada",
+        "description": "Tag \"building=detached\". See https://wiki.openstreetmap.org/wiki/Tag:building=detached"
+    },
+    "tag:building=dormitory": {
+        "message": "Residéncia universitària / Fogau",
+        "description": "Tag \"building=dormitory\". See https://wiki.openstreetmap.org/wiki/Tag:building=dormitory"
+    },
+    "tag:building=farm": {
+        "message": "Tenement",
+        "description": "Tag \"building=farm\". See https://wiki.openstreetmap.org/wiki/Tag:building=farm"
+    },
+    "tag:building=farm_auxiliary": {
+        "message": "Bastissa agricòla",
+        "description": "Tag \"building=farm_auxiliary\". See https://wiki.openstreetmap.org/wiki/Tag:building=farm_auxiliary"
+    },
+    "tag:building=flats": {
+        "message": "Lotjaments",
+        "description": "Tag \"building=flats\". See https://wiki.openstreetmap.org/wiki/Tag:building=flats"
+    },
+    "tag:building=garage": {
+        "message": "Garatge",
+        "description": "Tag \"building=garage\". See https://wiki.openstreetmap.org/wiki/Tag:building=garage"
+    },
+    "tag:building=garages": {
+        "message": "Garatges barrats (box)",
+        "description": "Tag \"building=garages\". See https://wiki.openstreetmap.org/wiki/Tag:building=garages"
+    },
+    "tag:building=garbage_shed": {
+        "message": "Remesa per la bordilha",
+        "description": "Tag \"building=garbage_shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=garbage_shed"
+    },
+    "tag:building=generic": {
+        "message": "Generic",
+        "description": "Tag \"building=generic\". See https://wiki.openstreetmap.org/wiki/Tag:building=generic"
+    },
+    "tag:building=ger": {
+        "message": "Iorta",
+        "description": "Tag \"building=ger\". See https://wiki.openstreetmap.org/wiki/Tag:building=ger"
+    },
+    "tag:building=government": {
+        "message": "Edifici administratiu/ oficiau",
+        "description": "Tag \"building=government\". See https://wiki.openstreetmap.org/wiki/Tag:building=government"
+    },
+    "tag:building=grandstand": {
+        "message": "Tribuna",
+        "description": "Tag \"building=grandstand\". See https://wiki.openstreetmap.org/wiki/Tag:building=grandstand"
+    },
+    "tag:building=greenhouse": {
+        "message": "Sèrra",
+        "description": "Tag \"building=greenhouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=greenhouse"
+    },
+    "tag:building=hangar": {
+        "message": "Cobèrt d'aviacion",
+        "description": "Tag \"building=hangar\". See https://wiki.openstreetmap.org/wiki/Tag:building=hangar"
+    },
+    "tag:building=hospital": {
+        "message": "Espitau",
+        "description": "Tag \"building=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:building=hospital"
+    },
+    "tag:building=hotel": {
+        "message": "Ostalariá",
+        "description": "Tag \"building=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:building=hotel"
+    },
+    "tag:building=house": {
+        "message": "Ostau familiau",
+        "description": "Tag \"building=house\". See https://wiki.openstreetmap.org/wiki/Tag:building=house"
+    },
+    "tag:building=houseboat": {
+        "message": "Abitacion sus l'aiga",
+        "description": "Tag \"building=houseboat\". See https://wiki.openstreetmap.org/wiki/Tag:building=houseboat"
+    },
+    "tag:building=hut": {
+        "message": "Tubanèu",
+        "description": "Tag \"building=hut\". See https://wiki.openstreetmap.org/wiki/Tag:building=hut"
+    },
+    "tag:building=industrial": {
+        "message": "Bastissa industriala",
+        "description": "Tag \"building=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:building=industrial"
+    },
+    "tag:building=kindergarten": {
+        "message": "Escòla mairala",
+        "description": "Tag \"building=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:building=kindergarten"
+    },
+    "tag:building=kiosk": {
+        "message": "Kiòsc",
+        "description": "Tag \"building=kiosk\". See https://wiki.openstreetmap.org/wiki/Tag:building=kiosk"
+    },
+    "tag:building=kitchen": {
+        "message": "Cosina",
+        "description": "Tag \"building=kitchen\". See https://wiki.openstreetmap.org/wiki/Tag:building=kitchen"
+    },
+    "tag:building=mall": {
+        "message": "Centre comerciau",
+        "description": "Tag \"building=mall\". See https://wiki.openstreetmap.org/wiki/Tag:building=mall"
+    },
+    "tag:building=military": {
+        "message": "Edifici militar",
+        "description": "Tag \"building=military\". See https://wiki.openstreetmap.org/wiki/Tag:building=military"
+    },
+    "tag:building=monastery": {
+        "message": "Monastier",
+        "description": "Tag \"building=monastery\". See https://wiki.openstreetmap.org/wiki/Tag:building=monastery"
+    },
+    "tag:building=mosque": {
+        "message": "Mosquèa",
+        "description": "Tag \"building=mosque\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque"
+    },
+    "tag:building=mosque religion=muslim": {
+        "message": "musulman",
+        "description": "Combined tag \"building=mosque\" and \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque and https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
+    },
+    "tag:building=office": {
+        "message": "Burèus / Oficis",
+        "description": "Tag \"building=office\". See https://wiki.openstreetmap.org/wiki/Tag:building=office"
+    },
+    "tag:building=parking": {
+        "message": "Aparcament",
+        "description": "Tag \"building=parking\". See https://wiki.openstreetmap.org/wiki/Tag:building=parking"
+    },
+    "tag:building=pavilion": {
+        "message": "Ostalet",
+        "description": "Tag \"building=pavilion\". See https://wiki.openstreetmap.org/wiki/Tag:building=pavilion"
+    },
+    "tag:building=public": {
+        "message": "Edifici public",
+        "description": "Tag \"building=public\". See https://wiki.openstreetmap.org/wiki/Tag:building=public"
+    },
+    "tag:building=religious": {
+        "message": "Edifici religiós",
+        "description": "Tag \"building=religious\". See https://wiki.openstreetmap.org/wiki/Tag:building=religious"
+    },
+    "tag:building=residential": {
+        "message": "Residéncias",
+        "description": "Tag \"building=residential\". See https://wiki.openstreetmap.org/wiki/Tag:building=residential"
+    },
+    "tag:building=retail": {
+        "message": "Comercis",
+        "description": "Tag \"building=retail\". See https://wiki.openstreetmap.org/wiki/Tag:building=retail"
+    },
+    "tag:building=riding_hall": {
+        "message": "Manètge",
+        "description": "Tag \"building=riding_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=riding_hall"
+    },
+    "tag:building=roof": {
+        "message": "Teulissa",
+        "description": "Tag \"building=roof\". See https://wiki.openstreetmap.org/wiki/Tag:building=roof"
+    },
+    "tag:building=ruins": {
+        "message": "Roïnas",
+        "description": "Tag \"building=ruins\". See https://wiki.openstreetmap.org/wiki/Tag:building=ruins"
+    },
+    "tag:building=school": {
+        "message": "Escòla",
+        "description": "Tag \"building=school\". See https://wiki.openstreetmap.org/wiki/Tag:building=school"
+    },
+    "tag:building=service": {
+        "message": "Bastiment de servicis",
+        "description": "Tag \"building=service\". See https://wiki.openstreetmap.org/wiki/Tag:building=service"
+    },
+    "tag:building=shed": {
+        "message": "Remesa/ Cabanon/ Barraca",
+        "description": "Tag \"building=shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=shed"
+    },
+    "tag:building=shop": {
+        "message": "Botiga",
+        "description": "Tag \"building=shop\". See https://wiki.openstreetmap.org/wiki/Tag:building=shop"
+    },
+    "tag:building=shrine": {
+        "message": "Sanctuari",
+        "description": "Tag \"building=shrine\". See https://wiki.openstreetmap.org/wiki/Tag:building=shrine"
+    },
+    "tag:building=silo": {
+        "message": "Silò",
+        "description": "Tag \"building=silo\". See https://wiki.openstreetmap.org/wiki/Tag:building=silo"
+    },
+    "tag:building=slurry_tank": {
+        "message": "Suelha",
+        "description": "Tag \"building=slurry_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=slurry_tank"
+    },
+    "tag:building=sports_hall": {
+        "message": "Sala d'espòrt",
+        "description": "Tag \"building=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=sports_hall"
+    },
+    "tag:building=stable": {
+        "message": "Estable",
+        "description": "Tag \"building=stable\". See https://wiki.openstreetmap.org/wiki/Tag:building=stable"
     }
 }
