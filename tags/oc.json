@@ -903,5 +903,149 @@
     "tag:building=stable": {
         "message": "Estable",
         "description": "Tag \"building=stable\". See https://wiki.openstreetmap.org/wiki/Tag:building=stable"
+    },
+    "tag:building=synagogue religion=jewish": {
+        "message": "Sinagòga",
+        "description": "Combined tag \"building=synagogue\" and \"religion=jewish\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue and https://wiki.openstreetmap.org/wiki/Tag:religion=jewish"
+    },
+    "tag:building=temple": {
+        "message": "Temple",
+        "description": "Tag \"building=temple\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple"
+    },
+    "tag:building=terrace": {
+        "message": "Ostaus mejanciers",
+        "description": "Tag \"building=terrace\". See https://wiki.openstreetmap.org/wiki/Tag:building=terrace"
+    },
+    "tag:building=toilets": {
+        "message": "Comuns",
+        "description": "Tag \"building=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:building=toilets"
+    },
+    "tag:building=train_station": {
+        "message": "Gara ferroviària",
+        "description": "Tag \"building=train_station\". See https://wiki.openstreetmap.org/wiki/Tag:building=train_station"
+    },
+    "tag:building=transformer_tower": {
+        "message": "Tranformador",
+        "description": "Tag \"building=transformer_tower\". See https://wiki.openstreetmap.org/wiki/Tag:building=transformer_tower"
+    },
+    "tag:building=transportation": {
+        "message": "Edifici de transpòrt public",
+        "description": "Tag \"building=transportation\". See https://wiki.openstreetmap.org/wiki/Tag:building=transportation"
+    },
+    "tag:building=university": {
+        "message": "Establiment universitari",
+        "description": "Tag \"building=university\". See https://wiki.openstreetmap.org/wiki/Tag:building=university"
+    },
+    "tag:building=warehouse": {
+        "message": "Entrepaus",
+        "description": "Tag \"building=warehouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=warehouse"
+    },
+    "tag:building=water_tower": {
+        "message": "Sèrva d’aiga",
+        "description": "Tag \"building=water_tower\". See https://wiki.openstreetmap.org/wiki/Tag:building=water_tower"
+    },
+    "tag:cables": {
+        "message": "Caus",
+        "description": "Key \"cables\". See https://wiki.openstreetmap.org/wiki/Key:cables"
+    },
+    "tag:capacity": {
+        "message": "Capacitat",
+        "description": "Key \"capacity\". See https://wiki.openstreetmap.org/wiki/Key:capacity"
+    },
+    "tag:charge": {
+        "message": "Còst",
+        "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
+    },
+    "tag:clothes": {
+        "message": "Vèstit",
+        "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=accessories": {
+        "message": "Ajusts",
+        "description": "Tag \"clothes=accessories\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=babies": {
+        "message": "Vèstits per leis enfantons",
+        "description": "Tag \"clothes=babies\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=bridal": {
+        "message": "Vèstit de nòvia",
+        "description": "Tag \"clothes=bridal\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=children": {
+        "message": "Vèstit per leis enfants",
+        "description": "Tag \"clothes=children\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=costumes": {
+        "message": "Àbits e Costumes",
+        "description": "Tag \"clothes=costumes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=denim": {
+        "message": "Blaus de Nimes",
+        "description": "Tag \"clothes=denim\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=fashion": {
+        "message": "Mòda",
+        "description": "Tag \"clothes=fashion\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=fur": {
+        "message": "Pelissas",
+        "description": "Tag \"clothes=fur\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=hats": {
+        "message": "Capèus",
+        "description": "Tag \"clothes=hats\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=leather": {
+        "message": "Cuer",
+        "description": "Tag \"clothes=leather\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=lingerie": {
+        "message": "Linjariá",
+        "description": "Tag \"clothes=lingerie\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=maternity": {
+        "message": "Vèstit de jacent",
+        "description": "Tag \"clothes=maternity\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=men": {
+        "message": "Vèstit per leis òmes",
+        "description": "Tag \"clothes=men\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=military": {
+        "message": "Àbits e Unifòrmes",
+        "description": "Tag \"clothes=military\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=motorcycle": {
+        "message": "Vèstit per la mòto",
+        "description": "Tag \"clothes=motorcycle\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=oversize": {
+        "message": "Vèstit de bèlei dimensions",
+        "description": "Tag \"clothes=oversize\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=schoolwear": {
+        "message": "Vèstit per l’escòla",
+        "description": "Tag \"clothes=schoolwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=sports": {
+        "message": "Abilhaments per l’espòrt",
+        "description": "Tag \"clothes=sports\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=suits": {
+        "message": "Costumes",
+        "description": "Tag \"clothes=suits\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=swimwear": {
+        "message": "Bralhetas de banhada",
+        "description": "Tag \"clothes=swimwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=traditional": {
+        "message": "Vèstit tradicionau",
+        "description": "Tag \"clothes=traditional\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=underwear": {
+        "message": "Vèstit de dessota",
+        "description": "Tag \"clothes=underwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     }
 }
