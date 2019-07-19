@@ -1047,5 +1047,9 @@
     "tag:clothes=underwear": {
         "message": "Vèstit de dessota",
         "description": "Tag \"clothes=underwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:building=synagogue": {
+        "message": "Sinagòga",
+        "description": "Tag \"building=synagogue\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue"
     }
 }
