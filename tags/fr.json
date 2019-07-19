@@ -2885,6 +2885,10 @@
         "message": "pente",
         "description": "Key \"incline\". See https://wiki.openstreetmap.org/wiki/Key:incline"
     },
+    "tag:information=audioguide": {
+        "message": "",
+        "description": "Tag \"information=audioguide\". See https://wiki.openstreetmap.org/wiki/Tag:information=audioguide"
+    },
     "tag:information=board": {
         "message": "Panneau d'information",
         "description": "Tag \"information=board\". See https://wiki.openstreetmap.org/wiki/Tag:information=board"
@@ -2900,6 +2904,26 @@
     "tag:information=office": {
         "message": "Office de tourisme",
         "description": "Tag \"information=office\". See https://wiki.openstreetmap.org/wiki/Tag:information=office"
+    },
+    "tag:information=route_marker": {
+        "message": "",
+        "description": "Tag \"information=route_marker\". See https://wiki.openstreetmap.org/wiki/Tag:information=route_marker"
+    },
+    "tag:information=tactile_map": {
+        "message": "",
+        "description": "Tag \"information=tactile_map\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_map"
+    },
+    "tag:information=tactile_model": {
+        "message": "",
+        "description": "Tag \"information=tactile_model\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_model"
+    },
+    "tag:information=terminal": {
+        "message": "",
+        "description": "Tag \"information=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:information=terminal"
+    },
+    "tag:information=trail_blaze": {
+        "message": "",
+        "description": "Tag \"information=trail_blaze\". See https://wiki.openstreetmap.org/wiki/Tag:information=trail_blaze"
     },
     "tag:inscription": {
         "message": "Inscription",

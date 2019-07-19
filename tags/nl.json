@@ -624,6 +624,10 @@
         "message": "Verdiepingen",
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
+    "tag:building=agriculture": {
+        "message": "Landbouw gebouw",
+        "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
+    },
     "tag:building=apartments": {
         "message": "Appartementen",
         "description": "Tag \"building=apartments\". See https://wiki.openstreetmap.org/wiki/Tag:building=apartments"
@@ -2885,6 +2889,10 @@
         "message": "Hellend",
         "description": "Key \"incline\". See https://wiki.openstreetmap.org/wiki/Key:incline"
     },
+    "tag:information=audioguide": {
+        "message": "",
+        "description": "Tag \"information=audioguide\". See https://wiki.openstreetmap.org/wiki/Tag:information=audioguide"
+    },
     "tag:information=board": {
         "message": "",
         "description": "Tag \"information=board\". See https://wiki.openstreetmap.org/wiki/Tag:information=board"
@@ -2900,6 +2908,26 @@
     "tag:information=office": {
         "message": "",
         "description": "Tag \"information=office\". See https://wiki.openstreetmap.org/wiki/Tag:information=office"
+    },
+    "tag:information=route_marker": {
+        "message": "",
+        "description": "Tag \"information=route_marker\". See https://wiki.openstreetmap.org/wiki/Tag:information=route_marker"
+    },
+    "tag:information=tactile_map": {
+        "message": "",
+        "description": "Tag \"information=tactile_map\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_map"
+    },
+    "tag:information=tactile_model": {
+        "message": "",
+        "description": "Tag \"information=tactile_model\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_model"
+    },
+    "tag:information=terminal": {
+        "message": "",
+        "description": "Tag \"information=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:information=terminal"
+    },
+    "tag:information=trail_blaze": {
+        "message": "",
+        "description": "Tag \"information=trail_blaze\". See https://wiki.openstreetmap.org/wiki/Tag:information=trail_blaze"
     },
     "tag:inscription": {
         "message": "",
@@ -6012,9 +6040,5 @@
     "tag:xmas:feature=tree": {
         "message": "Kerstboom",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
-    },
-    "tag:building=agriculture": {
-        "message": "Landbouw gebouw",
-        "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
     }
 }
