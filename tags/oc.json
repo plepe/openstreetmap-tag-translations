@@ -101,7 +101,7 @@
         "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=7.5": {
-        "message": "Comunautat de comunas / d'aglomeracion (7.5)",
+        "message": "Limits d'aglomeracion (7.5)",
         "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
     },
     "tag:admin_level=8": {
@@ -1091,5 +1091,1250 @@
     "tag:network=rwn": {
         "message": "Itinerari de caminada regionau",
         "description": "Tag \"network=rwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=rwn"
+    },
+    "tag:bath:type=onsen": {
+        "message": "Onsen",
+        "description": "Tag \"bath:type=onsen\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=onsen"
+    },
+    "tag:building=semidetached_house": {
+        "message": "Escart",
+        "description": "Tag \"building=semidetached_house\". See https://wiki.openstreetmap.org/wiki/Tag:building=semidetached_house"
+    },
+    "tag:building=stadium": {
+        "message": "Estadi",
+        "description": "Tag \"building=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:building=stadium"
+    },
+    "tag:building=static_caravan": {
+        "message": "Caravana fixa",
+        "description": "Tag \"building=static_caravan\". See https://wiki.openstreetmap.org/wiki/Tag:building=static_caravan"
+    },
+    "tag:building=storage_tank": {
+        "message": "Sèrva",
+        "description": "Tag \"building=storage_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=storage_tank"
+    },
+    "tag:building=sty": {
+        "message": "Porcieu",
+        "description": "Tag \"building=sty\". See https://wiki.openstreetmap.org/wiki/Tag:building=sty"
+    },
+    "tag:building=supermarket": {
+        "message": "Supermercat",
+        "description": "Tag \"building=supermarket\". See https://wiki.openstreetmap.org/wiki/Tag:building=supermarket"
+    },
+    "tag:building=temple religion=sikh": {
+        "message": "Temple Sikh",
+        "description": "Combined tag \"building=temple\" and \"religion=sikh\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple and https://wiki.openstreetmap.org/wiki/Tag:religion=sikh"
+    },
+    "tag:building=trullo": {
+        "message": "Trullo",
+        "description": "Tag \"building=trullo\". See https://wiki.openstreetmap.org/wiki/Tag:building=trullo"
+    },
+    "tag:clothes=brand": {
+        "message": "Marca",
+        "description": "Tag \"clothes=brand\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=unisexs": {
+        "message": "Vèstits unisèxes",
+        "description": "Tag \"clothes=unisexs\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=vintage": {
+        "message": "Vèstits deis annadas vint",
+        "description": "Tag \"clothes=vintage\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=wedding": {
+        "message": "Vèstits de nòça",
+        "description": "Tag \"clothes=wedding\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=women": {
+        "message": "Vèstits de frema",
+        "description": "Tag \"clothes=women\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=workwear": {
+        "message": "Vèstits per trabalhar",
+        "description": "Tag \"clothes=workwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:community_centre=club_home": {
+        "message": "Locau associatiu",
+        "description": "Tag \"community_centre=club_home\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=club_home"
+    },
+    "tag:community_centre=community_hall": {
+        "message": "Sala municipala",
+        "description": "Tag \"community_centre=community_hall\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=community_hall"
+    },
+    "tag:community_centre=cultural_centre": {
+        "message": "Centre culturau",
+        "description": "Tag \"community_centre=cultural_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=cultural_centre"
+    },
+    "tag:community_centre=environment_centre": {
+        "message": "Centre per l’environament",
+        "description": "Tag \"community_centre=environment_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=environment_centre"
+    },
+    "tag:community_centre=events_venue": {
+        "message": "Accuelh d’eveniments",
+        "description": "Tag \"community_centre=events_venue\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=events_venue"
+    },
+    "tag:community_centre=family_centre": {
+        "message": "Centre familiau",
+        "description": "Tag \"community_centre=family_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=family_centre"
+    },
+    "tag:community_centre=language_centre": {
+        "message": "Centre linguistic",
+        "description": "Tag \"community_centre=language_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=language_centre"
+    },
+    "tag:community_centre=meeting_room": {
+        "message": "Luòc de rescòntre",
+        "description": "Tag \"community_centre=meeting_room\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=meeting_room"
+    },
+    "tag:community_centre=parish_hall": {
+        "message": "Centre parroquiau",
+        "description": "Tag \"community_centre=parish_hall\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=parish_hall"
+    },
+    "tag:community_centre=village_hall": {
+        "message": "Sala dei fèstas / polivalenta",
+        "description": "Tag \"community_centre=village_hall\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=village_hall"
+    },
+    "tag:community_centre=youth_centre": {
+        "message": "Centre de lesers per la joventut",
+        "description": "Tag \"community_centre=youth_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=youth_centre"
+    },
+    "tag:construction": {
+        "message": "Construccion",
+        "description": "Key \"construction\". See https://wiki.openstreetmap.org/wiki/Key:construction"
+    },
+    "tag:covered": {
+        "message": "Cobèrt",
+        "description": "Key \"covered\". See https://wiki.openstreetmap.org/wiki/Key:covered"
+    },
+    "tag:craft": {
+        "message": "Artesanat / Mestierau",
+        "description": "Key \"craft\". See https://wiki.openstreetmap.org/wiki/Key:craft"
+    },
+    "tag:craft=agricultural_engines": {
+        "message": "Fabricant d’engenhs agricolas",
+        "description": "Tag \"craft=agricultural_engines\". See https://wiki.openstreetmap.org/wiki/Tag:craft=agricultural_engines"
+    },
+    "tag:craft=artist": {
+        "message": "Artista",
+        "description": "Tag \"craft=artist\". See https://wiki.openstreetmap.org/wiki/Tag:craft=artist"
+    },
+    "tag:craft=bakery": {
+        "message": "Fornier",
+        "description": "Tag \"craft=bakery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=bakery"
+    },
+    "tag:craft=basket_maker": {
+        "message": "Panieraire",
+        "description": "Tag \"craft=basket_maker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=basket_maker"
+    },
+    "tag:craft=beekeeper": {
+        "message": "Abelhier",
+        "description": "Tag \"craft=beekeeper\". See https://wiki.openstreetmap.org/wiki/Tag:craft=beekeeper"
+    },
+    "tag:craft=blacksmith": {
+        "message": "Fabre",
+        "description": "Tag \"craft=blacksmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=blacksmith"
+    },
+    "tag:craft=boatbuilder": {
+        "message": "Fustier de marina",
+        "description": "Tag \"craft=boatbuilder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=boatbuilder"
+    },
+    "tag:craft=bookbinder": {
+        "message": "Religaire",
+        "description": "Tag \"craft=bookbinder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=bookbinder"
+    },
+    "tag:craft=brewery": {
+        "message": "Brassariá",
+        "description": "Tag \"craft=brewery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=brewery"
+    },
+    "tag:craft=builder": {
+        "message": "Bastisseire (mestierau)",
+        "description": "Tag \"craft=builder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=builder"
+    },
+    "tag:craft=cabinet_maker": {
+        "message": "Ebenista",
+        "description": "Tag \"craft=cabinet_maker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=cabinet_maker"
+    },
+    "tag:craft=car_painter": {
+        "message": "Pintre per veïculs",
+        "description": "Tag \"craft=car_painter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=car_painter"
+    },
+    "tag:craft=car_repair": {
+        "message": "Garatgista",
+        "description": "Tag \"craft=car_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=car_repair"
+    },
+    "tag:craft=carpenter": {
+        "message": "Fustier carpentier",
+        "description": "Tag \"craft=carpenter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=carpenter"
+    },
+    "tag:craft=carpet_layer": {
+        "message": "Moquetaire",
+        "description": "Tag \"craft=carpet_layer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=carpet_layer"
+    },
+    "tag:craft=caterer": {
+        "message": "Rostisseire",
+        "description": "Tag \"craft=caterer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=caterer"
+    },
+    "tag:craft=ceramist": {
+        "message": "Terralhier",
+        "description": "Tag \"craft=ceramist\". See https://wiki.openstreetmap.org/wiki/Tag:craft=ceramist"
+    },
+    "tag:craft=chimney_sweeper": {
+        "message": "Rasclachaminèia",
+        "description": "Tag \"craft=chimney_sweeper\". See https://wiki.openstreetmap.org/wiki/Tag:craft=chimney_sweeper"
+    },
+    "tag:craft=cleaning": {
+        "message": "Netejatge",
+        "description": "Tag \"craft=cleaning\". See https://wiki.openstreetmap.org/wiki/Tag:craft=cleaning"
+    },
+    "tag:craft=clockmaker": {
+        "message": "Relotgier",
+        "description": "Tag \"craft=clockmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=clockmaker"
+    },
+    "tag:craft=computer": {
+        "message": "Especialista en informatica",
+        "description": "Tag \"craft=computer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=computer"
+    },
+    "tag:craft=confectionery": {
+        "message": "Confisariá",
+        "description": "Tag \"craft=confectionery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=confectionery"
+    },
+    "tag:craft=construction": {
+        "message": "Construccion",
+        "description": "Tag \"craft=construction\". See https://wiki.openstreetmap.org/wiki/Tag:craft=construction"
+    },
+    "tag:craft=dental_technician": {
+        "message": "Tecnician/ Protesista dentari",
+        "description": "Tag \"craft=dental_technician\". See https://wiki.openstreetmap.org/wiki/Tag:craft=dental_technician"
+    },
+    "tag:craft=distillery": {
+        "message": "Destillariá",
+        "description": "Tag \"craft=distillery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=distillery"
+    },
+    "tag:craft=dressmaker": {
+        "message": "Sartre",
+        "description": "Tag \"craft=dressmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=dressmaker"
+    },
+    "tag:craft=electrician": {
+        "message": "Electrician",
+        "description": "Tag \"craft=electrician\". See https://wiki.openstreetmap.org/wiki/Tag:craft=electrician"
+    },
+    "tag:craft=electronics_repair": {
+        "message": "Reparacion electronica",
+        "description": "Tag \"craft=electronics_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=electronics_repair"
+    },
+    "tag:craft=embroidery": {
+        "message": "Brodaire, -ra",
+        "description": "Tag \"craft=embroidery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=embroidery"
+    },
+    "tag:craft=engraver": {
+        "message": "Gravaire, -ra / Escrincelaire, -ra",
+        "description": "Tag \"craft=engraver\". See https://wiki.openstreetmap.org/wiki/Tag:craft=engraver"
+    },
+    "tag:craft=floorer": {
+        "message": "Revestiment de sòu e parets",
+        "description": "Tag \"craft=floorer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=floorer"
+    },
+    "tag:craft=furniture": {
+        "message": "Amoblament",
+        "description": "Tag \"craft=furniture\". See https://wiki.openstreetmap.org/wiki/Tag:craft=furniture"
+    },
+    "tag:craft=gardener": {
+        "message": "Jardinier",
+        "description": "Tag \"craft=gardener\". See https://wiki.openstreetmap.org/wiki/Tag:craft=gardener"
+    },
+    "tag:craft=glass": {
+        "message": "Vitrariá",
+        "description": "Tag \"craft=glass\". See https://wiki.openstreetmap.org/wiki/Tag:craft=glass"
+    },
+    "tag:craft=glaziery": {
+        "message": "Vitrariá",
+        "description": "Tag \"craft=glaziery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=glaziery"
+    },
+    "tag:craft=goldsmith": {
+        "message": "Orfèbre",
+        "description": "Tag \"craft=goldsmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=goldsmith"
+    },
+    "tag:craft=graphic_design": {
+        "message": "Dessenh grafic",
+        "description": "Tag \"craft=graphic_design\". See https://wiki.openstreetmap.org/wiki/Tag:craft=graphic_design"
+    },
+    "tag:craft=grinding_mill": {
+        "message": "Molin",
+        "description": "Tag \"craft=grinding_mill\". See https://wiki.openstreetmap.org/wiki/Tag:craft=grinding_mill"
+    },
+    "tag:craft=handicraft": {
+        "message": "Fabricacion de mestierau",
+        "description": "Tag \"craft=handicraft\". See https://wiki.openstreetmap.org/wiki/Tag:craft=handicraft"
+    },
+    "tag:craft=heating_engineer": {
+        "message": "Caufagista",
+        "description": "Tag \"craft=heating_engineer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=heating_engineer"
+    },
+    "tag:craft=hvac": {
+        "message": "Tecnician Climatisacion-Isolacion-Caufatge",
+        "description": "Tag \"craft=hvac\". See https://wiki.openstreetmap.org/wiki/Tag:craft=hvac"
+    },
+    "tag:craft=insulation": {
+        "message": "Tecnician per l’isolacion",
+        "description": "Tag \"craft=insulation\". See https://wiki.openstreetmap.org/wiki/Tag:craft=insulation"
+    },
+    "tag:craft=iron_craftsman": {
+        "message": "Fabre",
+        "description": "Tag \"craft=iron_craftsman\". See https://wiki.openstreetmap.org/wiki/Tag:craft=iron_craftsman"
+    },
+    "tag:craft=jeweller": {
+        "message": "Joelier",
+        "description": "Tag \"craft=jeweller\". See https://wiki.openstreetmap.org/wiki/Tag:craft=jeweller"
+    },
+    "tag:craft=joiner": {
+        "message": "Fustier",
+        "description": "Tag \"craft=joiner\". See https://wiki.openstreetmap.org/wiki/Tag:craft=joiner"
+    },
+    "tag:craft=juice_bottler": {
+        "message": "Embotelhament de suc",
+        "description": "Tag \"craft=juice_bottler\". See https://wiki.openstreetmap.org/wiki/Tag:craft=juice_bottler"
+    },
+    "tag:craft=key_cutter": {
+        "message": "Reproduccion de claus",
+        "description": "Tag \"craft=key_cutter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=key_cutter"
+    },
+    "tag:craft=laboratory": {
+        "message": "Laboratòri",
+        "description": "Tag \"craft=laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:craft=laboratory"
+    },
+    "tag:craft=leather": {
+        "message": "Marroquinier",
+        "description": "Tag \"craft=leather\". See https://wiki.openstreetmap.org/wiki/Tag:craft=leather"
+    },
+    "tag:craft=locksmith": {
+        "message": "Sarralhier",
+        "description": "Tag \"craft=locksmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=locksmith"
+    },
+    "tag:craft=luthier": {
+        "message": "Laütier",
+        "description": "Tag \"craft=luthier\". See https://wiki.openstreetmap.org/wiki/Tag:craft=luthier"
+    },
+    "tag:craft=mason": {
+        "message": "Maçon",
+        "description": "Tag \"craft=mason\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mason"
+    },
+    "tag:craft=metal_construction": {
+        "message": "Construccions metallicas",
+        "description": "Tag \"craft=metal_construction\". See https://wiki.openstreetmap.org/wiki/Tag:craft=metal_construction"
+    },
+    "tag:craft=metal_works": {
+        "message": "Metallier",
+        "description": "Tag \"craft=metal_works\". See https://wiki.openstreetmap.org/wiki/Tag:craft=metal_works"
+    },
+    "tag:craft=mint": {
+        "message": "Monedaire",
+        "description": "Tag \"craft=mint\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mint"
+    },
+    "tag:craft=mobile_phone": {
+        "message": "Reparacion de telefonets",
+        "description": "Tag \"craft=mobile_phone\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mobile_phone"
+    },
+    "tag:craft=model_maker": {
+        "message": "Maquetista",
+        "description": "Tag \"craft=model_maker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=model_maker"
+    },
+    "tag:craft=musical_instrument": {
+        "message": "Faseire d’instruments de musica",
+        "description": "Tag \"craft=musical_instrument\". See https://wiki.openstreetmap.org/wiki/Tag:craft=musical_instrument"
+    },
+    "tag:craft=optician": {
+        "message": "Optician",
+        "description": "Tag \"craft=optician\". See https://wiki.openstreetmap.org/wiki/Tag:craft=optician"
+    },
+    "tag:craft=organ_builder": {
+        "message": "Faseire d’orguena",
+        "description": "Tag \"craft=organ_builder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=organ_builder"
+    },
+    "tag:craft=painter": {
+        "message": "Pintre de bastissas",
+        "description": "Tag \"craft=painter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=painter"
+    },
+    "tag:craft=parquet_layer": {
+        "message": "Postamier",
+        "description": "Tag \"craft=parquet_layer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=parquet_layer"
+    },
+    "tag:craft=paver": {
+        "message": "Caladaire",
+        "description": "Tag \"craft=paver\". See https://wiki.openstreetmap.org/wiki/Tag:craft=paver"
+    },
+    "tag:craft=photo_studio": {
+        "message": "Estúdio fotografic",
+        "description": "Tag \"craft=photo_studio\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photo_studio"
+    },
+    "tag:craft=photographer": {
+        "message": "Fotograf",
+        "description": "Tag \"craft=photographer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photographer"
+    },
+    "tag:craft=photographic_laboratory": {
+        "message": "Laboratòri fòto",
+        "description": "Tag \"craft=photographic_laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photographic_laboratory"
+    },
+    "tag:craft=piano_tuner": {
+        "message": "Accordaire de piano",
+        "description": "Tag \"craft=piano_tuner\". See https://wiki.openstreetmap.org/wiki/Tag:craft=piano_tuner"
+    },
+    "tag:craft=plasterer": {
+        "message": "Gipier",
+        "description": "Tag \"craft=plasterer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=plasterer"
+    },
+    "tag:craft=plumber": {
+        "message": "Plombier",
+        "description": "Tag \"craft=plumber\". See https://wiki.openstreetmap.org/wiki/Tag:craft=plumber"
+    },
+    "tag:craft=pottery": {
+        "message": "Terralhier",
+        "description": "Tag \"craft=pottery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=pottery"
+    },
+    "tag:craft=print_shop": {
+        "message": "Estampariá",
+        "description": "Tag \"craft=print_shop\". See https://wiki.openstreetmap.org/wiki/Tag:craft=print_shop"
+    },
+    "tag:craft=printer": {
+        "message": "Estampaire",
+        "description": "Tag \"craft=printer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=printer"
+    },
+    "tag:craft=printmaker": {
+        "message": "Estampaire d’art",
+        "description": "Tag \"craft=printmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=printmaker"
+    },
+    "tag:craft=repair": {
+        "message": "Reparator",
+        "description": "Tag \"craft=repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=repair"
+    },
+    "tag:craft=restoration": {
+        "message": "Restaurator",
+        "description": "Tag \"craft=restoration\". See https://wiki.openstreetmap.org/wiki/Tag:craft=restoration"
+    },
+    "tag:craft=rigger": {
+        "message": "Aparelhaire",
+        "description": "Tag \"craft=rigger\". See https://wiki.openstreetmap.org/wiki/Tag:craft=rigger"
+    },
+    "tag:craft=roofer": {
+        "message": "Teulissier",
+        "description": "Tag \"craft=roofer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=roofer"
+    },
+    "tag:craft=saddler": {
+        "message": "Selier",
+        "description": "Tag \"craft=saddler\". See https://wiki.openstreetmap.org/wiki/Tag:craft=saddler"
+    },
+    "tag:craft=sailmaker": {
+        "message": "Cordurier de velas",
+        "description": "Tag \"craft=sailmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sailmaker"
+    },
+    "tag:craft=sawmill": {
+        "message": "Rèssa",
+        "description": "Tag \"craft=sawmill\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sawmill"
+    },
+    "tag:craft=scaffolder": {
+        "message": "Estajaire",
+        "description": "Tag \"craft=scaffolder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=scaffolder"
+    },
+    "tag:craft=sculptor": {
+        "message": "Escaupraire",
+        "description": "Tag \"craft=sculptor\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sculptor"
+    },
+    "tag:craft=shoe_repair": {
+        "message": "Pegòt",
+        "description": "Tag \"craft=shoe_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=shoe_repair"
+    },
+    "tag:craft=shoemaker": {
+        "message": "Sabatier",
+        "description": "Tag \"craft=shoemaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=shoemaker"
+    },
+    "tag:craft=signmaker": {
+        "message": "Senhaire",
+        "description": "Tag \"craft=signmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=signmaker"
+    },
+    "tag:craft=stand_builder": {
+        "message": "Estandardista",
+        "description": "Tag \"craft=stand_builder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=stand_builder"
+    },
+    "tag:craft=stonemason": {
+        "message": "Talhaire",
+        "description": "Tag \"craft=stonemason\". See https://wiki.openstreetmap.org/wiki/Tag:craft=stonemason"
+    },
+    "tag:craft=sun_protection": {
+        "message": "Proteccions solaras",
+        "description": "Tag \"craft=sun_protection\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sun_protection"
+    },
+    "tag:craft=tailor": {
+        "message": "Sartre",
+        "description": "Tag \"craft=tailor\". See https://wiki.openstreetmap.org/wiki/Tag:craft=tailor"
+    },
+    "tag:craft=tiler": {
+        "message": "Malonaire",
+        "description": "Tag \"craft=tiler\". See https://wiki.openstreetmap.org/wiki/Tag:craft=tiler"
+    },
+    "tag:craft=tinsmith": {
+        "message": "Ferblanquier / Estamaire",
+        "description": "Tag \"craft=tinsmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=tinsmith"
+    },
+    "tag:craft=toolmaker": {
+        "message": "Fabregaire d’instruments e de maquinas",
+        "description": "Tag \"craft=toolmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=toolmaker"
+    },
+    "tag:craft=turner": {
+        "message": "Tornejaire",
+        "description": "Tag \"craft=turner\". See https://wiki.openstreetmap.org/wiki/Tag:craft=turner"
+    },
+    "tag:craft=upholsterer": {
+        "message": "Tapissier garnisseire",
+        "description": "Tag \"craft=upholsterer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=upholsterer"
+    },
+    "tag:craft=varnisher": {
+        "message": "Envernisseire",
+        "description": "Tag \"craft=varnisher\". See https://wiki.openstreetmap.org/wiki/Tag:craft=varnisher"
+    },
+    "tag:craft=watchmaker": {
+        "message": "Relotgier",
+        "description": "Tag \"craft=watchmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=watchmaker"
+    },
+    "tag:craft=welder": {
+        "message": "Sodaire",
+        "description": "Tag \"craft=welder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=welder"
+    },
+    "tag:craft=window_construction": {
+        "message": "Fenestrier",
+        "description": "Tag \"craft=window_construction\". See https://wiki.openstreetmap.org/wiki/Tag:craft=window_construction"
+    },
+    "tag:craft=winery": {
+        "message": "Chai",
+        "description": "Tag \"craft=winery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=winery"
+    },
+    "tag:created_by": {
+        "message": "Creat per",
+        "description": "Key \"created_by\". See https://wiki.openstreetmap.org/wiki/Key:created_by"
+    },
+    "tag:cuisine": {
+        "message": "Cosina",
+        "description": "Key \"cuisine\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine/dessert": {
+        "message": "Dessèrt"
+    },
+    "tag:cuisine/ethnicity": {
+        "message": "Cosina (etnicitat)"
+    },
+    "tag:cuisine/food": {
+        "message": "Aliments"
+    },
+    "tag:cuisine=afghan": {
+        "message": "afgana",
+        "description": "Tag \"cuisine=afghan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=african": {
+        "message": "africana",
+        "description": "Tag \"cuisine=african\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=american": {
+        "message": "americana",
+        "description": "Tag \"cuisine=american\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=arab": {
+        "message": "araba",
+        "description": "Tag \"cuisine=arab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=argentinian": {
+        "message": "argentina",
+        "description": "Tag \"cuisine=argentinian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=asian": {
+        "message": "asiatica",
+        "description": "Tag \"cuisine=asian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=australian": {
+        "message": "autraliana",
+        "description": "Tag \"cuisine=australian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=austrian": {
+        "message": "autrichiana",
+        "description": "Tag \"cuisine=austrian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=bagel": {
+        "message": "bagel",
+        "description": "Tag \"cuisine=bagel\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=baiana": {
+        "message": "baianesa",
+        "description": "Tag \"cuisine=baiana\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=balkan": {
+        "message": "balcanica",
+        "description": "Tag \"cuisine=balkan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=barbecue": {
+        "message": "Barbacoa (A la grasilha)",
+        "description": "Tag \"cuisine=barbecue\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=basque": {
+        "message": "basca",
+        "description": "Tag \"cuisine=basque\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=bavarian": {
+        "message": "bavaresa",
+        "description": "Tag \"cuisine=bavarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=belarusan": {
+        "message": "bielorussa",
+        "description": "Tag \"cuisine=belarusan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=biscuit": {
+        "message": "bescuech",
+        "description": "Tag \"cuisine=biscuit\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=bolivian": {
+        "message": "boliviana",
+        "description": "Tag \"cuisine=bolivian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=bougatsa": {
+        "message": "bogatsa",
+        "description": "Tag \"cuisine=bougatsa\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=brazilian": {
+        "message": "bresiliana",
+        "description": "Tag \"cuisine=brazilian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=burger": {
+        "message": "borgers",
+        "description": "Tag \"cuisine=burger\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=cake": {
+        "message": "pastissariás",
+        "description": "Tag \"cuisine=cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=cantonese": {
+        "message": "cantonesa",
+        "description": "Tag \"cuisine=cantonese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=capixaba": {
+        "message": "capixaba",
+        "description": "Tag \"cuisine=capixaba\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=caribbean": {
+        "message": "caribeana",
+        "description": "Tag \"cuisine=caribbean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=caribean": {
+        "message": "caribeana",
+        "description": "Tag \"cuisine=caribean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=casserole": {
+        "message": "caçòla",
+        "description": "Tag \"cuisine=casserole\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=chicken": {
+        "message": "polet",
+        "description": "Tag \"cuisine=chicken\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=chimney_cake": {
+        "message": "kürtőskalács",
+        "description": "Tag \"cuisine=chimney_cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=chinese": {
+        "message": "chinesa",
+        "description": "Tag \"cuisine=chinese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=coffee": {
+        "message": "cafè",
+        "description": "Tag \"cuisine=coffee\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=coffee_shop": {
+        "message": "cafè",
+        "description": "Tag \"cuisine=coffee_shop\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=cookie": {
+        "message": "còca",
+        "description": "Tag \"cuisine=cookie\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=couscous": {
+        "message": "cóscos",
+        "description": "Tag \"cuisine=couscous\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=crepe": {
+        "message": "crespèu",
+        "description": "Tag \"cuisine=crepe\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=croatian": {
+        "message": "croata",
+        "description": "Tag \"cuisine=croatian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=curry": {
+        "message": "carri",
+        "description": "Tag \"cuisine=curry\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=czech": {
+        "message": "tchèca",
+        "description": "Tag \"cuisine=czech\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=danish": {
+        "message": "danesa",
+        "description": "Tag \"cuisine=danish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=dessert": {
+        "message": "dessèrt",
+        "description": "Tag \"cuisine=dessert\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=donut": {
+        "message": "bonhetas",
+        "description": "Tag \"cuisine=donut\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=empanada": {
+        "message": "empanadas",
+        "description": "Tag \"cuisine=empanada\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=fish": {
+        "message": "peis",
+        "description": "Tag \"cuisine=fish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=fish_and_chips": {
+        "message": "fish and chips",
+        "description": "Tag \"cuisine=fish_and_chips\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=french": {
+        "message": "francesa",
+        "description": "Tag \"cuisine=french\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=fried_food": {
+        "message": "fregidura",
+        "description": "Tag \"cuisine=fried_food\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=friture": {
+        "message": "fregidura",
+        "description": "Tag \"cuisine=friture\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=frozen_yogurt": {
+        "message": "iaort glaçat",
+        "description": "Tag \"cuisine=frozen_yogurt\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=gaucho": {
+        "message": "gaucho",
+        "description": "Tag \"cuisine=gaucho\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=german": {
+        "message": "alemanda",
+        "description": "Tag \"cuisine=german\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=gingerbread": {
+        "message": "pan de mèu",
+        "description": "Tag \"cuisine=gingerbread\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=greek": {
+        "message": "grèca",
+        "description": "Tag \"cuisine=greek\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=gyros": {
+        "message": "gyros (entrepan grèc)",
+        "description": "Tag \"cuisine=gyros\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=hawaiian": {
+        "message": "haoaiana",
+        "description": "Tag \"cuisine=hawaiian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=hunan": {
+        "message": "hunan",
+        "description": "Tag \"cuisine=hunan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=hungarian": {
+        "message": "ongaresa",
+        "description": "Tag \"cuisine=hungarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=ice_cream": {
+        "message": "glacets",
+        "description": "Tag \"cuisine=ice_cream\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=indian": {
+        "message": "indiana",
+        "description": "Tag \"cuisine=indian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=international": {
+        "message": "internacionala",
+        "description": "Tag \"cuisine=international\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=iranian": {
+        "message": "iraniana",
+        "description": "Tag \"cuisine=iranian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=italian": {
+        "message": "italiana",
+        "description": "Tag \"cuisine=italian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=japanese": {
+        "message": "japonesa",
+        "description": "Tag \"cuisine=japanese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=jewish": {
+        "message": "josieva",
+        "description": "Tag \"cuisine=jewish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=juice": {
+        "message": "suc",
+        "description": "Tag \"cuisine=juice\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=kebab": {
+        "message": "kebab (grasilhadas orientalas)",
+        "description": "Tag \"cuisine=kebab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=korean": {
+        "message": "coreana",
+        "description": "Tag \"cuisine=korean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=kyo_ryouri": {
+        "message": "kyo ryori",
+        "description": "Tag \"cuisine=kyo_ryouri\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=langos": {
+        "message": "lángos",
+        "description": "Tag \"cuisine=langos\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=latin_american": {
+        "message": "latinoamericana",
+        "description": "Tag \"cuisine=latin_american\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=lebanese": {
+        "message": "libanesa",
+        "description": "Tag \"cuisine=lebanese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=local": {
+        "message": "locala",
+        "description": "Tag \"cuisine=local\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=malagasy": {
+        "message": "malgacha",
+        "description": "Tag \"cuisine=malagasy\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=mediterranean": {
+        "message": "mediterranenca",
+        "description": "Tag \"cuisine=mediterranean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=mexican": {
+        "message": "mexicana",
+        "description": "Tag \"cuisine=mexican\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=mineira": {
+        "message": "mineira",
+        "description": "Tag \"cuisine=mineira\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=new_mexican": {
+        "message": "neomexicana",
+        "description": "Tag \"cuisine=new_mexican\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=noodle": {
+        "message": "pasta",
+        "description": "Tag \"cuisine=noodle\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=okinawa_ryori": {
+        "message": "okinawa ryori",
+        "description": "Tag \"cuisine=okinawa_ryori\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pakistani": {
+        "message": "paquistanesa",
+        "description": "Tag \"cuisine=pakistani\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pancake": {
+        "message": "crespèus americans (pancakes)",
+        "description": "Tag \"cuisine=pancake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pasta": {
+        "message": "pasta",
+        "description": "Tag \"cuisine=pasta\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pastry": {
+        "message": "pastissariá",
+        "description": "Tag \"cuisine=pastry\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=peruvian": {
+        "message": "peruviana",
+        "description": "Tag \"cuisine=peruvian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=petit_four": {
+        "message": "pèças de forn",
+        "description": "Tag \"cuisine=petit_four\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pizza": {
+        "message": "pissaladiera, pizza",
+        "description": "Tag \"cuisine=pizza\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pogacha": {
+        "message": "pogača",
+        "description": "Tag \"cuisine=pogacha\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=polish": {
+        "message": "polonesa",
+        "description": "Tag \"cuisine=polish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=poppy_seed_roll": {
+        "message": "makowiec",
+        "description": "Tag \"cuisine=poppy_seed_roll\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=portuguese": {
+        "message": "portuguesa",
+        "description": "Tag \"cuisine=portuguese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=regional": {
+        "message": "regionala",
+        "description": "Tag \"cuisine=regional\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=rhenish": {
+        "message": "renana",
+        "description": "Tag \"cuisine=rhenish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=russian": {
+        "message": "russa",
+        "description": "Tag \"cuisine=russian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=salad": {
+        "message": "ensaladas",
+        "description": "Tag \"cuisine=salad\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=sandwich": {
+        "message": "entrepans",
+        "description": "Tag \"cuisine=sandwich\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=sausage": {
+        "message": "saussissas",
+        "description": "Tag \"cuisine=sausage\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=seafood": {
+        "message": "crustacèus e cauquilhatges de mar",
+        "description": "Tag \"cuisine=seafood\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=shandong": {
+        "message": "chandong",
+        "description": "Tag \"cuisine=shandong\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=sichuan": {
+        "message": "sichuan",
+        "description": "Tag \"cuisine=sichuan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=soup": {
+        "message": "sopas",
+        "description": "Tag \"cuisine=soup\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=spanish": {
+        "message": "espanhòla",
+        "description": "Tag \"cuisine=spanish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=steak_house": {
+        "message": "grasilhadas",
+        "description": "Tag \"cuisine=steak_house\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=strudel": {
+        "message": "strudel",
+        "description": "Tag \"cuisine=strudel\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=sushi": {
+        "message": "sochis",
+        "description": "Tag \"cuisine=sushi\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=tapas": {
+        "message": "tapas",
+        "description": "Tag \"cuisine=tapas\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=teahouse": {
+        "message": "salon de te",
+        "description": "Tag \"cuisine=teahouse\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=tex-mex": {
+        "message": "tex-mex",
+        "description": "Tag \"cuisine=tex-mex\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=texan": {
+        "message": "texana",
+        "description": "Tag \"cuisine=texan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=thai": {
+        "message": "thaï",
+        "description": "Tag \"cuisine=thai\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=turkish": {
+        "message": "turca",
+        "description": "Tag \"cuisine=turkish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=vegan": {
+        "message": "vegan",
+        "description": "Tag \"cuisine=vegan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=vegetarian": {
+        "message": "vegetariana",
+        "description": "Tag \"cuisine=vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=vietnamese": {
+        "message": "vietnamiana",
+        "description": "Tag \"cuisine=vietnamese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=waffle": {
+        "message": "nèulas",
+        "description": "Tag \"cuisine=waffle\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=westphalian": {
+        "message": "oestfaliana",
+        "description": "Tag \"cuisine=westphalian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cutting": {
+        "message": "Estrech",
+        "description": "Key \"cutting\". See https://wiki.openstreetmap.org/wiki/Key:cutting"
+    },
+    "tag:cycleway": {
+        "message": "Pista ciclabla",
+        "description": "Key \"cycleway\". See https://wiki.openstreetmap.org/wiki/Key:cycleway"
+    },
+    "tag:cycleway=bike_box;asl": {
+        "message": "Resclausa per bicicletas",
+        "description": "Tag \"cycleway=bike_box;asl\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=bike_box;asl"
+    },
+    "tag:denomination": {
+        "message": "Confession",
+        "description": "Key \"denomination\". See https://wiki.openstreetmap.org/wiki/Key:denomination"
+    },
+    "tag:denomination=anglican": {
+        "message": "anglicana",
+        "description": "Tag \"denomination=anglican\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=anglican"
+    },
+    "tag:denomination=assemblies_of_god": {
+        "message": "assembladas de Dieu",
+        "description": "Tag \"denomination=assemblies_of_god\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=assemblies_of_god"
+    },
+    "tag:denomination=baptist": {
+        "message": "baptista",
+        "description": "Tag \"denomination=baptist\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=baptist"
+    },
+    "tag:denomination=catholic": {
+        "message": "catolica",
+        "description": "Tag \"denomination=catholic\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=catholic"
+    },
+    "tag:denomination=congregational": {
+        "message": "congregacionala",
+        "description": "Tag \"denomination=congregational\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=congregational"
+    },
+    "tag:denomination=greek_orthodox": {
+        "message": "grèca ortodòxa",
+        "description": "Tag \"denomination=greek_orthodox\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=greek_orthodox"
+    },
+    "tag:denomination=lutheran": {
+        "message": "luteriana",
+        "description": "Tag \"denomination=lutheran\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=lutheran"
+    },
+    "tag:denomination=old-catholic": {
+        "message": "catolica vièlha",
+        "description": "Tag \"denomination=old-catholic\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=old-catholic"
+    },
+    "tag:denomination=orthodox": {
+        "message": "ortodòxa",
+        "description": "Tag \"denomination=orthodox\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=orthodox"
+    },
+    "tag:denomination=protestant": {
+        "message": "protestanta",
+        "description": "Tag \"denomination=protestant\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=protestant"
+    },
+    "tag:denomination=roman_catholic": {
+        "message": "catolica romana",
+        "description": "Tag \"denomination=roman_catholic\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=roman_catholic"
+    },
+    "tag:denomination=russian_orthodox": {
+        "message": "ortodòxa russa",
+        "description": "Tag \"denomination=russian_orthodox\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=russian_orthodox"
+    },
+    "tag:denomination=united_reformed": {
+        "message": "reformada unida",
+        "description": "Tag \"denomination=united_reformed\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=united_reformed"
+    },
+    "tag:description": {
+        "message": "Descripcion",
+        "description": "Key \"description\". See https://wiki.openstreetmap.org/wiki/Key:description"
+    },
+    "tag:diet": {
+        "message": "Regime",
+        "description": "Key \"diet\". See https://wiki.openstreetmap.org/wiki/Key:diet"
+    },
+    "tag:diet:dairy_free": {
+        "message": "sensa produchs fachs amb de lach",
+        "description": "Key \"diet:dairy_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:dairy_free"
+    },
+    "tag:diet:fruitarian": {
+        "message": "frucharian",
+        "description": "Key \"diet:fruitarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:fruitarian"
+    },
+    "tag:diet:gluten_free": {
+        "message": "sensa gluten",
+        "description": "Key \"diet:gluten_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:gluten_free"
+    },
+    "tag:diet:halal": {
+        "message": "hallal",
+        "description": "Key \"diet:halal\". See https://wiki.openstreetmap.org/wiki/Key:diet:halal"
+    },
+    "tag:diet:kosher": {
+        "message": "cacher",
+        "description": "Key \"diet:kosher\". See https://wiki.openstreetmap.org/wiki/Key:diet:kosher"
+    },
+    "tag:diet:lacto_vegetarian": {
+        "message": "lactovegetarian",
+        "description": "Key \"diet:lacto_vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:lacto_vegetarian"
+    },
+    "tag:diet:lactose_free": {
+        "message": "sensa lactòsa",
+        "description": "Key \"diet:lactose_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:lactose_free"
+    },
+    "tag:diet:ovo_vegetarian": {
+        "message": "ovovegetarian",
+        "description": "Key \"diet:ovo_vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:ovo_vegetarian"
+    },
+    "tag:diet:pescetarian": {
+        "message": "peissetarian",
+        "description": "Key \"diet:pescetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:pescetarian"
+    },
+    "tag:diet:raw": {
+        "message": "crusa",
+        "description": "Key \"diet:raw\". See https://wiki.openstreetmap.org/wiki/Key:diet:raw"
+    },
+    "tag:diet:vegan": {
+        "message": "vegan",
+        "description": "Key \"diet:vegan\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegan"
+    },
+    "tag:diet:vegetarian": {
+        "message": "vegetarian",
+        "description": "Key \"diet:vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegetarian"
+    },
+    "tag:disused": {
+        "message": "Obsolet",
+        "description": "Key \"disused\". See https://wiki.openstreetmap.org/wiki/Key:disused"
+    },
+    "tag:driving_side": {
+        "message": "Costat que se mena",
+        "description": "Key \"driving_side\". See https://wiki.openstreetmap.org/wiki/Key:driving_side"
+    },
+    "tag:driving_side=left": {
+        "message": "Se mena a senèstra",
+        "description": "Tag \"driving_side=left\". See https://wiki.openstreetmap.org/wiki/Tag:driving_side=left"
+    },
+    "tag:driving_side=right": {
+        "message": "Se mena a drecha",
+        "description": "Tag \"driving_side=right\". See https://wiki.openstreetmap.org/wiki/Tag:driving_side=right"
+    },
+    "tag:ele": {
+        "message": "Altitud",
+        "description": "Key \"ele\". See https://wiki.openstreetmap.org/wiki/Key:ele"
+    },
+    "tag:electrified": {
+        "message": "Electrificat",
+        "description": "Key \"electrified\". See https://wiki.openstreetmap.org/wiki/Key:electrified"
+    },
+    "tag:electrified=contact_line": {
+        "message": "Catenari",
+        "description": "Tag \"electrified=contact_line\". See https://wiki.openstreetmap.org/wiki/Tag:electrified=contact_line"
+    },
+    "tag:electrified=no": {
+        "message": "Non electrificat",
+        "description": "Tag \"electrified=no\". See https://wiki.openstreetmap.org/wiki/Tag:electrified=no"
+    },
+    "tag:electrified=rail": {
+        "message": "Ralh electrificat",
+        "description": "Tag \"electrified=rail\". See https://wiki.openstreetmap.org/wiki/Tag:electrified=rail"
+    },
+    "tag:email": {
+        "message": "Messatge electronic",
+        "description": "Key \"email\". See https://wiki.openstreetmap.org/wiki/Key:email"
+    },
+    "tag:embankment": {
+        "message": "Esplanada",
+        "description": "Key \"embankment\". See https://wiki.openstreetmap.org/wiki/Key:embankment"
+    },
+    "tag:emergency": {
+        "message": "Secors",
+        "description": "Key \"emergency\". See https://wiki.openstreetmap.org/wiki/Key:emergency"
+    },
+    "tag:emergency=access_point": {
+        "message": "Accès de secors",
+        "description": "Tag \"emergency=access_point\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=access_point"
+    },
+    "tag:emergency=defibrillator": {
+        "message": "Defibrilador",
+        "description": "Tag \"emergency=defibrillator\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=defibrillator"
+    },
+    "tag:emergency=fire_hydrant": {
+        "message": "Bocas d’encendi",
+        "description": "Tag \"emergency=fire_hydrant\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant"
+    },
+    "tag:emergency=fire_hydrant fire_hydrant:type=pillar": {
+        "message": "Colona d’encendi",
+        "description": "Combined tag \"emergency=fire_hydrant\" and \"fire_hydrant:type=pillar\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant and https://wiki.openstreetmap.org/wiki/Tag:fire_hydrant:type=pillar"
+    },
+    "tag:emergency=fire_hydrant fire_hydrant:type=underground": {
+        "message": "Boca d’encendi sosterrana",
+        "description": "Combined tag \"emergency=fire_hydrant\" and \"fire_hydrant:type=underground\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant and https://wiki.openstreetmap.org/wiki/Tag:fire_hydrant:type=underground"
+    },
+    "tag:emergency=phone": {
+        "message": "Telefòn de secors",
+        "description": "Tag \"emergency=phone\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=phone"
+    },
+    "tag:end_date": {
+        "message": "Data de supression",
+        "description": "Key \"end_date\". See https://wiki.openstreetmap.org/wiki/Key:end_date"
+    },
+    "tag:entrance": {
+        "message": "Intrada",
+        "description": "Key \"entrance\". See https://wiki.openstreetmap.org/wiki/Key:entrance"
+    },
+    "tag:entrance=emergency": {
+        "message": "Sortida de secors",
+        "description": "Tag \"entrance=emergency\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=emergency"
+    },
+    "tag:entrance=exit": {
+        "message": "Sortida",
+        "description": "Tag \"entrance=exit\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=exit"
+    },
+    "tag:entrance=garage": {
+        "message": "Intrada de garatge",
+        "description": "Tag \"entrance=garage\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=garage"
+    },
+    "tag:entrance=home": {
+        "message": "Intrada d’ostau",
+        "description": "Tag \"entrance=home\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=home"
+    },
+    "tag:entrance=main": {
+        "message": "Intrada principala",
+        "description": "Tag \"entrance=main\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=main"
+    },
+    "tag:entrance=service": {
+        "message": "Intrada de servici",
+        "description": "Tag \"entrance=service\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=service"
+    },
+    "tag:entrance=staircase": {
+        "message": "Accès a escaliers",
+        "description": "Tag \"entrance=staircase\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=staircase"
+    },
+    "tag:est_width": {
+        "message": "Ample estimat",
+        "description": "Key \"est_width\". See https://wiki.openstreetmap.org/wiki/Key:est_width"
+    },
+    "tag:fax": {
+        "message": "Numèro de facs",
+        "description": "Key \"fax\". See https://wiki.openstreetmap.org/wiki/Key:fax"
+    },
+    "tag:fixme": {
+        "message": "De verificar",
+        "description": "Key \"fixme\". See https://wiki.openstreetmap.org/wiki/Key:fixme"
+    },
+    "tag:foot": {
+        "message": "Permés ai pedons",
+        "description": "Key \"foot\". See https://wiki.openstreetmap.org/wiki/Key:foot"
+    },
+    "tag:ford": {
+        "message": "Ga",
+        "description": "Key \"ford\". See https://wiki.openstreetmap.org/wiki/Key:ford"
+    },
+    "tag:frequency": {
+        "message": "Frequéncia",
+        "description": "Key \"frequency\". See https://wiki.openstreetmap.org/wiki/Key:frequency"
+    },
+    "tag:gauge": {
+        "message": "Mesura",
+        "description": "Key \"gauge\". See https://wiki.openstreetmap.org/wiki/Key:gauge"
+    },
+    "tag:generator:source": {
+        "message": "Fònt d’energia",
+        "description": "Key \"generator:source\". See https://wiki.openstreetmap.org/wiki/Key:generator:source"
     }
 }
