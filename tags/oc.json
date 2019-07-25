@@ -2336,5 +2336,9 @@
     "tag:generator:source": {
         "message": "Fònt d’energia",
         "description": "Key \"generator:source\". See https://wiki.openstreetmap.org/wiki/Key:generator:source"
+    },
+    "tag:religion=muslim": {
+        "message": "musulmana",
+        "description": "Tag \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
     }
 }
