@@ -2340,5 +2340,9 @@
     "tag:religion=muslim": {
         "message": "musulmana",
         "description": "Tag \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
+    },
+    "tag:tourism=aquarium": {
+        "message": "Aquari",
+        "description": "Tag \"tourism=aquarium\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=aquarium"
     }
 }
