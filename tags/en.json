@@ -980,6 +980,110 @@
         "message": "Charge",
         "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
     },
+    "tag:climbing": {
+        "message": "Climbing",
+        "description": "Key \"climbing\". See https://wiki.openstreetmap.org/wiki/Key:climbing"
+    },
+    "tag:climbing:bolted": {
+        "message": "Bolted",
+        "description": "Key \"climbing:bolted\". See https://wiki.openstreetmap.org/wiki/Key:climbing:bolted"
+    },
+    "tag:climbing:boulder": {
+        "message": "Bouldering",
+        "description": "Key \"climbing:boulder\". See https://wiki.openstreetmap.org/wiki/Key:climbing:boulder"
+    },
+    "tag:climbing:deepwater": {
+        "message": "Deep-Water-Soloing",
+        "description": "Key \"climbing:deepwater\". See https://wiki.openstreetmap.org/wiki/Key:climbing:deepwater"
+    },
+    "tag:climbing:grade:french": {
+        "message": "Climbing Grade (French)",
+        "description": "Key \"climbing:grade:french\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:french"
+    },
+    "tag:climbing:grade:polish": {
+        "message": "Climbing Grade (Polish)",
+        "description": "Key \"climbing:grade:polish\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:polish"
+    },
+    "tag:climbing:grade:saxon": {
+        "message": "Climbing Grade (Saxon)",
+        "description": "Key \"climbing:grade:saxon\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:saxon"
+    },
+    "tag:climbing:grade:uiaa": {
+        "message": "Climbing Grade (UIAA)",
+        "description": "Key \"climbing:grade:uiaa\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:uiaa"
+    },
+    "tag:climbing:ice": {
+        "message": "Ice climbing",
+        "description": "Key \"climbing:ice\". See https://wiki.openstreetmap.org/wiki/Key:climbing:ice"
+    },
+    "tag:climbing:length": {
+        "message": "Climbing length",
+        "description": "Key \"climbing:length\". See https://wiki.openstreetmap.org/wiki/Key:climbing:length"
+    },
+    "tag:climbing:mixed": {
+        "message": "Mixed climbing",
+        "description": "Key \"climbing:mixed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:mixed"
+    },
+    "tag:climbing:multipitch": {
+        "message": "Multi-pitch climbing routes",
+        "description": "Key \"climbing:multipitch\". See https://wiki.openstreetmap.org/wiki/Key:climbing:multipitch"
+    },
+    "tag:climbing:orientation": {
+        "message": "Climbing orientation",
+        "description": "Key \"climbing:orientation\". See https://wiki.openstreetmap.org/wiki/Key:climbing:orientation"
+    },
+    "tag:climbing:quality": {
+        "message": "Climbing quality",
+        "description": "Key \"climbing:quality\". See https://wiki.openstreetmap.org/wiki/Key:climbing:quality"
+    },
+    "tag:climbing:rock": {
+        "message": "Rock climbing",
+        "description": "Key \"climbing:rock\". See https://wiki.openstreetmap.org/wiki/Key:climbing:rock"
+    },
+    "tag:climbing:routes": {
+        "message": "Amounts if climbing routes",
+        "description": "Key \"climbing:routes\". See https://wiki.openstreetmap.org/wiki/Key:climbing:routes"
+    },
+    "tag:climbing:speed": {
+        "message": "Speed climbing",
+        "description": "Key \"climbing:speed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:speed"
+    },
+    "tag:climbing:sport": {
+        "message": "Sport climbing",
+        "description": "Key \"climbing:sport\". See https://wiki.openstreetmap.org/wiki/Key:climbing:sport"
+    },
+    "tag:climbing:summit_log": {
+        "message": "Climbing feature has summit log",
+        "description": "Key \"climbing:summit_log\". See https://wiki.openstreetmap.org/wiki/Key:climbing:summit_log"
+    },
+    "tag:climbing:toprope": {
+        "message": "Top rope climbing",
+        "description": "Key \"climbing:toprope\". See https://wiki.openstreetmap.org/wiki/Key:climbing:toprope"
+    },
+    "tag:climbing:trad": {
+        "message": "Traditional climbing",
+        "description": "Key \"climbing:trad\". See https://wiki.openstreetmap.org/wiki/Key:climbing:trad"
+    },
+    "tag:climbing=boulder": {
+        "message": "Bouldering",
+        "description": "Tag \"climbing=boulder\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=boulder"
+    },
+    "tag:climbing=crag": {
+        "message": "Crag",
+        "description": "Tag \"climbing=crag\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=crag"
+    },
+    "tag:climbing=route": {
+        "message": "Route",
+        "description": "Tag \"climbing=route\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route"
+    },
+    "tag:climbing=route_bottom": {
+        "message": "Bottom of climbing route",
+        "description": "Tag \"climbing=route_bottom\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route_bottom"
+    },
+    "tag:climbing=route_top": {
+        "message": "Top of climbing route",
+        "description": "Tag \"climbing=route_top\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route_top"
+    },
     "tag:clothes": {
         "message": "Clothes",
         "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
@@ -2716,6 +2820,10 @@
     "tag:highway=unclassified": {
         "message": "Unclassified Road",
         "description": "Tag \"highway=unclassified\". See https://wiki.openstreetmap.org/wiki/Tag:highway=unclassified"
+    },
+    "tag:highway=via_ferrata": {
+        "message": "Via ferrata",
+        "description": "Tag \"highway=via_ferrata\". See https://wiki.openstreetmap.org/wiki/Tag:highway=via_ferrata"
     },
     "tag:historic": {
         "message": "Historic",
@@ -5944,6 +6052,10 @@
     "tag:vending": {
         "message": "Vending",
         "description": "Key \"vending\". See https://wiki.openstreetmap.org/wiki/Key:vending"
+    },
+    "tag:via_ferrata_scale": {
+        "message": "Scale of via ferrata",
+        "description": "Key \"via_ferrata_scale\". See https://wiki.openstreetmap.org/wiki/Key:via_ferrata_scale"
     },
     "tag:voltage": {
         "message": "Voltage",
