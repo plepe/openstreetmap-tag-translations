@@ -3298,7 +3298,7 @@
         "description": "Tag \"leisure=dance\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=dance"
     },
     "tag:leisure=dog_park": {
-        "message": "",
+        "message": "Dog Park",
         "description": "Tag \"leisure=dog_park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=dog_park"
     },
     "tag:leisure=firepit": {
