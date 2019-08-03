@@ -2344,5 +2344,45 @@
     "tag:tourism=aquarium": {
         "message": "Aquari",
         "description": "Tag \"tourism=aquarium\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=aquarium"
+    },
+    "tag:climbing": {
+        "message": "Escalada",
+        "description": "Key \"climbing\". See https://wiki.openstreetmap.org/wiki/Key:climbing"
+    },
+    "tag:climbing:bolted": {
+        "message": "Cavilhat",
+        "description": "Key \"climbing:bolted\". See https://wiki.openstreetmap.org/wiki/Key:climbing:bolted"
+    },
+    "tag:climbing:deepwater": {
+        "message": "En Solitari sus Aiga Fonsa",
+        "description": "Key \"climbing:deepwater\". See https://wiki.openstreetmap.org/wiki/Key:climbing:deepwater"
+    },
+    "tag:climbing:grade:french": {
+        "message": "Gra (FR)",
+        "description": "Key \"climbing:grade:french\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:french"
+    },
+    "tag:climbing:grade:polish": {
+        "message": "Gra (PL)",
+        "description": "Key \"climbing:grade:polish\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:polish"
+    },
+    "tag:climbing:grade:saxon": {
+        "message": "Gra (Saxon)",
+        "description": "Key \"climbing:grade:saxon\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:saxon"
+    },
+    "tag:climbing:grade:uiaa": {
+        "message": "Gra (UIAA)",
+        "description": "Key \"climbing:grade:uiaa\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:uiaa"
+    },
+    "tag:climbing:ice": {
+        "message": "Escalada sus glaç",
+        "description": "Key \"climbing:ice\". See https://wiki.openstreetmap.org/wiki/Key:climbing:ice"
+    },
+    "tag:climbing:length": {
+        "message": "Longor de via",
+        "description": "Key \"climbing:length\". See https://wiki.openstreetmap.org/wiki/Key:climbing:length"
+    },
+    "tag:climbing:mixed": {
+        "message": "Escalada mixta",
+        "description": "Key \"climbing:mixed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:mixed"
     }
 }
