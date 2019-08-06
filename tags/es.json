@@ -269,7 +269,7 @@
         "description": "Tag \"amenity=fast_food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fast_food"
     },
     "tag:amenity=ferry_terminal": {
-        "message": "Atracadero de ferry",
+        "message": "Terminal del ferry",
         "description": "Tag \"amenity=ferry_terminal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ferry_terminal"
     },
     "tag:amenity=fire_station": {
@@ -329,7 +329,7 @@
         "description": "Tag \"amenity=motorcycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=motorcycle_parking"
     },
     "tag:amenity=nursing_home": {
-        "message": "Asilo de ancianos o discapacitados",
+        "message": "Asilo de ancianos",
         "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
     },
     "tag:amenity=parking": {
@@ -625,15 +625,15 @@
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
     "tag:building=apartments": {
-        "message": "",
+        "message": "Apartamentos",
         "description": "Tag \"building=apartments\". See https://wiki.openstreetmap.org/wiki/Tag:building=apartments"
     },
     "tag:building=bakehouse": {
-        "message": "",
+        "message": "Panaderías",
         "description": "Tag \"building=bakehouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=bakehouse"
     },
     "tag:building=barn": {
-        "message": "",
+        "message": "Granero",
         "description": "Tag \"building=barn\". See https://wiki.openstreetmap.org/wiki/Tag:building=barn"
     },
     "tag:building=block": {
@@ -641,19 +641,19 @@
         "description": "Tag \"building=block\". See https://wiki.openstreetmap.org/wiki/Tag:building=block"
     },
     "tag:building=bridge": {
-        "message": "",
+        "message": "Puente",
         "description": "Tag \"building=bridge\". See https://wiki.openstreetmap.org/wiki/Tag:building=bridge"
     },
     "tag:building=bungalow": {
-        "message": "",
+        "message": "Bungalow",
         "description": "Tag \"building=bungalow\". See https://wiki.openstreetmap.org/wiki/Tag:building=bungalow"
     },
     "tag:building=bunker": {
-        "message": "",
+        "message": "Búnker",
         "description": "Tag \"building=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:building=bunker"
     },
     "tag:building=cabin": {
-        "message": "",
+        "message": "Cabaña",
         "description": "Tag \"building=cabin\". See https://wiki.openstreetmap.org/wiki/Tag:building=cabin"
     },
     "tag:building=carport": {
@@ -677,7 +677,7 @@
         "description": "Combined tag \"building=church\" and \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:building=church and https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
     },
     "tag:building=civic": {
-        "message": "",
+        "message": "Cívico",
         "description": "Tag \"building=civic\". See https://wiki.openstreetmap.org/wiki/Tag:building=civic"
     },
     "tag:building=college": {
@@ -693,15 +693,15 @@
         "description": "Tag \"building=conservatory\". See https://wiki.openstreetmap.org/wiki/Tag:building=conservatory"
     },
     "tag:building=construction": {
-        "message": "",
+        "message": "Edificio en construcción",
         "description": "Tag \"building=construction\". See https://wiki.openstreetmap.org/wiki/Tag:building=construction"
     },
     "tag:building=cowshed": {
-        "message": "",
+        "message": "Establo",
         "description": "Tag \"building=cowshed\". See https://wiki.openstreetmap.org/wiki/Tag:building=cowshed"
     },
     "tag:building=detached": {
-        "message": "",
+        "message": "Vivienda unifamiliar",
         "description": "Tag \"building=detached\". See https://wiki.openstreetmap.org/wiki/Tag:building=detached"
     },
     "tag:building=dormitory": {
@@ -761,7 +761,7 @@
         "description": "Tag \"building=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:building=hospital"
     },
     "tag:building=hotel": {
-        "message": "",
+        "message": "Hotel",
         "description": "Tag \"building=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:building=hotel"
     },
     "tag:building=house": {
@@ -769,23 +769,23 @@
         "description": "Tag \"building=house\". See https://wiki.openstreetmap.org/wiki/Tag:building=house"
     },
     "tag:building=houseboat": {
-        "message": "",
+        "message": "Casa flotante",
         "description": "Tag \"building=houseboat\". See https://wiki.openstreetmap.org/wiki/Tag:building=houseboat"
     },
     "tag:building=hut": {
-        "message": "",
+        "message": "Choza",
         "description": "Tag \"building=hut\". See https://wiki.openstreetmap.org/wiki/Tag:building=hut"
     },
     "tag:building=industrial": {
-        "message": "",
+        "message": "Edificio industrial",
         "description": "Tag \"building=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:building=industrial"
     },
     "tag:building=kindergarten": {
-        "message": "",
+        "message": "Guardería",
         "description": "Tag \"building=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:building=kindergarten"
     },
     "tag:building=kiosk": {
-        "message": "",
+        "message": "Quiosco",
         "description": "Tag \"building=kiosk\". See https://wiki.openstreetmap.org/wiki/Tag:building=kiosk"
     },
     "tag:building=kitchen": {
@@ -981,27 +981,27 @@
         "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=accessories": {
-        "message": "",
+        "message": "Accesorios",
         "description": "Tag \"clothes=accessories\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=babies": {
-        "message": "",
+        "message": "Ropa de bebe",
         "description": "Tag \"clothes=babies\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=brand": {
-        "message": "",
+        "message": "Ropa de marca",
         "description": "Tag \"clothes=brand\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=bridal": {
-        "message": "",
+        "message": "Ropa de boda",
         "description": "Tag \"clothes=bridal\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=children": {
-        "message": "",
+        "message": "Ropa de niño",
         "description": "Tag \"clothes=children\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=costumes": {
-        "message": "",
+        "message": "Disfraces",
         "description": "Tag \"clothes=costumes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=denim": {
@@ -1013,7 +1013,7 @@
         "description": "Tag \"clothes=fashion\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=fur": {
-        "message": "",
+        "message": "Ropa de piel",
         "description": "Tag \"clothes=fur\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=hats": {
@@ -1029,7 +1029,7 @@
         "description": "Tag \"clothes=lingerie\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=maternity": {
-        "message": "",
+        "message": "Ropa de maternidad",
         "description": "Tag \"clothes=maternity\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=men": {
