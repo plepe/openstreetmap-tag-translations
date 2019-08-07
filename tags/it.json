@@ -209,7 +209,7 @@
         "description": "Tag \"amenity=car_sharing\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_sharing"
     },
     "tag:amenity=car_wash": {
-        "message": "",
+        "message": "Autolavaggio",
         "description": "Tag \"amenity=car_wash\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_wash"
     },
     "tag:amenity=charging_station": {
@@ -221,7 +221,7 @@
         "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
     },
     "tag:amenity=clinic": {
-        "message": "",
+        "message": "Clinica",
         "description": "Tag \"amenity=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clinic"
     },
     "tag:amenity=clock": {
@@ -237,7 +237,7 @@
         "description": "Tag \"amenity=community_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=community_centre"
     },
     "tag:amenity=compressed_air": {
-        "message": "",
+        "message": "Stazione aria compressa",
         "description": "Tag \"amenity=compressed_air\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=compressed_air"
     },
     "tag:amenity=courthouse": {
@@ -277,7 +277,7 @@
         "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
     },
     "tag:amenity=food_court": {
-        "message": "",
+        "message": "Area di ristorazione",
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
@@ -301,11 +301,11 @@
         "description": "Tag \"amenity=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=hospital"
     },
     "tag:amenity=ice_cream": {
-        "message": "",
+        "message": "Gelateria",
         "description": "Tag \"amenity=ice_cream\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ice_cream"
     },
     "tag:amenity=internet_cafe": {
-        "message": "",
+        "message": "Internet point",
         "description": "Tag \"amenity=internet_cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=internet_cafe"
     },
     "tag:amenity=kindergarten": {
@@ -313,7 +313,7 @@
         "description": "Tag \"amenity=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=kindergarten"
     },
     "tag:amenity=language_school": {
-        "message": "",
+        "message": "Scuola di lingue",
         "description": "Tag \"amenity=language_school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=language_school"
     },
     "tag:amenity=library": {
@@ -325,7 +325,7 @@
         "description": "Tag \"amenity=marketplace\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=marketplace"
     },
     "tag:amenity=motorcycle_parking": {
-        "message": "",
+        "message": "Pacheggio motocicli",
         "description": "Tag \"amenity=motorcycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=motorcycle_parking"
     },
     "tag:amenity=nursing_home": {
@@ -373,7 +373,7 @@
         "description": "Tag \"amenity=public_building\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_building"
     },
     "tag:amenity=recycling": {
-        "message": "",
+        "message": "Cassonetto / Centro di riciclo",
         "description": "Tag \"amenity=recycling\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=recycling"
     },
     "tag:amenity=recycling recycling_type=centre": {
