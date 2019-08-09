@@ -2934,7 +2934,7 @@
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
     "tag:intermittent": {
-        "message": "",
+        "message": "zeitweise",
         "description": "Key \"intermittent\". See https://wiki.openstreetmap.org/wiki/Key:intermittent"
     },
     "tag:internet_access=public": {
@@ -3854,7 +3854,7 @@
         "description": "Tag \"network=icn\". See https://wiki.openstreetmap.org/wiki/Tag:network=icn"
     },
     "tag:network=iwn": {
-        "message": "",
+        "message": "Internationale Wanderrouten",
         "description": "Tag \"network=iwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=iwn"
     },
     "tag:network=lcn": {
@@ -3862,7 +3862,7 @@
         "description": "Tag \"network=lcn\". See https://wiki.openstreetmap.org/wiki/Tag:network=lcn"
     },
     "tag:network=lwn": {
-        "message": "",
+        "message": "Lokale Wanderrouten",
         "description": "Tag \"network=lwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=lwn"
     },
     "tag:network=ncn": {
@@ -3870,7 +3870,7 @@
         "description": "Tag \"network=ncn\". See https://wiki.openstreetmap.org/wiki/Tag:network=ncn"
     },
     "tag:network=nwn": {
-        "message": "",
+        "message": "Nationale Wanderrouten",
         "description": "Tag \"network=nwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=nwn"
     },
     "tag:network=rcn": {
@@ -3878,7 +3878,7 @@
         "description": "Tag \"network=rcn\". See https://wiki.openstreetmap.org/wiki/Tag:network=rcn"
     },
     "tag:network=rwn": {
-        "message": "",
+        "message": "Regionale Wanderrouten",
         "description": "Tag \"network=rwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=rwn"
     },
     "tag:noexit": {
