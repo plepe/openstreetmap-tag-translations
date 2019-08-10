@@ -5390,7 +5390,7 @@
         "description": "Tag \"sport=australian_football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=australian_football"
     },
     "tag:sport=badminton": {
-        "message": "",
+        "message": "Badminton",
         "description": "Tag \"sport=badminton\". See https://wiki.openstreetmap.org/wiki/Tag:sport=badminton"
     },
     "tag:sport=baseball": {
