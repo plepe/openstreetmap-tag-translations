@@ -5554,7 +5554,7 @@
         "description": "Tag \"sport=9pin\". See https://wiki.openstreetmap.org/wiki/Tag:sport=9pin"
     },
     "tag:sport=american_football": {
-        "message": "",
+        "message": "American Football",
         "description": "Tag \"sport=american_football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=american_football"
     },
     "tag:sport=archery": {
@@ -5570,7 +5570,7 @@
         "description": "Tag \"sport=australian_football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=australian_football"
     },
     "tag:sport=badminton": {
-        "message": "",
+        "message": "Badminton",
         "description": "Tag \"sport=badminton\". See https://wiki.openstreetmap.org/wiki/Tag:sport=badminton"
     },
     "tag:sport=baseball": {
