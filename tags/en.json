@@ -193,7 +193,7 @@
         "description": "Tag \"amenity=bureau_de_change\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bureau_de_change"
     },
     "tag:amenity=bus_station": {
-        "message": "",
+        "message": "Bus Station",
         "description": "Tag \"amenity=bus_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bus_station"
     },
     "tag:amenity=cafe": {
@@ -225,11 +225,11 @@
         "description": "Tag \"amenity=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clinic"
     },
     "tag:amenity=clock": {
-        "message": "",
+        "message": "Clock",
         "description": "Tag \"amenity=clock\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clock"
     },
     "tag:amenity=college": {
-        "message": "",
+        "message": "College",
         "description": "Tag \"amenity=college\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=college"
     },
     "tag:amenity=community_centre": {
@@ -245,11 +245,11 @@
         "description": "Tag \"amenity=courthouse\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=courthouse"
     },
     "tag:amenity=crematorium": {
-        "message": "",
+        "message": "Crematorium",
         "description": "Tag \"amenity=crematorium\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=crematorium"
     },
     "tag:amenity=dentist": {
-        "message": "",
+        "message": "Dentist",
         "description": "Tag \"amenity=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=dentist"
     },
     "tag:amenity=doctors": {
@@ -261,7 +261,7 @@
         "description": "Tag \"amenity=drinking_water\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=drinking_water"
     },
     "tag:amenity=embassy": {
-        "message": "",
+        "message": "Embassy",
         "description": "Tag \"amenity=embassy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=embassy"
     },
     "tag:amenity=fast_food": {
@@ -273,7 +273,7 @@
         "description": "Tag \"amenity=ferry_terminal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ferry_terminal"
     },
     "tag:amenity=fire_station": {
-        "message": "",
+        "message": "Fire Station",
         "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
     },
     "tag:amenity=food_court": {
@@ -337,7 +337,7 @@
         "description": "Tag \"amenity=parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parking"
     },
     "tag:amenity=pharmacy": {
-        "message": "",
+        "message": "Pharmacy",
         "description": "Tag \"amenity=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pharmacy"
     },
     "tag:amenity=place_of_worship": {
@@ -345,7 +345,7 @@
         "description": "Tag \"amenity=place_of_worship\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship"
     },
     "tag:amenity=police": {
-        "message": "",
+        "message": "Police",
         "description": "Tag \"amenity=police\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=police"
     },
     "tag:amenity=post_box": {
@@ -389,7 +389,7 @@
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
-        "message": "",
+        "message": "School",
         "description": "Tag \"amenity=school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=school"
     },
     "tag:amenity=shelter": {
@@ -397,7 +397,7 @@
         "description": "Tag \"amenity=shelter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shelter"
     },
     "tag:amenity=shower": {
-        "message": "",
+        "message": "Shower",
         "description": "Tag \"amenity=shower\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shower"
     },
     "tag:amenity=signpost": {
@@ -437,11 +437,11 @@
         "description": "Combined tag \"amenity=toilets\" and \"diaper=yes\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets and https://wiki.openstreetmap.org/wiki/Tag:diaper=yes"
     },
     "tag:amenity=townhall": {
-        "message": "",
+        "message": "Town Hall",
         "description": "Tag \"amenity=townhall\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=townhall"
     },
     "tag:amenity=university": {
-        "message": "",
+        "message": "University",
         "description": "Tag \"amenity=university\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=university"
     },
     "tag:amenity=vending_machine": {
@@ -825,7 +825,7 @@
         "description": "Tag \"building=parking\". See https://wiki.openstreetmap.org/wiki/Tag:building=parking"
     },
     "tag:building=pavilion": {
-        "message": "",
+        "message": "Sports Pavilion",
         "description": "Tag \"building=pavilion\". See https://wiki.openstreetmap.org/wiki/Tag:building=pavilion"
     },
     "tag:building=public": {
@@ -869,7 +869,7 @@
         "description": "Tag \"building=service\". See https://wiki.openstreetmap.org/wiki/Tag:building=service"
     },
     "tag:building=shed": {
-        "message": "",
+        "message": "Shed",
         "description": "Tag \"building=shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=shed"
     },
     "tag:building=shop": {
@@ -893,7 +893,7 @@
         "description": "Tag \"building=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=sports_hall"
     },
     "tag:building=stable": {
-        "message": "",
+        "message": "Stable",
         "description": "Tag \"building=stable\". See https://wiki.openstreetmap.org/wiki/Tag:building=stable"
     },
     "tag:building=stadium": {
@@ -3386,7 +3386,7 @@
         "description": "Tag \"leisure=sport\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sport"
     },
     "tag:leisure=sports_centre": {
-        "message": "Sport Centre",
+        "message": "Sports Centre",
         "description": "Tag \"leisure=sports_centre\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sports_centre"
     },
     "tag:leisure=stadium": {
