@@ -2468,5 +2468,209 @@
     "tag:food": {
         "message": "Aliments",
         "description": "Key \"food\". See https://wiki.openstreetmap.org/wiki/Key:food"
+    },
+    "tag:generator:source=diesel": {
+        "message": "gasòli",
+        "description": "Tag \"generator:source=diesel\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=diesel"
+    },
+    "tag:generator:source=gas": {
+        "message": "gas",
+        "description": "Tag \"generator:source=gas\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=gas"
+    },
+    "tag:generator:source=gasoline": {
+        "message": "gasolina",
+        "description": "Tag \"generator:source=gasoline\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=gasoline"
+    },
+    "tag:generator:source=geothermal": {
+        "message": "geotermia",
+        "description": "Tag \"generator:source=geothermal\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=geothermal"
+    },
+    "tag:generator:source=hydro": {
+        "message": "idrolic",
+        "description": "Tag \"generator:source=hydro\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=hydro"
+    },
+    "tag:generator:source=nuclear": {
+        "message": "nuclear",
+        "description": "Tag \"generator:source=nuclear\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=nuclear"
+    },
+    "tag:generator:source=oil": {
+        "message": "petròli",
+        "description": "Tag \"generator:source=oil\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=oil"
+    },
+    "tag:generator:source=solar": {
+        "message": "solar",
+        "description": "Tag \"generator:source=solar\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=solar"
+    },
+    "tag:generator:source=tidal": {
+        "message": "maremotritz",
+        "description": "Tag \"generator:source=tidal\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=tidal"
+    },
+    "tag:generator:source=waste": {
+        "message": "sobras",
+        "description": "Tag \"generator:source=waste\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=waste"
+    },
+    "tag:generator:source=wave": {
+        "message": "èrsa",
+        "description": "Tag \"generator:source=wave\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=wave"
+    },
+    "tag:generator:source=wind": {
+        "message": "eolian",
+        "description": "Tag \"generator:source=wind\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=wind"
+    },
+    "tag:goods": {
+        "message": "Mèrças",
+        "description": "Key \"goods\". See https://wiki.openstreetmap.org/wiki/Key:goods"
+    },
+    "tag:healthcare=alternative": {
+        "message": "Medecina alternativa",
+        "description": "Tag \"healthcare=alternative\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=alternative"
+    },
+    "tag:healthcare=audiologist": {
+        "message": "Audiologista",
+        "description": "Tag \"healthcare=audiologist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=audiologist"
+    },
+    "tag:healthcare=birthing_center": {
+        "message": "Maternitat",
+        "description": "Tag \"healthcare=birthing_center\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=birthing_center"
+    },
+    "tag:healthcare=blood_bank": {
+        "message": "Banca dau sang",
+        "description": "Tag \"healthcare=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=blood_bank"
+    },
+    "tag:healthcare=blood_donation": {
+        "message": "Don dau sang",
+        "description": "Tag \"healthcare=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=blood_donation"
+    },
+    "tag:healthcare=centre": {
+        "message": "Centre medicau",
+        "description": "Tag \"healthcare=centre\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=centre"
+    },
+    "tag:healthcare=clinic": {
+        "message": "Clinica",
+        "description": "Tag \"healthcare=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=clinic"
+    },
+    "tag:healthcare=dentist": {
+        "message": "Dentista",
+        "description": "Tag \"healthcare=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dentist"
+    },
+    "tag:healthcare=dialysis": {
+        "message": "dialisi",
+        "description": "Tag \"healthcare=dialysis\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dialysis"
+    },
+    "tag:healthcare=doctor": {
+        "message": "Mètge",
+        "description": "Tag \"healthcare=doctor\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=doctor"
+    },
+    "tag:healthcare=hospital": {
+        "message": "Espitau",
+        "description": "Tag \"healthcare=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=hospital"
+    },
+    "tag:healthcare=laboratory": {
+        "message": "Laboratòri de biologia medicala",
+        "description": "Tag \"healthcare=laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=laboratory"
+    },
+    "tag:healthcare=midwife": {
+        "message": "Levairitz",
+        "description": "Tag \"healthcare=midwife\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=midwife"
+    },
+    "tag:healthcare=nutrition_counseling": {
+        "message": "Conseu en nutricion",
+        "description": "Tag \"healthcare=nutrition_counseling\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=nutrition_counseling"
+    },
+    "tag:healthcare=occupational_therapist": {
+        "message": "Ergoterapèuta",
+        "description": "Tag \"healthcare=occupational_therapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=occupational_therapist"
+    },
+    "tag:healthcare=optometrist": {
+        "message": "Ortofonista",
+        "description": "Tag \"healthcare=optometrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=optometrist"
+    },
+    "tag:healthcare=pharmacy": {
+        "message": "Farmacia",
+        "description": "Tag \"healthcare=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=pharmacy"
+    },
+    "tag:healthcare=podiatrist": {
+        "message": "Podològ",
+        "description": "Tag \"healthcare=podiatrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=podiatrist"
+    },
+    "tag:healthcare=rehabilitation": {
+        "message": "Readaptacion",
+        "description": "Tag \"healthcare=rehabilitation\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=rehabilitation"
+    },
+    "tag:healthcare=speech_therapist": {
+        "message": "Ortofonista",
+        "description": "Tag \"healthcare=speech_therapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=speech_therapist"
+    },
+    "tag:height": {
+        "message": "autor",
+        "description": "Key \"height\". See https://wiki.openstreetmap.org/wiki/Key:height"
+    },
+    "tag:heritage=0": {
+        "message": "Patrimòni",
+        "description": "Tag \"heritage=0\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=0"
+    },
+    "tag:highway": {
+        "message": "Rota",
+        "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
+    },
+    "tag:highway=bridleway": {
+        "message": "Pista per lei cavaus",
+        "description": "Tag \"highway=bridleway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=bridleway"
+    },
+    "tag:highway=bus_stop": {
+        "message": "Arrèst d’autobús",
+        "description": "Tag \"highway=bus_stop\". See https://wiki.openstreetmap.org/wiki/Tag:highway=bus_stop"
+    },
+    "tag:highway=construction": {
+        "message": "Rota en òbras",
+        "description": "Tag \"highway=construction\". See https://wiki.openstreetmap.org/wiki/Tag:highway=construction"
+    },
+    "tag:highway=crossing": {
+        "message": "Passatge pedonier",
+        "description": "Tag \"highway=crossing\". See https://wiki.openstreetmap.org/wiki/Tag:highway=crossing"
+    },
+    "tag:highway=cycleway": {
+        "message": "Pista ciclabla",
+        "description": "Tag \"highway=cycleway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=cycleway"
+    },
+    "tag:highway=motorway": {
+        "message": "Autorota",
+        "description": "Tag \"highway=motorway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=motorway"
+    },
+    "tag:highway=path": {
+        "message": "Draiòu",
+        "description": "Tag \"highway=path\". See https://wiki.openstreetmap.org/wiki/Tag:highway=path"
+    },
+    "tag:highway=platform": {
+        "message": "Estacion d’autobús",
+        "description": "Tag \"highway=platform\". See https://wiki.openstreetmap.org/wiki/Tag:highway=platform"
+    },
+    "tag:highway=primary": {
+        "message": "Rota principala",
+        "description": "Tag \"highway=primary\". See https://wiki.openstreetmap.org/wiki/Tag:highway=primary"
+    },
+    "tag:highway=road": {
+        "message": "Rota",
+        "description": "Tag \"highway=road\". See https://wiki.openstreetmap.org/wiki/Tag:highway=road"
+    },
+    "tag:highway=roundabout": {
+        "message": "Rotonda",
+        "description": "Tag \"highway=roundabout\". See https://wiki.openstreetmap.org/wiki/Tag:highway=roundabout"
+    },
+    "tag:highway=secondary": {
+        "message": "Rota segondària",
+        "description": "Tag \"highway=secondary\". See https://wiki.openstreetmap.org/wiki/Tag:highway=secondary"
+    },
+    "tag:highway=service": {
+        "message": "Rota de servici",
+        "description": "Tag \"highway=service\". See https://wiki.openstreetmap.org/wiki/Tag:highway=service"
+    },
+    "tag:highway=steps": {
+        "message": "Escaliers",
+        "description": "Tag \"highway=steps\". See https://wiki.openstreetmap.org/wiki/Tag:highway=steps"
+    },
+    "tag:historic": {
+        "message": "Istoric",
+        "description": "Key \"historic\". See https://wiki.openstreetmap.org/wiki/Key:historic"
     }
 }
