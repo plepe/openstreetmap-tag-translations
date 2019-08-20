@@ -3369,6 +3369,46 @@
         "message": "Pitch",
         "description": "Tag \"leisure=pitch\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch"
     },
+    "tag:leisure=pitch sport=american_football": {
+        "message": "American Football Field",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=american_football\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=american_football"
+    },
+    "tag:leisure=pitch sport=australian_football": {
+        "message": "Australian Football Field",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=australian_football\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=australian_football"
+    },
+    "tag:leisure=pitch sport=badminton": {
+        "message": "Badminton Court",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=badminton\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=badminton"
+    },
+    "tag:leisure=pitch sport=baseball": {
+        "message": "Baseball Field",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=baseball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=baseball"
+    },
+    "tag:leisure=pitch sport=basketball": {
+        "message": "Basketball Court",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=basketball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=basketball"
+    },
+    "tag:leisure=pitch sport=beachvolleyball": {
+        "message": "Beach Volleyball Court",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=beachvolleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=beachvolleyball"
+    },
+    "tag:leisure=pitch sport=boules": {
+        "message": "Boules Court",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=boules\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=boules"
+    },
+    "tag:leisure=pitch sport=cricket": {
+        "message": "Cricket Field",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=cricket\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=cricket"
+    },
+    "tag:leisure=pitch sport=equestrian": {
+        "message": "Riding Arena",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=equestrian\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=equestrian"
+    },
+    "tag:leisure=pitch sport=equestrian": {
+        "message": "Riding Arena",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=equestrian\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=equestrian"
+    },
     "tag:leisure=playground": {
         "message": "Playground",
         "description": "Tag \"leisure=playground\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=playground"
