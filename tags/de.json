@@ -3154,11 +3154,11 @@
         "description": "Tag \"leisure=hackerspace\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=hackerspace"
     },
     "tag:leisure=horse_riding": {
-        "message": "",
+        "message": "Reitanlage",
         "description": "Tag \"leisure=horse_riding\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=horse_riding"
     },
     "tag:leisure=ice_rink": {
-        "message": "Eisbahnen",
+        "message": "Eislaufbahn",
         "description": "Tag \"leisure=ice_rink\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=ice_rink"
     },
     "tag:leisure=indoor_play": {
@@ -5438,7 +5438,7 @@
         "description": "Tag \"sport=climbing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=climbing"
     },
     "tag:sport=cockfighting": {
-        "message": "",
+        "message": "Hahnenkampf",
         "description": "Tag \"sport=cockfighting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cockfighting"
     },
     "tag:sport=cricket": {
@@ -5454,7 +5454,7 @@
         "description": "Tag \"sport=cycling\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cycling"
     },
     "tag:sport=darts": {
-        "message": "",
+        "message": "Dart",
         "description": "Tag \"sport=darts\". See https://wiki.openstreetmap.org/wiki/Tag:sport=darts"
     },
     "tag:sport=diving": {
@@ -5470,11 +5470,11 @@
         "description": "Tag \"sport=equestrian\". See https://wiki.openstreetmap.org/wiki/Tag:sport=equestrian"
     },
     "tag:sport=field_hockey": {
-        "message": "",
+        "message": "Hockey",
         "description": "Tag \"sport=field_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=field_hockey"
     },
     "tag:sport=fitness": {
-        "message": "",
+        "message": "Fitness",
         "description": "Tag \"sport=fitness\". See https://wiki.openstreetmap.org/wiki/Tag:sport=fitness"
     },
     "tag:sport=football": {
@@ -5498,7 +5498,7 @@
         "description": "Tag \"sport=horse_racing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=horse_racing"
     },
     "tag:sport=ice_hockey": {
-        "message": "",
+        "message": "Eishockey",
         "description": "Tag \"sport=ice_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_hockey"
     },
     "tag:sport=ice_skating": {
@@ -5510,11 +5510,11 @@
         "description": "Tag \"sport=korfball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=korfball"
     },
     "tag:sport=model_aerodrome": {
-        "message": "",
+        "message": "Modellflug",
         "description": "Tag \"sport=model_aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:sport=model_aerodrome"
     },
     "tag:sport=motocross": {
-        "message": "",
+        "message": "Motocross",
         "description": "Tag \"sport=motocross\". See https://wiki.openstreetmap.org/wiki/Tag:sport=motocross"
     },
     "tag:sport=motor": {
@@ -5566,7 +5566,7 @@
         "description": "Tag \"sport=running\". See https://wiki.openstreetmap.org/wiki/Tag:sport=running"
     },
     "tag:sport=sailing": {
-        "message": "",
+        "message": "Segeln",
         "description": "Tag \"sport=sailing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=sailing"
     },
     "tag:sport=shooting": {
@@ -5590,7 +5590,7 @@
         "description": "Tag \"sport=soccer\". See https://wiki.openstreetmap.org/wiki/Tag:sport=soccer"
     },
     "tag:sport=surfing": {
-        "message": "",
+        "message": "Surfen",
         "description": "Tag \"sport=surfing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=surfing"
     },
     "tag:sport=swimming": {
@@ -5614,7 +5614,7 @@
         "description": "Tag \"sport=volleyball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=volleyball"
     },
     "tag:sport=weightlifting": {
-        "message": "",
+        "message": "Gewichtheben",
         "description": "Tag \"sport=weightlifting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=weightlifting"
     },
     "tag:start_date": {
@@ -6036,5 +6036,81 @@
     "tag:xmas:feature=tree": {
         "message": "Weihnachtsbaum",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:leisure=pitch sport=badminton": {
+        "message": "Badmintonplatz",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=badminton\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=badminton"
+    },
+    "tag:leisure=pitch sport=baseball": {
+        "message": "Baseballfeld",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=baseball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=baseball"
+    },
+    "tag:leisure=pitch sport=basketball": {
+        "message": "Basketballfeld",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=basketball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=basketball"
+    },
+    "tag:leisure=pitch sport=beachvolleyball": {
+        "message": "Beachvolleyballplatz",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=beachvolleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=beachvolleyball"
+    },
+    "tag:leisure=pitch sport=boules": {
+        "message": "Boule-Platz",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=boules\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=boules"
+    },
+    "tag:leisure=pitch sport=cricket": {
+        "message": "Cricketfeld",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=cricket\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=cricket"
+    },
+    "tag:leisure=pitch sport=equestrian": {
+        "message": "Reitplatz",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=equestrian\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=equestrian"
+    },
+    "tag:leisure=pitch sport=field_hockey": {
+        "message": "Hockeyfeld",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=field_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=field_hockey"
+    },
+    "tag:leisure=pitch sport=horseshoes": {
+        "message": "Hufeisenwurfplatz",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=horseshoes\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=horseshoes"
+    },
+    "tag:leisure=pitch sport=netball": {
+        "message": "Korbball-Platz",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=netball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=netball"
+    },
+    "tag:leisure=pitch sport=rugby_league": {
+        "message": "Rugby-League-Feld",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=rugby_league\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_league"
+    },
+    "tag:leisure=pitch sport=rugby_union": {
+        "message": "Rugby-Union-Feld",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=rugby_union\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_union"
+    },
+    "tag:leisure=pitch sport=shuffleboard": {
+        "message": "Shuffleboard-Platz",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=shuffleboard\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=shuffleboard"
+    },
+    "tag:leisure=pitch sport=skateboard": {
+        "message": "Skatepark",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=skateboard\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=skateboard"
+    },
+    "tag:leisure=pitch sport=soccer": {
+        "message": "Fußballplatz",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=soccer\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=soccer"
+    },
+    "tag:leisure=pitch sport=softball": {
+        "message": "Softballfeld",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=softball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=softball"
+    },
+    "tag:leisure=pitch sport=table_tennis": {
+        "message": "Tischtennisplatte",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=table_tennis\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=table_tennis"
+    },
+    "tag:leisure=pitch sport=tennis": {
+        "message": "Tennisplatz",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=tennis\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=tennis"
+    },
+    "tag:leisure=pitch sport=volleyball": {
+        "message": "Volleyballplatz",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=volleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=volleyball"
     }
 }
