@@ -3330,7 +3330,7 @@
         "description": "Tag \"leisure=hackerspace\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=hackerspace"
     },
     "tag:leisure=horse_riding": {
-        "message": "",
+        "message": "Riding Facility",
         "description": "Tag \"leisure=horse_riding\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=horse_riding"
     },
     "tag:leisure=ice_rink": {
@@ -5686,7 +5686,7 @@
         "description": "Tag \"sport=bowls\". See https://wiki.openstreetmap.org/wiki/Tag:sport=bowls"
     },
     "tag:sport=canadian_football": {
-        "message": "",
+        "message": "Canadian Football",
         "description": "Tag \"sport=canadian_football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=canadian_football"
     },
     "tag:sport=canoe": {
@@ -5702,7 +5702,7 @@
         "description": "Tag \"sport=climbing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=climbing"
     },
     "tag:sport=cockfighting": {
-        "message": "",
+        "message": "Cockfighting",
         "description": "Tag \"sport=cockfighting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cockfighting"
     },
     "tag:sport=cricket": {
@@ -5718,7 +5718,7 @@
         "description": "Tag \"sport=cycling\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cycling"
     },
     "tag:sport=darts": {
-        "message": "",
+        "message": "Darts",
         "description": "Tag \"sport=darts\". See https://wiki.openstreetmap.org/wiki/Tag:sport=darts"
     },
     "tag:sport=diving": {
@@ -5738,7 +5738,7 @@
         "description": "Tag \"sport=field_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=field_hockey"
     },
     "tag:sport=fitness": {
-        "message": "",
+        "message": "Fitness",
         "description": "Tag \"sport=fitness\". See https://wiki.openstreetmap.org/wiki/Tag:sport=fitness"
     },
     "tag:sport=football": {
@@ -5762,7 +5762,7 @@
         "description": "Tag \"sport=horse_racing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=horse_racing"
     },
     "tag:sport=ice_hockey": {
-        "message": "",
+        "message": "Ice Hockey",
         "description": "Tag \"sport=ice_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_hockey"
     },
     "tag:sport=ice_skating": {
@@ -5778,7 +5778,7 @@
         "description": "Tag \"sport=model_aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:sport=model_aerodrome"
     },
     "tag:sport=motocross": {
-        "message": "",
+        "message": "Motocross",
         "description": "Tag \"sport=motocross\". See https://wiki.openstreetmap.org/wiki/Tag:sport=motocross"
     },
     "tag:sport=motor": {
@@ -5826,11 +5826,11 @@
         "description": "Tag \"sport=rugby_union\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_union"
     },
     "tag:sport=running": {
-        "message": "",
+        "message": "Running",
         "description": "Tag \"sport=running\". See https://wiki.openstreetmap.org/wiki/Tag:sport=running"
     },
     "tag:sport=sailing": {
-        "message": "",
+        "message": "Sailing",
         "description": "Tag \"sport=sailing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=sailing"
     },
     "tag:sport=shooting": {
