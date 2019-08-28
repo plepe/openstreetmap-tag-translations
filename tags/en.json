@@ -216,6 +216,10 @@
         "message": "Charging Station",
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
+    "tag:amenity=childcare": {
+        "message": "Childcare",
+        "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
+    },
     "tag:amenity=cinema": {
         "message": "Cinema",
         "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
