@@ -3340,7 +3340,7 @@
         "description": "Tag \"leisure=sports_centre\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sports_centre"
     },
     "tag:leisure=stadium": {
-        "message": "Stadien",
+        "message": "Stadion",
         "description": "Tag \"leisure=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=stadium"
     },
     "tag:leisure=summer_camp": {
@@ -3813,7 +3813,7 @@
         "description": "Tag \"natural=bay\". See https://wiki.openstreetmap.org/wiki/Tag:natural=bay"
     },
     "tag:natural=beach": {
-        "message": "Strände",
+        "message": "Strand",
         "description": "Tag \"natural=beach\". See https://wiki.openstreetmap.org/wiki/Tag:natural=beach"
     },
     "tag:natural=cape": {
