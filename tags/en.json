@@ -3954,7 +3954,7 @@
         "description": "Tag \"natural=bay\". See https://wiki.openstreetmap.org/wiki/Tag:natural=bay"
     },
     "tag:natural=beach": {
-        "message": "",
+        "message": "Beach",
         "description": "Tag \"natural=beach\". See https://wiki.openstreetmap.org/wiki/Tag:natural=beach"
     },
     "tag:natural=cape": {
