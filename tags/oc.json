@@ -216,10 +216,6 @@
         "message": "Estacion de recarga electrica",
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
-    "tag:amenity=childcare": {
-        "message": "",
-        "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
-    },
     "tag:amenity=cinema": {
         "message": "Cinèma",
         "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
@@ -592,10 +588,6 @@
         "message": "Lac",
         "description": "Tag \"bath:type=lake\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=lake"
     },
-    "tag:bath:type=onsen": {
-        "message": "Onsen",
-        "description": "Tag \"bath:type=onsen\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=onsen"
-    },
     "tag:bath:type=river": {
         "message": "Riu",
         "description": "Tag \"bath:type=river\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=river"
@@ -864,10 +856,6 @@
         "message": "Escòla",
         "description": "Tag \"building=school\". See https://wiki.openstreetmap.org/wiki/Tag:building=school"
     },
-    "tag:building=semidetached_house": {
-        "message": "Escart",
-        "description": "Tag \"building=semidetached_house\". See https://wiki.openstreetmap.org/wiki/Tag:building=semidetached_house"
-    },
     "tag:building=service": {
         "message": "Bastiment de servicis",
         "description": "Tag \"building=service\". See https://wiki.openstreetmap.org/wiki/Tag:building=service"
@@ -900,30 +888,6 @@
         "message": "Estable",
         "description": "Tag \"building=stable\". See https://wiki.openstreetmap.org/wiki/Tag:building=stable"
     },
-    "tag:building=stadium": {
-        "message": "Estadi",
-        "description": "Tag \"building=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:building=stadium"
-    },
-    "tag:building=static_caravan": {
-        "message": "Caravana fixa",
-        "description": "Tag \"building=static_caravan\". See https://wiki.openstreetmap.org/wiki/Tag:building=static_caravan"
-    },
-    "tag:building=storage_tank": {
-        "message": "Sèrva",
-        "description": "Tag \"building=storage_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=storage_tank"
-    },
-    "tag:building=sty": {
-        "message": "Porcieu",
-        "description": "Tag \"building=sty\". See https://wiki.openstreetmap.org/wiki/Tag:building=sty"
-    },
-    "tag:building=supermarket": {
-        "message": "Supermercat",
-        "description": "Tag \"building=supermarket\". See https://wiki.openstreetmap.org/wiki/Tag:building=supermarket"
-    },
-    "tag:building=synagogue": {
-        "message": "Sinagòga",
-        "description": "Tag \"building=synagogue\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue"
-    },
     "tag:building=synagogue religion=jewish": {
         "message": "Sinagòga",
         "description": "Combined tag \"building=synagogue\" and \"religion=jewish\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue and https://wiki.openstreetmap.org/wiki/Tag:religion=jewish"
@@ -931,10 +895,6 @@
     "tag:building=temple": {
         "message": "Temple",
         "description": "Tag \"building=temple\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple"
-    },
-    "tag:building=temple religion=sikh": {
-        "message": "Temple Sikh",
-        "description": "Combined tag \"building=temple\" and \"religion=sikh\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple and https://wiki.openstreetmap.org/wiki/Tag:religion=sikh"
     },
     "tag:building=terrace": {
         "message": "Ostaus mejanciers",
@@ -955,10 +915,6 @@
     "tag:building=transportation": {
         "message": "Edifici de transpòrt public",
         "description": "Tag \"building=transportation\". See https://wiki.openstreetmap.org/wiki/Tag:building=transportation"
-    },
-    "tag:building=trullo": {
-        "message": "Trullo",
-        "description": "Tag \"building=trullo\". See https://wiki.openstreetmap.org/wiki/Tag:building=trullo"
     },
     "tag:building=university": {
         "message": "Establiment universitari",
@@ -984,65 +940,6 @@
         "message": "Còst",
         "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
     },
-    "tag:climbing": {
-        "message": "Escalada",
-        "description": "Key \"climbing\". See https://wiki.openstreetmap.org/wiki/Key:climbing"
-    },
-    "tag:climbing:bolted": {
-        "message": "Cavilhat",
-        "description": "Key \"climbing:bolted\". See https://wiki.openstreetmap.org/wiki/Key:climbing:bolted"
-    },
-    "tag:climbing:boulder": "",
-    "tag:climbing:deepwater": {
-        "message": "En Solitari sus Aiga Fonsa",
-        "description": "Key \"climbing:deepwater\". See https://wiki.openstreetmap.org/wiki/Key:climbing:deepwater"
-    },
-    "tag:climbing:grade:french": {
-        "message": "Gra (FR)",
-        "description": "Key \"climbing:grade:french\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:french"
-    },
-    "tag:climbing:grade:polish": {
-        "message": "Gra (PL)",
-        "description": "Key \"climbing:grade:polish\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:polish"
-    },
-    "tag:climbing:grade:saxon": {
-        "message": "Gra (Saxon)",
-        "description": "Key \"climbing:grade:saxon\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:saxon"
-    },
-    "tag:climbing:grade:uiaa": {
-        "message": "Gra (UIAA)",
-        "description": "Key \"climbing:grade:uiaa\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:uiaa"
-    },
-    "tag:climbing:ice": {
-        "message": "Escalada sus glaç",
-        "description": "Key \"climbing:ice\". See https://wiki.openstreetmap.org/wiki/Key:climbing:ice"
-    },
-    "tag:climbing:length": {
-        "message": "Longor de via",
-        "description": "Key \"climbing:length\". See https://wiki.openstreetmap.org/wiki/Key:climbing:length"
-    },
-    "tag:climbing:mixed": {
-        "message": "Escalada mixta",
-        "description": "Key \"climbing:mixed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:mixed"
-    },
-    "tag:climbing:multipitch": "",
-    "tag:climbing:orientation": "",
-    "tag:climbing:quality": "",
-    "tag:climbing:rock": "",
-    "tag:climbing:routes": "",
-    "tag:climbing:speed": "",
-    "tag:climbing:sport": "",
-    "tag:climbing:summit_log": "",
-    "tag:climbing:toprope": "",
-    "tag:climbing:trad": "",
-    "tag:climbing=boulder": "",
-    "tag:climbing=crag": "",
-    "tag:climbing=route": {
-        "message": "Via",
-        "description": "Tag \"climbing=route\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route"
-    },
-    "tag:climbing=route_bottom": "",
-    "tag:climbing=route_top": "",
     "tag:clothes": {
         "message": "Vèstit",
         "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
@@ -1054,10 +951,6 @@
     "tag:clothes=babies": {
         "message": "Vèstits per leis enfantons",
         "description": "Tag \"clothes=babies\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
-    },
-    "tag:clothes=brand": {
-        "message": "Marca",
-        "description": "Tag \"clothes=brand\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=bridal": {
         "message": "Vèstit de nòvia",
@@ -1138,6 +1031,106 @@
     "tag:clothes=underwear": {
         "message": "Vèstit de dessota",
         "description": "Tag \"clothes=underwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:building=synagogue": {
+        "message": "Sinagòga",
+        "description": "Tag \"building=synagogue\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue"
+    },
+    "tag:information=audioguide": {
+        "message": "",
+        "description": "Tag \"information=audioguide\". See https://wiki.openstreetmap.org/wiki/Tag:information=audioguide"
+    },
+    "tag:information=board": {
+        "message": "",
+        "description": "Tag \"information=board\". See https://wiki.openstreetmap.org/wiki/Tag:information=board"
+    },
+    "tag:information=guidepost": {
+        "message": "",
+        "description": "Tag \"information=guidepost\". See https://wiki.openstreetmap.org/wiki/Tag:information=guidepost"
+    },
+    "tag:information=map": {
+        "message": "",
+        "description": "Tag \"information=map\". See https://wiki.openstreetmap.org/wiki/Tag:information=map"
+    },
+    "tag:information=office": {
+        "message": "",
+        "description": "Tag \"information=office\". See https://wiki.openstreetmap.org/wiki/Tag:information=office"
+    },
+    "tag:information=route_marker": {
+        "message": "",
+        "description": "Tag \"information=route_marker\". See https://wiki.openstreetmap.org/wiki/Tag:information=route_marker"
+    },
+    "tag:information=tactile_map": {
+        "message": "",
+        "description": "Tag \"information=tactile_map\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_map"
+    },
+    "tag:information=tactile_model": {
+        "message": "",
+        "description": "Tag \"information=tactile_model\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_model"
+    },
+    "tag:information=terminal": {
+        "message": "",
+        "description": "Tag \"information=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:information=terminal"
+    },
+    "tag:information=trail_blaze": {
+        "message": "",
+        "description": "Tag \"information=trail_blaze\". See https://wiki.openstreetmap.org/wiki/Tag:information=trail_blaze"
+    },
+    "tag:network=iwn": {
+        "message": "Itinerari de caminada internacionau",
+        "description": "Tag \"network=iwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=iwn"
+    },
+    "tag:network=lwn": {
+        "message": "Itinerari de caminada locau",
+        "description": "Tag \"network=lwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=lwn"
+    },
+    "tag:network=nwn": {
+        "message": "Itinerari de caminada nacionau",
+        "description": "Tag \"network=nwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=nwn"
+    },
+    "tag:network=rwn": {
+        "message": "Itinerari de caminada regionau",
+        "description": "Tag \"network=rwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=rwn"
+    },
+    "tag:bath:type=onsen": {
+        "message": "Onsen",
+        "description": "Tag \"bath:type=onsen\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=onsen"
+    },
+    "tag:building=semidetached_house": {
+        "message": "Escart",
+        "description": "Tag \"building=semidetached_house\". See https://wiki.openstreetmap.org/wiki/Tag:building=semidetached_house"
+    },
+    "tag:building=stadium": {
+        "message": "Estadi",
+        "description": "Tag \"building=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:building=stadium"
+    },
+    "tag:building=static_caravan": {
+        "message": "Caravana fixa",
+        "description": "Tag \"building=static_caravan\". See https://wiki.openstreetmap.org/wiki/Tag:building=static_caravan"
+    },
+    "tag:building=storage_tank": {
+        "message": "Sèrva",
+        "description": "Tag \"building=storage_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=storage_tank"
+    },
+    "tag:building=sty": {
+        "message": "Porcieu",
+        "description": "Tag \"building=sty\". See https://wiki.openstreetmap.org/wiki/Tag:building=sty"
+    },
+    "tag:building=supermarket": {
+        "message": "Supermercat",
+        "description": "Tag \"building=supermarket\". See https://wiki.openstreetmap.org/wiki/Tag:building=supermarket"
+    },
+    "tag:building=temple religion=sikh": {
+        "message": "Temple Sikh",
+        "description": "Combined tag \"building=temple\" and \"religion=sikh\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple and https://wiki.openstreetmap.org/wiki/Tag:religion=sikh"
+    },
+    "tag:building=trullo": {
+        "message": "Trullo",
+        "description": "Tag \"building=trullo\". See https://wiki.openstreetmap.org/wiki/Tag:building=trullo"
+    },
+    "tag:clothes=brand": {
+        "message": "Marca",
+        "description": "Tag \"clothes=brand\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=unisexs": {
         "message": "Vèstits unisèxes",
@@ -1960,10 +1953,6 @@
         "message": "pèças de forn",
         "description": "Tag \"cuisine=petit_four\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
-    "tag:cuisine=pie": {
-        "message": "torta",
-        "description": "Tag \"cuisine=pie\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
-    },
     "tag:cuisine=pizza": {
         "message": "pissaladiera, pizza",
         "description": "Tag \"cuisine=pizza\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
@@ -1984,8 +1973,6 @@
         "message": "portuguesa",
         "description": "Tag \"cuisine=portuguese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
-    "tag:cuisine=profiterole": "",
-    "tag:cuisine=punch_cake": "",
     "tag:cuisine=regional": {
         "message": "regionala",
         "description": "Tag \"cuisine=regional\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
@@ -2010,7 +1997,6 @@
         "message": "saussissas",
         "description": "Tag \"cuisine=sausage\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
-    "tag:cuisine=savory_pancakes": "",
     "tag:cuisine=seafood": {
         "message": "crustacèus e cauquilhatges de mar",
         "description": "Tag \"cuisine=seafood\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
@@ -2039,7 +2025,6 @@
         "message": "strudel",
         "description": "Tag \"cuisine=strudel\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
-    "tag:cuisine=sub": "",
     "tag:cuisine=sushi": {
         "message": "sochis",
         "description": "Tag \"cuisine=sushi\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
@@ -2088,7 +2073,6 @@
         "message": "oestfaliana",
         "description": "Tag \"cuisine=westphalian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
-    "tag:cuisine=wings": "",
     "tag:cutting": {
         "message": "Estrech",
         "description": "Key \"cutting\". See https://wiki.openstreetmap.org/wiki/Key:cutting"
@@ -2213,67 +2197,6 @@
         "message": "vegetarian",
         "description": "Key \"diet:vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegetarian"
     },
-    "tag:direction": "",
-    "tag:direction=E": {
-        "message": "Est (Levant)",
-        "description": "Tag \"direction=E\". See https://wiki.openstreetmap.org/wiki/Tag:direction=E"
-    },
-    "tag:direction=ENE": {
-        "message": "Est-nòrd-est",
-        "description": "Tag \"direction=NEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NEE"
-    },
-    "tag:direction=ESE": {
-        "message": "Est-sud-est",
-        "description": "Tag \"direction=SEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SEE"
-    },
-    "tag:direction=N": {
-        "message": "Nòrd (Tramontana)",
-        "description": "Tag \"direction=N\". See https://wiki.openstreetmap.org/wiki/Tag:direction=N"
-    },
-    "tag:direction=NNE": {
-        "message": "Nòrd-nòrd-est",
-        "description": "Tag \"direction=NNE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNE"
-    },
-    "tag:direction=NNW": {
-        "message": "Nòrd-nòrd-est",
-        "description": "Tag \"direction=NNW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNW"
-    },
-    "tag:direction=NW": {
-        "message": "Nòrd-oest (Mistrau)",
-        "description": "Tag \"direction=NW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NW"
-    },
-    "tag:direction=S": {
-        "message": "Sud (Miejornau)",
-        "description": "Tag \"direction=S\". See https://wiki.openstreetmap.org/wiki/Tag:direction=S"
-    },
-    "tag:direction=SE": {
-        "message": "Sud-est (Eisseròc)",
-        "description": "Tag \"direction=SE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SE"
-    },
-    "tag:direction=SSE": {
-        "message": "Sud-sud-est",
-        "description": "Tag \"direction=SSE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSE"
-    },
-    "tag:direction=SSW": {
-        "message": "Sud-sud-est",
-        "description": "Tag \"direction=SSW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSW"
-    },
-    "tag:direction=SW": {
-        "message": "Sud-oest (Labech)",
-        "description": "Tag \"direction=SW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SW"
-    },
-    "tag:direction=W": {
-        "message": "Oest (Ponent)",
-        "description": "Tag \"direction=W\". See https://wiki.openstreetmap.org/wiki/Tag:direction=W"
-    },
-    "tag:direction=WNW": {
-        "message": "Oest-nòrd-est",
-        "description": "Tag \"direction=NWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NWW"
-    },
-    "tag:direction=WSW": {
-        "message": "Oest-sud-oest",
-        "description": "Tag \"direction=SWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SWW"
-    },
     "tag:disused": {
         "message": "Obsolet",
         "description": "Key \"disused\". See https://wiki.openstreetmap.org/wiki/Key:disused"
@@ -2394,24 +2317,6 @@
         "message": "De verificar",
         "description": "Key \"fixme\". See https://wiki.openstreetmap.org/wiki/Key:fixme"
     },
-    "tag:flood_date": "",
-    "tag:flood_mark=engraving": {
-        "message": "Pus aut d’una aigada (marca gravada)",
-        "description": "Tag \"flood_mark=engraving\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=engraving"
-    },
-    "tag:flood_mark=painting": {
-        "message": "Pus aut d’una aigada (marca pintada)",
-        "description": "Tag \"flood_mark=painting\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=painting"
-    },
-    "tag:flood_mark=plaque": {
-        "message": "Pus aut d’una aigada (placa)",
-        "description": "Tag \"flood_mark=plaque\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=plaque"
-    },
-    "tag:flood_mark=pole": "",
-    "tag:food": {
-        "message": "Aliments",
-        "description": "Key \"food\". See https://wiki.openstreetmap.org/wiki/Key:food"
-    },
     "tag:foot": {
         "message": "Permés ai pedons",
         "description": "Key \"foot\". See https://wiki.openstreetmap.org/wiki/Key:foot"
@@ -2424,8 +2329,6 @@
         "message": "Frequéncia",
         "description": "Key \"frequency\". See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
-    "tag:frequency=0": "",
-    "tag:frequency>0": "",
     "tag:gauge": {
         "message": "Mesura",
         "description": "Key \"gauge\". See https://wiki.openstreetmap.org/wiki/Key:gauge"
@@ -2434,9 +2337,138 @@
         "message": "Fònt d’energia",
         "description": "Key \"generator:source\". See https://wiki.openstreetmap.org/wiki/Key:generator:source"
     },
-    "tag:generator:source=biofuel": "",
-    "tag:generator:source=biogas": "",
-    "tag:generator:source=biomass": "",
+    "tag:religion=muslim": {
+        "message": "musulmana",
+        "description": "Tag \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
+    },
+    "tag:tourism=aquarium": {
+        "message": "Aquari",
+        "description": "Tag \"tourism=aquarium\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=aquarium"
+    },
+    "tag:climbing": {
+        "message": "Escalada",
+        "description": "Key \"climbing\". See https://wiki.openstreetmap.org/wiki/Key:climbing"
+    },
+    "tag:climbing:bolted": {
+        "message": "Cavilhat",
+        "description": "Key \"climbing:bolted\". See https://wiki.openstreetmap.org/wiki/Key:climbing:bolted"
+    },
+    "tag:climbing:deepwater": {
+        "message": "En Solitari sus Aiga Fonsa",
+        "description": "Key \"climbing:deepwater\". See https://wiki.openstreetmap.org/wiki/Key:climbing:deepwater"
+    },
+    "tag:climbing:grade:french": {
+        "message": "Gra (FR)",
+        "description": "Key \"climbing:grade:french\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:french"
+    },
+    "tag:climbing:grade:polish": {
+        "message": "Gra (PL)",
+        "description": "Key \"climbing:grade:polish\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:polish"
+    },
+    "tag:climbing:grade:saxon": {
+        "message": "Gra (Saxon)",
+        "description": "Key \"climbing:grade:saxon\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:saxon"
+    },
+    "tag:climbing:grade:uiaa": {
+        "message": "Gra (UIAA)",
+        "description": "Key \"climbing:grade:uiaa\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:uiaa"
+    },
+    "tag:climbing:ice": {
+        "message": "Escalada sus glaç",
+        "description": "Key \"climbing:ice\". See https://wiki.openstreetmap.org/wiki/Key:climbing:ice"
+    },
+    "tag:climbing:length": {
+        "message": "Longor de via",
+        "description": "Key \"climbing:length\". See https://wiki.openstreetmap.org/wiki/Key:climbing:length"
+    },
+    "tag:climbing:mixed": {
+        "message": "Escalada mixta",
+        "description": "Key \"climbing:mixed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:mixed"
+    },
+    "tag:climbing=route": {
+        "message": "Via",
+        "description": "Tag \"climbing=route\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route"
+    },
+    "tag:cuisine=pie": {
+        "message": "torta",
+        "description": "Tag \"cuisine=pie\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:direction=E": {
+        "message": "Est (Levant)",
+        "description": "Tag \"direction=E\". See https://wiki.openstreetmap.org/wiki/Tag:direction=E"
+    },
+    "tag:direction=ENE": {
+        "message": "Est-nòrd-est",
+        "description": "Tag \"direction=NEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NEE"
+    },
+    "tag:direction=ESE": {
+        "message": "Est-sud-est",
+        "description": "Tag \"direction=SEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SEE"
+    },
+    "tag:direction=N": {
+        "message": "Nòrd (Tramontana)",
+        "description": "Tag \"direction=N\". See https://wiki.openstreetmap.org/wiki/Tag:direction=N"
+    },
+    "tag:direction=NNE": {
+        "message": "Nòrd-nòrd-est",
+        "description": "Tag \"direction=NNE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNE"
+    },
+    "tag:direction=NNW": {
+        "message": "Nòrd-nòrd-est",
+        "description": "Tag \"direction=NNW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNW"
+    },
+    "tag:direction=NW": {
+        "message": "Nòrd-oest (Mistrau)",
+        "description": "Tag \"direction=NW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NW"
+    },
+    "tag:direction=S": {
+        "message": "Sud (Miejornau)",
+        "description": "Tag \"direction=S\". See https://wiki.openstreetmap.org/wiki/Tag:direction=S"
+    },
+    "tag:direction=SE": {
+        "message": "Sud-est (Eisseròc)",
+        "description": "Tag \"direction=SE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SE"
+    },
+    "tag:direction=SSE": {
+        "message": "Sud-sud-est",
+        "description": "Tag \"direction=SSE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSE"
+    },
+    "tag:direction=SSW": {
+        "message": "Sud-sud-est",
+        "description": "Tag \"direction=SSW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSW"
+    },
+    "tag:direction=SW": {
+        "message": "Sud-oest (Labech)",
+        "description": "Tag \"direction=SW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SW"
+    },
+    "tag:direction=W": {
+        "message": "Oest (Ponent)",
+        "description": "Tag \"direction=W\". See https://wiki.openstreetmap.org/wiki/Tag:direction=W"
+    },
+    "tag:direction=WNW": {
+        "message": "Oest-nòrd-est",
+        "description": "Tag \"direction=NWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NWW"
+    },
+    "tag:direction=WSW": {
+        "message": "Oest-sud-oest",
+        "description": "Tag \"direction=SWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SWW"
+    },
+    "tag:flood_mark=engraving": {
+        "message": "Pus aut d’una aigada (marca gravada)",
+        "description": "Tag \"flood_mark=engraving\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=engraving"
+    },
+    "tag:flood_mark=painting": {
+        "message": "Pus aut d’una aigada (marca pintada)",
+        "description": "Tag \"flood_mark=painting\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=painting"
+    },
+    "tag:flood_mark=plaque": {
+        "message": "Pus aut d’una aigada (placa)",
+        "description": "Tag \"flood_mark=plaque\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=plaque"
+    },
+    "tag:food": {
+        "message": "Aliments",
+        "description": "Key \"food\". See https://wiki.openstreetmap.org/wiki/Key:food"
+    },
     "tag:generator:source=diesel": {
         "message": "gasòli",
         "description": "Tag \"generator:source=diesel\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=diesel"
@@ -2485,7 +2517,6 @@
         "message": "eolian",
         "description": "Tag \"generator:source=wind\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=wind"
     },
-    "tag:geological": "",
     "tag:goods": {
         "message": "Mèrças",
         "description": "Key \"goods\". See https://wiki.openstreetmap.org/wiki/Key:goods"
@@ -2558,12 +2589,10 @@
         "message": "Farmacia",
         "description": "Tag \"healthcare=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=pharmacy"
     },
-    "tag:healthcare=physiotherapist": "",
     "tag:healthcare=podiatrist": {
         "message": "Podològ",
         "description": "Tag \"healthcare=podiatrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=podiatrist"
     },
-    "tag:healthcare=psychotherapist": "",
     "tag:healthcare=rehabilitation": {
         "message": "Readaptacion",
         "description": "Tag \"healthcare=rehabilitation\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=rehabilitation"
@@ -2580,11 +2609,6 @@
         "message": "Patrimòni",
         "description": "Tag \"heritage=0\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=0"
     },
-    "tag:heritage=2": "",
-    "tag:heritage=3": "",
-    "tag:heritage=4": "",
-    "tag:heritage=8": "",
-    "tag:hgv": "",
     "tag:highway": {
         "message": "Rota",
         "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
@@ -2609,23 +2633,14 @@
         "message": "Pista ciclabla",
         "description": "Tag \"highway=cycleway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=cycleway"
     },
-    "tag:highway=emergency_access_point": "",
-    "tag:highway=footway": "",
-    "tag:highway=living_street": "",
-    "tag:highway=mini_roundabout": "",
-    "tag:highway=minor": "",
     "tag:highway=motorway": {
         "message": "Autorota",
         "description": "Tag \"highway=motorway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=motorway"
     },
-    "tag:highway=motorway_junction": "",
-    "tag:highway=motorway_link": "",
-    "tag:highway=passing_place": "",
     "tag:highway=path": {
         "message": "Draiòu",
         "description": "Tag \"highway=path\". See https://wiki.openstreetmap.org/wiki/Tag:highway=path"
     },
-    "tag:highway=pedestrian": "",
     "tag:highway=platform": {
         "message": "Estacion d’autobús",
         "description": "Tag \"highway=platform\". See https://wiki.openstreetmap.org/wiki/Tag:highway=platform"
@@ -2634,8 +2649,6 @@
         "message": "Rota principala",
         "description": "Tag \"highway=primary\". See https://wiki.openstreetmap.org/wiki/Tag:highway=primary"
     },
-    "tag:highway=primary_link": "",
-    "tag:highway=residential": "",
     "tag:highway=road": {
         "message": "Rota",
         "description": "Tag \"highway=road\". See https://wiki.openstreetmap.org/wiki/Tag:highway=road"
@@ -2652,937 +2665,12 @@
         "message": "Rota de servici",
         "description": "Tag \"highway=service\". See https://wiki.openstreetmap.org/wiki/Tag:highway=service"
     },
-    "tag:highway=services": "",
     "tag:highway=steps": {
         "message": "Escaliers",
         "description": "Tag \"highway=steps\". See https://wiki.openstreetmap.org/wiki/Tag:highway=steps"
     },
-    "tag:highway=stop": "",
-    "tag:highway=tertiary": "",
-    "tag:highway=track": "",
-    "tag:highway=trunk": "",
-    "tag:highway=trunk_link": "",
-    "tag:highway=unclassified": "",
-    "tag:highway=via_ferrata": "",
     "tag:historic": {
         "message": "Istoric",
         "description": "Key \"historic\". See https://wiki.openstreetmap.org/wiki/Key:historic"
-    },
-    "tag:historic:civilization": "",
-    "tag:historic:civilization=ancient_egyptian": "",
-    "tag:historic:civilization=ancient_greek": "",
-    "tag:historic:civilization=ancient_roman": "",
-    "tag:historic:civilization=byzantine": "",
-    "tag:historic:civilization=celtic": "",
-    "tag:historic:civilization=etruscan": "",
-    "tag:historic:civilization=imperial_chinese": "",
-    "tag:historic:civilization=korean": "",
-    "tag:historic:civilization=medieval": "",
-    "tag:historic:civilization=modern": "",
-    "tag:historic:civilization=neolithic": "",
-    "tag:historic:civilization=nuragic": "",
-    "tag:historic:civilization=ottoman": "",
-    "tag:historic:civilization=prehistoric": "",
-    "tag:historic:civilization=roman": "",
-    "tag:historic:civilization=western_roman": "",
-    "tag:historic=aircraft": "",
-    "tag:historic=aqueduct": "",
-    "tag:historic=archaeological_site": "",
-    "tag:historic=battlefield": "",
-    "tag:historic=boundary_stone": "",
-    "tag:historic=bridge": "",
-    "tag:historic=building": "",
-    "tag:historic=cannon": "",
-    "tag:historic=castle": "",
-    "tag:historic=church": "",
-    "tag:historic=city_gate": "",
-    "tag:historic=citywalls": "",
-    "tag:historic=exhibit": "",
-    "tag:historic=farm": "",
-    "tag:historic=flood_mark": "",
-    "tag:historic=fort": "",
-    "tag:historic=industrial": "",
-    "tag:historic=kiln": "",
-    "tag:historic=locomotive": "",
-    "tag:historic=manor": "",
-    "tag:historic=memorial": "",
-    "tag:historic=milestone": "",
-    "tag:historic=mine": "",
-    "tag:historic=monastery": "",
-    "tag:historic=monument": "",
-    "tag:historic=pillory": "",
-    "tag:historic=railway_car": "",
-    "tag:historic=ruins": "",
-    "tag:historic=ship": "",
-    "tag:historic=stone": "",
-    "tag:historic=technical_monument": "",
-    "tag:historic=tomb": "",
-    "tag:historic=tower": "",
-    "tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage": "",
-    "tag:historic=wayside_chapel": "",
-    "tag:historic=wayside_cross": "",
-    "tag:historic=wayside_shrine": "",
-    "tag:historic=wreck": "",
-    "tag:historic=yes": "",
-    "tag:horse": "",
-    "tag:incline": "",
-    "tag:information=audioguide": {
-        "message": "",
-        "description": "Tag \"information=audioguide\". See https://wiki.openstreetmap.org/wiki/Tag:information=audioguide"
-    },
-    "tag:information=board": {
-        "message": "",
-        "description": "Tag \"information=board\". See https://wiki.openstreetmap.org/wiki/Tag:information=board"
-    },
-    "tag:information=guidepost": {
-        "message": "",
-        "description": "Tag \"information=guidepost\". See https://wiki.openstreetmap.org/wiki/Tag:information=guidepost"
-    },
-    "tag:information=map": {
-        "message": "",
-        "description": "Tag \"information=map\". See https://wiki.openstreetmap.org/wiki/Tag:information=map"
-    },
-    "tag:information=office": {
-        "message": "",
-        "description": "Tag \"information=office\". See https://wiki.openstreetmap.org/wiki/Tag:information=office"
-    },
-    "tag:information=route_marker": {
-        "message": "",
-        "description": "Tag \"information=route_marker\". See https://wiki.openstreetmap.org/wiki/Tag:information=route_marker"
-    },
-    "tag:information=tactile_map": {
-        "message": "",
-        "description": "Tag \"information=tactile_map\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_map"
-    },
-    "tag:information=tactile_model": {
-        "message": "",
-        "description": "Tag \"information=tactile_model\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_model"
-    },
-    "tag:information=terminal": {
-        "message": "",
-        "description": "Tag \"information=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:information=terminal"
-    },
-    "tag:information=trail_blaze": {
-        "message": "",
-        "description": "Tag \"information=trail_blaze\". See https://wiki.openstreetmap.org/wiki/Tag:information=trail_blaze"
-    },
-    "tag:inscription": "",
-    "tag:int_name": "",
-    "tag:intermittent": "",
-    "tag:internet_access=public": "",
-    "tag:internet_access=service": "",
-    "tag:internet_access=terminal": "",
-    "tag:internet_access=terminal internet_access:fee=no": "",
-    "tag:internet_access=wired": "",
-    "tag:internet_access=wlan": "",
-    "tag:internet_access=wlan internet_access:fee=customers": "",
-    "tag:internet_access=wlan internet_access:fee=no": "",
-    "tag:internet_access=wlan internet_access:fee=yes": "",
-    "tag:is_in": "",
-    "tag:kids_area": "",
-    "tag:landuse": "",
-    "tag:landuse=allotments": "",
-    "tag:landuse=basin": "",
-    "tag:landuse=brownfield": "",
-    "tag:landuse=cemetery": "",
-    "tag:landuse=construction": "",
-    "tag:landuse=farmland": "",
-    "tag:landuse=farmyard": "",
-    "tag:landuse=forest": "",
-    "tag:landuse=garages": "",
-    "tag:landuse=grass": "",
-    "tag:landuse=greenfield": "",
-    "tag:landuse=greenhouse_horticulture": "",
-    "tag:landuse=industrial": "",
-    "tag:landuse=landfill": "",
-    "tag:landuse=meadow": "",
-    "tag:landuse=military": "",
-    "tag:landuse=orchard": "",
-    "tag:landuse=quarry": "",
-    "tag:landuse=railway": "",
-    "tag:landuse=recreation_ground": "",
-    "tag:landuse=reservoir": "",
-    "tag:landuse=residential": "",
-    "tag:landuse=salt_pond": "",
-    "tag:landuse=vineyard": "",
-    "tag:lanes": "",
-    "tag:layer": "",
-    "tag:leisure": "",
-    "tag:leisure=adult_gaming_centre": "",
-    "tag:leisure=amusement_arcade": "",
-    "tag:leisure=bandstand": "",
-    "tag:leisure=beach_resort": "",
-    "tag:leisure=bird_hide": "",
-    "tag:leisure=common": "",
-    "tag:leisure=dance": "",
-    "tag:leisure=dog_park": "",
-    "tag:leisure=firepit": "",
-    "tag:leisure=fishing": "",
-    "tag:leisure=fitness_centre": "",
-    "tag:leisure=fitness_station": "",
-    "tag:leisure=garden": "",
-    "tag:leisure=golf_course": "",
-    "tag:leisure=hackerspace": "",
-    "tag:leisure=horse_riding": "",
-    "tag:leisure=ice_rink": "",
-    "tag:leisure=indoor_play": "",
-    "tag:leisure=marina": "",
-    "tag:leisure=miniature_golf": "",
-    "tag:leisure=nature_reserve": "",
-    "tag:leisure=outdoor_seating": "",
-    "tag:leisure=park": "",
-    "tag:leisure=picnic_table": "",
-    "tag:leisure=pitch": "",
-    "tag:leisure=pitch sport=american_football": "",
-    "tag:leisure=pitch sport=australian_football": "",
-    "tag:leisure=pitch sport=badminton": "",
-    "tag:leisure=pitch sport=baseball": "",
-    "tag:leisure=pitch sport=basketball": "",
-    "tag:leisure=pitch sport=beachvolleyball": "",
-    "tag:leisure=pitch sport=boules": "",
-    "tag:leisure=pitch sport=cricket": "",
-    "tag:leisure=pitch sport=equestrian": "",
-    "tag:leisure=pitch sport=field_hockey": "",
-    "tag:leisure=pitch sport=horseshoes": "",
-    "tag:leisure=pitch sport=netball": "",
-    "tag:leisure=pitch sport=rugby_league": "",
-    "tag:leisure=pitch sport=rugby_union": "",
-    "tag:leisure=pitch sport=shuffleboard": "",
-    "tag:leisure=pitch sport=skateboard": "",
-    "tag:leisure=pitch sport=soccer": "",
-    "tag:leisure=pitch sport=softball": "",
-    "tag:leisure=pitch sport=table_tennis": "",
-    "tag:leisure=pitch sport=tennis": "",
-    "tag:leisure=pitch sport=volleyball": "",
-    "tag:leisure=playground": "",
-    "tag:leisure=sauna": "",
-    "tag:leisure=slipway": "",
-    "tag:leisure=sport": "",
-    "tag:leisure=sports_centre": "",
-    "tag:leisure=stadium": "",
-    "tag:leisure=summer_camp": "",
-    "tag:leisure=swimming_area": "",
-    "tag:leisure=swimming_pool": "",
-    "tag:leisure=track": "",
-    "tag:leisure=water_park": "",
-    "tag:leisure=wildlife_hide": "",
-    "tag:lit": "",
-    "tag:loc_name": "",
-    "tag:man_made": "",
-    "tag:man_made=incinerator": "",
-    "tag:man_made=mineshaft": "",
-    "tag:man_made=pipeline": "",
-    "tag:man_made=wastewater_plant": "",
-    "tag:material": "",
-    "tag:material=adobe": "",
-    "tag:material=andesite": "",
-    "tag:material=bamboo": "",
-    "tag:material=brass": "",
-    "tag:material=brick": "",
-    "tag:material=bronze": "",
-    "tag:material=concrete": "",
-    "tag:material=glass": "",
-    "tag:material=gold": "",
-    "tag:material=granite": "",
-    "tag:material=iron": "",
-    "tag:material=light": "",
-    "tag:material=limestone": "",
-    "tag:material=marble": "",
-    "tag:material=masonry": "",
-    "tag:material=metal": "",
-    "tag:material=mixed": "",
-    "tag:material=palm_leaves": "",
-    "tag:material=plastic": "",
-    "tag:material=rammed_earth": "",
-    "tag:material=reinforced_concrete": "",
-    "tag:material=sandstone": "",
-    "tag:material=silicate_brick": "",
-    "tag:material=silver": "",
-    "tag:material=soil": "",
-    "tag:material=steel": "",
-    "tag:material=stone": "",
-    "tag:material=wood": "",
-    "tag:maxheight": "",
-    "tag:maxlength": "",
-    "tag:maxspeed": "",
-    "tag:maxweight": "",
-    "tag:memorial:conflict": "",
-    "tag:memorial:conflict=WW1": "",
-    "tag:memorial:conflict=WW2": "",
-    "tag:memorial=blue_plaque": "",
-    "tag:memorial=bust": "",
-    "tag:memorial=cross": "",
-    "tag:memorial=ghost_bike": "",
-    "tag:memorial=grave": "",
-    "tag:memorial=graveyard": "",
-    "tag:memorial=high_water_mark": "",
-    "tag:memorial=obelisk": "",
-    "tag:memorial=plaque": "",
-    "tag:memorial=sculpture": "",
-    "tag:memorial=statue": "",
-    "tag:memorial=stele": "",
-    "tag:memorial=stolperstein": "",
-    "tag:memorial=stone": "",
-    "tag:memorial=tank": "",
-    "tag:memorial=vehicle": "",
-    "tag:memorial=war_memorial": "",
-    "tag:military": "",
-    "tag:military=airfield": "",
-    "tag:military=ammunition": "",
-    "tag:military=barracks": "",
-    "tag:military=bunker": "",
-    "tag:military=checkpoint": "",
-    "tag:military=danger_area": "",
-    "tag:military=naval_base": "",
-    "tag:military=nuclear_explosion_site": "",
-    "tag:military=obstacle_course": "",
-    "tag:military=office": "",
-    "tag:military=range": "",
-    "tag:military=training_area": "",
-    "tag:military=trench": "",
-    "tag:military=yes": "",
-    "tag:minspeed": "",
-    "tag:motorcar": "",
-    "tag:motorcycle": "",
-    "tag:mountain_pass": "",
-    "tag:museum=agriculture": "",
-    "tag:museum=archaeology": "",
-    "tag:museum=art": "",
-    "tag:museum=aviation": "",
-    "tag:museum=children": "",
-    "tag:museum=gallery": "",
-    "tag:museum=history": "",
-    "tag:museum=language": "",
-    "tag:museum=living_history": "",
-    "tag:museum=local": "",
-    "tag:museum=maritime": "",
-    "tag:museum=military": "",
-    "tag:museum=nature": "",
-    "tag:museum=open_air": "",
-    "tag:museum=person": "",
-    "tag:museum=railway": "",
-    "tag:museum=science": "",
-    "tag:museum=technology": "",
-    "tag:museum=transport": "",
-    "tag:museum=war": "",
-    "tag:museum_type=departmental": "",
-    "tag:museum_type=institutional": "",
-    "tag:museum_type=municipal": "",
-    "tag:museum_type=national": "",
-    "tag:museum_type=private": "",
-    "tag:museum_type=public": "",
-    "tag:name": "",
-    "tag:name:etymology": "",
-    "tag:narrow": "",
-    "tag:natural": "",
-    "tag:natural=arete": "",
-    "tag:natural=bare_rock": "",
-    "tag:natural=bay": "",
-    "tag:natural=beach": "",
-    "tag:natural=cape": "",
-    "tag:natural=cave_entrance": "",
-    "tag:natural=cliff": "",
-    "tag:natural=coastline": "",
-    "tag:natural=divide": "",
-    "tag:natural=fell": "",
-    "tag:natural=geyser": "",
-    "tag:natural=glacier": "",
-    "tag:natural=grassland": "",
-    "tag:natural=heath": "",
-    "tag:natural=hill": "",
-    "tag:natural=hot_spring": "",
-    "tag:natural=marsh": "",
-    "tag:natural=moor": "",
-    "tag:natural=mountain": "",
-    "tag:natural=mountain_range": "",
-    "tag:natural=mud": "",
-    "tag:natural=peak": "",
-    "tag:natural=peninsula": "",
-    "tag:natural=reef": "",
-    "tag:natural=ridge": "",
-    "tag:natural=river_terrace": "",
-    "tag:natural=rock": "",
-    "tag:natural=saddle": "",
-    "tag:natural=sand": "",
-    "tag:natural=scree": "",
-    "tag:natural=scrub": "",
-    "tag:natural=shingle": "",
-    "tag:natural=sinkhole": "",
-    "tag:natural=spring": "",
-    "tag:natural=stone": "",
-    "tag:natural=strait": "",
-    "tag:natural=tree": "",
-    "tag:natural=tree_row": "",
-    "tag:natural=valley": "",
-    "tag:natural=volcano": "",
-    "tag:natural=water": "",
-    "tag:natural=wetland": "",
-    "tag:natural=wood": "",
-    "tag:network": "",
-    "tag:network=icn": "",
-    "tag:network=iwn": {
-        "message": "Itinerari de caminada internacionau",
-        "description": "Tag \"network=iwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=iwn"
-    },
-    "tag:network=lcn": "",
-    "tag:network=lwn": {
-        "message": "Itinerari de caminada locau",
-        "description": "Tag \"network=lwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=lwn"
-    },
-    "tag:network=ncn": "",
-    "tag:network=nwn": {
-        "message": "Itinerari de caminada nacionau",
-        "description": "Tag \"network=nwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=nwn"
-    },
-    "tag:network=rcn": "",
-    "tag:network=rwn": {
-        "message": "Itinerari de caminada regionau",
-        "description": "Tag \"network=rwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=rwn"
-    },
-    "tag:noexit": "",
-    "tag:note": "",
-    "tag:office": "",
-    "tag:office=accountant": "",
-    "tag:office=administration": "",
-    "tag:office=adoption_agency": "",
-    "tag:office=advertising_agency": "",
-    "tag:office=architect": "",
-    "tag:office=association": "",
-    "tag:office=camping": "",
-    "tag:office=charity": "",
-    "tag:office=company": "",
-    "tag:office=cooperative": "",
-    "tag:office=coworking": "",
-    "tag:office=diplomatic": "",
-    "tag:office=educational_institution": "",
-    "tag:office=employment_agency": "",
-    "tag:office=energy_supplier": "",
-    "tag:office=engineer": "",
-    "tag:office=estate_agent": "",
-    "tag:office=financial": "",
-    "tag:office=forestry": "",
-    "tag:office=foundation": "",
-    "tag:office=geodesist": "",
-    "tag:office=government": "",
-    "tag:office=guide": "",
-    "tag:office=insurance": "",
-    "tag:office=it": "",
-    "tag:office=lawyer": "",
-    "tag:office=logistics": "",
-    "tag:office=moving_company": "",
-    "tag:office=newspaper": "",
-    "tag:office=ngo": "",
-    "tag:office=notary": "",
-    "tag:office=parish": "",
-    "tag:office=political_party": "",
-    "tag:office=private_investigator": "",
-    "tag:office=property_management": "",
-    "tag:office=publisher": "",
-    "tag:office=quango": "",
-    "tag:office=religion": "",
-    "tag:office=research": "",
-    "tag:office=surveyor": "",
-    "tag:office=tax": "",
-    "tag:office=tax_advisor": "",
-    "tag:office=telecommunication": "",
-    "tag:office=therapist": "",
-    "tag:office=tourism": "",
-    "tag:office=tourist_accommodation": "",
-    "tag:office=travel_agent": "",
-    "tag:office=vacant": "",
-    "tag:office=visa": "",
-    "tag:office=water_utility": "",
-    "tag:official_name": "",
-    "tag:old_name": "",
-    "tag:oneway": "",
-    "tag:opening_date": "",
-    "tag:opening_hours": "",
-    "tag:operator": "",
-    "tag:payment": "",
-    "tag:payment:account_cards": "",
-    "tag:payment:american_express": "",
-    "tag:payment:bitcoin": "",
-    "tag:payment:cash": "",
-    "tag:payment:coins": "",
-    "tag:payment:credit_cards": "",
-    "tag:payment:cryptocurrencies": "",
-    "tag:payment:debit_cards": "",
-    "tag:payment:diners_club": "",
-    "tag:payment:discover_card": "",
-    "tag:payment:electronic_purses": "",
-    "tag:payment:ep_geldkarte": "",
-    "tag:payment:girocard": "",
-    "tag:payment:maestro": "",
-    "tag:payment:mastercard": "",
-    "tag:payment:none": "",
-    "tag:payment:notes": "",
-    "tag:payment:telephone_cards": "",
-    "tag:payment:visa": "",
-    "tag:payment:visa_debit": "",
-    "tag:payment:visa_electron": "",
-    "tag:phone": "",
-    "tag:place": "",
-    "tag:place=city": "",
-    "tag:place=city population<200000": "",
-    "tag:place=continent": "",
-    "tag:place=country": "",
-    "tag:place=county": "",
-    "tag:place=farm": "",
-    "tag:place=hamlet": "",
-    "tag:place=island": "",
-    "tag:place=islet": "",
-    "tag:place=isolated_dwelling": "",
-    "tag:place=locality": "",
-    "tag:place=neighbourhood": "",
-    "tag:place=ocean": "",
-    "tag:place=quarter": "",
-    "tag:place=region": "",
-    "tag:place=sea": "",
-    "tag:place=state": "",
-    "tag:place=suburb": "",
-    "tag:place=town": "",
-    "tag:place=town population>=30000": "",
-    "tag:place=village": "",
-    "tag:population": "",
-    "tag:postal_code": "",
-    "tag:power": "",
-    "tag:power=cable": "",
-    "tag:power=catenary_mast": "",
-    "tag:power=compensator": "",
-    "tag:power=converter": "",
-    "tag:power=generator": "",
-    "tag:power=heliostat": "",
-    "tag:power=insulator": "",
-    "tag:power=line": "",
-    "tag:power=minor_line": "",
-    "tag:power=pole": "",
-    "tag:power=portal": "",
-    "tag:power=station": "",
-    "tag:power=substation": "",
-    "tag:power=switchgear": "",
-    "tag:power=terminal": "",
-    "tag:power=tower": "",
-    "tag:power=transformer": "",
-    "tag:power_source": "",
-    "tag:power_source=biofuel": "",
-    "tag:power_source=coal": "",
-    "tag:power_source=fusion": "",
-    "tag:power_source=gas": "",
-    "tag:power_source=geothermal": "",
-    "tag:power_source=hydro": "",
-    "tag:power_source=nuclear": "",
-    "tag:power_source=oil": "",
-    "tag:power_source=photovoltaic": "",
-    "tag:power_source=solar-thermal": "",
-    "tag:power_source=tidal": "",
-    "tag:power_source=waste": "",
-    "tag:power_source=wave": "",
-    "tag:power_source=wind": "",
-    "tag:proposed": "",
-    "tag:psv": "",
-    "tag:public_transport": "",
-    "tag:public_transport=platform": "",
-    "tag:public_transport=stop_position": "",
-    "tag:railway": "",
-    "tag:railway=abandoned": "",
-    "tag:railway=buffer_stop": "",
-    "tag:railway=crossing": "",
-    "tag:railway=crossing_box": "",
-    "tag:railway=disused": "",
-    "tag:railway=halt": "",
-    "tag:railway=level_crossing": "",
-    "tag:railway=light_rail": "",
-    "tag:railway=narrow_gauge": "",
-    "tag:railway=platform": "",
-    "tag:railway=preserved": "",
-    "tag:railway=rail": "",
-    "tag:railway=rail service": "",
-    "tag:railway=rail service=crossover": "",
-    "tag:railway=rail service=siding": "",
-    "tag:railway=rail service=spur": "",
-    "tag:railway=rail service=yard": "",
-    "tag:railway=rail usage": "",
-    "tag:railway=rail usage=branch": "",
-    "tag:railway=rail usage=industrial": "",
-    "tag:railway=rail usage=main": "",
-    "tag:railway=rail usage=military": "",
-    "tag:railway=rail usage=test": "",
-    "tag:railway=rail usage=tourism": "",
-    "tag:railway=station": "",
-    "tag:railway=subway": "",
-    "tag:railway=subway_entrance": "",
-    "tag:railway=switch": "",
-    "tag:railway=tram": "",
-    "tag:railway=tram;narrow_gauge": "",
-    "tag:railway=tram_stop": "",
-    "tag:railway=yard": "",
-    "tag:real_ale": "",
-    "tag:ref": "",
-    "tag:religion": "",
-    "tag:religion=bahai": "",
-    "tag:religion=buddhist": "",
-    "tag:religion=caodaism": "",
-    "tag:religion=christian": "",
-    "tag:religion=confucian": "",
-    "tag:religion=hindu": "",
-    "tag:religion=jain": "",
-    "tag:religion=jewish": "",
-    "tag:religion=multifaith": "",
-    "tag:religion=muslim": {
-        "message": "musulmana",
-        "description": "Tag \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
-    },
-    "tag:religion=none": "",
-    "tag:religion=pagan": "",
-    "tag:religion=pentecostal": "",
-    "tag:religion=scientologist": "",
-    "tag:religion=shamanic": "",
-    "tag:religion=shinto": "",
-    "tag:religion=sikh": "",
-    "tag:religion=spiritualist": "",
-    "tag:religion=taoist": "",
-    "tag:religion=tenrikyo": "",
-    "tag:religion=unitarian_universialist": "",
-    "tag:religion=vientamese_folk": "",
-    "tag:religion=voodoo": "",
-    "tag:religion=zoroastrian": "",
-    "tag:residential=HDB": "",
-    "tag:residential=apartments": "",
-    "tag:residential=cottage": "",
-    "tag:residential=detached": "",
-    "tag:residential=garden": "",
-    "tag:residential=gated": "",
-    "tag:residential=halting_site": "",
-    "tag:residential=irregular_settlement": "",
-    "tag:residential=rural": "",
-    "tag:residential=single_family": "",
-    "tag:residential=urban": "",
-    "tag:route": "",
-    "tag:route=aerialway": "",
-    "tag:route=bicycle": "",
-    "tag:route=bus": "",
-    "tag:route=ferry": "",
-    "tag:route=fitness_trail": "",
-    "tag:route=hiking": "",
-    "tag:route=light_rail": "",
-    "tag:route=minibus": "",
-    "tag:route=monorail": "",
-    "tag:route=mtb": "",
-    "tag:route=rail": "",
-    "tag:route=railway": "",
-    "tag:route=road": "",
-    "tag:route=subway": "",
-    "tag:route=train": "",
-    "tag:route=tram": "",
-    "tag:route=tram_bus": "",
-    "tag:route=trolley": "",
-    "tag:route=trolleybus": "",
-    "tag:route_type": "",
-    "tag:sauna=aroma": "",
-    "tag:sauna=dry": "",
-    "tag:sauna=hanjeungmak": "",
-    "tag:sauna=hot": "",
-    "tag:sauna=infrared": "",
-    "tag:sauna=smoke": "",
-    "tag:sauna=steam": "",
-    "tag:service": "",
-    "tag:shop": "",
-    "tag:shop=agrarian": "",
-    "tag:shop=alcohol": "",
-    "tag:shop=anime": "",
-    "tag:shop=antiques": "",
-    "tag:shop=appliance": "",
-    "tag:shop=art": "",
-    "tag:shop=baby_goods": "",
-    "tag:shop=bag": "",
-    "tag:shop=bakery": "",
-    "tag:shop=beauty": "",
-    "tag:shop=bed": "",
-    "tag:shop=beverages": "",
-    "tag:shop=bicycle": "",
-    "tag:shop=books": "",
-    "tag:shop=boutique": "",
-    "tag:shop=butcher": "",
-    "tag:shop=camera": "",
-    "tag:shop=car_parts": "",
-    "tag:shop=car_repair": "",
-    "tag:shop=car_repair service=wheel_repair": "",
-    "tag:shop=carpet": "",
-    "tag:shop=charity": "",
-    "tag:shop=cheese": "",
-    "tag:shop=chemist": "",
-    "tag:shop=chocolate": "",
-    "tag:shop=clothes": "",
-    "tag:shop=coffee": "",
-    "tag:shop=computer": "",
-    "tag:shop=confectionery": "",
-    "tag:shop=convenience": "",
-    "tag:shop=copyshop": "",
-    "tag:shop=craft": "",
-    "tag:shop=curtain": "",
-    "tag:shop=dairy": "",
-    "tag:shop=deli": "",
-    "tag:shop=department_store": "",
-    "tag:shop=doityourself": "",
-    "tag:shop=dry_cleaning": "",
-    "tag:shop=e-cigarette": "",
-    "tag:shop=electrical": "",
-    "tag:shop=electronics": "",
-    "tag:shop=erotic": "",
-    "tag:shop=estate_agent": "",
-    "tag:shop=fabric": "",
-    "tag:shop=farm": "",
-    "tag:shop=fashion": "",
-    "tag:shop=fish": "",
-    "tag:shop=fishing": "",
-    "tag:shop=fishmonger": "",
-    "tag:shop=fixme": "",
-    "tag:shop=florist": "",
-    "tag:shop=frame": "",
-    "tag:shop=frozen_food": "",
-    "tag:shop=furniture": "",
-    "tag:shop=games": "",
-    "tag:shop=garden_centre": "",
-    "tag:shop=general": "",
-    "tag:shop=gift": "",
-    "tag:shop=greengrocer": "",
-    "tag:shop=grocery": "",
-    "tag:shop=hairdresser": "",
-    "tag:shop=hardware": "",
-    "tag:shop=health_food": "",
-    "tag:shop=hearing_aids": "",
-    "tag:shop=hifi": "",
-    "tag:shop=houseware": "",
-    "tag:shop=ice_cream": "",
-    "tag:shop=interior_decoration": "",
-    "tag:shop=jewelry": "",
-    "tag:shop=kiosk": "",
-    "tag:shop=laundry": "",
-    "tag:shop=leather": "",
-    "tag:shop=mall": "",
-    "tag:shop=market": "",
-    "tag:shop=medical_supply": "",
-    "tag:shop=mobile_phone": "",
-    "tag:shop=model": "",
-    "tag:shop=motorcycle": "",
-    "tag:shop=music": "",
-    "tag:shop=musical_instrument": "",
-    "tag:shop=newsagent": "",
-    "tag:shop=optician": "",
-    "tag:shop=organic": "",
-    "tag:shop=outdoor": "",
-    "tag:shop=party": "",
-    "tag:shop=pasta": "",
-    "tag:shop=pastry": "",
-    "tag:shop=perfumery": "",
-    "tag:shop=pet": "",
-    "tag:shop=photo": "",
-    "tag:shop=printing": "",
-    "tag:shop=seafood": "",
-    "tag:shop=second_hand": "",
-    "tag:shop=sewing": "",
-    "tag:shop=shoemaker": "",
-    "tag:shop=shoes": "",
-    "tag:shop=shopping_centre": "",
-    "tag:shop=spices": "",
-    "tag:shop=sports": "",
-    "tag:shop=stationery": "",
-    "tag:shop=storage_rental": "",
-    "tag:shop=supermarket": "",
-    "tag:shop=tailor": "",
-    "tag:shop=tatoo": "",
-    "tag:shop=tea": "",
-    "tag:shop=ticket": "",
-    "tag:shop=tobacco": "",
-    "tag:shop=toys": "",
-    "tag:shop=travel_agency": "",
-    "tag:shop=tyres": "",
-    "tag:shop=vacant": "",
-    "tag:shop=variety_store": "",
-    "tag:shop=video": "",
-    "tag:shop=video_games": "",
-    "tag:shop=watches": "",
-    "tag:shop=weapons": "",
-    "tag:shop=wine": "",
-    "tag:smoking": "",
-    "tag:smoking=dedicated": "",
-    "tag:smoking=isolated": "",
-    "tag:smoking=outside": "",
-    "tag:smoking=separated": "",
-    "tag:smoothness": "",
-    "tag:source": "",
-    "tag:species": "",
-    "tag:sport": "",
-    "tag:sport=10pin": "",
-    "tag:sport=9pin": "",
-    "tag:sport=american_football": "",
-    "tag:sport=archery": "",
-    "tag:sport=athletics": "",
-    "tag:sport=australian_football": "",
-    "tag:sport=badminton": "",
-    "tag:sport=baseball": "",
-    "tag:sport=basketball": "",
-    "tag:sport=beachvolleyball": "",
-    "tag:sport=billiards": "",
-    "tag:sport=bmx": "",
-    "tag:sport=boules": "",
-    "tag:sport=bowls": "",
-    "tag:sport=canadian_football": "",
-    "tag:sport=canoe": "",
-    "tag:sport=chess": "",
-    "tag:sport=climbing": "",
-    "tag:sport=cockfighting": "",
-    "tag:sport=cricket": "",
-    "tag:sport=croquet": "",
-    "tag:sport=cycling": "",
-    "tag:sport=darts": "",
-    "tag:sport=diving": "",
-    "tag:sport=dog_racing": "",
-    "tag:sport=equestrian": "",
-    "tag:sport=field_hockey": "",
-    "tag:sport=fitness": "",
-    "tag:sport=football": "",
-    "tag:sport=golf": "",
-    "tag:sport=gymnastics": "",
-    "tag:sport=hockey": "",
-    "tag:sport=horse_racing": "",
-    "tag:sport=ice_hockey": "",
-    "tag:sport=ice_skating": "",
-    "tag:sport=korfball": "",
-    "tag:sport=model_aerodrome": "",
-    "tag:sport=motocross": "",
-    "tag:sport=motor": "",
-    "tag:sport=multi": "",
-    "tag:sport=orienteering": "",
-    "tag:sport=paddle_tennis": "",
-    "tag:sport=paragliding": "",
-    "tag:sport=pelota": "",
-    "tag:sport=racquet": "",
-    "tag:sport=rowing": "",
-    "tag:sport=rugby": "",
-    "tag:sport=rugby_league": "",
-    "tag:sport=rugby_union": "",
-    "tag:sport=running": "",
-    "tag:sport=sailing": "",
-    "tag:sport=shooting": "",
-    "tag:sport=skateboard": "",
-    "tag:sport=skating": "",
-    "tag:sport=skiing": "",
-    "tag:sport=soccer": "",
-    "tag:sport=surfing": "",
-    "tag:sport=swimming": "",
-    "tag:sport=table_tennis": "",
-    "tag:sport=team_handball": "",
-    "tag:sport=tennis": "",
-    "tag:sport=volleyball": "",
-    "tag:sport=weightlifting": "",
-    "tag:start_date": "",
-    "tag:subject": "",
-    "tag:surface": "",
-    "tag:tactile_paving": "",
-    "tag:theatre:genre": "",
-    "tag:theatre:genre=ballet": "",
-    "tag:theatre:genre=boulevard": "",
-    "tag:theatre:genre=cabaret": "",
-    "tag:theatre:genre=chamber_music": "",
-    "tag:theatre:genre=circus": "",
-    "tag:theatre:genre=comedy": "",
-    "tag:theatre:genre=drama": "",
-    "tag:theatre:genre=figure": "",
-    "tag:theatre:genre=marionette": "",
-    "tag:theatre:genre=musical": "",
-    "tag:theatre:genre=opera": "",
-    "tag:theatre:genre=philharmonic": "",
-    "tag:theatre:genre=political": "",
-    "tag:theatre:genre=puppet": "",
-    "tag:theatre:genre=shadow_play": "",
-    "tag:theatre:genre=stand_up_comedy": "",
-    "tag:theatre:genre=variety": "",
-    "tag:toll": "",
-    "tag:tourism": "",
-    "tag:tourism=alpine_hut": "",
-    "tag:tourism=apartment": "",
-    "tag:tourism=aquarium": {
-        "message": "Aquari",
-        "description": "Tag \"tourism=aquarium\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=aquarium"
-    },
-    "tag:tourism=artwork": "",
-    "tag:tourism=attraction": "",
-    "tag:tourism=camp_site": "",
-    "tag:tourism=caravan_site": "",
-    "tag:tourism=chalet": "",
-    "tag:tourism=gallery": "",
-    "tag:tourism=guest_house": "",
-    "tag:tourism=hostel": "",
-    "tag:tourism=hotel": "",
-    "tag:tourism=information": "",
-    "tag:tourism=motel": "",
-    "tag:tourism=museum": "",
-    "tag:tourism=picnic_site": "",
-    "tag:tourism=spa_resort": "",
-    "tag:tourism=theme_park": "",
-    "tag:tourism=viewpoint": "",
-    "tag:tourism=wilderness_hut": "",
-    "tag:tourism=yes": "",
-    "tag:tourism=zoo": "",
-    "tag:tracks": "",
-    "tag:tracks=double": "",
-    "tag:tracks=multiple": "",
-    "tag:tracks=single": "",
-    "tag:tracktype": "",
-    "tag:traffic_calming": "",
-    "tag:traffic_sign": "",
-    "tag:tunnel": "",
-    "tag:type": "",
-    "tag:type=gas": "",
-    "tag:type=heat": "",
-    "tag:type=hot_water": "",
-    "tag:type=oil": "",
-    "tag:type=route route=mtb": "",
-    "tag:type=sewage": "",
-    "tag:type=water": "",
-    "tag:vehicle": "",
-    "tag:vending": "",
-    "tag:via_ferrata_scale": "",
-    "tag:voltage": "",
-    "tag:water": "",
-    "tag:water=basin": "",
-    "tag:water=canal": "",
-    "tag:water=fish_pass": "",
-    "tag:water=lagoon": "",
-    "tag:water=lake": "",
-    "tag:water=lock": "",
-    "tag:water=moat": "",
-    "tag:water=oxbow": "",
-    "tag:water=pond": "",
-    "tag:water=reflecting_pool": "",
-    "tag:water=reservoir": "",
-    "tag:water=river": "",
-    "tag:water=stream_pool": "",
-    "tag:water=wastewater": "",
-    "tag:waterway": "",
-    "tag:waterway=canal": "",
-    "tag:waterway=dam": "",
-    "tag:waterway=ditch": "",
-    "tag:waterway=divide": "",
-    "tag:waterway=drain": "",
-    "tag:waterway=river": "",
-    "tag:waterway=river width>10": "",
-    "tag:waterway=riverbank": "",
-    "tag:waterway=stream": "",
-    "tag:waterway=waterfall": "",
-    "tag:waterway=weir": "",
-    "tag:website": "",
-    "tag:wheelchair": "",
-    "tag:wheelchair=limited": "",
-    "tag:width": "",
-    "tag:wikipedia": "",
-    "tag:wires": "",
-    "tag:wood": "",
-    "tag:xmas:feature": "",
-    "tag:xmas:feature=event": "",
-    "tag:xmas:feature=market": "",
-    "tag:xmas:feature=pyramid": "",
-    "tag:xmas:feature=shop": "",
-    "tag:xmas:feature=tree": ""
+    }
 }

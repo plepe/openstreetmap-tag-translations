@@ -216,10 +216,6 @@
         "message": "",
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
-    "tag:amenity=childcare": {
-        "message": "",
-        "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
-    },
     "tag:amenity=cinema": {
         "message": "Kino",
         "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
@@ -628,7 +624,6 @@
         "message": "",
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
-    "tag:building=agriculture": "",
     "tag:building=apartments": {
         "message": "",
         "description": "Tag \"building=apartments\". See https://wiki.openstreetmap.org/wiki/Tag:building=apartments"
@@ -981,32 +976,6 @@
         "message": "",
         "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
     },
-    "tag:climbing": "",
-    "tag:climbing:bolted": "",
-    "tag:climbing:boulder": "",
-    "tag:climbing:deepwater": "",
-    "tag:climbing:grade:french": "",
-    "tag:climbing:grade:polish": "",
-    "tag:climbing:grade:saxon": "",
-    "tag:climbing:grade:uiaa": "",
-    "tag:climbing:ice": "",
-    "tag:climbing:length": "",
-    "tag:climbing:mixed": "",
-    "tag:climbing:multipitch": "",
-    "tag:climbing:orientation": "",
-    "tag:climbing:quality": "",
-    "tag:climbing:rock": "",
-    "tag:climbing:routes": "",
-    "tag:climbing:speed": "",
-    "tag:climbing:sport": "",
-    "tag:climbing:summit_log": "",
-    "tag:climbing:toprope": "",
-    "tag:climbing:trad": "",
-    "tag:climbing=boulder": "",
-    "tag:climbing=crag": "",
-    "tag:climbing=route": "",
-    "tag:climbing=route_bottom": "",
-    "tag:climbing=route_top": "",
     "tag:clothes": {
         "message": "",
         "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
@@ -2192,22 +2161,6 @@
         "message": "",
         "description": "Key \"diet:vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegetarian"
     },
-    "tag:direction": "",
-    "tag:direction=E": "",
-    "tag:direction=ENE": "",
-    "tag:direction=ESE": "",
-    "tag:direction=N": "",
-    "tag:direction=NNE": "",
-    "tag:direction=NNW": "",
-    "tag:direction=NW": "",
-    "tag:direction=S": "",
-    "tag:direction=SE": "",
-    "tag:direction=SSE": "",
-    "tag:direction=SSW": "",
-    "tag:direction=SW": "",
-    "tag:direction=W": "",
-    "tag:direction=WNW": "",
-    "tag:direction=WSW": "",
     "tag:disused": {
         "message": "",
         "description": "Key \"disused\". See https://wiki.openstreetmap.org/wiki/Key:disused"
@@ -2696,7 +2649,6 @@
         "message": "",
         "description": "Tag \"highway=unclassified\". See https://wiki.openstreetmap.org/wiki/Tag:highway=unclassified"
     },
-    "tag:highway=via_ferrata": "",
     "tag:historic": {
         "message": "",
         "description": "Key \"historic\". See https://wiki.openstreetmap.org/wiki/Key:historic"
@@ -3241,27 +3193,6 @@
         "message": "",
         "description": "Tag \"leisure=pitch\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch"
     },
-    "tag:leisure=pitch sport=american_football": "",
-    "tag:leisure=pitch sport=australian_football": "",
-    "tag:leisure=pitch sport=badminton": "",
-    "tag:leisure=pitch sport=baseball": "",
-    "tag:leisure=pitch sport=basketball": "",
-    "tag:leisure=pitch sport=beachvolleyball": "",
-    "tag:leisure=pitch sport=boules": "",
-    "tag:leisure=pitch sport=cricket": "",
-    "tag:leisure=pitch sport=equestrian": "",
-    "tag:leisure=pitch sport=field_hockey": "",
-    "tag:leisure=pitch sport=horseshoes": "",
-    "tag:leisure=pitch sport=netball": "",
-    "tag:leisure=pitch sport=rugby_league": "",
-    "tag:leisure=pitch sport=rugby_union": "",
-    "tag:leisure=pitch sport=shuffleboard": "",
-    "tag:leisure=pitch sport=skateboard": "",
-    "tag:leisure=pitch sport=soccer": "",
-    "tag:leisure=pitch sport=softball": "",
-    "tag:leisure=pitch sport=table_tennis": "",
-    "tag:leisure=pitch sport=tennis": "",
-    "tag:leisure=pitch sport=volleyball": "",
     "tag:leisure=playground": {
         "message": "Plac zabaw",
         "description": "Tag \"leisure=playground\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=playground"
@@ -3322,7 +3253,6 @@
         "message": "",
         "description": "Key \"man_made\". See https://wiki.openstreetmap.org/wiki/Key:man_made"
     },
-    "tag:man_made=incinerator": "",
     "tag:man_made=mineshaft": {
         "message": "",
         "description": "Tag \"man_made=mineshaft\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=mineshaft"
@@ -5943,7 +5873,6 @@
         "message": "",
         "description": "Key \"vending\". See https://wiki.openstreetmap.org/wiki/Key:vending"
     },
-    "tag:via_ferrata_scale": "",
     "tag:voltage": {
         "message": "Napięcie",
         "description": "Key \"voltage\". See https://wiki.openstreetmap.org/wiki/Key:voltage"
