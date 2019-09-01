@@ -6049,6 +6049,10 @@
         "message": "",
         "description": "Tag \"tourism=theme_park\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=theme_park"
     },
+    "tag:tourism=trail_riding_station": {
+        "message": "Trail Riding Station",
+        "description": "Tag \"tourism=trail_riding_station\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=trail_riding_station"
+    },
     "tag:tourism=viewpoint": {
         "message": "",
         "description": "Tag \"tourism=viewpoint\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=viewpoint"
