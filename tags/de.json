@@ -2906,7 +2906,7 @@
         "description": "Tag \"information=office\". See https://wiki.openstreetmap.org/wiki/Tag:information=office"
     },
     "tag:information=route_marker": {
-        "message": "",
+        "message": "Routenmarkierung",
         "description": "Tag \"information=route_marker\". See https://wiki.openstreetmap.org/wiki/Tag:information=route_marker"
     },
     "tag:information=tactile_map": {
@@ -2922,7 +2922,7 @@
         "description": "Tag \"information=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:information=terminal"
     },
     "tag:information=trail_blaze": {
-        "message": "",
+        "message": "Wegmarkierung",
         "description": "Tag \"information=trail_blaze\". See https://wiki.openstreetmap.org/wiki/Tag:information=trail_blaze"
     },
     "tag:inscription": {
@@ -3126,7 +3126,7 @@
         "description": "Tag \"leisure=dog_park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=dog_park"
     },
     "tag:leisure=firepit": {
-        "message": "",
+        "message": "Feuerstelle",
         "description": "Tag \"leisure=firepit\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=firepit"
     },
     "tag:leisure=fishing": {
@@ -3230,7 +3230,7 @@
         "description": "Tag \"leisure=swimming_pool\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=swimming_pool"
     },
     "tag:leisure=track": {
-        "message": "Rennbahnen",
+        "message": "Rennbahn",
         "description": "Tag \"leisure=track\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=track"
     },
     "tag:leisure=water_park": {
@@ -4762,7 +4762,7 @@
         "description": "Tag \"route=ferry\". See https://wiki.openstreetmap.org/wiki/Tag:route=ferry"
     },
     "tag:route=fitness_trail": {
-        "message": "",
+        "message": "Trimm-dich-Pfad",
         "description": "Tag \"route=fitness_trail\". See https://wiki.openstreetmap.org/wiki/Tag:route=fitness_trail"
     },
     "tag:route=hiking": {
@@ -5502,7 +5502,7 @@
         "description": "Tag \"sport=ice_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_hockey"
     },
     "tag:sport=ice_skating": {
-        "message": "",
+        "message": "Eislaufen",
         "description": "Tag \"sport=ice_skating\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_skating"
     },
     "tag:sport=korfball": {
@@ -5734,15 +5734,15 @@
         "description": "Tag \"tourism=attraction\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=attraction"
     },
     "tag:tourism=camp_site": {
-        "message": "Zeltplätze",
+        "message": "Campingplatz",
         "description": "Tag \"tourism=camp_site\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=camp_site"
     },
     "tag:tourism=caravan_site": {
-        "message": "Campingplätze",
+        "message": "Wohnmobil-Stellplatz",
         "description": "Tag \"tourism=caravan_site\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=caravan_site"
     },
     "tag:tourism=chalet": {
-        "message": "Sennhütten",
+        "message": "Ferienhaus",
         "description": "Tag \"tourism=chalet\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=chalet"
     },
     "tag:tourism=gallery": {
@@ -5750,19 +5750,19 @@
         "description": "Tag \"tourism=gallery\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=gallery"
     },
     "tag:tourism=guest_house": {
-        "message": "Gasthäuser",
+        "message": "Pension",
         "description": "Tag \"tourism=guest_house\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=guest_house"
     },
     "tag:tourism=hostel": {
-        "message": "Hostels",
+        "message": "Hostel",
         "description": "Tag \"tourism=hostel\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=hostel"
     },
     "tag:tourism=hotel": {
-        "message": "Hotels",
+        "message": "Hotel",
         "description": "Tag \"tourism=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=hotel"
     },
     "tag:tourism=information": {
-        "message": "Touristen Information",
+        "message": "Touristen-Information",
         "description": "Tag \"tourism=information\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=information"
     },
     "tag:tourism=motel": {
@@ -5790,7 +5790,7 @@
         "description": "Tag \"tourism=viewpoint\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=viewpoint"
     },
     "tag:tourism=wilderness_hut": {
-        "message": "",
+        "message": "Schutzhütte",
         "description": "Tag \"tourism=wilderness_hut\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=wilderness_hut"
     },
     "tag:tourism=yes": {
