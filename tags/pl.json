@@ -1065,31 +1065,31 @@
         "description": "Tag \"clothes=swimwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=traditional": {
-        "message": "",
+        "message": "Tradycyjne",
         "description": "Tag \"clothes=traditional\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=underwear": {
-        "message": "",
+        "message": "Bielizna",
         "description": "Tag \"clothes=underwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=unisexs": {
-        "message": "",
+        "message": "Uniseks",
         "description": "Tag \"clothes=unisexs\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=vintage": {
-        "message": "",
+        "message": "Vintage",
         "description": "Tag \"clothes=vintage\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=wedding": {
-        "message": "",
+        "message": "Ślubne",
         "description": "Tag \"clothes=wedding\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=women": {
-        "message": "",
+        "message": "Kobiece",
         "description": "Tag \"clothes=women\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=workwear": {
-        "message": "",
+        "message": "Odzież robocza",
         "description": "Tag \"clothes=workwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:community_centre=club_home": {
@@ -2202,19 +2202,19 @@
         "description": "Key \"email\". See https://wiki.openstreetmap.org/wiki/Key:email"
     },
     "tag:embankment": {
-        "message": "",
+        "message": "Nasyp",
         "description": "Key \"embankment\". See https://wiki.openstreetmap.org/wiki/Key:embankment"
     },
     "tag:emergency": {
-        "message": "",
+        "message": "Służby ratunkowe",
         "description": "Key \"emergency\". See https://wiki.openstreetmap.org/wiki/Key:emergency"
     },
     "tag:emergency=access_point": {
-        "message": "",
+        "message": "Punkt dostępu awaryjnego",
         "description": "Tag \"emergency=access_point\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=access_point"
     },
     "tag:emergency=defibrillator": {
-        "message": "",
+        "message": "Defibrylator",
         "description": "Tag \"emergency=defibrillator\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=defibrillator"
     },
     "tag:emergency=fire_hydrant": {
@@ -2230,7 +2230,7 @@
         "description": "Combined tag \"emergency=fire_hydrant\" and \"fire_hydrant:type=underground\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant and https://wiki.openstreetmap.org/wiki/Tag:fire_hydrant:type=underground"
     },
     "tag:emergency=phone": {
-        "message": "",
+        "message": "Telefon do służb ratowniczych",
         "description": "Tag \"emergency=phone\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=phone"
     },
     "tag:end_date": {
@@ -2238,31 +2238,31 @@
         "description": "Key \"end_date\". See https://wiki.openstreetmap.org/wiki/Key:end_date"
     },
     "tag:entrance": {
-        "message": "",
+        "message": "Wejście",
         "description": "Key \"entrance\". See https://wiki.openstreetmap.org/wiki/Key:entrance"
     },
     "tag:entrance=emergency": {
-        "message": "",
+        "message": "Wyjście ewakuacyjne",
         "description": "Tag \"entrance=emergency\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=emergency"
     },
     "tag:entrance=exit": {
-        "message": "",
+        "message": "Wyjście",
         "description": "Tag \"entrance=exit\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=exit"
     },
     "tag:entrance=garage": {
-        "message": "",
+        "message": "Wejście do garażu",
         "description": "Tag \"entrance=garage\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=garage"
     },
     "tag:entrance=home": {
-        "message": "",
+        "message": "Wejście do domu",
         "description": "Tag \"entrance=home\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=home"
     },
     "tag:entrance=main": {
-        "message": "",
+        "message": "Główne wejście",
         "description": "Tag \"entrance=main\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=main"
     },
     "tag:entrance=service": {
-        "message": "",
+        "message": "Wejście serwisowe",
         "description": "Tag \"entrance=service\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=service"
     },
     "tag:entrance=staircase": {
@@ -2982,39 +2982,39 @@
         "description": "Key \"kids_area\". See https://wiki.openstreetmap.org/wiki/Key:kids_area"
     },
     "tag:landuse": {
-        "message": "",
+        "message": "Zagospodarowanie ziemi",
         "description": "Key \"landuse\". See https://wiki.openstreetmap.org/wiki/Key:landuse"
     },
     "tag:landuse=allotments": {
-        "message": "",
+        "message": "Ogródki działkowe",
         "description": "Tag \"landuse=allotments\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=allotments"
     },
     "tag:landuse=basin": {
-        "message": "",
+        "message": "Zbiornik wodny",
         "description": "Tag \"landuse=basin\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=basin"
     },
     "tag:landuse=brownfield": {
-        "message": "",
+        "message": "Teren poprzemysłowy pod przyszłą zabudowę",
         "description": "Tag \"landuse=brownfield\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=brownfield"
     },
     "tag:landuse=cemetery": {
-        "message": "",
+        "message": "Cmentarz",
         "description": "Tag \"landuse=cemetery\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=cemetery"
     },
     "tag:landuse=construction": {
-        "message": "",
+        "message": "Teren budowy",
         "description": "Tag \"landuse=construction\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=construction"
     },
     "tag:landuse=farmland": {
-        "message": "",
+        "message": "Pole uprawne",
         "description": "Tag \"landuse=farmland\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=farmland"
     },
     "tag:landuse=farmyard": {
-        "message": "",
+        "message": "Zagroda wiejska",
         "description": "Tag \"landuse=farmyard\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=farmyard"
     },
     "tag:landuse=forest": {
-        "message": "",
+        "message": "Las",
         "description": "Tag \"landuse=forest\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=forest"
     },
     "tag:landuse=garages": {
@@ -3026,15 +3026,15 @@
         "description": "Tag \"landuse=grass\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=grass"
     },
     "tag:landuse=greenfield": {
-        "message": "",
+        "message": "Trawa",
         "description": "Tag \"landuse=greenfield\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=greenfield"
     },
     "tag:landuse=greenhouse_horticulture": {
-        "message": "",
+        "message": "Grunt pod szklarnie",
         "description": "Tag \"landuse=greenhouse_horticulture\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=greenhouse_horticulture"
     },
     "tag:landuse=industrial": {
-        "message": "",
+        "message": "Przemysłowy",
         "description": "Tag \"landuse=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=industrial"
     },
     "tag:landuse=landfill": {
