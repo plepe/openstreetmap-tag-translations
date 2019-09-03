@@ -3098,11 +3098,11 @@
         "description": "Tag \"leisure=adult_gaming_centre\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=adult_gaming_centre"
     },
     "tag:leisure=amusement_arcade": {
-        "message": "",
+        "message": "Spielhalle",
         "description": "Tag \"leisure=amusement_arcade\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=amusement_arcade"
     },
     "tag:leisure=bandstand": {
-        "message": "",
+        "message": "Musikpavillon",
         "description": "Tag \"leisure=bandstand\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=bandstand"
     },
     "tag:leisure=beach_resort": {
@@ -3114,11 +3114,11 @@
         "description": "Tag \"leisure=bird_hide\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=bird_hide"
     },
     "tag:leisure=common": {
-        "message": "Commons",
+        "message": "Allmende",
         "description": "Tag \"leisure=common\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=common"
     },
     "tag:leisure=dance": {
-        "message": "",
+        "message": "Tanzhalle",
         "description": "Tag \"leisure=dance\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=dance"
     },
     "tag:leisure=dog_park": {
@@ -3130,15 +3130,15 @@
         "description": "Tag \"leisure=firepit\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=firepit"
     },
     "tag:leisure=fishing": {
-        "message": "Angeln",
+        "message": "Angelzone",
         "description": "Tag \"leisure=fishing\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=fishing"
     },
     "tag:leisure=fitness_centre": {
-        "message": "",
+        "message": "Fit­ness­zen­t­rum",
         "description": "Tag \"leisure=fitness_centre\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=fitness_centre"
     },
     "tag:leisure=fitness_station": {
-        "message": "",
+        "message": "Fitnessstation",
         "description": "Tag \"leisure=fitness_station\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=fitness_station"
     },
     "tag:leisure=garden": {
@@ -3146,7 +3146,7 @@
         "description": "Tag \"leisure=garden\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=garden"
     },
     "tag:leisure=golf_course": {
-        "message": "Golfplätze",
+        "message": "Golfplatz",
         "description": "Tag \"leisure=golf_course\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=golf_course"
     },
     "tag:leisure=hackerspace": {
@@ -3170,11 +3170,11 @@
         "description": "Tag \"leisure=marina\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=marina"
     },
     "tag:leisure=miniature_golf": {
-        "message": "Minigolf",
+        "message": "Minigolfplatz",
         "description": "Tag \"leisure=miniature_golf\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=miniature_golf"
     },
     "tag:leisure=nature_reserve": {
-        "message": "Naturschutzgebiete",
+        "message": "Naturschutzgebiet",
         "description": "Tag \"leisure=nature_reserve\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=nature_reserve"
     },
     "tag:leisure=outdoor_seating": {
@@ -3186,7 +3186,7 @@
         "description": "Tag \"leisure=park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=park"
     },
     "tag:leisure=picnic_table": {
-        "message": "Picknick Tisch",
+        "message": "Picknick-Tisch",
         "description": "Tag \"leisure=picnic_table\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=picnic_table"
     },
     "tag:leisure=pitch": {
@@ -4098,7 +4098,7 @@
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
-        "message": "Alte Bezeichnung(en)",
+        "message": "Alte Bezeichnung",
         "description": "Key \"old_name\". See https://wiki.openstreetmap.org/wiki/Key:old_name"
     },
     "tag:oneway": {
@@ -5406,7 +5406,7 @@
         "description": "Tag \"sport=beachvolleyball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=beachvolleyball"
     },
     "tag:sport=billiards": {
-        "message": "",
+        "message": "Billard",
         "description": "Tag \"sport=billiards\". See https://wiki.openstreetmap.org/wiki/Tag:sport=billiards"
     },
     "tag:sport=bmx": {
@@ -5766,7 +5766,7 @@
         "description": "Tag \"tourism=information\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=information"
     },
     "tag:tourism=motel": {
-        "message": "Motels",
+        "message": "Motel",
         "description": "Tag \"tourism=motel\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=motel"
     },
     "tag:tourism=museum": {
@@ -5786,7 +5786,7 @@
         "description": "Tag \"tourism=theme_park\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=theme_park"
     },
     "tag:tourism=viewpoint": {
-        "message": "Aussichtspunkte",
+        "message": "Aussichtspunkt",
         "description": "Tag \"tourism=viewpoint\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=viewpoint"
     },
     "tag:tourism=wilderness_hut": {
@@ -5798,7 +5798,7 @@
         "description": "Tag \"tourism=yes\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=yes"
     },
     "tag:tourism=zoo": {
-        "message": "Zoos",
+        "message": "Zoo",
         "description": "Tag \"tourism=zoo\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=zoo"
     },
     "tag:tracks": {
@@ -6112,5 +6112,9 @@
     "tag:leisure=pitch sport=volleyball": {
         "message": "Volleyballplatz",
         "description": "Combined tag \"leisure=pitch\" and \"sport=volleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=volleyball"
+    },
+    "tag:tourism=trail_riding_station": {
+        "message": "Wanderreitstation",
+        "description": "Tag \"tourism=trail_riding_station\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=trail_riding_station"
     }
 }
