@@ -5829,6 +5829,10 @@
         "message": "Korfball",
         "description": "Tag \"sport=korfball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=korfball"
     },
+    "tag:sport=long_jump": {
+        "message": "Long Jump",
+        "description": "Tag \"sport=long_jump\". See https://wiki.openstreetmap.org/wiki/Tag:sport=long_jump"
+    },
     "tag:sport=model_aerodrome": {
         "message": "",
         "description": "Tag \"sport=model_aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:sport=model_aerodrome"
