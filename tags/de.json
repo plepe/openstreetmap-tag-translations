@@ -6116,5 +6116,45 @@
     "tag:tourism=trail_riding_station": {
         "message": "Wanderreitstation",
         "description": "Tag \"tourism=trail_riding_station\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=trail_riding_station"
+    },
+    "tag:sport=boxing": {
+        "message": "Boxen",
+        "description": "Tag \"sport=boxing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=boxing"
+    },
+    "tag:sport=bullfighting": {
+        "message": "Stierkampf",
+        "description": "Tag \"sport=bullfighting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=bullfighting"
+    },
+    "tag:sport=climbing_adventure": {
+        "message": "Hochseilklettern",
+        "description": "Tag \"sport=climbing_adventure\". See https://wiki.openstreetmap.org/wiki/Tag:sport=climbing_adventure"
+    },
+    "tag:sport=disc_golf": {
+        "message": "Discgolf",
+        "description": "Tag \"sport=disc_golf\". See https://wiki.openstreetmap.org/wiki/Tag:sport=disc_golf"
+    },
+    "tag:sport=free_flying": {
+        "message": "Gleitschirmfliegen",
+        "description": "Tag \"sport=free_flying\". See https://wiki.openstreetmap.org/wiki/Tag:sport=free_flying"
+    },
+    "tag:sport=futsal": {
+        "message": "Futsal",
+        "description": "Tag \"sport=futsal\". See https://wiki.openstreetmap.org/wiki/Tag:sport=futsal"
+    },
+    "tag:sport=handball": {
+        "message": "Handball",
+        "description": "Tag \"sport=handball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=handball"
+    },
+    "tag:sport=horseshoes": {
+        "message": "Hufeisenwerfen",
+        "description": "Tag \"sport=horseshoes\". See https://wiki.openstreetmap.org/wiki/Tag:sport=horseshoes"
+    },
+    "tag:sport=ice_stock": {
+        "message": "Eisstockschießen",
+        "description": "Tag \"sport=ice_stock\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_stock"
+    },
+    "tag:sport=karting": {
+        "message": "Kartsport",
+        "description": "Tag \"sport=karting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=karting"
     }
 }
