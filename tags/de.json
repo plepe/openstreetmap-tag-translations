@@ -3186,7 +3186,7 @@
         "description": "Tag \"leisure=park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=park"
     },
     "tag:leisure=picnic_table": {
-        "message": "Picknick-Tisch",
+        "message": "Picknicktisch",
         "description": "Tag \"leisure=picnic_table\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=picnic_table"
     },
     "tag:leisure=pitch": {
@@ -5574,7 +5574,7 @@
         "description": "Tag \"sport=shooting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=shooting"
     },
     "tag:sport=skateboard": {
-        "message": "Skateboard",
+        "message": "Skateboarden",
         "description": "Tag \"sport=skateboard\". See https://wiki.openstreetmap.org/wiki/Tag:sport=skateboard"
     },
     "tag:sport=skating": {
@@ -6156,5 +6156,49 @@
     "tag:sport=karting": {
         "message": "Kartsport",
         "description": "Tag \"sport=karting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=karting"
+    },
+    "tag:leisure=bleachers": {
+        "message": "Tribüne",
+        "description": "Tag \"leisure=bleachers\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=bleachers"
+    },
+    "tag:leisure=bowling_alley": {
+        "message": "Bowling-/Kegelbahn",
+        "description": "Tag \"leisure=bowling_alley\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=bowling_alley"
+    },
+    "tag:leisure=sports_hall": {
+        "message": "Sporthalle",
+        "description": "Tag \"leisure=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sports_hall"
+    },
+    "tag:sport=long_jump": {
+        "message": "Weitsprung",
+        "description": "Tag \"sport=long_jump\". See https://wiki.openstreetmap.org/wiki/Tag:sport=long_jump"
+    },
+    "tag:sport=netball": {
+        "message": "Korbball",
+        "description": "Tag \"sport=netball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=netball"
+    },
+    "tag:sport=padel": {
+        "message": "Padeltennis",
+        "description": "Tag \"sport=padel\". See https://wiki.openstreetmap.org/wiki/Tag:sport=padel"
+    },
+    "tag:sport=paintball": {
+        "message": "Paintball",
+        "description": "Tag \"sport=paintball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=paintball"
+    },
+    "tag:sport=roller_skating": {
+        "message": "Rollerskaten",
+        "description": "Tag \"sport=roller_skating\". See https://wiki.openstreetmap.org/wiki/Tag:sport=roller_skating"
+    },
+    "tag:sport=scuba_diving": {
+        "message": "Tauchen",
+        "description": "Tag \"sport=scuba_diving\". See https://wiki.openstreetmap.org/wiki/Tag:sport=scuba_diving"
+    },
+    "tag:sport=softball": {
+        "message": "Softball",
+        "description": "Tag \"sport=softball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=softball"
+    },
+    "tag:sport=trampoline": {
+        "message": "Trampolinturnen",
+        "description": "Tag \"sport=trampoline\". See https://wiki.openstreetmap.org/wiki/Tag:sport=trampoline"
     }
 }
