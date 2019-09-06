@@ -5926,7 +5926,7 @@
         "description": "Tag \"sport=shooting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=shooting"
     },
     "tag:sport=skateboard": {
-        "message": "Skateboard",
+        "message": "Skateboarding",
         "description": "Tag \"sport=skateboard\". See https://wiki.openstreetmap.org/wiki/Tag:sport=skateboard"
     },
     "tag:sport=skating": {
@@ -5962,7 +5962,7 @@
         "description": "Tag \"sport=tennis\". See https://wiki.openstreetmap.org/wiki/Tag:sport=tennis"
     },
     "tag:sport=trampoline": {
-        "message": "trampoline",
+        "message": "Trampolining",
         "description": "Tag \"sport=trampoline\". See https://wiki.openstreetmap.org/wiki/Tag:sport=trampoline"
     },
     "tag:sport=volleyball": {
