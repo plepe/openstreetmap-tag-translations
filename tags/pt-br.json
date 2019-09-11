@@ -1726,7 +1726,7 @@
         "description": "Tag \"cuisine=empanada\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=fish": {
-        "message": "",
+        "message": "peixes",
         "description": "Tag \"cuisine=fish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=fish_and_chips": {
@@ -2166,15 +2166,15 @@
         "description": "Key \"disused\". See https://wiki.openstreetmap.org/wiki/Key:disused"
     },
     "tag:driving_side": {
-        "message": "",
+        "message": "Mão de direção",
         "description": "Key \"driving_side\". See https://wiki.openstreetmap.org/wiki/Key:driving_side"
     },
     "tag:driving_side=left": {
-        "message": "",
+        "message": "esquerda",
         "description": "Tag \"driving_side=left\". See https://wiki.openstreetmap.org/wiki/Tag:driving_side=left"
     },
     "tag:driving_side=right": {
-        "message": "",
+        "message": "direita",
         "description": "Tag \"driving_side=right\". See https://wiki.openstreetmap.org/wiki/Tag:driving_side=right"
     },
     "tag:ele": {
@@ -2318,11 +2318,11 @@
         "description": "Key \"frequency\". See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:frequency=0": {
-        "message": "",
+        "message": "corrente contínua",
         "description": "Tag \"frequency=0\" (direct current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:frequency>0": {
-        "message": "",
+        "message": "corrente alternada",
         "description": "Tag \"frequency=*\" (not 0, meaning alternating current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:gauge": {
@@ -2854,11 +2854,11 @@
         "description": "Tag \"historic=tower\". See https://wiki.openstreetmap.org/wiki/Tag:historic=tower"
     },
     "tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage": {
-        "message": "",
+        "message": "Patrimônio mundial da UNESCO",
         "description": "Tag \"historic=unesco_world_heritage;historic=UNESCO_world_heritage\". See https://wiki.openstreetmap.org/wiki/Tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage"
     },
     "tag:historic=wayside_chapel": {
-        "message": "",
+        "message": "Capela de beira de estrada",
         "description": "Tag \"historic=wayside_chapel\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_chapel"
     },
     "tag:historic=wayside_cross": {
@@ -2886,7 +2886,7 @@
         "description": "Key \"incline\". See https://wiki.openstreetmap.org/wiki/Key:incline"
     },
     "tag:information=audioguide": {
-        "message": "",
+        "message": "Audioguia",
         "description": "Tag \"information=audioguide\". See https://wiki.openstreetmap.org/wiki/Tag:information=audioguide"
     },
     "tag:information=board": {
@@ -2906,23 +2906,23 @@
         "description": "Tag \"information=office\". See https://wiki.openstreetmap.org/wiki/Tag:information=office"
     },
     "tag:information=route_marker": {
-        "message": "",
+        "message": "Marca de rota",
         "description": "Tag \"information=route_marker\". See https://wiki.openstreetmap.org/wiki/Tag:information=route_marker"
     },
     "tag:information=tactile_map": {
-        "message": "",
+        "message": "Mapa tátil",
         "description": "Tag \"information=tactile_map\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_map"
     },
     "tag:information=tactile_model": {
-        "message": "",
+        "message": "Maquete tátil",
         "description": "Tag \"information=tactile_model\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_model"
     },
     "tag:information=terminal": {
-        "message": "",
+        "message": "Terminal",
         "description": "Tag \"information=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:information=terminal"
     },
     "tag:information=trail_blaze": {
-        "message": "",
+        "message": "Marca de rota",
         "description": "Tag \"information=trail_blaze\". See https://wiki.openstreetmap.org/wiki/Tag:information=trail_blaze"
     },
     "tag:inscription": {
@@ -2934,7 +2934,7 @@
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
     "tag:intermittent": {
-        "message": "",
+        "message": "Intermitente",
         "description": "Key \"intermittent\". See https://wiki.openstreetmap.org/wiki/Key:intermittent"
     },
     "tag:internet_access=public": {
@@ -6044,5 +6044,85 @@
     "tag:building=agriculture": {
         "message": "Agrícola",
         "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
+    },
+    "tag:direction": {
+        "message": "Direção",
+        "description": "Key \"direction\". See https://wiki.openstreetmap.org/wiki/Key:direction"
+    },
+    "tag:direction=E": {
+        "message": "Leste",
+        "description": "Tag \"direction=E\". See https://wiki.openstreetmap.org/wiki/Tag:direction=E"
+    },
+    "tag:direction=ENE": {
+        "message": "Leste-nordeste",
+        "description": "Tag \"direction=NEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NEE"
+    },
+    "tag:direction=ESE": {
+        "message": "Leste-sudeste",
+        "description": "Tag \"direction=SEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SEE"
+    },
+    "tag:direction=N": {
+        "message": "Norte",
+        "description": "Tag \"direction=N\". See https://wiki.openstreetmap.org/wiki/Tag:direction=N"
+    },
+    "tag:direction=NNE": {
+        "message": "Norte-nordeste",
+        "description": "Tag \"direction=NNE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNE"
+    },
+    "tag:direction=NNW": {
+        "message": "Norte-noroeste",
+        "description": "Tag \"direction=NNW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNW"
+    },
+    "tag:direction=NW": {
+        "message": "Noroeste",
+        "description": "Tag \"direction=NW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NW"
+    },
+    "tag:direction=S": {
+        "message": "Sul",
+        "description": "Tag \"direction=S\". See https://wiki.openstreetmap.org/wiki/Tag:direction=S"
+    },
+    "tag:direction=SE": {
+        "message": "Sudeste",
+        "description": "Tag \"direction=SE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SE"
+    },
+    "tag:direction=SSE": {
+        "message": "Sul-sudeste",
+        "description": "Tag \"direction=SSE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSE"
+    },
+    "tag:direction=SSW": {
+        "message": "Sul-sudoeste",
+        "description": "Tag \"direction=SSW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSW"
+    },
+    "tag:direction=SW": {
+        "message": "Sudoeste",
+        "description": "Tag \"direction=SW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SW"
+    },
+    "tag:direction=W": {
+        "message": "Oeste",
+        "description": "Tag \"direction=W\". See https://wiki.openstreetmap.org/wiki/Tag:direction=W"
+    },
+    "tag:direction=WNW": {
+        "message": "Oeste-noroeste",
+        "description": "Tag \"direction=NWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NWW"
+    },
+    "tag:direction=WSW": {
+        "message": "Oeste-Sudoeste",
+        "description": "Tag \"direction=SWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SWW"
+    },
+    "tag:highway=via_ferrata": {
+        "message": "Via ferrata",
+        "description": "Tag \"highway=via_ferrata\". See https://wiki.openstreetmap.org/wiki/Tag:highway=via_ferrata"
+    },
+    "tag:leisure=bleachers": {
+        "message": "Arquibancada",
+        "description": "Tag \"leisure=bleachers\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=bleachers"
+    },
+    "tag:leisure=bowling_alley": {
+        "message": "Pista de boliche",
+        "description": "Tag \"leisure=bowling_alley\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=bowling_alley"
+    },
+    "tag:via_ferrata_scale": {
+        "message": "Escala da via ferrata",
+        "description": "Key \"via_ferrata_scale\". See https://wiki.openstreetmap.org/wiki/Key:via_ferrata_scale"
     }
 }
