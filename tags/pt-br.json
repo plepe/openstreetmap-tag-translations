@@ -105,7 +105,7 @@
         "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
     },
     "tag:admin_level=8": {
-        "message": "",
+        "message": "Município (8)",
         "description": "Tag \"admin_level=8\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=8"
     },
     "tag:admin_level=9": {
@@ -277,7 +277,7 @@
         "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
     },
     "tag:amenity=food_court": {
-        "message": "",
+        "message": "Praça de alimentação",
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
@@ -797,7 +797,7 @@
         "description": "Tag \"building=mall\". See https://wiki.openstreetmap.org/wiki/Tag:building=mall"
     },
     "tag:building=military": {
-        "message": "",
+        "message": "Militar",
         "description": "Tag \"building=military\". See https://wiki.openstreetmap.org/wiki/Tag:building=military"
     },
     "tag:building=monastery": {
@@ -977,7 +977,7 @@
         "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
     },
     "tag:clothes": {
-        "message": "",
+        "message": "Roupas",
         "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=accessories": {
@@ -2498,19 +2498,19 @@
         "description": "Tag \"heritage=0\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=0"
     },
     "tag:heritage=2": {
-        "message": "",
+        "message": "Patrimônio nacional",
         "description": "Tag \"heritage=2\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=2"
     },
     "tag:heritage=3": {
-        "message": "",
+        "message": "Patrimônio regional",
         "description": "Tag \"heritage=3\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=3"
     },
     "tag:heritage=4": {
-        "message": "",
+        "message": "Patrimônio estadual",
         "description": "Tag \"heritage=4\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=4"
     },
     "tag:heritage=8": {
-        "message": "",
+        "message": "Patrimônio municipal",
         "description": "Tag \"heritage=8\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=8"
     },
     "tag:hgv": {
@@ -2894,7 +2894,7 @@
         "description": "Tag \"information=board\". See https://wiki.openstreetmap.org/wiki/Tag:information=board"
     },
     "tag:information=guidepost": {
-        "message": "Informação",
+        "message": "Sinalização",
         "description": "Tag \"information=guidepost\". See https://wiki.openstreetmap.org/wiki/Tag:information=guidepost"
     },
     "tag:information=map": {
@@ -3402,11 +3402,11 @@
         "description": "Key \"memorial:conflict\". See https://wiki.openstreetmap.org/wiki/Key:memorial:conflict"
     },
     "tag:memorial:conflict=WW1": {
-        "message": "",
+        "message": "1ª Guerra Mundial",
         "description": "Tag \"memorial:conflict=WW1\". See https://wiki.openstreetmap.org/wiki/Tag:memorial:conflict=WW1"
     },
     "tag:memorial:conflict=WW2": {
-        "message": "",
+        "message": "2ª Guerra Mundial",
         "description": "Tag \"memorial:conflict=WW2\". See https://wiki.openstreetmap.org/wiki/Tag:memorial:conflict=WW2"
     },
     "tag:memorial=blue_plaque": {
@@ -3418,23 +3418,23 @@
         "description": "Tag \"memorial=bust\" or \"memorial:type=bust\" or \"monument=bust\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=bust"
     },
     "tag:memorial=cross": {
-        "message": "",
+        "message": "Cruz",
         "description": "Tag \"memorial=cross\" or \"memorial:type=cross\" or \"monument=cross\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=cross"
     },
     "tag:memorial=ghost_bike": {
-        "message": "",
+        "message": "Bicicleta fantasma",
         "description": "Tag \"memorial=ghost_bike\" or \"memorial:type=ghost_bike\" or \"monument=ghost_bike\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=ghost_bike"
     },
     "tag:memorial=grave": {
-        "message": "",
+        "message": "Sepultura",
         "description": "Tag \"memorial=grave\" or \"memorial:type=grave\" or \"monument=grave\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=grave"
     },
     "tag:memorial=graveyard": {
-        "message": "",
+        "message": "Cemitério",
         "description": "Tag \"memorial=graveyard\" or \"memorial:type=graveyard\" or \"monument=graveyard\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=graveyard"
     },
     "tag:memorial=high_water_mark": {
-        "message": "",
+        "message": "Marca pluviométrica",
         "description": "Tag \"memorial=high_water_mark\" or \"memorial:type=high_water_mark\" or \"monument=high_water_mark\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=high_water_mark"
     },
     "tag:memorial=obelisk": {
@@ -3446,7 +3446,7 @@
         "description": "Tag \"memorial=plaque\" or \"memorial:type=plaque\" or \"monument=plaque\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=plaque"
     },
     "tag:memorial=sculpture": {
-        "message": "",
+        "message": "Escultura",
         "description": "Tag \"memorial=sculpture\" or \"memorial:type=sculpture\" or \"monument=sculpture\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=sculpture"
     },
     "tag:memorial=statue": {
@@ -3466,11 +3466,11 @@
         "description": "Tag \"memorial=stone\" or \"memorial:type=stone\" or \"monument=stone\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=stone"
     },
     "tag:memorial=tank": {
-        "message": "",
+        "message": "Tanque",
         "description": "Tag \"memorial=tank\" or \"memorial:type=tank\" or \"monument=tank\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=tank"
     },
     "tag:memorial=vehicle": {
-        "message": "",
+        "message": "Veículo",
         "description": "Tag \"memorial=vehicle\" or \"memorial:type=vehicle\" or \"monument=vehicle\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=vehicle"
     },
     "tag:memorial=war_memorial": {
@@ -3810,11 +3810,11 @@
         "description": "Tag \"natural=spring\". See https://wiki.openstreetmap.org/wiki/Tag:natural=spring"
     },
     "tag:natural=stone": {
-        "message": "",
+        "message": "Pedra",
         "description": "Tag \"natural=stone\". See https://wiki.openstreetmap.org/wiki/Tag:natural=stone"
     },
     "tag:natural=strait": {
-        "message": "",
+        "message": "Estreito",
         "description": "Tag \"natural=strait\". See https://wiki.openstreetmap.org/wiki/Tag:natural=strait"
     },
     "tag:natural=tree": {
@@ -5126,7 +5126,7 @@
         "description": "Tag \"shop=houseware\". See https://wiki.openstreetmap.org/wiki/Tag:shop=houseware"
     },
     "tag:shop=ice_cream": {
-        "message": "",
+        "message": "Venda de sorvetes",
         "description": "Tag \"shop=ice_cream\". See https://wiki.openstreetmap.org/wiki/Tag:shop=ice_cream"
     },
     "tag:shop=interior_decoration": {
@@ -5166,7 +5166,7 @@
         "description": "Tag \"shop=mobile_phone\". See https://wiki.openstreetmap.org/wiki/Tag:shop=mobile_phone"
     },
     "tag:shop=model": {
-        "message": "",
+        "message": "Maquetaria",
         "description": "Tag \"shop=model\". See https://wiki.openstreetmap.org/wiki/Tag:shop=model"
     },
     "tag:shop=motorcycle": {
@@ -5250,7 +5250,7 @@
         "description": "Tag \"shop=shopping_centre\". See https://wiki.openstreetmap.org/wiki/Tag:shop=shopping_centre"
     },
     "tag:shop=spices": {
-        "message": "",
+        "message": "Loja de especiarias",
         "description": "Tag \"shop=spices\". See https://wiki.openstreetmap.org/wiki/Tag:shop=spices"
     },
     "tag:shop=sports": {
@@ -5514,7 +5514,7 @@
         "description": "Tag \"sport=model_aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:sport=model_aerodrome"
     },
     "tag:sport=motocross": {
-        "message": "",
+        "message": "Motocross",
         "description": "Tag \"sport=motocross\". See https://wiki.openstreetmap.org/wiki/Tag:sport=motocross"
     },
     "tag:sport=motor": {
@@ -5762,7 +5762,7 @@
         "description": "Tag \"tourism=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=hotel"
     },
     "tag:tourism=information": {
-        "message": "Posto de informações",
+        "message": "Informações turísticas",
         "description": "Tag \"tourism=information\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=information"
     },
     "tag:tourism=motel": {
@@ -5978,7 +5978,7 @@
         "description": "Tag \"waterway=stream\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=stream"
     },
     "tag:waterway=waterfall": {
-        "message": "",
+        "message": "Cachoeira",
         "description": "Tag \"waterway=waterfall\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=waterfall"
     },
     "tag:waterway=weir": {
@@ -6036,5 +6036,13 @@
     "tag:xmas:feature=tree": {
         "message": "Árvore de Natal",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:amenity=childcare": {
+        "message": "Berçário",
+        "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
+    },
+    "tag:building=agriculture": {
+        "message": "Agrícola",
+        "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
     }
 }
