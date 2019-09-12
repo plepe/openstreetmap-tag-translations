@@ -1093,7 +1093,7 @@
         "description": "Tag \"clothes=workwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:community_centre=club_home": {
-        "message": "",
+        "message": "Siedziba klubu",
         "description": "Tag \"community_centre=club_home\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=club_home"
     },
     "tag:community_centre=community_hall": {
@@ -3130,7 +3130,7 @@
         "description": "Tag \"leisure=firepit\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=firepit"
     },
     "tag:leisure=fishing": {
-        "message": "Wędkarstwo",
+        "message": "Miejsce do wędkowania",
         "description": "Tag \"leisure=fishing\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=fishing"
     },
     "tag:leisure=fitness_centre": {
@@ -6068,5 +6068,13 @@
     "tag:climbing=route": {
         "message": "Trasa",
         "description": "Tag \"climbing=route\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route"
+    },
+    "tag:climbing:rock": {
+        "message": "Wspinaczka skałkowa",
+        "description": "Key \"climbing:rock\". See https://wiki.openstreetmap.org/wiki/Key:climbing:rock"
+    },
+    "tag:climbing:speed": {
+        "message": "Prędkość wspinaczki",
+        "description": "Key \"climbing:speed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:speed"
     }
 }
