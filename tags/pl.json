@@ -1165,15 +1165,15 @@
         "description": "Tag \"community_centre=meeting_room\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=meeting_room"
     },
     "tag:community_centre=parish_hall": {
-        "message": "",
+        "message": "Miejsce zgromadzeń wspólnot religijnych",
         "description": "Tag \"community_centre=parish_hall\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=parish_hall"
     },
     "tag:community_centre=village_hall": {
-        "message": "",
+        "message": "Centrum społeczności wiejskiej",
         "description": "Tag \"community_centre=village_hall\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=village_hall"
     },
     "tag:community_centre=youth_centre": {
-        "message": "",
+        "message": "Centrum młodzieży",
         "description": "Tag \"community_centre=youth_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=youth_centre"
     },
     "tag:construction": {
@@ -1185,7 +1185,7 @@
         "description": "Key \"covered\". See https://wiki.openstreetmap.org/wiki/Key:covered"
     },
     "tag:craft": {
-        "message": "",
+        "message": "Rzemiosło",
         "description": "Key \"craft\". See https://wiki.openstreetmap.org/wiki/Key:craft"
     },
     "tag:craft=agricultural_engines": {
@@ -1193,35 +1193,35 @@
         "description": "Tag \"craft=agricultural_engines\". See https://wiki.openstreetmap.org/wiki/Tag:craft=agricultural_engines"
     },
     "tag:craft=artist": {
-        "message": "",
+        "message": "Rzemiosło artystyczne",
         "description": "Tag \"craft=artist\". See https://wiki.openstreetmap.org/wiki/Tag:craft=artist"
     },
     "tag:craft=bakery": {
-        "message": "",
+        "message": "Piekarz",
         "description": "Tag \"craft=bakery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=bakery"
     },
     "tag:craft=basket_maker": {
-        "message": "",
+        "message": "Wikliniarz",
         "description": "Tag \"craft=basket_maker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=basket_maker"
     },
     "tag:craft=beekeeper": {
-        "message": "",
+        "message": "Pszczelarz",
         "description": "Tag \"craft=beekeeper\". See https://wiki.openstreetmap.org/wiki/Tag:craft=beekeeper"
     },
     "tag:craft=blacksmith": {
-        "message": "",
+        "message": "Kowal",
         "description": "Tag \"craft=blacksmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=blacksmith"
     },
     "tag:craft=boatbuilder": {
-        "message": "",
+        "message": "Budowa łodzi",
         "description": "Tag \"craft=boatbuilder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=boatbuilder"
     },
     "tag:craft=bookbinder": {
-        "message": "",
+        "message": "Introligator",
         "description": "Tag \"craft=bookbinder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=bookbinder"
     },
     "tag:craft=brewery": {
-        "message": "",
+        "message": "Browarnik",
         "description": "Tag \"craft=brewery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=brewery"
     },
     "tag:craft=builder": {
