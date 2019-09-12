@@ -754,6 +754,10 @@
         "message": "",
         "description": "Tag \"healthcare=speech_therapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=speech_therapist"
     },
+    "tag:heritage=1": {
+        "message": "",
+        "description": "Tag \"heritage=1\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=1"
+    },
     "tag:historic=wayside_chapel": {
         "message": "",
         "description": "Tag \"historic=wayside_chapel\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_chapel"

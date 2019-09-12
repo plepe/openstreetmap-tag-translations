@@ -2669,9 +2669,13 @@
         "message": "height",
         "description": "Key \"height\". See https://wiki.openstreetmap.org/wiki/Key:height"
     },
-    "tag:heritage=0": {
+    "tag:heritage": {
         "message": "",
         "description": "Tag \"heritage=0\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=0"
+    },
+    "tag:heritage=1": {
+        "message": "",
+        "description": "Tag \"heritage=1\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=1"
     },
     "tag:heritage=2": {
         "message": "",
@@ -5805,13 +5809,13 @@
         "message": "Hockey",
         "description": "Tag \"sport=hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=hockey"
     },
-    "tag:sport=horseshoes": {
-        "message": "Horseshoes",
-        "description": "Tag \"sport=horseshoes\". See https://wiki.openstreetmap.org/wiki/Tag:sport=horseshoes"
-    },
     "tag:sport=horse_racing": {
         "message": "Horse Racing",
         "description": "Tag \"sport=horse_racing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=horse_racing"
+    },
+    "tag:sport=horseshoes": {
+        "message": "Horseshoes",
+        "description": "Tag \"sport=horseshoes\". See https://wiki.openstreetmap.org/wiki/Tag:sport=horseshoes"
     },
     "tag:sport=ice_hockey": {
         "message": "Ice Hockey",
@@ -5889,14 +5893,6 @@
         "message": "Roller Skating",
         "description": "Tag \"sport=roller_skating\". See https://wiki.openstreetmap.org/wiki/Tag:sport=roller_skating"
     },
-    "tag:sport=scuba_diving": {
-        "message": "Scuba Diving",
-        "description": "Tag \"sport=scuba_diving\". See https://wiki.openstreetmap.org/wiki/Tag:sport=scuba_diving"
-    },
-    "tag:sport=softball": {
-        "message": "Softball",
-        "description": "Tag \"sport=softball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=softball"
-    },
     "tag:sport=rowing": {
         "message": "Rowing",
         "description": "Tag \"sport=rowing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rowing"
@@ -5921,6 +5917,10 @@
         "message": "Sailing",
         "description": "Tag \"sport=sailing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=sailing"
     },
+    "tag:sport=scuba_diving": {
+        "message": "Scuba Diving",
+        "description": "Tag \"sport=scuba_diving\". See https://wiki.openstreetmap.org/wiki/Tag:sport=scuba_diving"
+    },
     "tag:sport=shooting": {
         "message": "Shooting",
         "description": "Tag \"sport=shooting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=shooting"
@@ -5940,6 +5940,10 @@
     "tag:sport=soccer": {
         "message": "Soccer",
         "description": "Tag \"sport=soccer\". See https://wiki.openstreetmap.org/wiki/Tag:sport=soccer"
+    },
+    "tag:sport=softball": {
+        "message": "Softball",
+        "description": "Tag \"sport=softball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=softball"
     },
     "tag:sport=surfing": {
         "message": "",

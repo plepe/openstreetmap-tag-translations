@@ -588,6 +588,10 @@
         "message": "Lac",
         "description": "Tag \"bath:type=lake\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=lake"
     },
+    "tag:bath:type=onsen": {
+        "message": "Onsen",
+        "description": "Tag \"bath:type=onsen\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=onsen"
+    },
     "tag:bath:type=river": {
         "message": "Riu",
         "description": "Tag \"bath:type=river\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=river"
@@ -856,6 +860,10 @@
         "message": "Escòla",
         "description": "Tag \"building=school\". See https://wiki.openstreetmap.org/wiki/Tag:building=school"
     },
+    "tag:building=semidetached_house": {
+        "message": "Escart",
+        "description": "Tag \"building=semidetached_house\". See https://wiki.openstreetmap.org/wiki/Tag:building=semidetached_house"
+    },
     "tag:building=service": {
         "message": "Bastiment de servicis",
         "description": "Tag \"building=service\". See https://wiki.openstreetmap.org/wiki/Tag:building=service"
@@ -888,6 +896,30 @@
         "message": "Estable",
         "description": "Tag \"building=stable\". See https://wiki.openstreetmap.org/wiki/Tag:building=stable"
     },
+    "tag:building=stadium": {
+        "message": "Estadi",
+        "description": "Tag \"building=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:building=stadium"
+    },
+    "tag:building=static_caravan": {
+        "message": "Caravana fixa",
+        "description": "Tag \"building=static_caravan\". See https://wiki.openstreetmap.org/wiki/Tag:building=static_caravan"
+    },
+    "tag:building=storage_tank": {
+        "message": "Sèrva",
+        "description": "Tag \"building=storage_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=storage_tank"
+    },
+    "tag:building=sty": {
+        "message": "Porcieu",
+        "description": "Tag \"building=sty\". See https://wiki.openstreetmap.org/wiki/Tag:building=sty"
+    },
+    "tag:building=supermarket": {
+        "message": "Supermercat",
+        "description": "Tag \"building=supermarket\". See https://wiki.openstreetmap.org/wiki/Tag:building=supermarket"
+    },
+    "tag:building=synagogue": {
+        "message": "Sinagòga",
+        "description": "Tag \"building=synagogue\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue"
+    },
     "tag:building=synagogue religion=jewish": {
         "message": "Sinagòga",
         "description": "Combined tag \"building=synagogue\" and \"religion=jewish\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue and https://wiki.openstreetmap.org/wiki/Tag:religion=jewish"
@@ -895,6 +927,10 @@
     "tag:building=temple": {
         "message": "Temple",
         "description": "Tag \"building=temple\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple"
+    },
+    "tag:building=temple religion=sikh": {
+        "message": "Temple Sikh",
+        "description": "Combined tag \"building=temple\" and \"religion=sikh\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple and https://wiki.openstreetmap.org/wiki/Tag:religion=sikh"
     },
     "tag:building=terrace": {
         "message": "Ostaus mejanciers",
@@ -915,6 +951,10 @@
     "tag:building=transportation": {
         "message": "Edifici de transpòrt public",
         "description": "Tag \"building=transportation\". See https://wiki.openstreetmap.org/wiki/Tag:building=transportation"
+    },
+    "tag:building=trullo": {
+        "message": "Trullo",
+        "description": "Tag \"building=trullo\". See https://wiki.openstreetmap.org/wiki/Tag:building=trullo"
     },
     "tag:building=university": {
         "message": "Establiment universitari",
@@ -940,6 +980,50 @@
         "message": "Còst",
         "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
     },
+    "tag:climbing": {
+        "message": "Escalada",
+        "description": "Key \"climbing\". See https://wiki.openstreetmap.org/wiki/Key:climbing"
+    },
+    "tag:climbing:bolted": {
+        "message": "Cavilhat",
+        "description": "Key \"climbing:bolted\". See https://wiki.openstreetmap.org/wiki/Key:climbing:bolted"
+    },
+    "tag:climbing:deepwater": {
+        "message": "En Solitari sus Aiga Fonsa",
+        "description": "Key \"climbing:deepwater\". See https://wiki.openstreetmap.org/wiki/Key:climbing:deepwater"
+    },
+    "tag:climbing:grade:french": {
+        "message": "Gra (FR)",
+        "description": "Key \"climbing:grade:french\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:french"
+    },
+    "tag:climbing:grade:polish": {
+        "message": "Gra (PL)",
+        "description": "Key \"climbing:grade:polish\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:polish"
+    },
+    "tag:climbing:grade:saxon": {
+        "message": "Gra (Saxon)",
+        "description": "Key \"climbing:grade:saxon\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:saxon"
+    },
+    "tag:climbing:grade:uiaa": {
+        "message": "Gra (UIAA)",
+        "description": "Key \"climbing:grade:uiaa\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:uiaa"
+    },
+    "tag:climbing:ice": {
+        "message": "Escalada sus glaç",
+        "description": "Key \"climbing:ice\". See https://wiki.openstreetmap.org/wiki/Key:climbing:ice"
+    },
+    "tag:climbing:length": {
+        "message": "Longor de via",
+        "description": "Key \"climbing:length\". See https://wiki.openstreetmap.org/wiki/Key:climbing:length"
+    },
+    "tag:climbing:mixed": {
+        "message": "Escalada mixta",
+        "description": "Key \"climbing:mixed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:mixed"
+    },
+    "tag:climbing=route": {
+        "message": "Via",
+        "description": "Tag \"climbing=route\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route"
+    },
     "tag:clothes": {
         "message": "Vèstit",
         "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
@@ -951,6 +1035,10 @@
     "tag:clothes=babies": {
         "message": "Vèstits per leis enfantons",
         "description": "Tag \"clothes=babies\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=brand": {
+        "message": "Marca",
+        "description": "Tag \"clothes=brand\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=bridal": {
         "message": "Vèstit de nòvia",
@@ -1031,106 +1119,6 @@
     "tag:clothes=underwear": {
         "message": "Vèstit de dessota",
         "description": "Tag \"clothes=underwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
-    },
-    "tag:building=synagogue": {
-        "message": "Sinagòga",
-        "description": "Tag \"building=synagogue\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue"
-    },
-    "tag:information=audioguide": {
-        "message": "",
-        "description": "Tag \"information=audioguide\". See https://wiki.openstreetmap.org/wiki/Tag:information=audioguide"
-    },
-    "tag:information=board": {
-        "message": "",
-        "description": "Tag \"information=board\". See https://wiki.openstreetmap.org/wiki/Tag:information=board"
-    },
-    "tag:information=guidepost": {
-        "message": "",
-        "description": "Tag \"information=guidepost\". See https://wiki.openstreetmap.org/wiki/Tag:information=guidepost"
-    },
-    "tag:information=map": {
-        "message": "",
-        "description": "Tag \"information=map\". See https://wiki.openstreetmap.org/wiki/Tag:information=map"
-    },
-    "tag:information=office": {
-        "message": "",
-        "description": "Tag \"information=office\". See https://wiki.openstreetmap.org/wiki/Tag:information=office"
-    },
-    "tag:information=route_marker": {
-        "message": "",
-        "description": "Tag \"information=route_marker\". See https://wiki.openstreetmap.org/wiki/Tag:information=route_marker"
-    },
-    "tag:information=tactile_map": {
-        "message": "",
-        "description": "Tag \"information=tactile_map\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_map"
-    },
-    "tag:information=tactile_model": {
-        "message": "",
-        "description": "Tag \"information=tactile_model\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_model"
-    },
-    "tag:information=terminal": {
-        "message": "",
-        "description": "Tag \"information=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:information=terminal"
-    },
-    "tag:information=trail_blaze": {
-        "message": "",
-        "description": "Tag \"information=trail_blaze\". See https://wiki.openstreetmap.org/wiki/Tag:information=trail_blaze"
-    },
-    "tag:network=iwn": {
-        "message": "Itinerari de caminada internacionau",
-        "description": "Tag \"network=iwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=iwn"
-    },
-    "tag:network=lwn": {
-        "message": "Itinerari de caminada locau",
-        "description": "Tag \"network=lwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=lwn"
-    },
-    "tag:network=nwn": {
-        "message": "Itinerari de caminada nacionau",
-        "description": "Tag \"network=nwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=nwn"
-    },
-    "tag:network=rwn": {
-        "message": "Itinerari de caminada regionau",
-        "description": "Tag \"network=rwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=rwn"
-    },
-    "tag:bath:type=onsen": {
-        "message": "Onsen",
-        "description": "Tag \"bath:type=onsen\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=onsen"
-    },
-    "tag:building=semidetached_house": {
-        "message": "Escart",
-        "description": "Tag \"building=semidetached_house\". See https://wiki.openstreetmap.org/wiki/Tag:building=semidetached_house"
-    },
-    "tag:building=stadium": {
-        "message": "Estadi",
-        "description": "Tag \"building=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:building=stadium"
-    },
-    "tag:building=static_caravan": {
-        "message": "Caravana fixa",
-        "description": "Tag \"building=static_caravan\". See https://wiki.openstreetmap.org/wiki/Tag:building=static_caravan"
-    },
-    "tag:building=storage_tank": {
-        "message": "Sèrva",
-        "description": "Tag \"building=storage_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=storage_tank"
-    },
-    "tag:building=sty": {
-        "message": "Porcieu",
-        "description": "Tag \"building=sty\". See https://wiki.openstreetmap.org/wiki/Tag:building=sty"
-    },
-    "tag:building=supermarket": {
-        "message": "Supermercat",
-        "description": "Tag \"building=supermarket\". See https://wiki.openstreetmap.org/wiki/Tag:building=supermarket"
-    },
-    "tag:building=temple religion=sikh": {
-        "message": "Temple Sikh",
-        "description": "Combined tag \"building=temple\" and \"religion=sikh\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple and https://wiki.openstreetmap.org/wiki/Tag:religion=sikh"
-    },
-    "tag:building=trullo": {
-        "message": "Trullo",
-        "description": "Tag \"building=trullo\". See https://wiki.openstreetmap.org/wiki/Tag:building=trullo"
-    },
-    "tag:clothes=brand": {
-        "message": "Marca",
-        "description": "Tag \"clothes=brand\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=unisexs": {
         "message": "Vèstits unisèxes",
@@ -1953,6 +1941,10 @@
         "message": "pèças de forn",
         "description": "Tag \"cuisine=petit_four\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
+    "tag:cuisine=pie": {
+        "message": "torta",
+        "description": "Tag \"cuisine=pie\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
     "tag:cuisine=pizza": {
         "message": "pissaladiera, pizza",
         "description": "Tag \"cuisine=pizza\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
@@ -2197,6 +2189,66 @@
         "message": "vegetarian",
         "description": "Key \"diet:vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegetarian"
     },
+    "tag:direction=E": {
+        "message": "Est (Levant)",
+        "description": "Tag \"direction=E\". See https://wiki.openstreetmap.org/wiki/Tag:direction=E"
+    },
+    "tag:direction=ENE": {
+        "message": "Est-nòrd-est",
+        "description": "Tag \"direction=NEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NEE"
+    },
+    "tag:direction=ESE": {
+        "message": "Est-sud-est",
+        "description": "Tag \"direction=SEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SEE"
+    },
+    "tag:direction=N": {
+        "message": "Nòrd (Tramontana)",
+        "description": "Tag \"direction=N\". See https://wiki.openstreetmap.org/wiki/Tag:direction=N"
+    },
+    "tag:direction=NNE": {
+        "message": "Nòrd-nòrd-est",
+        "description": "Tag \"direction=NNE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNE"
+    },
+    "tag:direction=NNW": {
+        "message": "Nòrd-nòrd-est",
+        "description": "Tag \"direction=NNW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNW"
+    },
+    "tag:direction=NW": {
+        "message": "Nòrd-oest (Mistrau)",
+        "description": "Tag \"direction=NW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NW"
+    },
+    "tag:direction=S": {
+        "message": "Sud (Miejornau)",
+        "description": "Tag \"direction=S\". See https://wiki.openstreetmap.org/wiki/Tag:direction=S"
+    },
+    "tag:direction=SE": {
+        "message": "Sud-est (Eisseròc)",
+        "description": "Tag \"direction=SE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SE"
+    },
+    "tag:direction=SSE": {
+        "message": "Sud-sud-est",
+        "description": "Tag \"direction=SSE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSE"
+    },
+    "tag:direction=SSW": {
+        "message": "Sud-sud-est",
+        "description": "Tag \"direction=SSW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSW"
+    },
+    "tag:direction=SW": {
+        "message": "Sud-oest (Labech)",
+        "description": "Tag \"direction=SW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SW"
+    },
+    "tag:direction=W": {
+        "message": "Oest (Ponent)",
+        "description": "Tag \"direction=W\". See https://wiki.openstreetmap.org/wiki/Tag:direction=W"
+    },
+    "tag:direction=WNW": {
+        "message": "Oest-nòrd-est",
+        "description": "Tag \"direction=NWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NWW"
+    },
+    "tag:direction=WSW": {
+        "message": "Oest-sud-oest",
+        "description": "Tag \"direction=SWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SWW"
+    },
     "tag:disused": {
         "message": "Obsolet",
         "description": "Key \"disused\". See https://wiki.openstreetmap.org/wiki/Key:disused"
@@ -2317,6 +2369,22 @@
         "message": "De verificar",
         "description": "Key \"fixme\". See https://wiki.openstreetmap.org/wiki/Key:fixme"
     },
+    "tag:flood_mark=engraving": {
+        "message": "Pus aut d’una aigada (marca gravada)",
+        "description": "Tag \"flood_mark=engraving\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=engraving"
+    },
+    "tag:flood_mark=painting": {
+        "message": "Pus aut d’una aigada (marca pintada)",
+        "description": "Tag \"flood_mark=painting\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=painting"
+    },
+    "tag:flood_mark=plaque": {
+        "message": "Pus aut d’una aigada (placa)",
+        "description": "Tag \"flood_mark=plaque\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=plaque"
+    },
+    "tag:food": {
+        "message": "Aliments",
+        "description": "Key \"food\". See https://wiki.openstreetmap.org/wiki/Key:food"
+    },
     "tag:foot": {
         "message": "Permés ai pedons",
         "description": "Key \"foot\". See https://wiki.openstreetmap.org/wiki/Key:foot"
@@ -2336,138 +2404,6 @@
     "tag:generator:source": {
         "message": "Fònt d’energia",
         "description": "Key \"generator:source\". See https://wiki.openstreetmap.org/wiki/Key:generator:source"
-    },
-    "tag:religion=muslim": {
-        "message": "musulmana",
-        "description": "Tag \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
-    },
-    "tag:tourism=aquarium": {
-        "message": "Aquari",
-        "description": "Tag \"tourism=aquarium\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=aquarium"
-    },
-    "tag:climbing": {
-        "message": "Escalada",
-        "description": "Key \"climbing\". See https://wiki.openstreetmap.org/wiki/Key:climbing"
-    },
-    "tag:climbing:bolted": {
-        "message": "Cavilhat",
-        "description": "Key \"climbing:bolted\". See https://wiki.openstreetmap.org/wiki/Key:climbing:bolted"
-    },
-    "tag:climbing:deepwater": {
-        "message": "En Solitari sus Aiga Fonsa",
-        "description": "Key \"climbing:deepwater\". See https://wiki.openstreetmap.org/wiki/Key:climbing:deepwater"
-    },
-    "tag:climbing:grade:french": {
-        "message": "Gra (FR)",
-        "description": "Key \"climbing:grade:french\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:french"
-    },
-    "tag:climbing:grade:polish": {
-        "message": "Gra (PL)",
-        "description": "Key \"climbing:grade:polish\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:polish"
-    },
-    "tag:climbing:grade:saxon": {
-        "message": "Gra (Saxon)",
-        "description": "Key \"climbing:grade:saxon\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:saxon"
-    },
-    "tag:climbing:grade:uiaa": {
-        "message": "Gra (UIAA)",
-        "description": "Key \"climbing:grade:uiaa\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:uiaa"
-    },
-    "tag:climbing:ice": {
-        "message": "Escalada sus glaç",
-        "description": "Key \"climbing:ice\". See https://wiki.openstreetmap.org/wiki/Key:climbing:ice"
-    },
-    "tag:climbing:length": {
-        "message": "Longor de via",
-        "description": "Key \"climbing:length\". See https://wiki.openstreetmap.org/wiki/Key:climbing:length"
-    },
-    "tag:climbing:mixed": {
-        "message": "Escalada mixta",
-        "description": "Key \"climbing:mixed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:mixed"
-    },
-    "tag:climbing=route": {
-        "message": "Via",
-        "description": "Tag \"climbing=route\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route"
-    },
-    "tag:cuisine=pie": {
-        "message": "torta",
-        "description": "Tag \"cuisine=pie\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
-    },
-    "tag:direction=E": {
-        "message": "Est (Levant)",
-        "description": "Tag \"direction=E\". See https://wiki.openstreetmap.org/wiki/Tag:direction=E"
-    },
-    "tag:direction=ENE": {
-        "message": "Est-nòrd-est",
-        "description": "Tag \"direction=NEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NEE"
-    },
-    "tag:direction=ESE": {
-        "message": "Est-sud-est",
-        "description": "Tag \"direction=SEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SEE"
-    },
-    "tag:direction=N": {
-        "message": "Nòrd (Tramontana)",
-        "description": "Tag \"direction=N\". See https://wiki.openstreetmap.org/wiki/Tag:direction=N"
-    },
-    "tag:direction=NNE": {
-        "message": "Nòrd-nòrd-est",
-        "description": "Tag \"direction=NNE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNE"
-    },
-    "tag:direction=NNW": {
-        "message": "Nòrd-nòrd-est",
-        "description": "Tag \"direction=NNW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNW"
-    },
-    "tag:direction=NW": {
-        "message": "Nòrd-oest (Mistrau)",
-        "description": "Tag \"direction=NW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NW"
-    },
-    "tag:direction=S": {
-        "message": "Sud (Miejornau)",
-        "description": "Tag \"direction=S\". See https://wiki.openstreetmap.org/wiki/Tag:direction=S"
-    },
-    "tag:direction=SE": {
-        "message": "Sud-est (Eisseròc)",
-        "description": "Tag \"direction=SE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SE"
-    },
-    "tag:direction=SSE": {
-        "message": "Sud-sud-est",
-        "description": "Tag \"direction=SSE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSE"
-    },
-    "tag:direction=SSW": {
-        "message": "Sud-sud-est",
-        "description": "Tag \"direction=SSW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSW"
-    },
-    "tag:direction=SW": {
-        "message": "Sud-oest (Labech)",
-        "description": "Tag \"direction=SW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SW"
-    },
-    "tag:direction=W": {
-        "message": "Oest (Ponent)",
-        "description": "Tag \"direction=W\". See https://wiki.openstreetmap.org/wiki/Tag:direction=W"
-    },
-    "tag:direction=WNW": {
-        "message": "Oest-nòrd-est",
-        "description": "Tag \"direction=NWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NWW"
-    },
-    "tag:direction=WSW": {
-        "message": "Oest-sud-oest",
-        "description": "Tag \"direction=SWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SWW"
-    },
-    "tag:flood_mark=engraving": {
-        "message": "Pus aut d’una aigada (marca gravada)",
-        "description": "Tag \"flood_mark=engraving\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=engraving"
-    },
-    "tag:flood_mark=painting": {
-        "message": "Pus aut d’una aigada (marca pintada)",
-        "description": "Tag \"flood_mark=painting\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=painting"
-    },
-    "tag:flood_mark=plaque": {
-        "message": "Pus aut d’una aigada (placa)",
-        "description": "Tag \"flood_mark=plaque\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=plaque"
-    },
-    "tag:food": {
-        "message": "Aliments",
-        "description": "Key \"food\". See https://wiki.openstreetmap.org/wiki/Key:food"
     },
     "tag:generator:source=diesel": {
         "message": "gasòli",
@@ -2605,9 +2541,13 @@
         "message": "autor",
         "description": "Key \"height\". See https://wiki.openstreetmap.org/wiki/Key:height"
     },
-    "tag:heritage=0": {
+    "tag:heritage": {
         "message": "Patrimòni",
         "description": "Tag \"heritage=0\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=0"
+    },
+    "tag:heritage=1": {
+        "message": "",
+        "description": "Tag \"heritage=1\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=1"
     },
     "tag:highway": {
         "message": "Rota",
@@ -2672,5 +2612,69 @@
     "tag:historic": {
         "message": "Istoric",
         "description": "Key \"historic\". See https://wiki.openstreetmap.org/wiki/Key:historic"
+    },
+    "tag:information=audioguide": {
+        "message": "",
+        "description": "Tag \"information=audioguide\". See https://wiki.openstreetmap.org/wiki/Tag:information=audioguide"
+    },
+    "tag:information=board": {
+        "message": "",
+        "description": "Tag \"information=board\". See https://wiki.openstreetmap.org/wiki/Tag:information=board"
+    },
+    "tag:information=guidepost": {
+        "message": "",
+        "description": "Tag \"information=guidepost\". See https://wiki.openstreetmap.org/wiki/Tag:information=guidepost"
+    },
+    "tag:information=map": {
+        "message": "",
+        "description": "Tag \"information=map\". See https://wiki.openstreetmap.org/wiki/Tag:information=map"
+    },
+    "tag:information=office": {
+        "message": "",
+        "description": "Tag \"information=office\". See https://wiki.openstreetmap.org/wiki/Tag:information=office"
+    },
+    "tag:information=route_marker": {
+        "message": "",
+        "description": "Tag \"information=route_marker\". See https://wiki.openstreetmap.org/wiki/Tag:information=route_marker"
+    },
+    "tag:information=tactile_map": {
+        "message": "",
+        "description": "Tag \"information=tactile_map\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_map"
+    },
+    "tag:information=tactile_model": {
+        "message": "",
+        "description": "Tag \"information=tactile_model\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_model"
+    },
+    "tag:information=terminal": {
+        "message": "",
+        "description": "Tag \"information=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:information=terminal"
+    },
+    "tag:information=trail_blaze": {
+        "message": "",
+        "description": "Tag \"information=trail_blaze\". See https://wiki.openstreetmap.org/wiki/Tag:information=trail_blaze"
+    },
+    "tag:network=iwn": {
+        "message": "Itinerari de caminada internacionau",
+        "description": "Tag \"network=iwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=iwn"
+    },
+    "tag:network=lwn": {
+        "message": "Itinerari de caminada locau",
+        "description": "Tag \"network=lwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=lwn"
+    },
+    "tag:network=nwn": {
+        "message": "Itinerari de caminada nacionau",
+        "description": "Tag \"network=nwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=nwn"
+    },
+    "tag:network=rwn": {
+        "message": "Itinerari de caminada regionau",
+        "description": "Tag \"network=rwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=rwn"
+    },
+    "tag:religion=muslim": {
+        "message": "musulmana",
+        "description": "Tag \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
+    },
+    "tag:tourism=aquarium": {
+        "message": "Aquari",
+        "description": "Tag \"tourism=aquarium\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=aquarium"
     }
 }

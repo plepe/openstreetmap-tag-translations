@@ -2500,9 +2500,13 @@
         "description": "Key \"height\". See https://wiki.openstreetmap.org/wiki/Key:height",
         "message": "key:height"
     },
-    "tag:heritage=0": {
+    "tag:heritage": {
         "description": "Tag \"heritage=0\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=0",
         "message": "tag:heritage=0"
+    },
+    "tag:heritage=1": {
+        "message": "",
+        "description": "Tag \"heritage=1\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=1"
     },
     "tag:heritage=2": {
         "description": "Tag \"heritage=2\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=2",
