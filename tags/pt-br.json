@@ -2566,11 +2566,11 @@
         "description": "Key \"height\". See https://wiki.openstreetmap.org/wiki/Key:height"
     },
     "tag:heritage": {
-        "message": "",
+        "message": "Patrimônio",
         "description": "Tag \"heritage=0\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=0"
     },
     "tag:heritage=1": {
-        "message": "",
+        "message": "Patrimônio mundial",
         "description": "Tag \"heritage=1\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=1"
     },
     "tag:heritage=2": {
@@ -3674,7 +3674,7 @@
         "description": "Tag \"museum=language\". See https://wiki.openstreetmap.org/wiki/Tag:museum=language"
     },
     "tag:museum=living_history": {
-        "message": "",
+        "message": "Museu vivo",
         "description": "Tag \"museum=living_history\". See https://wiki.openstreetmap.org/wiki/Tag:museum=living_history"
     },
     "tag:museum=local": {
@@ -3766,11 +3766,11 @@
         "description": "Tag \"natural=arete\". See https://wiki.openstreetmap.org/wiki/Tag:natural=arete"
     },
     "tag:natural=bare_rock": {
-        "message": "",
+        "message": "Leito rochoso",
         "description": "Tag \"natural=bare_rock\". See https://wiki.openstreetmap.org/wiki/Tag:natural=bare_rock"
     },
     "tag:natural=bay": {
-        "message": "",
+        "message": "Baía",
         "description": "Tag \"natural=bay\". See https://wiki.openstreetmap.org/wiki/Tag:natural=bay"
     },
     "tag:natural=beach": {
@@ -3778,7 +3778,7 @@
         "description": "Tag \"natural=beach\". See https://wiki.openstreetmap.org/wiki/Tag:natural=beach"
     },
     "tag:natural=cape": {
-        "message": "",
+        "message": "Cabo",
         "description": "Tag \"natural=cape\". See https://wiki.openstreetmap.org/wiki/Tag:natural=cape"
     },
     "tag:natural=cave_entrance": {
@@ -3818,7 +3818,7 @@
         "description": "Tag \"natural=heath\". See https://wiki.openstreetmap.org/wiki/Tag:natural=heath"
     },
     "tag:natural=hill": {
-        "message": "",
+        "message": "Morro",
         "description": "Tag \"natural=hill\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hill"
     },
     "tag:natural=hot_spring": {
@@ -3850,7 +3850,7 @@
         "description": "Tag \"natural=peak\". See https://wiki.openstreetmap.org/wiki/Tag:natural=peak"
     },
     "tag:natural=peninsula": {
-        "message": "",
+        "message": "Península",
         "description": "Tag \"natural=peninsula\". See https://wiki.openstreetmap.org/wiki/Tag:natural=peninsula"
     },
     "tag:natural=reef": {
@@ -3858,15 +3858,15 @@
         "description": "Tag \"natural=reef\". See https://wiki.openstreetmap.org/wiki/Tag:natural=reef"
     },
     "tag:natural=ridge": {
-        "message": "",
+        "message": "Cumeeira",
         "description": "Tag \"natural=ridge\". See https://wiki.openstreetmap.org/wiki/Tag:natural=ridge"
     },
     "tag:natural=river_terrace": {
-        "message": "",
+        "message": "Terraço aluvial",
         "description": "Tag \"natural=river_terrace\". See https://wiki.openstreetmap.org/wiki/Tag:natural=river_terrace"
     },
     "tag:natural=rock": {
-        "message": "",
+        "message": "Rocha",
         "description": "Tag \"natural=rock\". See https://wiki.openstreetmap.org/wiki/Tag:natural=rock"
     },
     "tag:natural=saddle": {
@@ -5138,7 +5138,7 @@
         "description": "Tag \"shop=fish\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fish"
     },
     "tag:shop=fishing": {
-        "message": "",
+        "message": "Peixaria",
         "description": "Tag \"shop=fishing\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fishing"
     },
     "tag:shop=fishmonger": {
@@ -5726,11 +5726,11 @@
         "description": "Key \"theatre:genre\". See https://wiki.openstreetmap.org/wiki/Key:theatre:genre"
     },
     "tag:theatre:genre=ballet": {
-        "message": "",
+        "message": "Balé",
         "description": "Tag \"theatre:genre=ballet\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=ballet"
     },
     "tag:theatre:genre=boulevard": {
-        "message": "",
+        "message": "Boulevard",
         "description": "Tag \"theatre:genre=boulevard\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=boulevard"
     },
     "tag:theatre:genre=cabaret": {
