@@ -1137,31 +1137,31 @@
         "description": "Tag \"community_centre=club_home\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=club_home"
     },
     "tag:community_centre=community_hall": {
-        "message": "",
+        "message": "Sala spotkań społeczności",
         "description": "Tag \"community_centre=community_hall\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=community_hall"
     },
     "tag:community_centre=cultural_centre": {
-        "message": "",
+        "message": "Centrum kulturalne",
         "description": "Tag \"community_centre=cultural_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=cultural_centre"
     },
     "tag:community_centre=environment_centre": {
-        "message": "",
+        "message": "Centrum działaczy na rzecz środowiska",
         "description": "Tag \"community_centre=environment_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=environment_centre"
     },
     "tag:community_centre=events_venue": {
-        "message": "",
+        "message": "Przestrzeń dla wydarzeń ogólnych",
         "description": "Tag \"community_centre=events_venue\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=events_venue"
     },
     "tag:community_centre=family_centre": {
-        "message": "",
+        "message": "Centrum dla rodziców",
         "description": "Tag \"community_centre=family_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=family_centre"
     },
     "tag:community_centre=language_centre": {
-        "message": "",
+        "message": "Centrum promocji języka",
         "description": "Tag \"community_centre=language_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=language_centre"
     },
     "tag:community_centre=meeting_room": {
-        "message": "",
+        "message": "Sala spotkań",
         "description": "Tag \"community_centre=meeting_room\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=meeting_room"
     },
     "tag:community_centre=parish_hall": {
