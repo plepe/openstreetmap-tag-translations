@@ -1225,23 +1225,23 @@
         "description": "Tag \"craft=brewery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=brewery"
     },
     "tag:craft=builder": {
-        "message": "",
+        "message": "Budowniczy",
         "description": "Tag \"craft=builder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=builder"
     },
     "tag:craft=cabinet_maker": {
-        "message": "",
+        "message": "Stolarz",
         "description": "Tag \"craft=cabinet_maker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=cabinet_maker"
     },
     "tag:craft=car_painter": {
-        "message": "",
+        "message": "Lakiernik",
         "description": "Tag \"craft=car_painter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=car_painter"
     },
     "tag:craft=car_repair": {
-        "message": "",
+        "message": "Mechanik samochodowy",
         "description": "Tag \"craft=car_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=car_repair"
     },
     "tag:craft=carpenter": {
-        "message": "",
+        "message": "Cieśla",
         "description": "Tag \"craft=carpenter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=carpenter"
     },
     "tag:craft=carpet_layer": {
