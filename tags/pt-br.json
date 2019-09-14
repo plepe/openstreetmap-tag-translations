@@ -177,7 +177,7 @@
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_rental": {
-        "message": "Aluguel de bicicletas",
+        "message": "Estação de bicicletas públicas",
         "description": "Tag \"amenity=bicycle_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_rental"
     },
     "tag:amenity=biergarten": {
@@ -1561,24 +1561,24 @@
         "description": "Key \"cuisine\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine/dessert": {
-        "message": ""
+        "message": "Cozinha (sobremesa)"
     },
     "tag:cuisine/ethnicity": {
-        "message": ""
+        "message": "Cuisine (etnia)"
     },
     "tag:cuisine/food": {
-        "message": ""
+        "message": "Cozinha (comida)"
     },
     "tag:cuisine=afghan": {
         "message": "afegã",
         "description": "Tag \"cuisine=afghan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=african": {
-        "message": "",
+        "message": "africana",
         "description": "Tag \"cuisine=african\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=american": {
-        "message": "",
+        "message": "americana",
         "description": "Tag \"cuisine=american\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=arab": {
@@ -1586,7 +1586,7 @@
         "description": "Tag \"cuisine=arab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=argentinian": {
-        "message": "",
+        "message": "argentina",
         "description": "Tag \"cuisine=argentinian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=asian": {
@@ -5782,15 +5782,15 @@
         "description": "Tag \"theatre:genre=puppet\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=puppet"
     },
     "tag:theatre:genre=shadow_play": {
-        "message": "",
+        "message": "sombras",
         "description": "Tag \"theatre:genre=shadow_play\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=shadow_play"
     },
     "tag:theatre:genre=stand_up_comedy": {
-        "message": "",
+        "message": "comédia de stand-up",
         "description": "Tag \"theatre:genre=stand_up_comedy\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=stand_up_comedy"
     },
     "tag:theatre:genre=variety": {
-        "message": "",
+        "message": "variedades",
         "description": "Tag \"theatre:genre=variety\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=variety"
     },
     "tag:toll": {
@@ -6128,5 +6128,9 @@
     "tag:xmas:feature=tree": {
         "message": "Árvore de Natal",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:tourism=trail_riding_station": {
+        "message": "Estação de hipismo de trilha",
+        "description": "Tag \"tourism=trail_riding_station\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=trail_riding_station"
     }
 }
