@@ -6132,5 +6132,9 @@
     "tag:tourism=trail_riding_station": {
         "message": "Estação de hipismo de trilha",
         "description": "Tag \"tourism=trail_riding_station\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=trail_riding_station"
+    },
+    "tag:historic=heritage": {
+        "message": "Patrimônio",
+        "description": "Tag \"historic=heritage\". See https://wiki.openstreetmap.org/wiki/Tag:historic=heritage"
     }
 }
