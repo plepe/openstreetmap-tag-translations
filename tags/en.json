@@ -2969,6 +2969,10 @@
         "message": "",
         "description": "Tag \"historic=fort\". See https://wiki.openstreetmap.org/wiki/Tag:historic=fort"
     },
+    "tag:historic=heritage": {
+        "message": "",
+        "description": "Tag \"historic=heritage\". See https://wiki.openstreetmap.org/wiki/Tag:historic=heritage"
+    },
     "tag:historic=industrial": {
         "message": "",
         "description": "Tag \"historic=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:historic=industrial"
