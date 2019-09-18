@@ -2671,7 +2671,7 @@
     },
     "tag:heritage": {
         "message": "",
-        "description": "Tag \"heritage=0\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=0"
+        "description": "Key \"heritage\". See https://wiki.openstreetmap.org/wiki/Key:heritage"
     },
     "tag:heritage=1": {
         "message": "",
