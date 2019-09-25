@@ -281,7 +281,7 @@
         "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
     },
     "tag:amenity=food_court": {
-        "message": "",
+        "message": "Food Court",
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
@@ -3166,7 +3166,7 @@
         "description": "Key \"is_in\". See https://wiki.openstreetmap.org/wiki/Key:is_in"
     },
     "tag:kids_area": {
-        "message": "",
+        "message": "Kids Area",
         "description": "Key \"kids_area\". See https://wiki.openstreetmap.org/wiki/Key:kids_area"
     },
     "tag:landuse": {
@@ -3502,7 +3502,7 @@
         "description": "Tag \"leisure=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=stadium"
     },
     "tag:leisure=summer_camp": {
-        "message": "",
+        "message": "Summer Camp",
         "description": "Tag \"leisure=summer_camp\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=summer_camp"
     },
     "tag:leisure=swimming_area": {
@@ -5698,7 +5698,7 @@
         "description": "Tag \"sport=billiards\". See https://wiki.openstreetmap.org/wiki/Tag:sport=billiards"
     },
     "tag:sport=bmx": {
-        "message": "",
+        "message": "BMX",
         "description": "Tag \"sport=bmx\". See https://wiki.openstreetmap.org/wiki/Tag:sport=bmx"
     },
     "tag:sport=boules": {
