@@ -137,7 +137,7 @@
         "description": "Key \"amenity\". See https://wiki.openstreetmap.org/wiki/Key:amenity"
     },
     "tag:amenity=arts_centre": {
-        "message": "Kunstzentren",
+        "message": "Kunstzentrum",
         "description": "Tag \"amenity=arts_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=arts_centre"
     },
     "tag:amenity=atm": {
@@ -145,7 +145,7 @@
         "description": "Tag \"amenity=atm\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=atm"
     },
     "tag:amenity=baby_hatch": {
-        "message": "Babyklappen",
+        "message": "Babyklappe",
         "description": "Tag \"amenity=baby_hatch\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=baby_hatch"
     },
     "tag:amenity=bank": {
@@ -177,7 +177,7 @@
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_rental": {
-        "message": "Fahrradvermietungen",
+        "message": "Fahrradvermietung",
         "description": "Tag \"amenity=bicycle_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_rental"
     },
     "tag:amenity=biergarten": {
@@ -201,11 +201,11 @@
         "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
     },
     "tag:amenity=car_rental": {
-        "message": "Autovermietungen",
+        "message": "Autovermietung",
         "description": "Tag \"amenity=car_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_rental"
     },
     "tag:amenity=car_sharing": {
-        "message": "Carsharing-Stationen",
+        "message": "Carsharing-Station",
         "description": "Tag \"amenity=car_sharing\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_sharing"
     },
     "tag:amenity=car_wash": {
@@ -285,7 +285,7 @@
         "description": "Tag \"amenity=fountain\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fountain"
     },
     "tag:amenity=fuel": {
-        "message": "Tankstellen",
+        "message": "Tankstelle",
         "description": "Tag \"amenity=fuel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fuel"
     },
     "tag:amenity=government": {
@@ -317,7 +317,7 @@
         "description": "Tag \"amenity=language_school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=language_school"
     },
     "tag:amenity=library": {
-        "message": "Bibliotheken",
+        "message": "Bibliothek",
         "description": "Tag \"amenity=library\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=library"
     },
     "tag:amenity=marketplace": {
@@ -345,11 +345,11 @@
         "description": "Tag \"amenity=place_of_worship\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship"
     },
     "tag:amenity=police": {
-        "message": "Polizeiwachen",
+        "message": "Polizeiwache",
         "description": "Tag \"amenity=police\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=police"
     },
     "tag:amenity=post_box": {
-        "message": "Briefkästen",
+        "message": "Briefkasten",
         "description": "Tag \"amenity=post_box\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_box"
     },
     "tag:amenity=post_office": {
@@ -453,11 +453,11 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=bicycle_tube\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=bicycle_tube"
     },
     "tag:amenity=vending_machine vending=cigarettes": {
-        "message": "Zigarettenautomaten",
+        "message": "Zigarettenautomat",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=cigarettes\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=cigarettes"
     },
     "tag:amenity=vending_machine vending=condoms": {
-        "message": "Kondomautomaten",
+        "message": "Kondomautomat",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=condoms\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=condoms"
     },
     "tag:amenity=vending_machine vending=excrement_bags": {
@@ -473,7 +473,7 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=food;drinks\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=food;drinks"
     },
     "tag:amenity=vending_machine vending=news_papers": {
-        "message": "Zeitungsautomaten",
+        "message": "Zeitungsautomat",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=news_papers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=news_papers"
     },
     "tag:amenity=vending_machine vending=parcel_mail_in": {
@@ -497,19 +497,19 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets;public_transport_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets;public_transport_tickets"
     },
     "tag:amenity=vending_machine vending=public_transport_tickets": {
-        "message": "Ticketautomaten (ÖPV)",
+        "message": "Ticketautomat (ÖPV)",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=public_transport_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=public_transport_tickets"
     },
     "tag:amenity=vending_machine vending=stamps": {
-        "message": "Briefmarkenautomaten",
+        "message": "Briefmarkenautomat",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=stamps\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=stamps"
     },
     "tag:amenity=vending_machine vending=sweets;chewing_gum": {
-        "message": "Süßigkeitenautomaten",
+        "message": "Süßigkeitenautomat",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=sweets;chewing_gum\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=sweets;chewing_gum"
     },
     "tag:amenity=vending_machine vending=telephone_vouchers": {
-        "message": "Telefonkartenautomaten",
+        "message": "Telefonkartenautomat",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=telephone_vouchers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=telephone_vouchers"
     },
     "tag:amenity=veterinary": {
@@ -1085,7 +1085,7 @@
         "description": "Tag \"clothes=wedding\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=women": {
-        "message": "Frauen",
+        "message": "Damenbekleidung",
         "description": "Tag \"clothes=women\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=workwear": {
@@ -2218,7 +2218,7 @@
         "description": "Tag \"emergency=defibrillator\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=defibrillator"
     },
     "tag:emergency=fire_hydrant": {
-        "message": "Hydranten",
+        "message": "Hydrant",
         "description": "Tag \"emergency=fire_hydrant\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant"
     },
     "tag:emergency=fire_hydrant fire_hydrant:type=pillar": {
@@ -2230,7 +2230,7 @@
         "description": "Combined tag \"emergency=fire_hydrant\" and \"fire_hydrant:type=underground\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant and https://wiki.openstreetmap.org/wiki/Tag:fire_hydrant:type=underground"
     },
     "tag:emergency=phone": {
-        "message": "Notfalltelefone",
+        "message": "Notfalltelefon",
         "description": "Tag \"emergency=phone\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=phone"
     },
     "tag:end_date": {
@@ -2530,7 +2530,7 @@
         "description": "Tag \"highway=bridleway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=bridleway"
     },
     "tag:highway=bus_stop": {
-        "message": "Bushaltestellen",
+        "message": "Bushaltestelle",
         "description": "Tag \"highway=bus_stop\". See https://wiki.openstreetmap.org/wiki/Tag:highway=bus_stop"
     },
     "tag:highway=construction": {
@@ -2622,7 +2622,7 @@
         "description": "Tag \"highway=service\". See https://wiki.openstreetmap.org/wiki/Tag:highway=service"
     },
     "tag:highway=services": {
-        "message": "Zufahrten",
+        "message": "Raststätte",
         "description": "Tag \"highway=services\". See https://wiki.openstreetmap.org/wiki/Tag:highway=services"
     },
     "tag:highway=steps": {
@@ -2734,7 +2734,7 @@
         "description": "Tag \"historic=aqueduct\". See https://wiki.openstreetmap.org/wiki/Tag:historic=aqueduct"
     },
     "tag:historic=archaeological_site": {
-        "message": "Grabungsstätten",
+        "message": "Grabungsstätte",
         "description": "Tag \"historic=archaeological_site\". See https://wiki.openstreetmap.org/wiki/Tag:historic=archaeological_site"
     },
     "tag:historic=battlefield": {
@@ -2806,7 +2806,7 @@
         "description": "Tag \"historic=manor\". See https://wiki.openstreetmap.org/wiki/Tag:historic=manor"
     },
     "tag:historic=memorial": {
-        "message": "Gedenkstätten",
+        "message": "Gedenkstätte",
         "description": "Tag \"historic=memorial\". See https://wiki.openstreetmap.org/wiki/Tag:historic=memorial"
     },
     "tag:historic=milestone": {
@@ -2858,7 +2858,7 @@
         "description": "Tag \"historic=tower\". See https://wiki.openstreetmap.org/wiki/Tag:historic=tower"
     },
     "tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage": {
-        "message": "UNESCO-Weltkulturerbestätten",
+        "message": "UNESCO-Weltkulturerbestätte",
         "description": "Tag \"historic=unesco_world_heritage;historic=UNESCO_world_heritage\". See https://wiki.openstreetmap.org/wiki/Tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage"
     },
     "tag:historic=wayside_chapel": {
@@ -2982,7 +2982,7 @@
         "description": "Key \"is_in\". See https://wiki.openstreetmap.org/wiki/Key:is_in"
     },
     "tag:kids_area": {
-        "message": "",
+        "message": "Spielecke",
         "description": "Key \"kids_area\". See https://wiki.openstreetmap.org/wiki/Key:kids_area"
     },
     "tag:landuse": {
@@ -2990,7 +2990,7 @@
         "description": "Key \"landuse\". See https://wiki.openstreetmap.org/wiki/Key:landuse"
     },
     "tag:landuse=allotments": {
-        "message": "Kleingartenanlagen",
+        "message": "Kleingartenanlage",
         "description": "Tag \"landuse=allotments\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=allotments"
     },
     "tag:landuse=basin": {
@@ -3026,7 +3026,7 @@
         "description": "Tag \"landuse=garages\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=garages"
     },
     "tag:landuse=grass": {
-        "message": "Grasflächen",
+        "message": "Grasfläche",
         "description": "Tag \"landuse=grass\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=grass"
     },
     "tag:landuse=greenfield": {
@@ -3046,7 +3046,7 @@
         "description": "Tag \"landuse=landfill\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=landfill"
     },
     "tag:landuse=meadow": {
-        "message": "Wiesen",
+        "message": "Wiese",
         "description": "Tag \"landuse=meadow\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=meadow"
     },
     "tag:landuse=military": {
@@ -3178,7 +3178,7 @@
         "description": "Tag \"leisure=indoor_play\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=indoor_play"
     },
     "tag:leisure=marina": {
-        "message": "Yachthäfen",
+        "message": "Yachthafen",
         "description": "Tag \"leisure=marina\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=marina"
     },
     "tag:leisure=miniature_golf": {
@@ -3310,7 +3310,7 @@
         "description": "Tag \"leisure=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=stadium"
     },
     "tag:leisure=summer_camp": {
-        "message": "",
+        "message": "Ferienlager",
         "description": "Tag \"leisure=summer_camp\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=summer_camp"
     },
     "tag:leisure=swimming_area": {
@@ -3818,7 +3818,7 @@
         "description": "Tag \"natural=grassland\". See https://wiki.openstreetmap.org/wiki/Tag:natural=grassland"
     },
     "tag:natural=heath": {
-        "message": "Heiden",
+        "message": "Heide",
         "description": "Tag \"natural=heath\". See https://wiki.openstreetmap.org/wiki/Tag:natural=heath"
     },
     "tag:natural=hill": {
@@ -3830,7 +3830,7 @@
         "description": "Tag \"natural=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hot_spring"
     },
     "tag:natural=marsh": {
-        "message": "Marschen",
+        "message": "Marsch",
         "description": "Tag \"natural=marsh\". See https://wiki.openstreetmap.org/wiki/Tag:natural=marsh"
     },
     "tag:natural=moor": {
@@ -3882,7 +3882,7 @@
         "description": "Tag \"natural=sand\". See https://wiki.openstreetmap.org/wiki/Tag:natural=sand"
     },
     "tag:natural=scree": {
-        "message": "Geröllhalden",
+        "message": "Geröllhalde",
         "description": "Tag \"natural=scree\". See https://wiki.openstreetmap.org/wiki/Tag:natural=scree"
     },
     "tag:natural=scrub": {
@@ -3898,7 +3898,7 @@
         "description": "Tag \"natural=sinkhole\". See https://wiki.openstreetmap.org/wiki/Tag:natural=sinkhole"
     },
     "tag:natural=spring": {
-        "message": "Quellen",
+        "message": "Quelle",
         "description": "Tag \"natural=spring\". See https://wiki.openstreetmap.org/wiki/Tag:natural=spring"
     },
     "tag:natural=stone": {
@@ -4430,11 +4430,11 @@
         "description": "Tag \"power=insulator\". See https://wiki.openstreetmap.org/wiki/Tag:power=insulator"
     },
     "tag:power=line": {
-        "message": "Stromleitungen",
+        "message": "Stromleitung",
         "description": "Tag \"power=line\". See https://wiki.openstreetmap.org/wiki/Tag:power=line"
     },
     "tag:power=minor_line": {
-        "message": "Stromleitungen",
+        "message": "Stromleitung",
         "description": "Tag \"power=minor_line\". See https://wiki.openstreetmap.org/wiki/Tag:power=minor_line"
     },
     "tag:power=pole": {
@@ -5026,7 +5026,7 @@
         "description": "Tag \"shop=car_parts\". See https://wiki.openstreetmap.org/wiki/Tag:shop=car_parts"
     },
     "tag:shop=car_repair": {
-        "message": "Autowerkstätten",
+        "message": "Autowerkstatt",
         "description": "Tag \"shop=car_repair\". See https://wiki.openstreetmap.org/wiki/Tag:shop=car_repair"
     },
     "tag:shop=car_repair service=wheel_repair": {
@@ -5138,7 +5138,7 @@
         "description": "Tag \"shop=fashion\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fashion"
     },
     "tag:shop=fish": {
-        "message": "Fischgeschäfte",
+        "message": "Fischgeschäft",
         "description": "Tag \"shop=fish\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fish"
     },
     "tag:shop=fishing": {
@@ -5146,7 +5146,7 @@
         "description": "Tag \"shop=fishing\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fishing"
     },
     "tag:shop=fishmonger": {
-        "message": "Fischgeschäfte",
+        "message": "Fischgeschäft",
         "description": "Tag \"shop=fishmonger\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fishmonger"
     },
     "tag:shop=fixme": {
@@ -5242,7 +5242,7 @@
         "description": "Tag \"shop=leather\". See https://wiki.openstreetmap.org/wiki/Tag:shop=leather"
     },
     "tag:shop=mall": {
-        "message": "Einkaufszentren",
+        "message": "Einkaufszentrum",
         "description": "Tag \"shop=mall\". See https://wiki.openstreetmap.org/wiki/Tag:shop=mall"
     },
     "tag:shop=market": {
@@ -5266,7 +5266,7 @@
         "description": "Tag \"shop=motorcycle\". See https://wiki.openstreetmap.org/wiki/Tag:shop=motorcycle"
     },
     "tag:shop=music": {
-        "message": "Musikgeschäfte",
+        "message": "Musikgeschäft",
         "description": "Tag \"shop=music\". See https://wiki.openstreetmap.org/wiki/Tag:shop=music"
     },
     "tag:shop=musical_instrument": {
@@ -5298,7 +5298,7 @@
         "description": "Tag \"shop=pasta\". See https://wiki.openstreetmap.org/wiki/Tag:shop=pasta"
     },
     "tag:shop=pastry": {
-        "message": "Backwaren",
+        "message": "Konditorei",
         "description": "Tag \"shop=pastry\". See https://wiki.openstreetmap.org/wiki/Tag:shop=pastry"
     },
     "tag:shop=perfumery": {
@@ -5306,11 +5306,11 @@
         "description": "Tag \"shop=perfumery\". See https://wiki.openstreetmap.org/wiki/Tag:shop=perfumery"
     },
     "tag:shop=pet": {
-        "message": "Tierhandlungen",
+        "message": "Tierhandlung",
         "description": "Tag \"shop=pet\". See https://wiki.openstreetmap.org/wiki/Tag:shop=pet"
     },
     "tag:shop=photo": {
-        "message": "Fotogeschäfte",
+        "message": "Fotogeschäft",
         "description": "Tag \"shop=photo\". See https://wiki.openstreetmap.org/wiki/Tag:shop=photo"
     },
     "tag:shop=printing": {
@@ -5318,11 +5318,11 @@
         "description": "Tag \"shop=printing\". See https://wiki.openstreetmap.org/wiki/Tag:shop=printing"
     },
     "tag:shop=seafood": {
-        "message": "Fischgeschäfte",
+        "message": "Fischgeschäft",
         "description": "Tag \"shop=seafood\". See https://wiki.openstreetmap.org/wiki/Tag:shop=seafood"
     },
     "tag:shop=second_hand": {
-        "message": "Second-Hand-Geschäfte",
+        "message": "Second-Hand-Geschäft",
         "description": "Tag \"shop=second_hand\". See https://wiki.openstreetmap.org/wiki/Tag:shop=second_hand"
     },
     "tag:shop=sewing": {
@@ -5346,7 +5346,7 @@
         "description": "Tag \"shop=spices\". See https://wiki.openstreetmap.org/wiki/Tag:shop=spices"
     },
     "tag:shop=sports": {
-        "message": "Sportgeschäfte",
+        "message": "Sportgeschäft",
         "description": "Tag \"shop=sports\". See https://wiki.openstreetmap.org/wiki/Tag:shop=sports"
     },
     "tag:shop=stationery": {
@@ -5418,7 +5418,7 @@
         "description": "Tag \"shop=weapons\". See https://wiki.openstreetmap.org/wiki/Tag:shop=weapons"
     },
     "tag:shop=wine": {
-        "message": "Weinhandlungen",
+        "message": "Weinhandlung",
         "description": "Tag \"shop=wine\". See https://wiki.openstreetmap.org/wiki/Tag:shop=wine"
     },
     "tag:smoking": {
