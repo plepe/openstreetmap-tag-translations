@@ -1273,7 +1273,7 @@
         "description": "Tag \"craft=computer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=computer"
     },
     "tag:craft=confectionery": {
-        "message": "",
+        "message": "Cukiernik",
         "description": "Tag \"craft=confectionery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=confectionery"
     },
     "tag:craft=construction": {
