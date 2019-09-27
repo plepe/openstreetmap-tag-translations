@@ -2918,7 +2918,7 @@
         "description": "Tag \"historic=archaeological_site\". See https://wiki.openstreetmap.org/wiki/Tag:historic=archaeological_site"
     },
     "tag:historic=battlefield": {
-        "message": "",
+        "message": "Battlefield",
         "description": "Tag \"historic=battlefield\". See https://wiki.openstreetmap.org/wiki/Tag:historic=battlefield"
     },
     "tag:historic=boundary_stone": {
@@ -3962,7 +3962,7 @@
         "description": "Key \"natural\". See https://wiki.openstreetmap.org/wiki/Key:natural"
     },
     "tag:natural=arete": {
-        "message": "",
+        "message": "Arête",
         "description": "Tag \"natural=arete\". See https://wiki.openstreetmap.org/wiki/Tag:natural=arete"
     },
     "tag:natural=bare_rock": {
@@ -4058,7 +4058,7 @@
         "description": "Tag \"natural=reef\". See https://wiki.openstreetmap.org/wiki/Tag:natural=reef"
     },
     "tag:natural=ridge": {
-        "message": "",
+        "message": "Ridge",
         "description": "Tag \"natural=ridge\". See https://wiki.openstreetmap.org/wiki/Tag:natural=ridge"
     },
     "tag:natural=river_terrace": {
@@ -4070,7 +4070,7 @@
         "description": "Tag \"natural=rock\". See https://wiki.openstreetmap.org/wiki/Tag:natural=rock"
     },
     "tag:natural=saddle": {
-        "message": "",
+        "message": "Saddle",
         "description": "Tag \"natural=saddle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=saddle"
     },
     "tag:natural=sand": {
@@ -4090,7 +4090,7 @@
         "description": "Tag \"natural=shingle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=shingle"
     },
     "tag:natural=sinkhole": {
-        "message": "",
+        "message": "Sinkhole",
         "description": "Tag \"natural=sinkhole\". See https://wiki.openstreetmap.org/wiki/Tag:natural=sinkhole"
     },
     "tag:natural=spring": {
@@ -6314,7 +6314,7 @@
         "description": "Key \"waterway\". See https://wiki.openstreetmap.org/wiki/Key:waterway"
     },
     "tag:waterway=canal": {
-        "message": "",
+        "message": "Canal",
         "description": "Tag \"waterway=canal\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=canal"
     },
     "tag:waterway=dam": {
@@ -6322,7 +6322,7 @@
         "description": "Tag \"waterway=dam\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=dam"
     },
     "tag:waterway=ditch": {
-        "message": "",
+        "message": "Ditch",
         "description": "Tag \"waterway=ditch\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=ditch"
     },
     "tag:waterway=divide": {
@@ -6330,11 +6330,11 @@
         "description": "Tag \"waterway=divide\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=divide"
     },
     "tag:waterway=drain": {
-        "message": "",
+        "message": "Drain",
         "description": "Tag \"waterway=drain\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=drain"
     },
     "tag:waterway=river": {
-        "message": "",
+        "message": "River",
         "description": "Tag \"waterway=river\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=river"
     },
     "tag:waterway=river width>10": {
@@ -6350,11 +6350,11 @@
         "description": "Tag \"waterway=stream\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=stream"
     },
     "tag:waterway=waterfall": {
-        "message": "",
+        "message": "Waterfall",
         "description": "Tag \"waterway=waterfall\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=waterfall"
     },
     "tag:waterway=weir": {
-        "message": "",
+        "message": "Weir",
         "description": "Tag \"waterway=weir\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=weir"
     },
     "tag:website": {
