@@ -6,22 +6,22 @@
         "message": "ano"
     },
     "tag:abandoned": {
-        "message": "",
+        "message": "Opuštěný",
         "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
     },
     "tag:abutters": {
-        "message": "",
+        "message": "Opěry",
         "description": "Key \"abutters\". See https://wiki.openstreetmap.org/wiki/Key:abutters"
     },
     "tag:access": {
-        "message": "Neomezeý přístup",
+        "message": "Obecné přístupové oprávnění",
         "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
     },
     "tag:access!=private": {
-        "message": ""
+        "message": "veřejný"
     },
     "tag:access=private": {
-        "message": "",
+        "message": "soukromý",
         "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
     },
     "tag:accomodation": {
@@ -30,22 +30,18 @@
     },
     "tag:addr:city": {
         "message": "Město",
-        "!=1": " Města",
         "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
     },
     "tag:addr:country": {
         "message": "Země",
-        "!=1": " Země",
         "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
     },
     "tag:addr:full": {
         "message": "Celá adresa",
-        "!=1": " Celé adresy",
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
         "message": "Jméno domu",
-        "!=1": " Jména domu",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
@@ -58,12 +54,10 @@
     },
     "tag:addr:postcode": {
         "message": "PSČ",
-        "!=1": " PSČ",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
         "message": "Ulice",
-        "!=1": " Ulice",
         "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
     },
     "tag:address": {
@@ -71,7 +65,7 @@
         "description": "Key \"address\". See https://wiki.openstreetmap.org/wiki/Key:address"
     },
     "tag:admin_level": {
-        "message": "",
+        "message": "Úřední správní úroveň",
         "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
     },
     "tag:admin_level=10": {
@@ -95,7 +89,7 @@
         "description": "Tag \"admin_level=4\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=4"
     },
     "tag:admin_level=5": {
-        "message": "",
+        "message": "(5)",
         "description": "Tag \"admin_level=5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=5"
     },
     "tag:admin_level=6": {
@@ -107,7 +101,7 @@
         "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=7.5": {
-        "message": "",
+        "message": "Admin level 7,5",
         "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
     },
     "tag:admin_level=8": {
@@ -115,7 +109,7 @@
         "description": "Tag \"admin_level=8\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=8"
     },
     "tag:admin_level=9": {
-        "message": "",
+        "message": "(9)",
         "description": "Tag \"admin_level=9\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=9"
     },
     "tag:aerialway": {
@@ -131,12 +125,11 @@
         "description": "Tag \"aeroway=runway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=runway"
     },
     "tag:aeroway=taxiway": {
-        "message": "",
+        "message": "Pojezdová dráha",
         "description": "Tag \"aeroway=taxiway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=taxiway"
     },
     "tag:alt_name": {
         "message": "Alternativní název",
-        "!=1": " Alternativní názvy",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
@@ -160,7 +153,7 @@
         "description": "Tag \"amenity=bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bank"
     },
     "tag:amenity=bar": {
-        "message": "",
+        "message": "Bar",
         "description": "Tag \"amenity=bar\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bar"
     },
     "tag:amenity=bench": {
@@ -168,7 +161,7 @@
         "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
     },
     "tag:amenity=bicycle_parking": {
-        "message": "",
+        "message": "Stojany na kola",
         "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
     },
     "tag:amenity=bicycle_parking capacity<=20": {
@@ -176,7 +169,7 @@
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>20<=60": {
-        "message": "",
+        "message": "Stojany na kola (20-60 míst)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>60": {
@@ -188,7 +181,7 @@
         "description": "Tag \"amenity=bicycle_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_rental"
     },
     "tag:amenity=biergarten": {
-        "message": "",
+        "message": "Venkovní zahrádka",
         "description": "Tag \"amenity=biergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=biergarten"
     },
     "tag:amenity=brothel": {
@@ -204,7 +197,7 @@
         "description": "Tag \"amenity=bus_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bus_station"
     },
     "tag:amenity=cafe": {
-        "message": "",
+        "message": "Kavárna",
         "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
     },
     "tag:amenity=car_rental": {
@@ -216,20 +209,19 @@
         "description": "Tag \"amenity=car_sharing\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_sharing"
     },
     "tag:amenity=car_wash": {
-        "message": "",
+        "message": "Automyčka",
         "description": "Tag \"amenity=car_wash\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_wash"
     },
     "tag:amenity=charging_station": {
-        "message": "",
+        "message": "Nabíjecí stanice",
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
     "tag:amenity=cinema": {
-        "!=1": "Kina",
         "message": "Kino",
         "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
     },
     "tag:amenity=clinic": {
-        "message": "",
+        "message": "Poliklinika",
         "description": "Tag \"amenity=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clinic"
     },
     "tag:amenity=clock": {
@@ -237,15 +229,15 @@
         "description": "Tag \"amenity=clock\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clock"
     },
     "tag:amenity=college": {
-        "message": "Střední škola",
+        "message": "Vysoká škola",
         "description": "Tag \"amenity=college\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=college"
     },
     "tag:amenity=community_centre": {
-        "message": "",
+        "message": "Komuitní centrum",
         "description": "Tag \"amenity=community_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=community_centre"
     },
     "tag:amenity=compressed_air": {
-        "message": "",
+        "message": "Stlačený vzduch",
         "description": "Tag \"amenity=compressed_air\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=compressed_air"
     },
     "tag:amenity=courthouse": {
@@ -273,7 +265,7 @@
         "description": "Tag \"amenity=embassy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=embassy"
     },
     "tag:amenity=fast_food": {
-        "message": "",
+        "message": "Rychlé občerstvení",
         "description": "Tag \"amenity=fast_food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fast_food"
     },
     "tag:amenity=ferry_terminal": {
@@ -281,11 +273,11 @@
         "description": "Tag \"amenity=ferry_terminal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ferry_terminal"
     },
     "tag:amenity=fire_station": {
-        "message": "Hasičská stanice",
+        "message": "Požární stanice",
         "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
     },
     "tag:amenity=food_court": {
-        "message": "",
+        "message": "Jídelna",
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
@@ -309,11 +301,11 @@
         "description": "Tag \"amenity=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=hospital"
     },
     "tag:amenity=ice_cream": {
-        "message": "",
+        "message": "Zmrzlina",
         "description": "Tag \"amenity=ice_cream\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ice_cream"
     },
     "tag:amenity=internet_cafe": {
-        "message": "",
+        "message": "Internetová kavárna",
         "description": "Tag \"amenity=internet_cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=internet_cafe"
     },
     "tag:amenity=kindergarten": {
@@ -321,7 +313,7 @@
         "description": "Tag \"amenity=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=kindergarten"
     },
     "tag:amenity=language_school": {
-        "message": "",
+        "message": "Jazyková škola",
         "description": "Tag \"amenity=language_school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=language_school"
     },
     "tag:amenity=library": {
@@ -333,7 +325,7 @@
         "description": "Tag \"amenity=marketplace\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=marketplace"
     },
     "tag:amenity=motorcycle_parking": {
-        "message": "",
+        "message": "Parkoviště motocyklů",
         "description": "Tag \"amenity=motorcycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=motorcycle_parking"
     },
     "tag:amenity=nursing_home": {
@@ -349,7 +341,7 @@
         "description": "Tag \"amenity=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pharmacy"
     },
     "tag:amenity=place_of_worship": {
-        "message": "",
+        "message": "Náboženské místo",
         "description": "Tag \"amenity=place_of_worship\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship"
     },
     "tag:amenity=police": {
@@ -366,15 +358,14 @@
     },
     "tag:amenity=pub": {
         "message": "Hospoda",
-        "!=1": "Hospody",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
-        "message": "",
+        "message": "Veřejné lázně",
         "description": "Tag \"amenity=public_bath\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bath"
     },
     "tag:amenity=public_bookcase": {
-        "message": "",
+        "message": "Knihobudka",
         "description": "Tag \"amenity=public_bookcase\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bookcase"
     },
     "tag:amenity=public_building": {
@@ -382,7 +373,7 @@
         "description": "Tag \"amenity=public_building\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_building"
     },
     "tag:amenity=recycling": {
-        "message": "",
+        "message": "Recyklační kontejner",
         "description": "Tag \"amenity=recycling\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=recycling"
     },
     "tag:amenity=recycling recycling_type=centre": {
@@ -395,7 +386,6 @@
     },
     "tag:amenity=restaurant": {
         "message": "Restaurace",
-        "!=1": "Restaurace",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
@@ -403,11 +393,11 @@
         "description": "Tag \"amenity=school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=school"
     },
     "tag:amenity=shelter": {
-        "message": "",
+        "message": "Kryt",
         "description": "Tag \"amenity=shelter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shelter"
     },
     "tag:amenity=shower": {
-        "message": "",
+        "message": "Sprcha",
         "description": "Tag \"amenity=shower\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shower"
     },
     "tag:amenity=signpost": {
@@ -415,11 +405,11 @@
         "description": "Tag \"amenity=signpost\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=signpost"
     },
     "tag:amenity=social_facility": {
-        "message": "",
+        "message": "Sociální zařízení",
         "description": "Tag \"amenity=social_facility\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=social_facility"
     },
     "tag:amenity=studio": {
-        "message": "",
+        "message": "studio",
         "description": "Tag \"amenity=studio\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=studio"
     },
     "tag:amenity=taxi": {
@@ -435,15 +425,15 @@
         "description": "Tag \"amenity=theatre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=theatre"
     },
     "tag:amenity=ticket_counter": {
-        "message": "",
+        "message": "veřejná časomíra",
         "description": "Tag \"amenity=ticket_counter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ticket_counter"
     },
     "tag:amenity=toilets": {
-        "message": "",
+        "message": "toalety",
         "description": "Tag \"amenity=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets"
     },
     "tag:amenity=toilets diaper=yes": {
-        "message": "",
+        "message": "Toalety se stolem na přebalení",
         "description": "Combined tag \"amenity=toilets\" and \"diaper=yes\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets and https://wiki.openstreetmap.org/wiki/Tag:diaper=yes"
     },
     "tag:amenity=townhall": {
@@ -451,7 +441,7 @@
         "description": "Tag \"amenity=townhall\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=townhall"
     },
     "tag:amenity=university": {
-        "message": "",
+        "message": "Vysoká škola",
         "description": "Tag \"amenity=university\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=university"
     },
     "tag:amenity=vending_machine": {
@@ -459,7 +449,7 @@
         "description": "Tag \"amenity=vending_machine\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine"
     },
     "tag:amenity=vending_machine vending=bicycle_tube": {
-        "message": "",
+        "message": "Automat na cyklistické duše",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=bicycle_tube\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=bicycle_tube"
     },
     "tag:amenity=vending_machine vending=cigarettes": {
@@ -519,7 +509,7 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=sweets;chewing_gum\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=sweets;chewing_gum"
     },
     "tag:amenity=vending_machine vending=telephone_vouchers": {
-        "message": "",
+        "message": "prodejní automat",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=telephone_vouchers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=telephone_vouchers"
     },
     "tag:amenity=veterinary": {
@@ -527,19 +517,19 @@
         "description": "Tag \"amenity=veterinary\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=veterinary"
     },
     "tag:amenity=waste_basket": {
-        "message": "",
+        "message": "odpadkový koš",
         "description": "Tag \"amenity=waste_basket\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_basket"
     },
     "tag:amenity=waste_disposal": {
-        "message": "",
+        "message": "nakládání s odpady",
         "description": "Tag \"amenity=waste_disposal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_disposal"
     },
     "tag:amenity=waste_transfer_station": {
-        "message": "",
+        "message": "stanice pro třídění odpadu",
         "description": "Tag \"amenity=waste_transfer_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_transfer_station"
     },
     "tag:architect": {
-        "message": "",
+        "message": "Architekt",
         "description": "Key \"architect\". See https://wiki.openstreetmap.org/wiki/Key:architect"
     },
     "tag:area": {
@@ -547,73 +537,67 @@
         "description": "Key \"area\". See https://wiki.openstreetmap.org/wiki/Key:area"
     },
     "tag:artist": {
-        "message": "",
+        "message": "Autor",
         "description": "Key \"artist\". See https://wiki.openstreetmap.org/wiki/Key:artist"
     },
     "tag:artist_name": {
-        "message": "",
+        "message": "Jméno autora",
         "description": "Key \"artist_name\". See https://wiki.openstreetmap.org/wiki/Key:artist_name"
     },
     "tag:barrier": {
         "message": "Překážka",
-        "!=1": "Překážky",
         "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
     },
     "tag:barrier=city_wall": {
         "message": "Hradba",
-        "!=1": "Hradby",
         "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
     },
     "tag:barrier=fence": {
         "message": "Plot",
-        "!=1": "Ploty",
         "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
     },
     "tag:barrier=hedge": {
         "message": "Živý plot",
-        "!=1": "Živé ploty",
         "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
     },
     "tag:barrier=retaining_wall": {
         "message": "Opěrná zeď",
-        "!=1": "Opěrné zdi",
         "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
     },
     "tag:barrier=wall": {
         "message": "Zeď",
-        "!=1": "Zdi",
         "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
     },
     "tag:bath:open_air": {
-        "message": "",
+        "message": "venkovní lázně",
         "description": "Key \"bath:open_air\". See https://wiki.openstreetmap.org/wiki/Key:bath:open_air"
     },
     "tag:bath:type": {
-        "message": "",
+        "message": "typ lázně",
         "description": "Key \"bath:type\". See https://wiki.openstreetmap.org/wiki/Key:bath:type"
     },
     "tag:bath:type=hammam": {
-        "message": "",
+        "message": "Turecká lázeň",
         "description": "Tag \"bath:type=hammam\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hammam"
     },
     "tag:bath:type=hot_spring": {
-        "message": "",
+        "message": "Horké prameny",
         "description": "Tag \"bath:type=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hot_spring"
     },
     "tag:bath:type=lake": {
-        "message": "",
+        "message": "jezerní lázně",
         "description": "Tag \"bath:type=lake\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=lake"
     },
     "tag:bath:type=onsen": {
-        "message": "",
+        "message": "japonský horký pramen",
         "description": "Tag \"bath:type=onsen\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=onsen"
     },
     "tag:bath:type=river": {
-        "message": "",
+        "message": "říční lázně",
         "description": "Tag \"bath:type=river\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=river"
     },
     "tag:bath:type=thermal": {
-        "message": "",
+        "message": "termální lázně",
         "description": "Tag \"bath:type=thermal\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=thermal"
     },
     "tag:bicycle": {
@@ -625,7 +609,7 @@
         "description": "Key \"boundary\". See https://wiki.openstreetmap.org/wiki/Key:boundary"
     },
     "tag:brand": {
-        "message": "",
+        "message": "Značka",
         "description": "Key \"brand\". See https://wiki.openstreetmap.org/wiki/Key:brand"
     },
     "tag:bridge": {
@@ -633,59 +617,59 @@
         "description": "Key \"bridge\". See https://wiki.openstreetmap.org/wiki/Key:bridge"
     },
     "tag:building": {
-        "message": "",
+        "message": "Budova",
         "description": "Key \"building\". See https://wiki.openstreetmap.org/wiki/Key:building"
     },
     "tag:building:levels": {
-        "message": "",
+        "message": "patra",
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
     "tag:building=apartments": {
-        "message": "",
+        "message": "apartmány",
         "description": "Tag \"building=apartments\". See https://wiki.openstreetmap.org/wiki/Tag:building=apartments"
     },
     "tag:building=bakehouse": {
-        "message": "",
+        "message": "pekárna",
         "description": "Tag \"building=bakehouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=bakehouse"
     },
     "tag:building=barn": {
-        "message": "",
+        "message": "stodola",
         "description": "Tag \"building=barn\". See https://wiki.openstreetmap.org/wiki/Tag:building=barn"
     },
     "tag:building=block": {
-        "message": "",
+        "message": "blok domů",
         "description": "Tag \"building=block\". See https://wiki.openstreetmap.org/wiki/Tag:building=block"
     },
     "tag:building=bridge": {
-        "message": "",
+        "message": "most",
         "description": "Tag \"building=bridge\". See https://wiki.openstreetmap.org/wiki/Tag:building=bridge"
     },
     "tag:building=bungalow": {
-        "message": "",
+        "message": "bungalov",
         "description": "Tag \"building=bungalow\". See https://wiki.openstreetmap.org/wiki/Tag:building=bungalow"
     },
     "tag:building=bunker": {
-        "message": "",
+        "message": "bunkr",
         "description": "Tag \"building=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:building=bunker"
     },
     "tag:building=cabin": {
-        "message": "",
+        "message": "horská chalupa",
         "description": "Tag \"building=cabin\". See https://wiki.openstreetmap.org/wiki/Tag:building=cabin"
     },
     "tag:building=carport": {
-        "message": "",
+        "message": "přístřešek pro auto",
         "description": "Tag \"building=carport\". See https://wiki.openstreetmap.org/wiki/Tag:building=carport"
     },
     "tag:building=cathedral": {
-        "message": "",
+        "message": "Katedrála",
         "description": "Tag \"building=cathedral\". See https://wiki.openstreetmap.org/wiki/Tag:building=cathedral"
     },
     "tag:building=chapel": {
-        "message": "",
+        "message": "Kaple",
         "description": "Tag \"building=chapel\". See https://wiki.openstreetmap.org/wiki/Tag:building=chapel"
     },
     "tag:building=church": {
-        "message": "",
+        "message": "Kostel",
         "description": "Tag \"building=church\". See https://wiki.openstreetmap.org/wiki/Tag:building=church"
     },
     "tag:building=church religion=christian": {
@@ -693,135 +677,135 @@
         "description": "Combined tag \"building=church\" and \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:building=church and https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
     },
     "tag:building=civic": {
-        "message": "",
+        "message": "občanský",
         "description": "Tag \"building=civic\". See https://wiki.openstreetmap.org/wiki/Tag:building=civic"
     },
     "tag:building=college": {
-        "message": "",
+        "message": "střední škola",
         "description": "Tag \"building=college\". See https://wiki.openstreetmap.org/wiki/Tag:building=college"
     },
     "tag:building=commercial": {
-        "message": "",
+        "message": "komerční",
         "description": "Tag \"building=commercial\". See https://wiki.openstreetmap.org/wiki/Tag:building=commercial"
     },
     "tag:building=conservatory": {
-        "message": "",
+        "message": "zimní zahrada",
         "description": "Tag \"building=conservatory\". See https://wiki.openstreetmap.org/wiki/Tag:building=conservatory"
     },
     "tag:building=construction": {
-        "message": "",
+        "message": "konstrukce",
         "description": "Tag \"building=construction\". See https://wiki.openstreetmap.org/wiki/Tag:building=construction"
     },
     "tag:building=cowshed": {
-        "message": "",
+        "message": "kravín",
         "description": "Tag \"building=cowshed\". See https://wiki.openstreetmap.org/wiki/Tag:building=cowshed"
     },
     "tag:building=detached": {
-        "message": "",
+        "message": "oddělená budova",
         "description": "Tag \"building=detached\". See https://wiki.openstreetmap.org/wiki/Tag:building=detached"
     },
     "tag:building=dormitory": {
-        "message": "",
+        "message": "internát",
         "description": "Tag \"building=dormitory\". See https://wiki.openstreetmap.org/wiki/Tag:building=dormitory"
     },
     "tag:building=farm": {
-        "message": "",
+        "message": "farma",
         "description": "Tag \"building=farm\". See https://wiki.openstreetmap.org/wiki/Tag:building=farm"
     },
     "tag:building=farm_auxiliary": {
-        "message": "",
+        "message": "farmářská budova",
         "description": "Tag \"building=farm_auxiliary\". See https://wiki.openstreetmap.org/wiki/Tag:building=farm_auxiliary"
     },
     "tag:building=flats": {
-        "message": "",
+        "message": "byty",
         "description": "Tag \"building=flats\". See https://wiki.openstreetmap.org/wiki/Tag:building=flats"
     },
     "tag:building=garage": {
-        "message": "",
+        "message": "garáž",
         "description": "Tag \"building=garage\". See https://wiki.openstreetmap.org/wiki/Tag:building=garage"
     },
     "tag:building=garages": {
-        "message": "",
+        "message": "garáže",
         "description": "Tag \"building=garages\". See https://wiki.openstreetmap.org/wiki/Tag:building=garages"
     },
     "tag:building=garbage_shed": {
-        "message": "",
+        "message": "sběrný dvůr",
         "description": "Tag \"building=garbage_shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=garbage_shed"
     },
     "tag:building=generic": {
-        "message": "",
+        "message": "obecná budova",
         "description": "Tag \"building=generic\". See https://wiki.openstreetmap.org/wiki/Tag:building=generic"
     },
     "tag:building=ger": {
-        "message": "",
+        "message": "jurta",
         "description": "Tag \"building=ger\". See https://wiki.openstreetmap.org/wiki/Tag:building=ger"
     },
     "tag:building=government": {
-        "message": "",
+        "message": "vládní budova",
         "description": "Tag \"building=government\". See https://wiki.openstreetmap.org/wiki/Tag:building=government"
     },
     "tag:building=grandstand": {
-        "message": "",
+        "message": "tribuna stadionu",
         "description": "Tag \"building=grandstand\". See https://wiki.openstreetmap.org/wiki/Tag:building=grandstand"
     },
     "tag:building=greenhouse": {
-        "message": "",
+        "message": "skleník",
         "description": "Tag \"building=greenhouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=greenhouse"
     },
     "tag:building=hangar": {
-        "message": "",
+        "message": "hangár",
         "description": "Tag \"building=hangar\". See https://wiki.openstreetmap.org/wiki/Tag:building=hangar"
     },
     "tag:building=hospital": {
-        "message": "",
+        "message": "nemocnice",
         "description": "Tag \"building=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:building=hospital"
     },
     "tag:building=hotel": {
-        "message": "",
+        "message": "hotel",
         "description": "Tag \"building=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:building=hotel"
     },
     "tag:building=house": {
-        "message": "",
+        "message": "dům",
         "description": "Tag \"building=house\". See https://wiki.openstreetmap.org/wiki/Tag:building=house"
     },
     "tag:building=houseboat": {
-        "message": "",
+        "message": "hausbót",
         "description": "Tag \"building=houseboat\". See https://wiki.openstreetmap.org/wiki/Tag:building=houseboat"
     },
     "tag:building=hut": {
-        "message": "",
+        "message": "Chýše",
         "description": "Tag \"building=hut\". See https://wiki.openstreetmap.org/wiki/Tag:building=hut"
     },
     "tag:building=industrial": {
-        "message": "",
+        "message": "průmyslová budova",
         "description": "Tag \"building=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:building=industrial"
     },
     "tag:building=kindergarten": {
-        "message": "",
+        "message": "dětská školka",
         "description": "Tag \"building=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:building=kindergarten"
     },
     "tag:building=kiosk": {
-        "message": "",
+        "message": "kiosek",
         "description": "Tag \"building=kiosk\". See https://wiki.openstreetmap.org/wiki/Tag:building=kiosk"
     },
     "tag:building=kitchen": {
-        "message": "",
+        "message": "kuchyně",
         "description": "Tag \"building=kitchen\". See https://wiki.openstreetmap.org/wiki/Tag:building=kitchen"
     },
     "tag:building=mall": {
-        "message": "",
+        "message": "obchodní centrum",
         "description": "Tag \"building=mall\". See https://wiki.openstreetmap.org/wiki/Tag:building=mall"
     },
     "tag:building=military": {
-        "message": "",
+        "message": "vojenská budova",
         "description": "Tag \"building=military\". See https://wiki.openstreetmap.org/wiki/Tag:building=military"
     },
     "tag:building=monastery": {
-        "message": "",
+        "message": "klášter",
         "description": "Tag \"building=monastery\". See https://wiki.openstreetmap.org/wiki/Tag:building=monastery"
     },
     "tag:building=mosque": {
-        "message": "",
+        "message": "mešita",
         "description": "Tag \"building=mosque\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque"
     },
     "tag:building=mosque religion=muslim": {
@@ -829,107 +813,107 @@
         "description": "Combined tag \"building=mosque\" and \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque and https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
     },
     "tag:building=office": {
-        "message": "",
+        "message": "úřad",
         "description": "Tag \"building=office\". See https://wiki.openstreetmap.org/wiki/Tag:building=office"
     },
     "tag:building=parking": {
-        "message": "",
+        "message": "parkoviště",
         "description": "Tag \"building=parking\". See https://wiki.openstreetmap.org/wiki/Tag:building=parking"
     },
     "tag:building=pavilion": {
-        "message": "",
+        "message": "Šatny pro sportovce",
         "description": "Tag \"building=pavilion\". See https://wiki.openstreetmap.org/wiki/Tag:building=pavilion"
     },
     "tag:building=public": {
-        "message": "",
+        "message": "veřejné budovy",
         "description": "Tag \"building=public\". See https://wiki.openstreetmap.org/wiki/Tag:building=public"
     },
     "tag:building=religious": {
-        "message": "",
+        "message": "Náboženské budovy",
         "description": "Tag \"building=religious\". See https://wiki.openstreetmap.org/wiki/Tag:building=religious"
     },
     "tag:building=residential": {
-        "message": "",
+        "message": "Obytné budovy",
         "description": "Tag \"building=residential\". See https://wiki.openstreetmap.org/wiki/Tag:building=residential"
     },
     "tag:building=retail": {
-        "message": "",
+        "message": "Komerční budovy",
         "description": "Tag \"building=retail\". See https://wiki.openstreetmap.org/wiki/Tag:building=retail"
     },
     "tag:building=riding_hall": {
-        "message": "",
+        "message": "Jízdárna",
         "description": "Tag \"building=riding_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=riding_hall"
     },
     "tag:building=roof": {
-        "message": "",
+        "message": "Přístřešek",
         "description": "Tag \"building=roof\". See https://wiki.openstreetmap.org/wiki/Tag:building=roof"
     },
     "tag:building=ruins": {
-        "message": "",
+        "message": "ruiny",
         "description": "Tag \"building=ruins\". See https://wiki.openstreetmap.org/wiki/Tag:building=ruins"
     },
     "tag:building=school": {
-        "message": "",
+        "message": "škola",
         "description": "Tag \"building=school\". See https://wiki.openstreetmap.org/wiki/Tag:building=school"
     },
     "tag:building=semidetached_house": {
-        "message": "",
+        "message": "řadový dům",
         "description": "Tag \"building=semidetached_house\". See https://wiki.openstreetmap.org/wiki/Tag:building=semidetached_house"
     },
     "tag:building=service": {
-        "message": "",
+        "message": "servisní budova",
         "description": "Tag \"building=service\". See https://wiki.openstreetmap.org/wiki/Tag:building=service"
     },
     "tag:building=shed": {
-        "message": "",
+        "message": "kůlna",
         "description": "Tag \"building=shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=shed"
     },
     "tag:building=shop": {
-        "message": "",
+        "message": "prodejna",
         "description": "Tag \"building=shop\". See https://wiki.openstreetmap.org/wiki/Tag:building=shop"
     },
     "tag:building=shrine": {
-        "message": "",
+        "message": "Svatyně",
         "description": "Tag \"building=shrine\". See https://wiki.openstreetmap.org/wiki/Tag:building=shrine"
     },
     "tag:building=silo": {
-        "message": "",
+        "message": "Silo",
         "description": "Tag \"building=silo\". See https://wiki.openstreetmap.org/wiki/Tag:building=silo"
     },
     "tag:building=slurry_tank": {
-        "message": "",
+        "message": "Kalová nádrž",
         "description": "Tag \"building=slurry_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=slurry_tank"
     },
     "tag:building=sports_hall": {
-        "message": "",
+        "message": "Sportovní hala",
         "description": "Tag \"building=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=sports_hall"
     },
     "tag:building=stable": {
-        "message": "",
+        "message": "Stáje",
         "description": "Tag \"building=stable\". See https://wiki.openstreetmap.org/wiki/Tag:building=stable"
     },
     "tag:building=stadium": {
-        "message": "",
+        "message": "Stadion",
         "description": "Tag \"building=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:building=stadium"
     },
     "tag:building=static_caravan": {
-        "message": "",
+        "message": "nepojízdný karavan",
         "description": "Tag \"building=static_caravan\". See https://wiki.openstreetmap.org/wiki/Tag:building=static_caravan"
     },
     "tag:building=storage_tank": {
-        "message": "",
+        "message": "Skladovací nádrž",
         "description": "Tag \"building=storage_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=storage_tank"
     },
     "tag:building=sty": {
-        "message": "",
+        "message": "Vepřín",
         "description": "Tag \"building=sty\". See https://wiki.openstreetmap.org/wiki/Tag:building=sty"
     },
     "tag:building=supermarket": {
-        "message": "",
+        "message": "Supermarket",
         "description": "Tag \"building=supermarket\". See https://wiki.openstreetmap.org/wiki/Tag:building=supermarket"
     },
     "tag:building=synagogue": {
-        "message": "",
+        "message": "Synagoga",
         "description": "Tag \"building=synagogue\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue"
     },
     "tag:building=synagogue religion=jewish": {
@@ -937,47 +921,47 @@
         "description": "Combined tag \"building=synagogue\" and \"religion=jewish\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue and https://wiki.openstreetmap.org/wiki/Tag:religion=jewish"
     },
     "tag:building=temple": {
-        "message": "",
+        "message": "Chrám",
         "description": "Tag \"building=temple\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple"
     },
     "tag:building=temple religion=sikh": {
-        "message": "",
+        "message": "Chrám Sikhů",
         "description": "Combined tag \"building=temple\" and \"religion=sikh\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple and https://wiki.openstreetmap.org/wiki/Tag:religion=sikh"
     },
     "tag:building=terrace": {
-        "message": "",
+        "message": "Terasa",
         "description": "Tag \"building=terrace\". See https://wiki.openstreetmap.org/wiki/Tag:building=terrace"
     },
     "tag:building=toilets": {
-        "message": "",
+        "message": "toalety",
         "description": "Tag \"building=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:building=toilets"
     },
     "tag:building=train_station": {
-        "message": "",
+        "message": "Nádražní budova",
         "description": "Tag \"building=train_station\". See https://wiki.openstreetmap.org/wiki/Tag:building=train_station"
     },
     "tag:building=transformer_tower": {
-        "message": "",
+        "message": "Transformátor",
         "description": "Tag \"building=transformer_tower\". See https://wiki.openstreetmap.org/wiki/Tag:building=transformer_tower"
     },
     "tag:building=transportation": {
-        "message": "",
+        "message": "Stanice veřejné dopravy",
         "description": "Tag \"building=transportation\". See https://wiki.openstreetmap.org/wiki/Tag:building=transportation"
     },
     "tag:building=trullo": {
-        "message": "",
+        "message": "Trulli",
         "description": "Tag \"building=trullo\". See https://wiki.openstreetmap.org/wiki/Tag:building=trullo"
     },
     "tag:building=university": {
-        "message": "",
+        "message": "Univerzita",
         "description": "Tag \"building=university\". See https://wiki.openstreetmap.org/wiki/Tag:building=university"
     },
     "tag:building=warehouse": {
-        "message": "",
+        "message": "dílna",
         "description": "Tag \"building=warehouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=warehouse"
     },
     "tag:building=water_tower": {
-        "message": "",
+        "message": "vodojem",
         "description": "Tag \"building=water_tower\". See https://wiki.openstreetmap.org/wiki/Tag:building=water_tower"
     },
     "tag:cables": {
@@ -985,7 +969,7 @@
         "description": "Key \"cables\". See https://wiki.openstreetmap.org/wiki/Key:cables"
     },
     "tag:capacity": {
-        "message": "",
+        "message": "kapacita",
         "description": "Key \"capacity\". See https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:charge": {
@@ -993,163 +977,163 @@
         "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
     },
     "tag:clothes": {
-        "message": "",
+        "message": "Oblečení",
         "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=accessories": {
-        "message": "",
+        "message": "Doplňky oblečení",
         "description": "Tag \"clothes=accessories\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=babies": {
-        "message": "",
+        "message": "Dětské oblečení",
         "description": "Tag \"clothes=babies\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=brand": {
-        "message": "",
+        "message": "Značkové oblečení",
         "description": "Tag \"clothes=brand\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=bridal": {
-        "message": "",
+        "message": "Svatební šaty",
         "description": "Tag \"clothes=bridal\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=children": {
-        "message": "",
+        "message": "Oblečení pro děti",
         "description": "Tag \"clothes=children\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=costumes": {
-        "message": "",
+        "message": "Kostýmy",
         "description": "Tag \"clothes=costumes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=denim": {
-        "message": "",
+        "message": "Denim",
         "description": "Tag \"clothes=denim\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=fashion": {
-        "message": "",
+        "message": "Módní oblečení",
         "description": "Tag \"clothes=fashion\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=fur": {
-        "message": "",
+        "message": "Kožešinové oblečení",
         "description": "Tag \"clothes=fur\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=hats": {
-        "message": "",
+        "message": "Klobouky",
         "description": "Tag \"clothes=hats\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=leather": {
-        "message": "",
+        "message": "Kožené oblečení",
         "description": "Tag \"clothes=leather\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=lingerie": {
-        "message": "",
+        "message": "spodní prádlo",
         "description": "Tag \"clothes=lingerie\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=maternity": {
-        "message": "",
+        "message": "těhotenské oblečení",
         "description": "Tag \"clothes=maternity\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=men": {
-        "message": "",
+        "message": "pánské oblečení",
         "description": "Tag \"clothes=men\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=military": {
-        "message": "",
+        "message": "vojenské oblečení",
         "description": "Tag \"clothes=military\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=motorcycle": {
-        "message": "",
+        "message": "oblečení pro motocyklisty",
         "description": "Tag \"clothes=motorcycle\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=oversize": {
-        "message": "",
+        "message": "nadměrné velikosti oblečení",
         "description": "Tag \"clothes=oversize\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=schoolwear": {
-        "message": "",
+        "message": "školní uniformy",
         "description": "Tag \"clothes=schoolwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=sports": {
-        "message": "",
+        "message": "sportovní oblečení",
         "description": "Tag \"clothes=sports\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=suits": {
-        "message": "",
+        "message": "obleky",
         "description": "Tag \"clothes=suits\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=swimwear": {
-        "message": "",
+        "message": "plavky",
         "description": "Tag \"clothes=swimwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=traditional": {
-        "message": "",
+        "message": "tradiční oblečení",
         "description": "Tag \"clothes=traditional\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=underwear": {
-        "message": "",
+        "message": "spodní prádlo",
         "description": "Tag \"clothes=underwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=unisexs": {
-        "message": "",
+        "message": "unisex oblečení",
         "description": "Tag \"clothes=unisexs\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=vintage": {
-        "message": "",
+        "message": "retro oblečení",
         "description": "Tag \"clothes=vintage\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=wedding": {
-        "message": "",
+        "message": "svatební oblečení",
         "description": "Tag \"clothes=wedding\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=women": {
-        "message": "",
+        "message": "dámské oblečení",
         "description": "Tag \"clothes=women\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=workwear": {
-        "message": "",
+        "message": "pracovní oděvy",
         "description": "Tag \"clothes=workwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:community_centre=club_home": {
-        "message": "",
+        "message": "Komunitní centrum",
         "description": "Tag \"community_centre=club_home\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=club_home"
     },
     "tag:community_centre=community_hall": {
-        "message": "",
+        "message": "Hala komunitního centra",
         "description": "Tag \"community_centre=community_hall\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=community_hall"
     },
     "tag:community_centre=cultural_centre": {
-        "message": "",
+        "message": "Kulturní centrum komunity",
         "description": "Tag \"community_centre=cultural_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=cultural_centre"
     },
     "tag:community_centre=environment_centre": {
-        "message": "",
+        "message": "Komunitní ekocentrum",
         "description": "Tag \"community_centre=environment_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=environment_centre"
     },
     "tag:community_centre=events_venue": {
-        "message": "",
+        "message": "Komunitní centrum akce",
         "description": "Tag \"community_centre=events_venue\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=events_venue"
     },
     "tag:community_centre=family_centre": {
-        "message": "",
+        "message": "Komunitní rodinné centrum",
         "description": "Tag \"community_centre=family_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=family_centre"
     },
     "tag:community_centre=language_centre": {
-        "message": "",
+        "message": "Komunitní jazykové centrum",
         "description": "Tag \"community_centre=language_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=language_centre"
     },
     "tag:community_centre=meeting_room": {
-        "message": "",
+        "message": "Zasedací místnost komunitního centra",
         "description": "Tag \"community_centre=meeting_room\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=meeting_room"
     },
     "tag:community_centre=parish_hall": {
-        "message": "",
+        "message": "Farní sál komunitního centra",
         "description": "Tag \"community_centre=parish_hall\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=parish_hall"
     },
     "tag:community_centre=village_hall": {
-        "message": "",
+        "message": "Vesnický sál komunitního centra",
         "description": "Tag \"community_centre=village_hall\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=village_hall"
     },
     "tag:community_centre=youth_centre": {
-        "message": "",
+        "message": "Komunitní centrum pro mladé",
         "description": "Tag \"community_centre=youth_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=youth_centre"
     },
     "tag:construction": {
@@ -1165,399 +1149,399 @@
         "description": "Key \"craft\". See https://wiki.openstreetmap.org/wiki/Key:craft"
     },
     "tag:craft=agricultural_engines": {
-        "message": "",
+        "message": "Zemědělské stroje",
         "description": "Tag \"craft=agricultural_engines\". See https://wiki.openstreetmap.org/wiki/Tag:craft=agricultural_engines"
     },
     "tag:craft=artist": {
-        "message": "",
+        "message": "umělecký řemeslník",
         "description": "Tag \"craft=artist\". See https://wiki.openstreetmap.org/wiki/Tag:craft=artist"
     },
     "tag:craft=bakery": {
-        "message": "",
+        "message": "pekař",
         "description": "Tag \"craft=bakery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=bakery"
     },
     "tag:craft=basket_maker": {
-        "message": "",
+        "message": "košíkář",
         "description": "Tag \"craft=basket_maker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=basket_maker"
     },
     "tag:craft=beekeeper": {
-        "message": "",
+        "message": "včelař",
         "description": "Tag \"craft=beekeeper\". See https://wiki.openstreetmap.org/wiki/Tag:craft=beekeeper"
     },
     "tag:craft=blacksmith": {
-        "message": "",
+        "message": "kovář",
         "description": "Tag \"craft=blacksmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=blacksmith"
     },
     "tag:craft=boatbuilder": {
-        "message": "",
+        "message": "stavitel lodí",
         "description": "Tag \"craft=boatbuilder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=boatbuilder"
     },
     "tag:craft=bookbinder": {
-        "message": "",
+        "message": "knihař",
         "description": "Tag \"craft=bookbinder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=bookbinder"
     },
     "tag:craft=brewery": {
-        "message": "",
+        "message": "pivovar",
         "description": "Tag \"craft=brewery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=brewery"
     },
     "tag:craft=builder": {
-        "message": "",
+        "message": "stavitel",
         "description": "Tag \"craft=builder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=builder"
     },
     "tag:craft=cabinet_maker": {
-        "message": "",
+        "message": "truhlář",
         "description": "Tag \"craft=cabinet_maker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=cabinet_maker"
     },
     "tag:craft=car_painter": {
-        "message": "",
+        "message": "autolakýrník",
         "description": "Tag \"craft=car_painter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=car_painter"
     },
     "tag:craft=car_repair": {
-        "message": "",
+        "message": "autoopravář",
         "description": "Tag \"craft=car_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=car_repair"
     },
     "tag:craft=carpenter": {
-        "message": "",
+        "message": "tesař",
         "description": "Tag \"craft=carpenter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=carpenter"
     },
     "tag:craft=carpet_layer": {
-        "message": "",
+        "message": "pokladač koberců",
         "description": "Tag \"craft=carpet_layer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=carpet_layer"
     },
     "tag:craft=caterer": {
-        "message": "",
+        "message": "kuchař",
         "description": "Tag \"craft=caterer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=caterer"
     },
     "tag:craft=ceramist": {
-        "message": "",
+        "message": "keramik",
         "description": "Tag \"craft=ceramist\". See https://wiki.openstreetmap.org/wiki/Tag:craft=ceramist"
     },
     "tag:craft=chimney_sweeper": {
-        "message": "",
+        "message": "kominík",
         "description": "Tag \"craft=chimney_sweeper\". See https://wiki.openstreetmap.org/wiki/Tag:craft=chimney_sweeper"
     },
     "tag:craft=cleaning": {
-        "message": "",
+        "message": "uklízeč",
         "description": "Tag \"craft=cleaning\". See https://wiki.openstreetmap.org/wiki/Tag:craft=cleaning"
     },
     "tag:craft=clockmaker": {
-        "message": "",
+        "message": "hodinář",
         "description": "Tag \"craft=clockmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=clockmaker"
     },
     "tag:craft=computer": {
-        "message": "",
+        "message": "počítačový technik",
         "description": "Tag \"craft=computer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=computer"
     },
     "tag:craft=confectionery": {
-        "message": "",
+        "message": "cukrář",
         "description": "Tag \"craft=confectionery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=confectionery"
     },
     "tag:craft=construction": {
-        "message": "",
+        "message": "konstruktér",
         "description": "Tag \"craft=construction\". See https://wiki.openstreetmap.org/wiki/Tag:craft=construction"
     },
     "tag:craft=dental_technician": {
-        "message": "",
+        "message": "zubní technik",
         "description": "Tag \"craft=dental_technician\". See https://wiki.openstreetmap.org/wiki/Tag:craft=dental_technician"
     },
     "tag:craft=distillery": {
-        "message": "",
+        "message": "lihovar",
         "description": "Tag \"craft=distillery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=distillery"
     },
     "tag:craft=dressmaker": {
-        "message": "",
+        "message": "krejčovství",
         "description": "Tag \"craft=dressmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=dressmaker"
     },
     "tag:craft=electrician": {
-        "message": "",
+        "message": "elektrikář",
         "description": "Tag \"craft=electrician\". See https://wiki.openstreetmap.org/wiki/Tag:craft=electrician"
     },
     "tag:craft=electronics_repair": {
-        "message": "",
+        "message": "opravář elektroniky",
         "description": "Tag \"craft=electronics_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=electronics_repair"
     },
     "tag:craft=embroidery": {
-        "message": "",
+        "message": "vyšívání",
         "description": "Tag \"craft=embroidery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=embroidery"
     },
     "tag:craft=engraver": {
-        "message": "",
+        "message": "rytec",
         "description": "Tag \"craft=engraver\". See https://wiki.openstreetmap.org/wiki/Tag:craft=engraver"
     },
     "tag:craft=floorer": {
-        "message": "",
+        "message": "podlahář",
         "description": "Tag \"craft=floorer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=floorer"
     },
     "tag:craft=furniture": {
-        "message": "",
+        "message": "Nábytkář",
         "description": "Tag \"craft=furniture\". See https://wiki.openstreetmap.org/wiki/Tag:craft=furniture"
     },
     "tag:craft=gardener": {
-        "message": "",
+        "message": "Zahradník",
         "description": "Tag \"craft=gardener\". See https://wiki.openstreetmap.org/wiki/Tag:craft=gardener"
     },
     "tag:craft=glass": {
-        "message": "",
+        "message": "Sklář",
         "description": "Tag \"craft=glass\". See https://wiki.openstreetmap.org/wiki/Tag:craft=glass"
     },
     "tag:craft=glaziery": {
-        "message": "",
+        "message": "Osvětlení",
         "description": "Tag \"craft=glaziery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=glaziery"
     },
     "tag:craft=goldsmith": {
-        "message": "",
+        "message": "zlatník",
         "description": "Tag \"craft=goldsmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=goldsmith"
     },
     "tag:craft=graphic_design": {
-        "message": "",
+        "message": "grafický návrhář",
         "description": "Tag \"craft=graphic_design\". See https://wiki.openstreetmap.org/wiki/Tag:craft=graphic_design"
     },
     "tag:craft=grinding_mill": {
-        "message": "",
+        "message": "brusič",
         "description": "Tag \"craft=grinding_mill\". See https://wiki.openstreetmap.org/wiki/Tag:craft=grinding_mill"
     },
     "tag:craft=handicraft": {
-        "message": "",
+        "message": "řemeslník",
         "description": "Tag \"craft=handicraft\". See https://wiki.openstreetmap.org/wiki/Tag:craft=handicraft"
     },
     "tag:craft=heating_engineer": {
-        "message": "",
+        "message": "topenář",
         "description": "Tag \"craft=heating_engineer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=heating_engineer"
     },
     "tag:craft=hvac": {
-        "message": "",
+        "message": "klimatizace",
         "description": "Tag \"craft=hvac\". See https://wiki.openstreetmap.org/wiki/Tag:craft=hvac"
     },
     "tag:craft=insulation": {
-        "message": "",
+        "message": "izolace",
         "description": "Tag \"craft=insulation\". See https://wiki.openstreetmap.org/wiki/Tag:craft=insulation"
     },
     "tag:craft=iron_craftsman": {
-        "message": "",
+        "message": "klempíř",
         "description": "Tag \"craft=iron_craftsman\". See https://wiki.openstreetmap.org/wiki/Tag:craft=iron_craftsman"
     },
     "tag:craft=jeweller": {
-        "message": "",
+        "message": "šperkař",
         "description": "Tag \"craft=jeweller\". See https://wiki.openstreetmap.org/wiki/Tag:craft=jeweller"
     },
     "tag:craft=joiner": {
-        "message": "",
+        "message": "truhlář",
         "description": "Tag \"craft=joiner\". See https://wiki.openstreetmap.org/wiki/Tag:craft=joiner"
     },
     "tag:craft=juice_bottler": {
-        "message": "",
+        "message": "moštýř",
         "description": "Tag \"craft=juice_bottler\". See https://wiki.openstreetmap.org/wiki/Tag:craft=juice_bottler"
     },
     "tag:craft=key_cutter": {
-        "message": "",
+        "message": "zámečnictví",
         "description": "Tag \"craft=key_cutter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=key_cutter"
     },
     "tag:craft=laboratory": {
-        "message": "",
+        "message": "laboratoř",
         "description": "Tag \"craft=laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:craft=laboratory"
     },
     "tag:craft=leather": {
-        "message": "",
+        "message": "kožedělnictví",
         "description": "Tag \"craft=leather\". See https://wiki.openstreetmap.org/wiki/Tag:craft=leather"
     },
     "tag:craft=locksmith": {
-        "message": "",
+        "message": "zámečník",
         "description": "Tag \"craft=locksmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=locksmith"
     },
     "tag:craft=luthier": {
-        "message": "",
+        "message": "houslař",
         "description": "Tag \"craft=luthier\". See https://wiki.openstreetmap.org/wiki/Tag:craft=luthier"
     },
     "tag:craft=mason": {
-        "message": "",
+        "message": "zedník",
         "description": "Tag \"craft=mason\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mason"
     },
     "tag:craft=metal_construction": {
-        "message": "",
+        "message": "železné konstrukce",
         "description": "Tag \"craft=metal_construction\". See https://wiki.openstreetmap.org/wiki/Tag:craft=metal_construction"
     },
     "tag:craft=metal_works": {
-        "message": "",
+        "message": "zámečnické práce",
         "description": "Tag \"craft=metal_works\". See https://wiki.openstreetmap.org/wiki/Tag:craft=metal_works"
     },
     "tag:craft=mint": {
-        "message": "",
+        "message": "mincovna",
         "description": "Tag \"craft=mint\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mint"
     },
     "tag:craft=mobile_phone": {
-        "message": "",
+        "message": "mobilní telefon",
         "description": "Tag \"craft=mobile_phone\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mobile_phone"
     },
     "tag:craft=model_maker": {
-        "message": "",
+        "message": "modelář",
         "description": "Tag \"craft=model_maker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=model_maker"
     },
     "tag:craft=musical_instrument": {
-        "message": "",
+        "message": "výrobce hudebních nástrojů",
         "description": "Tag \"craft=musical_instrument\". See https://wiki.openstreetmap.org/wiki/Tag:craft=musical_instrument"
     },
     "tag:craft=optician": {
-        "message": "",
+        "message": "optik",
         "description": "Tag \"craft=optician\". See https://wiki.openstreetmap.org/wiki/Tag:craft=optician"
     },
     "tag:craft=organ_builder": {
-        "message": "",
+        "message": "varhanář",
         "description": "Tag \"craft=organ_builder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=organ_builder"
     },
     "tag:craft=painter": {
-        "message": "",
+        "message": "malíř",
         "description": "Tag \"craft=painter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=painter"
     },
     "tag:craft=parquet_layer": {
-        "message": "",
+        "message": "pokladač parket",
         "description": "Tag \"craft=parquet_layer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=parquet_layer"
     },
     "tag:craft=paver": {
-        "message": "",
+        "message": "dlaždič",
         "description": "Tag \"craft=paver\". See https://wiki.openstreetmap.org/wiki/Tag:craft=paver"
     },
     "tag:craft=photo_studio": {
-        "message": "",
+        "message": "fotoatelier",
         "description": "Tag \"craft=photo_studio\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photo_studio"
     },
     "tag:craft=photographer": {
-        "message": "",
+        "message": "fotograf",
         "description": "Tag \"craft=photographer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photographer"
     },
     "tag:craft=photographic_laboratory": {
-        "message": "",
+        "message": "fotolaboratoř",
         "description": "Tag \"craft=photographic_laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photographic_laboratory"
     },
     "tag:craft=piano_tuner": {
-        "message": "",
+        "message": "ladič pian",
         "description": "Tag \"craft=piano_tuner\". See https://wiki.openstreetmap.org/wiki/Tag:craft=piano_tuner"
     },
     "tag:craft=plasterer": {
-        "message": "",
+        "message": "štukatér",
         "description": "Tag \"craft=plasterer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=plasterer"
     },
     "tag:craft=plumber": {
-        "message": "",
+        "message": "instalatér",
         "description": "Tag \"craft=plumber\". See https://wiki.openstreetmap.org/wiki/Tag:craft=plumber"
     },
     "tag:craft=pottery": {
-        "message": "",
+        "message": "hrnčířství",
         "description": "Tag \"craft=pottery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=pottery"
     },
     "tag:craft=print_shop": {
-        "message": "",
+        "message": "tiskárna",
         "description": "Tag \"craft=print_shop\". See https://wiki.openstreetmap.org/wiki/Tag:craft=print_shop"
     },
     "tag:craft=printer": {
-        "message": "",
+        "message": "tiskař",
         "description": "Tag \"craft=printer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=printer"
     },
     "tag:craft=printmaker": {
-        "message": "",
+        "message": "grafik",
         "description": "Tag \"craft=printmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=printmaker"
     },
     "tag:craft=repair": {
-        "message": "",
+        "message": "opravář",
         "description": "Tag \"craft=repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=repair"
     },
     "tag:craft=restoration": {
-        "message": "",
+        "message": "restaurování",
         "description": "Tag \"craft=restoration\". See https://wiki.openstreetmap.org/wiki/Tag:craft=restoration"
     },
     "tag:craft=rigger": {
-        "message": "",
+        "message": "mechanik",
         "description": "Tag \"craft=rigger\". See https://wiki.openstreetmap.org/wiki/Tag:craft=rigger"
     },
     "tag:craft=roofer": {
-        "message": "",
+        "message": "pokrývač",
         "description": "Tag \"craft=roofer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=roofer"
     },
     "tag:craft=saddler": {
-        "message": "",
+        "message": "sedlář",
         "description": "Tag \"craft=saddler\". See https://wiki.openstreetmap.org/wiki/Tag:craft=saddler"
     },
     "tag:craft=sailmaker": {
-        "message": "",
+        "message": "výrobce lodí",
         "description": "Tag \"craft=sailmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sailmaker"
     },
     "tag:craft=sawmill": {
-        "message": "",
+        "message": "pila",
         "description": "Tag \"craft=sawmill\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sawmill"
     },
     "tag:craft=scaffolder": {
-        "message": "",
+        "message": "lešenář",
         "description": "Tag \"craft=scaffolder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=scaffolder"
     },
     "tag:craft=sculptor": {
-        "message": "",
+        "message": "sochař",
         "description": "Tag \"craft=sculptor\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sculptor"
     },
     "tag:craft=shoe_repair": {
-        "message": "",
+        "message": "oprava obuvi",
         "description": "Tag \"craft=shoe_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=shoe_repair"
     },
     "tag:craft=shoemaker": {
-        "message": "",
+        "message": "obuvník",
         "description": "Tag \"craft=shoemaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=shoemaker"
     },
     "tag:craft=signmaker": {
-        "message": "",
+        "message": "písmomalíř",
         "description": "Tag \"craft=signmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=signmaker"
     },
     "tag:craft=stand_builder": {
-        "message": "",
+        "message": "stánkař",
         "description": "Tag \"craft=stand_builder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=stand_builder"
     },
     "tag:craft=stonemason": {
-        "message": "",
+        "message": "kameník",
         "description": "Tag \"craft=stonemason\". See https://wiki.openstreetmap.org/wiki/Tag:craft=stonemason"
     },
     "tag:craft=sun_protection": {
-        "message": "",
+        "message": "sluneční ochrana",
         "description": "Tag \"craft=sun_protection\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sun_protection"
     },
     "tag:craft=tailor": {
-        "message": "",
+        "message": "krejčí",
         "description": "Tag \"craft=tailor\". See https://wiki.openstreetmap.org/wiki/Tag:craft=tailor"
     },
     "tag:craft=tiler": {
-        "message": "",
+        "message": "dlaždič",
         "description": "Tag \"craft=tiler\". See https://wiki.openstreetmap.org/wiki/Tag:craft=tiler"
     },
     "tag:craft=tinsmith": {
-        "message": "",
+        "message": "klempíř",
         "description": "Tag \"craft=tinsmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=tinsmith"
     },
     "tag:craft=toolmaker": {
-        "message": "",
+        "message": "nástrojař",
         "description": "Tag \"craft=toolmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=toolmaker"
     },
     "tag:craft=turner": {
-        "message": "",
+        "message": "soustružník",
         "description": "Tag \"craft=turner\". See https://wiki.openstreetmap.org/wiki/Tag:craft=turner"
     },
     "tag:craft=upholsterer": {
-        "message": "",
+        "message": "čalouník",
         "description": "Tag \"craft=upholsterer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=upholsterer"
     },
     "tag:craft=varnisher": {
-        "message": "",
+        "message": "lakýrník",
         "description": "Tag \"craft=varnisher\". See https://wiki.openstreetmap.org/wiki/Tag:craft=varnisher"
     },
     "tag:craft=watchmaker": {
-        "message": "",
+        "message": "hodinář",
         "description": "Tag \"craft=watchmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=watchmaker"
     },
     "tag:craft=welder": {
-        "message": "",
+        "message": "svářeč",
         "description": "Tag \"craft=welder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=welder"
     },
     "tag:craft=window_construction": {
-        "message": "",
+        "message": "výroba oken",
         "description": "Tag \"craft=window_construction\". See https://wiki.openstreetmap.org/wiki/Tag:craft=window_construction"
     },
     "tag:craft=winery": {
-        "message": "",
+        "message": "vinařství",
         "description": "Tag \"craft=winery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=winery"
     },
     "tag:created_by": {
@@ -1569,376 +1553,376 @@
         "description": "Key \"cuisine\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine/dessert": {
-        "message": ""
+        "message": "Kuchyně (dezert)"
     },
     "tag:cuisine/ethnicity": {
-        "message": ""
+        "message": "Kuchyně (etnická)"
     },
     "tag:cuisine/food": {
-        "message": ""
+        "message": "Kuchyně (jídlo)"
     },
     "tag:cuisine=afghan": {
-        "message": "",
+        "message": "afghánská kuchyně",
         "description": "Tag \"cuisine=afghan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=african": {
-        "message": "",
+        "message": "africká kuchyně",
         "description": "Tag \"cuisine=african\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=american": {
-        "message": "",
+        "message": "americká kuchyně",
         "description": "Tag \"cuisine=american\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=arab": {
-        "message": "",
+        "message": "arabská kuchyně",
         "description": "Tag \"cuisine=arab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=argentinian": {
-        "message": "",
+        "message": "argentinská kuchyně",
         "description": "Tag \"cuisine=argentinian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=asian": {
-        "message": "",
+        "message": "asijská kuchyně",
         "description": "Tag \"cuisine=asian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=australian": {
-        "message": "",
+        "message": "australská kuchyně",
         "description": "Tag \"cuisine=australian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=austrian": {
-        "message": "",
+        "message": "rakouská kuchyně",
         "description": "Tag \"cuisine=austrian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=bagel": {
-        "message": "",
+        "message": "bagel",
         "description": "Tag \"cuisine=bagel\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=baiana": {
-        "message": "",
+        "message": "baiana",
         "description": "Tag \"cuisine=baiana\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=balkan": {
-        "message": "",
+        "message": "balkánská kuchyně",
         "description": "Tag \"cuisine=balkan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=barbecue": {
-        "message": "",
+        "message": "barbecue",
         "description": "Tag \"cuisine=barbecue\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=basque": {
-        "message": "",
+        "message": "baskická kuchyně",
         "description": "Tag \"cuisine=basque\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=bavarian": {
-        "message": "",
+        "message": "bavorská kuchyně",
         "description": "Tag \"cuisine=bavarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=belarusan": {
-        "message": "",
+        "message": "běloruská kuchyně",
         "description": "Tag \"cuisine=belarusan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=biscuit": {
-        "message": "",
+        "message": "sušenka",
         "description": "Tag \"cuisine=biscuit\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=bolivian": {
-        "message": "",
+        "message": "bolivijská kuchyně",
         "description": "Tag \"cuisine=bolivian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=bougatsa": {
-        "message": "",
+        "message": "Bougatsa",
         "description": "Tag \"cuisine=bougatsa\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=brazilian": {
-        "message": "",
+        "message": "brazilská kuchyně",
         "description": "Tag \"cuisine=brazilian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=burger": {
-        "message": "",
+        "message": "burger",
         "description": "Tag \"cuisine=burger\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=cake": {
-        "message": "",
+        "message": "koláč",
         "description": "Tag \"cuisine=cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=cantonese": {
-        "message": "",
+        "message": "kantonská kuchyně",
         "description": "Tag \"cuisine=cantonese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=capixaba": {
-        "message": "",
+        "message": "capixaba",
         "description": "Tag \"cuisine=capixaba\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=caribbean": {
-        "message": "",
+        "message": "karibská kuchyně",
         "description": "Tag \"cuisine=caribbean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=caribean": {
-        "message": "",
+        "message": "karibská",
         "description": "Tag \"cuisine=caribean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=casserole": {
-        "message": "",
+        "message": "casserole",
         "description": "Tag \"cuisine=casserole\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chicken": {
-        "message": "",
+        "message": "kuřecí",
         "description": "Tag \"cuisine=chicken\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chimney_cake": {
-        "message": "",
+        "message": "trdelník",
         "description": "Tag \"cuisine=chimney_cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chinese": {
-        "message": "",
+        "message": "čínská kuchyně",
         "description": "Tag \"cuisine=chinese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=coffee": {
-        "message": "",
+        "message": "káva",
         "description": "Tag \"cuisine=coffee\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=coffee_shop": {
-        "message": "",
+        "message": "kavárna",
         "description": "Tag \"cuisine=coffee_shop\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=cookie": {
-        "message": "",
+        "message": "sušenky",
         "description": "Tag \"cuisine=cookie\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=couscous": {
-        "message": "",
+        "message": "kuskus",
         "description": "Tag \"cuisine=couscous\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=crepe": {
-        "message": "",
+        "message": "palačinky",
         "description": "Tag \"cuisine=crepe\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=croatian": {
-        "message": "",
+        "message": "chorvatská kuchyně",
         "description": "Tag \"cuisine=croatian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=curry": {
-        "message": "",
+        "message": "kari",
         "description": "Tag \"cuisine=curry\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=czech": {
-        "message": "",
+        "message": "česká kuchyně",
         "description": "Tag \"cuisine=czech\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=danish": {
-        "message": "",
+        "message": "dánská kuchyně",
         "description": "Tag \"cuisine=danish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=dessert": {
-        "message": "",
+        "message": "dezert",
         "description": "Tag \"cuisine=dessert\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=donut": {
-        "message": "",
+        "message": "kobliha",
         "description": "Tag \"cuisine=donut\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=empanada": {
-        "message": "",
+        "message": "empanada",
         "description": "Tag \"cuisine=empanada\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=fish": {
-        "message": "",
+        "message": "ryba",
         "description": "Tag \"cuisine=fish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=fish_and_chips": {
-        "message": "",
+        "message": "ryba a hranolky",
         "description": "Tag \"cuisine=fish_and_chips\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=french": {
-        "message": "",
+        "message": "francouzská kuchyně",
         "description": "Tag \"cuisine=french\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=fried_food": {
-        "message": "",
+        "message": "smažená jídla",
         "description": "Tag \"cuisine=fried_food\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=friture": {
-        "message": "",
+        "message": "fritování",
         "description": "Tag \"cuisine=friture\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=frozen_yogurt": {
-        "message": "",
+        "message": "mražený jogurt",
         "description": "Tag \"cuisine=frozen_yogurt\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=gaucho": {
-        "message": "",
+        "message": "gaucho kuchyně",
         "description": "Tag \"cuisine=gaucho\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=german": {
-        "message": "",
+        "message": "německá kuchyně",
         "description": "Tag \"cuisine=german\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=gingerbread": {
-        "message": "",
+        "message": "perník",
         "description": "Tag \"cuisine=gingerbread\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=greek": {
-        "message": "",
+        "message": "řecká kuchyně",
         "description": "Tag \"cuisine=greek\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=gyros": {
-        "message": "",
+        "message": "gyros",
         "description": "Tag \"cuisine=gyros\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=hawaiian": {
-        "message": "",
+        "message": "havajská kuchyně",
         "description": "Tag \"cuisine=hawaiian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=hunan": {
-        "message": "",
+        "message": "kuchyně provincie Hunan",
         "description": "Tag \"cuisine=hunan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=hungarian": {
-        "message": "",
+        "message": "maďarská kuchyně",
         "description": "Tag \"cuisine=hungarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=ice_cream": {
-        "message": "",
+        "message": "zmrzlina",
         "description": "Tag \"cuisine=ice_cream\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=indian": {
-        "message": "",
+        "message": "indická kuchyně",
         "description": "Tag \"cuisine=indian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=international": {
-        "message": "",
+        "message": "mezinárodní kuchyně",
         "description": "Tag \"cuisine=international\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=iranian": {
-        "message": "",
+        "message": "iránská kuchyně",
         "description": "Tag \"cuisine=iranian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=italian": {
-        "message": "",
+        "message": "italská kuchyně",
         "description": "Tag \"cuisine=italian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=japanese": {
-        "message": "",
+        "message": "japonská kuchyně",
         "description": "Tag \"cuisine=japanese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=jewish": {
-        "message": "",
+        "message": "židovská kuchyně",
         "description": "Tag \"cuisine=jewish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=juice": {
-        "message": "",
+        "message": "džus",
         "description": "Tag \"cuisine=juice\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=kebab": {
-        "message": "",
+        "message": "kebab",
         "description": "Tag \"cuisine=kebab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=korean": {
-        "message": "",
+        "message": "korejská kuchyně",
         "description": "Tag \"cuisine=korean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=kyo_ryouri": {
-        "message": "",
+        "message": "Kyo Ryori kuchyně",
         "description": "Tag \"cuisine=kyo_ryouri\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=langos": {
-        "message": "",
+        "message": "langoš",
         "description": "Tag \"cuisine=langos\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=latin_american": {
-        "message": "",
+        "message": "latinskoamerická kuchyně",
         "description": "Tag \"cuisine=latin_american\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=lebanese": {
-        "message": "",
+        "message": "libanonská kuchyně",
         "description": "Tag \"cuisine=lebanese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=local": {
-        "message": "",
+        "message": "místní kuchyně",
         "description": "Tag \"cuisine=local\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=malagasy": {
-        "message": "",
+        "message": "malgašská kuchyně",
         "description": "Tag \"cuisine=malagasy\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=mediterranean": {
-        "message": "",
+        "message": "středozemní kuchyně",
         "description": "Tag \"cuisine=mediterranean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=mexican": {
-        "message": "",
+        "message": "mexická kuchyně",
         "description": "Tag \"cuisine=mexican\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=mineira": {
-        "message": "",
+        "message": "kuchyně z brazilské Mineiry",
         "description": "Tag \"cuisine=mineira\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=new_mexican": {
-        "message": "",
+        "message": "kuchyně Nového Mexika",
         "description": "Tag \"cuisine=new_mexican\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=noodle": {
-        "message": "",
+        "message": "nudle",
         "description": "Tag \"cuisine=noodle\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=okinawa_ryori": {
-        "message": "",
+        "message": "kuchyně Okinawa Ryori",
         "description": "Tag \"cuisine=okinawa_ryori\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pakistani": {
-        "message": "",
+        "message": "pakistánská kuchyně",
         "description": "Tag \"cuisine=pakistani\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pancake": {
-        "message": "",
+        "message": "lívanec",
         "description": "Tag \"cuisine=pancake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pasta": {
-        "message": "",
+        "message": "těstoviny",
         "description": "Tag \"cuisine=pasta\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pastry": {
-        "message": "",
+        "message": "pečivo",
         "description": "Tag \"cuisine=pastry\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=peruvian": {
-        "message": "",
+        "message": "peruánská kuchyně",
         "description": "Tag \"cuisine=peruvian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=petit_four": {
-        "message": "",
+        "message": "Petit four zákusky",
         "description": "Tag \"cuisine=petit_four\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pie": {
-        "message": "",
+        "message": "koláč",
         "description": "Tag \"cuisine=pie\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pizza": {
-        "message": "",
+        "message": "pizza",
         "description": "Tag \"cuisine=pizza\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pogacha": {
-        "message": "",
+        "message": "Pogača",
         "description": "Tag \"cuisine=pogacha\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=polish": {
-        "message": "",
+        "message": "polská kuchyně",
         "description": "Tag \"cuisine=polish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=poppy_seed_roll": {
-        "message": "",
+        "message": "makový závin",
         "description": "Tag \"cuisine=poppy_seed_roll\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=portuguese": {
-        "message": "",
+        "message": "portugalská kuchyně",
         "description": "Tag \"cuisine=portuguese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=profiterole": {
-        "message": "",
+        "message": "větrník",
         "description": "Tag \"cuisine=profiterole\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=punch_cake": {
-        "message": "",
+        "message": "punčový řez",
         "description": "Tag \"cuisine=punch_cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=regional": {
@@ -1946,111 +1930,111 @@
         "description": "Tag \"cuisine=regional\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=rhenish": {
-        "message": "",
+        "message": "Rýnská kuchyně",
         "description": "Tag \"cuisine=rhenish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=russian": {
-        "message": "",
+        "message": "Ruská kuchyně",
         "description": "Tag \"cuisine=russian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=salad": {
-        "message": "",
+        "message": "salát",
         "description": "Tag \"cuisine=salad\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sandwich": {
-        "message": "",
+        "message": "sendvič",
         "description": "Tag \"cuisine=sandwich\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sausage": {
-        "message": "",
+        "message": "uzeniny",
         "description": "Tag \"cuisine=sausage\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=savory_pancakes": {
-        "message": "",
+        "message": "slané placky",
         "description": "Tag \"cuisine=savory_pancakes\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=seafood": {
-        "message": "",
+        "message": "mořské plody",
         "description": "Tag \"cuisine=seafood\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=shandong": {
-        "message": "",
+        "message": "kuchyně provincie Shandong",
         "description": "Tag \"cuisine=shandong\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sichuan": {
-        "message": "",
+        "message": "Sečuánská kuchyně",
         "description": "Tag \"cuisine=sichuan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=soup": {
-        "message": "",
+        "message": "polévka",
         "description": "Tag \"cuisine=soup\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=spanish": {
-        "message": "",
+        "message": "španělská kuchyně",
         "description": "Tag \"cuisine=spanish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=steak_house": {
-        "message": "",
+        "message": "Steaková restaurace",
         "description": "Tag \"cuisine=steak_house\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=strudel": {
-        "message": "",
+        "message": "štrůdl",
         "description": "Tag \"cuisine=strudel\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sub": {
-        "message": "",
+        "message": "kuchyně místní subkultury",
         "description": "Tag \"cuisine=sub\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sushi": {
-        "message": "",
+        "message": "sushi",
         "description": "Tag \"cuisine=sushi\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=tapas": {
-        "message": "",
+        "message": "tapas",
         "description": "Tag \"cuisine=tapas\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=teahouse": {
-        "message": "",
+        "message": "čajovna",
         "description": "Tag \"cuisine=teahouse\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=tex-mex": {
-        "message": "",
+        "message": "Tex-Mex kuchyně",
         "description": "Tag \"cuisine=tex-mex\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=texan": {
-        "message": "",
+        "message": "texan kuchyně",
         "description": "Tag \"cuisine=texan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=thai": {
-        "message": "",
+        "message": "thajská kuchyně",
         "description": "Tag \"cuisine=thai\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=turkish": {
-        "message": "",
+        "message": "turecká kuchyně",
         "description": "Tag \"cuisine=turkish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=vegan": {
-        "message": "",
+        "message": "veganská kuchyně",
         "description": "Tag \"cuisine=vegan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=vegetarian": {
-        "message": "",
+        "message": "vegetariánská kuchyně",
         "description": "Tag \"cuisine=vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=vietnamese": {
-        "message": "",
+        "message": "vietnamská kuchyně",
         "description": "Tag \"cuisine=vietnamese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=waffle": {
-        "message": "",
+        "message": "waffle",
         "description": "Tag \"cuisine=waffle\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=westphalian": {
-        "message": "",
+        "message": "westfálská kuchyně",
         "description": "Tag \"cuisine=westphalian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=wings": {
-        "message": "",
+        "message": "křídla",
         "description": "Tag \"cuisine=wings\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cutting": {
@@ -2074,7 +2058,7 @@
         "description": "Tag \"denomination=anglican\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=anglican"
     },
     "tag:denomination=assemblies_of_god": {
-        "message": "",
+        "message": "Shromáždění Boží",
         "description": "Tag \"denomination=assemblies_of_god\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=assemblies_of_god"
     },
     "tag:denomination=baptist": {
@@ -2086,7 +2070,7 @@
         "description": "Tag \"denomination=catholic\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=catholic"
     },
     "tag:denomination=congregational": {
-        "message": "",
+        "message": "Kongregace",
         "description": "Tag \"denomination=congregational\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=congregational"
     },
     "tag:denomination=greek_orthodox": {
@@ -2098,7 +2082,7 @@
         "description": "Tag \"denomination=lutheran\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=lutheran"
     },
     "tag:denomination=old-catholic": {
-        "message": "",
+        "message": "Starokatolický",
         "description": "Tag \"denomination=old-catholic\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=old-catholic"
     },
     "tag:denomination=orthodox": {
@@ -2126,55 +2110,55 @@
         "description": "Key \"description\". See https://wiki.openstreetmap.org/wiki/Key:description"
     },
     "tag:diet": {
-        "message": "",
+        "message": "Stravovací možnosti",
         "description": "Key \"diet\". See https://wiki.openstreetmap.org/wiki/Key:diet"
     },
     "tag:diet:dairy_free": {
-        "message": "",
+        "message": "bez mléka",
         "description": "Key \"diet:dairy_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:dairy_free"
     },
     "tag:diet:fruitarian": {
-        "message": "",
+        "message": "frutarián",
         "description": "Key \"diet:fruitarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:fruitarian"
     },
     "tag:diet:gluten_free": {
-        "message": "",
+        "message": "bezlepkový",
         "description": "Key \"diet:gluten_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:gluten_free"
     },
     "tag:diet:halal": {
-        "message": "",
+        "message": "halal povolený",
         "description": "Key \"diet:halal\". See https://wiki.openstreetmap.org/wiki/Key:diet:halal"
     },
     "tag:diet:kosher": {
-        "message": "",
+        "message": "košer",
         "description": "Key \"diet:kosher\". See https://wiki.openstreetmap.org/wiki/Key:diet:kosher"
     },
     "tag:diet:lacto_vegetarian": {
-        "message": "",
+        "message": "lakto-vegetarián",
         "description": "Key \"diet:lacto_vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:lacto_vegetarian"
     },
     "tag:diet:lactose_free": {
-        "message": "",
+        "message": "bez laktozy",
         "description": "Key \"diet:lactose_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:lactose_free"
     },
     "tag:diet:ovo_vegetarian": {
-        "message": "",
+        "message": "ovovegetariánství",
         "description": "Key \"diet:ovo_vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:ovo_vegetarian"
     },
     "tag:diet:pescetarian": {
-        "message": "",
+        "message": "Pescovegetariánství",
         "description": "Key \"diet:pescetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:pescetarian"
     },
     "tag:diet:raw": {
-        "message": "",
+        "message": "nevařené / neupravené",
         "description": "Key \"diet:raw\". See https://wiki.openstreetmap.org/wiki/Key:diet:raw"
     },
     "tag:diet:vegan": {
-        "message": "",
+        "message": "veganství",
         "description": "Key \"diet:vegan\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegan"
     },
     "tag:diet:vegetarian": {
-        "message": "",
+        "message": "vegetariánství",
         "description": "Key \"diet:vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegetarian"
     },
     "tag:disused": {
@@ -2182,15 +2166,15 @@
         "description": "Key \"disused\". See https://wiki.openstreetmap.org/wiki/Key:disused"
     },
     "tag:driving_side": {
-        "message": "",
+        "message": "Strana jízdy po silnici",
         "description": "Key \"driving_side\". See https://wiki.openstreetmap.org/wiki/Key:driving_side"
     },
     "tag:driving_side=left": {
-        "message": "",
+        "message": "vlevo",
         "description": "Tag \"driving_side=left\". See https://wiki.openstreetmap.org/wiki/Tag:driving_side=left"
     },
     "tag:driving_side=right": {
-        "message": "",
+        "message": "vpravo",
         "description": "Tag \"driving_side=right\". See https://wiki.openstreetmap.org/wiki/Tag:driving_side=right"
     },
     "tag:ele": {
@@ -2198,19 +2182,19 @@
         "description": "Key \"ele\". See https://wiki.openstreetmap.org/wiki/Key:ele"
     },
     "tag:electrified": {
-        "message": "",
+        "message": "elektrifikováno",
         "description": "Key \"electrified\". See https://wiki.openstreetmap.org/wiki/Key:electrified"
     },
     "tag:electrified=contact_line": {
-        "message": "",
+        "message": "napájecí kolej",
         "description": "Tag \"electrified=contact_line\". See https://wiki.openstreetmap.org/wiki/Tag:electrified=contact_line"
     },
     "tag:electrified=no": {
-        "message": "",
+        "message": "bez elektrifikace",
         "description": "Tag \"electrified=no\". See https://wiki.openstreetmap.org/wiki/Tag:electrified=no"
     },
     "tag:electrified=rail": {
-        "message": "",
+        "message": "koleje",
         "description": "Tag \"electrified=rail\". See https://wiki.openstreetmap.org/wiki/Tag:electrified=rail"
     },
     "tag:email": {
@@ -2226,11 +2210,11 @@
         "description": "Key \"emergency\". See https://wiki.openstreetmap.org/wiki/Key:emergency"
     },
     "tag:emergency=access_point": {
-        "message": "",
+        "message": "Nouzový přístupový bod",
         "description": "Tag \"emergency=access_point\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=access_point"
     },
     "tag:emergency=defibrillator": {
-        "message": "",
+        "message": "Automatický elektrický defibrilátor",
         "description": "Tag \"emergency=defibrillator\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=defibrillator"
     },
     "tag:emergency=fire_hydrant": {
@@ -2254,35 +2238,35 @@
         "description": "Key \"end_date\". See https://wiki.openstreetmap.org/wiki/Key:end_date"
     },
     "tag:entrance": {
-        "message": "",
+        "message": "Vstup",
         "description": "Key \"entrance\". See https://wiki.openstreetmap.org/wiki/Key:entrance"
     },
     "tag:entrance=emergency": {
-        "message": "",
+        "message": "Nouzový východ",
         "description": "Tag \"entrance=emergency\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=emergency"
     },
     "tag:entrance=exit": {
-        "message": "",
+        "message": "Východ",
         "description": "Tag \"entrance=exit\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=exit"
     },
     "tag:entrance=garage": {
-        "message": "",
+        "message": "Garáž",
         "description": "Tag \"entrance=garage\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=garage"
     },
     "tag:entrance=home": {
-        "message": "",
+        "message": "Vstup do domu",
         "description": "Tag \"entrance=home\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=home"
     },
     "tag:entrance=main": {
-        "message": "",
+        "message": "Hlavní vstup",
         "description": "Tag \"entrance=main\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=main"
     },
     "tag:entrance=service": {
-        "message": "",
+        "message": "Servisní vstup",
         "description": "Tag \"entrance=service\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=service"
     },
     "tag:entrance=staircase": {
-        "message": "",
+        "message": "Dveře na schodiště",
         "description": "Tag \"entrance=staircase\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=staircase"
     },
     "tag:est_width": {
@@ -2298,23 +2282,23 @@
         "description": "Key \"fixme\". See https://wiki.openstreetmap.org/wiki/Key:fixme"
     },
     "tag:flood_date": {
-        "message": "",
+        "message": "datum záplav",
         "description": "Key \"flood_date\". See https://wiki.openstreetmap.org/wiki/Key:flood_date"
     },
     "tag:flood_mark=engraving": {
-        "message": "",
+        "message": "vyrytá značka záplav",
         "description": "Tag \"flood_mark=engraving\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=engraving"
     },
     "tag:flood_mark=painting": {
-        "message": "",
+        "message": "znaky povodně na omítce",
         "description": "Tag \"flood_mark=painting\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=painting"
     },
     "tag:flood_mark=plaque": {
-        "message": "",
+        "message": "značka povodně - plaketa",
         "description": "Tag \"flood_mark=plaque\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=plaque"
     },
     "tag:flood_mark=pole": {
-        "message": "",
+        "message": "značka povodně - tyč",
         "description": "Tag \"flood_mark=pole\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=pole"
     },
     "tag:food": {
@@ -2330,83 +2314,83 @@
         "description": "Key \"ford\". See https://wiki.openstreetmap.org/wiki/Key:ford"
     },
     "tag:frequency": {
-        "message": "",
+        "message": "četnost opakování",
         "description": "Key \"frequency\". See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:frequency=0": {
-        "message": "",
+        "message": "stejnosměrný proud",
         "description": "Tag \"frequency=0\" (direct current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:frequency>0": {
-        "message": "",
+        "message": "střídavý proud",
         "description": "Tag \"frequency=*\" (not 0, meaning alternating current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:gauge": {
-        "message": "",
+        "message": "rozchod",
         "description": "Key \"gauge\". See https://wiki.openstreetmap.org/wiki/Key:gauge"
     },
     "tag:generator:source": {
-        "message": "",
+        "message": "zdroj",
         "description": "Key \"generator:source\". See https://wiki.openstreetmap.org/wiki/Key:generator:source"
     },
     "tag:generator:source=biofuel": {
-        "message": "",
+        "message": "zdroj biopalivo",
         "description": "Tag \"generator:source=biofuel\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biofuel"
     },
     "tag:generator:source=biogas": {
-        "message": "",
+        "message": "zdroj bioplyn",
         "description": "Tag \"generator:source=biogas\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biogas"
     },
     "tag:generator:source=biomass": {
-        "message": "",
+        "message": "biomasa",
         "description": "Tag \"generator:source=biomass\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biomass"
     },
     "tag:generator:source=diesel": {
-        "message": "",
+        "message": "diesel",
         "description": "Tag \"generator:source=diesel\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=diesel"
     },
     "tag:generator:source=gas": {
-        "message": "",
+        "message": "plyn",
         "description": "Tag \"generator:source=gas\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=gas"
     },
     "tag:generator:source=gasoline": {
-        "message": "",
+        "message": "benzín",
         "description": "Tag \"generator:source=gasoline\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=gasoline"
     },
     "tag:generator:source=geothermal": {
-        "message": "",
+        "message": "geotermální",
         "description": "Tag \"generator:source=geothermal\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=geothermal"
     },
     "tag:generator:source=hydro": {
-        "message": "",
+        "message": "vodní",
         "description": "Tag \"generator:source=hydro\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=hydro"
     },
     "tag:generator:source=nuclear": {
-        "message": "",
+        "message": "jaderná energie",
         "description": "Tag \"generator:source=nuclear\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=nuclear"
     },
     "tag:generator:source=oil": {
-        "message": "",
+        "message": "ropa",
         "description": "Tag \"generator:source=oil\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=oil"
     },
     "tag:generator:source=solar": {
-        "message": "",
+        "message": "solární energie",
         "description": "Tag \"generator:source=solar\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=solar"
     },
     "tag:generator:source=tidal": {
-        "message": "",
+        "message": "přílivová energie",
         "description": "Tag \"generator:source=tidal\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=tidal"
     },
     "tag:generator:source=waste": {
-        "message": "",
+        "message": "odpadová energie",
         "description": "Tag \"generator:source=waste\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=waste"
     },
     "tag:generator:source=wave": {
-        "message": "",
+        "message": "energie z mořských vln",
         "description": "Tag \"generator:source=wave\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=wave"
     },
     "tag:generator:source=wind": {
-        "message": "",
+        "message": "větrná energie",
         "description": "Tag \"generator:source=wind\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=wind"
     },
     "tag:geological": {
@@ -2418,31 +2402,31 @@
         "description": "Key \"goods\". See https://wiki.openstreetmap.org/wiki/Key:goods"
     },
     "tag:healthcare=alternative": {
-        "message": "",
+        "message": "alternativní",
         "description": "Tag \"healthcare=alternative\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=alternative"
     },
     "tag:healthcare=audiologist": {
-        "message": "",
+        "message": "audiologie",
         "description": "Tag \"healthcare=audiologist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=audiologist"
     },
     "tag:healthcare=birthing_center": {
-        "message": "",
+        "message": "porodní centrum",
         "description": "Tag \"healthcare=birthing_center\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=birthing_center"
     },
     "tag:healthcare=blood_bank": {
-        "message": "",
+        "message": "krevní banka",
         "description": "Tag \"healthcare=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=blood_bank"
     },
     "tag:healthcare=blood_donation": {
-        "message": "",
+        "message": "krevní banka",
         "description": "Tag \"healthcare=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=blood_donation"
     },
     "tag:healthcare=centre": {
-        "message": "",
+        "message": "zdravotnické centrum",
         "description": "Tag \"healthcare=centre\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=centre"
     },
     "tag:healthcare=clinic": {
-        "message": "",
+        "message": "klinika",
         "description": "Tag \"healthcare=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=clinic"
     },
     "tag:healthcare=dentist": {
@@ -2450,11 +2434,11 @@
         "description": "Tag \"healthcare=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dentist"
     },
     "tag:healthcare=dialysis": {
-        "message": "",
+        "message": "dialýza",
         "description": "Tag \"healthcare=dialysis\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dialysis"
     },
     "tag:healthcare=doctor": {
-        "message": "",
+        "message": "lékař",
         "description": "Tag \"healthcare=doctor\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=doctor"
     },
     "tag:healthcare=hospital": {
@@ -2462,55 +2446,55 @@
         "description": "Tag \"healthcare=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=hospital"
     },
     "tag:healthcare=laboratory": {
-        "message": "",
+        "message": "laboratoř",
         "description": "Tag \"healthcare=laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=laboratory"
     },
     "tag:healthcare=midwife": {
-        "message": "",
+        "message": "zdravotní sestra",
         "description": "Tag \"healthcare=midwife\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=midwife"
     },
     "tag:healthcare=nutrition_counseling": {
-        "message": "",
+        "message": "výživové poradenství",
         "description": "Tag \"healthcare=nutrition_counseling\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=nutrition_counseling"
     },
     "tag:healthcare=occupational_therapist": {
-        "message": "",
+        "message": "Ergoterapeut",
         "description": "Tag \"healthcare=occupational_therapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=occupational_therapist"
     },
     "tag:healthcare=optometrist": {
-        "message": "",
+        "message": "Optometrista",
         "description": "Tag \"healthcare=optometrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=optometrist"
     },
     "tag:healthcare=pharmacy": {
-        "message": "",
+        "message": "Farmacie",
         "description": "Tag \"healthcare=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=pharmacy"
     },
     "tag:healthcare=physiotherapist": {
-        "message": "",
+        "message": "Fyzioterapeut",
         "description": "Tag \"healthcare=physiotherapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=physiotherapist"
     },
     "tag:healthcare=podiatrist": {
-        "message": "",
+        "message": "Podiatr",
         "description": "Tag \"healthcare=podiatrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=podiatrist"
     },
     "tag:healthcare=psychotherapist": {
-        "message": "",
+        "message": "Psychoterapeut",
         "description": "Tag \"healthcare=psychotherapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=psychotherapist"
     },
     "tag:healthcare=rehabilitation": {
-        "message": "",
+        "message": "Rehabilitace",
         "description": "Tag \"healthcare=rehabilitation\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=rehabilitation"
     },
     "tag:healthcare=speech_therapist": {
-        "message": "",
+        "message": "řečový terapeut",
         "description": "Tag \"healthcare=speech_therapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=speech_therapist"
     },
     "tag:height": {
-        "message": "",
+        "message": "výška",
         "description": "Key \"height\". See https://wiki.openstreetmap.org/wiki/Key:height"
     },
     "tag:heritage": {
-        "message": "",
+        "message": "dědictví",
         "description": "Tag \"heritage=0\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=0"
     },
     "tag:heritage=1": {
@@ -2539,7 +2523,6 @@
     },
     "tag:highway": {
         "message": "Pozemní komunikace",
-        "!=1": "Pozemní komunikace",
         "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
     },
     "tag:highway=bridleway": {
@@ -2675,79 +2658,79 @@
         "description": "Key \"historic\". See https://wiki.openstreetmap.org/wiki/Key:historic"
     },
     "tag:historic:civilization": {
-        "message": "",
+        "message": "Tvořeno civilizací",
         "description": "Key \"historic:civilization\". See https://wiki.openstreetmap.org/wiki/Key:historic:civilization"
     },
     "tag:historic:civilization=ancient_egyptian": {
-        "message": "",
+        "message": "starověká egyptská",
         "description": "Tag \"historic:civilization=ancient_egyptian\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=ancient_egyptian"
     },
     "tag:historic:civilization=ancient_greek": {
-        "message": "",
+        "message": "starověká řecká",
         "description": "Tag \"historic:civilization=ancient_greek\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=ancient_greek"
     },
     "tag:historic:civilization=ancient_roman": {
-        "message": "",
+        "message": "starověká římská",
         "description": "Tag \"historic:civilization=ancient_roman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=ancient_roman"
     },
     "tag:historic:civilization=byzantine": {
-        "message": "",
+        "message": "byzantská",
         "description": "Tag \"historic:civilization=byzantine\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=byzantine"
     },
     "tag:historic:civilization=celtic": {
-        "message": "",
+        "message": "keltská",
         "description": "Tag \"historic:civilization=celtic\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=celtic"
     },
     "tag:historic:civilization=etruscan": {
-        "message": "",
+        "message": "etruská",
         "description": "Tag \"historic:civilization=etruscan\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=etruscan"
     },
     "tag:historic:civilization=imperial_chinese": {
-        "message": "",
+        "message": "čínské císařství",
         "description": "Tag \"historic:civilization=imperial_chinese\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=imperial_chinese"
     },
     "tag:historic:civilization=korean": {
-        "message": "",
+        "message": "korejská civilizace",
         "description": "Tag \"historic:civilization=korean\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=korean"
     },
     "tag:historic:civilization=medieval": {
-        "message": "",
+        "message": "středověk",
         "description": "Tag \"historic:civilization=medieval\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=medieval"
     },
     "tag:historic:civilization=modern": {
-        "message": "",
+        "message": "moderní doba",
         "description": "Tag \"historic:civilization=modern\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=modern"
     },
     "tag:historic:civilization=neolithic": {
-        "message": "",
+        "message": "neolitická civilizace",
         "description": "Tag \"historic:civilization=neolithic\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=neolithic"
     },
     "tag:historic:civilization=nuragic": {
-        "message": "",
+        "message": "Nuragská civilizace",
         "description": "Tag \"historic:civilization=nuragic\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=nuragic"
     },
     "tag:historic:civilization=ottoman": {
-        "message": "",
+        "message": "Otomanská říše",
         "description": "Tag \"historic:civilization=ottoman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=ottoman"
     },
     "tag:historic:civilization=prehistoric": {
-        "message": "",
+        "message": "prehistorická civilizace",
         "description": "Tag \"historic:civilization=prehistoric\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=prehistoric"
     },
     "tag:historic:civilization=roman": {
-        "message": "",
+        "message": "Římská říše",
         "description": "Tag \"historic:civilization=roman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=roman"
     },
     "tag:historic:civilization=western_roman": {
-        "message": "",
+        "message": "Západořímská říše",
         "description": "Tag \"historic:civilization=western_roman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=western_roman"
     },
     "tag:historic=aircraft": {
-        "message": "",
+        "message": "letectví",
         "description": "Tag \"historic=aircraft\". See https://wiki.openstreetmap.org/wiki/Tag:historic=aircraft"
     },
     "tag:historic=aqueduct": {
-        "message": "",
+        "message": "vodovod",
         "description": "Tag \"historic=aqueduct\". See https://wiki.openstreetmap.org/wiki/Tag:historic=aqueduct"
     },
     "tag:historic=archaeological_site": {
@@ -2759,19 +2742,19 @@
         "description": "Tag \"historic=battlefield\". See https://wiki.openstreetmap.org/wiki/Tag:historic=battlefield"
     },
     "tag:historic=boundary_stone": {
-        "message": "",
+        "message": "hraniční kámen",
         "description": "Tag \"historic=boundary_stone\". See https://wiki.openstreetmap.org/wiki/Tag:historic=boundary_stone"
     },
     "tag:historic=bridge": {
-        "message": "",
+        "message": "most",
         "description": "Tag \"historic=bridge\". See https://wiki.openstreetmap.org/wiki/Tag:historic=bridge"
     },
     "tag:historic=building": {
-        "message": "",
+        "message": "budova",
         "description": "Tag \"historic=building\". See https://wiki.openstreetmap.org/wiki/Tag:historic=building"
     },
     "tag:historic=cannon": {
-        "message": "",
+        "message": "dělo",
         "description": "Tag \"historic=cannon\". See https://wiki.openstreetmap.org/wiki/Tag:historic=cannon"
     },
     "tag:historic=castle": {
@@ -2779,15 +2762,15 @@
         "description": "Tag \"historic=castle\". See https://wiki.openstreetmap.org/wiki/Tag:historic=castle"
     },
     "tag:historic=church": {
-        "message": "",
+        "message": "kostel",
         "description": "Tag \"historic=church\". See https://wiki.openstreetmap.org/wiki/Tag:historic=church"
     },
     "tag:historic=city_gate": {
-        "message": "",
+        "message": "městská brána",
         "description": "Tag \"historic=city_gate\". See https://wiki.openstreetmap.org/wiki/Tag:historic=city_gate"
     },
     "tag:historic=citywalls": {
-        "message": "",
+        "message": "městské hradby",
         "description": "Tag \"historic=citywalls\". See https://wiki.openstreetmap.org/wiki/Tag:historic=citywalls"
     },
     "tag:historic=exhibit": {
@@ -2795,15 +2778,15 @@
         "description": "Tag \"historic=exhibit\". See https://wiki.openstreetmap.org/wiki/Tag:historic=exhibit"
     },
     "tag:historic=farm": {
-        "message": "",
+        "message": "farma",
         "description": "Tag \"historic=farm\". See https://wiki.openstreetmap.org/wiki/Tag:historic=farm"
     },
     "tag:historic=flood_mark": {
-        "message": "",
+        "message": "povodňová značka",
         "description": "Tag \"historic=flood_mark\". See https://wiki.openstreetmap.org/wiki/Tag:historic=flood_mark"
     },
     "tag:historic=fort": {
-        "message": "",
+        "message": "pevnost",
         "description": "Tag \"historic=fort\". See https://wiki.openstreetmap.org/wiki/Tag:historic=fort"
     },
     "tag:historic=industrial": {
@@ -2952,7 +2935,6 @@
     },
     "tag:int_name": {
         "message": "Mezinárodní název",
-        "!=1": " Mezinárodní názvy",
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
     "tag:intermittent": {
@@ -2968,11 +2950,11 @@
         "description": "Tag \"internet_access=service\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=service"
     },
     "tag:internet_access=terminal": {
-        "message": "Placený přístup k internetu přes počítač",
+        "message": "Placený přístup k internetu přes počítač.",
         "description": "Tag \"internet_access=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=terminal"
     },
     "tag:internet_access=terminal internet_access:fee=no": {
-        "message": "Přístup k internetu zdarma přes počítač",
+        "message": "Přístup k internetu zdarma přes počítač.",
         "description": "Combined tag \"internet_access=terminal\" and \"internet_access:fee=no\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=terminal and https://wiki.openstreetmap.org/wiki/Tag:internet_access:fee=no"
     },
     "tag:internet_access=wired": {
@@ -3224,7 +3206,7 @@
         "description": "Tag \"leisure=sauna\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sauna"
     },
     "tag:leisure=slipway": {
-        "message": "Slipway",
+        "message": "Rampa pro lodě",
         "description": "Tag \"leisure=slipway\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=slipway"
     },
     "tag:leisure=sport": {
@@ -3269,7 +3251,6 @@
     },
     "tag:loc_name": {
         "message": "Místní název",
-        "!=1": "Místní názvy",
         "description": "Key \"loc_name\". See https://wiki.openstreetmap.org/wiki/Key:loc_name"
     },
     "tag:man_made": {
@@ -3682,7 +3663,6 @@
     },
     "tag:name": {
         "message": "Název",
-        "!=1": "Názvy",
         "description": "Key \"name\". See https://wiki.openstreetmap.org/wiki/Key:name"
     },
     "tag:name:etymology": {
@@ -4119,7 +4099,6 @@
     },
     "tag:official_name": {
         "message": "Oficiální název",
-        "!=1": "Oficiální názvy",
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
@@ -4240,7 +4219,6 @@
     },
     "tag:place=city": {
         "message": "Město",
-        "!=1": "Města",
         "description": "Tag \"place=city\". See https://wiki.openstreetmap.org/wiki/Tag:place=city"
     },
     "tag:place=city population<200000": {
@@ -4257,7 +4235,6 @@
     },
     "tag:place=county": {
         "message": "Kraj",
-        "!=1": "Kraje",
         "description": "Tag \"place=county\". See https://wiki.openstreetmap.org/wiki/Tag:place=county"
     },
     "tag:place=farm": {
@@ -4270,7 +4247,6 @@
     },
     "tag:place=island": {
         "message": "Ostrov",
-        "!=1": "Ostrovy",
         "description": "Tag \"place=island\". See https://wiki.openstreetmap.org/wiki/Tag:place=island"
     },
     "tag:place=islet": {
@@ -4535,7 +4511,6 @@
     },
     "tag:railway=rail": {
         "message": "Železniční kolej",
-        "!=1": "Železniční koleje",
         "description": "Tag \"railway=rail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail"
     },
     "tag:railway=rail service": {
@@ -4604,7 +4579,6 @@
     },
     "tag:railway=tram": {
         "message": "Tramvajová kolej",
-        "!=1": "Tramvajové koleje",
         "description": "Tag \"railway=tram\". See https://wiki.openstreetmap.org/wiki/Tag:railway=tram"
     },
     "tag:railway=tram;narrow_gauge": {
@@ -4624,7 +4598,7 @@
         "description": "Key \"real_ale\". See https://wiki.openstreetmap.org/wiki/Key:real_ale"
     },
     "tag:ref": {
-        "message": "Reference",
+        "message": "Odkaz",
         "description": "Key \"ref\". See https://wiki.openstreetmap.org/wiki/Key:ref"
     },
     "tag:religion": {
@@ -4804,7 +4778,7 @@
         "description": "Tag \"route=light_rail\". See https://wiki.openstreetmap.org/wiki/Tag:route=light_rail"
     },
     "tag:route=minibus": {
-        "message": "Minibus",
+        "message": "Malý autobus",
         "description": "Tag \"route=minibus\". See https://wiki.openstreetmap.org/wiki/Tag:route=minibus"
     },
     "tag:route=monorail": {
@@ -5552,7 +5526,7 @@
         "description": "Tag \"sport=motor\". See https://wiki.openstreetmap.org/wiki/Tag:sport=motor"
     },
     "tag:sport=multi": {
-        "message": "Multi",
+        "message": "Kombinované sporty",
         "description": "Tag \"sport=multi\". See https://wiki.openstreetmap.org/wiki/Tag:sport=multi"
     },
     "tag:sport=orienteering": {
@@ -5564,7 +5538,7 @@
         "description": "Tag \"sport=paddle_tennis\". See https://wiki.openstreetmap.org/wiki/Tag:sport=paddle_tennis"
     },
     "tag:sport=paragliding": {
-        "message": "Paragliding",
+        "message": "Létání na padáku",
         "description": "Tag \"sport=paragliding\". See https://wiki.openstreetmap.org/wiki/Tag:sport=paragliding"
     },
     "tag:sport=pelota": {
@@ -5580,7 +5554,7 @@
         "description": "Tag \"sport=rowing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rowing"
     },
     "tag:sport=rugby": {
-        "message": "Rugby",
+        "message": "Ragby",
         "description": "Tag \"sport=rugby\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rugby"
     },
     "tag:sport=rugby_league": {
@@ -5604,7 +5578,7 @@
         "description": "Tag \"sport=shooting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=shooting"
     },
     "tag:sport=skateboard": {
-        "message": "Skateboard",
+        "message": "jízda na kolečkovém prkně",
         "description": "Tag \"sport=skateboard\". See https://wiki.openstreetmap.org/wiki/Tag:sport=skateboard"
     },
     "tag:sport=skating": {
@@ -5772,7 +5746,7 @@
         "description": "Tag \"tourism=caravan_site\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=caravan_site"
     },
     "tag:tourism=chalet": {
-        "message": "Chata",
+        "message": "Rekreační chata",
         "description": "Tag \"tourism=chalet\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=chalet"
     },
     "tag:tourism=gallery": {
@@ -6066,5 +6040,189 @@
     "tag:xmas:feature=tree": {
         "message": "",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:amenity=childcare": {
+        "message": "Hlídání dětí",
+        "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
+    },
+    "tag:building=agriculture": {
+        "message": "zemědělská budova",
+        "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
+    },
+    "tag:climbing": {
+        "message": "Lezení",
+        "description": "Key \"climbing\". See https://wiki.openstreetmap.org/wiki/Key:climbing"
+    },
+    "tag:climbing:bolted": {
+        "message": "Šplhání",
+        "description": "Key \"climbing:bolted\". See https://wiki.openstreetmap.org/wiki/Key:climbing:bolted"
+    },
+    "tag:climbing:boulder": {
+        "message": "Boulderování",
+        "description": "Key \"climbing:boulder\". See https://wiki.openstreetmap.org/wiki/Key:climbing:boulder"
+    },
+    "tag:climbing:deepwater": {
+        "message": "Lezení nad vodou",
+        "description": "Key \"climbing:deepwater\". See https://wiki.openstreetmap.org/wiki/Key:climbing:deepwater"
+    },
+    "tag:climbing:grade:french": {
+        "message": "Stupnice obtížnosti v horolezectví (Francouzská)",
+        "description": "Key \"climbing:grade:french\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:french"
+    },
+    "tag:climbing:grade:polish": {
+        "message": "Stupnice obtížnosti v horolezectví (Polská)",
+        "description": "Key \"climbing:grade:polish\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:polish"
+    },
+    "tag:climbing:grade:saxon": {
+        "message": "Stupnice obtížnosti v horolezectví (Sasská)",
+        "description": "Key \"climbing:grade:saxon\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:saxon"
+    },
+    "tag:climbing:grade:uiaa": {
+        "message": "Stupnice obtížnosti v horolezectví (UIAA)",
+        "description": "Key \"climbing:grade:uiaa\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:uiaa"
+    },
+    "tag:climbing:ice": {
+        "message": "lezení po ledu",
+        "description": "Key \"climbing:ice\". See https://wiki.openstreetmap.org/wiki/Key:climbing:ice"
+    },
+    "tag:climbing:length": {
+        "message": "Délka lezení",
+        "description": "Key \"climbing:length\". See https://wiki.openstreetmap.org/wiki/Key:climbing:length"
+    },
+    "tag:climbing:mixed": {
+        "message": "Smíšené lezení",
+        "description": "Key \"climbing:mixed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:mixed"
+    },
+    "tag:climbing:multipitch": {
+        "message": "Trasy pro více typů lezení",
+        "description": "Key \"climbing:multipitch\". See https://wiki.openstreetmap.org/wiki/Key:climbing:multipitch"
+    },
+    "tag:climbing:orientation": {
+        "message": "Orientace lezení",
+        "description": "Key \"climbing:orientation\". See https://wiki.openstreetmap.org/wiki/Key:climbing:orientation"
+    },
+    "tag:climbing:quality": {
+        "message": "Kvalita lezení",
+        "description": "Key \"climbing:quality\". See https://wiki.openstreetmap.org/wiki/Key:climbing:quality"
+    },
+    "tag:climbing:rock": {
+        "message": "Skalní lezení",
+        "description": "Key \"climbing:rock\". See https://wiki.openstreetmap.org/wiki/Key:climbing:rock"
+    },
+    "tag:climbing:routes": {
+        "message": "Množství lezeckých tras",
+        "description": "Key \"climbing:routes\". See https://wiki.openstreetmap.org/wiki/Key:climbing:routes"
+    },
+    "tag:climbing:speed": {
+        "message": "Rychlolezení",
+        "description": "Key \"climbing:speed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:speed"
+    },
+    "tag:climbing:sport": {
+        "message": "Sportovní lezení",
+        "description": "Key \"climbing:sport\". See https://wiki.openstreetmap.org/wiki/Key:climbing:sport"
+    },
+    "tag:climbing:summit_log": {
+        "message": "Vrcholová kniha",
+        "description": "Key \"climbing:summit_log\". See https://wiki.openstreetmap.org/wiki/Key:climbing:summit_log"
+    },
+    "tag:climbing:toprope": {
+        "message": "Slaňování",
+        "description": "Key \"climbing:toprope\". See https://wiki.openstreetmap.org/wiki/Key:climbing:toprope"
+    },
+    "tag:climbing:trad": {
+        "message": "Tradiční lezení",
+        "description": "Key \"climbing:trad\". See https://wiki.openstreetmap.org/wiki/Key:climbing:trad"
+    },
+    "tag:climbing=boulder": {
+        "message": "Boulderování",
+        "description": "Tag \"climbing=boulder\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=boulder"
+    },
+    "tag:climbing=crag": {
+        "message": "Převis",
+        "description": "Tag \"climbing=crag\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=crag"
+    },
+    "tag:climbing=route": {
+        "message": "Lezecká trasa",
+        "description": "Tag \"climbing=route\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route"
+    },
+    "tag:climbing=route_bottom": {
+        "message": "Začátek lezecké trasy",
+        "description": "Tag \"climbing=route_bottom\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route_bottom"
+    },
+    "tag:climbing=route_top": {
+        "message": "Vrchol lezecké trasy",
+        "description": "Tag \"climbing=route_top\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route_top"
+    },
+    "tag:direction": {
+        "message": "Směr",
+        "description": "Key \"direction\". See https://wiki.openstreetmap.org/wiki/Key:direction"
+    },
+    "tag:direction=E": {
+        "message": "Východ",
+        "description": "Tag \"direction=E\". See https://wiki.openstreetmap.org/wiki/Tag:direction=E"
+    },
+    "tag:direction=ENE": {
+        "message": "Východo-severovýchod",
+        "description": "Tag \"direction=NEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NEE"
+    },
+    "tag:direction=ESE": {
+        "message": "Východo-jihovýchod",
+        "description": "Tag \"direction=SEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SEE"
+    },
+    "tag:direction=N": {
+        "message": "Sever",
+        "description": "Tag \"direction=N\". See https://wiki.openstreetmap.org/wiki/Tag:direction=N"
+    },
+    "tag:direction=NNE": {
+        "message": "Severo-severovýchod",
+        "description": "Tag \"direction=NNE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNE"
+    },
+    "tag:direction=NNW": {
+        "message": "Severo-severozápad",
+        "description": "Tag \"direction=NNW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNW"
+    },
+    "tag:direction=NW": {
+        "message": "Severozápad",
+        "description": "Tag \"direction=NW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NW"
+    },
+    "tag:direction=S": {
+        "message": "Jih",
+        "description": "Tag \"direction=S\". See https://wiki.openstreetmap.org/wiki/Tag:direction=S"
+    },
+    "tag:direction=SE": {
+        "message": "Jihovýchod",
+        "description": "Tag \"direction=SE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SE"
+    },
+    "tag:direction=SSE": {
+        "message": "Jiho-jihovýchod",
+        "description": "Tag \"direction=SSE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSE"
+    },
+    "tag:direction=SSW": {
+        "message": "Jiho-jihozápad",
+        "description": "Tag \"direction=SSW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSW"
+    },
+    "tag:direction=SW": {
+        "message": "Jihozápad",
+        "description": "Tag \"direction=SW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SW"
+    },
+    "tag:direction=W": {
+        "message": "Západ",
+        "description": "Tag \"direction=W\". See https://wiki.openstreetmap.org/wiki/Tag:direction=W"
+    },
+    "tag:direction=WNW": {
+        "message": "Západo-severozápad",
+        "description": "Tag \"direction=NWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NWW"
+    },
+    "tag:direction=WSW": {
+        "message": "Západo-jihozápad",
+        "description": "Tag \"direction=SWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SWW"
+    },
+    "tag:highway=via_ferrata": {
+        "message": "po ferratách",
+        "description": "Tag \"highway=via_ferrata\". See https://wiki.openstreetmap.org/wiki/Tag:highway=via_ferrata"
+    },
+    "tag:historic=heritage": {
+        "message": "dědictví",
+        "description": "Tag \"historic=heritage\". See https://wiki.openstreetmap.org/wiki/Tag:historic=heritage"
     }
 }
