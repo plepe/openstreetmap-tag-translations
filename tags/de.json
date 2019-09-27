@@ -241,7 +241,7 @@
         "description": "Tag \"amenity=compressed_air\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=compressed_air"
     },
     "tag:amenity=courthouse": {
-        "message": "Gerichte",
+        "message": "Gericht",
         "description": "Tag \"amenity=courthouse\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=courthouse"
     },
     "tag:amenity=crematorium": {
@@ -353,7 +353,7 @@
         "description": "Tag \"amenity=post_box\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_box"
     },
     "tag:amenity=post_office": {
-        "message": "Postämter",
+        "message": "Postamt",
         "description": "Tag \"amenity=post_office\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_office"
     },
     "tag:amenity=pub": {
@@ -513,7 +513,7 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=telephone_vouchers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=telephone_vouchers"
     },
     "tag:amenity=veterinary": {
-        "message": "Tierärzte",
+        "message": "Tierarzt",
         "description": "Tag \"amenity=veterinary\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=veterinary"
     },
     "tag:amenity=waste_basket": {
@@ -2738,7 +2738,7 @@
         "description": "Tag \"historic=archaeological_site\". See https://wiki.openstreetmap.org/wiki/Tag:historic=archaeological_site"
     },
     "tag:historic=battlefield": {
-        "message": "Schlachtfelder",
+        "message": "Schlachtfeld",
         "description": "Tag \"historic=battlefield\". See https://wiki.openstreetmap.org/wiki/Tag:historic=battlefield"
     },
     "tag:historic=boundary_stone": {
@@ -2866,11 +2866,11 @@
         "description": "Tag \"historic=wayside_chapel\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_chapel"
     },
     "tag:historic=wayside_cross": {
-        "message": "Wegkreuze",
+        "message": "Wegkreuz",
         "description": "Tag \"historic=wayside_cross\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_cross"
     },
     "tag:historic=wayside_shrine": {
-        "message": "Bildstöcke",
+        "message": "Bildstock",
         "description": "Tag \"historic=wayside_shrine\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_shrine"
     },
     "tag:historic=wreck": {
@@ -3038,7 +3038,7 @@
         "description": "Tag \"landuse=greenhouse_horticulture\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=greenhouse_horticulture"
     },
     "tag:landuse=industrial": {
-        "message": "Industriegebiete",
+        "message": "Industriegebiet",
         "description": "Tag \"landuse=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=industrial"
     },
     "tag:landuse=landfill": {
@@ -3074,7 +3074,7 @@
         "description": "Tag \"landuse=reservoir\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=reservoir"
     },
     "tag:landuse=residential": {
-        "message": "Wohngebiete",
+        "message": "Wohngebiet",
         "description": "Tag \"landuse=residential\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=residential"
     },
     "tag:landuse=salt_pond": {
@@ -3766,7 +3766,7 @@
         "description": "Key \"natural\". See https://wiki.openstreetmap.org/wiki/Key:natural"
     },
     "tag:natural=arete": {
-        "message": "",
+        "message": "Gebirgsgrat",
         "description": "Tag \"natural=arete\". See https://wiki.openstreetmap.org/wiki/Tag:natural=arete"
     },
     "tag:natural=bare_rock": {
@@ -3782,11 +3782,11 @@
         "description": "Tag \"natural=beach\". See https://wiki.openstreetmap.org/wiki/Tag:natural=beach"
     },
     "tag:natural=cape": {
-        "message": "",
+        "message": "Kap",
         "description": "Tag \"natural=cape\". See https://wiki.openstreetmap.org/wiki/Tag:natural=cape"
     },
     "tag:natural=cave_entrance": {
-        "message": "Höhleneingänge",
+        "message": "Höhleneingang",
         "description": "Tag \"natural=cave_entrance\". See https://wiki.openstreetmap.org/wiki/Tag:natural=cave_entrance"
     },
     "tag:natural=cliff": {
@@ -3806,7 +3806,7 @@
         "description": "Tag \"natural=fell\". See https://wiki.openstreetmap.org/wiki/Tag:natural=fell"
     },
     "tag:natural=geyser": {
-        "message": "",
+        "message": "Geysir",
         "description": "Tag \"natural=geyser\". See https://wiki.openstreetmap.org/wiki/Tag:natural=geyser"
     },
     "tag:natural=glacier": {
@@ -3822,11 +3822,11 @@
         "description": "Tag \"natural=heath\". See https://wiki.openstreetmap.org/wiki/Tag:natural=heath"
     },
     "tag:natural=hill": {
-        "message": "",
+        "message": "Berg",
         "description": "Tag \"natural=hill\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hill"
     },
     "tag:natural=hot_spring": {
-        "message": "",
+        "message": "Thermalquelle",
         "description": "Tag \"natural=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hot_spring"
     },
     "tag:natural=marsh": {
@@ -3854,15 +3854,15 @@
         "description": "Tag \"natural=peak\". See https://wiki.openstreetmap.org/wiki/Tag:natural=peak"
     },
     "tag:natural=peninsula": {
-        "message": "",
+        "message": "Halbinsel",
         "description": "Tag \"natural=peninsula\". See https://wiki.openstreetmap.org/wiki/Tag:natural=peninsula"
     },
     "tag:natural=reef": {
-        "message": "",
+        "message": "Riff",
         "description": "Tag \"natural=reef\". See https://wiki.openstreetmap.org/wiki/Tag:natural=reef"
     },
     "tag:natural=ridge": {
-        "message": "",
+        "message": "Gebirgskamm",
         "description": "Tag \"natural=ridge\". See https://wiki.openstreetmap.org/wiki/Tag:natural=ridge"
     },
     "tag:natural=river_terrace": {
@@ -3874,7 +3874,7 @@
         "description": "Tag \"natural=rock\". See https://wiki.openstreetmap.org/wiki/Tag:natural=rock"
     },
     "tag:natural=saddle": {
-        "message": "",
+        "message": "Bergsattel",
         "description": "Tag \"natural=saddle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=saddle"
     },
     "tag:natural=sand": {
@@ -3894,7 +3894,7 @@
         "description": "Tag \"natural=shingle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=shingle"
     },
     "tag:natural=sinkhole": {
-        "message": "",
+        "message": "Doline",
         "description": "Tag \"natural=sinkhole\". See https://wiki.openstreetmap.org/wiki/Tag:natural=sinkhole"
     },
     "tag:natural=spring": {
@@ -3930,7 +3930,7 @@
         "description": "Tag \"natural=water\". See https://wiki.openstreetmap.org/wiki/Tag:natural=water"
     },
     "tag:natural=wetland": {
-        "message": "Feuchtgebiete",
+        "message": "Feuchtgebiet",
         "description": "Tag \"natural=wetland\". See https://wiki.openstreetmap.org/wiki/Tag:natural=wetland"
     },
     "tag:natural=wood": {
@@ -4418,7 +4418,7 @@
         "description": "Tag \"power=converter\". See https://wiki.openstreetmap.org/wiki/Tag:power=converter"
     },
     "tag:power=generator": {
-        "message": "Kraftwerke",
+        "message": "Stromgenerator",
         "description": "Tag \"power=generator\". See https://wiki.openstreetmap.org/wiki/Tag:power=generator"
     },
     "tag:power=heliostat": {
@@ -5194,7 +5194,7 @@
         "description": "Tag \"shop=grocery\". See https://wiki.openstreetmap.org/wiki/Tag:shop=grocery"
     },
     "tag:shop=hairdresser": {
-        "message": "Friseure",
+        "message": "Friseur",
         "description": "Tag \"shop=hairdresser\". See https://wiki.openstreetmap.org/wiki/Tag:shop=hairdresser"
     },
     "tag:shop=hardware": {
@@ -5226,7 +5226,7 @@
         "description": "Tag \"shop=interior_decoration\". See https://wiki.openstreetmap.org/wiki/Tag:shop=interior_decoration"
     },
     "tag:shop=jewelry": {
-        "message": "Juweliere",
+        "message": "Juwelier",
         "description": "Tag \"shop=jewelry\". See https://wiki.openstreetmap.org/wiki/Tag:shop=jewelry"
     },
     "tag:shop=kiosk": {
@@ -5382,7 +5382,7 @@
         "description": "Tag \"shop=tobacco\". See https://wiki.openstreetmap.org/wiki/Tag:shop=tobacco"
     },
     "tag:shop=toys": {
-        "message": "Spieleläden",
+        "message": "Spieleladen",
         "description": "Tag \"shop=toys\". See https://wiki.openstreetmap.org/wiki/Tag:shop=toys"
     },
     "tag:shop=travel_agency": {
@@ -5890,11 +5890,11 @@
         "description": "Tag \"tourism=aquarium\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=aquarium"
     },
     "tag:tourism=artwork": {
-        "message": "Kunstwerke",
+        "message": "Kunstwerk",
         "description": "Tag \"tourism=artwork\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=artwork"
     },
     "tag:tourism=attraction": {
-        "message": "Attraktionen",
+        "message": "Attraktion",
         "description": "Tag \"tourism=attraction\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=attraction"
     },
     "tag:tourism=camp_site": {
@@ -5946,7 +5946,7 @@
         "description": "Tag \"tourism=spa_resort\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=spa_resort"
     },
     "tag:tourism=theme_park": {
-        "message": "Themenparks",
+        "message": "Themenpark",
         "description": "Tag \"tourism=theme_park\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=theme_park"
     },
     "tag:tourism=trail_riding_station": {
@@ -6110,7 +6110,7 @@
         "description": "Key \"waterway\". See https://wiki.openstreetmap.org/wiki/Key:waterway"
     },
     "tag:waterway=canal": {
-        "message": "Kanäle",
+        "message": "Kanal",
         "description": "Tag \"waterway=canal\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=canal"
     },
     "tag:waterway=dam": {
@@ -6118,7 +6118,7 @@
         "description": "Tag \"waterway=dam\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=dam"
     },
     "tag:waterway=ditch": {
-        "message": "",
+        "message": "Wassergraben",
         "description": "Tag \"waterway=ditch\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=ditch"
     },
     "tag:waterway=divide": {
@@ -6126,15 +6126,15 @@
         "description": "Tag \"waterway=divide\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=divide"
     },
     "tag:waterway=drain": {
-        "message": "",
+        "message": "Abwassergraben",
         "description": "Tag \"waterway=drain\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=drain"
     },
     "tag:waterway=river": {
-        "message": "Flüsse",
+        "message": "Fluss",
         "description": "Tag \"waterway=river\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=river"
     },
     "tag:waterway=river width>10": {
-        "message": "Große Flüsse",
+        "message": "Großer Fluss",
         "description": "Combined tag \"waterway=river\" and key \"width\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:waterway=river and https://wiki.openstreetmap.org/wiki/Key:width"
     },
     "tag:waterway=riverbank": {
@@ -6142,15 +6142,15 @@
         "description": "Tag \"waterway=riverbank\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=riverbank"
     },
     "tag:waterway=stream": {
-        "message": "Bäche",
+        "message": "Bach",
         "description": "Tag \"waterway=stream\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=stream"
     },
     "tag:waterway=waterfall": {
-        "message": "",
+        "message": "Wasserfall",
         "description": "Tag \"waterway=waterfall\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=waterfall"
     },
     "tag:waterway=weir": {
-        "message": "",
+        "message": "Wehr",
         "description": "Tag \"waterway=weir\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=weir"
     },
     "tag:website": {
