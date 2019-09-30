@@ -18,10 +18,10 @@
         "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
     },
     "tag:access!=private": {
-        "message": ""
+        "message": "nichtprivat"
     },
     "tag:access=private": {
-        "message": "Privat",
+        "message": "privat",
         "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
     },
     "tag:accomodation": {
