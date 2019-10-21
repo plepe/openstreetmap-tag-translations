@@ -629,7 +629,7 @@
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
     "tag:building=agriculture": {
-        "message": "",
+        "message": "Agricultural building",
         "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
     },
     "tag:building=apartments": {
@@ -2062,7 +2062,7 @@
         "description": "Tag \"cuisine=sausage\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=savory_pancakes": {
-        "message": "",
+        "message": "Savory pancakes",
         "description": "Tag \"cuisine=savory_pancakes\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=seafood": {
@@ -3074,7 +3074,7 @@
         "description": "Key \"incline\". See https://wiki.openstreetmap.org/wiki/Key:incline"
     },
     "tag:information=audioguide": {
-        "message": "Auido guide",
+        "message": "Audio guide",
         "description": "Tag \"information=audioguide\". See https://wiki.openstreetmap.org/wiki/Tag:information=audioguide"
     },
     "tag:information=board": {
