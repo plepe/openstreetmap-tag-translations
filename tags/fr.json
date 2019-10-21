@@ -65,7 +65,7 @@
         "description": "Key \"address\". See https://wiki.openstreetmap.org/wiki/Key:address"
     },
     "tag:admin_level": {
-        "message": "Échelon administratif",
+        "message": "Échelon administratif officiel",
         "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
     },
     "tag:admin_level=10": {
@@ -137,11 +137,11 @@
         "description": "Key \"amenity\". See https://wiki.openstreetmap.org/wiki/Key:amenity"
     },
     "tag:amenity=arts_centre": {
-        "message": "Centres d'art",
+        "message": "Centre artistique",
         "description": "Tag \"amenity=arts_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=arts_centre"
     },
     "tag:amenity=atm": {
-        "message": "DAB",
+        "message": "DAB  Distributeur automatique de billets",
         "description": "Tag \"amenity=atm\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=atm"
     },
     "tag:amenity=baby_hatch": {
@@ -149,7 +149,7 @@
         "description": "Tag \"amenity=baby_hatch\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=baby_hatch"
     },
     "tag:amenity=bank": {
-        "message": "Banque / DAB",
+        "message": "Banque",
         "description": "Tag \"amenity=bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bank"
     },
     "tag:amenity=bar": {
@@ -161,7 +161,7 @@
         "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
     },
     "tag:amenity=bicycle_parking": {
-        "message": "Parking vélo",
+        "message": "Parking à vélos",
         "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
     },
     "tag:amenity=bicycle_parking capacity<=20": {
@@ -345,7 +345,7 @@
         "description": "Tag \"amenity=place_of_worship\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship"
     },
     "tag:amenity=police": {
-        "message": "Police",
+        "message": "Poste/commissariat de police",
         "description": "Tag \"amenity=police\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=police"
     },
     "tag:amenity=post_box": {
@@ -989,7 +989,7 @@
         "description": "Tag \"clothes=babies\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=brand": {
-        "message": "",
+        "message": "Vêtements de marques",
         "description": "Tag \"clothes=brand\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=bridal": {
@@ -1009,7 +1009,7 @@
         "description": "Tag \"clothes=denim\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=fashion": {
-        "message": "",
+        "message": "Vêtements de mode",
         "description": "Tag \"clothes=fashion\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=fur": {
@@ -1950,7 +1950,7 @@
         "description": "Tag \"cuisine=sausage\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=savory_pancakes": {
-        "message": "",
+        "message": "Crêpes salées",
         "description": "Tag \"cuisine=savory_pancakes\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=seafood": {
@@ -2282,7 +2282,7 @@
         "description": "Key \"fixme\". See https://wiki.openstreetmap.org/wiki/Key:fixme"
     },
     "tag:flood_date": {
-        "message": "",
+        "message": "Date de la crue",
         "description": "Key \"flood_date\". See https://wiki.openstreetmap.org/wiki/Key:flood_date"
     },
     "tag:flood_mark=engraving": {
@@ -2890,7 +2890,7 @@
         "description": "Key \"incline\". See https://wiki.openstreetmap.org/wiki/Key:incline"
     },
     "tag:information=audioguide": {
-        "message": "",
+        "message": "Audioguide",
         "description": "Tag \"information=audioguide\". See https://wiki.openstreetmap.org/wiki/Tag:information=audioguide"
     },
     "tag:information=board": {
@@ -2910,23 +2910,23 @@
         "description": "Tag \"information=office\". See https://wiki.openstreetmap.org/wiki/Tag:information=office"
     },
     "tag:information=route_marker": {
-        "message": "",
+        "message": "Jalon de balisage",
         "description": "Tag \"information=route_marker\". See https://wiki.openstreetmap.org/wiki/Tag:information=route_marker"
     },
     "tag:information=tactile_map": {
-        "message": "",
+        "message": "Carte tactile",
         "description": "Tag \"information=tactile_map\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_map"
     },
     "tag:information=tactile_model": {
-        "message": "",
+        "message": "Modèle tactile",
         "description": "Tag \"information=tactile_model\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_model"
     },
     "tag:information=terminal": {
-        "message": "",
+        "message": "Terminal",
         "description": "Tag \"information=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:information=terminal"
     },
     "tag:information=trail_blaze": {
-        "message": "",
+        "message": "Marque de balisage",
         "description": "Tag \"information=trail_blaze\". See https://wiki.openstreetmap.org/wiki/Tag:information=trail_blaze"
     },
     "tag:inscription": {
@@ -2938,7 +2938,7 @@
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
     "tag:intermittent": {
-        "message": "",
+        "message": "Intermittent.e",
         "description": "Key \"intermittent\". See https://wiki.openstreetmap.org/wiki/Key:intermittent"
     },
     "tag:internet_access=public": {
@@ -3122,7 +3122,7 @@
         "description": "Tag \"leisure=common\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=common"
     },
     "tag:leisure=dance": {
-        "message": "Danse",
+        "message": "Salle de danse",
         "description": "Tag \"leisure=dance\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=dance"
     },
     "tag:leisure=dog_park": {
@@ -3158,7 +3158,7 @@
         "description": "Tag \"leisure=hackerspace\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=hackerspace"
     },
     "tag:leisure=horse_riding": {
-        "message": "Équitation",
+        "message": "Centre équestre",
         "description": "Tag \"leisure=horse_riding\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=horse_riding"
     },
     "tag:leisure=ice_rink": {
@@ -3682,15 +3682,15 @@
         "description": "Key \"natural\". See https://wiki.openstreetmap.org/wiki/Key:natural"
     },
     "tag:natural=arete": {
-        "message": "",
+        "message": "Arête",
         "description": "Tag \"natural=arete\". See https://wiki.openstreetmap.org/wiki/Tag:natural=arete"
     },
     "tag:natural=bare_rock": {
-        "message": "",
+        "message": "Rocher nu",
         "description": "Tag \"natural=bare_rock\". See https://wiki.openstreetmap.org/wiki/Tag:natural=bare_rock"
     },
     "tag:natural=bay": {
-        "message": "",
+        "message": "Baie",
         "description": "Tag \"natural=bay\". See https://wiki.openstreetmap.org/wiki/Tag:natural=bay"
     },
     "tag:natural=beach": {
@@ -3698,7 +3698,7 @@
         "description": "Tag \"natural=beach\". See https://wiki.openstreetmap.org/wiki/Tag:natural=beach"
     },
     "tag:natural=cape": {
-        "message": "",
+        "message": "Cap",
         "description": "Tag \"natural=cape\". See https://wiki.openstreetmap.org/wiki/Tag:natural=cape"
     },
     "tag:natural=cave_entrance": {
@@ -3722,7 +3722,7 @@
         "description": "Tag \"natural=fell\". See https://wiki.openstreetmap.org/wiki/Tag:natural=fell"
     },
     "tag:natural=geyser": {
-        "message": "",
+        "message": "Geyser",
         "description": "Tag \"natural=geyser\". See https://wiki.openstreetmap.org/wiki/Tag:natural=geyser"
     },
     "tag:natural=glacier": {
@@ -3738,11 +3738,11 @@
         "description": "Tag \"natural=heath\". See https://wiki.openstreetmap.org/wiki/Tag:natural=heath"
     },
     "tag:natural=hill": {
-        "message": "",
+        "message": "Colline",
         "description": "Tag \"natural=hill\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hill"
     },
     "tag:natural=hot_spring": {
-        "message": "",
+        "message": "Source chaude",
         "description": "Tag \"natural=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hot_spring"
     },
     "tag:natural=marsh": {
@@ -3750,7 +3750,7 @@
         "description": "Tag \"natural=marsh\". See https://wiki.openstreetmap.org/wiki/Tag:natural=marsh"
     },
     "tag:natural=moor": {
-        "message": "",
+        "message": "Landes",
         "description": "Tag \"natural=moor\". See https://wiki.openstreetmap.org/wiki/Tag:natural=moor"
     },
     "tag:natural=mountain": {
@@ -3762,7 +3762,7 @@
         "description": "Tag \"natural=mountain_range\". See https://wiki.openstreetmap.org/wiki/Tag:natural=mountain_range"
     },
     "tag:natural=mud": {
-        "message": "Tourbière",
+        "message": "Boue",
         "description": "Tag \"natural=mud\". See https://wiki.openstreetmap.org/wiki/Tag:natural=mud"
     },
     "tag:natural=peak": {
@@ -3770,7 +3770,7 @@
         "description": "Tag \"natural=peak\". See https://wiki.openstreetmap.org/wiki/Tag:natural=peak"
     },
     "tag:natural=peninsula": {
-        "message": "",
+        "message": "Péninsule",
         "description": "Tag \"natural=peninsula\". See https://wiki.openstreetmap.org/wiki/Tag:natural=peninsula"
     },
     "tag:natural=reef": {
@@ -3778,23 +3778,23 @@
         "description": "Tag \"natural=reef\". See https://wiki.openstreetmap.org/wiki/Tag:natural=reef"
     },
     "tag:natural=ridge": {
-        "message": "",
+        "message": "Crête",
         "description": "Tag \"natural=ridge\". See https://wiki.openstreetmap.org/wiki/Tag:natural=ridge"
     },
     "tag:natural=river_terrace": {
-        "message": "",
+        "message": "Terrasse alluviale",
         "description": "Tag \"natural=river_terrace\". See https://wiki.openstreetmap.org/wiki/Tag:natural=river_terrace"
     },
     "tag:natural=rock": {
-        "message": "",
+        "message": "Rocher",
         "description": "Tag \"natural=rock\". See https://wiki.openstreetmap.org/wiki/Tag:natural=rock"
     },
     "tag:natural=saddle": {
-        "message": "",
+        "message": "Col",
         "description": "Tag \"natural=saddle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=saddle"
     },
     "tag:natural=sand": {
-        "message": "",
+        "message": "Sable",
         "description": "Tag \"natural=sand\". See https://wiki.openstreetmap.org/wiki/Tag:natural=sand"
     },
     "tag:natural=scree": {
@@ -3806,11 +3806,11 @@
         "description": "Tag \"natural=scrub\". See https://wiki.openstreetmap.org/wiki/Tag:natural=scrub"
     },
     "tag:natural=shingle": {
-        "message": "",
+        "message": "Galets",
         "description": "Tag \"natural=shingle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=shingle"
     },
     "tag:natural=sinkhole": {
-        "message": "",
+        "message": "Doline",
         "description": "Tag \"natural=sinkhole\". See https://wiki.openstreetmap.org/wiki/Tag:natural=sinkhole"
     },
     "tag:natural=spring": {
@@ -3818,11 +3818,11 @@
         "description": "Tag \"natural=spring\". See https://wiki.openstreetmap.org/wiki/Tag:natural=spring"
     },
     "tag:natural=stone": {
-        "message": "",
+        "message": "Rocher",
         "description": "Tag \"natural=stone\". See https://wiki.openstreetmap.org/wiki/Tag:natural=stone"
     },
     "tag:natural=strait": {
-        "message": "",
+        "message": "Détroit",
         "description": "Tag \"natural=strait\". See https://wiki.openstreetmap.org/wiki/Tag:natural=strait"
     },
     "tag:natural=tree": {
@@ -4106,7 +4106,7 @@
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
-        "message": "Ancien nom(s)",
+        "message": "Ancien nom",
         "description": "Key \"old_name\". See https://wiki.openstreetmap.org/wiki/Key:old_name"
     },
     "tag:oneway": {
@@ -5750,7 +5750,7 @@
         "description": "Tag \"tourism=caravan_site\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=caravan_site"
     },
     "tag:tourism=chalet": {
-        "message": "Chalet",
+        "message": "Chalet de tourisme",
         "description": "Tag \"tourism=chalet\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=chalet"
     },
     "tag:tourism=gallery": {
@@ -5758,7 +5758,7 @@
         "description": "Tag \"tourism=gallery\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=gallery"
     },
     "tag:tourism=guest_house": {
-        "message": "Gite / Chambre d'hôtes",
+        "message": "Gîte / Chambre d'hôtes",
         "description": "Tag \"tourism=guest_house\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=guest_house"
     },
     "tag:tourism=hostel": {
@@ -6044,5 +6044,257 @@
     "tag:xmas:feature=tree": {
         "message": "Arbre de Noël",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:amenity=childcare": {
+        "message": "Garderie",
+        "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
+    },
+    "tag:building=agriculture": {
+        "message": "Bâtiment agricole",
+        "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
+    },
+    "tag:climbing": {
+        "message": "Escalade",
+        "description": "Key \"climbing\". See https://wiki.openstreetmap.org/wiki/Key:climbing"
+    },
+    "tag:direction": {
+        "message": "Orientation",
+        "description": "Key \"direction\". See https://wiki.openstreetmap.org/wiki/Key:direction"
+    },
+    "tag:direction=E": {
+        "message": "Est",
+        "description": "Tag \"direction=E\". See https://wiki.openstreetmap.org/wiki/Tag:direction=E"
+    },
+    "tag:direction=ENE": {
+        "message": "Est-nord-est",
+        "description": "Tag \"direction=NEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NEE"
+    },
+    "tag:direction=ESE": {
+        "message": "Est-sud-est",
+        "description": "Tag \"direction=SEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SEE"
+    },
+    "tag:direction=N": {
+        "message": "Nord",
+        "description": "Tag \"direction=N\". See https://wiki.openstreetmap.org/wiki/Tag:direction=N"
+    },
+    "tag:direction=NNE": {
+        "message": "Nord-nord-est",
+        "description": "Tag \"direction=NNE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNE"
+    },
+    "tag:direction=NNW": {
+        "message": "Nord-nord-ouest",
+        "description": "Tag \"direction=NNW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNW"
+    },
+    "tag:direction=NW": {
+        "message": "Nord-ouest",
+        "description": "Tag \"direction=NW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NW"
+    },
+    "tag:direction=S": {
+        "message": "Sud",
+        "description": "Tag \"direction=S\". See https://wiki.openstreetmap.org/wiki/Tag:direction=S"
+    },
+    "tag:direction=SE": {
+        "message": "Sud-est",
+        "description": "Tag \"direction=SE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SE"
+    },
+    "tag:direction=SSE": {
+        "message": "Sud-sud-est",
+        "description": "Tag \"direction=SSE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSE"
+    },
+    "tag:direction=SSW": {
+        "message": "Sud-sud-ouest",
+        "description": "Tag \"direction=SSW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSW"
+    },
+    "tag:direction=SW": {
+        "message": "Sud-ouest",
+        "description": "Tag \"direction=SW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SW"
+    },
+    "tag:direction=W": {
+        "message": "Ouest",
+        "description": "Tag \"direction=W\". See https://wiki.openstreetmap.org/wiki/Tag:direction=W"
+    },
+    "tag:direction=WNW": {
+        "message": "Ouest-nord-ouest",
+        "description": "Tag \"direction=NWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NWW"
+    },
+    "tag:direction=WSW": {
+        "message": "Ouest-sud-ouest",
+        "description": "Tag \"direction=SWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SWW"
+    },
+    "tag:highway=via_ferrata": {
+        "message": "Via ferrata",
+        "description": "Tag \"highway=via_ferrata\". See https://wiki.openstreetmap.org/wiki/Tag:highway=via_ferrata"
+    },
+    "tag:leisure=bleachers": {
+        "message": "Gradins",
+        "description": "Tag \"leisure=bleachers\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=bleachers"
+    },
+    "tag:leisure=bowling_alley": {
+        "message": "Bowling",
+        "description": "Tag \"leisure=bowling_alley\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=bowling_alley"
+    },
+    "tag:leisure=pitch sport=american_football": {
+        "message": "Terrain de football américain",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=american_football\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=american_football"
+    },
+    "tag:leisure=pitch sport=australian_football": {
+        "message": "Terrain de football australien",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=australian_football\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=australian_football"
+    },
+    "tag:leisure=pitch sport=badminton": {
+        "message": "Court de badminton",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=badminton\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=badminton"
+    },
+    "tag:leisure=pitch sport=baseball": {
+        "message": "Terrain de base-ball",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=baseball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=baseball"
+    },
+    "tag:leisure=pitch sport=basketball": {
+        "message": "Terrain de basket",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=basketball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=basketball"
+    },
+    "tag:leisure=pitch sport=beachvolleyball": {
+        "message": "Terrain de beach-volley",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=beachvolleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=beachvolleyball"
+    },
+    "tag:leisure=pitch sport=boules": {
+        "message": "Boulodrome",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=boules\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=boules"
+    },
+    "tag:leisure=pitch sport=cricket": {
+        "message": "Terrain de cricket",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=cricket\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=cricket"
+    },
+    "tag:leisure=pitch sport=equestrian": {
+        "message": "Manège équestre",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=equestrian\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=equestrian"
+    },
+    "tag:leisure=pitch sport=field_hockey": {
+        "message": "Terrain de hockey",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=field_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=field_hockey"
+    },
+    "tag:leisure=pitch sport=horseshoes": {
+        "message": "Lancer de fer à cheval",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=horseshoes\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=horseshoes"
+    },
+    "tag:leisure=pitch sport=netball": {
+        "message": "Terrain de netball",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=netball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=netball"
+    },
+    "tag:leisure=pitch sport=rugby_league": {
+        "message": "Terrain de rugby",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=rugby_league\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_league"
+    },
+    "tag:leisure=pitch sport=rugby_union": {
+        "message": "Terrain de rugby",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=rugby_union\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_union"
+    },
+    "tag:leisure=pitch sport=skateboard": {
+        "message": "Skate park",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=skateboard\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=skateboard"
+    },
+    "tag:leisure=pitch sport=soccer": {
+        "message": "Terrain de football",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=soccer\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=soccer"
+    },
+    "tag:leisure=pitch sport=softball": {
+        "message": "Terrain de softball",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=softball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=softball"
+    },
+    "tag:leisure=pitch sport=table_tennis": {
+        "message": "Table de ping-pong",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=table_tennis\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=table_tennis"
+    },
+    "tag:leisure=pitch sport=tennis": {
+        "message": "Court de tennis",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=tennis\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=tennis"
+    },
+    "tag:leisure=pitch sport=volleyball": {
+        "message": "Terrain de volley-ball",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=volleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=volleyball"
+    },
+    "tag:leisure=sports_hall": {
+        "message": "Salle de sports",
+        "description": "Tag \"leisure=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sports_hall"
+    },
+    "tag:sport=boxing": {
+        "message": "Boxe",
+        "description": "Tag \"sport=boxing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=boxing"
+    },
+    "tag:sport=bullfighting": {
+        "message": "Tauromachie",
+        "description": "Tag \"sport=bullfighting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=bullfighting"
+    },
+    "tag:sport=climbing_adventure": {
+        "message": "Parcours acrobatique en hauteur",
+        "description": "Tag \"sport=climbing_adventure\". See https://wiki.openstreetmap.org/wiki/Tag:sport=climbing_adventure"
+    },
+    "tag:sport=disc_golf": {
+        "message": "Frisbee",
+        "description": "Tag \"sport=disc_golf\". See https://wiki.openstreetmap.org/wiki/Tag:sport=disc_golf"
+    },
+    "tag:sport=free_flying": {
+        "message": "Vol libre",
+        "description": "Tag \"sport=free_flying\". See https://wiki.openstreetmap.org/wiki/Tag:sport=free_flying"
+    },
+    "tag:sport=futsal": {
+        "message": "Futsal",
+        "description": "Tag \"sport=futsal\". See https://wiki.openstreetmap.org/wiki/Tag:sport=futsal"
+    },
+    "tag:sport=gaelic_games": {
+        "message": "Jeux gaéliques",
+        "description": "Tag \"sport=gaelic_games\". See https://wiki.openstreetmap.org/wiki/Tag:sport=gaelic_games"
+    },
+    "tag:sport=handball": {
+        "message": "Handball",
+        "description": "Tag \"sport=handball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=handball"
+    },
+    "tag:sport=horseshoes": {
+        "message": "Jeter de fer à cheval",
+        "description": "Tag \"sport=horseshoes\". See https://wiki.openstreetmap.org/wiki/Tag:sport=horseshoes"
+    },
+    "tag:sport=ice_stock": {
+        "message": "Eisstock",
+        "description": "Tag \"sport=ice_stock\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_stock"
+    },
+    "tag:sport=karting": {
+        "message": "Karting",
+        "description": "Tag \"sport=karting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=karting"
+    },
+    "tag:sport=long_jump": {
+        "message": "Saut en longueur",
+        "description": "Tag \"sport=long_jump\". See https://wiki.openstreetmap.org/wiki/Tag:sport=long_jump"
+    },
+    "tag:sport=netball": {
+        "message": "Netball",
+        "description": "Tag \"sport=netball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=netball"
+    },
+    "tag:sport=padel": {
+        "message": "Padel",
+        "description": "Tag \"sport=padel\". See https://wiki.openstreetmap.org/wiki/Tag:sport=padel"
+    },
+    "tag:sport=paintball": {
+        "message": "Paintball",
+        "description": "Tag \"sport=paintball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=paintball"
+    },
+    "tag:sport=roller_skating": {
+        "message": "Patin à roulettes",
+        "description": "Tag \"sport=roller_skating\". See https://wiki.openstreetmap.org/wiki/Tag:sport=roller_skating"
+    },
+    "tag:sport=scuba_diving": {
+        "message": "Plongée",
+        "description": "Tag \"sport=scuba_diving\". See https://wiki.openstreetmap.org/wiki/Tag:sport=scuba_diving"
+    },
+    "tag:sport=softball": {
+        "message": "Softball",
+        "description": "Tag \"sport=softball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=softball"
+    },
+    "tag:sport=trampoline": {
+        "message": "Trampoline",
+        "description": "Tag \"sport=trampoline\". See https://wiki.openstreetmap.org/wiki/Tag:sport=trampoline"
+    },
+    "tag:via_ferrata_scale": {
+        "message": "Niveau de difficulté",
+        "description": "Key \"via_ferrata_scale\". See https://wiki.openstreetmap.org/wiki/Key:via_ferrata_scale"
     }
 }
