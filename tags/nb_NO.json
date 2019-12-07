@@ -1,1 +1,115 @@
-{}
+{
+    "tag:*=no": {
+        "message": "nei"
+    },
+    "tag:*=yes": {
+        "message": "ja"
+    },
+    "tag:abandoned": {
+        "message": "Forlatt",
+        "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
+    },
+    "tag:abutters": {
+        "message": "Bruksområde",
+        "description": "Key \"abutters\". See https://wiki.openstreetmap.org/wiki/Key:abutters"
+    },
+    "tag:access": {
+        "message": "Generell tilgangtillatelse",
+        "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
+    },
+    "tag:access!=private": {
+        "message": "ikke-privat"
+    },
+    "tag:access=private": {
+        "message": "privat",
+        "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
+    },
+    "tag:accomodation": {
+        "message": "Overnatting",
+        "description": "Key \"accomodation\". See https://wiki.openstreetmap.org/wiki/Key:accomodation"
+    },
+    "tag:addr:city": {
+        "message": "By",
+        "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
+    },
+    "tag:addr:country": {
+        "message": "Land",
+        "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
+    },
+    "tag:addr:full": {
+        "message": "Full adresse",
+        "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
+    },
+    "tag:addr:housename": {
+        "message": "Husnavn",
+        "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
+    },
+    "tag:addr:housenumber": {
+        "message": "Husnummer",
+        "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
+    },
+    "tag:addr:interpolation": {
+        "message": "Interpolerte husnummer",
+        "description": "Key \"addr:interpolation\". See https://wiki.openstreetmap.org/wiki/Key:addr:interpolation"
+    },
+    "tag:addr:postcode": {
+        "message": "Postkode",
+        "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
+    },
+    "tag:addr:street": {
+        "message": "Gate",
+        "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
+    },
+    "tag:address": {
+        "message": "Adresse",
+        "description": "Key \"address\". See https://wiki.openstreetmap.org/wiki/Key:address"
+    },
+    "tag:admin_level": {
+        "message": "Offisiell administrasjonsnivå",
+        "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
+    },
+    "tag:admin_level=10": {
+        "message": "Landsby (10)",
+        "description": "Tag \"admin_level=10\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=10"
+    },
+    "tag:admin_level=11": {
+        "message": "Nabolag (11)",
+        "description": "Tag \"admin_level=11\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=11"
+    },
+    "tag:admin_level=2": {
+        "message": "Nasjonal grense (2)",
+        "description": "Tag \"admin_level=2\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=2"
+    },
+    "tag:admin_level=3": {
+        "message": "? (3)",
+        "description": "Tag \"admin_level=3\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=3"
+    },
+    "tag:admin_level=4": {
+        "message": "Statsgrense (4)",
+        "description": "Tag \"admin_level=4\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=4"
+    },
+    "tag:admin_level=5": {
+        "message": "(5)",
+        "description": "Tag \"admin_level=5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=5"
+    },
+    "tag:admin_level=6": {
+        "message": "Land (6)",
+        "description": "Tag \"admin_level=6\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=6"
+    },
+    "tag:admin_level=7": {
+        "message": "Kommuner (7)",
+        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
+    },
+    "tag:admin_level=8": {
+        "message": "Bygrenser (8)",
+        "description": "Tag \"admin_level=8\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=8"
+    },
+    "tag:admin_level=9": {
+        "message": "(9)",
+        "description": "Tag \"admin_level=9\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=9"
+    },
+    "tag:aerialway": {
+        "message": "Luftvei",
+        "description": "Key \"aerialway\". See https://wiki.openstreetmap.org/wiki/Key:aerialway"
+    }
+}
