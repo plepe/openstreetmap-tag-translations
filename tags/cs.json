@@ -14,7 +14,7 @@
         "description": "Key \"abutters\". See https://wiki.openstreetmap.org/wiki/Key:abutters"
     },
     "tag:access": {
-        "message": "Obecné přístupové oprávnění",
+        "message": "Obecné oprávnění k přístupu",
         "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
     },
     "tag:access!=private": {
@@ -41,7 +41,7 @@
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
-        "message": "Jméno domu",
+        "message": "Název domu",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
@@ -69,7 +69,7 @@
         "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
     },
     "tag:admin_level=10": {
-        "message": "Městká část (10)",
+        "message": "Městská část (10)",
         "description": "Tag \"admin_level=10\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=10"
     },
     "tag:admin_level=11": {
@@ -101,7 +101,7 @@
         "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=7.5": {
-        "message": "Katastr",
+        "message": "7,5",
         "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
     },
     "tag:admin_level=8": {
@@ -109,7 +109,7 @@
         "description": "Tag \"admin_level=8\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=8"
     },
     "tag:admin_level=9": {
-        "message": "sídlo",
+        "message": "(9)",
         "description": "Tag \"admin_level=9\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=9"
     },
     "tag:aerialway": {
@@ -161,19 +161,19 @@
         "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
     },
     "tag:amenity=bicycle_parking": {
-        "message": "parkoviště pro bicykly",
+        "message": "Parkoviště pro kola",
         "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
     },
     "tag:amenity=bicycle_parking capacity<=20": {
-        "message": "parkoviště pro bicykly (kapacita pod 20 míst)",
+        "message": "Parkoviště pro kola (do 20 míst)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>20<=60": {
-        "message": "parkoviště pro bicykly (20-60 míst)",
+        "message": "Parkoviště pro kola (20-60 míst)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>60": {
-        "message": "parkoviště pro bicykly (kapacita nad 60 míst)",
+        "message": "Parkoviště pro kola (nad 60 míst)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_rental": {
@@ -269,7 +269,7 @@
         "description": "Tag \"amenity=fast_food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fast_food"
     },
     "tag:amenity=ferry_terminal": {
-        "message": "Terminál trajektu",
+        "message": "Přístaviště trajektu",
         "description": "Tag \"amenity=ferry_terminal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ferry_terminal"
     },
     "tag:amenity=fire_station": {
@@ -889,7 +889,7 @@
         "description": "Tag \"building=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=sports_hall"
     },
     "tag:building=stable": {
-        "message": "Stáje",
+        "message": "Stáj",
         "description": "Tag \"building=stable\". See https://wiki.openstreetmap.org/wiki/Tag:building=stable"
     },
     "tag:building=stadium": {
@@ -1950,7 +1950,7 @@
         "description": "Tag \"cuisine=sausage\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=savory_pancakes": {
-        "message": "slané placky",
+        "message": "Zeleninové placky",
         "description": "Tag \"cuisine=savory_pancakes\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=seafood": {
@@ -2890,7 +2890,7 @@
         "description": "Key \"incline\". See https://wiki.openstreetmap.org/wiki/Key:incline"
     },
     "tag:information=audioguide": {
-        "message": "audio průvodce",
+        "message": "Hlasový průvodce",
         "description": "Tag \"information=audioguide\". See https://wiki.openstreetmap.org/wiki/Tag:information=audioguide"
     },
     "tag:information=board": {
@@ -6046,7 +6046,7 @@
         "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
     },
     "tag:building=agriculture": {
-        "message": "zemědělská budova",
+        "message": "Zemědělská budova",
         "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
     },
     "tag:climbing": {
