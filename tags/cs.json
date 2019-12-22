@@ -2222,7 +2222,7 @@
         "description": "Tag \"emergency=fire_hydrant\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant"
     },
     "tag:emergency=fire_hydrant fire_hydrant:type=pillar": {
-        "message": "Hydrant",
+        "message": "Nadzemní Hydrant",
         "description": "Combined tag \"emergency=fire_hydrant\" and \"fire_hydrant:type=pillar\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant and https://wiki.openstreetmap.org/wiki/Tag:fire_hydrant:type=pillar"
     },
     "tag:emergency=fire_hydrant fire_hydrant:type=underground": {
@@ -2250,7 +2250,7 @@
         "description": "Tag \"entrance=exit\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=exit"
     },
     "tag:entrance=garage": {
-        "message": "Garáž",
+        "message": "Garážová vrata",
         "description": "Tag \"entrance=garage\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=garage"
     },
     "tag:entrance=home": {
@@ -2306,7 +2306,7 @@
         "description": "Key \"food\". See https://wiki.openstreetmap.org/wiki/Key:food"
     },
     "tag:foot": {
-        "message": "Pěší povoleno",
+        "message": "Pěším vstup povolen",
         "description": "Key \"foot\". See https://wiki.openstreetmap.org/wiki/Key:foot"
     },
     "tag:ford": {
@@ -2334,19 +2334,19 @@
         "description": "Key \"generator:source\". See https://wiki.openstreetmap.org/wiki/Key:generator:source"
     },
     "tag:generator:source=biofuel": {
-        "message": "zdroj biopalivo",
+        "message": "Biopalivo",
         "description": "Tag \"generator:source=biofuel\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biofuel"
     },
     "tag:generator:source=biogas": {
-        "message": "zdroj bioplyn",
+        "message": "Bioplyn",
         "description": "Tag \"generator:source=biogas\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biogas"
     },
     "tag:generator:source=biomass": {
-        "message": "biomasa",
+        "message": "Biomasa",
         "description": "Tag \"generator:source=biomass\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biomass"
     },
     "tag:generator:source=diesel": {
-        "message": "diesel",
+        "message": "Diesel",
         "description": "Tag \"generator:source=diesel\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=diesel"
     },
     "tag:generator:source=gas": {
@@ -2382,7 +2382,7 @@
         "description": "Tag \"generator:source=tidal\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=tidal"
     },
     "tag:generator:source=waste": {
-        "message": "odpadová energie",
+        "message": "energie z odpadu",
         "description": "Tag \"generator:source=waste\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=waste"
     },
     "tag:generator:source=wave": {
@@ -2398,7 +2398,7 @@
         "description": "Key \"geological\". See https://wiki.openstreetmap.org/wiki/Key:geological"
     },
     "tag:goods": {
-        "message": "Lehká užitkové vozy povoleny",
+        "message": "Lehké užitkové vozy povoleny",
         "description": "Key \"goods\". See https://wiki.openstreetmap.org/wiki/Key:goods"
     },
     "tag:healthcare=alternative": {
