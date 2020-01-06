@@ -111,5 +111,129 @@
     "tag:aerialway": {
         "message": "Luftvei",
         "description": "Key \"aerialway\". See https://wiki.openstreetmap.org/wiki/Key:aerialway"
+    },
+    "tag:amenity=brothel": {
+        "message": "Bordell",
+        "description": "Tag \"amenity=brothel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=brothel"
+    },
+    "tag:amenity=bus_station": {
+        "message": "Busstasjon",
+        "description": "Tag \"amenity=bus_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bus_station"
+    },
+    "tag:amenity=cafe": {
+        "message": "Kafé",
+        "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
+    },
+    "tag:amenity=charging_station": {
+        "message": "Ladestasjon",
+        "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
+    },
+    "tag:amenity=childcare": {
+        "message": "Barnepass",
+        "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
+    },
+    "tag:amenity=cinema": {
+        "message": "Kino",
+        "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
+    },
+    "tag:amenity=clock": {
+        "message": "Klokke",
+        "description": "Tag \"amenity=clock\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clock"
+    },
+    "tag:amenity=college": {
+        "message": "Kollegium",
+        "description": "Tag \"amenity=college\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=college"
+    },
+    "tag:amenity=crematorium": {
+        "message": "Krematorium",
+        "description": "Tag \"amenity=crematorium\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=crematorium"
+    },
+    "tag:amenity=dentist": {
+        "message": "Tannlege",
+        "description": "Tag \"amenity=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=dentist"
+    },
+    "tag:amenity=drinking_water": {
+        "message": "Drikkevann",
+        "description": "Tag \"amenity=drinking_water\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=drinking_water"
+    },
+    "tag:amenity=embassy": {
+        "message": "Ambassade",
+        "description": "Tag \"amenity=embassy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=embassy"
+    },
+    "tag:amenity=fast_food": {
+        "message": "Hurtigmat-restaurant",
+        "description": "Tag \"amenity=fast_food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fast_food"
+    },
+    "tag:amenity=fire_station": {
+        "message": "Brannstasjon",
+        "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
+    },
+    "tag:amenity=hospital": {
+        "message": "Sykehus",
+        "description": "Tag \"amenity=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=hospital"
+    },
+    "tag:amenity=nursing_home": {
+        "message": "Omsorgshjem",
+        "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
+    },
+    "tag:amenity=pharmacy": {
+        "message": "Apotek",
+        "description": "Tag \"amenity=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pharmacy"
+    },
+    "tag:amenity=place_of_worship": {
+        "message": "Bedested",
+        "description": "Tag \"amenity=place_of_worship\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship"
+    },
+    "tag:amenity=police": {
+        "message": "Politi",
+        "description": "Tag \"amenity=police\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=police"
+    },
+    "tag:amenity=post_box": {
+        "message": "Postboks",
+        "description": "Tag \"amenity=post_box\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_box"
+    },
+    "tag:amenity=post_office": {
+        "message": "Postkontor",
+        "description": "Tag \"amenity=post_office\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_office"
+    },
+    "tag:amenity=pub": {
+        "message": "Pub",
+        "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
+    },
+    "tag:amenity=public_bath": {
+        "message": "Offentlig badeplass",
+        "description": "Tag \"amenity=public_bath\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bath"
+    },
+    "tag:amenity=recycling": {
+        "message": "Resirkulering",
+        "description": "Tag \"amenity=recycling\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=recycling"
+    },
+    "tag:amenity=recycling recycling_type=centre": {
+        "message": "Gjenvinningsstasjon",
+        "description": "Tag \"recycling_type=centre\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=centre"
+    },
+    "tag:amenity=recycling recycling_type=container": {
+        "message": "Container",
+        "description": "Tag \"recycling_type=container\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=container"
+    },
+    "tag:amenity=restaurant": {
+        "message": "Restaurant",
+        "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
+    },
+    "tag:amenity=school": {
+        "message": "Skole",
+        "description": "Tag \"amenity=school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=school"
+    },
+    "tag:amenity=shower": {
+        "message": "Dusj",
+        "description": "Tag \"amenity=shower\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shower"
+    },
+    "tag:amenity=telephone": {
+        "message": "Telefon",
+        "description": "Tag \"amenity=telephone\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=telephone"
+    },
+    "tag:amenity=toilets": {
+        "message": "Toaletter",
+        "description": "Tag \"amenity=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets"
     }
 }
