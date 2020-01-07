@@ -235,5 +235,390 @@
     "tag:amenity=toilets": {
         "message": "Toaletter",
         "description": "Tag \"amenity=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets"
+    },
+    "tag:aeroway": {
+        "message": "Luftvei",
+        "description": "Key \"aeroway\". See https://wiki.openstreetmap.org/wiki/Key:aeroway"
+    },
+    "tag:aeroway=runway": {
+        "message": "Rullebane",
+        "description": "Tag \"aeroway=runway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=runway"
+    },
+    "tag:aeroway=taxiway": {
+        "message": "Taksebane",
+        "description": "Tag \"aeroway=taxiway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=taxiway"
+    },
+    "tag:alt_name": {
+        "message": "Alternativt navn",
+        "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
+    },
+    "tag:amenity": {
+        "message": "Tjeneste",
+        "description": "Key \"amenity\". See https://wiki.openstreetmap.org/wiki/Key:amenity"
+    },
+    "tag:amenity=arts_centre": {
+        "message": "Kunstsenter",
+        "description": "Tag \"amenity=arts_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=arts_centre"
+    },
+    "tag:amenity=atm": {
+        "message": "ATM  Minibank",
+        "description": "Tag \"amenity=atm\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=atm"
+    },
+    "tag:amenity=baby_hatch": {
+        "message": "Babyboks",
+        "description": "Tag \"amenity=baby_hatch\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=baby_hatch"
+    },
+    "tag:amenity=bank": {
+        "message": "Bank",
+        "description": "Tag \"amenity=bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bank"
+    },
+    "tag:amenity=bar": {
+        "message": "Bar",
+        "description": "Tag \"amenity=bar\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bar"
+    },
+    "tag:amenity=bench": {
+        "message": "Benk",
+        "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
+    },
+    "tag:amenity=bicycle_parking": {
+        "message": "Sykkelparkering",
+        "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
+    },
+    "tag:amenity=bicycle_parking capacity<=20": {
+        "message": "Sykkelparkering (opp til 20 plasser)",
+        "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
+    },
+    "tag:amenity=bicycle_parking capacity>20<=60": {
+        "message": "Sykkelparkering (20-60 plasser)",
+        "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
+    },
+    "tag:amenity=bicycle_parking capacity>60": {
+        "message": "Sykkelparkering (>60 plasser)",
+        "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
+    },
+    "tag:amenity=bicycle_rental": {
+        "message": "Sykkelutleie",
+        "description": "Tag \"amenity=bicycle_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_rental"
+    },
+    "tag:amenity=bureau_de_change": {
+        "message": "Valutaveksling",
+        "description": "Tag \"amenity=bureau_de_change\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bureau_de_change"
+    },
+    "tag:amenity=car_rental": {
+        "message": "Bilutleie",
+        "description": "Tag \"amenity=car_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_rental"
+    },
+    "tag:amenity=car_sharing": {
+        "message": "Bildeling",
+        "description": "Tag \"amenity=car_sharing\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_sharing"
+    },
+    "tag:amenity=car_wash": {
+        "message": "Bilvask",
+        "description": "Tag \"amenity=car_wash\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_wash"
+    },
+    "tag:amenity=clinic": {
+        "message": "Klinikk",
+        "description": "Tag \"amenity=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clinic"
+    },
+    "tag:amenity=community_centre": {
+        "message": "Samfunnssenter",
+        "description": "Tag \"amenity=community_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=community_centre"
+    },
+    "tag:amenity=compressed_air": {
+        "message": "Trykkluft",
+        "description": "Tag \"amenity=compressed_air\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=compressed_air"
+    },
+    "tag:amenity=courthouse": {
+        "message": "Tinghus",
+        "description": "Tag \"amenity=courthouse\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=courthouse"
+    },
+    "tag:amenity=doctors": {
+        "message": "Doktorer",
+        "description": "Tag \"amenity=doctors\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=doctors"
+    },
+    "tag:amenity=ferry_terminal": {
+        "message": "Ferjeterminal",
+        "description": "Tag \"amenity=ferry_terminal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ferry_terminal"
+    },
+    "tag:amenity=food_court": {
+        "message": "Mathall",
+        "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
+    },
+    "tag:amenity=fountain": {
+        "message": "Fontene",
+        "description": "Tag \"amenity=fountain\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fountain"
+    },
+    "tag:amenity=fuel": {
+        "message": "Drivstoff",
+        "description": "Tag \"amenity=fuel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fuel"
+    },
+    "tag:amenity=government": {
+        "message": "Statelig",
+        "description": "Tag \"amenity=government\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=government"
+    },
+    "tag:amenity=grave_yard": {
+        "message": "Kirkegård",
+        "description": "Tag \"amenity=grave_yard\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=grave_yard"
+    },
+    "tag:amenity=ice_cream": {
+        "message": "Iskrem",
+        "description": "Tag \"amenity=ice_cream\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ice_cream"
+    },
+    "tag:amenity=internet_cafe": {
+        "message": "Internettkafé",
+        "description": "Tag \"amenity=internet_cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=internet_cafe"
+    },
+    "tag:amenity=kindergarten": {
+        "message": "Barnehage",
+        "description": "Tag \"amenity=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=kindergarten"
+    },
+    "tag:amenity=language_school": {
+        "message": "Språkskole",
+        "description": "Tag \"amenity=language_school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=language_school"
+    },
+    "tag:amenity=library": {
+        "message": "Bibliotek",
+        "description": "Tag \"amenity=library\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=library"
+    },
+    "tag:amenity=marketplace": {
+        "message": "Markedsplass",
+        "description": "Tag \"amenity=marketplace\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=marketplace"
+    },
+    "tag:amenity=motorcycle_parking": {
+        "message": "Motorsykkelparkering",
+        "description": "Tag \"amenity=motorcycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=motorcycle_parking"
+    },
+    "tag:amenity=parking": {
+        "message": "Parkering",
+        "description": "Tag \"amenity=parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parking"
+    },
+    "tag:amenity=public_bookcase": {
+        "message": "Offentlig bokhylle",
+        "description": "Tag \"amenity=public_bookcase\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bookcase"
+    },
+    "tag:amenity=public_building": {
+        "message": "Offentlig bygning",
+        "description": "Tag \"amenity=public_building\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_building"
+    },
+    "tag:amenity=shelter": {
+        "message": "Husly",
+        "description": "Tag \"amenity=shelter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shelter"
+    },
+    "tag:amenity=signpost": {
+        "message": "Skilt",
+        "description": "Tag \"amenity=signpost\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=signpost"
+    },
+    "tag:amenity=social_facility": {
+        "message": "Sosialfasiliteter",
+        "description": "Tag \"amenity=social_facility\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=social_facility"
+    },
+    "tag:amenity=studio": {
+        "message": "Mediastudio",
+        "description": "Tag \"amenity=studio\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=studio"
+    },
+    "tag:amenity=taxi": {
+        "message": "Taxi",
+        "description": "Tag \"amenity=taxi\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=taxi"
+    },
+    "tag:amenity=theatre": {
+        "message": "Teater",
+        "description": "Tag \"amenity=theatre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=theatre"
+    },
+    "tag:amenity=university": {
+        "message": "Universitet",
+        "description": "Tag \"amenity=university\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=university"
+    },
+    "tag:architect": {
+        "message": "Arkitekt",
+        "description": "Key \"architect\". See https://wiki.openstreetmap.org/wiki/Key:architect"
+    },
+    "tag:area": {
+        "message": "Område",
+        "description": "Key \"area\". See https://wiki.openstreetmap.org/wiki/Key:area"
+    },
+    "tag:artist": {
+        "message": "Artist",
+        "description": "Key \"artist\". See https://wiki.openstreetmap.org/wiki/Key:artist"
+    },
+    "tag:artist_name": {
+        "message": "Artist",
+        "description": "Key \"artist_name\". See https://wiki.openstreetmap.org/wiki/Key:artist_name"
+    },
+    "tag:barrier": {
+        "message": "Barriere",
+        "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
+    },
+    "tag:barrier=city_wall": {
+        "message": "Bymur",
+        "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
+    },
+    "tag:barrier=fence": {
+        "message": "Gjerde",
+        "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
+    },
+    "tag:barrier=hedge": {
+        "message": "Hekk",
+        "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
+    },
+    "tag:barrier=retaining_wall": {
+        "message": "Støttemur",
+        "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
+    },
+    "tag:barrier=wall": {
+        "message": "Mur",
+        "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
+    },
+    "tag:bicycle": {
+        "message": "Sykkeltilgangstillatelse",
+        "description": "Key \"bicycle\". See https://wiki.openstreetmap.org/wiki/Key:bicycle"
+    },
+    "tag:boundary": {
+        "message": "Grense",
+        "description": "Key \"boundary\". See https://wiki.openstreetmap.org/wiki/Key:boundary"
+    },
+    "tag:brand": {
+        "message": "Merke",
+        "description": "Key \"brand\". See https://wiki.openstreetmap.org/wiki/Key:brand"
+    },
+    "tag:bridge": {
+        "message": "Bro",
+        "description": "Key \"bridge\". See https://wiki.openstreetmap.org/wiki/Key:bridge"
+    },
+    "tag:building": {
+        "message": "Bygning",
+        "description": "Key \"building\". See https://wiki.openstreetmap.org/wiki/Key:building"
+    },
+    "tag:building:levels": {
+        "message": "etasjer",
+        "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
+    },
+    "tag:building=agriculture": {
+        "message": "Jordbruksbygning",
+        "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
+    },
+    "tag:building=cathedral": {
+        "message": "Katedral",
+        "description": "Tag \"building=cathedral\". See https://wiki.openstreetmap.org/wiki/Tag:building=cathedral"
+    },
+    "tag:building=chapel": {
+        "message": "Kapell",
+        "description": "Tag \"building=chapel\". See https://wiki.openstreetmap.org/wiki/Tag:building=chapel"
+    },
+    "tag:building=church": {
+        "message": "Kirke",
+        "description": "Tag \"building=church\". See https://wiki.openstreetmap.org/wiki/Tag:building=church"
+    },
+    "tag:building=church religion=christian": {
+        "message": "Kirke",
+        "description": "Combined tag \"building=church\" and \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:building=church and https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
+    },
+    "tag:building=hotel": {
+        "message": "Hotell",
+        "description": "Tag \"building=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:building=hotel"
+    },
+    "tag:building=military": {
+        "message": "Militært",
+        "description": "Tag \"building=military\". See https://wiki.openstreetmap.org/wiki/Tag:building=military"
+    },
+    "tag:building=mosque": {
+        "message": "Moské",
+        "description": "Tag \"building=mosque\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque"
+    },
+    "tag:building=mosque religion=muslim": {
+        "message": "Moské",
+        "description": "Combined tag \"building=mosque\" and \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque and https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
+    },
+    "tag:building=pavilion": {
+        "message": "Sportspaviljong",
+        "description": "Tag \"building=pavilion\". See https://wiki.openstreetmap.org/wiki/Tag:building=pavilion"
+    },
+    "tag:building=religious": {
+        "message": "Religiøs bygning",
+        "description": "Tag \"building=religious\". See https://wiki.openstreetmap.org/wiki/Tag:building=religious"
+    },
+    "tag:building=riding_hall": {
+        "message": "Ridehall",
+        "description": "Tag \"building=riding_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=riding_hall"
+    },
+    "tag:building=roof": {
+        "message": "Tak",
+        "description": "Tag \"building=roof\". See https://wiki.openstreetmap.org/wiki/Tag:building=roof"
+    },
+    "tag:building=shed": {
+        "message": "Skur",
+        "description": "Tag \"building=shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=shed"
+    },
+    "tag:building=stable": {
+        "message": "Stall",
+        "description": "Tag \"building=stable\". See https://wiki.openstreetmap.org/wiki/Tag:building=stable"
+    },
+    "tag:building=synagogue": {
+        "message": "Synagoge",
+        "description": "Tag \"building=synagogue\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue"
+    },
+    "tag:building=synagogue religion=jewish": {
+        "message": "Synagoge",
+        "description": "Combined tag \"building=synagogue\" and \"religion=jewish\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue and https://wiki.openstreetmap.org/wiki/Tag:religion=jewish"
+    },
+    "tag:building=temple": {
+        "message": "Tempel",
+        "description": "Tag \"building=temple\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple"
+    },
+    "tag:building=temple religion=sikh": {
+        "message": "Sikh-tempel",
+        "description": "Combined tag \"building=temple\" and \"religion=sikh\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple and https://wiki.openstreetmap.org/wiki/Tag:religion=sikh"
+    },
+    "tag:cables": {
+        "message": "Kabler",
+        "description": "Key \"cables\". See https://wiki.openstreetmap.org/wiki/Key:cables"
+    },
+    "tag:charge": {
+        "message": "Avgift",
+        "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
+    },
+    "tag:climbing": {
+        "message": "Klatring",
+        "description": "Key \"climbing\". See https://wiki.openstreetmap.org/wiki/Key:climbing"
+    },
+    "tag:clothes": {
+        "message": "Klær",
+        "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:construction": {
+        "message": "Konstruksjon",
+        "description": "Key \"construction\". See https://wiki.openstreetmap.org/wiki/Key:construction"
+    },
+    "tag:covered": {
+        "message": "Tildekket",
+        "description": "Key \"covered\". See https://wiki.openstreetmap.org/wiki/Key:covered"
+    },
+    "tag:craft": {
+        "message": "Håndverk",
+        "description": "Key \"craft\". See https://wiki.openstreetmap.org/wiki/Key:craft"
+    },
+    "tag:created_by": {
+        "message": "Laget av",
+        "description": "Key \"created_by\". See https://wiki.openstreetmap.org/wiki/Key:created_by"
+    },
+    "tag:cuisine": {
+        "message": "Matrett",
+        "description": "Key \"cuisine\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine/dessert": {
+        "message": "Matrett (dessert)"
+    },
+    "tag:cuisine/ethnicity": {
+        "message": "Matrett (etnisitet)"
+    },
+    "tag:cuisine/food": {
+        "message": "Matrett (mat)"
+    },
+    "tag:cuisine=kebab": {
+        "message": "Kebab",
+        "description": "Tag \"cuisine=kebab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=regional": {
+        "message": "regional",
+        "description": "Tag \"cuisine=regional\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     }
 }
