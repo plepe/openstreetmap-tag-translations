@@ -1,1 +1,40 @@
-{}
+{
+    "tag:*=no": {
+        "message": "hayır"
+    },
+    "tag:*=yes": {
+        "message": "evet"
+    },
+    "tag:accomodation": {
+        "message": "Konaklama",
+        "description": "Key \"accomodation\". See https://wiki.openstreetmap.org/wiki/Key:accomodation"
+    },
+    "tag:addr:country": {
+        "message": "Ülke",
+        "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
+    },
+    "tag:addr:full": {
+        "message": "Tam adres",
+        "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
+    },
+    "tag:addr:street": {
+        "message": "Sokak",
+        "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
+    },
+    "tag:address": {
+        "message": "Adres",
+        "description": "Key \"address\". See https://wiki.openstreetmap.org/wiki/Key:address"
+    },
+    "tag:admin_level=6": {
+        "message": "Ülkeler (6)",
+        "description": "Tag \"admin_level=6\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=6"
+    },
+    "tag:admin_level=7": {
+        "message": "(7)",
+        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
+    },
+    "tag:aeroway=runway": {
+        "message": "Uçak Pisti",
+        "description": "Tag \"aeroway=runway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=runway"
+    }
+}
