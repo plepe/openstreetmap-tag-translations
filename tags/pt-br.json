@@ -89,7 +89,7 @@
         "description": "Tag \"admin_level=4\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=4"
     },
     "tag:admin_level=5": {
-        "message": "Mesorregião (5)",
+        "message": "Região Intermediária (5)",
         "description": "Tag \"admin_level=5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=5"
     },
     "tag:admin_level=6": {
@@ -97,7 +97,7 @@
         "description": "Tag \"admin_level=6\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=6"
     },
     "tag:admin_level=7": {
-        "message": "Microrregião (7)",
+        "message": "Região Imediata (7)",
         "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=7.5": {
@@ -989,15 +989,15 @@
         "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=accessories": {
-        "message": "",
+        "message": "Accessórios",
         "description": "Tag \"clothes=accessories\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=babies": {
-        "message": "Tag \"clothes=babies\". Vejo https://wiki.openstreetmap.org/wiki/Key:clothes",
+        "message": "Bebês",
         "description": "Tag \"clothes=babies\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=brand": {
-        "message": "",
+        "message": "Grife",
         "description": "Tag \"clothes=brand\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=bridal": {
@@ -1005,11 +1005,11 @@
         "description": "Tag \"clothes=bridal\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=children": {
-        "message": "",
+        "message": "Infantil",
         "description": "Tag \"clothes=children\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=costumes": {
-        "message": "",
+        "message": "Fantasias",
         "description": "Tag \"clothes=costumes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=denim": {
@@ -1025,11 +1025,11 @@
         "description": "Tag \"clothes=fur\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=hats": {
-        "message": "",
+        "message": "Chapéus",
         "description": "Tag \"clothes=hats\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=leather": {
-        "message": "",
+        "message": "Couro",
         "description": "Tag \"clothes=leather\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=lingerie": {
@@ -1041,15 +1041,15 @@
         "description": "Tag \"clothes=maternity\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=men": {
-        "message": "",
+        "message": "Masculina",
         "description": "Tag \"clothes=men\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=military": {
-        "message": "",
+        "message": "Militar",
         "description": "Tag \"clothes=military\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=motorcycle": {
-        "message": "",
+        "message": "Motociclista",
         "description": "Tag \"clothes=motorcycle\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=oversize": {
@@ -1057,11 +1057,11 @@
         "description": "Tag \"clothes=oversize\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=schoolwear": {
-        "message": "",
+        "message": "Escolar",
         "description": "Tag \"clothes=schoolwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=sports": {
-        "message": "",
+        "message": "Esportiva",
         "description": "Tag \"clothes=sports\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=suits": {
@@ -1069,7 +1069,7 @@
         "description": "Tag \"clothes=suits\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=swimwear": {
-        "message": "",
+        "message": "Natação",
         "description": "Tag \"clothes=swimwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=traditional": {
@@ -1089,15 +1089,15 @@
         "description": "Tag \"clothes=vintage\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=wedding": {
-        "message": "",
+        "message": "Casamento",
         "description": "Tag \"clothes=wedding\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=women": {
-        "message": "",
+        "message": "Feminina",
         "description": "Tag \"clothes=women\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=workwear": {
-        "message": "",
+        "message": "Funcional",
         "description": "Tag \"clothes=workwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:community_centre=club_home": {
@@ -1281,7 +1281,7 @@
         "description": "Tag \"craft=floorer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=floorer"
     },
     "tag:craft=furniture": {
-        "message": "",
+        "message": "Marceneiro",
         "description": "Tag \"craft=furniture\". See https://wiki.openstreetmap.org/wiki/Tag:craft=furniture"
     },
     "tag:craft=gardener": {
@@ -1606,7 +1606,7 @@
         "description": "Tag \"cuisine=bagel\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=baiana": {
-        "message": "",
+        "message": "baiana",
         "description": "Tag \"cuisine=baiana\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=balkan": {
@@ -1674,7 +1674,7 @@
         "description": "Tag \"cuisine=casserole\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chicken": {
-        "message": "",
+        "message": "frango",
         "description": "Tag \"cuisine=chicken\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chimney_cake": {
@@ -1758,7 +1758,7 @@
         "description": "Tag \"cuisine=frozen_yogurt\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=gaucho": {
-        "message": "",
+        "message": "gaúcha",
         "description": "Tag \"cuisine=gaucho\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=german": {
@@ -3874,7 +3874,7 @@
         "description": "Tag \"natural=saddle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=saddle"
     },
     "tag:natural=sand": {
-        "message": "",
+        "message": "Areia",
         "description": "Tag \"natural=sand\". See https://wiki.openstreetmap.org/wiki/Tag:natural=sand"
     },
     "tag:natural=scree": {
@@ -3886,7 +3886,7 @@
         "description": "Tag \"natural=scrub\". See https://wiki.openstreetmap.org/wiki/Tag:natural=scrub"
     },
     "tag:natural=shingle": {
-        "message": "",
+        "message": "Praia de pedrinhas",
         "description": "Tag \"natural=shingle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=shingle"
     },
     "tag:natural=sinkhole": {
@@ -4142,7 +4142,7 @@
         "description": "Tag \"office=surveyor\". See https://wiki.openstreetmap.org/wiki/Tag:office=surveyor"
     },
     "tag:office=tax": {
-        "message": "",
+        "message": "Receita",
         "description": "Tag \"office=tax\". See https://wiki.openstreetmap.org/wiki/Tag:office=tax"
     },
     "tag:office=tax_advisor": {
@@ -4154,7 +4154,7 @@
         "description": "Tag \"office=telecommunication\". See https://wiki.openstreetmap.org/wiki/Tag:office=telecommunication"
     },
     "tag:office=therapist": {
-        "message": "",
+        "message": "Terapista",
         "description": "Tag \"office=therapist\". See https://wiki.openstreetmap.org/wiki/Tag:office=therapist"
     },
     "tag:office=tourism": {
@@ -6140,5 +6140,25 @@
     "tag:climbing": {
         "message": "Escalada",
         "description": "Key \"climbing\". See https://wiki.openstreetmap.org/wiki/Key:climbing"
+    },
+    "tag:leisure=pitch sport=soccer": {
+        "message": "Campo de futebol",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=soccer\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=soccer"
+    },
+    "tag:leisure=sports_hall": {
+        "message": "Ginásio de esportes",
+        "description": "Tag \"leisure=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sports_hall"
+    },
+    "tag:sport=futsal": {
+        "message": "Futsal",
+        "description": "Tag \"sport=futsal\". See https://wiki.openstreetmap.org/wiki/Tag:sport=futsal"
+    },
+    "tag:sport=handball": {
+        "message": "Handebol",
+        "description": "Tag \"sport=handball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=handball"
+    },
+    "tag:sport=scuba_diving": {
+        "message": "Mergulho",
+        "description": "Tag \"sport=scuba_diving\". See https://wiki.openstreetmap.org/wiki/Tag:sport=scuba_diving"
     }
 }
