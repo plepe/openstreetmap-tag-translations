@@ -2676,5 +2676,45 @@
     "tag:tourism=aquarium": {
         "message": "Aquari",
         "description": "Tag \"tourism=aquarium\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=aquarium"
+    },
+    "tag:amenity=childcare": {
+        "message": "Gardariá",
+        "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
+    },
+    "tag:climbing:trad": {
+        "message": "Escalada tradicionala",
+        "description": "Key \"climbing:trad\". See https://wiki.openstreetmap.org/wiki/Key:climbing:trad"
+    },
+    "tag:cuisine=profiterole": {
+        "message": "profiteròlas",
+        "description": "Tag \"cuisine=profiterole\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cycleway=lane": {
+        "message": "Benda ciclabla",
+        "description": "Tag \"cycleway=lane\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=lane"
+    },
+    "tag:cycleway=track": {
+        "message": "Pista ciclabla",
+        "description": "Tag \"cycleway=track\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=track"
+    },
+    "tag:direction": {
+        "message": "Orientacion",
+        "description": "Key \"direction\". See https://wiki.openstreetmap.org/wiki/Key:direction"
+    },
+    "tag:generator:source=biofuel": {
+        "message": "biocarburant",
+        "description": "Tag \"generator:source=biofuel\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biofuel"
+    },
+    "tag:generator:source=biogas": {
+        "message": "biogas",
+        "description": "Tag \"generator:source=biogas\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biogas"
+    },
+    "tag:generator:source=biomass": {
+        "message": "biomassa",
+        "description": "Tag \"generator:source=biomass\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biomass"
+    },
+    "tag:highway=minor": {
+        "message": "Rota segondària",
+        "description": "Tag \"highway=minor\". See https://wiki.openstreetmap.org/wiki/Tag:highway=minor"
     }
 }
