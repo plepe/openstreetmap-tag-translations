@@ -5661,6 +5661,10 @@
         "message": "",
         "description": "Tag \"shop=wine\". See https://wiki.openstreetmap.org/wiki/Tag:shop=wine"
     },
+    "tag:sidewalk": {
+        "message": "Sidewalk",
+        "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
+    },
     "tag:smoking": {
         "message": "",
         "description": "Key \"smoking\". See https://wiki.openstreetmap.org/wiki/Key:smoking"
