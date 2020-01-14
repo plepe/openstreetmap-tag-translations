@@ -2161,6 +2161,14 @@
         "message": "Bike Box",
         "description": "Tag \"cycleway=bike_box;asl\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=bike_box;asl"
     },
+    "tag:cycleway=lane": {
+        "message": "Cycle lane",
+        "description": "Tag \"cycleway=lane\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=lane"
+    },
+    "tag:cycleway=track": {
+        "message": "Cycle track",
+        "description": "Tag \"cycleway=track\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=track"
+    },
     "tag:denomination": {
         "message": "Denomination",
         "description": "Key \"denomination\". See https://wiki.openstreetmap.org/wiki/Key:denomination"
@@ -4404,6 +4412,42 @@
     "tag:operator": {
         "message": "Operator",
         "description": "Key \"operator\". See https://wiki.openstreetmap.org/wiki/Key:operator"
+    },
+    "tag:parking:lane": {
+        "message": "Parking lane",
+        "description": "Key \"parking:lane\". See https://wiki.openstreetmap.org/wiki/Key:parking:lane"
+    },
+    "tag:parking:lane=diagonal": {
+        "message": "diagonal parking",
+        "description": "Tag \"parking:lane=diagonal\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=diagonal"
+    },
+    "tag:parking:lane=fire_lane": {
+        "message": "must be kept clear for fire engines",
+        "description": "Tag \"parking:lane=fire_lane\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=fire_lane"
+    },
+    "tag:parking:lane=marked": {
+        "message": "individually marked parking spaces",
+        "description": "Tag \"parking:lane=marked\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=marked"
+    },
+    "tag:parking:lane=no": {
+        "message": "no",
+        "description": "Tag \"parking:lane=no\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no"
+    },
+    "tag:parking:lane=no_parking": {
+        "message": "loading only",
+        "description": "Tag \"parking:lane=no_parking\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no_parking"
+    },
+    "tag:parking:lane=no_stopping": {
+        "message": "No parking and stopping allowed",
+        "description": "Tag \"parking:lane=no_stopping\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no_stopping"
+    },
+    "tag:parking:lane=parallel": {
+        "message": "parallel parking",
+        "description": "Tag \"parking:lane=parallel\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=parallel"
+    },
+    "tag:parking:lane=perpendicular": {
+        "message": "perpendicular parking",
+        "description": "Tag \"parking:lane=perpendicular\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=perpendicular"
     },
     "tag:payment": {
         "message": "",
