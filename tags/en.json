@@ -6456,5 +6456,9 @@
     "tag:xmas:feature=tree": {
         "message": "Christmas tree",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:year_of_construction": {
+        "message": "Construction period",
+        "description": "Key \"year_of_construction\". See https://wiki.openstreetmap.org/wiki/Key:year_of_construction"
     }
 }
