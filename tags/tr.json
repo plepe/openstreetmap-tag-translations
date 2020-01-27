@@ -36,5 +36,21 @@
     "tag:aeroway=runway": {
         "message": "Uçak Pisti",
         "description": "Tag \"aeroway=runway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=runway"
+    },
+    "tag:addr:city": {
+        "message": "Şehir",
+        "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
+    },
+    "tag:addr:postcode": {
+        "message": "Posta Kodu",
+        "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
+    },
+    "tag:admin_level=3": {
+        "message": "? (3)",
+        "description": "Tag \"admin_level=3\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=3"
+    },
+    "tag:admin_level=8": {
+        "message": "Belediye (8)",
+        "description": "Tag \"admin_level=8\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=8"
     }
 }
