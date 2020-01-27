@@ -6,7 +6,7 @@
         "message": "да"
     },
     "tag:abandoned": {
-        "message": "",
+        "message": "Покинут.",
         "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
     },
     "tag:abutters": {
@@ -18,7 +18,7 @@
         "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
     },
     "tag:access!=private": {
-        "message": ""
+        "message": "нечастный"
     },
     "tag:access=private": {
         "message": "частный",
@@ -65,7 +65,7 @@
         "description": "Key \"address\". See https://wiki.openstreetmap.org/wiki/Key:address"
     },
     "tag:admin_level": {
-        "message": "",
+        "message": "Уровень административной единицы",
         "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
     },
     "tag:admin_level=10": {
