@@ -53,7 +53,7 @@
         "description": "Key \"addr:interpolation\". See https://wiki.openstreetmap.org/wiki/Key:addr:interpolation"
     },
     "tag:addr:postcode": {
-        "message": "Cod postal",
+        "message": "Cod poștal",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
@@ -93,7 +93,7 @@
         "description": "Tag \"admin_level=5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=5"
     },
     "tag:admin_level=6": {
-        "message": "",
+        "message": "Județe (6)",
         "description": "Tag \"admin_level=6\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=6"
     },
     "tag:admin_level=7": {
