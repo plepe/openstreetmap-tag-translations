@@ -3689,6 +3689,10 @@
         "message": "Max. speed",
         "description": "Key \"maxspeed\". See https://wiki.openstreetmap.org/wiki/Key:maxspeed"
     },
+    "tag:maxspeed=walk": {
+        "message": "walking speed",
+        "description": "Tag \"maxspeed=walk\". See https://wiki.openstreetmap.org/wiki/Tag:maxspeed=walk"
+    },
     "tag:maxweight": {
         "message": "Max. weight",
         "description": "Key \"maxweight\". See https://wiki.openstreetmap.org/wiki/Key:maxweight"
