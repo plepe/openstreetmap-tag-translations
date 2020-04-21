@@ -577,7 +577,7 @@
         "description": "Key \"bath:type\". See https://wiki.openstreetmap.org/wiki/Key:bath:type"
     },
     "tag:bath:type=hammam": {
-        "message": "",
+        "message": "Hammam",
         "description": "Tag \"bath:type=hammam\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hammam"
     },
     "tag:bath:type=hot_spring": {
@@ -977,7 +977,7 @@
         "description": "Key \"capacity\". See https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:charge": {
-        "message": "",
+        "message": "Díj",
         "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
     },
     "tag:clothes": {
@@ -3126,7 +3126,7 @@
         "description": "Tag \"leisure=common\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=common"
     },
     "tag:leisure=dance": {
-        "message": "Tánc",
+        "message": "Táncterem",
         "description": "Tag \"leisure=dance\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=dance"
     },
     "tag:leisure=dog_park": {
@@ -3138,7 +3138,7 @@
         "description": "Tag \"leisure=firepit\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=firepit"
     },
     "tag:leisure=fishing": {
-        "message": "Horgászat",
+        "message": "Horgászhely",
         "description": "Tag \"leisure=fishing\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=fishing"
     },
     "tag:leisure=fitness_centre": {
@@ -3226,7 +3226,7 @@
         "description": "Tag \"leisure=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=stadium"
     },
     "tag:leisure=summer_camp": {
-        "message": "Nyáritábor-hely",
+        "message": "Nyáritáborhely",
         "description": "Tag \"leisure=summer_camp\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=summer_camp"
     },
     "tag:leisure=swimming_area": {
@@ -6048,5 +6048,13 @@
     "tag:xmas:feature=tree": {
         "message": "Karácsonyfa",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:amenity=childcare": {
+        "message": "Bölcsőde",
+        "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
+    },
+    "tag:climbing": {
+        "message": "Sziklamászás",
+        "description": "Key \"climbing\". See https://wiki.openstreetmap.org/wiki/Key:climbing"
     }
 }
