@@ -481,15 +481,15 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=news_papers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=news_papers"
     },
     "tag:amenity=vending_machine vending=parcel_mail_in": {
-        "message": "",
+        "message": "Caixa de correio para pacotes",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_mail_in"
     },
     "tag:amenity=vending_machine vending=parcel_pickup": {
-        "message": "",
+        "message": "Coleta de encomendas",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_pickup\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_pickup"
     },
     "tag:amenity=vending_machine vending=parcel_pickup;parcel_mail_in": {
-        "message": "",
+        "message": "Caixa de correio para pacotes e coleta de encomendas",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_pickup;parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_pickup;parcel_mail_in"
     },
     "tag:amenity=vending_machine vending=parking_tickets": {
@@ -829,7 +829,7 @@
         "description": "Tag \"building=parking\". See https://wiki.openstreetmap.org/wiki/Tag:building=parking"
     },
     "tag:building=pavilion": {
-        "message": "Pavilhão",
+        "message": "Edifício de apoio esportivo",
         "description": "Tag \"building=pavilion\". See https://wiki.openstreetmap.org/wiki/Tag:building=pavilion"
     },
     "tag:building=public": {
@@ -873,7 +873,7 @@
         "description": "Tag \"building=service\". See https://wiki.openstreetmap.org/wiki/Tag:building=service"
     },
     "tag:building=shed": {
-        "message": "Galpão",
+        "message": "Barracão",
         "description": "Tag \"building=shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=shed"
     },
     "tag:building=shop": {
@@ -1021,7 +1021,7 @@
         "description": "Tag \"clothes=fashion\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=fur": {
-        "message": "",
+        "message": "Peles",
         "description": "Tag \"clothes=fur\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=hats": {
@@ -2522,7 +2522,7 @@
         "description": "Tag \"healthcare=laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=laboratory"
     },
     "tag:healthcare=midwife": {
-        "message": "",
+        "message": "Parteira",
         "description": "Tag \"healthcare=midwife\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=midwife"
     },
     "tag:healthcare=nutrition_counseling": {
@@ -3870,7 +3870,7 @@
         "description": "Tag \"natural=rock\". See https://wiki.openstreetmap.org/wiki/Tag:natural=rock"
     },
     "tag:natural=saddle": {
-        "message": "",
+        "message": "Passo de montanha",
         "description": "Tag \"natural=saddle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=saddle"
     },
     "tag:natural=sand": {
@@ -3990,7 +3990,7 @@
         "description": "Tag \"office=administration\". See https://wiki.openstreetmap.org/wiki/Tag:office=administration"
     },
     "tag:office=adoption_agency": {
-        "message": "",
+        "message": "Agência de adoção",
         "description": "Tag \"office=adoption_agency\". See https://wiki.openstreetmap.org/wiki/Tag:office=adoption_agency"
     },
     "tag:office=advertising_agency": {
@@ -5118,7 +5118,7 @@
         "description": "Tag \"shop=erotic\". See https://wiki.openstreetmap.org/wiki/Tag:shop=erotic"
     },
     "tag:shop=estate_agent": {
-        "message": "",
+        "message": "Stand de vendas de imóveis",
         "description": "Tag \"shop=estate_agent\". See https://wiki.openstreetmap.org/wiki/Tag:shop=estate_agent"
     },
     "tag:shop=fabric": {
@@ -5462,7 +5462,7 @@
         "description": "Tag \"sport=9pin\". See https://wiki.openstreetmap.org/wiki/Tag:sport=9pin"
     },
     "tag:sport=american_football": {
-        "message": "",
+        "message": "Futebol americano",
         "description": "Tag \"sport=american_football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=american_football"
     },
     "tag:sport=archery": {
@@ -5478,7 +5478,7 @@
         "description": "Tag \"sport=australian_football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=australian_football"
     },
     "tag:sport=badminton": {
-        "message": "",
+        "message": "Badminton",
         "description": "Tag \"sport=badminton\". See https://wiki.openstreetmap.org/wiki/Tag:sport=badminton"
     },
     "tag:sport=baseball": {
@@ -5494,11 +5494,11 @@
         "description": "Tag \"sport=beachvolleyball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=beachvolleyball"
     },
     "tag:sport=billiards": {
-        "message": "",
+        "message": "Bilhar",
         "description": "Tag \"sport=billiards\". See https://wiki.openstreetmap.org/wiki/Tag:sport=billiards"
     },
     "tag:sport=bmx": {
-        "message": "",
+        "message": "BMX",
         "description": "Tag \"sport=bmx\". See https://wiki.openstreetmap.org/wiki/Tag:sport=bmx"
     },
     "tag:sport=boules": {
@@ -5510,7 +5510,7 @@
         "description": "Tag \"sport=bowls\". See https://wiki.openstreetmap.org/wiki/Tag:sport=bowls"
     },
     "tag:sport=canadian_football": {
-        "message": "",
+        "message": "Futebol canadense",
         "description": "Tag \"sport=canadian_football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=canadian_football"
     },
     "tag:sport=canoe": {
@@ -5742,15 +5742,15 @@
         "description": "Tag \"theatre:genre=chamber_music\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=chamber_music"
     },
     "tag:theatre:genre=circus": {
-        "message": "",
+        "message": "Circense",
         "description": "Tag \"theatre:genre=circus\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=circus"
     },
     "tag:theatre:genre=comedy": {
-        "message": "",
+        "message": "Comédia",
         "description": "Tag \"theatre:genre=comedy\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=comedy"
     },
     "tag:theatre:genre=drama": {
-        "message": "",
+        "message": "Drama",
         "description": "Tag \"theatre:genre=drama\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=drama"
     },
     "tag:theatre:genre=figure": {
@@ -5758,27 +5758,27 @@
         "description": "Tag \"theatre:genre=figure\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=figure"
     },
     "tag:theatre:genre=marionette": {
-        "message": "",
+        "message": "Marionete",
         "description": "Tag \"theatre:genre=marionette\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=marionette"
     },
     "tag:theatre:genre=musical": {
-        "message": "",
+        "message": "Musical",
         "description": "Tag \"theatre:genre=musical\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=musical"
     },
     "tag:theatre:genre=opera": {
-        "message": "",
+        "message": "Ópera",
         "description": "Tag \"theatre:genre=opera\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=opera"
     },
     "tag:theatre:genre=philharmonic": {
-        "message": "",
+        "message": "Filarmônica",
         "description": "Tag \"theatre:genre=philharmonic\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=philharmonic"
     },
     "tag:theatre:genre=political": {
-        "message": "",
+        "message": "Político",
         "description": "Tag \"theatre:genre=political\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=political"
     },
     "tag:theatre:genre=puppet": {
-        "message": "",
+        "message": "Fantoche",
         "description": "Tag \"theatre:genre=puppet\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=puppet"
     },
     "tag:theatre:genre=shadow_play": {
@@ -6160,5 +6160,37 @@
     "tag:sport=scuba_diving": {
         "message": "Mergulho",
         "description": "Tag \"sport=scuba_diving\". See https://wiki.openstreetmap.org/wiki/Tag:sport=scuba_diving"
+    },
+    "tag:leisure=pitch sport=basketball": {
+        "message": "Quadra de basquete",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=basketball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=basketball"
+    },
+    "tag:leisure=pitch sport=beachvolleyball": {
+        "message": "Quadra de vôlei de praia",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=beachvolleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=beachvolleyball"
+    },
+    "tag:leisure=pitch sport=equestrian": {
+        "message": "Arena de Equitação",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=equestrian\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=equestrian"
+    },
+    "tag:leisure=pitch sport=skateboard": {
+        "message": "Pista de skate",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=skateboard\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=skateboard"
+    },
+    "tag:sidewalk": {
+        "message": "Calçada",
+        "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
+    },
+    "tag:sport=boxing": {
+        "message": "Boxe",
+        "description": "Tag \"sport=boxing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=boxing"
+    },
+    "tag:sport=bullfighting": {
+        "message": "Tourada",
+        "description": "Tag \"sport=bullfighting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=bullfighting"
+    },
+    "tag:year_of_construction": {
+        "message": "Período de construção",
+        "description": "Key \"year_of_construction\". See https://wiki.openstreetmap.org/wiki/Key:year_of_construction"
     }
 }
