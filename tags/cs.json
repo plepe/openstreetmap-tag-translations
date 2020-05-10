@@ -6408,5 +6408,61 @@
     "tag:via_ferrata_scale": {
         "message": "Stupně na ferratové cestě",
         "description": "Key \"via_ferrata_scale\". See https://wiki.openstreetmap.org/wiki/Key:via_ferrata_scale"
+    },
+    "tag:cycleway=lane": {
+        "message": "Cyklopruh",
+        "description": "Tag \"cycleway=lane\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=lane"
+    },
+    "tag:cycleway=track": {
+        "message": "Pruh pro cyklisty",
+        "description": "Tag \"cycleway=track\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=track"
+    },
+    "tag:maxspeed=walk": {
+        "message": "rychlost chůze",
+        "description": "Tag \"maxspeed=walk\". See https://wiki.openstreetmap.org/wiki/Tag:maxspeed=walk"
+    },
+    "tag:parking:lane": {
+        "message": "Parkovací ulička",
+        "description": "Key \"parking:lane\". See https://wiki.openstreetmap.org/wiki/Key:parking:lane"
+    },
+    "tag:parking:lane=diagonal": {
+        "message": "příčné parkování",
+        "description": "Tag \"parking:lane=diagonal\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=diagonal"
+    },
+    "tag:parking:lane=fire_lane": {
+        "message": "musí být udržovány volné pro průjezd hasičů",
+        "description": "Tag \"parking:lane=fire_lane\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=fire_lane"
+    },
+    "tag:parking:lane=marked": {
+        "message": "jednotlivě označená parkovací místa",
+        "description": "Tag \"parking:lane=marked\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=marked"
+    },
+    "tag:parking:lane=no": {
+        "message": "ne",
+        "description": "Tag \"parking:lane=no\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no"
+    },
+    "tag:parking:lane=no_parking": {
+        "message": "pouze nastupování",
+        "description": "Tag \"parking:lane=no_parking\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no_parking"
+    },
+    "tag:parking:lane=no_stopping": {
+        "message": "Zákaz parkování a zastavení",
+        "description": "Tag \"parking:lane=no_stopping\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no_stopping"
+    },
+    "tag:parking:lane=parallel": {
+        "message": "souběžné parkování",
+        "description": "Tag \"parking:lane=parallel\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=parallel"
+    },
+    "tag:parking:lane=perpendicular": {
+        "message": "kolmé parkování",
+        "description": "Tag \"parking:lane=perpendicular\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=perpendicular"
+    },
+    "tag:sidewalk": {
+        "message": "Chodník",
+        "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
+    },
+    "tag:year_of_construction": {
+        "message": "Doba výstavby",
+        "description": "Key \"year_of_construction\". See https://wiki.openstreetmap.org/wiki/Key:year_of_construction"
     }
 }
