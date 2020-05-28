@@ -3485,6 +3485,10 @@
         "message": "Höchstgeschwindigkeit",
         "description": "Key \"maxspeed\". See https://wiki.openstreetmap.org/wiki/Key:maxspeed"
     },
+    "tag:maxspeed=none": {
+        "message": "keine Beschränkung",
+        "description": "Tag \"maxspeed=none\". See https://wiki.openstreetmap.org/wiki/Key:maxspeed"
+    },
     "tag:maxspeed=walk": {
         "message": "Schrittgeschwindigkeit",
         "description": "Tag \"maxspeed=walk\". See https://wiki.openstreetmap.org/wiki/Tag:maxspeed=walk"
