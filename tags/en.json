@@ -120,6 +120,46 @@
         "message": "Aeroway",
         "description": "Key \"aeroway\". See https://wiki.openstreetmap.org/wiki/Key:aeroway"
     },
+    "tag:aeroway=aerodrome": {
+        "message": "Aerodrome",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome"
+    },
+    "tag:aeroway=aerodrome aerodrome:type=airfield": {
+        "message": "Small airfield",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome and https://wiki.openstreetmap.org/wiki/Tag%3Aaerodrome%3Atype%3Dairfield"
+    },
+    "tag:aeroway=aerodrome aerodrome:type=gliding": {
+        "message": "Gliding airfield",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome and https://wiki.openstreetmap.org/wiki/Tag%3Aaerodrome%3Atype%3Dgliding"
+    },
+    "tag:aeroway=aerodrome aerodrome:type=international": {
+        "message": "International airport",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome and https://wiki.openstreetmap.org/wiki/Tag%3Aaerodrome%3Atype%3Dinternational"
+    },
+    "tag:aeroway=aerodrome aerodrome:type=private": {
+        "message": "Private airfield",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome and https://wiki.openstreetmap.org/wiki/Tag%3Aaerodrome%3Atype%3Dprivate"
+    },
+    "tag:aeroway=aerodrome aerodrome:type=public": {
+        "message": "Public airport",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome and https://wiki.openstreetmap.org/wiki/Tag%3Aaerodrome%3Atype%3Dpublic"
+    },
+    "tag:aeroway=aerodrome aerodrome:type=regional": {
+        "message": "Regional airfield",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome and https://wiki.openstreetmap.org/wiki/Tag%3Aaerodrome%3Atype%3Dregional"
+    },
+    "tag:aeroway=aerodrome military=airfield": {
+        "message": "Military airfield",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome and https://wiki.openstreetmap.org/wiki/Tag%3Aaerodrome%3Atype%3Dpublic"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "Airstrip",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:aeroway=heliport": {
+        "message": "Heliport",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
     "tag:aeroway=runway": {
         "message": "Runway",
         "description": "Tag \"aeroway=runway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=runway"
