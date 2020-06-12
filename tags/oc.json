@@ -2716,5 +2716,49 @@
     "tag:highway=minor": {
         "message": "Rota segondària",
         "description": "Tag \"highway=minor\". See https://wiki.openstreetmap.org/wiki/Tag:highway=minor"
+    },
+    "tag:aeroway=aerodrome": {
+        "message": "Aerodròm",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome"
+    },
+    "tag:aeroway=heliport": {
+        "message": "Elipòrt",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:cuisine=savory_pancakes": {
+        "message": "Crespèus salats",
+        "description": "Tag \"cuisine=savory_pancakes\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:flood_date": {
+        "message": "Data de la venguda deis aigas",
+        "description": "Key \"flood_date\". See https://wiki.openstreetmap.org/wiki/Key:flood_date"
+    },
+    "tag:geological": {
+        "message": "Geologia",
+        "description": "Key \"geological\". See https://wiki.openstreetmap.org/wiki/Key:geological"
+    },
+    "tag:healthcare=psychotherapist": {
+        "message": "Psicoterapeuta",
+        "description": "Tag \"healthcare=psychotherapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=psychotherapist"
+    },
+    "tag:hgv": {
+        "message": "Camion",
+        "description": "Key \"hgv\". See https://wiki.openstreetmap.org/wiki/Key:hgv"
+    },
+    "tag:highway=footway": {
+        "message": "Draiòu",
+        "description": "Tag \"highway=footway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=footway"
+    },
+    "tag:highway=pedestrian": {
+        "message": "Espaci pedonier",
+        "description": "Tag \"highway=pedestrian\". See https://wiki.openstreetmap.org/wiki/Tag:highway=pedestrian"
+    },
+    "tag:highway=residential": {
+        "message": "Carriera",
+        "description": "Tag \"highway=residential\". See https://wiki.openstreetmap.org/wiki/Tag:highway=residential"
+    },
+    "tag:highway=track": {
+        "message": "Camin",
+        "description": "Tag \"highway=track\". See https://wiki.openstreetmap.org/wiki/Tag:highway=track"
     }
 }
