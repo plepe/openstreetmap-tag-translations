@@ -3197,6 +3197,10 @@
         "message": "Park",
         "description": "Tag \"leisure=park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=park"
     },
+    "tag:leisure=parklet": {
+        "message": "Parklet",
+        "description": "Tag \"leisure=parklet\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=parklet"
+    },
     "tag:leisure=picnic_table": {
         "message": "Picknicktisch",
         "description": "Tag \"leisure=picnic_table\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=picnic_table"
