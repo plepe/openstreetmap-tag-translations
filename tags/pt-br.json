@@ -1001,7 +1001,7 @@
         "description": "Tag \"clothes=brand\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=bridal": {
-        "message": "",
+        "message": "Nupcial",
         "description": "Tag \"clothes=bridal\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=children": {
@@ -1013,7 +1013,7 @@
         "description": "Tag \"clothes=costumes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=denim": {
-        "message": "",
+        "message": "Jeans",
         "description": "Tag \"clothes=denim\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=fashion": {
@@ -1033,11 +1033,11 @@
         "description": "Tag \"clothes=leather\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=lingerie": {
-        "message": "",
+        "message": "Lingerie",
         "description": "Tag \"clothes=lingerie\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=maternity": {
-        "message": "",
+        "message": "Maternidade",
         "description": "Tag \"clothes=maternity\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=men": {
@@ -1053,7 +1053,7 @@
         "description": "Tag \"clothes=motorcycle\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=oversize": {
-        "message": "",
+        "message": "Tamanho grande",
         "description": "Tag \"clothes=oversize\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=schoolwear": {
@@ -1357,7 +1357,7 @@
         "description": "Tag \"craft=locksmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=locksmith"
     },
     "tag:craft=luthier": {
-        "message": "",
+        "message": "Violeiro",
         "description": "Tag \"craft=luthier\". See https://wiki.openstreetmap.org/wiki/Tag:craft=luthier"
     },
     "tag:craft=mason": {
@@ -5678,7 +5678,7 @@
         "description": "Tag \"sport=soccer\". See https://wiki.openstreetmap.org/wiki/Tag:sport=soccer"
     },
     "tag:sport=surfing": {
-        "message": "",
+        "message": "Surfe",
         "description": "Tag \"sport=surfing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=surfing"
     },
     "tag:sport=swimming": {
@@ -5702,7 +5702,7 @@
         "description": "Tag \"sport=volleyball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=volleyball"
     },
     "tag:sport=weightlifting": {
-        "message": "",
+        "message": "Levantamento de peso",
         "description": "Tag \"sport=weightlifting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=weightlifting"
     },
     "tag:start_date": {
@@ -5734,11 +5734,11 @@
         "description": "Tag \"theatre:genre=boulevard\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=boulevard"
     },
     "tag:theatre:genre=cabaret": {
-        "message": "",
+        "message": "Cabaré",
         "description": "Tag \"theatre:genre=cabaret\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=cabaret"
     },
     "tag:theatre:genre=chamber_music": {
-        "message": "",
+        "message": "Música de câmara",
         "description": "Tag \"theatre:genre=chamber_music\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=chamber_music"
     },
     "tag:theatre:genre=circus": {
@@ -6192,5 +6192,61 @@
     "tag:year_of_construction": {
         "message": "Período de construção",
         "description": "Key \"year_of_construction\". See https://wiki.openstreetmap.org/wiki/Key:year_of_construction"
+    },
+    "tag:aeroway=aerodrome": {
+        "message": "Aeródromo",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "Pista de aterrissagem",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:aeroway=heliport": {
+        "message": "Heliporto",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:parking:lane": {
+        "message": "Estacionamento",
+        "description": "Key \"parking:lane\". See https://wiki.openstreetmap.org/wiki/Key:parking:lane"
+    },
+    "tag:parking:lane=diagonal": {
+        "message": "na diagonal",
+        "description": "Tag \"parking:lane=diagonal\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=diagonal"
+    },
+    "tag:parking:lane=fire_lane": {
+        "message": "deixar livre para veículos de combate a incêndios",
+        "description": "Tag \"parking:lane=fire_lane\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=fire_lane"
+    },
+    "tag:parking:lane=marked": {
+        "message": "vagas demarcadas",
+        "description": "Tag \"parking:lane=marked\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=marked"
+    },
+    "tag:parking:lane=no": {
+        "message": "não",
+        "description": "Tag \"parking:lane=no\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no"
+    },
+    "tag:parking:lane=no_parking": {
+        "message": "proibido estacionar",
+        "description": "Tag \"parking:lane=no_parking\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no_parking"
+    },
+    "tag:parking:lane=no_stopping": {
+        "message": "proibido parar e estacionar",
+        "description": "Tag \"parking:lane=no_stopping\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no_stopping"
+    },
+    "tag:parking:lane=parallel": {
+        "message": "em paralelo",
+        "description": "Tag \"parking:lane=parallel\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=parallel"
+    },
+    "tag:parking:lane=perpendicular": {
+        "message": "na perpendicular",
+        "description": "Tag \"parking:lane=perpendicular\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=perpendicular"
+    },
+    "tag:sport=paintball": {
+        "message": "Paintball",
+        "description": "Tag \"sport=paintball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=paintball"
+    },
+    "tag:sport=trampoline": {
+        "message": "Trampolim",
+        "description": "Tag \"sport=trampoline\". See https://wiki.openstreetmap.org/wiki/Tag:sport=trampoline"
     }
 }
