@@ -3202,7 +3202,7 @@
         "description": "Tag \"landuse=basin\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=basin"
     },
     "tag:landuse=brownfield": {
-        "message": "",
+        "message": "Brownfield",
         "description": "Tag \"landuse=brownfield\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=brownfield"
     },
     "tag:landuse=cemetery": {
@@ -3234,7 +3234,7 @@
         "description": "Tag \"landuse=grass\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=grass"
     },
     "tag:landuse=greenfield": {
-        "message": "",
+        "message": "Greenfield",
         "description": "Tag \"landuse=greenfield\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=greenfield"
     },
     "tag:landuse=greenhouse_horticulture": {
