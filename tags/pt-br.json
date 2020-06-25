@@ -3614,11 +3614,11 @@
         "description": "Tag \"military=range\". See https://wiki.openstreetmap.org/wiki/Tag:military=range"
     },
     "tag:military=training_area": {
-        "message": "",
+        "message": "Área de treinamento militar",
         "description": "Tag \"military=training_area\". See https://wiki.openstreetmap.org/wiki/Tag:military=training_area"
     },
     "tag:military=trench": {
-        "message": "",
+        "message": "Trincheira",
         "description": "Tag \"military=trench\". See https://wiki.openstreetmap.org/wiki/Tag:military=trench"
     },
     "tag:military=yes": {
@@ -4146,7 +4146,7 @@
         "description": "Tag \"office=tax\". See https://wiki.openstreetmap.org/wiki/Tag:office=tax"
     },
     "tag:office=tax_advisor": {
-        "message": "",
+        "message": "Escritório de assessoria fiscal",
         "description": "Tag \"office=tax_advisor\". See https://wiki.openstreetmap.org/wiki/Tag:office=tax_advisor"
     },
     "tag:office=telecommunication": {
@@ -4170,7 +4170,7 @@
         "description": "Tag \"office=travel_agent\". See https://wiki.openstreetmap.org/wiki/Tag:office=travel_agent"
     },
     "tag:office=vacant": {
-        "message": "",
+        "message": "Vago",
         "description": "Tag \"office=vacant\". See https://wiki.openstreetmap.org/wiki/Tag:office=vacant"
     },
     "tag:office=visa": {
@@ -5006,7 +5006,7 @@
         "description": "Tag \"shop=books\". See https://wiki.openstreetmap.org/wiki/Tag:shop=books"
     },
     "tag:shop=boutique": {
-        "message": "",
+        "message": "Loja de alta costura",
         "description": "Tag \"shop=boutique\". See https://wiki.openstreetmap.org/wiki/Tag:shop=boutique"
     },
     "tag:shop=butcher": {
@@ -5082,7 +5082,7 @@
         "description": "Tag \"shop=curtain\". See https://wiki.openstreetmap.org/wiki/Tag:shop=curtain"
     },
     "tag:shop=dairy": {
-        "message": "",
+        "message": "Loja de laticínios",
         "description": "Tag \"shop=dairy\". See https://wiki.openstreetmap.org/wiki/Tag:shop=dairy"
     },
     "tag:shop=deli": {
@@ -5102,7 +5102,7 @@
         "description": "Tag \"shop=dry_cleaning\". See https://wiki.openstreetmap.org/wiki/Tag:shop=dry_cleaning"
     },
     "tag:shop=e-cigarette": {
-        "message": "",
+        "message": "Cigarro eletrônico",
         "description": "Tag \"shop=e-cigarette\". See https://wiki.openstreetmap.org/wiki/Tag:shop=e-cigarette"
     },
     "tag:shop=electrical": {
@@ -5114,7 +5114,7 @@
         "description": "Tag \"shop=electronics\". See https://wiki.openstreetmap.org/wiki/Tag:shop=electronics"
     },
     "tag:shop=erotic": {
-        "message": "",
+        "message": "Sexshop",
         "description": "Tag \"shop=erotic\". See https://wiki.openstreetmap.org/wiki/Tag:shop=erotic"
     },
     "tag:shop=estate_agent": {
@@ -6248,5 +6248,25 @@
     "tag:sport=trampoline": {
         "message": "Trampolim",
         "description": "Tag \"sport=trampoline\". See https://wiki.openstreetmap.org/wiki/Tag:sport=trampoline"
+    },
+    "tag:leisure=pitch sport=american_football": {
+        "message": "Campo de futebol americano",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=american_football\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=american_football"
+    },
+    "tag:leisure=pitch sport=tennis": {
+        "message": "Quadra de tênis",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=tennis\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=tennis"
+    },
+    "tag:leisure=pitch sport=volleyball": {
+        "message": "Quadra de vôlei",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=volleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=volleyball"
+    },
+    "tag:maxspeed=none": {
+        "message": "sem limite",
+        "description": "Tag \"maxspeed=none\". See https://wiki.openstreetmap.org/wiki/Key:maxspeed"
+    },
+    "tag:maxspeed=walk": {
+        "message": "velocidade de pedestre",
+        "description": "Tag \"maxspeed=walk\". See https://wiki.openstreetmap.org/wiki/Tag:maxspeed=walk"
     }
 }
