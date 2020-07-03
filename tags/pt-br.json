@@ -1726,7 +1726,7 @@
         "description": "Tag \"cuisine=dessert\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=donut": {
-        "message": "",
+        "message": "donut",
         "description": "Tag \"cuisine=donut\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=empanada": {
@@ -1754,7 +1754,7 @@
         "description": "Tag \"cuisine=friture\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=frozen_yogurt": {
-        "message": "",
+        "message": "iogurte gelado",
         "description": "Tag \"cuisine=frozen_yogurt\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=gaucho": {
@@ -1762,11 +1762,11 @@
         "description": "Tag \"cuisine=gaucho\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=german": {
-        "message": "",
+        "message": "alemã",
         "description": "Tag \"cuisine=german\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=gingerbread": {
-        "message": "",
+        "message": "pão de gengibre",
         "description": "Tag \"cuisine=gingerbread\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=greek": {
@@ -1778,7 +1778,7 @@
         "description": "Tag \"cuisine=gyros\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=hawaiian": {
-        "message": "",
+        "message": "havaiana",
         "description": "Tag \"cuisine=hawaiian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=hunan": {
@@ -1802,7 +1802,7 @@
         "description": "Tag \"cuisine=international\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=iranian": {
-        "message": "",
+        "message": "iraniana",
         "description": "Tag \"cuisine=iranian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=italian": {
@@ -1814,7 +1814,7 @@
         "description": "Tag \"cuisine=japanese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=jewish": {
-        "message": "",
+        "message": "judia",
         "description": "Tag \"cuisine=jewish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=juice": {
@@ -1922,7 +1922,7 @@
         "description": "Tag \"cuisine=poppy_seed_roll\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=portuguese": {
-        "message": "",
+        "message": "portuguesa",
         "description": "Tag \"cuisine=portuguese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=profiterole": {
@@ -1998,19 +1998,19 @@
         "description": "Tag \"cuisine=sushi\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=tapas": {
-        "message": "",
+        "message": "tapas",
         "description": "Tag \"cuisine=tapas\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=teahouse": {
-        "message": "",
+        "message": "casa de chá",
         "description": "Tag \"cuisine=teahouse\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=tex-mex": {
-        "message": "",
+        "message": "tex-mex",
         "description": "Tag \"cuisine=tex-mex\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=texan": {
-        "message": "",
+        "message": "texana",
         "description": "Tag \"cuisine=texan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=thai": {
@@ -2034,7 +2034,7 @@
         "description": "Tag \"cuisine=vietnamese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=waffle": {
-        "message": "",
+        "message": "waffle",
         "description": "Tag \"cuisine=waffle\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=westphalian": {
@@ -2778,7 +2778,7 @@
         "description": "Tag \"historic:civilization=modern\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=modern"
     },
     "tag:historic:civilization=neolithic": {
-        "message": "",
+        "message": "neolítica",
         "description": "Tag \"historic:civilization=neolithic\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=neolithic"
     },
     "tag:historic:civilization=nuragic": {
@@ -2790,7 +2790,7 @@
         "description": "Tag \"historic:civilization=ottoman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=ottoman"
     },
     "tag:historic:civilization=prehistoric": {
-        "message": "",
+        "message": "pré-histórica",
         "description": "Tag \"historic:civilization=prehistoric\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=prehistoric"
     },
     "tag:historic:civilization=roman": {
@@ -6268,5 +6268,9 @@
     "tag:maxspeed=walk": {
         "message": "velocidade de pedestre",
         "description": "Tag \"maxspeed=walk\". See https://wiki.openstreetmap.org/wiki/Tag:maxspeed=walk"
+    },
+    "tag:leisure=parklet": {
+        "message": "Parklet",
+        "description": "Tag \"leisure=parklet\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=parklet"
     }
 }
