@@ -2714,11 +2714,11 @@
         "description": "Tag \"highway=track\". See https://wiki.openstreetmap.org/wiki/Tag:highway=track"
     },
     "tag:highway=trunk": {
-        "message": "Via expressa",
+        "message": "Via troncal",
         "description": "Tag \"highway=trunk\". See https://wiki.openstreetmap.org/wiki/Tag:highway=trunk"
     },
     "tag:highway=trunk_link": {
-        "message": "Ligação de via expressa",
+        "message": "Ligação de via troncal",
         "description": "Tag \"highway=trunk_link\". See https://wiki.openstreetmap.org/wiki/Tag:highway=trunk_link"
     },
     "tag:highway=unclassified": {
