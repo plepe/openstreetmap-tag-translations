@@ -2782,11 +2782,11 @@
         "description": "Tag \"historic:civilization=neolithic\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=neolithic"
     },
     "tag:historic:civilization=nuragic": {
-        "message": "",
+        "message": "nuráguica",
         "description": "Tag \"historic:civilization=nuragic\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=nuragic"
     },
     "tag:historic:civilization=ottoman": {
-        "message": "",
+        "message": "otomana",
         "description": "Tag \"historic:civilization=ottoman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=ottoman"
     },
     "tag:historic:civilization=prehistoric": {
@@ -2798,7 +2798,7 @@
         "description": "Tag \"historic:civilization=roman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=roman"
     },
     "tag:historic:civilization=western_roman": {
-        "message": "",
+        "message": "romana ocidental",
         "description": "Tag \"historic:civilization=western_roman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=western_roman"
     },
     "tag:historic=aircraft": {
@@ -5754,7 +5754,7 @@
         "description": "Tag \"theatre:genre=drama\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=drama"
     },
     "tag:theatre:genre=figure": {
-        "message": "",
+        "message": "Figuras",
         "description": "Tag \"theatre:genre=figure\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=figure"
     },
     "tag:theatre:genre=marionette": {
