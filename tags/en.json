@@ -213,7 +213,7 @@
         "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
     },
     "tag:amenity=car_rental": {
-        "message": "",
+        "message": "Car Rental",
         "description": "Tag \"amenity=car_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_rental"
     },
     "tag:amenity=car_sharing": {
@@ -221,7 +221,7 @@
         "description": "Tag \"amenity=car_sharing\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_sharing"
     },
     "tag:amenity=car_wash": {
-        "message": "",
+        "message": "Car Wash",
         "description": "Tag \"amenity=car_wash\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_wash"
     },
     "tag:amenity=charging_station": {
@@ -285,7 +285,7 @@
         "description": "Tag \"amenity=fast_food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fast_food"
     },
     "tag:amenity=ferry_terminal": {
-        "message": "",
+        "message": "Ferry Terminal",
         "description": "Tag \"amenity=ferry_terminal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ferry_terminal"
     },
     "tag:amenity=fire_station": {
@@ -297,11 +297,11 @@
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
-        "message": "",
+        "message": "Fountain",
         "description": "Tag \"amenity=fountain\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fountain"
     },
     "tag:amenity=fuel": {
-        "message": "",
+        "message": "Fuel Station",
         "description": "Tag \"amenity=fuel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fuel"
     },
     "tag:amenity=government": {
@@ -317,7 +317,7 @@
         "description": "Tag \"amenity=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=hospital"
     },
     "tag:amenity=ice_cream": {
-        "message": "",
+        "message": "Ice Cream",
         "description": "Tag \"amenity=ice_cream\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ice_cream"
     },
     "tag:amenity=internet_cafe": {
@@ -333,7 +333,7 @@
         "description": "Tag \"amenity=language_school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=language_school"
     },
     "tag:amenity=library": {
-        "message": "",
+        "message": "Library",
         "description": "Tag \"amenity=library\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=library"
     },
     "tag:amenity=marketplace": {
@@ -349,7 +349,7 @@
         "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
     },
     "tag:amenity=parking": {
-        "message": "",
+        "message": "Parking",
         "description": "Tag \"amenity=parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parking"
     },
     "tag:amenity=pharmacy": {
@@ -437,7 +437,7 @@
         "description": "Tag \"amenity=telephone\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=telephone"
     },
     "tag:amenity=theatre": {
-        "message": "",
+        "message": "Theatre",
         "description": "Tag \"amenity=theatre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=theatre"
     },
     "tag:amenity=ticket_counter": {
@@ -533,7 +533,7 @@
         "description": "Tag \"amenity=veterinary\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=veterinary"
     },
     "tag:amenity=waste_basket": {
-        "message": "",
+        "message": "Waste Basket",
         "description": "Tag \"amenity=waste_basket\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_basket"
     },
     "tag:amenity=waste_disposal": {
@@ -593,11 +593,11 @@
         "description": "Key \"bath:type\". See https://wiki.openstreetmap.org/wiki/Key:bath:type"
     },
     "tag:bath:type=hammam": {
-        "message": "",
+        "message": "Hammam",
         "description": "Tag \"bath:type=hammam\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hammam"
     },
     "tag:bath:type=hot_spring": {
-        "message": "",
+        "message": "Hot Spring",
         "description": "Tag \"bath:type=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hot_spring"
     },
     "tag:bath:type=lake": {
@@ -669,7 +669,7 @@
         "description": "Tag \"building=bungalow\". See https://wiki.openstreetmap.org/wiki/Tag:building=bungalow"
     },
     "tag:building=bunker": {
-        "message": "",
+        "message": "Bunker",
         "description": "Tag \"building=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:building=bunker"
     },
     "tag:building=cabin": {
@@ -773,11 +773,11 @@
         "description": "Tag \"building=greenhouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=greenhouse"
     },
     "tag:building=hangar": {
-        "message": "",
+        "message": "Hangar",
         "description": "Tag \"building=hangar\". See https://wiki.openstreetmap.org/wiki/Tag:building=hangar"
     },
     "tag:building=hospital": {
-        "message": "",
+        "message": "Hospital",
         "description": "Tag \"building=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:building=hospital"
     },
     "tag:building=hotel": {
@@ -805,7 +805,7 @@
         "description": "Tag \"building=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:building=kindergarten"
     },
     "tag:building=kiosk": {
-        "message": "",
+        "message": "Kiosk",
         "description": "Tag \"building=kiosk\". See https://wiki.openstreetmap.org/wiki/Tag:building=kiosk"
     },
     "tag:building=kitchen": {
@@ -1477,7 +1477,7 @@
         "description": "Tag \"craft=luthier\". See https://wiki.openstreetmap.org/wiki/Tag:craft=luthier"
     },
     "tag:craft=mason": {
-        "message": "",
+        "message": "Mason",
         "description": "Tag \"craft=mason\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mason"
     },
     "tag:craft=metal_construction": {
@@ -1505,7 +1505,7 @@
         "description": "Tag \"craft=musical_instrument\". See https://wiki.openstreetmap.org/wiki/Tag:craft=musical_instrument"
     },
     "tag:craft=optician": {
-        "message": "",
+        "message": "Optician",
         "description": "Tag \"craft=optician\". See https://wiki.openstreetmap.org/wiki/Tag:craft=optician"
     },
     "tag:craft=organ_builder": {
@@ -1513,7 +1513,7 @@
         "description": "Tag \"craft=organ_builder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=organ_builder"
     },
     "tag:craft=painter": {
-        "message": "",
+        "message": "Painter",
         "description": "Tag \"craft=painter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=painter"
     },
     "tag:craft=parquet_layer": {
@@ -1521,7 +1521,7 @@
         "description": "Tag \"craft=parquet_layer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=parquet_layer"
     },
     "tag:craft=paver": {
-        "message": "",
+        "message": "Paver",
         "description": "Tag \"craft=paver\". See https://wiki.openstreetmap.org/wiki/Tag:craft=paver"
     },
     "tag:craft=photo_studio": {
@@ -1529,23 +1529,23 @@
         "description": "Tag \"craft=photo_studio\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photo_studio"
     },
     "tag:craft=photographer": {
-        "message": "",
+        "message": "Photographer",
         "description": "Tag \"craft=photographer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photographer"
     },
     "tag:craft=photographic_laboratory": {
-        "message": "",
+        "message": "Photographic Laboratory",
         "description": "Tag \"craft=photographic_laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photographic_laboratory"
     },
     "tag:craft=piano_tuner": {
-        "message": "",
+        "message": "Piano Tuner",
         "description": "Tag \"craft=piano_tuner\". See https://wiki.openstreetmap.org/wiki/Tag:craft=piano_tuner"
     },
     "tag:craft=plasterer": {
-        "message": "",
+        "message": "Plasterer",
         "description": "Tag \"craft=plasterer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=plasterer"
     },
     "tag:craft=plumber": {
-        "message": "",
+        "message": "Plumber",
         "description": "Tag \"craft=plumber\". See https://wiki.openstreetmap.org/wiki/Tag:craft=plumber"
     },
     "tag:craft=pottery": {
@@ -1569,7 +1569,7 @@
         "description": "Tag \"craft=repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=repair"
     },
     "tag:craft=restoration": {
-        "message": "",
+        "message": "Restoration",
         "description": "Tag \"craft=restoration\". See https://wiki.openstreetmap.org/wiki/Tag:craft=restoration"
     },
     "tag:craft=rigger": {
@@ -1577,15 +1577,15 @@
         "description": "Tag \"craft=rigger\". See https://wiki.openstreetmap.org/wiki/Tag:craft=rigger"
     },
     "tag:craft=roofer": {
-        "message": "",
+        "message": "Roofer",
         "description": "Tag \"craft=roofer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=roofer"
     },
     "tag:craft=saddler": {
-        "message": "",
+        "message": "Saddler",
         "description": "Tag \"craft=saddler\". See https://wiki.openstreetmap.org/wiki/Tag:craft=saddler"
     },
     "tag:craft=sailmaker": {
-        "message": "",
+        "message": "Sailmaker",
         "description": "Tag \"craft=sailmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sailmaker"
     },
     "tag:craft=sawmill": {
@@ -1597,15 +1597,15 @@
         "description": "Tag \"craft=scaffolder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=scaffolder"
     },
     "tag:craft=sculptor": {
-        "message": "",
+        "message": "Sculptor",
         "description": "Tag \"craft=sculptor\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sculptor"
     },
     "tag:craft=shoe_repair": {
-        "message": "",
+        "message": "Shoe Repair",
         "description": "Tag \"craft=shoe_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=shoe_repair"
     },
     "tag:craft=shoemaker": {
-        "message": "",
+        "message": "Shoemaker",
         "description": "Tag \"craft=shoemaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=shoemaker"
     },
     "tag:craft=signmaker": {
@@ -1625,7 +1625,7 @@
         "description": "Tag \"craft=sun_protection\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sun_protection"
     },
     "tag:craft=tailor": {
-        "message": "",
+        "message": "Tailor",
         "description": "Tag \"craft=tailor\". See https://wiki.openstreetmap.org/wiki/Tag:craft=tailor"
     },
     "tag:craft=tiler": {
@@ -1633,7 +1633,7 @@
         "description": "Tag \"craft=tiler\". See https://wiki.openstreetmap.org/wiki/Tag:craft=tiler"
     },
     "tag:craft=tinsmith": {
-        "message": "",
+        "message": "Tinsmith",
         "description": "Tag \"craft=tinsmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=tinsmith"
     },
     "tag:craft=toolmaker": {
