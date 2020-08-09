@@ -6,7 +6,7 @@
         "message": "はい"
     },
     "tag:abandoned": {
-        "message": "",
+        "message": "放棄",
         "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
     },
     "tag:abutters": {
@@ -18,10 +18,10 @@
         "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
     },
     "tag:access!=private": {
-        "message": ""
+        "message": "非プライベート"
     },
     "tag:access=private": {
-        "message": "",
+        "message": "プライベート",
         "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
     },
     "tag:accomodation": {
@@ -30,22 +30,18 @@
     },
     "tag:addr:city": {
         "message": "都市",
-        "!=1": "都市",
         "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
     },
     "tag:addr:country": {
         "message": "国",
-        "!=1": "国",
         "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
     },
     "tag:addr:full": {
         "message": "住所",
-        "!=1": "住所",
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
         "message": "建物名",
-        "!=1": "建物名",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
@@ -58,12 +54,10 @@
     },
     "tag:addr:postcode": {
         "message": "郵便番号",
-        "!=1": "郵便番号",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
         "message": "通り名",
-        "!=1": "通り名",
         "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
     },
     "tag:address": {
@@ -71,7 +65,7 @@
         "description": "Key \"address\". See https://wiki.openstreetmap.org/wiki/Key:address"
     },
     "tag:admin_level": {
-        "message": "",
+        "message": "公式行政レベル",
         "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
     },
     "tag:admin_level=10": {
@@ -79,7 +73,7 @@
         "description": "Tag \"admin_level=10\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=10"
     },
     "tag:admin_level=11": {
-        "message": "",
+        "message": "小字/字/丁/丁目",
         "description": "Tag \"admin_level=11\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=11"
     },
     "tag:admin_level=2": {
@@ -103,7 +97,7 @@
         "description": "Tag \"admin_level=6\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=6"
     },
     "tag:admin_level=7": {
-        "message": "",
+        "message": "(7)",
         "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=7.5": {
@@ -115,7 +109,7 @@
         "description": "Tag \"admin_level=8\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=8"
     },
     "tag:admin_level=9": {
-        "message": "",
+        "message": "(9)",
         "description": "Tag \"admin_level=9\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=9"
     },
     "tag:aerialway": {
@@ -136,7 +130,6 @@
     },
     "tag:alt_name": {
         "message": "Alternative name",
-        "!=1": "別名",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
@@ -148,7 +141,7 @@
         "description": "Tag \"amenity=arts_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=arts_centre"
     },
     "tag:amenity=atm": {
-        "message": "",
+        "message": "ATM  現金自動預け払い機",
         "description": "Tag \"amenity=atm\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=atm"
     },
     "tag:amenity=baby_hatch": {
@@ -156,31 +149,31 @@
         "description": "Tag \"amenity=baby_hatch\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=baby_hatch"
     },
     "tag:amenity=bank": {
-        "message": "",
+        "message": "銀行",
         "description": "Tag \"amenity=bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bank"
     },
     "tag:amenity=bar": {
-        "message": "",
+        "message": "バー・スナック",
         "description": "Tag \"amenity=bar\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bar"
     },
     "tag:amenity=bench": {
-        "message": "",
+        "message": "ベンチ",
         "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
     },
     "tag:amenity=bicycle_parking": {
-        "message": "",
+        "message": "駐輪場",
         "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
     },
     "tag:amenity=bicycle_parking capacity<=20": {
-        "message": "",
+        "message": "駐輪場 (20台まで)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>20<=60": {
-        "message": "",
+        "message": "駐輪場 (20-60台)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>60": {
-        "message": "",
+        "message": "駐輪場 (>60台)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_rental": {
@@ -192,7 +185,7 @@
         "description": "Tag \"amenity=biergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=biergarten"
     },
     "tag:amenity=brothel": {
-        "message": "",
+        "message": "売春宿",
         "description": "Tag \"amenity=brothel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=brothel"
     },
     "tag:amenity=bureau_de_change": {
@@ -204,7 +197,7 @@
         "description": "Tag \"amenity=bus_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bus_station"
     },
     "tag:amenity=cafe": {
-        "message": "",
+        "message": "喫茶店",
         "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
     },
     "tag:amenity=car_rental": {
@@ -216,11 +209,11 @@
         "description": "Tag \"amenity=car_sharing\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_sharing"
     },
     "tag:amenity=car_wash": {
-        "message": "",
+        "message": "洗車場",
         "description": "Tag \"amenity=car_wash\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_wash"
     },
     "tag:amenity=charging_station": {
-        "message": "",
+        "message": "充電スタンド",
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
     "tag:amenity=cinema": {
@@ -272,7 +265,7 @@
         "description": "Tag \"amenity=embassy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=embassy"
     },
     "tag:amenity=fast_food": {
-        "message": "",
+        "message": "ファストフード",
         "description": "Tag \"amenity=fast_food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fast_food"
     },
     "tag:amenity=ferry_terminal": {
@@ -284,7 +277,7 @@
         "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
     },
     "tag:amenity=food_court": {
-        "message": "",
+        "message": "フードコート",
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
@@ -308,7 +301,7 @@
         "description": "Tag \"amenity=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=hospital"
     },
     "tag:amenity=ice_cream": {
-        "message": "",
+        "message": "アイスクリーム",
         "description": "Tag \"amenity=ice_cream\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ice_cream"
     },
     "tag:amenity=internet_cafe": {
@@ -336,7 +329,7 @@
         "description": "Tag \"amenity=motorcycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=motorcycle_parking"
     },
     "tag:amenity=nursing_home": {
-        "message": "",
+        "message": "介護福祉施設",
         "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
     },
     "tag:amenity=parking": {
@@ -348,7 +341,7 @@
         "description": "Tag \"amenity=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pharmacy"
     },
     "tag:amenity=place_of_worship": {
-        "message": "",
+        "message": "宗教施設",
         "description": "Tag \"amenity=place_of_worship\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship"
     },
     "tag:amenity=police": {
@@ -365,11 +358,10 @@
     },
     "tag:amenity=pub": {
         "message": "居酒屋",
-        "!=1": "居酒屋",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
-        "message": "",
+        "message": "公衆浴場",
         "description": "Tag \"amenity=public_bath\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bath"
     },
     "tag:amenity=public_bookcase": {
@@ -381,7 +373,7 @@
         "description": "Tag \"amenity=public_building\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_building"
     },
     "tag:amenity=recycling": {
-        "message": "",
+        "message": "リサイクル施設",
         "description": "Tag \"amenity=recycling\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=recycling"
     },
     "tag:amenity=recycling recycling_type=centre": {
@@ -389,7 +381,7 @@
         "description": "Tag \"recycling_type=centre\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=centre"
     },
     "tag:amenity=recycling recycling_type=container": {
-        "message": "",
+        "message": "リサイクル用の保管所",
         "description": "Tag \"recycling_type=container\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=container"
     },
     "tag:amenity=restaurant": {
@@ -405,7 +397,7 @@
         "description": "Tag \"amenity=shelter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shelter"
     },
     "tag:amenity=shower": {
-        "message": "",
+        "message": "シャワー",
         "description": "Tag \"amenity=shower\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shower"
     },
     "tag:amenity=signpost": {
@@ -441,7 +433,7 @@
         "description": "Tag \"amenity=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets"
     },
     "tag:amenity=toilets diaper=yes": {
-        "message": "",
+        "message": "トイレ（おむつ交換台あり）",
         "description": "Combined tag \"amenity=toilets\" and \"diaper=yes\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets and https://wiki.openstreetmap.org/wiki/Tag:diaper=yes"
     },
     "tag:amenity=townhall": {
@@ -449,7 +441,7 @@
         "description": "Tag \"amenity=townhall\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=townhall"
     },
     "tag:amenity=university": {
-        "message": "",
+        "message": "大学",
         "description": "Tag \"amenity=university\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=university"
     },
     "tag:amenity=vending_machine": {
@@ -457,7 +449,7 @@
         "description": "Tag \"amenity=vending_machine\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine"
     },
     "tag:amenity=vending_machine vending=bicycle_tube": {
-        "message": "",
+        "message": "自販機（自転車チューブ）",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=bicycle_tube\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=bicycle_tube"
     },
     "tag:amenity=vending_machine vending=cigarettes": {
@@ -525,7 +517,7 @@
         "description": "Tag \"amenity=veterinary\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=veterinary"
     },
     "tag:amenity=waste_basket": {
-        "message": "",
+        "message": "ごみ箱",
         "description": "Tag \"amenity=waste_basket\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_basket"
     },
     "tag:amenity=waste_disposal": {
@@ -537,7 +529,7 @@
         "description": "Tag \"amenity=waste_transfer_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_transfer_station"
     },
     "tag:architect": {
-        "message": "",
+        "message": "建築家",
         "description": "Key \"architect\". See https://wiki.openstreetmap.org/wiki/Key:architect"
     },
     "tag:area": {
@@ -545,41 +537,35 @@
         "description": "Key \"area\". See https://wiki.openstreetmap.org/wiki/Key:area"
     },
     "tag:artist": {
-        "message": "",
+        "message": "アーティスト",
         "description": "Key \"artist\". See https://wiki.openstreetmap.org/wiki/Key:artist"
     },
     "tag:artist_name": {
-        "message": "",
+        "message": "アーティスト名",
         "description": "Key \"artist_name\". See https://wiki.openstreetmap.org/wiki/Key:artist_name"
     },
     "tag:barrier": {
         "message": "バリア",
-        "!=1": "バリア",
         "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
     },
     "tag:barrier=city_wall": {
         "message": "都市城壁",
-        "!=1": "都市城壁",
         "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
     },
     "tag:barrier=fence": {
         "message": "柵",
-        "!=1": "柵",
         "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
     },
     "tag:barrier=hedge": {
         "message": "生垣",
-        "!=1": "生垣",
         "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
     },
     "tag:barrier=retaining_wall": {
         "message": "擁壁",
-        "!=1": "擁壁",
         "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
     },
     "tag:barrier=wall": {
         "message": "壁",
-        "!=1": "壁",
         "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
     },
     "tag:bath:open_air": {
@@ -591,11 +577,11 @@
         "description": "Key \"bath:type\". See https://wiki.openstreetmap.org/wiki/Key:bath:type"
     },
     "tag:bath:type=hammam": {
-        "message": "",
+        "message": "トルコ式浴場",
         "description": "Tag \"bath:type=hammam\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hammam"
     },
     "tag:bath:type=hot_spring": {
-        "message": "",
+        "message": "温泉",
         "description": "Tag \"bath:type=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hot_spring"
     },
     "tag:bath:type=lake": {
@@ -623,7 +609,7 @@
         "description": "Key \"boundary\". See https://wiki.openstreetmap.org/wiki/Key:boundary"
     },
     "tag:brand": {
-        "message": "",
+        "message": "ブランド",
         "description": "Key \"brand\". See https://wiki.openstreetmap.org/wiki/Key:brand"
     },
     "tag:bridge": {
@@ -631,11 +617,11 @@
         "description": "Key \"bridge\". See https://wiki.openstreetmap.org/wiki/Key:bridge"
     },
     "tag:building": {
-        "message": "",
+        "message": "建物",
         "description": "Key \"building\". See https://wiki.openstreetmap.org/wiki/Key:building"
     },
     "tag:building:levels": {
-        "message": "",
+        "message": "総階数",
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
     "tag:building=apartments": {
@@ -663,7 +649,7 @@
         "description": "Tag \"building=bungalow\". See https://wiki.openstreetmap.org/wiki/Tag:building=bungalow"
     },
     "tag:building=bunker": {
-        "message": "",
+        "message": "バンカー",
         "description": "Tag \"building=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:building=bunker"
     },
     "tag:building=cabin": {
@@ -675,19 +661,19 @@
         "description": "Tag \"building=carport\". See https://wiki.openstreetmap.org/wiki/Tag:building=carport"
     },
     "tag:building=cathedral": {
-        "message": "",
+        "message": "大聖堂（建物）",
         "description": "Tag \"building=cathedral\". See https://wiki.openstreetmap.org/wiki/Tag:building=cathedral"
     },
     "tag:building=chapel": {
-        "message": "",
+        "message": "礼拝堂（建物）",
         "description": "Tag \"building=chapel\". See https://wiki.openstreetmap.org/wiki/Tag:building=chapel"
     },
     "tag:building=church": {
-        "message": "",
+        "message": "教会（建物）",
         "description": "Tag \"building=church\". See https://wiki.openstreetmap.org/wiki/Tag:building=church"
     },
     "tag:building=church religion=christian": {
-        "message": "",
+        "message": "キリスト教会（建物）",
         "description": "Combined tag \"building=church\" and \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:building=church and https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
     },
     "tag:building=civic": {
@@ -2537,7 +2523,6 @@
     },
     "tag:highway": {
         "message": "道路",
-        "!=1": "道路",
         "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
     },
     "tag:highway=bridleway": {
@@ -2950,7 +2935,6 @@
     },
     "tag:int_name": {
         "message": "International name",
-        "!=1": "国際的な名前",
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
     "tag:intermittent": {
@@ -3267,7 +3251,6 @@
     },
     "tag:loc_name": {
         "message": "Local name",
-        "!=1": "地域の呼び名",
         "description": "Key \"loc_name\". See https://wiki.openstreetmap.org/wiki/Key:loc_name"
     },
     "tag:man_made": {
@@ -3680,7 +3663,6 @@
     },
     "tag:name": {
         "message": "名前",
-        "!=1": "名前",
         "description": "Key \"name\". See https://wiki.openstreetmap.org/wiki/Key:name"
     },
     "tag:name:etymology": {
@@ -4117,7 +4099,6 @@
     },
     "tag:official_name": {
         "message": "Official name",
-        "!=1": "公式名",
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
@@ -4270,7 +4251,6 @@
     },
     "tag:place=islet": {
         "message": "小島",
-        "!=1": "小島",
         "description": "Tag \"place=islet\". See https://wiki.openstreetmap.org/wiki/Tag:place=islet"
     },
     "tag:place=isolated_dwelling": {
@@ -4287,7 +4267,6 @@
     },
     "tag:place=ocean": {
         "message": "大洋",
-        "!=1": "大洋",
         "description": "Tag \"place=ocean\". See https://wiki.openstreetmap.org/wiki/Tag:place=ocean"
     },
     "tag:place=quarter": {
@@ -4300,7 +4279,6 @@
     },
     "tag:place=sea": {
         "message": "海",
-        "!=1": "海",
         "description": "Tag \"place=sea\". See https://wiki.openstreetmap.org/wiki/Tag:place=sea"
     },
     "tag:place=state": {
@@ -4525,7 +4503,6 @@
     },
     "tag:railway=platform": {
         "message": "プラットホーム",
-        "!=1": "プラットホーム",
         "description": "Tag \"railway=platform\". See https://wiki.openstreetmap.org/wiki/Tag:railway=platform"
     },
     "tag:railway=preserved": {
@@ -4534,7 +4511,6 @@
     },
     "tag:railway=rail": {
         "message": "鉄道線路",
-        "!=1": "鉄道線路",
         "description": "Tag \"railway=rail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail"
     },
     "tag:railway=rail service": {
@@ -4603,7 +4579,6 @@
     },
     "tag:railway=tram": {
         "message": "路面電車",
-        "!=1": "路面電車",
         "description": "Tag \"railway=tram\". See https://wiki.openstreetmap.org/wiki/Tag:railway=tram"
     },
     "tag:railway=tram;narrow_gauge": {
@@ -6065,5 +6040,25 @@
     "tag:xmas:feature=tree": {
         "message": "",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:aeroway=aerodrome": {
+        "message": "空港",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "仮設滑走路",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:aeroway=heliport": {
+        "message": "ヘリポート",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:amenity=childcare": {
+        "message": "保育所",
+        "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
+    },
+    "tag:building=agriculture": {
+        "message": "建物（農業）",
+        "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
     }
 }
