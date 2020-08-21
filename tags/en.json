@@ -3302,7 +3302,7 @@
         "description": "Key \"leisure\". See https://wiki.openstreetmap.org/wiki/Key:leisure"
     },
     "tag:leisure=adult_gaming_centre": {
-        "message": "",
+        "message": "Adult gaming centre",
         "description": "Tag \"leisure=adult_gaming_centre\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=adult_gaming_centre"
     },
     "tag:leisure=amusement_arcade": {
@@ -3341,6 +3341,10 @@
         "message": "Dog Park",
         "description": "Tag \"leisure=dog_park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=dog_park"
     },
+    "tag:leisure=escape_game": {
+        "message": "Escape Game",
+        "description": "Tag \"leisure=escape_game\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=escape_game"
+    },
     "tag:leisure=firepit": {
         "message": "Firepit",
         "description": "Tag \"leisure=firepit\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=firepit"
@@ -3378,7 +3382,7 @@
         "description": "Tag \"leisure=ice_rink\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=ice_rink"
     },
     "tag:leisure=indoor_play": {
-        "message": "",
+        "message": "Indoor play area",
         "description": "Tag \"leisure=indoor_play\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=indoor_play"
     },
     "tag:leisure=marina": {
@@ -3394,7 +3398,7 @@
         "description": "Tag \"leisure=nature_reserve\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=nature_reserve"
     },
     "tag:leisure=outdoor_seating": {
-        "message": "",
+        "message": "Outdoor seating area",
         "description": "Tag \"leisure=outdoor_seating\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=outdoor_seating"
     },
     "tag:leisure=park": {
@@ -3530,7 +3534,7 @@
         "description": "Tag \"leisure=summer_camp\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=summer_camp"
     },
     "tag:leisure=swimming_area": {
-        "message": "",
+        "message": "Swimming area",
         "description": "Tag \"leisure=swimming_area\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=swimming_area"
     },
     "tag:leisure=swimming_pool": {
@@ -3540,6 +3544,10 @@
     "tag:leisure=track": {
         "message": "Track",
         "description": "Tag \"leisure=track\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=track"
+    },
+    "tag:leisure=trampoline_park": {
+        "message": "Trampoline park",
+        "description": "Tag \"leisure=trampoline_park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=trampoline_park"
     },
     "tag:leisure=water_park": {
         "message": "Water Park",
