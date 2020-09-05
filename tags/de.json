@@ -2650,7 +2650,7 @@
         "description": "Tag \"highway=trunk_link\". See https://wiki.openstreetmap.org/wiki/Tag:highway=trunk_link"
     },
     "tag:highway=unclassified": {
-        "message": "Unklassifizierte Straße",
+        "message": "Verbindungsstraße",
         "description": "Tag \"highway=unclassified\". See https://wiki.openstreetmap.org/wiki/Tag:highway=unclassified"
     },
     "tag:historic": {
