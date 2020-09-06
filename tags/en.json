@@ -20,9 +20,61 @@
     "tag:access!=private": {
         "message": "non-private"
     },
+    "tag:access=agricultural": {
+        "message": "only agricultural traffic",
+        "description": "Tag \"access=agricultural\". See https://wiki.openstreetmap.org/wiki/Tag:access=agricultural"
+    },
+    "tag:access=customers": {
+        "message": "only for customers",
+        "description": "Tag \"access=customers\". See https://wiki.openstreetmap.org/wiki/Tag:access=customers"
+    },
+    "tag:access=delivery": {
+        "message": "only for deliveries",
+        "description": "Tag \"access=delivery\". See https://wiki.openstreetmap.org/wiki/Tag:access=delivery"
+    },
+    "tag:access=designated": {
+        "message": "",
+        "description": "Tag \"access=designated\". See https://wiki.openstreetmap.org/wiki/Tag:access=designated"
+    },
+    "tag:access=destination": {
+        "message": "destination",
+        "description": "Tag \"access=destination\". See https://wiki.openstreetmap.org/wiki/Tag:access=destination"
+    },
+    "tag:access=discouraged": {
+        "message": "discouraged",
+        "description": "Tag \"access=discouraged\". See https://wiki.openstreetmap.org/wiki/Tag:access=discouraged"
+    },
+    "tag:access=dismount": {
+        "message": "only when dismounted",
+        "description": "Tag \"access=dismount\". See https://wiki.openstreetmap.org/wiki/Tag:access=dismount"
+    },
+    "tag:access=forestry": {
+        "message": "only forestry traffic",
+        "description": "Tag \"access=forestry\". See https://wiki.openstreetmap.org/wiki/Tag:access=forestry"
+    },
+    "tag:access=no": {
+        "message": "no access for general public",
+        "description": "Tag \"access=no\". See https://wiki.openstreetmap.org/wiki/Tag:access=no"
+    },
+    "tag:access=permissive": {
+        "message": "permissive",
+        "description": "Tag \"access=permissive\". See https://wiki.openstreetmap.org/wiki/Tag:access=permissive"
+    },
     "tag:access=private": {
         "message": "private",
         "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
+    },
+    "tag:access=unknown": {
+        "message": "unknown",
+        "description": "Tag \"access=unknown\". See https://wiki.openstreetmap.org/wiki/Tag:access=unknown"
+    },
+    "tag:access=use_sidepath": {
+        "message": "use sidepath instead",
+        "description": "Tag \"access=use_sidepath\". See https://wiki.openstreetmap.org/wiki/Tag:access=use_sidepath"
+    },
+    "tag:access=yes": {
+        "message": "publicly accessible",
+        "description": "Tag \"access=yes\". See https://wiki.openstreetmap.org/wiki/Tag:access=yes"
     },
     "tag:accomodation": {
         "message": "Accomodation",
