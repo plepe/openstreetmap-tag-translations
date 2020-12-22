@@ -85,11 +85,11 @@
         "description": "Tag \"admin_level=3\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=3"
     },
     "tag:admin_level=4": {
-        "message": "",
+        "message": "Државна граница (4)",
         "description": "Tag \"admin_level=4\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=4"
     },
     "tag:admin_level=5": {
-        "message": "",
+        "message": "(5)",
         "description": "Tag \"admin_level=5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=5"
     },
     "tag:admin_level=6": {
@@ -97,7 +97,7 @@
         "description": "Tag \"admin_level=6\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=6"
     },
     "tag:admin_level=7": {
-        "message": "",
+        "message": "(7)",
         "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=7.5": {
@@ -145,7 +145,7 @@
         "description": "Tag \"amenity=atm\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=atm"
     },
     "tag:amenity=baby_hatch": {
-        "message": "",
+        "message": "Кутија за бебе",
         "description": "Tag \"amenity=baby_hatch\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=baby_hatch"
     },
     "tag:amenity=bank": {
@@ -277,7 +277,7 @@
         "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
     },
     "tag:amenity=food_court": {
-        "message": "",
+        "message": "Зона ресторана",
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
@@ -2258,7 +2258,7 @@
         "description": "Tag \"entrance=home\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=home"
     },
     "tag:entrance=main": {
-        "message": "",
+        "message": "Главни улаз",
         "description": "Tag \"entrance=main\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=main"
     },
     "tag:entrance=service": {
@@ -2266,23 +2266,23 @@
         "description": "Tag \"entrance=service\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=service"
     },
     "tag:entrance=staircase": {
-        "message": "",
+        "message": "Врата од степеништа",
         "description": "Tag \"entrance=staircase\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=staircase"
     },
     "tag:est_width": {
-        "message": "",
+        "message": "Процењена ширина",
         "description": "Key \"est_width\". See https://wiki.openstreetmap.org/wiki/Key:est_width"
     },
     "tag:fax": {
-        "message": "",
+        "message": "Број факса",
         "description": "Key \"fax\". See https://wiki.openstreetmap.org/wiki/Key:fax"
     },
     "tag:fixme": {
-        "message": "",
+        "message": "Потребно исправити",
         "description": "Key \"fixme\". See https://wiki.openstreetmap.org/wiki/Key:fixme"
     },
     "tag:flood_date": {
-        "message": "",
+        "message": "датум поплаве",
         "description": "Key \"flood_date\". See https://wiki.openstreetmap.org/wiki/Key:flood_date"
     },
     "tag:flood_mark=engraving": {
@@ -2302,7 +2302,7 @@
         "description": "Tag \"flood_mark=pole\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=pole"
     },
     "tag:food": {
-        "message": "",
+        "message": "Служи храну",
         "description": "Key \"food\". See https://wiki.openstreetmap.org/wiki/Key:food"
     },
     "tag:foot": {
@@ -2314,19 +2314,19 @@
         "description": "Key \"ford\". See https://wiki.openstreetmap.org/wiki/Key:ford"
     },
     "tag:frequency": {
-        "message": "",
+        "message": "Фреквенција",
         "description": "Key \"frequency\". See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:frequency=0": {
-        "message": "",
+        "message": "једносмерна струја",
         "description": "Tag \"frequency=0\" (direct current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:frequency>0": {
-        "message": "",
+        "message": "наизменична струја",
         "description": "Tag \"frequency=*\" (not 0, meaning alternating current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:gauge": {
-        "message": "",
+        "message": "колосек",
         "description": "Key \"gauge\". See https://wiki.openstreetmap.org/wiki/Key:gauge"
     },
     "tag:generator:source": {
@@ -2334,39 +2334,39 @@
         "description": "Key \"generator:source\". See https://wiki.openstreetmap.org/wiki/Key:generator:source"
     },
     "tag:generator:source=biofuel": {
-        "message": "",
+        "message": "биолошко гориво",
         "description": "Tag \"generator:source=biofuel\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biofuel"
     },
     "tag:generator:source=biogas": {
-        "message": "",
+        "message": "биолошки гас",
         "description": "Tag \"generator:source=biogas\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biogas"
     },
     "tag:generator:source=biomass": {
-        "message": "",
+        "message": "биомаса",
         "description": "Tag \"generator:source=biomass\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=biomass"
     },
     "tag:generator:source=diesel": {
-        "message": "",
+        "message": "дизел",
         "description": "Tag \"generator:source=diesel\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=diesel"
     },
     "tag:generator:source=gas": {
-        "message": "",
+        "message": "гас",
         "description": "Tag \"generator:source=gas\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=gas"
     },
     "tag:generator:source=gasoline": {
-        "message": "",
+        "message": "бензин",
         "description": "Tag \"generator:source=gasoline\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=gasoline"
     },
     "tag:generator:source=geothermal": {
-        "message": "",
+        "message": "геотермални",
         "description": "Tag \"generator:source=geothermal\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=geothermal"
     },
     "tag:generator:source=hydro": {
-        "message": "",
+        "message": "хидро",
         "description": "Tag \"generator:source=hydro\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=hydro"
     },
     "tag:generator:source=nuclear": {
-        "message": "",
+        "message": "нуклеарни",
         "description": "Tag \"generator:source=nuclear\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=nuclear"
     },
     "tag:generator:source=oil": {
@@ -2374,11 +2374,11 @@
         "description": "Tag \"generator:source=oil\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=oil"
     },
     "tag:generator:source=solar": {
-        "message": "",
+        "message": "соларни",
         "description": "Tag \"generator:source=solar\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=solar"
     },
     "tag:generator:source=tidal": {
-        "message": "",
+        "message": "плимски",
         "description": "Tag \"generator:source=tidal\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=tidal"
     },
     "tag:generator:source=waste": {
@@ -2386,15 +2386,15 @@
         "description": "Tag \"generator:source=waste\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=waste"
     },
     "tag:generator:source=wave": {
-        "message": "",
+        "message": "таласи",
         "description": "Tag \"generator:source=wave\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=wave"
     },
     "tag:generator:source=wind": {
-        "message": "",
+        "message": "ветар",
         "description": "Tag \"generator:source=wind\". See https://wiki.openstreetmap.org/wiki/Tag:generator:source=wind"
     },
     "tag:geological": {
-        "message": "",
+        "message": "Геолошко",
         "description": "Key \"geological\". See https://wiki.openstreetmap.org/wiki/Key:geological"
     },
     "tag:goods": {
@@ -2402,7 +2402,7 @@
         "description": "Key \"goods\". See https://wiki.openstreetmap.org/wiki/Key:goods"
     },
     "tag:healthcare=alternative": {
-        "message": "",
+        "message": "алтернативна",
         "description": "Tag \"healthcare=alternative\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=alternative"
     },
     "tag:healthcare=audiologist": {
@@ -2410,11 +2410,11 @@
         "description": "Tag \"healthcare=audiologist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=audiologist"
     },
     "tag:healthcare=birthing_center": {
-        "message": "",
+        "message": "породилиште",
         "description": "Tag \"healthcare=birthing_center\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=birthing_center"
     },
     "tag:healthcare=blood_bank": {
-        "message": "",
+        "message": "банка крви",
         "description": "Tag \"healthcare=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=blood_bank"
     },
     "tag:healthcare=blood_donation": {
@@ -2422,35 +2422,35 @@
         "description": "Tag \"healthcare=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=blood_donation"
     },
     "tag:healthcare=centre": {
-        "message": "",
+        "message": "дом здравља",
         "description": "Tag \"healthcare=centre\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=centre"
     },
     "tag:healthcare=clinic": {
-        "message": "",
+        "message": "клиника",
         "description": "Tag \"healthcare=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=clinic"
     },
     "tag:healthcare=dentist": {
-        "message": "",
+        "message": "Зубар",
         "description": "Tag \"healthcare=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dentist"
     },
     "tag:healthcare=dialysis": {
-        "message": "",
+        "message": "Дијализа",
         "description": "Tag \"healthcare=dialysis\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dialysis"
     },
     "tag:healthcare=doctor": {
-        "message": "",
+        "message": "Доктор",
         "description": "Tag \"healthcare=doctor\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=doctor"
     },
     "tag:healthcare=hospital": {
-        "message": "",
+        "message": "Болница",
         "description": "Tag \"healthcare=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=hospital"
     },
     "tag:healthcare=laboratory": {
-        "message": "",
+        "message": "Лабораторија",
         "description": "Tag \"healthcare=laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=laboratory"
     },
     "tag:healthcare=midwife": {
-        "message": "",
+        "message": "Бабица",
         "description": "Tag \"healthcare=midwife\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=midwife"
     },
     "tag:healthcare=nutrition_counseling": {
@@ -2466,11 +2466,11 @@
         "description": "Tag \"healthcare=optometrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=optometrist"
     },
     "tag:healthcare=pharmacy": {
-        "message": "",
+        "message": "Апотека",
         "description": "Tag \"healthcare=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=pharmacy"
     },
     "tag:healthcare=physiotherapist": {
-        "message": "",
+        "message": "Физиотерапеут",
         "description": "Tag \"healthcare=physiotherapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=physiotherapist"
     },
     "tag:healthcare=podiatrist": {
@@ -2478,19 +2478,19 @@
         "description": "Tag \"healthcare=podiatrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=podiatrist"
     },
     "tag:healthcare=psychotherapist": {
-        "message": "",
+        "message": "Психотерапеут",
         "description": "Tag \"healthcare=psychotherapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=psychotherapist"
     },
     "tag:healthcare=rehabilitation": {
-        "message": "",
+        "message": "Рехабилитација",
         "description": "Tag \"healthcare=rehabilitation\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=rehabilitation"
     },
     "tag:healthcare=speech_therapist": {
-        "message": "",
+        "message": "Логопед",
         "description": "Tag \"healthcare=speech_therapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=speech_therapist"
     },
     "tag:height": {
-        "message": "",
+        "message": "висина",
         "description": "Key \"height\". See https://wiki.openstreetmap.org/wiki/Key:height"
     },
     "tag:heritage": {
@@ -2530,7 +2530,7 @@
         "description": "Tag \"highway=bridleway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=bridleway"
     },
     "tag:highway=bus_stop": {
-        "message": "",
+        "message": "Аутобуско стајалиште",
         "description": "Tag \"highway=bus_stop\". See https://wiki.openstreetmap.org/wiki/Tag:highway=bus_stop"
     },
     "tag:highway=construction": {
@@ -2538,7 +2538,7 @@
         "description": "Tag \"highway=construction\". See https://wiki.openstreetmap.org/wiki/Tag:highway=construction"
     },
     "tag:highway=crossing": {
-        "message": "",
+        "message": "Пешачки",
         "description": "Tag \"highway=crossing\". See https://wiki.openstreetmap.org/wiki/Tag:highway=crossing"
     },
     "tag:highway=cycleway": {
@@ -2558,7 +2558,7 @@
         "description": "Tag \"highway=living_street\". See https://wiki.openstreetmap.org/wiki/Tag:highway=living_street"
     },
     "tag:highway=mini_roundabout": {
-        "message": "",
+        "message": "Мали кружни ток",
         "description": "Tag \"highway=mini_roundabout\". See https://wiki.openstreetmap.org/wiki/Tag:highway=mini_roundabout"
     },
     "tag:highway=minor": {
@@ -2690,19 +2690,19 @@
         "description": "Tag \"historic:civilization=imperial_chinese\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=imperial_chinese"
     },
     "tag:historic:civilization=korean": {
-        "message": "",
+        "message": "корејска цивилизација",
         "description": "Tag \"historic:civilization=korean\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=korean"
     },
     "tag:historic:civilization=medieval": {
-        "message": "",
+        "message": "средњевековна цивилизација",
         "description": "Tag \"historic:civilization=medieval\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=medieval"
     },
     "tag:historic:civilization=modern": {
-        "message": "",
+        "message": "модерно доба",
         "description": "Tag \"historic:civilization=modern\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=modern"
     },
     "tag:historic:civilization=neolithic": {
-        "message": "",
+        "message": "неолитска цивилизација",
         "description": "Tag \"historic:civilization=neolithic\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=neolithic"
     },
     "tag:historic:civilization=nuragic": {
@@ -2714,15 +2714,15 @@
         "description": "Tag \"historic:civilization=ottoman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=ottoman"
     },
     "tag:historic:civilization=prehistoric": {
-        "message": "",
+        "message": "праисторијска цивилизација",
         "description": "Tag \"historic:civilization=prehistoric\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=prehistoric"
     },
     "tag:historic:civilization=roman": {
-        "message": "",
+        "message": "римско царство",
         "description": "Tag \"historic:civilization=roman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=roman"
     },
     "tag:historic:civilization=western_roman": {
-        "message": "",
+        "message": "западно римско царство",
         "description": "Tag \"historic:civilization=western_roman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=western_roman"
     },
     "tag:historic=aircraft": {
@@ -2730,15 +2730,15 @@
         "description": "Tag \"historic=aircraft\". See https://wiki.openstreetmap.org/wiki/Tag:historic=aircraft"
     },
     "tag:historic=aqueduct": {
-        "message": "",
+        "message": "аквадукт",
         "description": "Tag \"historic=aqueduct\". See https://wiki.openstreetmap.org/wiki/Tag:historic=aqueduct"
     },
     "tag:historic=archaeological_site": {
-        "message": "",
+        "message": "археолошко налазиште",
         "description": "Tag \"historic=archaeological_site\". See https://wiki.openstreetmap.org/wiki/Tag:historic=archaeological_site"
     },
     "tag:historic=battlefield": {
-        "message": "",
+        "message": "Ратиште",
         "description": "Tag \"historic=battlefield\". See https://wiki.openstreetmap.org/wiki/Tag:historic=battlefield"
     },
     "tag:historic=boundary_stone": {
@@ -2746,31 +2746,31 @@
         "description": "Tag \"historic=boundary_stone\". See https://wiki.openstreetmap.org/wiki/Tag:historic=boundary_stone"
     },
     "tag:historic=bridge": {
-        "message": "",
+        "message": "мост",
         "description": "Tag \"historic=bridge\". See https://wiki.openstreetmap.org/wiki/Tag:historic=bridge"
     },
     "tag:historic=building": {
-        "message": "",
+        "message": "зграда",
         "description": "Tag \"historic=building\". See https://wiki.openstreetmap.org/wiki/Tag:historic=building"
     },
     "tag:historic=cannon": {
-        "message": "",
+        "message": "топ",
         "description": "Tag \"historic=cannon\". See https://wiki.openstreetmap.org/wiki/Tag:historic=cannon"
     },
     "tag:historic=castle": {
-        "message": "",
+        "message": "замак",
         "description": "Tag \"historic=castle\". See https://wiki.openstreetmap.org/wiki/Tag:historic=castle"
     },
     "tag:historic=church": {
-        "message": "",
+        "message": "Црква",
         "description": "Tag \"historic=church\". See https://wiki.openstreetmap.org/wiki/Tag:historic=church"
     },
     "tag:historic=city_gate": {
-        "message": "",
+        "message": "градска капија",
         "description": "Tag \"historic=city_gate\". See https://wiki.openstreetmap.org/wiki/Tag:historic=city_gate"
     },
     "tag:historic=citywalls": {
-        "message": "",
+        "message": "градске зидине",
         "description": "Tag \"historic=citywalls\". See https://wiki.openstreetmap.org/wiki/Tag:historic=citywalls"
     },
     "tag:historic=exhibit": {
@@ -2778,7 +2778,7 @@
         "description": "Tag \"historic=exhibit\". See https://wiki.openstreetmap.org/wiki/Tag:historic=exhibit"
     },
     "tag:historic=farm": {
-        "message": "",
+        "message": "фарма",
         "description": "Tag \"historic=farm\". See https://wiki.openstreetmap.org/wiki/Tag:historic=farm"
     },
     "tag:historic=flood_mark": {
@@ -2786,7 +2786,7 @@
         "description": "Tag \"historic=flood_mark\". See https://wiki.openstreetmap.org/wiki/Tag:historic=flood_mark"
     },
     "tag:historic=fort": {
-        "message": "",
+        "message": "утврђење",
         "description": "Tag \"historic=fort\". See https://wiki.openstreetmap.org/wiki/Tag:historic=fort"
     },
     "tag:historic=industrial": {
@@ -2798,7 +2798,7 @@
         "description": "Tag \"historic=kiln\". See https://wiki.openstreetmap.org/wiki/Tag:historic=kiln"
     },
     "tag:historic=locomotive": {
-        "message": "",
+        "message": "локомотива",
         "description": "Tag \"historic=locomotive\". See https://wiki.openstreetmap.org/wiki/Tag:historic=locomotive"
     },
     "tag:historic=manor": {
@@ -2942,11 +2942,11 @@
         "description": "Key \"intermittent\". See https://wiki.openstreetmap.org/wiki/Key:intermittent"
     },
     "tag:internet_access=public": {
-        "message": "",
+        "message": "Непознат приступ интернету",
         "description": "Tag \"internet_access=public\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=public"
     },
     "tag:internet_access=service": {
-        "message": "",
+        "message": "Центар за приступ интернету",
         "description": "Tag \"internet_access=service\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=service"
     },
     "tag:internet_access=terminal": {
@@ -2954,27 +2954,27 @@
         "description": "Tag \"internet_access=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=terminal"
     },
     "tag:internet_access=terminal internet_access:fee=no": {
-        "message": "",
+        "message": "Бесплатан интернет приступ преко рачунара.",
         "description": "Combined tag \"internet_access=terminal\" and \"internet_access:fee=no\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=terminal and https://wiki.openstreetmap.org/wiki/Tag:internet_access:fee=no"
     },
     "tag:internet_access=wired": {
-        "message": "",
+        "message": "Жичани приступ интернету",
         "description": "Tag \"internet_access=wired\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=wired"
     },
     "tag:internet_access=wlan": {
-        "message": "",
+        "message": "Непознат Wi-Fi приступ интернету",
         "description": "Tag \"internet_access=wlan\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=wlan"
     },
     "tag:internet_access=wlan internet_access:fee=customers": {
-        "message": "",
+        "message": "Бесплатан Wi-Fi за муштерије",
         "description": "Combined tag \"internet_access=wlan\" and \"internet_access:fee=customers\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=wlan and https://wiki.openstreetmap.org/wiki/Tag:internet_access:fee=customers"
     },
     "tag:internet_access=wlan internet_access:fee=no": {
-        "message": "",
+        "message": "Бесплатан Wi-Fi приступ интернету",
         "description": "Combined tag \"internet_access=wlan\" and \"internet_access:fee=no\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=wlan and https://wiki.openstreetmap.org/wiki/Tag:internet_access:fee=no"
     },
     "tag:internet_access=wlan internet_access:fee=yes": {
-        "message": "",
+        "message": "Није бесплатан Wi-Fi приступ интернету",
         "description": "Combined tag \"internet_access=wlan\" and \"internet_access:fee=yes\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=wlan and https://wiki.openstreetmap.org/wiki/Tag:internet_access:fee=yes"
     },
     "tag:is_in": {
@@ -2982,7 +2982,7 @@
         "description": "Key \"is_in\". See https://wiki.openstreetmap.org/wiki/Key:is_in"
     },
     "tag:kids_area": {
-        "message": "",
+        "message": "Дечји кутак",
         "description": "Key \"kids_area\". See https://wiki.openstreetmap.org/wiki/Key:kids_area"
     },
     "tag:landuse": {
@@ -3002,11 +3002,11 @@
         "description": "Tag \"landuse=brownfield\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=brownfield"
     },
     "tag:landuse=cemetery": {
-        "message": "",
+        "message": "гробље",
         "description": "Tag \"landuse=cemetery\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=cemetery"
     },
     "tag:landuse=construction": {
-        "message": "",
+        "message": "градилиште",
         "description": "Tag \"landuse=construction\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=construction"
     },
     "tag:landuse=farmland": {
@@ -3042,11 +3042,11 @@
         "description": "Tag \"landuse=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=industrial"
     },
     "tag:landuse=landfill": {
-        "message": "",
+        "message": "Депонија",
         "description": "Tag \"landuse=landfill\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=landfill"
     },
     "tag:landuse=meadow": {
-        "message": "",
+        "message": "ливада",
         "description": "Tag \"landuse=meadow\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=meadow"
     },
     "tag:landuse=military": {
@@ -3190,7 +3190,7 @@
         "description": "Tag \"leisure=park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=park"
     },
     "tag:leisure=picnic_table": {
-        "message": "",
+        "message": "Сто за пикник",
         "description": "Tag \"leisure=picnic_table\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=picnic_table"
     },
     "tag:leisure=pitch": {
@@ -3202,7 +3202,7 @@
         "description": "Tag \"leisure=playground\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=playground"
     },
     "tag:leisure=sauna": {
-        "message": "",
+        "message": "Сауна",
         "description": "Tag \"leisure=sauna\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sauna"
     },
     "tag:leisure=slipway": {
@@ -3222,11 +3222,11 @@
         "description": "Tag \"leisure=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=stadium"
     },
     "tag:leisure=summer_camp": {
-        "message": "",
+        "message": "Летњи камп",
         "description": "Tag \"leisure=summer_camp\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=summer_camp"
     },
     "tag:leisure=swimming_area": {
-        "message": "",
+        "message": "Пливалиште",
         "description": "Tag \"leisure=swimming_area\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=swimming_area"
     },
     "tag:leisure=swimming_pool": {
@@ -3246,7 +3246,7 @@
         "description": "Tag \"leisure=wildlife_hide\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=wildlife_hide"
     },
     "tag:lit": {
-        "message": "",
+        "message": "Улично осветљење",
         "description": "Key \"lit\". See https://wiki.openstreetmap.org/wiki/Key:lit"
     },
     "tag:loc_name": {
@@ -3266,55 +3266,55 @@
         "description": "Tag \"man_made=pipeline\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=pipeline"
     },
     "tag:man_made=wastewater_plant": {
-        "message": "",
+        "message": "Постројење отпадних вода",
         "description": "Tag \"man_made=wastewater_plant\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=wastewater_plant"
     },
     "tag:material": {
-        "message": "",
+        "message": "материјал",
         "description": "Key \"material\". See https://wiki.openstreetmap.org/wiki/Key:material"
     },
     "tag:material=adobe": {
-        "message": "",
+        "message": "непечена опека",
         "description": "Tag \"material=adobe\". See https://wiki.openstreetmap.org/wiki/Tag:material=adobe"
     },
     "tag:material=andesite": {
-        "message": "",
+        "message": "андезит",
         "description": "Tag \"material=andesite\". See https://wiki.openstreetmap.org/wiki/Tag:material=andesite"
     },
     "tag:material=bamboo": {
-        "message": "",
+        "message": "трска бамбуса",
         "description": "Tag \"material=bamboo\". See https://wiki.openstreetmap.org/wiki/Tag:material=bamboo"
     },
     "tag:material=brass": {
-        "message": "",
+        "message": "месинг",
         "description": "Tag \"material=brass\". See https://wiki.openstreetmap.org/wiki/Tag:material=brass"
     },
     "tag:material=brick": {
-        "message": "",
+        "message": "цигла",
         "description": "Tag \"material=brick\". See https://wiki.openstreetmap.org/wiki/Tag:material=brick"
     },
     "tag:material=bronze": {
-        "message": "",
+        "message": "бронза",
         "description": "Tag \"material=bronze\". See https://wiki.openstreetmap.org/wiki/Tag:material=bronze"
     },
     "tag:material=concrete": {
-        "message": "",
+        "message": "бетон",
         "description": "Tag \"material=concrete\". See https://wiki.openstreetmap.org/wiki/Tag:material=concrete"
     },
     "tag:material=glass": {
-        "message": "",
+        "message": "стакло",
         "description": "Tag \"material=glass\". See https://wiki.openstreetmap.org/wiki/Tag:material=glass"
     },
     "tag:material=gold": {
-        "message": "",
+        "message": "злато",
         "description": "Tag \"material=gold\". See https://wiki.openstreetmap.org/wiki/Tag:material=gold"
     },
     "tag:material=granite": {
-        "message": "",
+        "message": "гранит",
         "description": "Tag \"material=granite\". See https://wiki.openstreetmap.org/wiki/Tag:material=granite"
     },
     "tag:material=iron": {
-        "message": "",
+        "message": "гвожђе",
         "description": "Tag \"material=iron\". See https://wiki.openstreetmap.org/wiki/Tag:material=iron"
     },
     "tag:material=light": {
@@ -3322,11 +3322,11 @@
         "description": "Tag \"material=light\". See https://wiki.openstreetmap.org/wiki/Tag:material=light"
     },
     "tag:material=limestone": {
-        "message": "",
+        "message": "кречњак",
         "description": "Tag \"material=limestone\". See https://wiki.openstreetmap.org/wiki/Tag:material=limestone"
     },
     "tag:material=marble": {
-        "message": "",
+        "message": "мермер",
         "description": "Tag \"material=marble\". See https://wiki.openstreetmap.org/wiki/Tag:material=marble"
     },
     "tag:material=masonry": {
@@ -3334,19 +3334,19 @@
         "description": "Tag \"material=masonry\". See https://wiki.openstreetmap.org/wiki/Tag:material=masonry"
     },
     "tag:material=metal": {
-        "message": "",
+        "message": "метал",
         "description": "Tag \"material=metal\". See https://wiki.openstreetmap.org/wiki/Tag:material=metal"
     },
     "tag:material=mixed": {
-        "message": "",
+        "message": "мешовито",
         "description": "Tag \"material=mixed\". See https://wiki.openstreetmap.org/wiki/Tag:material=mixed"
     },
     "tag:material=palm_leaves": {
-        "message": "",
+        "message": "палмино лишће",
         "description": "Tag \"material=palm_leaves\". See https://wiki.openstreetmap.org/wiki/Tag:material=palm_leaves"
     },
     "tag:material=plastic": {
-        "message": "",
+        "message": "пластика",
         "description": "Tag \"material=plastic\". See https://wiki.openstreetmap.org/wiki/Tag:material=plastic"
     },
     "tag:material=rammed_earth": {
@@ -3354,7 +3354,7 @@
         "description": "Tag \"material=rammed_earth\". See https://wiki.openstreetmap.org/wiki/Tag:material=rammed_earth"
     },
     "tag:material=reinforced_concrete": {
-        "message": "",
+        "message": "армирани бетон",
         "description": "Tag \"material=reinforced_concrete\". See https://wiki.openstreetmap.org/wiki/Tag:material=reinforced_concrete"
     },
     "tag:material=sandstone": {
@@ -3366,7 +3366,7 @@
         "description": "Tag \"material=silicate_brick\". See https://wiki.openstreetmap.org/wiki/Tag:material=silicate_brick"
     },
     "tag:material=silver": {
-        "message": "",
+        "message": "сребро",
         "description": "Tag \"material=silver\". See https://wiki.openstreetmap.org/wiki/Tag:material=silver"
     },
     "tag:material=soil": {
@@ -3374,11 +3374,11 @@
         "description": "Tag \"material=soil\". See https://wiki.openstreetmap.org/wiki/Tag:material=soil"
     },
     "tag:material=steel": {
-        "message": "",
+        "message": "челик",
         "description": "Tag \"material=steel\". See https://wiki.openstreetmap.org/wiki/Tag:material=steel"
     },
     "tag:material=stone": {
-        "message": "",
+        "message": "камен",
         "description": "Tag \"material=stone\". See https://wiki.openstreetmap.org/wiki/Tag:material=stone"
     },
     "tag:material=wood": {
@@ -6116,5 +6116,97 @@
     "tag:cycleway=lane": {
         "message": "Трака за бицикле",
         "description": "Tag \"cycleway=lane\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=lane"
+    },
+    "tag:access=agricultural": {
+        "message": "само пољопривредни саобраћај",
+        "description": "Tag \"access=agricultural\". See https://wiki.openstreetmap.org/wiki/Tag:access=agricultural"
+    },
+    "tag:access=customers": {
+        "message": "Само за муштерије",
+        "description": "Tag \"access=customers\". See https://wiki.openstreetmap.org/wiki/Tag:access=customers"
+    },
+    "tag:access=delivery": {
+        "message": "само за доставе",
+        "description": "Tag \"access=delivery\". See https://wiki.openstreetmap.org/wiki/Tag:access=delivery"
+    },
+    "tag:access=destination": {
+        "message": "одредиште",
+        "description": "Tag \"access=destination\". See https://wiki.openstreetmap.org/wiki/Tag:access=destination"
+    },
+    "tag:access=forestry": {
+        "message": "само шумски саобраћај",
+        "description": "Tag \"access=forestry\". See https://wiki.openstreetmap.org/wiki/Tag:access=forestry"
+    },
+    "tag:access=unknown": {
+        "message": "непознато",
+        "description": "Tag \"access=unknown\". See https://wiki.openstreetmap.org/wiki/Tag:access=unknown"
+    },
+    "tag:access=yes": {
+        "message": "јавно доступно",
+        "description": "Tag \"access=yes\". See https://wiki.openstreetmap.org/wiki/Tag:access=yes"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "зрачна стаза",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:leisure=pitch sport=american_football": {
+        "message": "Терен за амерички фудбал",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=american_football\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=american_football"
+    },
+    "tag:leisure=pitch sport=australian_football": {
+        "message": "Терен за аустралијски фудбал",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=australian_football\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=australian_football"
+    },
+    "tag:leisure=pitch sport=badminton": {
+        "message": "Терен за бадминтон",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=badminton\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=badminton"
+    },
+    "tag:leisure=pitch sport=baseball": {
+        "message": "Тереб за бејзбол",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=baseball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=baseball"
+    },
+    "tag:leisure=pitch sport=basketball": {
+        "message": "Кошаркашки терен",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=basketball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=basketball"
+    },
+    "tag:leisure=pitch sport=beachvolleyball": {
+        "message": "Терен за одбојку на песку",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=beachvolleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=beachvolleyball"
+    },
+    "tag:leisure=pitch sport=cricket": {
+        "message": "Терен за крикет",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=cricket\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=cricket"
+    },
+    "tag:leisure=pitch sport=field_hockey": {
+        "message": "Терен за хокеј на трави",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=field_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=field_hockey"
+    },
+    "tag:leisure=pitch sport=skateboard": {
+        "message": "Скејт парк",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=skateboard\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=skateboard"
+    },
+    "tag:leisure=pitch sport=soccer": {
+        "message": "Фудбалски терен",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=soccer\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=soccer"
+    },
+    "tag:leisure=pitch sport=table_tennis": {
+        "message": "Сто за стони тенис",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=table_tennis\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=table_tennis"
+    },
+    "tag:leisure=pitch sport=tennis": {
+        "message": "Тениски терен",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=tennis\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=tennis"
+    },
+    "tag:leisure=pitch sport=volleyball": {
+        "message": "Одбојкашки терен",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=volleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=volleyball"
+    },
+    "tag:leisure=sports_hall": {
+        "message": "Спортска хала",
+        "description": "Tag \"leisure=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sports_hall"
+    },
+    "tag:man_made=incinerator": {
+        "message": "Спалионица",
+        "description": "Tag \"man_made=incinerator\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=incinerator"
     }
 }
