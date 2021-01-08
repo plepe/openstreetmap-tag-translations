@@ -37,15 +37,15 @@
         "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
     },
     "tag:addr:full": {
-        "message": "Adresa completa",
+        "message": "Adresa completă",
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
-        "message": "Nume casa ",
+        "message": "Nume casă",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
-        "message": "Numar casa",
+        "message": "Număr casă",
         "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
     },
     "tag:addr:interpolation": {
@@ -157,7 +157,7 @@
         "description": "Tag \"amenity=bar\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bar"
     },
     "tag:amenity=bench": {
-        "message": "Banca",
+        "message": "Bancă",
         "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
     },
     "tag:amenity=bicycle_parking": {
