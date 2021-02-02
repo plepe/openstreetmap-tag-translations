@@ -621,7 +621,7 @@
         "description": "Key \"building\". See https://wiki.openstreetmap.org/wiki/Key:building"
     },
     "tag:building:levels": {
-        "message": "Szintek",
+        "message": "szint",
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
     "tag:building=agriculture": {
@@ -2214,7 +2214,7 @@
         "description": "Key \"emergency\". See https://wiki.openstreetmap.org/wiki/Key:emergency"
     },
     "tag:emergency=access_point": {
-        "message": "Vészhelyzeti bejutási pont",
+        "message": "Vészhelyzeti elérési pont",
         "description": "Tag \"emergency=access_point\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=access_point"
     },
     "tag:emergency=defibrillator": {
@@ -2550,7 +2550,7 @@
         "description": "Tag \"highway=cycleway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=cycleway"
     },
     "tag:highway=emergency_access_point": {
-        "message": "Vészhelyzeti bejutási pont",
+        "message": "Vészhelyzeti elérési pont",
         "description": "Tag \"highway=emergency_access_point\". See https://wiki.openstreetmap.org/wiki/Tag:highway=emergency_access_point"
     },
     "tag:highway=footway": {
