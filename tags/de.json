@@ -1201,7 +1201,7 @@
         "description": "Tag \"craft=car_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=car_repair"
     },
     "tag:craft=carpenter": {
-        "message": "Tischler",
+        "message": "Zimmerer",
         "description": "Tag \"craft=carpenter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=carpenter"
     },
     "tag:craft=carpet_layer": {
@@ -1325,7 +1325,7 @@
         "description": "Tag \"craft=jeweller\". See https://wiki.openstreetmap.org/wiki/Tag:craft=jeweller"
     },
     "tag:craft=joiner": {
-        "message": "",
+        "message": "Tischler",
         "description": "Tag \"craft=joiner\". See https://wiki.openstreetmap.org/wiki/Tag:craft=joiner"
     },
     "tag:craft=juice_bottler": {
