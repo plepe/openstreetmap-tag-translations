@@ -101,7 +101,7 @@
         "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=7.5": {
-        "message": "",
+        "message": "Nível administrativo (7,5)",
         "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
     },
     "tag:admin_level=8": {
@@ -1269,11 +1269,11 @@
         "description": "Tag \"craft=electronics_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=electronics_repair"
     },
     "tag:craft=embroidery": {
-        "message": "",
+        "message": "Bordados",
         "description": "Tag \"craft=embroidery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=embroidery"
     },
     "tag:craft=engraver": {
-        "message": "",
+        "message": "Gravador de joias",
         "description": "Tag \"craft=engraver\". See https://wiki.openstreetmap.org/wiki/Tag:craft=engraver"
     },
     "tag:craft=floorer": {
@@ -1293,7 +1293,7 @@
         "description": "Tag \"craft=glass\". See https://wiki.openstreetmap.org/wiki/Tag:craft=glass"
     },
     "tag:craft=glaziery": {
-        "message": "",
+        "message": "Vidraria",
         "description": "Tag \"craft=glaziery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=glaziery"
     },
     "tag:craft=goldsmith": {
@@ -1325,7 +1325,7 @@
         "description": "Tag \"craft=insulation\". See https://wiki.openstreetmap.org/wiki/Tag:craft=insulation"
     },
     "tag:craft=iron_craftsman": {
-        "message": "",
+        "message": "Ferreiro",
         "description": "Tag \"craft=iron_craftsman\". See https://wiki.openstreetmap.org/wiki/Tag:craft=iron_craftsman"
     },
     "tag:craft=jeweller": {
@@ -1373,7 +1373,7 @@
         "description": "Tag \"craft=metal_works\". See https://wiki.openstreetmap.org/wiki/Tag:craft=metal_works"
     },
     "tag:craft=mint": {
-        "message": "",
+        "message": "Cunhador",
         "description": "Tag \"craft=mint\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mint"
     },
     "tag:craft=mobile_phone": {
@@ -1393,7 +1393,7 @@
         "description": "Tag \"craft=optician\". See https://wiki.openstreetmap.org/wiki/Tag:craft=optician"
     },
     "tag:craft=organ_builder": {
-        "message": "",
+        "message": "Construtor de órgão",
         "description": "Tag \"craft=organ_builder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=organ_builder"
     },
     "tag:craft=painter": {
@@ -1405,7 +1405,7 @@
         "description": "Tag \"craft=parquet_layer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=parquet_layer"
     },
     "tag:craft=paver": {
-        "message": "",
+        "message": "Calceteiro",
         "description": "Tag \"craft=paver\". See https://wiki.openstreetmap.org/wiki/Tag:craft=paver"
     },
     "tag:craft=photo_studio": {
@@ -1505,7 +1505,7 @@
         "description": "Tag \"craft=stonemason\". See https://wiki.openstreetmap.org/wiki/Tag:craft=stonemason"
     },
     "tag:craft=sun_protection": {
-        "message": "",
+        "message": "Toldos",
         "description": "Tag \"craft=sun_protection\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sun_protection"
     },
     "tag:craft=tailor": {
@@ -1529,11 +1529,11 @@
         "description": "Tag \"craft=turner\". See https://wiki.openstreetmap.org/wiki/Tag:craft=turner"
     },
     "tag:craft=upholsterer": {
-        "message": "",
+        "message": "Estofador",
         "description": "Tag \"craft=upholsterer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=upholsterer"
     },
     "tag:craft=varnisher": {
-        "message": "",
+        "message": "Envernizador",
         "description": "Tag \"craft=varnisher\". See https://wiki.openstreetmap.org/wiki/Tag:craft=varnisher"
     },
     "tag:craft=watchmaker": {
@@ -1610,7 +1610,7 @@
         "description": "Tag \"cuisine=baiana\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=balkan": {
-        "message": "",
+        "message": "balcã",
         "description": "Tag \"cuisine=balkan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=barbecue": {
@@ -1622,15 +1622,15 @@
         "description": "Tag \"cuisine=basque\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=bavarian": {
-        "message": "",
+        "message": "bávara",
         "description": "Tag \"cuisine=bavarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=belarusan": {
-        "message": "",
+        "message": "bielorrussa",
         "description": "Tag \"cuisine=belarusan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=biscuit": {
-        "message": "",
+        "message": "biscoito",
         "description": "Tag \"cuisine=biscuit\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=bolivian": {
@@ -2138,7 +2138,7 @@
         "description": "Key \"diet:halal\". See https://wiki.openstreetmap.org/wiki/Key:diet:halal"
     },
     "tag:diet:kosher": {
-        "message": "",
+        "message": "kosher",
         "description": "Key \"diet:kosher\". See https://wiki.openstreetmap.org/wiki/Key:diet:kosher"
     },
     "tag:diet:lacto_vegetarian": {
@@ -4714,7 +4714,7 @@
         "description": "Tag \"religion=hindu\". See https://wiki.openstreetmap.org/wiki/Tag:religion=hindu"
     },
     "tag:religion=jain": {
-        "message": "",
+        "message": "jainista",
         "description": "Tag \"religion=jain\". See https://wiki.openstreetmap.org/wiki/Tag:religion=jain"
     },
     "tag:religion=jewish": {
@@ -4730,11 +4730,11 @@
         "description": "Tag \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
     },
     "tag:religion=none": {
-        "message": "",
+        "message": "sem afiliação",
         "description": "Tag \"religion=none\". See https://wiki.openstreetmap.org/wiki/Tag:religion=none"
     },
     "tag:religion=pagan": {
-        "message": "",
+        "message": "pagã",
         "description": "Tag \"religion=pagan\". See https://wiki.openstreetmap.org/wiki/Tag:religion=pagan"
     },
     "tag:religion=pentecostal": {
@@ -4750,19 +4750,19 @@
         "description": "Tag \"religion=shamanic\". See https://wiki.openstreetmap.org/wiki/Tag:religion=shamanic"
     },
     "tag:religion=shinto": {
-        "message": "",
+        "message": "xintoísta",
         "description": "Tag \"religion=shinto\". See https://wiki.openstreetmap.org/wiki/Tag:religion=shinto"
     },
     "tag:religion=sikh": {
-        "message": "",
+        "message": "sique",
         "description": "Tag \"religion=sikh\". See https://wiki.openstreetmap.org/wiki/Tag:religion=sikh"
     },
     "tag:religion=spiritualist": {
-        "message": "",
+        "message": "espiritualista",
         "description": "Tag \"religion=spiritualist\". See https://wiki.openstreetmap.org/wiki/Tag:religion=spiritualist"
     },
     "tag:religion=taoist": {
-        "message": "",
+        "message": "taoísta",
         "description": "Tag \"religion=taoist\". See https://wiki.openstreetmap.org/wiki/Tag:religion=taoist"
     },
     "tag:religion=tenrikyo": {
@@ -4778,11 +4778,11 @@
         "description": "Tag \"religion=vientamese_folk\". See https://wiki.openstreetmap.org/wiki/Tag:religion=vientamese_folk"
     },
     "tag:religion=voodoo": {
-        "message": "",
+        "message": "vudu",
         "description": "Tag \"religion=voodoo\". See https://wiki.openstreetmap.org/wiki/Tag:religion=voodoo"
     },
     "tag:religion=zoroastrian": {
-        "message": "",
+        "message": "zoroastrista",
         "description": "Tag \"religion=zoroastrian\". See https://wiki.openstreetmap.org/wiki/Tag:religion=zoroastrian"
     },
     "tag:residential=HDB": {
@@ -5558,7 +5558,7 @@
         "description": "Tag \"sport=equestrian\". See https://wiki.openstreetmap.org/wiki/Tag:sport=equestrian"
     },
     "tag:sport=field_hockey": {
-        "message": "",
+        "message": "Hóquei em campo",
         "description": "Tag \"sport=field_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=field_hockey"
     },
     "tag:sport=fitness": {
@@ -5654,7 +5654,7 @@
         "description": "Tag \"sport=running\". See https://wiki.openstreetmap.org/wiki/Tag:sport=running"
     },
     "tag:sport=sailing": {
-        "message": "",
+        "message": "Navegação",
         "description": "Tag \"sport=sailing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=sailing"
     },
     "tag:sport=shooting": {
@@ -6388,5 +6388,73 @@
     "tag:man_made=incinerator": {
         "message": "Incinerador",
         "description": "Tag \"man_made=incinerator\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=incinerator"
+    },
+    "tag:climbing:multipitch": {
+        "message": "Rotas de escalada multi-pitch",
+        "description": "Key \"climbing:multipitch\". See https://wiki.openstreetmap.org/wiki/Key:climbing:multipitch"
+    },
+    "tag:climbing:orientation": {
+        "message": "Direção de escalada",
+        "description": "Key \"climbing:orientation\". See https://wiki.openstreetmap.org/wiki/Key:climbing:orientation"
+    },
+    "tag:climbing:quality": {
+        "message": "Qualidade da escalada",
+        "description": "Key \"climbing:quality\". See https://wiki.openstreetmap.org/wiki/Key:climbing:quality"
+    },
+    "tag:climbing:rock": {
+        "message": "Escalada na rocha",
+        "description": "Key \"climbing:rock\". See https://wiki.openstreetmap.org/wiki/Key:climbing:rock"
+    },
+    "tag:climbing:routes": {
+        "message": "Número de rotas de escalada",
+        "description": "Key \"climbing:routes\". See https://wiki.openstreetmap.org/wiki/Key:climbing:routes"
+    },
+    "tag:climbing:speed": {
+        "message": "Escalada em velocidade",
+        "description": "Key \"climbing:speed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:speed"
+    },
+    "tag:climbing:summit_log": {
+        "message": "Elemento de escalada possui registro de chegada",
+        "description": "Key \"climbing:summit_log\". See https://wiki.openstreetmap.org/wiki/Key:climbing:summit_log"
+    },
+    "tag:climbing:toprope": {
+        "message": "Escalada em corda superior",
+        "description": "Key \"climbing:toprope\". See https://wiki.openstreetmap.org/wiki/Key:climbing:toprope"
+    },
+    "tag:climbing:trad": {
+        "message": "Escalada tradicional",
+        "description": "Key \"climbing:trad\". See https://wiki.openstreetmap.org/wiki/Key:climbing:trad"
+    },
+    "tag:climbing=boulder": {
+        "message": "Bouldering",
+        "description": "Tag \"climbing=boulder\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=boulder"
+    },
+    "tag:climbing=crag": {
+        "message": "Penhasco",
+        "description": "Tag \"climbing=crag\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=crag"
+    },
+    "tag:climbing=route": {
+        "message": "Rota",
+        "description": "Tag \"climbing=route\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route"
+    },
+    "tag:climbing=route_bottom": {
+        "message": "Ponto mais baixo da rota de escalada",
+        "description": "Tag \"climbing=route_bottom\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route_bottom"
+    },
+    "tag:climbing=route_top": {
+        "message": "Ponto mais alto da rota de escalada",
+        "description": "Tag \"climbing=route_top\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route_top"
+    },
+    "tag:sport=karting": {
+        "message": "Corrida de kart",
+        "description": "Tag \"sport=karting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=karting"
+    },
+    "tag:sport=netball": {
+        "message": "Netball",
+        "description": "Tag \"sport=netball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=netball"
+    },
+    "tag:sport=softball": {
+        "message": "Softbol",
+        "description": "Tag \"sport=softball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=softball"
     }
 }
