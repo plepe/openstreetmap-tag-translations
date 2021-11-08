@@ -1377,7 +1377,7 @@
         "description": "Tag \"craft=mint\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mint"
     },
     "tag:craft=mobile_phone": {
-        "message": "",
+        "message": "Oficina de celulares",
         "description": "Tag \"craft=mobile_phone\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mobile_phone"
     },
     "tag:craft=model_maker": {
@@ -1385,7 +1385,7 @@
         "description": "Tag \"craft=model_maker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=model_maker"
     },
     "tag:craft=musical_instrument": {
-        "message": "",
+        "message": "Oficina de instrumentos musicais",
         "description": "Tag \"craft=musical_instrument\". See https://wiki.openstreetmap.org/wiki/Tag:craft=musical_instrument"
     },
     "tag:craft=optician": {
@@ -1401,7 +1401,7 @@
         "description": "Tag \"craft=painter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=painter"
     },
     "tag:craft=parquet_layer": {
-        "message": "",
+        "message": "Técnico de parqué",
         "description": "Tag \"craft=parquet_layer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=parquet_layer"
     },
     "tag:craft=paver": {
@@ -1469,7 +1469,7 @@
         "description": "Tag \"craft=saddler\". See https://wiki.openstreetmap.org/wiki/Tag:craft=saddler"
     },
     "tag:craft=sailmaker": {
-        "message": "",
+        "message": "Fabricante de velas náuticas",
         "description": "Tag \"craft=sailmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sailmaker"
     },
     "tag:craft=sawmill": {
@@ -1497,7 +1497,7 @@
         "description": "Tag \"craft=signmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=signmaker"
     },
     "tag:craft=stand_builder": {
-        "message": "",
+        "message": "Construtor de stands",
         "description": "Tag \"craft=stand_builder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=stand_builder"
     },
     "tag:craft=stonemason": {
@@ -1638,7 +1638,7 @@
         "description": "Tag \"cuisine=bolivian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=bougatsa": {
-        "message": "",
+        "message": "bougatsa",
         "description": "Tag \"cuisine=bougatsa\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=brazilian": {
@@ -1654,7 +1654,7 @@
         "description": "Tag \"cuisine=cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=cantonese": {
-        "message": "",
+        "message": "cantonesa",
         "description": "Tag \"cuisine=cantonese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=capixaba": {
@@ -1670,7 +1670,7 @@
         "description": "Tag \"cuisine=caribean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=casserole": {
-        "message": "",
+        "message": "caçarola",
         "description": "Tag \"cuisine=casserole\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chicken": {
@@ -1678,7 +1678,7 @@
         "description": "Tag \"cuisine=chicken\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chimney_cake": {
-        "message": "",
+        "message": "bolo de chaminé",
         "description": "Tag \"cuisine=chimney_cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=chinese": {
@@ -1698,7 +1698,7 @@
         "description": "Tag \"cuisine=cookie\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=couscous": {
-        "message": "",
+        "message": "cuscuz",
         "description": "Tag \"cuisine=couscous\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=crepe": {
@@ -1710,15 +1710,15 @@
         "description": "Tag \"cuisine=croatian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=curry": {
-        "message": "",
+        "message": "curry",
         "description": "Tag \"cuisine=curry\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=czech": {
-        "message": "",
+        "message": "tcheca",
         "description": "Tag \"cuisine=czech\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=danish": {
-        "message": "",
+        "message": "dinamarquesa",
         "description": "Tag \"cuisine=danish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=dessert": {
@@ -1782,7 +1782,7 @@
         "description": "Tag \"cuisine=hawaiian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=hunan": {
-        "message": "",
+        "message": "hunan",
         "description": "Tag \"cuisine=hunan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=hungarian": {
@@ -1830,7 +1830,7 @@
         "description": "Tag \"cuisine=korean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=kyo_ryouri": {
-        "message": "",
+        "message": "kyo ryori",
         "description": "Tag \"cuisine=kyo_ryouri\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=langos": {
@@ -1966,7 +1966,7 @@
         "description": "Tag \"cuisine=seafood\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=shandong": {
-        "message": "",
+        "message": "shandong",
         "description": "Tag \"cuisine=shandong\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sichuan": {
