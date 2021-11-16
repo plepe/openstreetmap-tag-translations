@@ -4766,7 +4766,7 @@
         "description": "Tag \"religion=taoist\". See https://wiki.openstreetmap.org/wiki/Tag:religion=taoist"
     },
     "tag:religion=tenrikyo": {
-        "message": "",
+        "message": "tenri",
         "description": "Tag \"religion=tenrikyo\". See https://wiki.openstreetmap.org/wiki/Tag:religion=tenrikyo"
     },
     "tag:religion=unitarian_universialist": {
@@ -5542,7 +5542,7 @@
         "description": "Tag \"sport=cycling\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cycling"
     },
     "tag:sport=darts": {
-        "message": "",
+        "message": "Dardos",
         "description": "Tag \"sport=darts\". See https://wiki.openstreetmap.org/wiki/Tag:sport=darts"
     },
     "tag:sport=diving": {
@@ -5590,7 +5590,7 @@
         "description": "Tag \"sport=ice_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_hockey"
     },
     "tag:sport=ice_skating": {
-        "message": "",
+        "message": "Patinagem no gelo",
         "description": "Tag \"sport=ice_skating\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_skating"
     },
     "tag:sport=korfball": {
@@ -5642,11 +5642,11 @@
         "description": "Tag \"sport=rugby\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rugby"
     },
     "tag:sport=rugby_league": {
-        "message": "",
+        "message": "Rugby league",
         "description": "Tag \"sport=rugby_league\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_league"
     },
     "tag:sport=rugby_union": {
-        "message": "",
+        "message": "Rugby de quinze",
         "description": "Tag \"sport=rugby_union\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_union"
     },
     "tag:sport=running": {
@@ -6456,5 +6456,13 @@
     "tag:sport=softball": {
         "message": "Softbol",
         "description": "Tag \"sport=softball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=softball"
+    },
+    "tag:sport=climbing_adventure": {
+        "message": "Aventura de escalada",
+        "description": "Tag \"sport=climbing_adventure\". See https://wiki.openstreetmap.org/wiki/Tag:sport=climbing_adventure"
+    },
+    "tag:sport=padel": {
+        "message": "Padel",
+        "description": "Tag \"sport=padel\". See https://wiki.openstreetmap.org/wiki/Tag:sport=padel"
     }
 }
