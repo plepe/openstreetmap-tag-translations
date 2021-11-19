@@ -6464,5 +6464,9 @@
     "tag:sport=padel": {
         "message": "Padel",
         "description": "Tag \"sport=padel\". See https://wiki.openstreetmap.org/wiki/Tag:sport=padel"
+    },
+    "tag:leisure=escape_game": {
+        "message": "Jogo de fuga",
+        "description": "Tag \"leisure=escape_game\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=escape_game"
     }
 }
