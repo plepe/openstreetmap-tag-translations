@@ -332,6 +332,10 @@
         "message": "Seniorenheim",
         "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
     },
+    "tag:amenity=parcel_locker": {
+        "message": "Paketstation",
+        "description": "Tag \"amenity=parcel_locker\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parcel_locker"
+    },
     "tag:amenity=parking": {
         "message": "Parkplatz",
         "description": "Tag \"amenity=parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parking"
@@ -477,15 +481,15 @@
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=news_papers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=news_papers"
     },
     "tag:amenity=vending_machine vending=parcel_mail_in": {
-        "message": "Packstation",
+        "message": "Paketstation",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_mail_in"
     },
     "tag:amenity=vending_machine vending=parcel_pickup": {
-        "message": "Packstation",
+        "message": "Paketstation",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_pickup\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_pickup"
     },
     "tag:amenity=vending_machine vending=parcel_pickup;parcel_mail_in": {
-        "message": "Packstation",
+        "message": "Paketstation",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_pickup;parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_pickup;parcel_mail_in"
     },
     "tag:amenity=vending_machine vending=parking_tickets": {

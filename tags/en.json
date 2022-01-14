@@ -400,6 +400,10 @@
         "message": "Nursing Home",
         "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
     },
+    "tag:amenity=parcel_locker": {
+        "message": "Parcel locker",
+        "description": "Tag \"amenity=parcel_locker\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parcel_locker"
+    },
     "tag:amenity=parking": {
         "message": "Parking",
         "description": "Tag \"amenity=parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parking"
