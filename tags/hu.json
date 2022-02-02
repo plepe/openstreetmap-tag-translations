@@ -589,7 +589,7 @@
         "description": "Tag \"bath:type=lake\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=lake"
     },
     "tag:bath:type=onsen": {
-        "message": "",
+        "message": "Onszen",
         "description": "Tag \"bath:type=onsen\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=onsen"
     },
     "tag:bath:type=river": {
@@ -2042,7 +2042,7 @@
         "description": "Tag \"cuisine=wings\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cutting": {
-        "message": "",
+        "message": "Bevágás",
         "description": "Key \"cutting\". See https://wiki.openstreetmap.org/wiki/Key:cutting"
     },
     "tag:cycleway": {
@@ -2502,7 +2502,7 @@
         "description": "Tag \"heritage=0\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=0"
     },
     "tag:heritage=1": {
-        "message": "",
+        "message": "UNESCO világörökség",
         "description": "Tag \"heritage=1\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=1"
     },
     "tag:heritage=2": {
@@ -2886,7 +2886,7 @@
         "description": "Tag \"historic=yes\". See https://wiki.openstreetmap.org/wiki/Tag:historic=yes"
     },
     "tag:horse": {
-        "message": "",
+        "message": "Lóval használható",
         "description": "Key \"horse\". See https://wiki.openstreetmap.org/wiki/Key:horse"
     },
     "tag:incline": {
@@ -2898,15 +2898,15 @@
         "description": "Tag \"information=audioguide\". See https://wiki.openstreetmap.org/wiki/Tag:information=audioguide"
     },
     "tag:information=board": {
-        "message": "",
+        "message": "Tábla",
         "description": "Tag \"information=board\". See https://wiki.openstreetmap.org/wiki/Tag:information=board"
     },
     "tag:information=guidepost": {
-        "message": "",
+        "message": "Útirányjelző tábla",
         "description": "Tag \"information=guidepost\". See https://wiki.openstreetmap.org/wiki/Tag:information=guidepost"
     },
     "tag:information=map": {
-        "message": "",
+        "message": "Térkép",
         "description": "Tag \"information=map\". See https://wiki.openstreetmap.org/wiki/Tag:information=map"
     },
     "tag:information=office": {
@@ -2914,23 +2914,23 @@
         "description": "Tag \"information=office\". See https://wiki.openstreetmap.org/wiki/Tag:information=office"
     },
     "tag:information=route_marker": {
-        "message": "",
+        "message": "Turistaútjelzés",
         "description": "Tag \"information=route_marker\". See https://wiki.openstreetmap.org/wiki/Tag:information=route_marker"
     },
     "tag:information=tactile_map": {
-        "message": "",
+        "message": "Tapintható térkép",
         "description": "Tag \"information=tactile_map\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_map"
     },
     "tag:information=tactile_model": {
-        "message": "",
+        "message": "Tapintható modell",
         "description": "Tag \"information=tactile_model\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_model"
     },
     "tag:information=terminal": {
-        "message": "",
+        "message": "Információs terminál",
         "description": "Tag \"information=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:information=terminal"
     },
     "tag:information=trail_blaze": {
-        "message": "",
+        "message": "Turistaút-jelzés",
         "description": "Tag \"information=trail_blaze\". See https://wiki.openstreetmap.org/wiki/Tag:information=trail_blaze"
     },
     "tag:inscription": {
@@ -3410,7 +3410,7 @@
         "description": "Key \"maxweight\". See https://wiki.openstreetmap.org/wiki/Key:maxweight"
     },
     "tag:memorial:conflict": {
-        "message": "",
+        "message": "Az emlékezés tárgyát jelentő konfliktus",
         "description": "Key \"memorial:conflict\". See https://wiki.openstreetmap.org/wiki/Key:memorial:conflict"
     },
     "tag:memorial:conflict=WW1": {
@@ -3434,7 +3434,7 @@
         "description": "Tag \"memorial=cross\" or \"memorial:type=cross\" or \"monument=cross\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=cross"
     },
     "tag:memorial=ghost_bike": {
-        "message": "",
+        "message": "Szellemkerékpár",
         "description": "Tag \"memorial=ghost_bike\" or \"memorial:type=ghost_bike\" or \"monument=ghost_bike\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=ghost_bike"
     },
     "tag:memorial=grave": {
@@ -4806,7 +4806,7 @@
         "description": "Tag \"route=railway\". See https://wiki.openstreetmap.org/wiki/Tag:route=railway"
     },
     "tag:route=road": {
-        "message": "",
+        "message": "Út",
         "description": "Tag \"route=road\". See https://wiki.openstreetmap.org/wiki/Tag:route=road"
     },
     "tag:route=subway": {
@@ -4838,11 +4838,11 @@
         "description": "Key \"route_type\". See https://wiki.openstreetmap.org/wiki/Key:route_type"
     },
     "tag:sauna=aroma": {
-        "message": "",
+        "message": "Aromaszauna",
         "description": "Tag \"sauna=aroma\". See https://wiki.openstreetmap.org/wiki/Tag:sauna=aroma"
     },
     "tag:sauna=dry": {
-        "message": "",
+        "message": "Szárazszauna",
         "description": "Tag \"sauna=dry\". See https://wiki.openstreetmap.org/wiki/Tag:sauna=dry"
     },
     "tag:sauna=hanjeungmak": {
@@ -4854,7 +4854,7 @@
         "description": "Tag \"sauna=hot\". See https://wiki.openstreetmap.org/wiki/Tag:sauna=hot"
     },
     "tag:sauna=infrared": {
-        "message": "",
+        "message": "Infraszauna",
         "description": "Tag \"sauna=infrared\". See https://wiki.openstreetmap.org/wiki/Tag:sauna=infrared"
     },
     "tag:sauna=smoke": {
@@ -4862,7 +4862,7 @@
         "description": "Tag \"sauna=smoke\". See https://wiki.openstreetmap.org/wiki/Tag:sauna=smoke"
     },
     "tag:sauna=steam": {
-        "message": "",
+        "message": "Gőzszauna",
         "description": "Tag \"sauna=steam\". See https://wiki.openstreetmap.org/wiki/Tag:sauna=steam"
     },
     "tag:service": {
@@ -5866,7 +5866,7 @@
         "description": "Tag \"type=oil\". See https://wiki.openstreetmap.org/wiki/Tag:type=oil"
     },
     "tag:type=route route=mtb": {
-        "message": "",
+        "message": "Hegyikerékpáros útvonal",
         "description": "Combined tag \"type=route\" and \"route=mtb\". See https://wiki.openstreetmap.org/wiki/Tag:type=route and https://wiki.openstreetmap.org/wiki/Tag:route=mtb"
     },
     "tag:type=sewage": {
@@ -6056,5 +6056,357 @@
     "tag:climbing": {
         "message": "Sziklamászás",
         "description": "Key \"climbing\". See https://wiki.openstreetmap.org/wiki/Key:climbing"
+    },
+    "tag:access=agricultural": {
+        "message": "csak mezőgazdasági célú közlekedés",
+        "description": "Tag \"access=agricultural\". See https://wiki.openstreetmap.org/wiki/Tag:access=agricultural"
+    },
+    "tag:access=customers": {
+        "message": "csak ügyfeleknek",
+        "description": "Tag \"access=customers\". See https://wiki.openstreetmap.org/wiki/Tag:access=customers"
+    },
+    "tag:access=delivery": {
+        "message": "csak áruszállítás",
+        "description": "Tag \"access=delivery\". See https://wiki.openstreetmap.org/wiki/Tag:access=delivery"
+    },
+    "tag:access=destination": {
+        "message": "csak célforgalom",
+        "description": "Tag \"access=destination\". See https://wiki.openstreetmap.org/wiki/Tag:access=destination"
+    },
+    "tag:access=discouraged": {
+        "message": "használata nem tanácsos",
+        "description": "Tag \"access=discouraged\". See https://wiki.openstreetmap.org/wiki/Tag:access=discouraged"
+    },
+    "tag:access=dismount": {
+        "message": "kerékpárral csak tolva",
+        "description": "Tag \"access=dismount\". See https://wiki.openstreetmap.org/wiki/Tag:access=dismount"
+    },
+    "tag:access=forestry": {
+        "message": "csak erdészeti célú forgalom",
+        "description": "Tag \"access=forestry\". See https://wiki.openstreetmap.org/wiki/Tag:access=forestry"
+    },
+    "tag:access=no": {
+        "message": "nem használható",
+        "description": "Tag \"access=no\". See https://wiki.openstreetmap.org/wiki/Tag:access=no"
+    },
+    "tag:access=permissive": {
+        "message": "megtűrt",
+        "description": "Tag \"access=permissive\". See https://wiki.openstreetmap.org/wiki/Tag:access=permissive"
+    },
+    "tag:access=unknown": {
+        "message": "ismeretlen",
+        "description": "Tag \"access=unknown\". See https://wiki.openstreetmap.org/wiki/Tag:access=unknown"
+    },
+    "tag:access=use_sidepath": {
+        "message": "járdát kell használni",
+        "description": "Tag \"access=use_sidepath\". See https://wiki.openstreetmap.org/wiki/Tag:access=use_sidepath"
+    },
+    "tag:access=yes": {
+        "message": "nyilvánosan használható",
+        "description": "Tag \"access=yes\". See https://wiki.openstreetmap.org/wiki/Tag:access=yes"
+    },
+    "tag:aeroway=aerodrome": {
+        "message": "Repülőtér",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "Kifutópálya",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:aeroway=heliport": {
+        "message": "Helikopter-leszállóhely",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:amenity=parcel_locker": {
+        "message": "Csomagfeladó automata",
+        "description": "Tag \"amenity=parcel_locker\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parcel_locker"
+    },
+    "tag:changing_table": {
+        "message": "Pelenkázóasztal",
+        "description": "Key \"changing_table\". See https://wiki.openstreetmap.org/wiki/Key:changing_table"
+    },
+    "tag:climbing:boulder": {
+        "message": "Boulderezés",
+        "description": "Key \"climbing:boulder\". See https://wiki.openstreetmap.org/wiki/Key:climbing:boulder"
+    },
+    "tag:climbing:ice": {
+        "message": "Jégmászás",
+        "description": "Key \"climbing:ice\". See https://wiki.openstreetmap.org/wiki/Key:climbing:ice"
+    },
+    "tag:climbing:length": {
+        "message": "Mászóút hossza",
+        "description": "Key \"climbing:length\". See https://wiki.openstreetmap.org/wiki/Key:climbing:length"
+    },
+    "tag:climbing:rock": {
+        "message": "Sziklamászás",
+        "description": "Key \"climbing:rock\". See https://wiki.openstreetmap.org/wiki/Key:climbing:rock"
+    },
+    "tag:climbing:speed": {
+        "message": "Gyorsmászás",
+        "description": "Key \"climbing:speed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:speed"
+    },
+    "tag:climbing:sport": {
+        "message": "Sportmászás",
+        "description": "Key \"climbing:sport\". See https://wiki.openstreetmap.org/wiki/Key:climbing:sport"
+    },
+    "tag:climbing:trad": {
+        "message": "Hagyományos mászás",
+        "description": "Key \"climbing:trad\". See https://wiki.openstreetmap.org/wiki/Key:climbing:trad"
+    },
+    "tag:climbing=boulder": {
+        "message": "Boulderezés",
+        "description": "Tag \"climbing=boulder\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=boulder"
+    },
+    "tag:cycleway=lane": {
+        "message": "Kerékpársáv",
+        "description": "Tag \"cycleway=lane\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=lane"
+    },
+    "tag:cycleway=track": {
+        "message": "",
+        "description": "Tag \"cycleway=track\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=track"
+    },
+    "tag:direction": {
+        "message": "Irány",
+        "description": "Key \"direction\". See https://wiki.openstreetmap.org/wiki/Key:direction"
+    },
+    "tag:direction=E": {
+        "message": "Kelet",
+        "description": "Tag \"direction=E\". See https://wiki.openstreetmap.org/wiki/Tag:direction=E"
+    },
+    "tag:direction=ENE": {
+        "message": "Észak-északkelet",
+        "description": "Tag \"direction=NEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NEE"
+    },
+    "tag:direction=ESE": {
+        "message": "Kelet-délkelet",
+        "description": "Tag \"direction=SEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SEE"
+    },
+    "tag:direction=N": {
+        "message": "Észak",
+        "description": "Tag \"direction=N\". See https://wiki.openstreetmap.org/wiki/Tag:direction=N"
+    },
+    "tag:direction=NNE": {
+        "message": "Észak-északkelet",
+        "description": "Tag \"direction=NNE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNE"
+    },
+    "tag:direction=NNW": {
+        "message": "Észak-északnyugat",
+        "description": "Tag \"direction=NNW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNW"
+    },
+    "tag:direction=NW": {
+        "message": "Északnyugat",
+        "description": "Tag \"direction=NW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NW"
+    },
+    "tag:direction=S": {
+        "message": "Dél",
+        "description": "Tag \"direction=S\". See https://wiki.openstreetmap.org/wiki/Tag:direction=S"
+    },
+    "tag:direction=SE": {
+        "message": "Délkelet",
+        "description": "Tag \"direction=SE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SE"
+    },
+    "tag:direction=SSE": {
+        "message": "Dél-délkelet",
+        "description": "Tag \"direction=SSE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSE"
+    },
+    "tag:direction=SSW": {
+        "message": "Dél-délnyugat",
+        "description": "Tag \"direction=SSW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SSW"
+    },
+    "tag:direction=SW": {
+        "message": "Délnyugat",
+        "description": "Tag \"direction=SW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SW"
+    },
+    "tag:direction=W": {
+        "message": "Nyugat",
+        "description": "Tag \"direction=W\". See https://wiki.openstreetmap.org/wiki/Tag:direction=W"
+    },
+    "tag:direction=WNW": {
+        "message": "Nyugat-északnyugat",
+        "description": "Tag \"direction=NWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NWW"
+    },
+    "tag:direction=WSW": {
+        "message": "Nyugat-délnyugat",
+        "description": "Tag \"direction=SWW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SWW"
+    },
+    "tag:highway=via_ferrata": {
+        "message": "Vasalt út (via ferrata)",
+        "description": "Tag \"highway=via_ferrata\". See https://wiki.openstreetmap.org/wiki/Tag:highway=via_ferrata"
+    },
+    "tag:leisure=bleachers": {
+        "message": "Lelátó",
+        "description": "Tag \"leisure=bleachers\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=bleachers"
+    },
+    "tag:leisure=bowling_alley": {
+        "message": "Bowlingpálya",
+        "description": "Tag \"leisure=bowling_alley\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=bowling_alley"
+    },
+    "tag:leisure=escape_game": {
+        "message": "Szabadulószoba",
+        "description": "Tag \"leisure=escape_game\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=escape_game"
+    },
+    "tag:leisure=pitch sport=american_football": {
+        "message": "Amerikaifutball-pálya",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=american_football\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=american_football"
+    },
+    "tag:leisure=pitch sport=australian_football": {
+        "message": "Ausztrálfutball-pálya",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=australian_football\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=australian_football"
+    },
+    "tag:leisure=pitch sport=badminton": {
+        "message": "Tollaslabdapálya",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=badminton\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=badminton"
+    },
+    "tag:leisure=pitch sport=baseball": {
+        "message": "Baseballpálya",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=baseball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=baseball"
+    },
+    "tag:leisure=pitch sport=basketball": {
+        "message": "Kosárlabdapálya",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=basketball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=basketball"
+    },
+    "tag:leisure=pitch sport=beachvolleyball": {
+        "message": "Strandröplabdapálya",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=beachvolleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=beachvolleyball"
+    },
+    "tag:leisure=pitch sport=cricket": {
+        "message": "Krikettpálya",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=cricket\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=cricket"
+    },
+    "tag:leisure=pitch sport=field_hockey": {
+        "message": "Gyephokipálya",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=field_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=field_hockey"
+    },
+    "tag:leisure=pitch sport=horseshoes": {
+        "message": "Patkódobó gödör",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=horseshoes\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=horseshoes"
+    },
+    "tag:leisure=pitch sport=netball": {
+        "message": "Netballpálya",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=netball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=netball"
+    },
+    "tag:leisure=pitch sport=rugby_league": {
+        "message": "Rögbipálya (league)",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=rugby_league\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_league"
+    },
+    "tag:leisure=pitch sport=rugby_union": {
+        "message": "Rögbipálya (union)",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=rugby_union\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_union"
+    },
+    "tag:leisure=pitch sport=skateboard": {
+        "message": "Gördeszkapark",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=skateboard\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=skateboard"
+    },
+    "tag:leisure=pitch sport=soccer": {
+        "message": "Futballpálya",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=soccer\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=soccer"
+    },
+    "tag:leisure=pitch sport=table_tennis": {
+        "message": "Pingpongasztal",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=table_tennis\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=table_tennis"
+    },
+    "tag:leisure=pitch sport=tennis": {
+        "message": "Teniszpálya",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=tennis\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=tennis"
+    },
+    "tag:leisure=pitch sport=volleyball": {
+        "message": "Röplabdapálya",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=volleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=volleyball"
+    },
+    "tag:leisure=sports_hall": {
+        "message": "Sportcsarnok",
+        "description": "Tag \"leisure=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=sports_hall"
+    },
+    "tag:maxspeed=none": {
+        "message": "nincs sebességkorlátozás",
+        "description": "Tag \"maxspeed=none\". See https://wiki.openstreetmap.org/wiki/Key:maxspeed"
+    },
+    "tag:maxspeed=walk": {
+        "message": "lépésben",
+        "description": "Tag \"maxspeed=walk\". See https://wiki.openstreetmap.org/wiki/Tag:maxspeed=walk"
+    },
+    "tag:parking:lane=fire_lane": {
+        "message": "tűzoltó felvonulási terület",
+        "description": "Tag \"parking:lane=fire_lane\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=fire_lane"
+    },
+    "tag:parking:lane=marked": {
+        "message": "egyenként jelölt parkolóhelyek",
+        "description": "Tag \"parking:lane=marked\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=marked"
+    },
+    "tag:parking:lane=no": {
+        "message": "nincs",
+        "description": "Tag \"parking:lane=no\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no"
+    },
+    "tag:parking:lane=no_stopping": {
+        "message": "Várakozni tilos, de megállni szabad",
+        "description": "Tag \"parking:lane=no_stopping\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no_stopping"
+    },
+    "tag:parking:lane=parallel": {
+        "message": "párhuzamos parkolás",
+        "description": "Tag \"parking:lane=parallel\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=parallel"
+    },
+    "tag:parking:lane=perpendicular": {
+        "message": "merőleges parkolás",
+        "description": "Tag \"parking:lane=perpendicular\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=perpendicular"
+    },
+    "tag:sidewalk": {
+        "message": "Járda",
+        "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
+    },
+    "tag:sport=boxing": {
+        "message": "Ökölvívás",
+        "description": "Tag \"sport=boxing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=boxing"
+    },
+    "tag:sport=bullfighting": {
+        "message": "Bikaviadal",
+        "description": "Tag \"sport=bullfighting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=bullfighting"
+    },
+    "tag:sport=climbing_adventure": {
+        "message": "Kalandpark",
+        "description": "Tag \"sport=climbing_adventure\". See https://wiki.openstreetmap.org/wiki/Tag:sport=climbing_adventure"
+    },
+    "tag:sport=free_flying": {
+        "message": "Siklóernyőzés és sárkányrepülés",
+        "description": "Tag \"sport=free_flying\". See https://wiki.openstreetmap.org/wiki/Tag:sport=free_flying"
+    },
+    "tag:sport=futsal": {
+        "message": "Futsal",
+        "description": "Tag \"sport=futsal\". See https://wiki.openstreetmap.org/wiki/Tag:sport=futsal"
+    },
+    "tag:sport=gaelic_games": {
+        "message": "Kelta játékok",
+        "description": "Tag \"sport=gaelic_games\". See https://wiki.openstreetmap.org/wiki/Tag:sport=gaelic_games"
+    },
+    "tag:sport=handball": {
+        "message": "Kézilabda",
+        "description": "Tag \"sport=handball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=handball"
+    },
+    "tag:sport=horseshoes": {
+        "message": "Patkódobás",
+        "description": "Tag \"sport=horseshoes\". See https://wiki.openstreetmap.org/wiki/Tag:sport=horseshoes"
+    },
+    "tag:sport=karting": {
+        "message": "Gokart",
+        "description": "Tag \"sport=karting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=karting"
+    },
+    "tag:sport=long_jump": {
+        "message": "Távolugrás",
+        "description": "Tag \"sport=long_jump\". See https://wiki.openstreetmap.org/wiki/Tag:sport=long_jump"
+    },
+    "tag:sport=netball": {
+        "message": "Netball",
+        "description": "Tag \"sport=netball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=netball"
+    },
+    "tag:sport=paintball": {
+        "message": "Paintball",
+        "description": "Tag \"sport=paintball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=paintball"
+    },
+    "tag:sport=scuba_diving": {
+        "message": "Palackos búvárkodás",
+        "description": "Tag \"sport=scuba_diving\". See https://wiki.openstreetmap.org/wiki/Tag:sport=scuba_diving"
+    },
+    "tag:sport=softball": {
+        "message": "Softball",
+        "description": "Tag \"sport=softball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=softball"
     }
 }
