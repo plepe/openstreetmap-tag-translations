@@ -2416,9 +2416,9 @@
         "message": "tag:healthcare=audiologist",
         "description": "Tag \"healthcare=audiologist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=audiologist"
     },
-    "tag:healthcare=birthing_center": {
-        "message": "tag:healthcare=birthing_center",
-        "description": "Tag \"healthcare=birthing_center\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=birthing_center"
+    "tag:healthcare=birthing_centre": {
+        "message": "tag:healthcare=birthing_centre",
+        "description": "Tag \"healthcare=birthing_centre\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=birthing_centre"
     },
     "tag:healthcare=blood_bank": {
         "message": "tag:healthcare=blood_bank",

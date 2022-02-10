@@ -2409,9 +2409,9 @@
         "message": "",
         "description": "Tag \"healthcare=audiologist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=audiologist"
     },
-    "tag:healthcare=birthing_center": {
+    "tag:healthcare=birthing_centre": {
         "message": "породилиште",
-        "description": "Tag \"healthcare=birthing_center\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=birthing_center"
+        "description": "Tag \"healthcare=birthing_centre\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=birthing_centre"
     },
     "tag:healthcare=blood_bank": {
         "message": "банка крви",
