@@ -244,6 +244,10 @@
         "message": "Bicycle rental",
         "description": "Tag \"amenity=bicycle_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_rental"
     },
+    "tag:amenity=bicycle_repair_station": {
+        "message": "Bicycle repair station",
+        "description": "Tag \"amenity=bicycle_repair_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_repair_station"
+    },
     "tag:amenity=biergarten": {
         "message": "",
         "description": "Tag \"amenity=biergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=biergarten"
@@ -3637,6 +3641,10 @@
         "message": "Mineshaft",
         "description": "Tag \"man_made=mineshaft\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=mineshaft"
     },
+    "tag:man_made=monitoring_station": {
+        "message": "Monitoring station",
+        "description": "Tag \"man_made=monitoring_station\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=monitoring_station"
+    },
     "tag:man_made=pipeline": {
         "message": "",
         "description": "Tag \"man_made=pipeline\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=pipeline"
@@ -5334,7 +5342,7 @@
         "description": "Tag \"shop=beverages\". See https://wiki.openstreetmap.org/wiki/Tag:shop=beverages"
     },
     "tag:shop=bicycle": {
-        "message": "",
+        "message": "Bicycle Shop",
         "description": "Tag \"shop=bicycle\". See https://wiki.openstreetmap.org/wiki/Tag:shop=bicycle"
     },
     "tag:shop=books": {
