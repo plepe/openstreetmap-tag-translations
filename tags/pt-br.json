@@ -201,7 +201,7 @@
         "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
     },
     "tag:amenity=car_rental": {
-        "message": "Aluguel de carros",
+        "message": "Aluguel de automóveis",
         "description": "Tag \"amenity=car_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_rental"
     },
     "tag:amenity=car_sharing": {
@@ -289,7 +289,7 @@
         "description": "Tag \"amenity=fountain\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fountain"
     },
     "tag:amenity=fuel": {
-        "message": "Posto de Combustível",
+        "message": "Posto de combustível",
         "description": "Tag \"amenity=fuel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fuel"
     },
     "tag:amenity=government": {
@@ -1914,7 +1914,7 @@
         "description": "Tag \"cuisine=pogacha\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=polish": {
-        "message": "",
+        "message": "polonesa",
         "description": "Tag \"cuisine=polish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=poppy_seed_roll": {
@@ -2126,7 +2126,7 @@
         "description": "Key \"diet:dairy_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:dairy_free"
     },
     "tag:diet:fruitarian": {
-        "message": "",
+        "message": "frutariana",
         "description": "Key \"diet:fruitarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:fruitarian"
     },
     "tag:diet:gluten_free": {
@@ -2142,11 +2142,11 @@
         "description": "Key \"diet:kosher\". See https://wiki.openstreetmap.org/wiki/Key:diet:kosher"
     },
     "tag:diet:lacto_vegetarian": {
-        "message": "",
+        "message": "lactovegetariana",
         "description": "Key \"diet:lacto_vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:lacto_vegetarian"
     },
     "tag:diet:lactose_free": {
-        "message": "",
+        "message": "sem lactose",
         "description": "Key \"diet:lactose_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:lactose_free"
     },
     "tag:diet:ovo_vegetarian": {
@@ -2354,7 +2354,7 @@
         "description": "Key \"fixme\". See https://wiki.openstreetmap.org/wiki/Key:fixme"
     },
     "tag:flood_date": {
-        "message": "",
+        "message": "Data da cheia",
         "description": "Key \"flood_date\". See https://wiki.openstreetmap.org/wiki/Key:flood_date"
     },
     "tag:flood_mark=engraving": {
@@ -2478,7 +2478,7 @@
         "description": "Tag \"healthcare=alternative\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=alternative"
     },
     "tag:healthcare=audiologist": {
-        "message": "",
+        "message": "Fonoaudiólogo",
         "description": "Tag \"healthcare=audiologist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=audiologist"
     },
     "tag:healthcare=birthing_centre": {
@@ -2766,7 +2766,7 @@
         "description": "Tag \"historic:civilization=imperial_chinese\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=imperial_chinese"
     },
     "tag:historic:civilization=korean": {
-        "message": "",
+        "message": "coreana",
         "description": "Tag \"historic:civilization=korean\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=korean"
     },
     "tag:historic:civilization=medieval": {
@@ -3486,7 +3486,7 @@
         "description": "Key \"maxweight\". See https://wiki.openstreetmap.org/wiki/Key:maxweight"
     },
     "tag:memorial:conflict": {
-        "message": "",
+        "message": "Conflito registrado",
         "description": "Key \"memorial:conflict\". See https://wiki.openstreetmap.org/wiki/Key:memorial:conflict"
     },
     "tag:memorial:conflict=WW1": {
@@ -3574,7 +3574,7 @@
         "description": "Tag \"military=airfield\". See https://wiki.openstreetmap.org/wiki/Tag:military=airfield"
     },
     "tag:military=ammunition": {
-        "message": "",
+        "message": "Munição",
         "description": "Tag \"military=ammunition\". See https://wiki.openstreetmap.org/wiki/Tag:military=ammunition"
     },
     "tag:military=barracks": {
@@ -3594,7 +3594,7 @@
         "description": "Tag \"military=danger_area\". See https://wiki.openstreetmap.org/wiki/Tag:military=danger_area"
     },
     "tag:military=naval_base": {
-        "message": "",
+        "message": "Base naval",
         "description": "Tag \"military=naval_base\". See https://wiki.openstreetmap.org/wiki/Tag:military=naval_base"
     },
     "tag:military=nuclear_explosion_site": {
@@ -5202,7 +5202,7 @@
         "description": "Tag \"shop=health_food\". See https://wiki.openstreetmap.org/wiki/Tag:shop=health_food"
     },
     "tag:shop=hearing_aids": {
-        "message": "",
+        "message": "Loja de protetores auriculares",
         "description": "Tag \"shop=hearing_aids\". See https://wiki.openstreetmap.org/wiki/Tag:shop=hearing_aids"
     },
     "tag:shop=hifi": {
@@ -5526,7 +5526,7 @@
         "description": "Tag \"sport=climbing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=climbing"
     },
     "tag:sport=cockfighting": {
-        "message": "",
+        "message": "Rinha de galo",
         "description": "Tag \"sport=cockfighting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cockfighting"
     },
     "tag:sport=cricket": {
@@ -6468,5 +6468,17 @@
     "tag:leisure=escape_game": {
         "message": "Jogo de fuga",
         "description": "Tag \"leisure=escape_game\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=escape_game"
+    },
+    "tag:amenity=bicycle_repair_station": {
+        "message": "Estação de reparos de bicicletas",
+        "description": "Tag \"amenity=bicycle_repair_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_repair_station"
+    },
+    "tag:amenity=parcel_locker": {
+        "message": "Estação de pacotes",
+        "description": "Tag \"amenity=parcel_locker\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parcel_locker"
+    },
+    "tag:leisure=pitch sport=baseball": {
+        "message": "Campo de basebol",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=baseball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=baseball"
     }
 }
