@@ -2886,7 +2886,7 @@
         "description": "Tag \"historic=yes\". See https://wiki.openstreetmap.org/wiki/Tag:historic=yes"
     },
     "tag:horse": {
-        "message": "",
+        "message": "Zugangserlaubnis für Reiter",
         "description": "Key \"horse\". See https://wiki.openstreetmap.org/wiki/Key:horse"
     },
     "tag:incline": {
@@ -3654,7 +3654,7 @@
         "description": "Key \"motorcar\". See https://wiki.openstreetmap.org/wiki/Key:motorcar"
     },
     "tag:motorcycle": {
-        "message": "",
+        "message": "Zugangserlaubnis für Motorräder",
         "description": "Key \"motorcycle\". See https://wiki.openstreetmap.org/wiki/Key:motorcycle"
     },
     "tag:mountain_pass": {
@@ -4550,7 +4550,7 @@
         "description": "Key \"proposed\". See https://wiki.openstreetmap.org/wiki/Key:proposed"
     },
     "tag:psv": {
-        "message": "",
+        "message": "Zufahrtserlaubnis für öffentliche Verkehrsmittel",
         "description": "Key \"psv\". See https://wiki.openstreetmap.org/wiki/Key:psv"
     },
     "tag:public_transport": {
@@ -6328,5 +6328,13 @@
     "tag:climbing=route": {
         "message": "Route",
         "description": "Tag \"climbing=route\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route"
+    },
+    "tag:access=designated": {
+        "message": "gewidmet",
+        "description": "Tag \"access=designated\". See https://wiki.openstreetmap.org/wiki/Tag:access=designated"
+    },
+    "tag:access=destination": {
+        "message": "nur für Anlieger",
+        "description": "Tag \"access=destination\". See https://wiki.openstreetmap.org/wiki/Tag:access=destination"
     }
 }
