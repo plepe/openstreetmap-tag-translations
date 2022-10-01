@@ -5590,7 +5590,7 @@
         "description": "Tag \"sport=dog_racing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=dog_racing"
     },
     "tag:sport=equestrian": {
-        "message": "Reitsport",
+        "message": "Pferdesport",
         "description": "Tag \"sport=equestrian\". See https://wiki.openstreetmap.org/wiki/Tag:sport=equestrian"
     },
     "tag:sport=field_hockey": {
