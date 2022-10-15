@@ -1834,7 +1834,7 @@
         "description": "Tag \"cuisine=kyo_ryouri\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=langos": {
-        "message": "",
+        "message": "lángos",
         "description": "Tag \"cuisine=langos\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=latin_american": {
@@ -1842,7 +1842,7 @@
         "description": "Tag \"cuisine=latin_american\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=lebanese": {
-        "message": "",
+        "message": "libanês",
         "description": "Tag \"cuisine=lebanese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=local": {
