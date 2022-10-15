@@ -2805,6 +2805,14 @@
         "message": "Cycleway",
         "description": "Tag \"highway=cycleway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=cycleway"
     },
+    "tag:highway=cycleway segregated=no": {
+        "message": "Shared Cycle- and Footway",
+        "description": "Tag \"highway=cycleway, segregated=no\". See https://wiki.openstreetmap.org/wiki/Key:segregated"
+    },
+    "tag:highway=cycleway segregated=yes": {
+        "message": "Segregated Cycle- and Footway",
+        "description": "Tag \"highway=cycleway, segregated=yes\". See https://wiki.openstreetmap.org/wiki/Key:segregated"
+    },
     "tag:highway=emergency_access_point": {
         "message": "",
         "description": "Tag \"highway=emergency_access_point\". See https://wiki.openstreetmap.org/wiki/Tag:highway=emergency_access_point"

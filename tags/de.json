@@ -2549,6 +2549,14 @@
         "message": "Radweg",
         "description": "Tag \"highway=cycleway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=cycleway"
     },
+    "tag:highway=cycleway segregated=no": {
+        "message": "Gemeinsamer Geh- und Radweg",
+        "description": "Tag \"highway=cycleway, segregated=no\". See https://wiki.openstreetmap.org/wiki/Key:segregated"
+    },
+    "tag:highway=cycleway segregated=yes": {
+        "message": "Getrennter Geh- und Radweg",
+        "description": "Tag \"highway=cycleway, segregated=yes\". See https://wiki.openstreetmap.org/wiki/Key:segregated"
+    },
     "tag:highway=emergency_access_point": {
         "message": "Rettungspunkt",
         "description": "Tag \"highway=emergency_access_point\". See https://wiki.openstreetmap.org/wiki/Tag:highway=emergency_access_point"
