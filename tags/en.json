@@ -2569,9 +2569,25 @@
         "message": "Foot access permission",
         "description": "Key \"foot\". See https://wiki.openstreetmap.org/wiki/Key:foot"
     },
+    "tag:footway=access_aisle": {
+        "message": "Access aisle",
+        "description": "Tag \"footway=access_aisle\". See https://wiki.openstreetmap.org/wiki/Tag:footway=access_aisle"
+    },
+    "tag:footway=alley": {
+        "message": "Alley",
+        "description": "Tag \"footway=alley\". See https://wiki.openstreetmap.org/wiki/Tag:footway=alley"
+    },
+    "tag:footway=crossing": {
+        "message": "Crossing",
+        "description": "Tag \"footway=crossing\". See https://wiki.openstreetmap.org/wiki/Tag:footway=crossing"
+    },
     "tag:footway=sidewalk": {
         "message": "Sidewalk",
         "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
+    },
+    "tag:footway=traffic_island": {
+        "message": "Traffic island",
+        "description": "Tag \"footway=traffic_island\". See https://wiki.openstreetmap.org/wiki/Tag:footway=traffic_island"
     },
     "tag:ford": {
         "message": "Ford",
