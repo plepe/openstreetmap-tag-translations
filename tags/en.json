@@ -2569,6 +2569,10 @@
         "message": "Foot access permission",
         "description": "Key \"foot\". See https://wiki.openstreetmap.org/wiki/Key:foot"
     },
+    "tag:footway=sidewalk": {
+        "message": "Sidewalk",
+        "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
+    },
     "tag:ford": {
         "message": "Ford",
         "description": "Key \"ford\". See https://wiki.openstreetmap.org/wiki/Key:ford"
@@ -5770,8 +5774,20 @@
         "description": "Tag \"shop=wine\". See https://wiki.openstreetmap.org/wiki/Tag:shop=wine"
     },
     "tag:sidewalk": {
-        "message": "Sidewalk",
+        "message": "Sidewalk along street",
         "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
+    },
+    "tag:sidewalk=no": {
+        "message": "Street without sidewalk",
+        "description": "Tag \"sidewalk=no\". See https://wiki.openstreetmap.org/wiki/Tag:sidewalk=no"
+    },
+    "tag:sidewalk=separate": {
+        "message": "Street with separately mapped sidewalk",
+        "description": "Tag \"sidewalk=separate\". See https://wiki.openstreetmap.org/wiki/Tag:sidewalk=separate"
+    },
+    "tag:sidewalk=yes": {
+        "message": "Street with sidewalk",
+        "description": "Tag \"sidewalk=yes\". See https://wiki.openstreetmap.org/wiki/Tag:sidewalk=yes"
     },
     "tag:smoking": {
         "message": "",

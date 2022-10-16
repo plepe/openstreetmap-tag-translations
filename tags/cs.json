@@ -2309,6 +2309,10 @@
         "message": "Pěším vstup povolen",
         "description": "Key \"foot\". See https://wiki.openstreetmap.org/wiki/Key:foot"
     },
+    "tag:footway=sidewalk": {
+        "message": "Chodník",
+        "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
+    },
     "tag:ford": {
         "message": "Brod",
         "description": "Key \"ford\". See https://wiki.openstreetmap.org/wiki/Key:ford"

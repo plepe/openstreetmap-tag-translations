@@ -2381,6 +2381,10 @@
         "message": "Permissão de acesso à pé",
         "description": "Key \"foot\". See https://wiki.openstreetmap.org/wiki/Key:foot"
     },
+    "tag:footway=sidewalk": {
+        "message": "Calçada",
+        "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
+    },
     "tag:ford": {
         "message": "Vau",
         "description": "Key \"ford\". See https://wiki.openstreetmap.org/wiki/Key:ford"
@@ -6178,7 +6182,7 @@
         "description": "Combined tag \"leisure=pitch\" and \"sport=skateboard\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=skateboard"
     },
     "tag:sidewalk": {
-        "message": "Calçada",
+        "message": "",
         "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
     },
     "tag:sport=boxing": {

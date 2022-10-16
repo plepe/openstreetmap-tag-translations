@@ -2313,6 +2313,10 @@
         "message": "Gyalogosan használható",
         "description": "Key \"foot\". See https://wiki.openstreetmap.org/wiki/Key:foot"
     },
+    "tag:footway=sidewalk": {
+        "message": "Járda",
+        "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
+    },
     "tag:ford": {
         "message": "Gázló",
         "description": "Key \"ford\". See https://wiki.openstreetmap.org/wiki/Key:ford"
@@ -6350,7 +6354,7 @@
         "description": "Tag \"parking:lane=perpendicular\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=perpendicular"
     },
     "tag:sidewalk": {
-        "message": "Járda",
+        "message": "",
         "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
     },
     "tag:sport=boxing": {
