@@ -1850,7 +1850,7 @@
         "description": "Tag \"cuisine=local\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=malagasy": {
-        "message": "",
+        "message": "malgaxe",
         "description": "Tag \"cuisine=malagasy\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=mediterranean": {
@@ -1866,7 +1866,7 @@
         "description": "Tag \"cuisine=mineira\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=new_mexican": {
-        "message": "",
+        "message": "nova mexicana",
         "description": "Tag \"cuisine=new_mexican\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=noodle": {
@@ -1874,11 +1874,11 @@
         "description": "Tag \"cuisine=noodle\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=okinawa_ryori": {
-        "message": "",
+        "message": "okinawa ryori",
         "description": "Tag \"cuisine=okinawa_ryori\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pakistani": {
-        "message": "",
+        "message": "paquistanesa",
         "description": "Tag \"cuisine=pakistani\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pancake": {
@@ -1894,11 +1894,11 @@
         "description": "Tag \"cuisine=pastry\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=peruvian": {
-        "message": "",
+        "message": "peruana",
         "description": "Tag \"cuisine=peruvian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=petit_four": {
-        "message": "",
+        "message": "petit four",
         "description": "Tag \"cuisine=petit_four\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pie": {
