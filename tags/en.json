@@ -636,6 +636,10 @@
         "message": "Hedge",
         "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
     },
+    "tag:barrier=kerb": {
+        "message": "Kerb",
+        "description": "Tag \"barrier=kerb\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=kerb"
+    },
     "tag:barrier=retaining_wall": {
         "message": "Retaining Wall",
         "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
@@ -3276,6 +3280,30 @@
     "tag:is_in": {
         "message": "Is in",
         "description": "Key \"is_in\". See https://wiki.openstreetmap.org/wiki/Key:is_in"
+    },
+    "tag:kerb": {
+        "message": "Kerb",
+        "description": "Key \"kerb\". See https://wiki.openstreetmap.org/wiki/Key:kerb"
+    },
+    "tag:kerb=flush": {
+        "message": "flush",
+        "description": "Tag \"kerb=flush\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=flush"
+    },
+    "tag:kerb=lowered": {
+        "message": "lowered",
+        "description": "Tag \"kerb=lowered\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=lowered"
+    },
+    "tag:kerb=no": {
+        "message": "no kerb",
+        "description": "Tag \"kerb=no\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=no"
+    },
+    "tag:kerb=raised": {
+        "message": "raised",
+        "description": "Tag \"kerb=raised\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=raised"
+    },
+    "tag:kerb=rolled": {
+        "message": "rolled",
+        "description": "Tag \"kerb=rolled\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=rolled"
     },
     "tag:kids_area": {
         "message": "Kids Area",
