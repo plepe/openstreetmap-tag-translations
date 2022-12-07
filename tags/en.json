@@ -6605,9 +6605,17 @@
         "message": "Christmas feature",
         "description": "Key \"xmas:feature\". See https://wiki.openstreetmap.org/wiki/Key:xmas:feature"
     },
+    "tag:xmas:feature=crib": {
+        "message": "Christmas Crib / Nativity Scene",
+        "description": "Tag \"xmas:feature=crib\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=crib"
+    },
     "tag:xmas:feature=event": {
         "message": "Christmas Event",
         "description": "Tag \"xmas:feature=event\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=event"
+    },
+    "tag:xmas:feature=lighting": {
+        "message": "Christmas Lighting",
+        "description": "Tag \"xmas:feature=lighting\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=lighting"
     },
     "tag:xmas:feature=market": {
         "message": "Christmas market",
