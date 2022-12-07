@@ -2046,7 +2046,7 @@
         "description": "Key \"cutting\". See https://wiki.openstreetmap.org/wiki/Key:cutting"
     },
     "tag:cycleway": {
-        "message": "",
+        "message": "Kerékpárút",
         "description": "Key \"cycleway\". See https://wiki.openstreetmap.org/wiki/Key:cycleway"
     },
     "tag:cycleway=bike_box;asl": {
@@ -6412,5 +6412,21 @@
     "tag:sport=softball": {
         "message": "Softball",
         "description": "Tag \"sport=softball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=softball"
+    },
+    "tag:access=designated": {
+        "message": "kifejezetten",
+        "description": "Tag \"access=designated\". See https://wiki.openstreetmap.org/wiki/Tag:access=designated"
+    },
+    "tag:amenity=bicycle_repair_station": {
+        "message": "Kerékpárszerelő pont",
+        "description": "Tag \"amenity=bicycle_repair_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_repair_station"
+    },
+    "tag:barrier=kerb": {
+        "message": "Járdaszegély",
+        "description": "Tag \"barrier=kerb\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=kerb"
+    },
+    "tag:climbing:bolted": {
+        "message": "",
+        "description": "Key \"climbing:bolted\". See https://wiki.openstreetmap.org/wiki/Key:climbing:bolted"
     }
 }
