@@ -5821,6 +5821,14 @@
         "message": "Sidewalk along street",
         "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
     },
+    "tag:sidewalk:left": {
+        "message": "Sidewalk on left side of the street",
+        "description": "Key \"sidewalk:left\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk:left"
+    },
+    "tag:sidewalk:right": {
+        "message": "Sidewalk on the right side of the street",
+        "description": "Key \"sidewalk:right\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk:right"
+    },
     "tag:sidewalk=no": {
         "message": "Street without sidewalk",
         "description": "Tag \"sidewalk=no\". See https://wiki.openstreetmap.org/wiki/Tag:sidewalk=no"
