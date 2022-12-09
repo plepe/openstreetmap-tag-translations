@@ -1740,6 +1740,30 @@
         "message": "Created by",
         "description": "Key \"created_by\". See https://wiki.openstreetmap.org/wiki/Key:created_by"
     },
+    "tag:crossing": {
+        "message": "Street crossing",
+        "description": "Key \"crossing\". See https://wiki.openstreetmap.org/wiki/Key:crossing"
+    },
+    "tag:crossing=marked": {
+        "message": "marked",
+        "description": "Tag \"crossing=marked\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=marked"
+    },
+    "tag:crossing=traffic_signals": {
+        "message": "traffic_signals",
+        "description": "Tag \"crossing=traffic_signals\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=traffic_signals"
+    },
+    "tag:crossing=uncontrolled": {
+        "message": "uncontrolled",
+        "description": "Tag \"crossing=uncontrolled\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=uncontrolled"
+    },
+    "tag:crossing=unmarked": {
+        "message": "unmarked",
+        "description": "Tag \"crossing=unmarked\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=unmarked"
+    },
+    "tag:crossing=zebra": {
+        "message": "zebra",
+        "description": "Tag \"crossing=zebra\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=zebra"
+    },
     "tag:cuisine": {
         "message": "Cuisine",
         "description": "Key \"cuisine\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
