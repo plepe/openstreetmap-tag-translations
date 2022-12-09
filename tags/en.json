@@ -6217,6 +6217,154 @@
         "message": "Surface",
         "description": "Key \"surface\". See https://wiki.openstreetmap.org/wiki/Key:surface"
     },
+    "tag:surface=acrylic": {
+        "message": "acrylic",
+        "description": "Tag \"surface=acrylic\". See https://wiki.openstreetmap.org/wiki/Tag:surface=acrylic"
+    },
+    "tag:surface=artificial_turf": {
+        "message": "artificial turf",
+        "description": "Tag \"surface=artificial_turf\". See https://wiki.openstreetmap.org/wiki/Tag:surface=artificial_turf"
+    },
+    "tag:surface=asphalt": {
+        "message": "asphalt",
+        "description": "Tag \"surface=asphalt\". See https://wiki.openstreetmap.org/wiki/Tag:surface=asphalt"
+    },
+    "tag:surface=carpet": {
+        "message": "carpet",
+        "description": "Tag \"surface=carpet\". See https://wiki.openstreetmap.org/wiki/Tag:surface=carpet"
+    },
+    "tag:surface=chipseal": {
+        "message": "chipseal",
+        "description": "Tag \"surface=chipseal\". See https://wiki.openstreetmap.org/wiki/Tag:surface=chipseal"
+    },
+    "tag:surface=clay": {
+        "message": "clay",
+        "description": "Tag \"surface=clay\". See https://wiki.openstreetmap.org/wiki/Tag:surface=clay"
+    },
+    "tag:surface=cobblestone": {
+        "message": "cobblestone",
+        "description": "Tag \"surface=cobblestone\". See https://wiki.openstreetmap.org/wiki/Tag:surface=cobblestone"
+    },
+    "tag:surface=compacted": {
+        "message": "compacted",
+        "description": "Tag \"surface=compacted\". See https://wiki.openstreetmap.org/wiki/Tag:surface=compacted"
+    },
+    "tag:surface=concrete": {
+        "message": "concrete",
+        "description": "Tag \"surface=concrete\". See https://wiki.openstreetmap.org/wiki/Tag:surface=concrete"
+    },
+    "tag:surface=concrete:lanes": {
+        "message": "concrete lanes",
+        "description": "Tag \"surface=concrete:lanes\". See https://wiki.openstreetmap.org/wiki/Tag:surface=concrete:lanes"
+    },
+    "tag:surface=concrete:plates": {
+        "message": "concrete plates",
+        "description": "Tag \"surface=concrete:plates\". See https://wiki.openstreetmap.org/wiki/Tag:surface=concrete:plates"
+    },
+    "tag:surface=dirt": {
+        "message": "dirt",
+        "description": "Tag \"surface=dirt\". See https://wiki.openstreetmap.org/wiki/Tag:surface=dirt"
+    },
+    "tag:surface=earth": {
+        "message": "earth",
+        "description": "Tag \"surface=earth\". See https://wiki.openstreetmap.org/wiki/Tag:surface=earth"
+    },
+    "tag:surface=fine_gravel": {
+        "message": "fine gravel",
+        "description": "Tag \"surface=fine_gravel\". See https://wiki.openstreetmap.org/wiki/Tag:surface=fine_gravel"
+    },
+    "tag:surface=grass": {
+        "message": "grass",
+        "description": "Tag \"surface=grass\". See https://wiki.openstreetmap.org/wiki/Tag:surface=grass"
+    },
+    "tag:surface=grass_paver": {
+        "message": "grass paver",
+        "description": "Tag \"surface=grass_paver\". See https://wiki.openstreetmap.org/wiki/Tag:surface=grass_paver"
+    },
+    "tag:surface=gravel": {
+        "message": "gravel",
+        "description": "Tag \"surface=gravel\". See https://wiki.openstreetmap.org/wiki/Tag:surface=gravel"
+    },
+    "tag:surface=ground": {
+        "message": "ground",
+        "description": "Tag \"surface=ground\". See https://wiki.openstreetmap.org/wiki/Tag:surface=ground"
+    },
+    "tag:surface=ice": {
+        "message": "ice",
+        "description": "Tag \"surface=ice\". See https://wiki.openstreetmap.org/wiki/Tag:surface=ice"
+    },
+    "tag:surface=metal": {
+        "message": "metal",
+        "description": "Tag \"surface=metal\". See https://wiki.openstreetmap.org/wiki/Tag:surface=metal"
+    },
+    "tag:surface=metal_grid": {
+        "message": "metal grid",
+        "description": "Tag \"surface=metal_grid\". See https://wiki.openstreetmap.org/wiki/Tag:surface=metal_grid"
+    },
+    "tag:surface=mud": {
+        "message": "mud",
+        "description": "Tag \"surface=mud\". See https://wiki.openstreetmap.org/wiki/Tag:surface=mud"
+    },
+    "tag:surface=paved": {
+        "message": "paved",
+        "description": "Tag \"surface=paved\". See https://wiki.openstreetmap.org/wiki/Tag:surface=paved"
+    },
+    "tag:surface=paving_stones": {
+        "message": "paving stones",
+        "description": "Tag \"surface=paving_stones\". See https://wiki.openstreetmap.org/wiki/Tag:surface=paving_stones"
+    },
+    "tag:surface=pebblestone": {
+        "message": "pebblestone",
+        "description": "Tag \"surface=pebblestone\". See https://wiki.openstreetmap.org/wiki/Tag:surface=pebblestone"
+    },
+    "tag:surface=rock": {
+        "message": "rock",
+        "description": "Tag \"surface=rock\". See https://wiki.openstreetmap.org/wiki/Tag:surface=rock"
+    },
+    "tag:surface=rubber": {
+        "message": "rubber",
+        "description": "Tag \"surface=rubber\". See https://wiki.openstreetmap.org/wiki/Tag:surface=rubber"
+    },
+    "tag:surface=salt": {
+        "message": "salt",
+        "description": "Tag \"surface=salt\". See https://wiki.openstreetmap.org/wiki/Tag:surface=salt"
+    },
+    "tag:surface=sand": {
+        "message": "sand",
+        "description": "Tag \"surface=sand\". See https://wiki.openstreetmap.org/wiki/Tag:surface=sand"
+    },
+    "tag:surface=sett": {
+        "message": "sett",
+        "description": "Tag \"surface=sett\". See https://wiki.openstreetmap.org/wiki/Tag:surface=sett"
+    },
+    "tag:surface=snow": {
+        "message": "snow",
+        "description": "Tag \"surface=snow\". See https://wiki.openstreetmap.org/wiki/Tag:surface=snow"
+    },
+    "tag:surface=stepping_stones": {
+        "message": "stepping stones",
+        "description": "Tag \"surface=stepping_stones\". See https://wiki.openstreetmap.org/wiki/Tag:surface=stepping_stones"
+    },
+    "tag:surface=tartan": {
+        "message": "tartan",
+        "description": "Tag \"surface=tartan\". See https://wiki.openstreetmap.org/wiki/Tag:surface=tartan"
+    },
+    "tag:surface=unhewn_cobblestone": {
+        "message": "unhewn cobblestone",
+        "description": "Tag \"surface=unhewn_cobblestone\". See https://wiki.openstreetmap.org/wiki/Tag:surface=unhewn_cobblestone"
+    },
+    "tag:surface=unpaved": {
+        "message": "unpaved",
+        "description": "Tag \"surface=unpaved\". See https://wiki.openstreetmap.org/wiki/Tag:surface=unpaved"
+    },
+    "tag:surface=wood": {
+        "message": "wood",
+        "description": "Tag \"surface=wood\". See https://wiki.openstreetmap.org/wiki/Tag:surface=wood"
+    },
+    "tag:surface=woodchips": {
+        "message": "woodchips",
+        "description": "Tag \"surface=woodchips\". See https://wiki.openstreetmap.org/wiki/Tag:surface=woodchips"
+    },
     "tag:tactile_paving": {
         "message": "Tactile paving",
         "description": "Key \"tactile_paving\". See https://wiki.openstreetmap.org/wiki/Key:tactile_paving"
