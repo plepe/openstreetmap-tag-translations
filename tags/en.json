@@ -3186,8 +3186,16 @@
         "description": "Key \"horse\". See https://wiki.openstreetmap.org/wiki/Key:horse"
     },
     "tag:incline": {
-        "message": "incline",
+        "message": "Incline",
         "description": "Key \"incline\". See https://wiki.openstreetmap.org/wiki/Key:incline"
+    },
+    "tag:incline=down": {
+        "message": "down",
+        "description": "Tag \"incline=down\". See https://wiki.openstreetmap.org/wiki/Tag:incline=down"
+    },
+    "tag:incline=up": {
+        "message": "up",
+        "description": "Tag \"incline=up\". See https://wiki.openstreetmap.org/wiki/Tag:incline=up"
     },
     "tag:information=audioguide": {
         "message": "Audio guide",
