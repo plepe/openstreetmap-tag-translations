@@ -5865,6 +5865,38 @@
         "message": "Smoothness",
         "description": "Key \"smoothness\". See https://wiki.openstreetmap.org/wiki/Key:smoothness"
     },
+    "tag:smoothness=bad": {
+        "message": "bad",
+        "description": "Tag \"smoothness=bad\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=bad"
+    },
+    "tag:smoothness=excellent": {
+        "message": "excellent",
+        "description": "Tag \"smoothness=excellent\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=excellent"
+    },
+    "tag:smoothness=good": {
+        "message": "good",
+        "description": "Tag \"smoothness=good\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=good"
+    },
+    "tag:smoothness=horrible": {
+        "message": "horrible",
+        "description": "Tag \"smoothness=horrible\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=horrible"
+    },
+    "tag:smoothness=impassable": {
+        "message": "impassable",
+        "description": "Tag \"smoothness=impassable\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=impassable"
+    },
+    "tag:smoothness=intermediate": {
+        "message": "intermediate",
+        "description": "Tag \"smoothness=intermediate\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=intermediate"
+    },
+    "tag:smoothness=very_bad": {
+        "message": "very bad",
+        "description": "Tag \"smoothness=very_bad\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=very_bad"
+    },
+    "tag:smoothness=very_horrible": {
+        "message": "very horrible",
+        "description": "Tag \"smoothness=very_horrible\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=very_horrible"
+    },
     "tag:source": {
         "message": "Source",
         "description": "Key \"source\". See https://wiki.openstreetmap.org/wiki/Key:source"
