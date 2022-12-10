@@ -612,6 +612,10 @@
         "message": "Area",
         "description": "Key \"area\". See https://wiki.openstreetmap.org/wiki/Key:area"
     },
+    "tag:area:highway": {
+        "message": "Shape of way",
+        "description": "Key \"area:highway\". See https://wiki.openstreetmap.org/wiki/Key:area:highway"
+    },
     "tag:artist": {
         "message": "Artist",
         "description": "Key \"artist\". See https://wiki.openstreetmap.org/wiki/Key:artist"
