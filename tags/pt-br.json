@@ -1910,7 +1910,7 @@
         "description": "Tag \"cuisine=pizza\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pogacha": {
-        "message": "",
+        "message": "pogacha",
         "description": "Tag \"cuisine=pogacha\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=polish": {
@@ -1918,7 +1918,7 @@
         "description": "Tag \"cuisine=polish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=poppy_seed_roll": {
-        "message": "",
+        "message": "rolinho de semente de papoula",
         "description": "Tag \"cuisine=poppy_seed_roll\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=portuguese": {
@@ -1926,11 +1926,11 @@
         "description": "Tag \"cuisine=portuguese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=profiterole": {
-        "message": "",
+        "message": "profiterole",
         "description": "Tag \"cuisine=profiterole\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=punch_cake": {
-        "message": "",
+        "message": "bolo de ponche",
         "description": "Tag \"cuisine=punch_cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=regional": {
@@ -1938,7 +1938,7 @@
         "description": "Tag \"cuisine=regional\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=rhenish": {
-        "message": "",
+        "message": "renana",
         "description": "Tag \"cuisine=rhenish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=russian": {
@@ -1970,7 +1970,7 @@
         "description": "Tag \"cuisine=shandong\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sichuan": {
-        "message": "",
+        "message": "sichuan",
         "description": "Tag \"cuisine=sichuan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=soup": {
@@ -1986,7 +1986,7 @@
         "description": "Tag \"cuisine=steak_house\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=strudel": {
-        "message": "",
+        "message": "strudel",
         "description": "Tag \"cuisine=strudel\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=sub": {
@@ -2038,7 +2038,7 @@
         "description": "Tag \"cuisine=waffle\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=westphalian": {
-        "message": "",
+        "message": "vestfaliana",
         "description": "Tag \"cuisine=westphalian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=wings": {
@@ -2150,11 +2150,11 @@
         "description": "Key \"diet:lactose_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:lactose_free"
     },
     "tag:diet:ovo_vegetarian": {
-        "message": "",
+        "message": "ovo vegetariana",
         "description": "Key \"diet:ovo_vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:ovo_vegetarian"
     },
     "tag:diet:pescetarian": {
-        "message": "",
+        "message": "pescetariano",
         "description": "Key \"diet:pescetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:pescetarian"
     },
     "tag:diet:raw": {
@@ -2358,19 +2358,19 @@
         "description": "Key \"flood_date\". See https://wiki.openstreetmap.org/wiki/Key:flood_date"
     },
     "tag:flood_mark=engraving": {
-        "message": "",
+        "message": "gravação (baixo relevo)",
         "description": "Tag \"flood_mark=engraving\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=engraving"
     },
     "tag:flood_mark=painting": {
-        "message": "",
+        "message": "pintado",
         "description": "Tag \"flood_mark=painting\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=painting"
     },
     "tag:flood_mark=plaque": {
-        "message": "",
+        "message": "placa",
         "description": "Tag \"flood_mark=plaque\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=plaque"
     },
     "tag:flood_mark=pole": {
-        "message": "",
+        "message": "poste",
         "description": "Tag \"flood_mark=pole\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=pole"
     },
     "tag:food": {
@@ -2478,7 +2478,7 @@
         "description": "Key \"goods\". See https://wiki.openstreetmap.org/wiki/Key:goods"
     },
     "tag:healthcare=alternative": {
-        "message": "",
+        "message": "Alternativa",
         "description": "Tag \"healthcare=alternative\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=alternative"
     },
     "tag:healthcare=audiologist": {
@@ -2486,7 +2486,7 @@
         "description": "Tag \"healthcare=audiologist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=audiologist"
     },
     "tag:healthcare=birthing_centre": {
-        "message": "",
+        "message": "Maternidade",
         "description": "Tag \"healthcare=birthing_centre\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=birthing_centre"
     },
     "tag:healthcare=blood_bank": {
@@ -2510,7 +2510,7 @@
         "description": "Tag \"healthcare=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dentist"
     },
     "tag:healthcare=dialysis": {
-        "message": "",
+        "message": "Diálise",
         "description": "Tag \"healthcare=dialysis\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dialysis"
     },
     "tag:healthcare=doctor": {
@@ -2530,15 +2530,15 @@
         "description": "Tag \"healthcare=midwife\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=midwife"
     },
     "tag:healthcare=nutrition_counseling": {
-        "message": "",
+        "message": "Aconselhamento nutricional",
         "description": "Tag \"healthcare=nutrition_counseling\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=nutrition_counseling"
     },
     "tag:healthcare=occupational_therapist": {
-        "message": "",
+        "message": "Terapia ocupacional",
         "description": "Tag \"healthcare=occupational_therapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=occupational_therapist"
     },
     "tag:healthcare=optometrist": {
-        "message": "",
+        "message": "Optometrista",
         "description": "Tag \"healthcare=optometrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=optometrist"
     },
     "tag:healthcare=pharmacy": {
@@ -2546,23 +2546,23 @@
         "description": "Tag \"healthcare=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=pharmacy"
     },
     "tag:healthcare=physiotherapist": {
-        "message": "fisioterapia",
+        "message": "Fisioterapia",
         "description": "Tag \"healthcare=physiotherapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=physiotherapist"
     },
     "tag:healthcare=podiatrist": {
-        "message": "",
+        "message": "Podólogo",
         "description": "Tag \"healthcare=podiatrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=podiatrist"
     },
     "tag:healthcare=psychotherapist": {
-        "message": "psicoterapia",
+        "message": "Psicoterapia",
         "description": "Tag \"healthcare=psychotherapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=psychotherapist"
     },
     "tag:healthcare=rehabilitation": {
-        "message": "reabilitação",
+        "message": "Reabilitação",
         "description": "Tag \"healthcare=rehabilitation\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=rehabilitation"
     },
     "tag:healthcare=speech_therapist": {
-        "message": "",
+        "message": "Fonoaudiólogo",
         "description": "Tag \"healthcare=speech_therapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=speech_therapist"
     },
     "tag:height": {
@@ -2742,11 +2742,11 @@
         "description": "Key \"historic:civilization\". See https://wiki.openstreetmap.org/wiki/Key:historic:civilization"
     },
     "tag:historic:civilization=ancient_egyptian": {
-        "message": "",
+        "message": "Egípcia antiga",
         "description": "Tag \"historic:civilization=ancient_egyptian\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=ancient_egyptian"
     },
     "tag:historic:civilization=ancient_greek": {
-        "message": "",
+        "message": "Grega antiga",
         "description": "Tag \"historic:civilization=ancient_greek\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=ancient_greek"
     },
     "tag:historic:civilization=ancient_roman": {
@@ -2754,19 +2754,19 @@
         "description": "Tag \"historic:civilization=ancient_roman\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=ancient_roman"
     },
     "tag:historic:civilization=byzantine": {
-        "message": "",
+        "message": "Bizantina",
         "description": "Tag \"historic:civilization=byzantine\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=byzantine"
     },
     "tag:historic:civilization=celtic": {
-        "message": "",
+        "message": "Céltica",
         "description": "Tag \"historic:civilization=celtic\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=celtic"
     },
     "tag:historic:civilization=etruscan": {
-        "message": "",
+        "message": "Etrusca",
         "description": "Tag \"historic:civilization=etruscan\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=etruscan"
     },
     "tag:historic:civilization=imperial_chinese": {
-        "message": "",
+        "message": "Chinesa imperial",
         "description": "Tag \"historic:civilization=imperial_chinese\". See https://wiki.openstreetmap.org/wiki/Tag:historic:civilization=imperial_chinese"
     },
     "tag:historic:civilization=korean": {
@@ -6114,7 +6114,7 @@
         "description": "Key \"xmas:feature\". See https://wiki.openstreetmap.org/wiki/Key:xmas:feature"
     },
     "tag:xmas:feature=event": {
-        "message": "Evento",
+        "message": "Evento natalino",
         "description": "Tag \"xmas:feature=event\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=event"
     },
     "tag:xmas:feature=market": {
@@ -6484,5 +6484,181 @@
     "tag:leisure=pitch sport=baseball": {
         "message": "Campo de basebol",
         "description": "Combined tag \"leisure=pitch\" and \"sport=baseball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=baseball"
+    },
+    "tag:area:highway": {
+        "message": "Contorno da via",
+        "description": "Key \"area:highway\". See https://wiki.openstreetmap.org/wiki/Key:area:highway"
+    },
+    "tag:barrier=kerb": {
+        "message": "Meio-fio",
+        "description": "Tag \"barrier=kerb\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=kerb"
+    },
+    "tag:building:start_date": {
+        "message": "Data de conclusão da obra",
+        "description": "Key \"building:start_date\". See https://wiki.openstreetmap.org/wiki/Key:building:start_date"
+    },
+    "tag:crossing": {
+        "message": "Travessia",
+        "description": "Key \"crossing\". See https://wiki.openstreetmap.org/wiki/Key:crossing"
+    },
+    "tag:crossing=marked": {
+        "message": "com marcação",
+        "description": "Tag \"crossing=marked\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=marked"
+    },
+    "tag:crossing=traffic_signals": {
+        "message": "sinais de tráfego",
+        "description": "Tag \"crossing=traffic_signals\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=traffic_signals"
+    },
+    "tag:crossing=uncontrolled": {
+        "message": "sem sinais de tráfego",
+        "description": "Tag \"crossing=uncontrolled\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=uncontrolled"
+    },
+    "tag:crossing=unmarked": {
+        "message": "sem marcação",
+        "description": "Tag \"crossing=unmarked\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=unmarked"
+    },
+    "tag:crossing=zebra": {
+        "message": "faixa zebrada",
+        "description": "Tag \"crossing=zebra\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=zebra"
+    },
+    "tag:footway=access_aisle": {
+        "message": "Corredor de acesso",
+        "description": "Tag \"footway=access_aisle\". See https://wiki.openstreetmap.org/wiki/Tag:footway=access_aisle"
+    },
+    "tag:footway=alley": {
+        "message": "Beco",
+        "description": "Tag \"footway=alley\". See https://wiki.openstreetmap.org/wiki/Tag:footway=alley"
+    },
+    "tag:footway=crossing": {
+        "message": "Travessia",
+        "description": "Tag \"footway=crossing\". See https://wiki.openstreetmap.org/wiki/Tag:footway=crossing"
+    },
+    "tag:footway=traffic_island": {
+        "message": "Ilha de refúgio",
+        "description": "Tag \"footway=traffic_island\". See https://wiki.openstreetmap.org/wiki/Tag:footway=traffic_island"
+    },
+    "tag:highway=cycleway segregated=no": {
+        "message": "Compartilhado",
+        "description": "Tag \"highway=cycleway, segregated=no\". See https://wiki.openstreetmap.org/wiki/Key:segregated"
+    },
+    "tag:highway=cycleway segregated=yes": {
+        "message": "Segregado",
+        "description": "Tag \"highway=cycleway, segregated=yes\". See https://wiki.openstreetmap.org/wiki/Key:segregated"
+    },
+    "tag:incline=down": {
+        "message": "declive",
+        "description": "Tag \"incline=down\". See https://wiki.openstreetmap.org/wiki/Tag:incline=down"
+    },
+    "tag:incline=up": {
+        "message": "aclive",
+        "description": "Tag \"incline=up\". See https://wiki.openstreetmap.org/wiki/Tag:incline=up"
+    },
+    "tag:kerb": {
+        "message": "Meio-fio",
+        "description": "Key \"kerb\". See https://wiki.openstreetmap.org/wiki/Key:kerb"
+    },
+    "tag:kerb=flush": {
+        "message": "nivelado",
+        "description": "Tag \"kerb=flush\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=flush"
+    },
+    "tag:kerb=lowered": {
+        "message": "rebaixado",
+        "description": "Tag \"kerb=lowered\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=lowered"
+    },
+    "tag:kerb=no": {
+        "message": "sem meio-fio",
+        "description": "Tag \"kerb=no\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=no"
+    },
+    "tag:kerb=raised": {
+        "message": "elevado",
+        "description": "Tag \"kerb=raised\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=raised"
+    },
+    "tag:kerb=rolled": {
+        "message": "boleado",
+        "description": "Tag \"kerb=rolled\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=rolled"
+    },
+    "tag:surface=grass": {
+        "message": "grama",
+        "description": "Tag \"surface=grass\". See https://wiki.openstreetmap.org/wiki/Tag:surface=grass"
+    },
+    "tag:surface=ice": {
+        "message": "gelo",
+        "description": "Tag \"surface=ice\". See https://wiki.openstreetmap.org/wiki/Tag:surface=ice"
+    },
+    "tag:surface=metal": {
+        "message": "metal",
+        "description": "Tag \"surface=metal\". See https://wiki.openstreetmap.org/wiki/Tag:surface=metal"
+    },
+    "tag:surface=metal_grid": {
+        "message": "tela metálica",
+        "description": "Tag \"surface=metal_grid\". See https://wiki.openstreetmap.org/wiki/Tag:surface=metal_grid"
+    },
+    "tag:surface=paved": {
+        "message": "pavimentado",
+        "description": "Tag \"surface=paved\". See https://wiki.openstreetmap.org/wiki/Tag:surface=paved"
+    },
+    "tag:surface=paving_stones": {
+        "message": "blocos intertravados",
+        "description": "Tag \"surface=paving_stones\". See https://wiki.openstreetmap.org/wiki/Tag:surface=paving_stones"
+    },
+    "tag:surface=pebblestone": {
+        "message": "pedregulho",
+        "description": "Tag \"surface=pebblestone\". See https://wiki.openstreetmap.org/wiki/Tag:surface=pebblestone"
+    },
+    "tag:surface=rock": {
+        "message": "rocha",
+        "description": "Tag \"surface=rock\". See https://wiki.openstreetmap.org/wiki/Tag:surface=rock"
+    },
+    "tag:surface=rubber": {
+        "message": "borracha",
+        "description": "Tag \"surface=rubber\". See https://wiki.openstreetmap.org/wiki/Tag:surface=rubber"
+    },
+    "tag:surface=salt": {
+        "message": "sal",
+        "description": "Tag \"surface=salt\". See https://wiki.openstreetmap.org/wiki/Tag:surface=salt"
+    },
+    "tag:surface=sand": {
+        "message": "areia",
+        "description": "Tag \"surface=sand\". See https://wiki.openstreetmap.org/wiki/Tag:surface=sand"
+    },
+    "tag:surface=sett": {
+        "message": "paralelepípedo",
+        "description": "Tag \"surface=sett\". See https://wiki.openstreetmap.org/wiki/Tag:surface=sett"
+    },
+    "tag:surface=snow": {
+        "message": "neve",
+        "description": "Tag \"surface=snow\". See https://wiki.openstreetmap.org/wiki/Tag:surface=snow"
+    },
+    "tag:surface=stepping_stones": {
+        "message": "intertravado",
+        "description": "Tag \"surface=stepping_stones\". See https://wiki.openstreetmap.org/wiki/Tag:surface=stepping_stones"
+    },
+    "tag:surface=tartan": {
+        "message": "tartan",
+        "description": "Tag \"surface=tartan\". See https://wiki.openstreetmap.org/wiki/Tag:surface=tartan"
+    },
+    "tag:surface=unhewn_cobblestone": {
+        "message": "pedra irregular",
+        "description": "Tag \"surface=unhewn_cobblestone\". See https://wiki.openstreetmap.org/wiki/Tag:surface=unhewn_cobblestone"
+    },
+    "tag:surface=unpaved": {
+        "message": "não pavimentado",
+        "description": "Tag \"surface=unpaved\". See https://wiki.openstreetmap.org/wiki/Tag:surface=unpaved"
+    },
+    "tag:surface=wood": {
+        "message": "madeira",
+        "description": "Tag \"surface=wood\". See https://wiki.openstreetmap.org/wiki/Tag:surface=wood"
+    },
+    "tag:surface=woodchips": {
+        "message": "lascas de madeira",
+        "description": "Tag \"surface=woodchips\". See https://wiki.openstreetmap.org/wiki/Tag:surface=woodchips"
+    },
+    "tag:xmas:feature=crib": {
+        "message": "Presépio",
+        "description": "Tag \"xmas:feature=crib\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=crib"
+    },
+    "tag:xmas:feature=lighting": {
+        "message": "Luzes natalinas",
+        "description": "Tag \"xmas:feature=lighting\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=lighting"
     }
 }
