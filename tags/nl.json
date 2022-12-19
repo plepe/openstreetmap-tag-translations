@@ -5626,7 +5626,7 @@
         "description": "Tag \"sport=weightlifting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=weightlifting"
     },
     "tag:start_date": {
-        "message": "Datum van aanmaak",
+        "message": "Datum van opening of oplevering",
         "description": "Key \"start_date\". See https://wiki.openstreetmap.org/wiki/Key:start_date"
     },
     "tag:subject": {
