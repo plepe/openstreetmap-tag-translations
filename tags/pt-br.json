@@ -3406,7 +3406,7 @@
         "description": "Tag \"material=iron\". See https://wiki.openstreetmap.org/wiki/Tag:material=iron"
     },
     "tag:material=light": {
-        "message": "",
+        "message": "luz",
         "description": "Tag \"material=light\". See https://wiki.openstreetmap.org/wiki/Tag:material=light"
     },
     "tag:material=limestone": {
@@ -3446,11 +3446,11 @@
         "description": "Tag \"material=reinforced_concrete\". See https://wiki.openstreetmap.org/wiki/Tag:material=reinforced_concrete"
     },
     "tag:material=sandstone": {
-        "message": "",
+        "message": "arenito",
         "description": "Tag \"material=sandstone\". See https://wiki.openstreetmap.org/wiki/Tag:material=sandstone"
     },
     "tag:material=silicate_brick": {
-        "message": "",
+        "message": "tijolo de silicato",
         "description": "Tag \"material=silicate_brick\". See https://wiki.openstreetmap.org/wiki/Tag:material=silicate_brick"
     },
     "tag:material=silver": {
@@ -3590,7 +3590,7 @@
         "description": "Tag \"military=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:military=bunker"
     },
     "tag:military=checkpoint": {
-        "message": "",
+        "message": "Posto de controle militar",
         "description": "Tag \"military=checkpoint\". See https://wiki.openstreetmap.org/wiki/Tag:military=checkpoint"
     },
     "tag:military=danger_area": {
@@ -3602,15 +3602,15 @@
         "description": "Tag \"military=naval_base\". See https://wiki.openstreetmap.org/wiki/Tag:military=naval_base"
     },
     "tag:military=nuclear_explosion_site": {
-        "message": "",
+        "message": "Local de explosão nuclear",
         "description": "Tag \"military=nuclear_explosion_site\". See https://wiki.openstreetmap.org/wiki/Tag:military=nuclear_explosion_site"
     },
     "tag:military=obstacle_course": {
-        "message": "",
+        "message": "Pista com obstáculos",
         "description": "Tag \"military=obstacle_course\". See https://wiki.openstreetmap.org/wiki/Tag:military=obstacle_course"
     },
     "tag:military=office": {
-        "message": "",
+        "message": "Escritório militar",
         "description": "Tag \"military=office\". See https://wiki.openstreetmap.org/wiki/Tag:military=office"
     },
     "tag:military=range": {
@@ -3766,7 +3766,7 @@
         "description": "Key \"natural\". See https://wiki.openstreetmap.org/wiki/Key:natural"
     },
     "tag:natural=arete": {
-        "message": "",
+        "message": "Arête",
         "description": "Tag \"natural=arete\". See https://wiki.openstreetmap.org/wiki/Tag:natural=arete"
     },
     "tag:natural=bare_rock": {
@@ -3806,7 +3806,7 @@
         "description": "Tag \"natural=fell\". See https://wiki.openstreetmap.org/wiki/Tag:natural=fell"
     },
     "tag:natural=geyser": {
-        "message": "",
+        "message": "Gêiser",
         "description": "Tag \"natural=geyser\". See https://wiki.openstreetmap.org/wiki/Tag:natural=geyser"
     },
     "tag:natural=glacier": {
@@ -3826,7 +3826,7 @@
         "description": "Tag \"natural=hill\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hill"
     },
     "tag:natural=hot_spring": {
-        "message": "",
+        "message": "Fontes termais",
         "description": "Tag \"natural=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hot_spring"
     },
     "tag:natural=marsh": {
@@ -3858,7 +3858,7 @@
         "description": "Tag \"natural=peninsula\". See https://wiki.openstreetmap.org/wiki/Tag:natural=peninsula"
     },
     "tag:natural=reef": {
-        "message": "",
+        "message": "Recife",
         "description": "Tag \"natural=reef\". See https://wiki.openstreetmap.org/wiki/Tag:natural=reef"
     },
     "tag:natural=ridge": {
@@ -4118,11 +4118,11 @@
         "description": "Tag \"office=political_party\". See https://wiki.openstreetmap.org/wiki/Tag:office=political_party"
     },
     "tag:office=private_investigator": {
-        "message": "",
+        "message": "Investigador privado",
         "description": "Tag \"office=private_investigator\". See https://wiki.openstreetmap.org/wiki/Tag:office=private_investigator"
     },
     "tag:office=property_management": {
-        "message": "",
+        "message": "Administradora imobiliária",
         "description": "Tag \"office=property_management\". See https://wiki.openstreetmap.org/wiki/Tag:office=property_management"
     },
     "tag:office=publisher": {
@@ -4694,7 +4694,7 @@
         "description": "Key \"religion\". See https://wiki.openstreetmap.org/wiki/Key:religion"
     },
     "tag:religion=bahai": {
-        "message": "",
+        "message": "bahai",
         "description": "Tag \"religion=bahai\". See https://wiki.openstreetmap.org/wiki/Tag:religion=bahai"
     },
     "tag:religion=buddhist": {
@@ -4702,7 +4702,7 @@
         "description": "Tag \"religion=buddhist\". See https://wiki.openstreetmap.org/wiki/Tag:religion=buddhist"
     },
     "tag:religion=caodaism": {
-        "message": "",
+        "message": "caodaísmo",
         "description": "Tag \"religion=caodaism\". See https://wiki.openstreetmap.org/wiki/Tag:religion=caodaism"
     },
     "tag:religion=christian": {
@@ -4710,7 +4710,7 @@
         "description": "Tag \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
     },
     "tag:religion=confucian": {
-        "message": "",
+        "message": "confucionista",
         "description": "Tag \"religion=confucian\". See https://wiki.openstreetmap.org/wiki/Tag:religion=confucian"
     },
     "tag:religion=hindu": {
@@ -4746,11 +4746,11 @@
         "description": "Tag \"religion=pentecostal\". See https://wiki.openstreetmap.org/wiki/Tag:religion=pentecostal"
     },
     "tag:religion=scientologist": {
-        "message": "",
+        "message": "cientologista",
         "description": "Tag \"religion=scientologist\". See https://wiki.openstreetmap.org/wiki/Tag:religion=scientologist"
     },
     "tag:religion=shamanic": {
-        "message": "",
+        "message": "xamânica",
         "description": "Tag \"religion=shamanic\". See https://wiki.openstreetmap.org/wiki/Tag:religion=shamanic"
     },
     "tag:religion=shinto": {
@@ -4774,11 +4774,11 @@
         "description": "Tag \"religion=tenrikyo\". See https://wiki.openstreetmap.org/wiki/Tag:religion=tenrikyo"
     },
     "tag:religion=unitarian_universialist": {
-        "message": "",
+        "message": "universalista unitário",
         "description": "Tag \"religion=unitarian_universialist\". See https://wiki.openstreetmap.org/wiki/Tag:religion=unitarian_universialist"
     },
     "tag:religion=vientamese_folk": {
-        "message": "",
+        "message": "vietnamita tradicional",
         "description": "Tag \"religion=vientamese_folk\". See https://wiki.openstreetmap.org/wiki/Tag:religion=vientamese_folk"
     },
     "tag:religion=voodoo": {
@@ -4918,11 +4918,11 @@
         "description": "Key \"route_type\". See https://wiki.openstreetmap.org/wiki/Key:route_type"
     },
     "tag:sauna=aroma": {
-        "message": "",
+        "message": "Aromática",
         "description": "Tag \"sauna=aroma\". See https://wiki.openstreetmap.org/wiki/Tag:sauna=aroma"
     },
     "tag:sauna=dry": {
-        "message": "",
+        "message": "Seca",
         "description": "Tag \"sauna=dry\". See https://wiki.openstreetmap.org/wiki/Tag:sauna=dry"
     },
     "tag:sauna=hanjeungmak": {
@@ -4930,11 +4930,11 @@
         "description": "Tag \"sauna=hanjeungmak\". See https://wiki.openstreetmap.org/wiki/Tag:sauna=hanjeungmak"
     },
     "tag:sauna=hot": {
-        "message": "",
+        "message": "Quente",
         "description": "Tag \"sauna=hot\". See https://wiki.openstreetmap.org/wiki/Tag:sauna=hot"
     },
     "tag:sauna=infrared": {
-        "message": "",
+        "message": "Infravermelho",
         "description": "Tag \"sauna=infrared\". See https://wiki.openstreetmap.org/wiki/Tag:sauna=infrared"
     },
     "tag:sauna=smoke": {
@@ -4942,7 +4942,7 @@
         "description": "Tag \"sauna=smoke\". See https://wiki.openstreetmap.org/wiki/Tag:sauna=smoke"
     },
     "tag:sauna=steam": {
-        "message": "",
+        "message": "Vapor",
         "description": "Tag \"sauna=steam\". See https://wiki.openstreetmap.org/wiki/Tag:sauna=steam"
     },
     "tag:service": {
@@ -5178,7 +5178,7 @@
         "description": "Tag \"shop=garden_centre\". See https://wiki.openstreetmap.org/wiki/Tag:shop=garden_centre"
     },
     "tag:shop=general": {
-        "message": "",
+        "message": "Loja geral",
         "description": "Tag \"shop=general\". See https://wiki.openstreetmap.org/wiki/Tag:shop=general"
     },
     "tag:shop=gift": {
@@ -5590,7 +5590,7 @@
         "description": "Tag \"sport=horse_racing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=horse_racing"
     },
     "tag:sport=ice_hockey": {
-        "message": "",
+        "message": "Hockey no gelo",
         "description": "Tag \"sport=ice_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_hockey"
     },
     "tag:sport=ice_skating": {
@@ -5602,7 +5602,7 @@
         "description": "Tag \"sport=korfball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=korfball"
     },
     "tag:sport=model_aerodrome": {
-        "message": "",
+        "message": "Aeródromo de miniaturas",
         "description": "Tag \"sport=model_aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:sport=model_aerodrome"
     },
     "tag:sport=motocross": {
@@ -6182,7 +6182,7 @@
         "description": "Combined tag \"leisure=pitch\" and \"sport=skateboard\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=skateboard"
     },
     "tag:sidewalk": {
-        "message": "",
+        "message": "Calçada ao longo da via",
         "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
     },
     "tag:sport=boxing": {
@@ -6660,5 +6660,173 @@
     "tag:xmas:feature=lighting": {
         "message": "Luzes natalinas",
         "description": "Tag \"xmas:feature=lighting\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=lighting"
+    },
+    "tag:leisure=pitch sport=australian_football": {
+        "message": "Campo de futebol australiano",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=australian_football\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=australian_football"
+    },
+    "tag:leisure=pitch sport=badminton": {
+        "message": "Quadra de badminton",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=badminton\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=badminton"
+    },
+    "tag:leisure=pitch sport=boules": {
+        "message": "Quadra de bocha",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=boules\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=boules"
+    },
+    "tag:leisure=pitch sport=cricket": {
+        "message": "Campo de críquete",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=cricket\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=cricket"
+    },
+    "tag:leisure=pitch sport=field_hockey": {
+        "message": "Campo de hóquei em campo",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=field_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=field_hockey"
+    },
+    "tag:leisure=pitch sport=horseshoes": {
+        "message": "Jogo de ferradura",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=horseshoes\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=horseshoes"
+    },
+    "tag:leisure=pitch sport=netball": {
+        "message": "Quadra de netball",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=netball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=netball"
+    },
+    "tag:leisure=pitch sport=rugby_league": {
+        "message": "Campo de rugby league",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=rugby_league\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_league"
+    },
+    "tag:leisure=pitch sport=rugby_union": {
+        "message": "Campo de rugby union",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=rugby_union\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_union"
+    },
+    "tag:leisure=pitch sport=shuffleboard": {
+        "message": "Quadra de shuffleboard",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=shuffleboard\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=shuffleboard"
+    },
+    "tag:leisure=pitch sport=softball": {
+        "message": "Campo de softbol",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=softball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=softball"
+    },
+    "tag:leisure=pitch sport=table_tennis": {
+        "message": "Mesa de ping pong",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=table_tennis\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=table_tennis"
+    },
+    "tag:leisure=trampoline_park": {
+        "message": "Parque de trampolim",
+        "description": "Tag \"leisure=trampoline_park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=trampoline_park"
+    },
+    "tag:man_made=monitoring_station": {
+        "message": "Estação de monitoramento",
+        "description": "Tag \"man_made=monitoring_station\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=monitoring_station"
+    },
+    "tag:sidewalk:left": {
+        "message": "Calçada esquerda",
+        "description": "Key \"sidewalk:left\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk:left"
+    },
+    "tag:sidewalk:right": {
+        "message": "Calçada direita",
+        "description": "Key \"sidewalk:right\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk:right"
+    },
+    "tag:sidewalk=no": {
+        "message": "Via sem calçada",
+        "description": "Tag \"sidewalk=no\". See https://wiki.openstreetmap.org/wiki/Tag:sidewalk=no"
+    },
+    "tag:sidewalk=separate": {
+        "message": "Via com calçada mapeada separadamente",
+        "description": "Tag \"sidewalk=separate\". See https://wiki.openstreetmap.org/wiki/Tag:sidewalk=separate"
+    },
+    "tag:sidewalk=yes": {
+        "message": "Via com calçada",
+        "description": "Tag \"sidewalk=yes\". See https://wiki.openstreetmap.org/wiki/Tag:sidewalk=yes"
+    },
+    "tag:smoothness=bad": {
+        "message": "ruim",
+        "description": "Tag \"smoothness=bad\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=bad"
+    },
+    "tag:smoothness=excellent": {
+        "message": "excelente",
+        "description": "Tag \"smoothness=excellent\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=excellent"
+    },
+    "tag:smoothness=good": {
+        "message": "boa",
+        "description": "Tag \"smoothness=good\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=good"
+    },
+    "tag:smoothness=horrible": {
+        "message": "horrível",
+        "description": "Tag \"smoothness=horrible\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=horrible"
+    },
+    "tag:smoothness=impassable": {
+        "message": "intransitável",
+        "description": "Tag \"smoothness=impassable\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=impassable"
+    },
+    "tag:smoothness=intermediate": {
+        "message": "intermediário",
+        "description": "Tag \"smoothness=intermediate\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=intermediate"
+    },
+    "tag:smoothness=very_bad": {
+        "message": "muito ruim",
+        "description": "Tag \"smoothness=very_bad\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=very_bad"
+    },
+    "tag:smoothness=very_horrible": {
+        "message": "muito horrível",
+        "description": "Tag \"smoothness=very_horrible\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=very_horrible"
+    },
+    "tag:sport=disc_golf": {
+        "message": "Disco de golfe",
+        "description": "Tag \"sport=disc_golf\". See https://wiki.openstreetmap.org/wiki/Tag:sport=disc_golf"
+    },
+    "tag:sport=free_flying": {
+        "message": "Voo livre",
+        "description": "Tag \"sport=free_flying\". See https://wiki.openstreetmap.org/wiki/Tag:sport=free_flying"
+    },
+    "tag:sport=gaelic_games": {
+        "message": "Jogos gaélicos",
+        "description": "Tag \"sport=gaelic_games\". See https://wiki.openstreetmap.org/wiki/Tag:sport=gaelic_games"
+    },
+    "tag:sport=horseshoes": {
+        "message": "Ferradura",
+        "description": "Tag \"sport=horseshoes\". See https://wiki.openstreetmap.org/wiki/Tag:sport=horseshoes"
+    },
+    "tag:sport=ice_stock": {
+        "message": "Ice Stock",
+        "description": "Tag \"sport=ice_stock\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_stock"
+    },
+    "tag:sport=long_jump": {
+        "message": "Salto em distância",
+        "description": "Tag \"sport=long_jump\". See https://wiki.openstreetmap.org/wiki/Tag:sport=long_jump"
+    },
+    "tag:surface=acrylic": {
+        "message": "acrílico",
+        "description": "Tag \"surface=acrylic\". See https://wiki.openstreetmap.org/wiki/Tag:surface=acrylic"
+    },
+    "tag:surface=asphalt": {
+        "message": "asfalto",
+        "description": "Tag \"surface=asphalt\". See https://wiki.openstreetmap.org/wiki/Tag:surface=asphalt"
+    },
+    "tag:surface=carpet": {
+        "message": "carpete",
+        "description": "Tag \"surface=carpet\". See https://wiki.openstreetmap.org/wiki/Tag:surface=carpet"
+    },
+    "tag:surface=compacted": {
+        "message": "compactado",
+        "description": "Tag \"surface=compacted\". See https://wiki.openstreetmap.org/wiki/Tag:surface=compacted"
+    },
+    "tag:surface=concrete": {
+        "message": "concreto",
+        "description": "Tag \"surface=concrete\". See https://wiki.openstreetmap.org/wiki/Tag:surface=concrete"
+    },
+    "tag:surface=earth": {
+        "message": "terra",
+        "description": "Tag \"surface=earth\". See https://wiki.openstreetmap.org/wiki/Tag:surface=earth"
+    },
+    "tag:surface=fine_gravel": {
+        "message": "cascalho fino",
+        "description": "Tag \"surface=fine_gravel\". See https://wiki.openstreetmap.org/wiki/Tag:surface=fine_gravel"
+    },
+    "tag:surface=gravel": {
+        "message": "cascalho",
+        "description": "Tag \"surface=gravel\". See https://wiki.openstreetmap.org/wiki/Tag:surface=gravel"
+    },
+    "tag:surface=mud": {
+        "message": "lama",
+        "description": "Tag \"surface=mud\". See https://wiki.openstreetmap.org/wiki/Tag:surface=mud"
     }
 }
