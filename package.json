@@ -5,6 +5,7 @@
   "repository": "git@github.com:plepe/openstreetmap-tag-translations.git",
   "author": "Stephan Bösch-Plepelits <skunk@xover.mud.at>",
   "license": "CC-SA-BY-2.0",
+  "translationPath": "tags",
   "devDependencies": {
     "argparse": "^1.0.10",
     "async-foreach": "^0.1.3"
