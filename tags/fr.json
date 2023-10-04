@@ -1280,10 +1280,6 @@
         "message": "Paysagiste",
         "description": "Tag \"craft=gardener\". See https://wiki.openstreetmap.org/wiki/Tag:craft=gardener"
     },
-    "tag:craft=glass": {
-        "message": "Vitrage",
-        "description": "Tag \"craft=glass\". See https://wiki.openstreetmap.org/wiki/Tag:craft=glass"
-    },
     "tag:craft=glaziery": {
         "message": "Vitrerie",
         "description": "Tag \"craft=glaziery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=glaziery"

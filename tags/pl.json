@@ -1320,10 +1320,6 @@
         "message": "Ogrodnik",
         "description": "Tag \"craft=gardener\". See https://wiki.openstreetmap.org/wiki/Tag:craft=gardener"
     },
-    "tag:craft=glass": {
-        "message": "Szkło",
-        "description": "Tag \"craft=glass\". See https://wiki.openstreetmap.org/wiki/Tag:craft=glass"
-    },
     "tag:craft=glaziery": {
         "message": "Szklarz",
         "description": "Tag \"craft=glaziery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=glaziery"

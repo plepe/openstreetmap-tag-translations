@@ -1287,10 +1287,6 @@
         "message": "",
         "description": "Tag \"craft=gardener\". See https://wiki.openstreetmap.org/wiki/Tag:craft=gardener"
     },
-    "tag:craft=glass": {
-        "message": "",
-        "description": "Tag \"craft=glass\". See https://wiki.openstreetmap.org/wiki/Tag:craft=glass"
-    },
     "tag:craft=glaziery": {
         "message": "",
         "description": "Tag \"craft=glaziery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=glaziery"
