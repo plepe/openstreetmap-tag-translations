@@ -2506,7 +2506,7 @@
         "description": "Tag \"emergency=access_point\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=access_point"
     },
     "tag:emergency=defibrillator": {
-        "message": "",
+        "message": "Defibrillator",
         "description": "Tag \"emergency=defibrillator\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=defibrillator"
     },
     "tag:emergency=fire_hydrant": {
@@ -2521,8 +2521,12 @@
         "message": "Fire Hydrant Underground",
         "description": "Combined tag \"emergency=fire_hydrant\" and \"fire_hydrant:type=underground\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant and https://wiki.openstreetmap.org/wiki/Tag:fire_hydrant:type=underground"
     },
+    "tag:emergency=lifeguard": {
+        "message": "Lifeguard",
+        "description": "Tag \"emergency=lifeguard\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=lifeguard"
+    },
     "tag:emergency=phone": {
-        "message": "",
+        "message": "Emergency Phone",
         "description": "Tag \"emergency=phone\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=phone"
     },
     "tag:end_date": {

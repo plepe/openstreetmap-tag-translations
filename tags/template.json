@@ -2232,6 +2232,10 @@
         "message": "tag:emergency=fire_hydrant fire_hydrant:type=underground",
         "description": "Combined tag \"emergency=fire_hydrant\" and \"fire_hydrant:type=underground\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant and https://wiki.openstreetmap.org/wiki/Tag:fire_hydrant:type=underground"
     },
+    "tag:emergency=lifeguard": {
+        "message": "",
+        "description": "Tag \"emergency=lifeguard\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=lifeguard"
+    },
     "tag:emergency=phone": {
         "message": "tag:emergency=phone",
         "description": "Tag \"emergency=phone\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=phone"
