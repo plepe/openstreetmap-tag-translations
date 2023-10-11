@@ -2930,7 +2930,7 @@
         "description": "Tag \"information=audioguide\". See https://wiki.openstreetmap.org/wiki/Tag:information=audioguide"
     },
     "tag:information=board": {
-        "message": "",
+        "message": "Tablica",
         "description": "Tag \"information=board\". See https://wiki.openstreetmap.org/wiki/Tag:information=board"
     },
     "tag:information=guidepost": {
@@ -5670,7 +5670,7 @@
         "description": "Key \"surface\". See https://wiki.openstreetmap.org/wiki/Key:surface"
     },
     "tag:tactile_paving": {
-        "message": "",
+        "message": "Pole uwagi",
         "description": "Key \"tactile_paving\". See https://wiki.openstreetmap.org/wiki/Key:tactile_paving"
     },
     "tag:theatre:genre": {
@@ -5974,7 +5974,7 @@
         "description": "Tag \"water=stream_pool\". See https://wiki.openstreetmap.org/wiki/Tag:water=stream_pool"
     },
     "tag:water=wastewater": {
-        "message": "",
+        "message": "Ścieki",
         "description": "Tag \"water=wastewater\". See https://wiki.openstreetmap.org/wiki/Tag:water=wastewater"
     },
     "tag:waterway": {
@@ -6054,7 +6054,7 @@
         "description": "Key \"wood\". See https://wiki.openstreetmap.org/wiki/Key:wood"
     },
     "tag:xmas:feature": {
-        "message": "",
+        "message": "Funkcja świąteczna",
         "description": "Key \"xmas:feature\". See https://wiki.openstreetmap.org/wiki/Key:xmas:feature"
     },
     "tag:xmas:feature=event": {
@@ -6488,5 +6488,81 @@
     "tag:surface=wood": {
         "message": "drewniana",
         "description": "Tag \"surface=wood\". See https://wiki.openstreetmap.org/wiki/Tag:surface=wood"
+    },
+    "tag:surface=clay": {
+        "message": "gliniasta",
+        "description": "Tag \"surface=clay\". See https://wiki.openstreetmap.org/wiki/Tag:surface=clay"
+    },
+    "tag:surface=cobblestone": {
+        "message": "kocie łby",
+        "description": "Tag \"surface=cobblestone\". See https://wiki.openstreetmap.org/wiki/Tag:surface=cobblestone"
+    },
+    "tag:surface=compacted": {
+        "message": "ubita",
+        "description": "Tag \"surface=compacted\". See https://wiki.openstreetmap.org/wiki/Tag:surface=compacted"
+    },
+    "tag:surface=dirt": {
+        "message": "kurz",
+        "description": "Tag \"surface=dirt\". See https://wiki.openstreetmap.org/wiki/Tag:surface=dirt"
+    },
+    "tag:surface=earth": {
+        "message": "ziemia",
+        "description": "Tag \"surface=earth\". See https://wiki.openstreetmap.org/wiki/Tag:surface=earth"
+    },
+    "tag:surface=fine_gravel": {
+        "message": "szuter",
+        "description": "Tag \"surface=fine_gravel\". See https://wiki.openstreetmap.org/wiki/Tag:surface=fine_gravel"
+    },
+    "tag:surface=grass_paver": {
+        "message": "kostka trawnikowa",
+        "description": "Tag \"surface=grass_paver\". See https://wiki.openstreetmap.org/wiki/Tag:surface=grass_paver"
+    },
+    "tag:surface=gravel": {
+        "message": "żwir",
+        "description": "Tag \"surface=gravel\". See https://wiki.openstreetmap.org/wiki/Tag:surface=gravel"
+    },
+    "tag:surface=ground": {
+        "message": "grunt",
+        "description": "Tag \"surface=ground\". See https://wiki.openstreetmap.org/wiki/Tag:surface=ground"
+    },
+    "tag:surface=metal": {
+        "message": "metal",
+        "description": "Tag \"surface=metal\". See https://wiki.openstreetmap.org/wiki/Tag:surface=metal"
+    },
+    "tag:surface=metal_grid": {
+        "message": "siatka metalowa",
+        "description": "Tag \"surface=metal_grid\". See https://wiki.openstreetmap.org/wiki/Tag:surface=metal_grid"
+    },
+    "tag:surface=paved": {
+        "message": "utwardzona",
+        "description": "Tag \"surface=paved\". See https://wiki.openstreetmap.org/wiki/Tag:surface=paved"
+    },
+    "tag:surface=pebblestone": {
+        "message": "gruby żwir",
+        "description": "Tag \"surface=pebblestone\". See https://wiki.openstreetmap.org/wiki/Tag:surface=pebblestone"
+    },
+    "tag:surface=sett": {
+        "message": "kamień brukowy",
+        "description": "Tag \"surface=sett\". See https://wiki.openstreetmap.org/wiki/Tag:surface=sett"
+    },
+    "tag:surface=unhewn_cobblestone": {
+        "message": "nieociosany bruk",
+        "description": "Tag \"surface=unhewn_cobblestone\". See https://wiki.openstreetmap.org/wiki/Tag:surface=unhewn_cobblestone"
+    },
+    "tag:surface=unpaved": {
+        "message": "nieutwardzona",
+        "description": "Tag \"surface=unpaved\". See https://wiki.openstreetmap.org/wiki/Tag:surface=unpaved"
+    },
+    "tag:surface=woodchips": {
+        "message": "trociny",
+        "description": "Tag \"surface=woodchips\". See https://wiki.openstreetmap.org/wiki/Tag:surface=woodchips"
+    },
+    "tag:via_ferrata_scale": {
+        "message": "Skala via ferrata",
+        "description": "Key \"via_ferrata_scale\". See https://wiki.openstreetmap.org/wiki/Key:via_ferrata_scale"
+    },
+    "tag:xmas:feature=crib": {
+        "message": "Szopka bożonarodzeniowa",
+        "description": "Tag \"xmas:feature=crib\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=crib"
     }
 }
