@@ -2534,11 +2534,11 @@
         "description": "Tag \"heritage=0\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=0"
     },
     "tag:heritage=1": {
-        "message": "",
+        "message": "Zabytek chroniony prawem międzynarodowym",
         "description": "Tag \"heritage=1\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=1"
     },
     "tag:heritage=2": {
-        "message": "",
+        "message": "Zabytek chroniony prawem krajowym",
         "description": "Tag \"heritage=2\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=2"
     },
     "tag:heritage=3": {
@@ -2826,15 +2826,15 @@
         "description": "Tag \"historic=fort\". See https://wiki.openstreetmap.org/wiki/Tag:historic=fort"
     },
     "tag:historic=industrial": {
-        "message": "",
+        "message": "Historyczna fabryka",
         "description": "Tag \"historic=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:historic=industrial"
     },
     "tag:historic=kiln": {
-        "message": "",
+        "message": "Historyczny piec do wypalania cegły",
         "description": "Tag \"historic=kiln\". See https://wiki.openstreetmap.org/wiki/Tag:historic=kiln"
     },
     "tag:historic=locomotive": {
-        "message": "",
+        "message": "Historyczna lokomotywa",
         "description": "Tag \"historic=locomotive\". See https://wiki.openstreetmap.org/wiki/Tag:historic=locomotive"
     },
     "tag:historic=manor": {
@@ -2850,55 +2850,55 @@
         "description": "Tag \"historic=milestone\". See https://wiki.openstreetmap.org/wiki/Tag:historic=milestone"
     },
     "tag:historic=mine": {
-        "message": "",
+        "message": "Historyczna kopalnia",
         "description": "Tag \"historic=mine\". See https://wiki.openstreetmap.org/wiki/Tag:historic=mine"
     },
     "tag:historic=monastery": {
-        "message": "",
+        "message": "Historyczny klasztor",
         "description": "Tag \"historic=monastery\". See https://wiki.openstreetmap.org/wiki/Tag:historic=monastery"
     },
     "tag:historic=monument": {
-        "message": "",
+        "message": "Historyczny pomnik",
         "description": "Tag \"historic=monument\". See https://wiki.openstreetmap.org/wiki/Tag:historic=monument"
     },
     "tag:historic=pillory": {
-        "message": "",
+        "message": "Historyczny pręgierz",
         "description": "Tag \"historic=pillory\". See https://wiki.openstreetmap.org/wiki/Tag:historic=pillory"
     },
     "tag:historic=railway_car": {
-        "message": "",
+        "message": "Historyczny wagon kolejowy",
         "description": "Tag \"historic=railway_car\". See https://wiki.openstreetmap.org/wiki/Tag:historic=railway_car"
     },
     "tag:historic=ruins": {
-        "message": "",
+        "message": "Historyczne ruiny",
         "description": "Tag \"historic=ruins\". See https://wiki.openstreetmap.org/wiki/Tag:historic=ruins"
     },
     "tag:historic=ship": {
-        "message": "",
+        "message": "Historyczny okręt",
         "description": "Tag \"historic=ship\". See https://wiki.openstreetmap.org/wiki/Tag:historic=ship"
     },
     "tag:historic=stone": {
-        "message": "",
+        "message": "Historyczny głaz",
         "description": "Tag \"historic=stone\". See https://wiki.openstreetmap.org/wiki/Tag:historic=stone"
     },
     "tag:historic=technical_monument": {
-        "message": "",
+        "message": "Historyczny pomnik techniki",
         "description": "Tag \"historic=technical_monument\". See https://wiki.openstreetmap.org/wiki/Tag:historic=technical_monument"
     },
     "tag:historic=tomb": {
-        "message": "Grobowiec",
+        "message": "Historyczny grobowiec",
         "description": "Tag \"historic=tomb\". See https://wiki.openstreetmap.org/wiki/Tag:historic=tomb"
     },
     "tag:historic=tower": {
-        "message": "",
+        "message": "Historyczna wieża",
         "description": "Tag \"historic=tower\". See https://wiki.openstreetmap.org/wiki/Tag:historic=tower"
     },
     "tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage": {
-        "message": "",
+        "message": "Światowe Dziedzictwo UNESCO",
         "description": "Tag \"historic=unesco_world_heritage;historic=UNESCO_world_heritage\". See https://wiki.openstreetmap.org/wiki/Tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage"
     },
     "tag:historic=wayside_chapel": {
-        "message": "",
+        "message": "Kaplica przydrożna",
         "description": "Tag \"historic=wayside_chapel\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_chapel"
     },
     "tag:historic=wayside_cross": {
@@ -2914,11 +2914,11 @@
         "description": "Tag \"historic=wreck\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wreck"
     },
     "tag:historic=yes": {
-        "message": "",
+        "message": "Obiekt historyczny",
         "description": "Tag \"historic=yes\". See https://wiki.openstreetmap.org/wiki/Tag:historic=yes"
     },
     "tag:horse": {
-        "message": "",
+        "message": "Zezwolenie na dostęp dla jeźdźców konnych",
         "description": "Key \"horse\". See https://wiki.openstreetmap.org/wiki/Key:horse"
     },
     "tag:incline": {
@@ -2926,7 +2926,7 @@
         "description": "Key \"incline\". See https://wiki.openstreetmap.org/wiki/Key:incline"
     },
     "tag:information=audioguide": {
-        "message": "",
+        "message": "Audioprzewodnik",
         "description": "Tag \"information=audioguide\". See https://wiki.openstreetmap.org/wiki/Tag:information=audioguide"
     },
     "tag:information=board": {
@@ -2934,31 +2934,31 @@
         "description": "Tag \"information=board\". See https://wiki.openstreetmap.org/wiki/Tag:information=board"
     },
     "tag:information=guidepost": {
-        "message": "",
+        "message": "Drogowskaz",
         "description": "Tag \"information=guidepost\". See https://wiki.openstreetmap.org/wiki/Tag:information=guidepost"
     },
     "tag:information=map": {
-        "message": "",
+        "message": "Mapa",
         "description": "Tag \"information=map\". See https://wiki.openstreetmap.org/wiki/Tag:information=map"
     },
     "tag:information=office": {
-        "message": "",
+        "message": "Biuro informacji turystycznej",
         "description": "Tag \"information=office\". See https://wiki.openstreetmap.org/wiki/Tag:information=office"
     },
     "tag:information=route_marker": {
-        "message": "",
+        "message": "Znacznik trasy",
         "description": "Tag \"information=route_marker\". See https://wiki.openstreetmap.org/wiki/Tag:information=route_marker"
     },
     "tag:information=tactile_map": {
-        "message": "",
+        "message": "Mapa dotykowa",
         "description": "Tag \"information=tactile_map\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_map"
     },
     "tag:information=tactile_model": {
-        "message": "",
+        "message": "Model dotykowy",
         "description": "Tag \"information=tactile_model\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_model"
     },
     "tag:information=terminal": {
-        "message": "",
+        "message": "Terminal informacyjny",
         "description": "Tag \"information=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:information=terminal"
     },
     "tag:information=trail_blaze": {
@@ -2978,39 +2978,39 @@
         "description": "Key \"intermittent\". See https://wiki.openstreetmap.org/wiki/Key:intermittent"
     },
     "tag:internet_access=public": {
-        "message": "",
+        "message": "Nieokreślony dostęp do Internetu",
         "description": "Tag \"internet_access=public\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=public"
     },
     "tag:internet_access=service": {
-        "message": "",
+        "message": "Centrum dostępu do Internetu",
         "description": "Tag \"internet_access=service\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=service"
     },
     "tag:internet_access=terminal": {
-        "message": "",
+        "message": "Brak bezpłatnego dostępu do Internetu z komputerem.",
         "description": "Tag \"internet_access=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=terminal"
     },
     "tag:internet_access=terminal internet_access:fee=no": {
-        "message": "",
+        "message": "Bezpłatny dostęp do Internetu z komputerem.",
         "description": "Combined tag \"internet_access=terminal\" and \"internet_access:fee=no\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=terminal and https://wiki.openstreetmap.org/wiki/Tag:internet_access:fee=no"
     },
     "tag:internet_access=wired": {
-        "message": "",
+        "message": "Przewodowy dostęp do Internetu",
         "description": "Tag \"internet_access=wired\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=wired"
     },
     "tag:internet_access=wlan": {
-        "message": "",
+        "message": "Nieokreślony dostęp do Internetu WiFi",
         "description": "Tag \"internet_access=wlan\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=wlan"
     },
     "tag:internet_access=wlan internet_access:fee=customers": {
-        "message": "",
+        "message": "Bezpłatny dostęp do Internetu WiFi dla klientów",
         "description": "Combined tag \"internet_access=wlan\" and \"internet_access:fee=customers\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=wlan and https://wiki.openstreetmap.org/wiki/Tag:internet_access:fee=customers"
     },
     "tag:internet_access=wlan internet_access:fee=no": {
-        "message": "",
+        "message": "Bezpłatny dostęp do Internetu WiFi",
         "description": "Combined tag \"internet_access=wlan\" and \"internet_access:fee=no\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=wlan and https://wiki.openstreetmap.org/wiki/Tag:internet_access:fee=no"
     },
     "tag:internet_access=wlan internet_access:fee=yes": {
-        "message": "",
+        "message": "Brak bezpłatnego dostępu do Internetu WiFi",
         "description": "Combined tag \"internet_access=wlan\" and \"internet_access:fee=yes\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=wlan and https://wiki.openstreetmap.org/wiki/Tag:internet_access:fee=yes"
     },
     "tag:is_in": {
@@ -3018,7 +3018,7 @@
         "description": "Key \"is_in\". See https://wiki.openstreetmap.org/wiki/Key:is_in"
     },
     "tag:kids_area": {
-        "message": "",
+        "message": "Strefa Dzieci",
         "description": "Key \"kids_area\". See https://wiki.openstreetmap.org/wiki/Key:kids_area"
     },
     "tag:landuse": {
@@ -6564,5 +6564,9 @@
     "tag:xmas:feature=crib": {
         "message": "Szopka bożonarodzeniowa",
         "description": "Tag \"xmas:feature=crib\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=crib"
+    },
+    "tag:kerb": {
+        "message": "Krawężnik",
+        "description": "Key \"kerb\". See https://wiki.openstreetmap.org/wiki/Key:kerb"
     }
 }
