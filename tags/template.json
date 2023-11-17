@@ -200,6 +200,10 @@
         "message": "tag:amenity=cafe",
         "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
     },
+    "tag:amenity=canteen": {
+        "message": "",
+        "description": "Tag \"amenity=canteen\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=canteen"
+    },
     "tag:amenity=car_rental": {
         "message": "tag:amenity=car_rental",
         "description": "Tag \"amenity=car_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_rental"
