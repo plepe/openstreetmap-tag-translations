@@ -2538,7 +2538,7 @@
         "description": "Tag \"highway=construction\". See https://wiki.openstreetmap.org/wiki/Tag:highway=construction"
     },
     "tag:highway=crossing": {
-        "message": "Kreuzung",
+        "message": "Fußgängerüberweg",
         "description": "Tag \"highway=crossing\". See https://wiki.openstreetmap.org/wiki/Tag:highway=crossing"
     },
     "tag:highway=cycleway": {
@@ -4582,7 +4582,7 @@
         "description": "Tag \"railway=buffer_stop\". See https://wiki.openstreetmap.org/wiki/Tag:railway=buffer_stop"
     },
     "tag:railway=crossing": {
-        "message": "",
+        "message": "Eisenbahnübergang",
         "description": "Tag \"railway=crossing\". See https://wiki.openstreetmap.org/wiki/Tag:railway=crossing"
     },
     "tag:railway=crossing_box": {
