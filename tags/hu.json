@@ -4129,6 +4129,82 @@
         "message": "Üzemeltető",
         "description": "Key \"operator\". See https://wiki.openstreetmap.org/wiki/Key:operator"
     },
+    "tag:parking:lane=fire_lane": {
+        "message": "tűzoltó felvonulási terület",
+        "description": "Tag \"parking:lane=fire_lane\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=fire_lane"
+    },
+    "tag:parking:lane=marked": {
+        "message": "egyenként jelölt parkolóhelyek",
+        "description": "Tag \"parking:lane=marked\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=marked"
+    },
+    "tag:parking:side": {
+        "message": "",
+        "description": "Key \"parking:side\". See https://wiki.openstreetmap.org/wiki/Key:parking:side"
+    },
+    "tag:parking:side:orientation": {
+        "message": "",
+        "description": "Key \"parking:side:orientation\". See https://wiki.openstreetmap.org/wiki/Key:parking:side:orientation"
+    },
+    "tag:parking:side:orientation=diagonal": {
+        "message": "",
+        "description": "Tag \"parking:side:orientation=diagonal\". See https://wiki.openstreetmap.org/wiki/Tag:parking:side:orientation=diagonal"
+    },
+    "tag:parking:side:orientation=parallel": {
+        "message": "párhuzamos parkolás",
+        "description": "Tag \"parking:lane=parallel\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=parallel"
+    },
+    "tag:parking:side:orientation=perpendicular": {
+        "message": "merőleges parkolás",
+        "description": "Tag \"parking:lane=perpendicular\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=perpendicular"
+    },
+    "tag:parking:side:restriction": {
+        "message": "",
+        "description": "Key \"parking:side:restriction\". See https://wiki.openstreetmap.org/wiki/Key:parking:side:restriction"
+    },
+    "tag:parking:side:restriction=charging_only": {
+        "message": "",
+        "description": "Tag \"parking:side:restriction=charging_only\". See https://wiki.openstreetmap.org/wiki/Tag:parking:side:restriction=charging_only"
+    },
+    "tag:parking:side:restriction=loading_only": {
+        "message": "",
+        "description": "Tag \"parking:side:restriction=loading_only\". See https://wiki.openstreetmap.org/wiki/Tag:parking:side:restriction=loading_only"
+    },
+    "tag:parking:side:restriction=no_standing": {
+        "message": "",
+        "description": "Tag \"parking:side:restriction=no_standing\". See https://wiki.openstreetmap.org/wiki/Tag:parking:side:restriction=no_standing"
+    },
+    "tag:parking:side:restriction=no_stopping": {
+        "message": "Várakozni tilos, de megállni szabad",
+        "description": "Tag \"parking:lane=no_stopping\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no_stopping"
+    },
+    "tag:parking:side=half_on_kerb": {
+        "message": "",
+        "description": "Tag \"parking:side=half_on_kerb\". See https://wiki.openstreetmap.org/wiki/Tag:parking:side=half_on_kerb"
+    },
+    "tag:parking:side=lane": {
+        "message": "",
+        "description": "Tag \"parking:side=lane\". See https://wiki.openstreetmap.org/wiki/Tag:parking:side=lane"
+    },
+    "tag:parking:side=no": {
+        "message": "nincs",
+        "description": "Tag \"parking:lane=no\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no"
+    },
+    "tag:parking:side=on_kerb": {
+        "message": "",
+        "description": "Tag \"parking:side=on_kerb\". See https://wiki.openstreetmap.org/wiki/Tag:parking:side=on_kerb"
+    },
+    "tag:parking:side=separate": {
+        "message": "",
+        "description": "Tag \"parking:side=separate\". See https://wiki.openstreetmap.org/wiki/Tag:parking:side=separate"
+    },
+    "tag:parking:side=shoulder": {
+        "message": "",
+        "description": "Tag \"parking:side=shoulder\". See https://wiki.openstreetmap.org/wiki/Tag:parking:side=shoulder"
+    },
+    "tag:parking:side=street_side": {
+        "message": "",
+        "description": "Tag \"parking:side=street_side\". See https://wiki.openstreetmap.org/wiki/Tag:parking:side=street_side"
+    },
     "tag:payment": {
         "message": "Fizetési mód",
         "description": "Key \"payment\". See https://wiki.openstreetmap.org/wiki/Key:payment"

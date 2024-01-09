@@ -1,4 +1,10 @@
 {
+    "left": {
+        "message": "Left"
+    },
+    "right": {
+        "message": "Right"
+    },
     "tag:*=no": {
         "message": "no"
     },
@@ -4615,11 +4621,7 @@
     },
     "tag:parking:lane": {
         "message": "Parking lane",
-        "description": "Key \"parking:lane\". See https://wiki.openstreetmap.org/wiki/Key:parking:lane"
-    },
-    "tag:parking:lane=diagonal": {
-        "message": "diagonal parking",
-        "description": "Tag \"parking:lane=diagonal\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=diagonal"
+        "description": "Key \"parking:lane\". See https://wiki.openstreetmap.org/wiki/Street_parking"
     },
     "tag:parking:lane=fire_lane": {
         "message": "must be kept clear for fire engines",
@@ -4629,25 +4631,77 @@
         "message": "individually marked parking spaces",
         "description": "Tag \"parking:lane=marked\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=marked"
     },
-    "tag:parking:lane=no": {
-        "message": "no",
-        "description": "Tag \"parking:lane=no\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no"
+    "tag:parking:side": {
+        "message": "Parking position",
+        "description": "Key \"parking:*\". See https://wiki.openstreetmap.org/wiki/Street_parking"
     },
-    "tag:parking:lane=no_parking": {
-        "message": "loading only",
-        "description": "Tag \"parking:lane=no_parking\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no_parking"
+    "tag:parking:side:orientation": {
+        "message": "Parking orientation",
+        "description": "Key \"parking:*:orientation\". See https://wiki.openstreetmap.org/wiki/Street_parking"
     },
-    "tag:parking:lane=no_stopping": {
-        "message": "No parking and stopping allowed",
-        "description": "Tag \"parking:lane=no_stopping\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no_stopping"
+    "tag:parking:side:orientation=diagonal": {
+        "message": "diagonal parking",
+        "description": "Tag \"parking:*:orientation=diagonal\". See https://wiki.openstreetmap.org/wiki/Street_parking"
     },
-    "tag:parking:lane=parallel": {
+    "tag:parking:side:orientation=parallel": {
         "message": "parallel parking",
-        "description": "Tag \"parking:lane=parallel\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=parallel"
+        "description": "Tag \"parking:*:orientation=parallel\". See https://wiki.openstreetmap.org/wiki/Street_parking"
     },
-    "tag:parking:lane=perpendicular": {
+    "tag:parking:side:orientation=perpendicular": {
         "message": "perpendicular parking",
-        "description": "Tag \"parking:lane=perpendicular\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=perpendicular"
+        "description": "Tag \"parking:*:orientation=perpendicular\". See https://wiki.openstreetmap.org/wiki/Street_parking"
+    },
+    "tag:parking:side:restriction": {
+        "message": "Parking restriction",
+        "description": "Key \"parking:side:restriction\". See https://wiki.openstreetmap.org/wiki/Street_parking"
+    },
+    "tag:parking:side:restriction=charging_only": {
+        "message": "only while charging",
+        "description": "Tag \"parking:side:restriction=charging_only\". See https://wiki.openstreetmap.org/wiki/Street_parking"
+    },
+    "tag:parking:side:restriction=loading_only": {
+        "message": "only while loading/unloading is in progress",
+        "description": "Tag \"parking:side:restriction=loading_only\". See https://wiki.openstreetmap.org/wiki/Street_parking"
+    },
+    "tag:parking:side:restriction=no_parking": {
+        "message": "loading only",
+        "description": "Tag \"parking:*:orientation=no_parking\". See https://wiki.openstreetmap.org/wiki/Street_parking"
+    },
+    "tag:parking:side:restriction=no_standing": {
+        "message": "only stopping allowed",
+        "description": "Tag \"parking:side:restriction=no_standing\". See https://wiki.openstreetmap.org/wiki/Street_parking"
+    },
+    "tag:parking:side:restriction=no_stopping": {
+        "message": "No parking and stopping allowed",
+        "description": "Tag \"parking:*:orientation=no_stopping\". See https://wiki.openstreetmap.org/wiki/Street_parking"
+    },
+    "tag:parking:side=half_on_kerb": {
+        "message": "partially on street/footpath area",
+        "description": "Tag \"parking:*=half_on_kerb\". See https://wiki.openstreetmap.org/wiki/Street_parking"
+    },
+    "tag:parking:side=lane": {
+        "message": "lane adjacent to carriageway",
+        "description": "Tag \"parking:*=lane\". See https://wiki.openstreetmap.org/wiki/Street_parking"
+    },
+    "tag:parking:side=no": {
+        "message": "no parking lanes",
+        "description": "Tag \"parking:lane=no\". See https://wiki.openstreetmap.org/wiki/Street_parking"
+    },
+    "tag:parking:side=on_kerb": {
+        "message": "on the footpath area",
+        "description": "Tag \"parking:*=on_kerb\". See https://wiki.openstreetmap.org/wiki/Street_parking"
+    },
+    "tag:parking:side=separate": {
+        "message": "mapped separately",
+        "description": "Tag \"parking:*=separate\". See https://wiki.openstreetmap.org/wiki/Street_parking"
+    },
+    "tag:parking:side=shoulder": {
+        "message": "parking on the shoulder",
+        "description": "Tag \"parking:*=shoulder\". See https://wiki.openstreetmap.org/wiki/Street_parking"
+    },
+    "tag:parking:side=street_side": {
+        "message": "parking bays adjacent to the carriageway",
+        "description": "Tag \"parking:*=street_side\". See https://wiki.openstreetmap.org/wiki/Street_parking"
     },
     "tag:payment": {
         "message": "",
