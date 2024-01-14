@@ -2030,7 +2030,7 @@
         "description": "Tag \"cuisine=westphalian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=wings": {
-        "message": "",
+        "message": "Ailes",
         "description": "Tag \"cuisine=wings\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cutting": {
@@ -2282,19 +2282,19 @@
         "description": "Key \"flood_date\". See https://wiki.openstreetmap.org/wiki/Key:flood_date"
     },
     "tag:flood_mark=engraving": {
-        "message": "",
+        "message": "Repère de crue gravé",
         "description": "Tag \"flood_mark=engraving\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=engraving"
     },
     "tag:flood_mark=painting": {
-        "message": "",
+        "message": "Repère de crue peint",
         "description": "Tag \"flood_mark=painting\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=painting"
     },
     "tag:flood_mark=plaque": {
-        "message": "",
+        "message": "Plaque de repère de crue",
         "description": "Tag \"flood_mark=plaque\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=plaque"
     },
     "tag:flood_mark=pole": {
-        "message": "",
+        "message": "Poteau de repère de crue",
         "description": "Tag \"flood_mark=pole\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=pole"
     },
     "tag:food": {
@@ -2314,11 +2314,11 @@
         "description": "Key \"frequency\". See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:frequency=0": {
-        "message": "",
+        "message": "courant continu",
         "description": "Tag \"frequency=0\" (direct current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:frequency>0": {
-        "message": "",
+        "message": "courant alternatif",
         "description": "Tag \"frequency=*\" (not 0, meaning alternating current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:gauge": {
@@ -2430,7 +2430,7 @@
         "description": "Tag \"healthcare=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dentist"
     },
     "tag:healthcare=dialysis": {
-        "message": "",
+        "message": "Dialyse",
         "description": "Tag \"healthcare=dialysis\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dialysis"
     },
     "tag:healthcare=doctor": {
@@ -2494,23 +2494,23 @@
         "description": "Tag \"heritage=0\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=0"
     },
     "tag:heritage=1": {
-        "message": "",
+        "message": "Protection patrimoniale niveau 1",
         "description": "Tag \"heritage=1\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=1"
     },
     "tag:heritage=2": {
-        "message": "",
+        "message": "Protection patrimoniale niveau 2",
         "description": "Tag \"heritage=2\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=2"
     },
     "tag:heritage=3": {
-        "message": "",
+        "message": "Protection patrimoniale niveau 3",
         "description": "Tag \"heritage=3\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=3"
     },
     "tag:heritage=4": {
-        "message": "",
+        "message": "Protection patrimoniale niveau 4",
         "description": "Tag \"heritage=4\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=4"
     },
     "tag:heritage=8": {
-        "message": "",
+        "message": "Protection patrimoniale niveau 8",
         "description": "Tag \"heritage=8\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=8"
     },
     "tag:hgv": {
@@ -3470,11 +3470,11 @@
         "description": "Tag \"memorial=stone\" or \"memorial:type=stone\" or \"monument=stone\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=stone"
     },
     "tag:memorial=tank": {
-        "message": "",
+        "message": "Tank mémoriel",
         "description": "Tag \"memorial=tank\" or \"memorial:type=tank\" or \"monument=tank\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=tank"
     },
     "tag:memorial=vehicle": {
-        "message": "",
+        "message": "Véhicule mémoriel",
         "description": "Tag \"memorial=vehicle\" or \"memorial:type=vehicle\" or \"monument=vehicle\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=vehicle"
     },
     "tag:memorial=war_memorial": {
@@ -3770,7 +3770,7 @@
         "description": "Tag \"natural=peninsula\". See https://wiki.openstreetmap.org/wiki/Tag:natural=peninsula"
     },
     "tag:natural=reef": {
-        "message": "",
+        "message": "Récif",
         "description": "Tag \"natural=reef\". See https://wiki.openstreetmap.org/wiki/Tag:natural=reef"
     },
     "tag:natural=ridge": {
@@ -4054,7 +4054,7 @@
         "description": "Tag \"office=research\". See https://wiki.openstreetmap.org/wiki/Tag:office=research"
     },
     "tag:office=surveyor": {
-        "message": "",
+        "message": "Géomètre Topographe",
         "description": "Tag \"office=surveyor\". See https://wiki.openstreetmap.org/wiki/Tag:office=surveyor"
     },
     "tag:office=tax": {
@@ -5090,7 +5090,7 @@
         "description": "Tag \"shop=garden_centre\". See https://wiki.openstreetmap.org/wiki/Tag:shop=garden_centre"
     },
     "tag:shop=general": {
-        "message": "",
+        "message": "Magasin général",
         "description": "Tag \"shop=general\". See https://wiki.openstreetmap.org/wiki/Tag:shop=general"
     },
     "tag:shop=gift": {
@@ -5982,7 +5982,7 @@
         "description": "Tag \"waterway=stream\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=stream"
     },
     "tag:waterway=waterfall": {
-        "message": "",
+        "message": "Chute d'eau",
         "description": "Tag \"waterway=waterfall\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=waterfall"
     },
     "tag:waterway=weir": {
@@ -6294,7 +6294,7 @@
         "description": "Key \"via_ferrata_scale\". See https://wiki.openstreetmap.org/wiki/Key:via_ferrata_scale"
     },
     "tag:access=agricultural": {
-        "message": "Trafic agricole uniquement",
+        "message": "trafic agricole uniquement",
         "description": "Tag \"access=agricultural\". See https://wiki.openstreetmap.org/wiki/Tag:access=agricultural"
     },
     "tag:access=customers": {
@@ -6344,5 +6344,481 @@
     "tag:aeroway=heliport": {
         "message": "Héliport",
         "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:access=dismount": {
+        "message": "Accès permis uniquement en mode pied à terre",
+        "description": "Tag \"access=dismount\". See https://wiki.openstreetmap.org/wiki/Tag:access=dismount"
+    },
+    "tag:access=use_sidepath": {
+        "message": "utilisez plutôt la voie latérale",
+        "description": "Tag \"access=use_sidepath\". See https://wiki.openstreetmap.org/wiki/Tag:access=use_sidepath"
+    },
+    "tag:amenity=bicycle_repair_station": {
+        "message": "Station de réparation de bicyclettes",
+        "description": "Tag \"amenity=bicycle_repair_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_repair_station"
+    },
+    "tag:amenity=canteen": {
+        "message": "Cantine",
+        "description": "Tag \"amenity=canteen\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=canteen"
+    },
+    "tag:amenity=parcel_locker": {
+        "message": "Consigne automatique de colis",
+        "description": "Tag \"amenity=parcel_locker\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parcel_locker"
+    },
+    "tag:area:highway": {
+        "message": "Forme de la surface d'une route",
+        "description": "Key \"area:highway\". See https://wiki.openstreetmap.org/wiki/Key:area:highway"
+    },
+    "tag:barrier=kerb": {
+        "message": "Bordure",
+        "description": "Tag \"barrier=kerb\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=kerb"
+    },
+    "tag:building:start_date": {
+        "message": "Date d'achèvement d'un bâtiment",
+        "description": "Key \"building:start_date\". See https://wiki.openstreetmap.org/wiki/Key:building:start_date"
+    },
+    "tag:changing_table": {
+        "message": "Table de changement de couche",
+        "description": "Key \"changing_table\". See https://wiki.openstreetmap.org/wiki/Key:changing_table"
+    },
+    "tag:climbing:boulder": {
+        "message": "Escalade de rocher",
+        "description": "Key \"climbing:boulder\". See https://wiki.openstreetmap.org/wiki/Key:climbing:boulder"
+    },
+    "tag:climbing:deepwater": {
+        "message": "Escalade psicobloc",
+        "description": "Key \"climbing:deepwater\". See https://wiki.openstreetmap.org/wiki/Key:climbing:deepwater"
+    },
+    "tag:climbing:grade:french": {
+        "message": "Cotation française",
+        "description": "Key \"climbing:grade:french\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:french"
+    },
+    "tag:climbing:grade:polish": {
+        "message": "Cotation polonaise",
+        "description": "Key \"climbing:grade:polish\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:polish"
+    },
+    "tag:climbing:grade:saxon": {
+        "message": "Cotation saxonne",
+        "description": "Key \"climbing:grade:saxon\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:saxon"
+    },
+    "tag:climbing:grade:uiaa": {
+        "message": "Cotation internationale (UIAA)",
+        "description": "Key \"climbing:grade:uiaa\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:uiaa"
+    },
+    "tag:climbing:ice": {
+        "message": "Escalade sur glace",
+        "description": "Key \"climbing:ice\". See https://wiki.openstreetmap.org/wiki/Key:climbing:ice"
+    },
+    "tag:climbing:length": {
+        "message": "Longueur d'escalade",
+        "description": "Key \"climbing:length\". See https://wiki.openstreetmap.org/wiki/Key:climbing:length"
+    },
+    "tag:climbing:mixed": {
+        "message": "Escalade mixte",
+        "description": "Key \"climbing:mixed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:mixed"
+    },
+    "tag:climbing:orientation": {
+        "message": "Orientation de la paroi d'escalade",
+        "description": "Key \"climbing:orientation\". See https://wiki.openstreetmap.org/wiki/Key:climbing:orientation"
+    },
+    "tag:climbing:quality": {
+        "message": "Qualité du rocher, de la glace",
+        "description": "Key \"climbing:quality\". See https://wiki.openstreetmap.org/wiki/Key:climbing:quality"
+    },
+    "tag:climbing:rock": {
+        "message": "Type de rocher",
+        "description": "Key \"climbing:rock\". See https://wiki.openstreetmap.org/wiki/Key:climbing:rock"
+    },
+    "tag:climbing:routes": {
+        "message": "Nombre de voies d'escalade",
+        "description": "Key \"climbing:routes\". See https://wiki.openstreetmap.org/wiki/Key:climbing:routes"
+    },
+    "tag:climbing:speed": {
+        "message": "Vitesse d'escalade",
+        "description": "Key \"climbing:speed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:speed"
+    },
+    "tag:climbing:sport": {
+        "message": "Voies d'escalade naturelles ou artificielles",
+        "description": "Key \"climbing:sport\". See https://wiki.openstreetmap.org/wiki/Key:climbing:sport"
+    },
+    "tag:climbing:summit_log": {
+        "message": "L'élément escaladé possède un \"registre de sommet\" (Livre d'or)",
+        "description": "Key \"climbing:summit_log\". See https://wiki.openstreetmap.org/wiki/Key:climbing:summit_log"
+    },
+    "tag:climbing:toprope": {
+        "message": "Escalade en moulinette",
+        "description": "Key \"climbing:toprope\". See https://wiki.openstreetmap.org/wiki/Key:climbing:toprope"
+    },
+    "tag:climbing:trad": {
+        "message": "Escalade traditionnelle",
+        "description": "Key \"climbing:trad\". See https://wiki.openstreetmap.org/wiki/Key:climbing:trad"
+    },
+    "tag:climbing=boulder": {
+        "message": "Escalade de bloc",
+        "description": "Tag \"climbing=boulder\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=boulder"
+    },
+    "tag:climbing=crag": {
+        "message": "Escalade de  paroi rocheuse à voies multiples",
+        "description": "Tag \"climbing=crag\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=crag"
+    },
+    "tag:climbing=route": {
+        "message": "Itinéraire - voie d'escalade",
+        "description": "Tag \"climbing=route\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route"
+    },
+    "tag:climbing=route_bottom": {
+        "message": "Bas de la voie d'escalade",
+        "description": "Tag \"climbing=route_bottom\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route_bottom"
+    },
+    "tag:climbing=route_top": {
+        "message": "Sommet de la voie d'escalade",
+        "description": "Tag \"climbing=route_top\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route_top"
+    },
+    "tag:crossing": {
+        "message": "Traversée de rue",
+        "description": "Key \"crossing\". See https://wiki.openstreetmap.org/wiki/Key:crossing"
+    },
+    "tag:crossing=marked": {
+        "message": "marqué",
+        "description": "Tag \"crossing=marked\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=marked"
+    },
+    "tag:crossing=traffic_signals": {
+        "message": "Feux de circulation",
+        "description": "Tag \"crossing=traffic_signals\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=traffic_signals"
+    },
+    "tag:crossing=uncontrolled": {
+        "message": "non contrôlé",
+        "description": "Tag \"crossing=uncontrolled\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=uncontrolled"
+    },
+    "tag:crossing=unmarked": {
+        "message": "non marqué",
+        "description": "Tag \"crossing=unmarked\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=unmarked"
+    },
+    "tag:crossing=zebra": {
+        "message": "marquage zébra",
+        "description": "Tag \"crossing=zebra\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=zebra"
+    },
+    "tag:cycleway=lane": {
+        "message": "Bande cyclable",
+        "description": "Tag \"cycleway=lane\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=lane"
+    },
+    "tag:cycleway=track": {
+        "message": "Piste cyclable bidirectionnelle dédiée",
+        "description": "Tag \"cycleway=track\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=track"
+    },
+    "tag:emergency=lifeguard": {
+        "message": "Sauveteur",
+        "description": "Tag \"emergency=lifeguard\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=lifeguard"
+    },
+    "tag:footway=access_aisle": {
+        "message": "Cheminement accessible",
+        "description": "Tag \"footway=access_aisle\". See https://wiki.openstreetmap.org/wiki/Tag:footway=access_aisle"
+    },
+    "tag:footway=alley": {
+        "message": "Allée",
+        "description": "Tag \"footway=alley\". See https://wiki.openstreetmap.org/wiki/Tag:footway=alley"
+    },
+    "tag:footway=crossing": {
+        "message": "Chemin de traversée de rue",
+        "description": "Tag \"footway=crossing\". See https://wiki.openstreetmap.org/wiki/Tag:footway=crossing"
+    },
+    "tag:footway=sidewalk": {
+        "message": "Trottoir",
+        "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
+    },
+    "tag:footway=traffic_island": {
+        "message": "Îlot piéton",
+        "description": "Tag \"footway=traffic_island\". See https://wiki.openstreetmap.org/wiki/Tag:footway=traffic_island"
+    },
+    "tag:highway=cycleway segregated=no": {
+        "message": "Piste cyclable et cheminement piéton partagés",
+        "description": "Tag \"highway=cycleway, segregated=no\". See https://wiki.openstreetmap.org/wiki/Key:segregated"
+    },
+    "tag:highway=cycleway segregated=yes": {
+        "message": "Piste cyclable et cheminement piéton séparés",
+        "description": "Tag \"highway=cycleway, segregated=yes\". See https://wiki.openstreetmap.org/wiki/Key:segregated"
+    },
+    "tag:historic=heritage": {
+        "message": "Protection patrimoniale",
+        "description": "Tag \"historic=heritage\". See https://wiki.openstreetmap.org/wiki/Tag:historic=heritage"
+    },
+    "tag:incline=down": {
+        "message": "vers le bas",
+        "description": "Tag \"incline=down\". See https://wiki.openstreetmap.org/wiki/Tag:incline=down"
+    },
+    "tag:incline=up": {
+        "message": "vers le haut",
+        "description": "Tag \"incline=up\". See https://wiki.openstreetmap.org/wiki/Tag:incline=up"
+    },
+    "tag:kerb": {
+        "message": "Bordure",
+        "description": "Key \"kerb\". See https://wiki.openstreetmap.org/wiki/Key:kerb"
+    },
+    "tag:kerb=flush": {
+        "message": "abaissé (présence de pavé tactile)",
+        "description": "Tag \"kerb=flush\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=flush"
+    },
+    "tag:kerb=lowered": {
+        "message": "abaissé",
+        "description": "Tag \"kerb=lowered\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=lowered"
+    },
+    "tag:kerb=no": {
+        "message": "pas de bordure",
+        "description": "Tag \"kerb=no\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=no"
+    },
+    "tag:kerb=raised": {
+        "message": "élevé",
+        "description": "Tag \"kerb=raised\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=raised"
+    },
+    "tag:kerb=rolled": {
+        "message": "chanfreiné",
+        "description": "Tag \"kerb=rolled\". See https://wiki.openstreetmap.org/wiki/Tag:kerb=rolled"
+    },
+    "tag:leisure=escape_game": {
+        "message": "Jeu d'évasion",
+        "description": "Tag \"leisure=escape_game\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=escape_game"
+    },
+    "tag:leisure=parklet": {
+        "message": "Parclet",
+        "description": "Tag \"leisure=parklet\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=parklet"
+    },
+    "tag:leisure=pitch sport=shuffleboard": {
+        "message": "Terrain de jeu de galets (palets américains)",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=shuffleboard\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=shuffleboard"
+    },
+    "tag:leisure=trampoline_park": {
+        "message": "Parc à trampolines",
+        "description": "Tag \"leisure=trampoline_park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=trampoline_park"
+    },
+    "tag:man_made=monitoring_station": {
+        "message": "Station de surveillance",
+        "description": "Tag \"man_made=monitoring_station\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=monitoring_station"
+    },
+    "tag:maxspeed=none": {
+        "message": "pas de limite",
+        "description": "Tag \"maxspeed=none\". See https://wiki.openstreetmap.org/wiki/Key:maxspeed"
+    },
+    "tag:maxspeed=walk": {
+        "message": "vitesse de marche",
+        "description": "Tag \"maxspeed=walk\". See https://wiki.openstreetmap.org/wiki/Tag:maxspeed=walk"
+    },
+    "tag:sidewalk": {
+        "message": "Trottoir le long d'une rue",
+        "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
+    },
+    "tag:sidewalk:left": {
+        "message": "Trottoir sur le côté gauche de la rue",
+        "description": "Key \"sidewalk:left\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk:left"
+    },
+    "tag:sidewalk:right": {
+        "message": "Trottoir sur le côté droit de la rue",
+        "description": "Key \"sidewalk:right\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk:right"
+    },
+    "tag:sidewalk=no": {
+        "message": "Rue sans trottoirs",
+        "description": "Tag \"sidewalk=no\". See https://wiki.openstreetmap.org/wiki/Tag:sidewalk=no"
+    },
+    "tag:sidewalk=separate": {
+        "message": "Rue avec des trottoirs cartographiés séparément",
+        "description": "Tag \"sidewalk=separate\". See https://wiki.openstreetmap.org/wiki/Tag:sidewalk=separate"
+    },
+    "tag:sidewalk=yes": {
+        "message": "Rue avec trottoirs",
+        "description": "Tag \"sidewalk=yes\". See https://wiki.openstreetmap.org/wiki/Tag:sidewalk=yes"
+    },
+    "tag:smoothness=bad": {
+        "message": "mauvais",
+        "description": "Tag \"smoothness=bad\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=bad"
+    },
+    "tag:smoothness=excellent": {
+        "message": "excellent",
+        "description": "Tag \"smoothness=excellent\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=excellent"
+    },
+    "tag:smoothness=good": {
+        "message": "bonne",
+        "description": "Tag \"smoothness=good\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=good"
+    },
+    "tag:smoothness=horrible": {
+        "message": "horrible",
+        "description": "Tag \"smoothness=horrible\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=horrible"
+    },
+    "tag:smoothness=impassable": {
+        "message": "impassable",
+        "description": "Tag \"smoothness=impassable\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=impassable"
+    },
+    "tag:smoothness=intermediate": {
+        "message": "intermédiaire",
+        "description": "Tag \"smoothness=intermediate\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=intermediate"
+    },
+    "tag:smoothness=very_bad": {
+        "message": "très mauvaise",
+        "description": "Tag \"smoothness=very_bad\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=very_bad"
+    },
+    "tag:smoothness=very_horrible": {
+        "message": "très horrible",
+        "description": "Tag \"smoothness=very_horrible\". See https://wiki.openstreetmap.org/wiki/Tag:smoothness=very_horrible"
+    },
+    "tag:surface=acrylic": {
+        "message": "acrylique",
+        "description": "Tag \"surface=acrylic\". See https://wiki.openstreetmap.org/wiki/Tag:surface=acrylic"
+    },
+    "tag:surface=artificial_turf": {
+        "message": "gazon artificiel",
+        "description": "Tag \"surface=artificial_turf\". See https://wiki.openstreetmap.org/wiki/Tag:surface=artificial_turf"
+    },
+    "tag:surface=asphalt": {
+        "message": "asphalte",
+        "description": "Tag \"surface=asphalt\". See https://wiki.openstreetmap.org/wiki/Tag:surface=asphalt"
+    },
+    "tag:surface=carpet": {
+        "message": "moquette",
+        "description": "Tag \"surface=carpet\". See https://wiki.openstreetmap.org/wiki/Tag:surface=carpet"
+    },
+    "tag:surface=chipseal": {
+        "message": "enduit superficiel routier",
+        "description": "Tag \"surface=chipseal\". See https://wiki.openstreetmap.org/wiki/Tag:surface=chipseal"
+    },
+    "tag:surface=clay": {
+        "message": "argile",
+        "description": "Tag \"surface=clay\". See https://wiki.openstreetmap.org/wiki/Tag:surface=clay"
+    },
+    "tag:surface=cobblestone": {
+        "message": "pavé",
+        "description": "Tag \"surface=cobblestone\". See https://wiki.openstreetmap.org/wiki/Tag:surface=cobblestone"
+    },
+    "tag:surface=compacted": {
+        "message": "compactée",
+        "description": "Tag \"surface=compacted\". See https://wiki.openstreetmap.org/wiki/Tag:surface=compacted"
+    },
+    "tag:surface=concrete": {
+        "message": "béton",
+        "description": "Tag \"surface=concrete\". See https://wiki.openstreetmap.org/wiki/Tag:surface=concrete"
+    },
+    "tag:surface=concrete:lanes": {
+        "message": "pistes bétonnées",
+        "description": "Tag \"surface=concrete:lanes\". See https://wiki.openstreetmap.org/wiki/Tag:surface=concrete:lanes"
+    },
+    "tag:surface=concrete:plates": {
+        "message": "plaques de béton",
+        "description": "Tag \"surface=concrete:plates\". See https://wiki.openstreetmap.org/wiki/Tag:surface=concrete:plates"
+    },
+    "tag:surface=dirt": {
+        "message": "dirt",
+        "description": "Tag \"surface=dirt\". See https://wiki.openstreetmap.org/wiki/Tag:surface=dirt"
+    },
+    "tag:surface=earth": {
+        "message": "earth",
+        "description": "Tag \"surface=earth\". See https://wiki.openstreetmap.org/wiki/Tag:surface=earth"
+    },
+    "tag:surface=fine_gravel": {
+        "message": "gravier fin",
+        "description": "Tag \"surface=fine_gravel\". See https://wiki.openstreetmap.org/wiki/Tag:surface=fine_gravel"
+    },
+    "tag:surface=grass": {
+        "message": "herbe",
+        "description": "Tag \"surface=grass\". See https://wiki.openstreetmap.org/wiki/Tag:surface=grass"
+    },
+    "tag:surface=grass_paver": {
+        "message": "mélange d'herbe et de pavés",
+        "description": "Tag \"surface=grass_paver\". See https://wiki.openstreetmap.org/wiki/Tag:surface=grass_paver"
+    },
+    "tag:surface=gravel": {
+        "message": "gravier",
+        "description": "Tag \"surface=gravel\". See https://wiki.openstreetmap.org/wiki/Tag:surface=gravel"
+    },
+    "tag:surface=ground": {
+        "message": "sol nu",
+        "description": "Tag \"surface=ground\". See https://wiki.openstreetmap.org/wiki/Tag:surface=ground"
+    },
+    "tag:surface=ice": {
+        "message": "glace",
+        "description": "Tag \"surface=ice\". See https://wiki.openstreetmap.org/wiki/Tag:surface=ice"
+    },
+    "tag:surface=metal": {
+        "message": "métal",
+        "description": "Tag \"surface=metal\". See https://wiki.openstreetmap.org/wiki/Tag:surface=metal"
+    },
+    "tag:surface=metal_grid": {
+        "message": "grille métallique",
+        "description": "Tag \"surface=metal_grid\". See https://wiki.openstreetmap.org/wiki/Tag:surface=metal_grid"
+    },
+    "tag:surface=mud": {
+        "message": "boue",
+        "description": "Tag \"surface=mud\". See https://wiki.openstreetmap.org/wiki/Tag:surface=mud"
+    },
+    "tag:surface=paved": {
+        "message": "pavée",
+        "description": "Tag \"surface=paved\". See https://wiki.openstreetmap.org/wiki/Tag:surface=paved"
+    },
+    "tag:surface=paving_stones": {
+        "message": "pavés en béton",
+        "description": "Tag \"surface=paving_stones\". See https://wiki.openstreetmap.org/wiki/Tag:surface=paving_stones"
+    },
+    "tag:surface=pebblestone": {
+        "message": "galets",
+        "description": "Tag \"surface=pebblestone\". See https://wiki.openstreetmap.org/wiki/Tag:surface=pebblestone"
+    },
+    "tag:surface=rock": {
+        "message": "roche",
+        "description": "Tag \"surface=rock\". See https://wiki.openstreetmap.org/wiki/Tag:surface=rock"
+    },
+    "tag:surface=rubber": {
+        "message": "caoutchouc",
+        "description": "Tag \"surface=rubber\". See https://wiki.openstreetmap.org/wiki/Tag:surface=rubber"
+    },
+    "tag:surface=salt": {
+        "message": "sel",
+        "description": "Tag \"surface=salt\". See https://wiki.openstreetmap.org/wiki/Tag:surface=salt"
+    },
+    "tag:surface=sand": {
+        "message": "sable",
+        "description": "Tag \"surface=sand\". See https://wiki.openstreetmap.org/wiki/Tag:surface=sand"
+    },
+    "tag:surface=sett": {
+        "message": "pavés taillés",
+        "description": "Tag \"surface=sett\". See https://wiki.openstreetmap.org/wiki/Tag:surface=sett"
+    },
+    "tag:surface=snow": {
+        "message": "neige",
+        "description": "Tag \"surface=snow\". See https://wiki.openstreetmap.org/wiki/Tag:surface=snow"
+    },
+    "tag:surface=stepping_stones": {
+        "message": "pas japonais",
+        "description": "Tag \"surface=stepping_stones\". See https://wiki.openstreetmap.org/wiki/Tag:surface=stepping_stones"
+    },
+    "tag:surface=tartan": {
+        "message": "tartan",
+        "description": "Tag \"surface=tartan\". See https://wiki.openstreetmap.org/wiki/Tag:surface=tartan"
+    },
+    "tag:surface=unhewn_cobblestone": {
+        "message": "pavés grossiers",
+        "description": "Tag \"surface=unhewn_cobblestone\". See https://wiki.openstreetmap.org/wiki/Tag:surface=unhewn_cobblestone"
+    },
+    "tag:surface=unpaved": {
+        "message": "sans revêtement",
+        "description": "Tag \"surface=unpaved\". See https://wiki.openstreetmap.org/wiki/Tag:surface=unpaved"
+    },
+    "tag:surface=wood": {
+        "message": "bois",
+        "description": "Tag \"surface=wood\". See https://wiki.openstreetmap.org/wiki/Tag:surface=wood"
+    },
+    "tag:surface=woodchips": {
+        "message": "plaquettes forestières",
+        "description": "Tag \"surface=woodchips\". See https://wiki.openstreetmap.org/wiki/Tag:surface=woodchips"
+    },
+    "tag:tourism=trail_riding_station": {
+        "message": "Station de randonnée équestre",
+        "description": "Tag \"tourism=trail_riding_station\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=trail_riding_station"
+    },
+    "tag:xmas:feature=crib": {
+        "message": "Crèche de Noël / Scène de la Nativité",
+        "description": "Tag \"xmas:feature=crib\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=crib"
+    },
+    "tag:xmas:feature=lighting": {
+        "message": "Illuminations de Noël",
+        "description": "Tag \"xmas:feature=lighting\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=lighting"
+    },
+    "tag:year_of_construction": {
+        "message": "Période de construction",
+        "description": "Key \"year_of_construction\". See https://wiki.openstreetmap.org/wiki/Key:year_of_construction"
     }
 }
