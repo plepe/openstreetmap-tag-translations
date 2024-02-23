@@ -1,1 +1,395 @@
-{}
+{
+    "tag:*=no": {
+        "message": "no"
+    },
+    "tag:*=yes": {
+        "message": "si"
+    },
+    "tag:abandoned": {
+        "message": "Abandonat",
+        "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
+    },
+    "tag:abutters": {
+        "message": "Confrontants",
+        "description": "Key \"abutters\". See https://wiki.openstreetmap.org/wiki/Key:abutters"
+    },
+    "tag:access": {
+        "message": "Permís d'accés general",
+        "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
+    },
+    "tag:access!=private": {
+        "message": "no privat"
+    },
+    "tag:access=agricultural": {
+        "message": "només trànsit agrícola",
+        "description": "Tag \"access=agricultural\". See https://wiki.openstreetmap.org/wiki/Tag:access=agricultural"
+    },
+    "tag:access=customers": {
+        "message": "només per als clients",
+        "description": "Tag \"access=customers\". See https://wiki.openstreetmap.org/wiki/Tag:access=customers"
+    },
+    "tag:access=delivery": {
+        "message": "només per a lliuraments",
+        "description": "Tag \"access=delivery\". See https://wiki.openstreetmap.org/wiki/Tag:access=delivery"
+    },
+    "tag:access=destination": {
+        "message": "destí",
+        "description": "Tag \"access=destination\". See https://wiki.openstreetmap.org/wiki/Tag:access=destination"
+    },
+    "tag:access=discouraged": {
+        "message": "descoratjat",
+        "description": "Tag \"access=discouraged\". See https://wiki.openstreetmap.org/wiki/Tag:access=discouraged"
+    },
+    "tag:access=dismount": {
+        "message": "només quan es desmunta",
+        "description": "Tag \"access=dismount\". See https://wiki.openstreetmap.org/wiki/Tag:access=dismount"
+    },
+    "tag:access=forestry": {
+        "message": "només trànsit forestal",
+        "description": "Tag \"access=forestry\". See https://wiki.openstreetmap.org/wiki/Tag:access=forestry"
+    },
+    "tag:access=no": {
+        "message": "sense accés per al públic general",
+        "description": "Tag \"access=no\". See https://wiki.openstreetmap.org/wiki/Tag:access=no"
+    },
+    "tag:access=permissive": {
+        "message": "permissiu",
+        "description": "Tag \"access=permissive\". See https://wiki.openstreetmap.org/wiki/Tag:access=permissive"
+    },
+    "tag:access=private": {
+        "message": "privat",
+        "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
+    },
+    "tag:access=unknown": {
+        "message": "desconegut",
+        "description": "Tag \"access=unknown\". See https://wiki.openstreetmap.org/wiki/Tag:access=unknown"
+    },
+    "tag:access=use_sidepath": {
+        "message": "utilitzeu el camí lateral",
+        "description": "Tag \"access=use_sidepath\". See https://wiki.openstreetmap.org/wiki/Tag:access=use_sidepath"
+    },
+    "tag:access=yes": {
+        "message": "accessible públicament",
+        "description": "Tag \"access=yes\". See https://wiki.openstreetmap.org/wiki/Tag:access=yes"
+    },
+    "tag:accomodation": {
+        "message": "Allotjament",
+        "description": "Key \"accomodation\". See https://wiki.openstreetmap.org/wiki/Key:accomodation"
+    },
+    "tag:addr:city": {
+        "message": "Ciutat",
+        "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
+    },
+    "tag:addr:country": {
+        "message": "País",
+        "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
+    },
+    "tag:addr:full": {
+        "message": "Adreça completa",
+        "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
+    },
+    "tag:addr:housename": {
+        "message": "Nom de la casa",
+        "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
+    },
+    "tag:addr:housenumber": {
+        "message": "Número de carrer",
+        "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
+    },
+    "tag:addr:interpolation": {
+        "message": "Números de carrers interpolats",
+        "description": "Key \"addr:interpolation\". See https://wiki.openstreetmap.org/wiki/Key:addr:interpolation"
+    },
+    "tag:addr:postcode": {
+        "message": "Codi Postal",
+        "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
+    },
+    "tag:addr:street": {
+        "message": "Carrer",
+        "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
+    },
+    "tag:address": {
+        "message": "Adreça",
+        "description": "Key \"address\". See https://wiki.openstreetmap.org/wiki/Key:address"
+    },
+    "tag:admin_level": {
+        "message": "Nivell Administratiu Oficial",
+        "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
+    },
+    "tag:admin_level=10": {
+        "message": "Barri (10)",
+        "description": "Tag \"admin_level=10\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=10"
+    },
+    "tag:admin_level=11": {
+        "message": "Veïnat (11)",
+        "description": "Tag \"admin_level=11\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=11"
+    },
+    "tag:admin_level=2": {
+        "message": "Frontera Nacional (2)",
+        "description": "Tag \"admin_level=2\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=2"
+    },
+    "tag:admin_level=3": {
+        "message": "? (3)",
+        "description": "Tag \"admin_level=3\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=3"
+    },
+    "tag:admin_level=4": {
+        "message": "Frontera de la Regió (4)",
+        "description": "Tag \"admin_level=4\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=4"
+    },
+    "tag:admin_level=5": {
+        "message": "(5)",
+        "description": "Tag \"admin_level=5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=5"
+    },
+    "tag:admin_level=6": {
+        "message": "Províncies (6)",
+        "description": "Tag \"admin_level=6\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=6"
+    },
+    "tag:admin_level=7": {
+        "message": "Comarques (7)",
+        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
+    },
+    "tag:admin_level=8": {
+        "message": "Localitat (8)",
+        "description": "Tag \"admin_level=8\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=8"
+    },
+    "tag:admin_level=9": {
+        "message": "Districte (9)",
+        "description": "Tag \"admin_level=9\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=9"
+    },
+    "tag:aerialway": {
+        "message": "Aeri",
+        "description": "Key \"aerialway\". See https://wiki.openstreetmap.org/wiki/Key:aerialway"
+    },
+    "tag:aeroway": {
+        "message": "Aeri",
+        "description": "Key \"aeroway\". See https://wiki.openstreetmap.org/wiki/Key:aeroway"
+    },
+    "tag:aeroway=aerodrome": {
+        "message": "Aeròdrom",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "Pista d'aterratge",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:aeroway=heliport": {
+        "message": "Heliport",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:aeroway=runway": {
+        "message": "Pista d'aterratge",
+        "description": "Tag \"aeroway=runway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=runway"
+    },
+    "tag:aeroway=taxiway": {
+        "message": "Carril taxi",
+        "description": "Tag \"aeroway=taxiway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=taxiway"
+    },
+    "tag:alt_name": {
+        "message": "Nom alternatiu",
+        "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
+    },
+    "tag:amenity": {
+        "message": "Servei",
+        "description": "Key \"amenity\". See https://wiki.openstreetmap.org/wiki/Key:amenity"
+    },
+    "tag:amenity=arts_centre": {
+        "message": "Centre d'Arts",
+        "description": "Tag \"amenity=arts_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=arts_centre"
+    },
+    "tag:amenity=atm": {
+        "message": "Caixer automàtic",
+        "description": "Tag \"amenity=atm\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=atm"
+    },
+    "tag:amenity=bank": {
+        "message": "Banc",
+        "description": "Tag \"amenity=bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bank"
+    },
+    "tag:amenity=bar": {
+        "message": "Bar",
+        "description": "Tag \"amenity=bar\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bar"
+    },
+    "tag:amenity=bench": {
+        "message": "Banc",
+        "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
+    },
+    "tag:amenity=bicycle_parking": {
+        "message": "Aparcament per a Bicicletes",
+        "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
+    },
+    "tag:amenity=bicycle_parking capacity<=20": {
+        "message": "Aparcament per a bicicletes (fins a 20 espais)",
+        "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
+    },
+    "tag:amenity=bicycle_parking capacity>20<=60": {
+        "message": "Aparcament per a bicicletes (20-60 espais)",
+        "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
+    },
+    "tag:amenity=bicycle_parking capacity>60": {
+        "message": "Aparcament per a bicicletes (>60 espais)",
+        "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
+    },
+    "tag:amenity=bicycle_rental": {
+        "message": "Lloguer de bicicletes",
+        "description": "Tag \"amenity=bicycle_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_rental"
+    },
+    "tag:amenity=bicycle_repair_station": {
+        "message": "Estació de reparació de bicicletes",
+        "description": "Tag \"amenity=bicycle_repair_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_repair_station"
+    },
+    "tag:amenity=brothel": {
+        "message": "Bordell",
+        "description": "Tag \"amenity=brothel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=brothel"
+    },
+    "tag:amenity=bus_station": {
+        "message": "Estació d'Autobusos",
+        "description": "Tag \"amenity=bus_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bus_station"
+    },
+    "tag:amenity=cafe": {
+        "message": "Cafeteria",
+        "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
+    },
+    "tag:amenity=canteen": {
+        "message": "Cantina",
+        "description": "Tag \"amenity=canteen\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=canteen"
+    },
+    "tag:amenity=car_rental": {
+        "message": "Lloguer de Cotxes",
+        "description": "Tag \"amenity=car_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_rental"
+    },
+    "tag:amenity=car_wash": {
+        "message": "Rentat de Cotxes",
+        "description": "Tag \"amenity=car_wash\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_wash"
+    },
+    "tag:amenity=charging_station": {
+        "message": "Estació de Recàrrega",
+        "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
+    },
+    "tag:amenity=childcare": {
+        "message": "Puericultura",
+        "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
+    },
+    "tag:amenity=cinema": {
+        "message": "Cinema",
+        "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
+    },
+    "tag:amenity=clock": {
+        "message": "Rellotge",
+        "description": "Tag \"amenity=clock\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clock"
+    },
+    "tag:amenity=college": {
+        "message": "Universitat",
+        "description": "Tag \"amenity=college\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=college"
+    },
+    "tag:amenity=crematorium": {
+        "message": "Crematori",
+        "description": "Tag \"amenity=crematorium\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=crematorium"
+    },
+    "tag:amenity=dentist": {
+        "message": "Dentista",
+        "description": "Tag \"amenity=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=dentist"
+    },
+    "tag:amenity=drinking_water": {
+        "message": "Aigua potable",
+        "description": "Tag \"amenity=drinking_water\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=drinking_water"
+    },
+    "tag:amenity=embassy": {
+        "message": "Ambaixada",
+        "description": "Tag \"amenity=embassy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=embassy"
+    },
+    "tag:amenity=fast_food": {
+        "message": "Restaurant de menjar ràpid",
+        "description": "Tag \"amenity=fast_food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fast_food"
+    },
+    "tag:amenity=ferry_terminal": {
+        "message": "Terminal de Ferri",
+        "description": "Tag \"amenity=ferry_terminal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ferry_terminal"
+    },
+    "tag:amenity=fire_station": {
+        "message": "Estació de Bombers",
+        "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
+    },
+    "tag:amenity=fountain": {
+        "message": "Font",
+        "description": "Tag \"amenity=fountain\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fountain"
+    },
+    "tag:amenity=fuel": {
+        "message": "Benzinera",
+        "description": "Tag \"amenity=fuel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fuel"
+    },
+    "tag:amenity=government": {
+        "message": "Govern",
+        "description": "Tag \"amenity=government\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=government"
+    },
+    "tag:amenity=grave_yard": {
+        "message": "Cementiri",
+        "description": "Tag \"amenity=grave_yard\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=grave_yard"
+    },
+    "tag:amenity=hospital": {
+        "message": "Hospital",
+        "description": "Tag \"amenity=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=hospital"
+    },
+    "tag:amenity=ice_cream": {
+        "message": "Gelats",
+        "description": "Tag \"amenity=ice_cream\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ice_cream"
+    },
+    "tag:amenity=kindergarten": {
+        "message": "Llar d'infants",
+        "description": "Tag \"amenity=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=kindergarten"
+    },
+    "tag:amenity=language_school": {
+        "message": "Escola d'idiomes",
+        "description": "Tag \"amenity=language_school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=language_school"
+    },
+    "tag:amenity=library": {
+        "message": "Biblioteca",
+        "description": "Tag \"amenity=library\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=library"
+    },
+    "tag:amenity=marketplace": {
+        "message": "Mercat",
+        "description": "Tag \"amenity=marketplace\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=marketplace"
+    },
+    "tag:amenity=motorcycle_parking": {
+        "message": "Aparcament per a motocicletes",
+        "description": "Tag \"amenity=motorcycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=motorcycle_parking"
+    },
+    "tag:amenity=nursing_home": {
+        "message": "Residència d'ancians",
+        "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
+    },
+    "tag:amenity=parcel_locker": {
+        "message": "Taquilles per a lliuraments",
+        "description": "Tag \"amenity=parcel_locker\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parcel_locker"
+    },
+    "tag:amenity=parking": {
+        "message": "Aparcament",
+        "description": "Tag \"amenity=parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parking"
+    },
+    "tag:amenity=pharmacy": {
+        "message": "Farmàcia",
+        "description": "Tag \"amenity=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pharmacy"
+    },
+    "tag:amenity=place_of_worship": {
+        "message": "Lloc de culte",
+        "description": "Tag \"amenity=place_of_worship\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship"
+    },
+    "tag:amenity=police": {
+        "message": "Policia",
+        "description": "Tag \"amenity=police\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=police"
+    },
+    "tag:amenity=post_box": {
+        "message": "Bústia de correus",
+        "description": "Tag \"amenity=post_box\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_box"
+    },
+    "tag:amenity=post_office": {
+        "message": "Oficina de correus",
+        "description": "Tag \"amenity=post_office\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_office"
+    },
+    "tag:amenity=pub": {
+        "message": "Bar",
+        "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
+    },
+    "tag:amenity=public_bath": {
+        "message": "Bany públic",
+        "description": "Tag \"amenity=public_bath\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bath"
+    }
+}
