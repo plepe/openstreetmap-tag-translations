@@ -2873,6 +2873,10 @@
         "message": "Segregated Cycle- and Footway",
         "description": "Tag \"highway=cycleway, segregated=yes\". See https://wiki.openstreetmap.org/wiki/Key:segregated"
     },
+    "tag:highway=elevator": {
+        "message": "Elevator",
+        "description": "Tag \"highway=elevator\". See https://wiki.openstreetmap.org/wiki/Tag:highway=elevator"
+    },
     "tag:highway=emergency_access_point": {
         "message": "",
         "description": "Tag \"highway=emergency_access_point\". See https://wiki.openstreetmap.org/wiki/Tag:highway=emergency_access_point"
