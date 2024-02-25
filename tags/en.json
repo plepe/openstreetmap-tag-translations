@@ -1344,6 +1344,10 @@
         "message": "Construction",
         "description": "Key \"construction\". See https://wiki.openstreetmap.org/wiki/Key:construction"
     },
+    "tag:conveying=reversible": {
+        "message": "reversible",
+        "description": "Tag \"conveying=reversible\". See https://wiki.openstreetmap.org/wiki/Tag:conveying=reversible"
+    },
     "tag:covered": {
         "message": "Covered",
         "description": "Key \"covered\". See https://wiki.openstreetmap.org/wiki/Key:covered"
@@ -2873,6 +2877,10 @@
         "message": "Segregated Cycle- and Footway",
         "description": "Tag \"highway=cycleway, segregated=yes\". See https://wiki.openstreetmap.org/wiki/Key:segregated"
     },
+    "tag:highway=elevator": {
+        "message": "Elevator",
+        "description": "Tag \"highway=elevator\". See https://wiki.openstreetmap.org/wiki/Tag:highway=elevator"
+    },
     "tag:highway=emergency_access_point": {
         "message": "",
         "description": "Tag \"highway=emergency_access_point\". See https://wiki.openstreetmap.org/wiki/Tag:highway=emergency_access_point"
@@ -2880,6 +2888,10 @@
     "tag:highway=footway": {
         "message": "Footway",
         "description": "Tag \"highway=footway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=footway"
+    },
+    "tag:highway=footway conveying": {
+        "message": "Moving walkway",
+        "description": "Combined tag \"highway=footway\" with key \"conveying\". See https://wiki.openstreetmap.org/wiki/Tag:highway=footway and https://wiki.openstreetmap.org/wiki/Key:conveying"
     },
     "tag:highway=living_street": {
         "message": "Living Street",
@@ -2956,6 +2968,10 @@
     "tag:highway=steps": {
         "message": "Steps",
         "description": "Tag \"highway=steps\". See https://wiki.openstreetmap.org/wiki/Tag:highway=steps"
+    },
+    "tag:highway=steps conveying": {
+        "message": "Escalator",
+        "description": "Combined tag \"highway=steps\" with key \"conveying\". See https://wiki.openstreetmap.org/wiki/Tag:highway=steps and https://wiki.openstreetmap.org/wiki/Key:conveying"
     },
     "tag:highway=stop": {
         "message": "",
