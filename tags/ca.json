@@ -391,5 +391,345 @@
     "tag:amenity=public_bath": {
         "message": "Bany públic",
         "description": "Tag \"amenity=public_bath\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bath"
+    },
+    "tag:access=designated": {
+        "message": "Accés limitat",
+        "description": "Tag \"access=designated\". See https://wiki.openstreetmap.org/wiki/Tag:access=designated"
+    },
+    "tag:amenity=bureau_de_change": {
+        "message": "Oficina de canvi de moneda",
+        "description": "Tag \"amenity=bureau_de_change\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bureau_de_change"
+    },
+    "tag:amenity=car_sharing": {
+        "message": "Cotxe compartit",
+        "description": "Tag \"amenity=car_sharing\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_sharing"
+    },
+    "tag:amenity=clinic": {
+        "message": "Clínica",
+        "description": "Tag \"amenity=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clinic"
+    },
+    "tag:amenity=community_centre": {
+        "message": "Centre comunitari",
+        "description": "Tag \"amenity=community_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=community_centre"
+    },
+    "tag:amenity=compressed_air": {
+        "message": "Aire comprimit",
+        "description": "Tag \"amenity=compressed_air\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=compressed_air"
+    },
+    "tag:amenity=courthouse": {
+        "message": "Jutjat",
+        "description": "Tag \"amenity=courthouse\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=courthouse"
+    },
+    "tag:amenity=doctors": {
+        "message": "Metges",
+        "description": "Tag \"amenity=doctors\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=doctors"
+    },
+    "tag:amenity=internet_cafe": {
+        "message": "Cafeteria amb internet",
+        "description": "Tag \"amenity=internet_cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=internet_cafe"
+    },
+    "tag:amenity=public_bookcase": {
+        "message": "Punt d'intercanvi de llibres",
+        "description": "Tag \"amenity=public_bookcase\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bookcase"
+    },
+    "tag:amenity=public_building": {
+        "message": "Edifici Públic",
+        "description": "Tag \"amenity=public_building\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_building"
+    },
+    "tag:amenity=recycling": {
+        "message": "Reciclatge",
+        "description": "Tag \"amenity=recycling\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=recycling"
+    },
+    "tag:amenity=recycling recycling_type=centre": {
+        "message": "Centre de Reciclatge",
+        "description": "Tag \"recycling_type=centre\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=centre"
+    },
+    "tag:amenity=recycling recycling_type=container": {
+        "message": "Contenidor",
+        "description": "Tag \"recycling_type=container\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=container"
+    },
+    "tag:amenity=restaurant": {
+        "message": "Restaurant",
+        "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
+    },
+    "tag:amenity=school": {
+        "message": "Escola",
+        "description": "Tag \"amenity=school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=school"
+    },
+    "tag:amenity=shelter": {
+        "message": "Refugi",
+        "description": "Tag \"amenity=shelter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shelter"
+    },
+    "tag:amenity=shower": {
+        "message": "Dutxa",
+        "description": "Tag \"amenity=shower\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shower"
+    },
+    "tag:amenity=signpost": {
+        "message": "Pal d'Indicacions",
+        "description": "Tag \"amenity=signpost\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=signpost"
+    },
+    "tag:amenity=social_facility": {
+        "message": "Instal·lacions de serveis socials",
+        "description": "Tag \"amenity=social_facility\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=social_facility"
+    },
+    "tag:amenity=studio": {
+        "message": "Estudi",
+        "description": "Tag \"amenity=studio\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=studio"
+    },
+    "tag:amenity=taxi": {
+        "message": "Taxi",
+        "description": "Tag \"amenity=taxi\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=taxi"
+    },
+    "tag:amenity=telephone": {
+        "message": "Telèfon",
+        "description": "Tag \"amenity=telephone\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=telephone"
+    },
+    "tag:amenity=theatre": {
+        "message": "Teatre",
+        "description": "Tag \"amenity=theatre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=theatre"
+    },
+    "tag:amenity=ticket_counter": {
+        "message": "Compra de bitllets",
+        "description": "Tag \"amenity=ticket_counter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ticket_counter"
+    },
+    "tag:amenity=toilets": {
+        "message": "Banys",
+        "description": "Tag \"amenity=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets"
+    },
+    "tag:amenity=toilets changing_table=yes": {
+        "message": "Banys amb canviador de bolquers",
+        "description": "Combined tag \"amenity=toilets\" and \"changing_table=yes\". See https://wiki.openstreetmap.org/wiki/Key:changing_table"
+    },
+    "tag:amenity=townhall": {
+        "message": "Ajuntament",
+        "description": "Tag \"amenity=townhall\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=townhall"
+    },
+    "tag:amenity=university": {
+        "message": "Universitat",
+        "description": "Tag \"amenity=university\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=university"
+    },
+    "tag:amenity=vending_machine": {
+        "message": "Màquina de venda",
+        "description": "Tag \"amenity=vending_machine\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine"
+    },
+    "tag:amenity=vending_machine vending=cigarettes": {
+        "message": "Màquina de cigarrets",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=cigarettes\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=cigarettes"
+    },
+    "tag:amenity=vending_machine vending=condoms": {
+        "message": "Màquina de preservatius",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=condoms\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=condoms"
+    },
+    "tag:amenity=vending_machine vending=food": {
+        "message": "Màquina de venda de menjar",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=food"
+    },
+    "tag:amenity=vending_machine vending=food;drinks": {
+        "message": "Màquina de begudes i menjar",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=food;drinks\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=food;drinks"
+    },
+    "tag:amenity=vending_machine vending=news_papers": {
+        "message": "Màquina de venda de diaris",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=news_papers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=news_papers"
+    },
+    "tag:building": {
+        "message": "Edifici",
+        "description": "Key \"building\". See https://wiki.openstreetmap.org/wiki/Key:building"
+    },
+    "tag:building:levels": {
+        "message": "plantes",
+        "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
+    },
+    "tag:building:start_date": {
+        "message": "Data d'inici de construcció",
+        "description": "Key \"building:start_date\". See https://wiki.openstreetmap.org/wiki/Key:building:start_date"
+    },
+    "tag:building=agriculture": {
+        "message": "Edifici agrícola",
+        "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
+    },
+    "tag:building=apartments": {
+        "message": "Edifici d'habitatges",
+        "description": "Tag \"building=apartments\". See https://wiki.openstreetmap.org/wiki/Tag:building=apartments"
+    },
+    "tag:building=bakehouse": {
+        "message": "Forn",
+        "description": "Tag \"building=bakehouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=bakehouse"
+    },
+    "tag:building=barn": {
+        "message": "Graner",
+        "description": "Tag \"building=barn\". See https://wiki.openstreetmap.org/wiki/Tag:building=barn"
+    },
+    "tag:building=block": {
+        "message": "Bloc",
+        "description": "Tag \"building=block\". See https://wiki.openstreetmap.org/wiki/Tag:building=block"
+    },
+    "tag:building=bridge": {
+        "message": "Pont",
+        "description": "Tag \"building=bridge\". See https://wiki.openstreetmap.org/wiki/Tag:building=bridge"
+    },
+    "tag:building=bungalow": {
+        "message": "Bungalow",
+        "description": "Tag \"building=bungalow\". See https://wiki.openstreetmap.org/wiki/Tag:building=bungalow"
+    },
+    "tag:building=bunker": {
+        "message": "Búnquer",
+        "description": "Tag \"building=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:building=bunker"
+    },
+    "tag:building=cabin": {
+        "message": "Cabina",
+        "description": "Tag \"building=cabin\". See https://wiki.openstreetmap.org/wiki/Tag:building=cabin"
+    },
+    "tag:building=carport": {
+        "message": "Garatge",
+        "description": "Tag \"building=carport\". See https://wiki.openstreetmap.org/wiki/Tag:building=carport"
+    },
+    "tag:building=cathedral": {
+        "message": "Catedral",
+        "description": "Tag \"building=cathedral\". See https://wiki.openstreetmap.org/wiki/Tag:building=cathedral"
+    },
+    "tag:building=chapel": {
+        "message": "Capella",
+        "description": "Tag \"building=chapel\". See https://wiki.openstreetmap.org/wiki/Tag:building=chapel"
+    },
+    "tag:building=church": {
+        "message": "Església",
+        "description": "Tag \"building=church\". See https://wiki.openstreetmap.org/wiki/Tag:building=church"
+    },
+    "tag:building=church religion=christian": {
+        "message": "Església",
+        "description": "Combined tag \"building=church\" and \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:building=church and https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
+    },
+    "tag:building=civic": {
+        "message": "Edifici cívic",
+        "description": "Tag \"building=civic\". See https://wiki.openstreetmap.org/wiki/Tag:building=civic"
+    },
+    "tag:ele": {
+        "message": "Elevació",
+        "description": "Key \"ele\". See https://wiki.openstreetmap.org/wiki/Key:ele"
+    },
+    "tag:electrified": {
+        "message": "Electrificació",
+        "description": "Key \"electrified\". See https://wiki.openstreetmap.org/wiki/Key:electrified"
+    },
+    "tag:electrified=no": {
+        "message": "no electrificat",
+        "description": "Tag \"electrified=no\". See https://wiki.openstreetmap.org/wiki/Tag:electrified=no"
+    },
+    "tag:electrified=rail": {
+        "message": "Via electrificada",
+        "description": "Tag \"electrified=rail\". See https://wiki.openstreetmap.org/wiki/Tag:electrified=rail"
+    },
+    "tag:email": {
+        "message": "Correu electrònic",
+        "description": "Key \"email\". See https://wiki.openstreetmap.org/wiki/Key:email"
+    },
+    "tag:emergency": {
+        "message": "Emergència",
+        "description": "Key \"emergency\". See https://wiki.openstreetmap.org/wiki/Key:emergency"
+    },
+    "tag:emergency=defibrillator": {
+        "message": "Desfibril·lador",
+        "description": "Tag \"emergency=defibrillator\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=defibrillator"
+    },
+    "tag:emergency=fire_hydrant": {
+        "message": "Hidrant",
+        "description": "Tag \"emergency=fire_hydrant\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant"
+    },
+    "tag:emergency=fire_hydrant fire_hydrant:type=pillar": {
+        "message": "Hidrant de columna",
+        "description": "Combined tag \"emergency=fire_hydrant\" and \"fire_hydrant:type=pillar\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant and https://wiki.openstreetmap.org/wiki/Tag:fire_hydrant:type=pillar"
+    },
+    "tag:emergency=fire_hydrant fire_hydrant:type=underground": {
+        "message": "Hidrant d'arqueta",
+        "description": "Combined tag \"emergency=fire_hydrant\" and \"fire_hydrant:type=underground\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant and https://wiki.openstreetmap.org/wiki/Tag:fire_hydrant:type=underground"
+    },
+    "tag:emergency=lifeguard": {
+        "message": "Socorrista",
+        "description": "Tag \"emergency=lifeguard\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=lifeguard"
+    },
+    "tag:emergency=phone": {
+        "message": "Telèfon d'emergència",
+        "description": "Tag \"emergency=phone\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=phone"
+    },
+    "tag:end_date": {
+        "message": "Data de retirada",
+        "description": "Key \"end_date\". See https://wiki.openstreetmap.org/wiki/Key:end_date"
+    },
+    "tag:entrance": {
+        "message": "Entrada",
+        "description": "Key \"entrance\". See https://wiki.openstreetmap.org/wiki/Key:entrance"
+    },
+    "tag:entrance=emergency": {
+        "message": "Sortida d'emergència",
+        "description": "Tag \"entrance=emergency\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=emergency"
+    },
+    "tag:entrance=exit": {
+        "message": "Sortida",
+        "description": "Tag \"entrance=exit\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=exit"
+    },
+    "tag:entrance=garage": {
+        "message": "Entrada de garatge",
+        "description": "Tag \"entrance=garage\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=garage"
+    },
+    "tag:entrance=home": {
+        "message": "Entrada d'habitatge",
+        "description": "Tag \"entrance=home\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=home"
+    },
+    "tag:entrance=main": {
+        "message": "Entrada principal",
+        "description": "Tag \"entrance=main\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=main"
+    },
+    "tag:entrance=service": {
+        "message": "Entrada de servei",
+        "description": "Tag \"entrance=service\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=service"
+    },
+    "tag:fax": {
+        "message": "Número de fax",
+        "description": "Key \"fax\". See https://wiki.openstreetmap.org/wiki/Key:fax"
+    },
+    "tag:fixme": {
+        "message": "Corregeix-me",
+        "description": "Key \"fixme\". See https://wiki.openstreetmap.org/wiki/Key:fixme"
+    },
+    "tag:flood_date": {
+        "message": "Data d'inundació",
+        "description": "Key \"flood_date\". See https://wiki.openstreetmap.org/wiki/Key:flood_date"
+    },
+    "tag:flood_mark=engraving": {
+        "message": "Marca d'inundació engravada",
+        "description": "Tag \"flood_mark=engraving\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=engraving"
+    },
+    "tag:flood_mark=painting": {
+        "message": "Marca d'inundació pintada",
+        "description": "Tag \"flood_mark=painting\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=painting"
+    },
+    "tag:flood_mark=plaque": {
+        "message": "Marca d'inundació en placa",
+        "description": "Tag \"flood_mark=plaque\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=plaque"
+    },
+    "tag:flood_mark=pole": {
+        "message": "Marca d'inundació en pal",
+        "description": "Tag \"flood_mark=pole\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=pole"
+    },
+    "tag:food": {
+        "message": "Menjar",
+        "description": "Key \"food\". See https://wiki.openstreetmap.org/wiki/Key:food"
+    },
+    "tag:foot": {
+        "message": "Peu",
+        "description": "Key \"foot\". See https://wiki.openstreetmap.org/wiki/Key:foot"
+    },
+    "tag:footway=sidewalk": {
+        "message": "Vorera",
+        "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
+    },
+    "tag:frequency": {
+        "message": "Freqüència",
+        "description": "Key \"frequency\". See https://wiki.openstreetmap.org/wiki/Key:frequency"
+    },
+    "tag:year_of_construction": {
+        "message": "Període de construcció",
+        "description": "Key \"year_of_construction\". See https://wiki.openstreetmap.org/wiki/Key:year_of_construction"
     }
 }
