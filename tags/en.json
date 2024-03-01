@@ -601,7 +601,7 @@
         "description": "Tag \"amenity=waste_basket\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_basket"
     },
     "tag:amenity=waste_disposal": {
-        "message": "",
+        "message": "Waste Bin",
         "description": "Tag \"amenity=waste_disposal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_disposal"
     },
     "tag:amenity=waste_transfer_station": {
@@ -6712,6 +6712,54 @@
     "tag:voltage": {
         "message": "Voltage",
         "description": "Key \"voltage\". See https://wiki.openstreetmap.org/wiki/Key:voltage"
+    },
+    "tag:waste": {
+        "message": "Waste",
+        "description": "Key \"waste\". See https://wiki.openstreetmap.org/wiki/Key:waste"
+    },
+    "tag:waste=cigarettes": {
+        "message": "cigarettes",
+        "description": "Tag \"waste=cigarettes\". See https://wiki.openstreetmap.org/wiki/Tag:waste=cigarettes"
+    },
+    "tag:waste=dog_excrement": {
+        "message": "dog excrement",
+        "description": "Tag \"waste=dog_excrement\". See https://wiki.openstreetmap.org/wiki/Tag:waste=dog_excrement"
+    },
+    "tag:waste=drugs": {
+        "message": "drugs",
+        "description": "Tag \"waste=drugs\". See https://wiki.openstreetmap.org/wiki/Tag:waste=drugs"
+    },
+    "tag:waste=glass": {
+        "message": "glass",
+        "description": "Tag \"waste=glass\". See https://wiki.openstreetmap.org/wiki/Tag:waste=glass"
+    },
+    "tag:waste=mixed": {
+        "message": "mixed",
+        "description": "Tag \"waste=mixed\". See https://wiki.openstreetmap.org/wiki/Tag:waste=mixed"
+    },
+    "tag:waste=oil": {
+        "message": "oil",
+        "description": "Tag \"waste=oil\". See https://wiki.openstreetmap.org/wiki/Tag:waste=oil"
+    },
+    "tag:waste=organic": {
+        "message": "organic",
+        "description": "Tag \"waste=organic\". See https://wiki.openstreetmap.org/wiki/Tag:waste=organic"
+    },
+    "tag:waste=paper": {
+        "message": "paper",
+        "description": "Tag \"waste=paper\". See https://wiki.openstreetmap.org/wiki/Tag:waste=paper"
+    },
+    "tag:waste=plastic": {
+        "message": "plastic",
+        "description": "Tag \"waste=plastic\". See https://wiki.openstreetmap.org/wiki/Tag:waste=plastic"
+    },
+    "tag:waste=recycling": {
+        "message": "recycling",
+        "description": "Tag \"waste=recycling\". See https://wiki.openstreetmap.org/wiki/Tag:waste=recycling"
+    },
+    "tag:waste=trash": {
+        "message": "trash",
+        "description": "Tag \"waste=trash\". See https://wiki.openstreetmap.org/wiki/Tag:waste=trash"
     },
     "tag:water": {
         "message": "",
