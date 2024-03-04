@@ -731,5 +731,257 @@
     "tag:year_of_construction": {
         "message": "Període de construcció",
         "description": "Key \"year_of_construction\". See https://wiki.openstreetmap.org/wiki/Key:year_of_construction"
+    },
+    "tag:craft=car_painter": {
+        "message": "Taller de xapa i puntura",
+        "description": "Tag \"craft=car_painter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=car_painter"
+    },
+    "tag:craft=car_repair": {
+        "message": "Taller de cotxes",
+        "description": "Tag \"craft=car_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=car_repair"
+    },
+    "tag:craft=carpenter": {
+        "message": "Fuster",
+        "description": "Tag \"craft=carpenter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=carpenter"
+    },
+    "tag:craft=carpet_layer": {
+        "message": "Instal·lador de catifes",
+        "description": "Tag \"craft=carpet_layer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=carpet_layer"
+    },
+    "tag:craft=ceramist": {
+        "message": "Ceramista",
+        "description": "Tag \"craft=ceramist\". See https://wiki.openstreetmap.org/wiki/Tag:craft=ceramist"
+    },
+    "tag:craft=clockmaker": {
+        "message": "Rellotger",
+        "description": "Tag \"craft=clockmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=clockmaker"
+    },
+    "tag:craft=confectionery": {
+        "message": "Pastisseria",
+        "description": "Tag \"craft=confectionery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=confectionery"
+    },
+    "tag:craft=construction": {
+        "message": "Constructor",
+        "description": "Tag \"craft=construction\". See https://wiki.openstreetmap.org/wiki/Tag:craft=construction"
+    },
+    "tag:healthcare=alternative": {
+        "message": "Teràpies alternatives",
+        "description": "Tag \"healthcare=alternative\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=alternative"
+    },
+    "tag:healthcare=birthing_centre": {
+        "message": "Maternitat",
+        "description": "Tag \"healthcare=birthing_centre\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=birthing_centre"
+    },
+    "tag:healthcare=blood_bank": {
+        "message": "Banc de sang",
+        "description": "Tag \"healthcare=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=blood_bank"
+    },
+    "tag:healthcare=blood_donation": {
+        "message": "Donació de sang",
+        "description": "Tag \"healthcare=blood_bank\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=blood_donation"
+    },
+    "tag:healthcare=centre": {
+        "message": "Centre de salut",
+        "description": "Tag \"healthcare=centre\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=centre"
+    },
+    "tag:healthcare=clinic": {
+        "message": "Clínica",
+        "description": "Tag \"healthcare=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=clinic"
+    },
+    "tag:healthcare=dentist": {
+        "message": "Dentista",
+        "description": "Tag \"healthcare=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dentist"
+    },
+    "tag:healthcare=dialysis": {
+        "message": "Diàlisi",
+        "description": "Tag \"healthcare=dialysis\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dialysis"
+    },
+    "tag:healthcare=doctor": {
+        "message": "Doctor",
+        "description": "Tag \"healthcare=doctor\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=doctor"
+    },
+    "tag:healthcare=hospital": {
+        "message": "Hospital",
+        "description": "Tag \"healthcare=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=hospital"
+    },
+    "tag:healthcare=laboratory": {
+        "message": "Laboratori mèdic",
+        "description": "Tag \"healthcare=laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=laboratory"
+    },
+    "tag:healthcare=midwife": {
+        "message": "Llevadora",
+        "description": "Tag \"healthcare=midwife\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=midwife"
+    },
+    "tag:healthcare=nutrition_counseling": {
+        "message": "Nutricionista",
+        "description": "Tag \"healthcare=nutrition_counseling\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=nutrition_counseling"
+    },
+    "tag:healthcare=optometrist": {
+        "message": "Optometrista",
+        "description": "Tag \"healthcare=optometrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=optometrist"
+    },
+    "tag:healthcare=pharmacy": {
+        "message": "Farmàcia",
+        "description": "Tag \"healthcare=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=pharmacy"
+    },
+    "tag:healthcare=physiotherapist": {
+        "message": "Fisioterapeuta",
+        "description": "Tag \"healthcare=physiotherapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=physiotherapist"
+    },
+    "tag:healthcare=podiatrist": {
+        "message": "Podòleg",
+        "description": "Tag \"healthcare=podiatrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=podiatrist"
+    },
+    "tag:healthcare=psychotherapist": {
+        "message": "Psicoterapeuta",
+        "description": "Tag \"healthcare=psychotherapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=psychotherapist"
+    },
+    "tag:healthcare=rehabilitation": {
+        "message": "Rehabilitació",
+        "description": "Tag \"healthcare=rehabilitation\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=rehabilitation"
+    },
+    "tag:height": {
+        "message": "Alçada",
+        "description": "Key \"height\". See https://wiki.openstreetmap.org/wiki/Key:height"
+    },
+    "tag:heritage": {
+        "message": "Patrimoni",
+        "description": "Key \"heritage\". See https://wiki.openstreetmap.org/wiki/Key:heritage"
+    },
+    "tag:hgv": {
+        "message": "Permís d'accés a camions",
+        "description": "Key \"hgv\". See https://wiki.openstreetmap.org/wiki/Key:hgv"
+    },
+    "tag:highway": {
+        "message": "Viari",
+        "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
+    },
+    "tag:highway=bridleway": {
+        "message": "Camí de cavalls",
+        "description": "Tag \"highway=bridleway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=bridleway"
+    },
+    "tag:highway=bus_stop": {
+        "message": "Parada de bus",
+        "description": "Tag \"highway=bus_stop\". See https://wiki.openstreetmap.org/wiki/Tag:highway=bus_stop"
+    },
+    "tag:highway=construction": {
+        "message": "Autopista en construcció",
+        "description": "Tag \"highway=construction\". See https://wiki.openstreetmap.org/wiki/Tag:highway=construction"
+    },
+    "tag:highway=crossing": {
+        "message": "Pas",
+        "description": "Tag \"highway=crossing\". See https://wiki.openstreetmap.org/wiki/Tag:highway=crossing"
+    },
+    "tag:highway=cycleway": {
+        "message": "Via ciclista",
+        "description": "Tag \"highway=cycleway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=cycleway"
+    },
+    "tag:highway=elevator": {
+        "message": "Ascensor",
+        "description": "Tag \"highway=elevator\". See https://wiki.openstreetmap.org/wiki/Tag:highway=elevator"
+    },
+    "tag:highway=footway": {
+        "message": "Passeig peatonal",
+        "description": "Tag \"highway=footway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=footway"
+    },
+    "tag:highway=footway conveying": {
+        "message": "Passerella mòbil",
+        "description": "Combined tag \"highway=footway\" with key \"conveying\". See https://wiki.openstreetmap.org/wiki/Tag:highway=footway and https://wiki.openstreetmap.org/wiki/Key:conveying"
+    },
+    "tag:highway=living_street": {
+        "message": "Via Pacificada",
+        "description": "Tag \"highway=living_street\". See https://wiki.openstreetmap.org/wiki/Tag:highway=living_street"
+    },
+    "tag:highway=mini_roundabout": {
+        "message": "Mini-rotonda",
+        "description": "Tag \"highway=mini_roundabout\". See https://wiki.openstreetmap.org/wiki/Tag:highway=mini_roundabout"
+    },
+    "tag:highway=motorway": {
+        "message": "Autopista",
+        "description": "Tag \"highway=motorway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=motorway"
+    },
+    "tag:historic=farm": {
+        "message": "Antiga granja",
+        "description": "Tag \"historic=farm\". See https://wiki.openstreetmap.org/wiki/Tag:historic=farm"
+    },
+    "tag:historic=flood_mark": {
+        "message": "Antiga marca d'inundacions",
+        "description": "Tag \"historic=flood_mark\". See https://wiki.openstreetmap.org/wiki/Tag:historic=flood_mark"
+    },
+    "tag:historic=heritage": {
+        "message": "Patrimoni històric",
+        "description": "Tag \"historic=heritage\". See https://wiki.openstreetmap.org/wiki/Tag:historic=heritage"
+    },
+    "tag:internet_access=wlan": {
+        "message": "Accés a internet per WiFi",
+        "description": "Tag \"internet_access=wlan\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=wlan"
+    },
+    "tag:internet_access=wlan internet_access:fee=customers": {
+        "message": "Accés a internet via WiFi per a clients",
+        "description": "Combined tag \"internet_access=wlan\" and \"internet_access:fee=customers\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=wlan and https://wiki.openstreetmap.org/wiki/Tag:internet_access:fee=customers"
+    },
+    "tag:internet_access=wlan internet_access:fee=no": {
+        "message": "Accés gratuït a internet per WiFi",
+        "description": "Combined tag \"internet_access=wlan\" and \"internet_access:fee=no\". See https://wiki.openstreetmap.org/wiki/Tag:internet_access=wlan and https://wiki.openstreetmap.org/wiki/Tag:internet_access:fee=no"
+    },
+    "tag:leisure=escape_game": {
+        "message": "Escape Room",
+        "description": "Tag \"leisure=escape_game\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=escape_game"
+    },
+    "tag:leisure=fishing": {
+        "message": "Punt de Pesca",
+        "description": "Tag \"leisure=fishing\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=fishing"
+    },
+    "tag:leisure=fitness_centre": {
+        "message": "Centre de Fitness",
+        "description": "Tag \"leisure=fitness_centre\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=fitness_centre"
+    },
+    "tag:leisure=garden": {
+        "message": "Jardí",
+        "description": "Tag \"leisure=garden\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=garden"
+    },
+    "tag:leisure=ice_rink": {
+        "message": "Pista de Gel",
+        "description": "Tag \"leisure=ice_rink\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=ice_rink"
+    },
+    "tag:leisure=nature_reserve": {
+        "message": "Reserva Natural",
+        "description": "Tag \"leisure=nature_reserve\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=nature_reserve"
+    },
+    "tag:leisure=outdoor_seating": {
+        "message": "Terrassa exterior",
+        "description": "Tag \"leisure=outdoor_seating\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=outdoor_seating"
+    },
+    "tag:leisure=picnic_table": {
+        "message": "Taula de Pícnic",
+        "description": "Tag \"leisure=picnic_table\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=picnic_table"
+    },
+    "tag:leisure=pitch": {
+        "message": "Pista",
+        "description": "Tag \"leisure=pitch\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch"
+    },
+    "tag:leisure=pitch sport=american_football": {
+        "message": "Camp de Futbol Americà",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=american_football\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=american_football"
+    },
+    "tag:leisure=pitch sport=australian_football": {
+        "message": "Camp de Futbol Australià",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=australian_football\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=australian_football"
+    },
+    "tag:leisure=pitch sport=badminton": {
+        "message": "Pista de Bàdminton",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=badminton\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=badminton"
+    },
+    "tag:leisure=pitch sport=baseball": {
+        "message": "Camp de Beisbol",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=baseball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=baseball"
+    },
+    "tag:leisure=pitch sport=basketball": {
+        "message": "Pista de Bàsquet",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=basketball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=basketball"
+    },
+    "tag:leisure=pitch sport=beachvolleyball": {
+        "message": "Pista de Vòlei Platja",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=beachvolleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=beachvolleyball"
     }
 }
