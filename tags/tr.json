@@ -1560,5 +1560,377 @@
     "tag:waterway=waterfall": {
         "message": "Şelale",
         "description": "Tag \"waterway=waterfall\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=waterfall"
+    },
+    "tag:amenity=bank": {
+        "message": "Banka",
+        "description": "Tag \"amenity=bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bank"
+    },
+    "tag:amenity=community_centre": {
+        "message": "toplum merkezi",
+        "description": "Tag \"amenity=community_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=community_centre"
+    },
+    "tag:amenity=compressed_air": {
+        "message": "sıkıştırılmış hava",
+        "description": "Tag \"amenity=compressed_air\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=compressed_air"
+    },
+    "tag:amenity=doctors": {
+        "message": "doktorlar",
+        "description": "Tag \"amenity=doctors\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=doctors"
+    },
+    "tag:amenity=parking": {
+        "message": "Otoparklar",
+        "description": "Tag \"amenity=parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parking"
+    },
+    "tag:amenity=pub": {
+        "message": "Bar",
+        "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
+    },
+    "tag:amenity=restaurant": {
+        "message": "Restoran",
+        "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
+    },
+    "tag:barrier=city_wall": {
+        "message": "Şehir duvarı",
+        "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
+    },
+    "tag:bicycle": {
+        "message": "Bisiklet erişim izni",
+        "description": "Key \"bicycle\". See https://wiki.openstreetmap.org/wiki/Key:bicycle"
+    },
+    "tag:building=cathedral": {
+        "message": "Katedral",
+        "description": "Tag \"building=cathedral\". See https://wiki.openstreetmap.org/wiki/Tag:building=cathedral"
+    },
+    "tag:building=chapel": {
+        "message": "Şapel",
+        "description": "Tag \"building=chapel\". See https://wiki.openstreetmap.org/wiki/Tag:building=chapel"
+    },
+    "tag:building=church": {
+        "message": "Kilise",
+        "description": "Tag \"building=church\". See https://wiki.openstreetmap.org/wiki/Tag:building=church"
+    },
+    "tag:building=church religion=christian": {
+        "message": "Kilise",
+        "description": "Combined tag \"building=church\" and \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:building=church and https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
+    },
+    "tag:building=conservatory": {
+        "message": "konservatuvar",
+        "description": "Tag \"building=conservatory\". See https://wiki.openstreetmap.org/wiki/Tag:building=conservatory"
+    },
+    "tag:building=garage": {
+        "message": "Garaj",
+        "description": "Tag \"building=garage\". See https://wiki.openstreetmap.org/wiki/Tag:building=garage"
+    },
+    "tag:building=government": {
+        "message": "İdari/resmi bina",
+        "description": "Tag \"building=government\". See https://wiki.openstreetmap.org/wiki/Tag:building=government"
+    },
+    "tag:building=hospital": {
+        "message": "Hastane",
+        "description": "Tag \"building=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:building=hospital"
+    },
+    "tag:building=religious": {
+        "message": "Dini bina",
+        "description": "Tag \"building=religious\". See https://wiki.openstreetmap.org/wiki/Tag:building=religious"
+    },
+    "tag:natural=beach": {
+        "message": "Sahil",
+        "description": "Tag \"natural=beach\". See https://wiki.openstreetmap.org/wiki/Tag:natural=beach"
+    },
+    "tag:natural=coastline": {
+        "message": "Sahil şeridi",
+        "description": "Tag \"natural=coastline\". See https://wiki.openstreetmap.org/wiki/Tag:natural=coastline"
+    },
+    "tag:natural=mountain": {
+        "message": "Dağ",
+        "description": "Tag \"natural=mountain\". See https://wiki.openstreetmap.org/wiki/Tag:natural=mountain"
+    },
+    "tag:natural=mountain_range": {
+        "message": "Sıra Dağlar",
+        "description": "Tag \"natural=mountain_range\". See https://wiki.openstreetmap.org/wiki/Tag:natural=mountain_range"
+    },
+    "tag:natural=volcano": {
+        "message": "Volkan",
+        "description": "Tag \"natural=volcano\". See https://wiki.openstreetmap.org/wiki/Tag:natural=volcano"
+    },
+    "tag:natural=water": {
+        "message": "Su",
+        "description": "Tag \"natural=water\". See https://wiki.openstreetmap.org/wiki/Tag:natural=water"
+    },
+    "tag:network=icn": {
+        "message": "Uluslararası Bisiklet Rotası",
+        "description": "Tag \"network=icn\". See https://wiki.openstreetmap.org/wiki/Tag:network=icn"
+    },
+    "tag:network=iwn": {
+        "message": "Uluslararası yürüyüş ağı",
+        "description": "Tag \"network=iwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=iwn"
+    },
+    "tag:network=lcn": {
+        "message": "Yerel Bisiklet Rotası",
+        "description": "Tag \"network=lcn\". See https://wiki.openstreetmap.org/wiki/Tag:network=lcn"
+    },
+    "tag:network=lwn": {
+        "message": "Yerel yürüyüş ağı",
+        "description": "Tag \"network=lwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=lwn"
+    },
+    "tag:network=ncn": {
+        "message": "Ulusal Bisiklet Rotası",
+        "description": "Tag \"network=ncn\". See https://wiki.openstreetmap.org/wiki/Tag:network=ncn"
+    },
+    "tag:network=nwn": {
+        "message": "Ulusal yürüyüş ağı",
+        "description": "Tag \"network=nwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=nwn"
+    },
+    "tag:network=rcn": {
+        "message": "Bölgesel Bisiklet Rotası",
+        "description": "Tag \"network=rcn\". See https://wiki.openstreetmap.org/wiki/Tag:network=rcn"
+    },
+    "tag:network=rwn": {
+        "message": "Bölgesel yürüyüş ağı",
+        "description": "Tag \"network=rwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=rwn"
+    },
+    "tag:office=administration": {
+        "message": "Yönetim",
+        "description": "Tag \"office=administration\". See https://wiki.openstreetmap.org/wiki/Tag:office=administration"
+    },
+    "tag:office=architect": {
+        "message": "Mimar",
+        "description": "Tag \"office=architect\". See https://wiki.openstreetmap.org/wiki/Tag:office=architect"
+    },
+    "tag:office=cooperative": {
+        "message": "Kooperatif",
+        "description": "Tag \"office=cooperative\". See https://wiki.openstreetmap.org/wiki/Tag:office=cooperative"
+    },
+    "tag:office=lawyer": {
+        "message": "avukat",
+        "description": "Tag \"office=lawyer\". See https://wiki.openstreetmap.org/wiki/Tag:office=lawyer"
+    },
+    "tag:office=political_party": {
+        "message": "siyasi parti",
+        "description": "Tag \"office=political_party\". See https://wiki.openstreetmap.org/wiki/Tag:office=political_party"
+    },
+    "tag:office=private_investigator": {
+        "message": "özel soruşturmacı",
+        "description": "Tag \"office=private_investigator\". See https://wiki.openstreetmap.org/wiki/Tag:office=private_investigator"
+    },
+    "tag:office=property_management": {
+        "message": "mülkiyet yönetimi",
+        "description": "Tag \"office=property_management\". See https://wiki.openstreetmap.org/wiki/Tag:office=property_management"
+    },
+    "tag:office=publisher": {
+        "message": "Yayımcı",
+        "description": "Tag \"office=publisher\". See https://wiki.openstreetmap.org/wiki/Tag:office=publisher"
+    },
+    "tag:office=tax_advisor": {
+        "message": "vergi danışmanı",
+        "description": "Tag \"office=tax_advisor\". See https://wiki.openstreetmap.org/wiki/Tag:office=tax_advisor"
+    },
+    "tag:office=therapist": {
+        "message": "terapist",
+        "description": "Tag \"office=therapist\". See https://wiki.openstreetmap.org/wiki/Tag:office=therapist"
+    },
+    "tag:office=tourist_accommodation": {
+        "message": "turistik konaklama",
+        "description": "Tag \"office=tourist_accommodation\". See https://wiki.openstreetmap.org/wiki/Tag:office=tourist_accommodation"
+    },
+    "tag:office=travel_agent": {
+        "message": "seyahat acentesi",
+        "description": "Tag \"office=travel_agent\". See https://wiki.openstreetmap.org/wiki/Tag:office=travel_agent"
+    },
+    "tag:oneway": {
+        "message": "Tek Yön",
+        "description": "Key \"oneway\". See https://wiki.openstreetmap.org/wiki/Key:oneway"
+    },
+    "tag:parking:lane=diagonal": {
+        "message": "çapraz park etme",
+        "description": "Tag \"parking:lane=diagonal\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=diagonal"
+    },
+    "tag:parking:lane=marked": {
+        "message": "ayrı ayrı işaretlenmiş park yerleri",
+        "description": "Tag \"parking:lane=marked\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=marked"
+    },
+    "tag:parking:lane=no_parking": {
+        "message": "yalnızca yükleme",
+        "description": "Tag \"parking:lane=no_parking\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no_parking"
+    },
+    "tag:parking:lane=no_stopping": {
+        "message": "Park etme ve durmaya izin verilmiyor",
+        "description": "Tag \"parking:lane=no_stopping\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=no_stopping"
+    },
+    "tag:parking:lane=parallel": {
+        "message": "paralel park",
+        "description": "Tag \"parking:lane=parallel\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=parallel"
+    },
+    "tag:parking:lane=perpendicular": {
+        "message": "dikey park etme",
+        "description": "Tag \"parking:lane=perpendicular\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=perpendicular"
+    },
+    "tag:payment:bitcoin": {
+        "message": "bitcoin",
+        "description": "Key \"payment:bitcoin\". See https://wiki.openstreetmap.org/wiki/Key:payment:bitcoin"
+    },
+    "tag:payment:credit_cards": {
+        "message": "Kredi kartı",
+        "description": "Key \"payment:credit_cards\". See https://wiki.openstreetmap.org/wiki/Key:payment:credit_cards"
+    },
+    "tag:payment:maestro": {
+        "message": "maestro",
+        "description": "Key \"payment:maestro\". See https://wiki.openstreetmap.org/wiki/Key:payment:maestro"
+    },
+    "tag:payment:mastercard": {
+        "message": "mastercard",
+        "description": "Key \"payment:mastercard\". See https://wiki.openstreetmap.org/wiki/Key:payment:mastercard"
+    },
+    "tag:payment:telephone_cards": {
+        "message": "telefon kartları",
+        "description": "Key \"payment:telephone_cards\". See https://wiki.openstreetmap.org/wiki/Key:payment:telephone_cards"
+    },
+    "tag:payment:visa": {
+        "message": "visa",
+        "description": "Key \"payment:visa\". See https://wiki.openstreetmap.org/wiki/Key:payment:visa"
+    },
+    "tag:payment:visa_electron": {
+        "message": "visa_electron",
+        "description": "Key \"payment:visa_electron\". See https://wiki.openstreetmap.org/wiki/Key:payment:visa_electron"
+    },
+    "tag:phone": {
+        "message": "Telefon numarası",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
+    },
+    "tag:place": {
+        "message": "Yer",
+        "description": "Key \"place\". See https://wiki.openstreetmap.org/wiki/Key:place"
+    },
+    "tag:place=city": {
+        "message": "Şehir",
+        "description": "Tag \"place=city\". See https://wiki.openstreetmap.org/wiki/Tag:place=city"
+    },
+    "tag:place=country": {
+        "message": "Ülke",
+        "description": "Tag \"place=country\". See https://wiki.openstreetmap.org/wiki/Tag:place=country"
+    },
+    "tag:place=farm": {
+        "message": "Çiftlik",
+        "description": "Tag \"place=farm\". See https://wiki.openstreetmap.org/wiki/Tag:place=farm"
+    },
+    "tag:place=island": {
+        "message": "Ada",
+        "description": "Tag \"place=island\". See https://wiki.openstreetmap.org/wiki/Tag:place=island"
+    },
+    "tag:place=ocean": {
+        "message": "Okyanus",
+        "description": "Tag \"place=ocean\". See https://wiki.openstreetmap.org/wiki/Tag:place=ocean"
+    },
+    "tag:place=region": {
+        "message": "Bölge",
+        "description": "Tag \"place=region\". See https://wiki.openstreetmap.org/wiki/Tag:place=region"
+    },
+    "tag:place=sea": {
+        "message": "Deniz",
+        "description": "Tag \"place=sea\". See https://wiki.openstreetmap.org/wiki/Tag:place=sea"
+    },
+    "tag:place=village": {
+        "message": "Köy",
+        "description": "Tag \"place=village\". See https://wiki.openstreetmap.org/wiki/Tag:place=village"
+    },
+    "tag:population": {
+        "message": "Nüfus",
+        "description": "Key \"population\". See https://wiki.openstreetmap.org/wiki/Key:population"
+    },
+    "tag:postal_code": {
+        "message": "Posta Kodu",
+        "description": "Key \"postal_code\". See https://wiki.openstreetmap.org/wiki/Key:postal_code"
+    },
+    "tag:power_source=gas": {
+        "message": "Gaz",
+        "description": "Tag \"power_source=gas\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=gas"
+    },
+    "tag:power_source=geothermal": {
+        "message": "Jeotermal",
+        "description": "Tag \"power_source=geothermal\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=geothermal"
+    },
+    "tag:power_source=nuclear": {
+        "message": "Nükleer",
+        "description": "Tag \"power_source=nuclear\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=nuclear"
+    },
+    "tag:power_source=wave": {
+        "message": "Dalga",
+        "description": "Tag \"power_source=wave\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=wave"
+    },
+    "tag:power_source=wind": {
+        "message": "Rüzgâr",
+        "description": "Tag \"power_source=wind\". See https://wiki.openstreetmap.org/wiki/Tag:power_source=wind"
+    },
+    "tag:public_transport": {
+        "message": "Toplu Taşıma",
+        "description": "Key \"public_transport\". See https://wiki.openstreetmap.org/wiki/Key:public_transport"
+    },
+    "tag:railway": {
+        "message": "Demiryolu",
+        "description": "Key \"railway\". See https://wiki.openstreetmap.org/wiki/Key:railway"
+    },
+    "tag:railway=rail": {
+        "message": "Demiryolu Hattı",
+        "description": "Tag \"railway=rail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail"
+    },
+    "tag:railway=station": {
+        "message": "Tren istasyonu",
+        "description": "Tag \"railway=station\". See https://wiki.openstreetmap.org/wiki/Tag:railway=station"
+    },
+    "tag:railway=subway_entrance": {
+        "message": "Metro girişi",
+        "description": "Tag \"railway=subway_entrance\". See https://wiki.openstreetmap.org/wiki/Tag:railway=subway_entrance"
+    },
+    "tag:ref": {
+        "message": "Referans",
+        "description": "Key \"ref\". See https://wiki.openstreetmap.org/wiki/Key:ref"
+    },
+    "tag:religion=christian": {
+        "message": "Hıristiyan",
+        "description": "Tag \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
+    },
+    "tag:religion=jewish": {
+        "message": "yahudi",
+        "description": "Tag \"religion=jewish\". See https://wiki.openstreetmap.org/wiki/Tag:religion=jewish"
+    },
+    "tag:route": {
+        "message": "Rota",
+        "description": "Key \"route\". See https://wiki.openstreetmap.org/wiki/Key:route"
+    },
+    "tag:route=bicycle": {
+        "message": "Bisiklet",
+        "description": "Tag \"route=bicycle\". See https://wiki.openstreetmap.org/wiki/Tag:route=bicycle"
+    },
+    "tag:route=bus": {
+        "message": "Otobüs",
+        "description": "Tag \"route=bus\". See https://wiki.openstreetmap.org/wiki/Tag:route=bus"
+    },
+    "tag:route=ferry": {
+        "message": "Feribot",
+        "description": "Tag \"route=ferry\". See https://wiki.openstreetmap.org/wiki/Tag:route=ferry"
+    },
+    "tag:route=minibus": {
+        "message": "Minibüs",
+        "description": "Tag \"route=minibus\". See https://wiki.openstreetmap.org/wiki/Tag:route=minibus"
+    },
+    "tag:route=mtb": {
+        "message": "Dağ bisikleti",
+        "description": "Tag \"route=mtb\". See https://wiki.openstreetmap.org/wiki/Tag:route=mtb"
+    },
+    "tag:route=rail": {
+        "message": "Demiryolu",
+        "description": "Tag \"route=rail\". See https://wiki.openstreetmap.org/wiki/Tag:route=rail"
+    },
+    "tag:route=railway": {
+        "message": "Demiryolu",
+        "description": "Tag \"route=railway\". See https://wiki.openstreetmap.org/wiki/Tag:route=railway"
+    },
+    "tag:route=road": {
+        "message": "Yol",
+        "description": "Tag \"route=road\". See https://wiki.openstreetmap.org/wiki/Tag:route=road"
+    },
+    "tag:route=tram_bus": {
+        "message": "Tramvay ve Otobüs",
+        "description": "Tag \"route=tram_bus\". See https://wiki.openstreetmap.org/wiki/Tag:route=tram_bus"
     }
 }
