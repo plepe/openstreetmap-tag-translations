@@ -1932,5 +1932,384 @@
     "tag:route=tram_bus": {
         "message": "Tramvay ve Otobüs",
         "description": "Tag \"route=tram_bus\". See https://wiki.openstreetmap.org/wiki/Tag:route=tram_bus"
+    },
+    "tag:access": {
+        "message": "Genel erişim izni",
+        "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
+    },
+    "tag:access!=private": {
+        "message": "özel olmayan"
+    },
+    "tag:access=yes": {
+        "message": "kamuya açık",
+        "description": "Tag \"access=yes\". See https://wiki.openstreetmap.org/wiki/Tag:access=yes"
+    },
+    "tag:admin_level=11": {
+        "message": "Mahalleler (11)",
+        "description": "Tag \"admin_level=11\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=11"
+    },
+    "tag:admin_level=2": {
+        "message": "Ulusal Sınır (2)",
+        "description": "Tag \"admin_level=2\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=2"
+    },
+    "tag:admin_level=4": {
+        "message": "Eyalet Sınırı (4)",
+        "description": "Tag \"admin_level=4\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=4"
+    },
+    "tag:admin_level=5": {
+        "message": "(5)",
+        "description": "Tag \"admin_level=5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=5"
+    },
+    "tag:aerialway": {
+        "message": "Teleferikler",
+        "description": "Key \"aerialway\". See https://wiki.openstreetmap.org/wiki/Key:aerialway"
+    },
+    "tag:aeroway": {
+        "message": "Havacılık",
+        "description": "Key \"aeroway\". See https://wiki.openstreetmap.org/wiki/Key:aeroway"
+    },
+    "tag:aeroway=aerodrome": {
+        "message": "Havaalanı",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "Heliport",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:aeroway=heliport": {
+        "message": "Heliport",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:amenity": {
+        "message": "Hizmet tesisleri",
+        "description": "Key \"amenity\". See https://wiki.openstreetmap.org/wiki/Key:amenity"
+    },
+    "tag:amenity=atm": {
+        "message": "ATM  Otomatik Vezne Makinesi",
+        "description": "Tag \"amenity=atm\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=atm"
+    },
+    "tag:amenity=baby_hatch": {
+        "message": "Bebek yuvası",
+        "description": "Tag \"amenity=baby_hatch\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=baby_hatch"
+    },
+    "tag:amenity=bench": {
+        "message": "Bank",
+        "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
+    },
+    "tag:amenity=bicycle_parking capacity<=20": {
+        "message": "Bisiklet park yeri (20 alana kadar)",
+        "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
+    },
+    "tag:amenity=biergarten": {
+        "message": "Bira bahçesi",
+        "description": "Tag \"amenity=biergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=biergarten"
+    },
+    "tag:amenity=brothel": {
+        "message": "Genelev",
+        "description": "Tag \"amenity=brothel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=brothel"
+    },
+    "tag:amenity=bureau_de_change": {
+        "message": "döviz bürosu",
+        "description": "Tag \"amenity=bureau_de_change\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bureau_de_change"
+    },
+    "tag:amenity=car_sharing": {
+        "message": "araç paylaşım istasyonu",
+        "description": "Tag \"amenity=car_sharing\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_sharing"
+    },
+    "tag:amenity=childcare": {
+        "message": "Çocuk Bakımı",
+        "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
+    },
+    "tag:amenity=clinic": {
+        "message": "Klinik",
+        "description": "Tag \"amenity=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clinic"
+    },
+    "tag:amenity=courthouse": {
+        "message": "Adliye Binası",
+        "description": "Tag \"amenity=courthouse\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=courthouse"
+    },
+    "tag:amenity=public_bookcase": {
+        "message": "Halka açık kitaplık",
+        "description": "Tag \"amenity=public_bookcase\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bookcase"
+    },
+    "tag:amenity=vending_machine": {
+        "message": "Otomat",
+        "description": "Tag \"amenity=vending_machine\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine"
+    },
+    "tag:amenity=vending_machine vending=bicycle_tube": {
+        "message": "Bisiklet lastik otomatı",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=bicycle_tube\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=bicycle_tube"
+    },
+    "tag:amenity=vending_machine vending=food;drinks": {
+        "message": "Yiyecek ve içecek otomatı",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=food;drinks\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=food;drinks"
+    },
+    "tag:amenity=vending_machine vending=parking_tickets;public_transport_tickets": {
+        "message": "park biletleri; toplu taşıma biletleri otomatı",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets;public_transport_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets;public_transport_tickets"
+    },
+    "tag:amenity=vending_machine vending=public_transport_tickets": {
+        "message": "toplu taşıma biletleri otomatı",
+        "description": "Combined tag \"amenity=vending_machine\" and \"vending=public_transport_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=public_transport_tickets"
+    },
+    "tag:amenity=waste_basket": {
+        "message": "Atık Sepeti",
+        "description": "Tag \"amenity=waste_basket\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_basket"
+    },
+    "tag:amenity=waste_disposal": {
+        "message": "Çöp Konteynerleri",
+        "description": "Tag \"amenity=waste_disposal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_disposal"
+    },
+    "tag:amenity=waste_transfer_station": {
+        "message": "atık transfer istasyonu",
+        "description": "Tag \"amenity=waste_transfer_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_transfer_station"
+    },
+    "tag:barrier=fence": {
+        "message": "Çit",
+        "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
+    },
+    "tag:barrier=kerb": {
+        "message": "Bordür",
+        "description": "Tag \"barrier=kerb\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=kerb"
+    },
+    "tag:barrier=retaining_wall": {
+        "message": "İstinat Duvarı",
+        "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
+    },
+    "tag:bath:type": {
+        "message": "Banyo tipi",
+        "description": "Key \"bath:type\". See https://wiki.openstreetmap.org/wiki/Key:bath:type"
+    },
+    "tag:bath:type=lake": {
+        "message": "göl",
+        "description": "Tag \"bath:type=lake\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=lake"
+    },
+    "tag:bath:type=river": {
+        "message": "nehir",
+        "description": "Tag \"bath:type=river\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=river"
+    },
+    "tag:bath:type=thermal": {
+        "message": "termal",
+        "description": "Tag \"bath:type=thermal\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=thermal"
+    },
+    "tag:bridge": {
+        "message": "Köprü",
+        "description": "Key \"bridge\". See https://wiki.openstreetmap.org/wiki/Key:bridge"
+    },
+    "tag:building": {
+        "message": "Bina",
+        "description": "Key \"building\". See https://wiki.openstreetmap.org/wiki/Key:building"
+    },
+    "tag:building:levels": {
+        "message": "Katlar/Seviyeler",
+        "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
+    },
+    "tag:building=bakehouse": {
+        "message": "Fırın",
+        "description": "Tag \"building=bakehouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=bakehouse"
+    },
+    "tag:building=carport": {
+        "message": "Otopark",
+        "description": "Tag \"building=carport\". See https://wiki.openstreetmap.org/wiki/Tag:building=carport"
+    },
+    "tag:building=construction": {
+        "message": "İnşaat halindeki bina",
+        "description": "Tag \"building=construction\". See https://wiki.openstreetmap.org/wiki/Tag:building=construction"
+    },
+    "tag:building=cowshed": {
+        "message": "İnek Ahırı",
+        "description": "Tag \"building=cowshed\". See https://wiki.openstreetmap.org/wiki/Tag:building=cowshed"
+    },
+    "tag:building=dormitory": {
+        "message": "Öğrenci Yurdu",
+        "description": "Tag \"building=dormitory\". See https://wiki.openstreetmap.org/wiki/Tag:building=dormitory"
+    },
+    "tag:building=farm": {
+        "message": "Çiftlik",
+        "description": "Tag \"building=farm\". See https://wiki.openstreetmap.org/wiki/Tag:building=farm"
+    },
+    "tag:building=grandstand": {
+        "message": "Tribün",
+        "description": "Tag \"building=grandstand\". See https://wiki.openstreetmap.org/wiki/Tag:building=grandstand"
+    },
+    "tag:building=greenhouse": {
+        "message": "Sera",
+        "description": "Tag \"building=greenhouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=greenhouse"
+    },
+    "tag:building=hotel": {
+        "message": "Hotel",
+        "description": "Tag \"building=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:building=hotel"
+    },
+    "tag:building=house": {
+        "message": "Aile evi",
+        "description": "Tag \"building=house\". See https://wiki.openstreetmap.org/wiki/Tag:building=house"
+    },
+    "tag:building=industrial": {
+        "message": "Endüstriyel bina",
+        "description": "Tag \"building=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:building=industrial"
+    },
+    "tag:building=kindergarten": {
+        "message": "Kreşler/anaokulları",
+        "description": "Tag \"building=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:building=kindergarten"
+    },
+    "tag:building=kiosk": {
+        "message": "Büfe",
+        "description": "Tag \"building=kiosk\". See https://wiki.openstreetmap.org/wiki/Tag:building=kiosk"
+    },
+    "tag:building=military": {
+        "message": "Askeri",
+        "description": "Tag \"building=military\". See https://wiki.openstreetmap.org/wiki/Tag:building=military"
+    },
+    "tag:building=monastery": {
+        "message": "Manastır",
+        "description": "Tag \"building=monastery\". See https://wiki.openstreetmap.org/wiki/Tag:building=monastery"
+    },
+    "tag:building=office": {
+        "message": "ofis",
+        "description": "Tag \"building=office\". See https://wiki.openstreetmap.org/wiki/Tag:building=office"
+    },
+    "tag:building=parking": {
+        "message": "Otopark",
+        "description": "Tag \"building=parking\". See https://wiki.openstreetmap.org/wiki/Tag:building=parking"
+    },
+    "tag:building=public": {
+        "message": "Kamu binaları",
+        "description": "Tag \"building=public\". See https://wiki.openstreetmap.org/wiki/Tag:building=public"
+    },
+    "tag:building=school": {
+        "message": "Okul",
+        "description": "Tag \"building=school\". See https://wiki.openstreetmap.org/wiki/Tag:building=school"
+    },
+    "tag:building=shed": {
+        "message": "Baraka",
+        "description": "Tag \"building=shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=shed"
+    },
+    "tag:building=sports_hall": {
+        "message": "Spor salonu",
+        "description": "Tag \"building=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=sports_hall"
+    },
+    "tag:building=stadium": {
+        "message": "stadyum",
+        "description": "Tag \"building=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:building=stadium"
+    },
+    "tag:building=static_caravan": {
+        "message": "Sabit Karavan",
+        "description": "Tag \"building=static_caravan\". See https://wiki.openstreetmap.org/wiki/Tag:building=static_caravan"
+    },
+    "tag:building=storage_tank": {
+        "message": "Depolama tankı",
+        "description": "Tag \"building=storage_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=storage_tank"
+    },
+    "tag:building=supermarket": {
+        "message": "Süpermarket",
+        "description": "Tag \"building=supermarket\". See https://wiki.openstreetmap.org/wiki/Tag:building=supermarket"
+    },
+    "tag:building=synagogue": {
+        "message": "Sinagog",
+        "description": "Tag \"building=synagogue\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue"
+    },
+    "tag:building=synagogue religion=jewish": {
+        "message": "Sinagog",
+        "description": "Combined tag \"building=synagogue\" and \"religion=jewish\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue and https://wiki.openstreetmap.org/wiki/Tag:religion=jewish"
+    },
+    "tag:building=temple": {
+        "message": "Tapınak",
+        "description": "Tag \"building=temple\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple"
+    },
+    "tag:building=toilets": {
+        "message": "Tuvaletler",
+        "description": "Tag \"building=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:building=toilets"
+    },
+    "tag:building=train_station": {
+        "message": "İstasyon binası",
+        "description": "Tag \"building=train_station\". See https://wiki.openstreetmap.org/wiki/Tag:building=train_station"
+    },
+    "tag:building=university": {
+        "message": "Üniversite",
+        "description": "Tag \"building=university\". See https://wiki.openstreetmap.org/wiki/Tag:building=university"
+    },
+    "tag:place=neighbourhood": {
+        "message": "Mahalleler",
+        "description": "Tag \"place=neighbourhood\". See https://wiki.openstreetmap.org/wiki/Tag:place=neighbourhood"
+    },
+    "tag:shop=hardware": {
+        "message": "nalbur",
+        "description": "Tag \"shop=hardware\". See https://wiki.openstreetmap.org/wiki/Tag:shop=hardware"
+    },
+    "tag:shop=tobacco": {
+        "message": "tütün",
+        "description": "Tag \"shop=tobacco\". See https://wiki.openstreetmap.org/wiki/Tag:shop=tobacco"
+    },
+    "tag:surface=fine_gravel": {
+        "message": "ince çakıl",
+        "description": "Tag \"surface=fine_gravel\". See https://wiki.openstreetmap.org/wiki/Tag:surface=fine_gravel"
+    },
+    "tag:surface=grass": {
+        "message": "çimen",
+        "description": "Tag \"surface=grass\". See https://wiki.openstreetmap.org/wiki/Tag:surface=grass"
+    },
+    "tag:surface=gravel": {
+        "message": "çakıl",
+        "description": "Tag \"surface=gravel\". See https://wiki.openstreetmap.org/wiki/Tag:surface=gravel"
+    },
+    "tag:surface=ice": {
+        "message": "buz",
+        "description": "Tag \"surface=ice\". See https://wiki.openstreetmap.org/wiki/Tag:surface=ice"
+    },
+    "tag:surface=metal": {
+        "message": "metal",
+        "description": "Tag \"surface=metal\". See https://wiki.openstreetmap.org/wiki/Tag:surface=metal"
+    },
+    "tag:surface=metal_grid": {
+        "message": "metal ızgara",
+        "description": "Tag \"surface=metal_grid\". See https://wiki.openstreetmap.org/wiki/Tag:surface=metal_grid"
+    },
+    "tag:surface=mud": {
+        "message": "çamur",
+        "description": "Tag \"surface=mud\". See https://wiki.openstreetmap.org/wiki/Tag:surface=mud"
+    },
+    "tag:surface=rubber": {
+        "message": "kauçuk",
+        "description": "Tag \"surface=rubber\". See https://wiki.openstreetmap.org/wiki/Tag:surface=rubber"
+    },
+    "tag:surface=salt": {
+        "message": "tuz",
+        "description": "Tag \"surface=salt\". See https://wiki.openstreetmap.org/wiki/Tag:surface=salt"
+    },
+    "tag:surface=sand": {
+        "message": "kum",
+        "description": "Tag \"surface=sand\". See https://wiki.openstreetmap.org/wiki/Tag:surface=sand"
+    },
+    "tag:surface=snow": {
+        "message": "kar",
+        "description": "Tag \"surface=snow\". See https://wiki.openstreetmap.org/wiki/Tag:surface=snow"
+    },
+    "tag:width": {
+        "message": "Genişlik",
+        "description": "Key \"width\". See https://wiki.openstreetmap.org/wiki/Key:width"
+    },
+    "tag:wikipedia": {
+        "message": "Wikipedia",
+        "description": "Key \"wikipedia\". See https://wiki.openstreetmap.org/wiki/Key:wikipedia"
+    },
+    "tag:wood": {
+        "message": "Ahşap türü",
+        "description": "Key \"wood\". See https://wiki.openstreetmap.org/wiki/Key:wood"
+    },
+    "tag:xmas:feature=event": {
+        "message": "Noel Etkinliği",
+        "description": "Tag \"xmas:feature=event\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=event"
+    },
+    "tag:xmas:feature=lighting": {
+        "message": "Noel Aydınlatması",
+        "description": "Tag \"xmas:feature=lighting\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=lighting"
+    },
+    "tag:xmas:feature=shop": {
+        "message": "Noel Mağazası",
+        "description": "Tag \"xmas:feature=shop\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=shop"
+    },
+    "tag:xmas:feature=tree": {
+        "message": "Noel ağacı",
+        "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
     }
 }
