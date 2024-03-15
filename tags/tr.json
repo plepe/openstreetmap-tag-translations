@@ -2311,5 +2311,25 @@
     "tag:xmas:feature=tree": {
         "message": "Noel ağacı",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:admin_level=10": {
+        "message": "Banliyö (10)",
+        "description": "Tag \"admin_level=10\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=10"
+    },
+    "tag:natural=peak": {
+        "message": "Zirve",
+        "description": "Tag \"natural=peak\". See https://wiki.openstreetmap.org/wiki/Tag:natural=peak"
+    },
+    "tag:natural=ridge": {
+        "message": "Sırt",
+        "description": "Tag \"natural=ridge\". See https://wiki.openstreetmap.org/wiki/Tag:natural=ridge"
+    },
+    "tag:natural=wood": {
+        "message": "Orman",
+        "description": "Tag \"natural=wood\". See https://wiki.openstreetmap.org/wiki/Tag:natural=wood"
+    },
+    "tag:place=suburb": {
+        "message": "Banliyö",
+        "description": "Tag \"place=suburb\". See https://wiki.openstreetmap.org/wiki/Tag:place=suburb"
     }
 }
