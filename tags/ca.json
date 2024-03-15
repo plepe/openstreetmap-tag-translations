@@ -983,5 +983,429 @@
     "tag:leisure=pitch sport=beachvolleyball": {
         "message": "Pista de Vòlei Platja",
         "description": "Combined tag \"leisure=pitch\" and \"sport=beachvolleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=beachvolleyball"
+    },
+    "tag:network=lwn": {
+        "message": "Xarxa senderista local",
+        "description": "Tag \"network=lwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=lwn"
+    },
+    "tag:network=ncn": {
+        "message": "Ruta Ciclista Nacional",
+        "description": "Tag \"network=ncn\". See https://wiki.openstreetmap.org/wiki/Tag:network=ncn"
+    },
+    "tag:network=nwn": {
+        "message": "Xarxa senderista nacional",
+        "description": "Tag \"network=nwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=nwn"
+    },
+    "tag:network=rcn": {
+        "message": "Ruta Ciclista Regional",
+        "description": "Tag \"network=rcn\". See https://wiki.openstreetmap.org/wiki/Tag:network=rcn"
+    },
+    "tag:network=rwn": {
+        "message": "Xarxa senderista regional",
+        "description": "Tag \"network=rwn\". See https://wiki.openstreetmap.org/wiki/Tag:network=rwn"
+    },
+    "tag:noexit": {
+        "message": "Cul-de-sac",
+        "description": "Key \"noexit\". See https://wiki.openstreetmap.org/wiki/Key:noexit"
+    },
+    "tag:note": {
+        "message": "Nota",
+        "description": "Key \"note\". See https://wiki.openstreetmap.org/wiki/Key:note"
+    },
+    "tag:office": {
+        "message": "Oficina",
+        "description": "Key \"office\". See https://wiki.openstreetmap.org/wiki/Key:office"
+    },
+    "tag:office=accountant": {
+        "message": "Comptabilitat",
+        "description": "Tag \"office=accountant\". See https://wiki.openstreetmap.org/wiki/Tag:office=accountant"
+    },
+    "tag:office=administration": {
+        "message": "Administració",
+        "description": "Tag \"office=administration\". See https://wiki.openstreetmap.org/wiki/Tag:office=administration"
+    },
+    "tag:office=adoption_agency": {
+        "message": "Agència d'adopcions",
+        "description": "Tag \"office=adoption_agency\". See https://wiki.openstreetmap.org/wiki/Tag:office=adoption_agency"
+    },
+    "tag:office=advertising_agency": {
+        "message": "Agència de publicitat",
+        "description": "Tag \"office=advertising_agency\". See https://wiki.openstreetmap.org/wiki/Tag:office=advertising_agency"
+    },
+    "tag:office=architect": {
+        "message": "Arquitecte",
+        "description": "Tag \"office=architect\". See https://wiki.openstreetmap.org/wiki/Tag:office=architect"
+    },
+    "tag:office=association": {
+        "message": "Associació",
+        "description": "Tag \"office=association\". See https://wiki.openstreetmap.org/wiki/Tag:office=association"
+    },
+    "tag:office=camping": {
+        "message": "Càmping",
+        "description": "Tag \"office=camping\". See https://wiki.openstreetmap.org/wiki/Tag:office=camping"
+    },
+    "tag:office=charity": {
+        "message": "Caritat",
+        "description": "Tag \"office=charity\". See https://wiki.openstreetmap.org/wiki/Tag:office=charity"
+    },
+    "tag:office=company": {
+        "message": "Companyia",
+        "description": "Tag \"office=company\". See https://wiki.openstreetmap.org/wiki/Tag:office=company"
+    },
+    "tag:office=cooperative": {
+        "message": "Cooperativa",
+        "description": "Tag \"office=cooperative\". See https://wiki.openstreetmap.org/wiki/Tag:office=cooperative"
+    },
+    "tag:office=coworking": {
+        "message": "Coworking",
+        "description": "Tag \"office=coworking\". See https://wiki.openstreetmap.org/wiki/Tag:office=coworking"
+    },
+    "tag:office=diplomatic": {
+        "message": "Diplomat",
+        "description": "Tag \"office=diplomatic\". See https://wiki.openstreetmap.org/wiki/Tag:office=diplomatic"
+    },
+    "tag:office=educational_institution": {
+        "message": "Institució d'ensenyament",
+        "description": "Tag \"office=educational_institution\". See https://wiki.openstreetmap.org/wiki/Tag:office=educational_institution"
+    },
+    "tag:office=employment_agency": {
+        "message": "Oficina de treball",
+        "description": "Tag \"office=employment_agency\". See https://wiki.openstreetmap.org/wiki/Tag:office=employment_agency"
+    },
+    "tag:office=energy_supplier": {
+        "message": "Proveïdor d'energia",
+        "description": "Tag \"office=energy_supplier\". See https://wiki.openstreetmap.org/wiki/Tag:office=energy_supplier"
+    },
+    "tag:office=engineer": {
+        "message": "Enginyer",
+        "description": "Tag \"office=engineer\". See https://wiki.openstreetmap.org/wiki/Tag:office=engineer"
+    },
+    "tag:office=estate_agent": {
+        "message": "Immobiliària",
+        "description": "Tag \"office=estate_agent\". See https://wiki.openstreetmap.org/wiki/Tag:office=estate_agent"
+    },
+    "tag:office=financial": {
+        "message": "Financer",
+        "description": "Tag \"office=financial\". See https://wiki.openstreetmap.org/wiki/Tag:office=financial"
+    },
+    "tag:office=foundation": {
+        "message": "Fundació",
+        "description": "Tag \"office=foundation\". See https://wiki.openstreetmap.org/wiki/Tag:office=foundation"
+    },
+    "tag:office=government": {
+        "message": "Govern",
+        "description": "Tag \"office=government\". See https://wiki.openstreetmap.org/wiki/Tag:office=government"
+    },
+    "tag:office=insurance": {
+        "message": "Assegurança",
+        "description": "Tag \"office=insurance\". See https://wiki.openstreetmap.org/wiki/Tag:office=insurance"
+    },
+    "tag:office=it": {
+        "message": "Consultoria tecnològica",
+        "description": "Tag \"office=it\". See https://wiki.openstreetmap.org/wiki/Tag:office=it"
+    },
+    "tag:office=lawyer": {
+        "message": "Advocat",
+        "description": "Tag \"office=lawyer\". See https://wiki.openstreetmap.org/wiki/Tag:office=lawyer"
+    },
+    "tag:office=logistics": {
+        "message": "Logística",
+        "description": "Tag \"office=logistics\". See https://wiki.openstreetmap.org/wiki/Tag:office=logistics"
+    },
+    "tag:office=moving_company": {
+        "message": "Companyia de mudances",
+        "description": "Tag \"office=moving_company\". See https://wiki.openstreetmap.org/wiki/Tag:office=moving_company"
+    },
+    "tag:office=newspaper": {
+        "message": "Diari",
+        "description": "Tag \"office=newspaper\". See https://wiki.openstreetmap.org/wiki/Tag:office=newspaper"
+    },
+    "tag:office=ngo": {
+        "message": "ONG",
+        "description": "Tag \"office=ngo\". See https://wiki.openstreetmap.org/wiki/Tag:office=ngo"
+    },
+    "tag:office=notary": {
+        "message": "Notaria",
+        "description": "Tag \"office=notary\". See https://wiki.openstreetmap.org/wiki/Tag:office=notary"
+    },
+    "tag:office=parish": {
+        "message": "Parròquia",
+        "description": "Tag \"office=parish\". See https://wiki.openstreetmap.org/wiki/Tag:office=parish"
+    },
+    "tag:office=political_party": {
+        "message": "Partit polític",
+        "description": "Tag \"office=political_party\". See https://wiki.openstreetmap.org/wiki/Tag:office=political_party"
+    },
+    "tag:office=private_investigator": {
+        "message": "Investigador privat",
+        "description": "Tag \"office=private_investigator\". See https://wiki.openstreetmap.org/wiki/Tag:office=private_investigator"
+    },
+    "tag:office=property_management": {
+        "message": "Gestoria",
+        "description": "Tag \"office=property_management\". See https://wiki.openstreetmap.org/wiki/Tag:office=property_management"
+    },
+    "tag:office=quango": {
+        "message": "ORG",
+        "description": "Tag \"office=quango\". See https://wiki.openstreetmap.org/wiki/Tag:office=quango"
+    },
+    "tag:office=research": {
+        "message": "Recerca",
+        "description": "Tag \"office=research\". See https://wiki.openstreetmap.org/wiki/Tag:office=research"
+    },
+    "tag:office=tax": {
+        "message": "Impostos",
+        "description": "Tag \"office=tax\". See https://wiki.openstreetmap.org/wiki/Tag:office=tax"
+    },
+    "tag:office=tax_advisor": {
+        "message": "Gestor d'impostos",
+        "description": "Tag \"office=tax_advisor\". See https://wiki.openstreetmap.org/wiki/Tag:office=tax_advisor"
+    },
+    "tag:office=telecommunication": {
+        "message": "Telecomunicacions",
+        "description": "Tag \"office=telecommunication\". See https://wiki.openstreetmap.org/wiki/Tag:office=telecommunication"
+    },
+    "tag:office=therapist": {
+        "message": "Terapeuta",
+        "description": "Tag \"office=therapist\". See https://wiki.openstreetmap.org/wiki/Tag:office=therapist"
+    },
+    "tag:office=tourism": {
+        "message": "Oficina de turisme",
+        "description": "Tag \"office=tourism\". See https://wiki.openstreetmap.org/wiki/Tag:office=tourism"
+    },
+    "tag:office=tourist_accommodation": {
+        "message": "Oficina d'allotjament turístic",
+        "description": "Tag \"office=tourist_accommodation\". See https://wiki.openstreetmap.org/wiki/Tag:office=tourist_accommodation"
+    },
+    "tag:office=travel_agent": {
+        "message": "Agència de viatges",
+        "description": "Tag \"office=travel_agent\". See https://wiki.openstreetmap.org/wiki/Tag:office=travel_agent"
+    },
+    "tag:office=vacant": {
+        "message": "Oficina buida",
+        "description": "Tag \"office=vacant\". See https://wiki.openstreetmap.org/wiki/Tag:office=vacant"
+    },
+    "tag:office=visa": {
+        "message": "Oficina d'immigració",
+        "description": "Tag \"office=visa\". See https://wiki.openstreetmap.org/wiki/Tag:office=visa"
+    },
+    "tag:office=water_utility": {
+        "message": "Companyia d'aigües",
+        "description": "Tag \"office=water_utility\". See https://wiki.openstreetmap.org/wiki/Tag:office=water_utility"
+    },
+    "tag:official_name": {
+        "message": "Nom oficial",
+        "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
+    },
+    "tag:old_name": {
+        "message": "Nom antic",
+        "description": "Key \"old_name\". See https://wiki.openstreetmap.org/wiki/Key:old_name"
+    },
+    "tag:oneway": {
+        "message": "Sentit únic",
+        "description": "Key \"oneway\". See https://wiki.openstreetmap.org/wiki/Key:oneway"
+    },
+    "tag:opening_date": {
+        "message": "Data prevista d'inauguració",
+        "description": "Key \"opening_date\". See https://wiki.openstreetmap.org/wiki/Key:opening_date"
+    },
+    "tag:opening_hours": {
+        "message": "Horari",
+        "description": "Key \"opening_hours\". See https://wiki.openstreetmap.org/wiki/Key:opening_hours"
+    },
+    "tag:operator": {
+        "message": "Operador",
+        "description": "Key \"operator\". See https://wiki.openstreetmap.org/wiki/Key:operator"
+    },
+    "tag:parking:lane": {
+        "message": "Carril d'aparcament",
+        "description": "Key \"parking:lane\". See https://wiki.openstreetmap.org/wiki/Key:parking:lane"
+    },
+    "tag:parking:lane=diagonal": {
+        "message": "aparcament en diagonal",
+        "description": "Tag \"parking:lane=diagonal\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=diagonal"
+    },
+    "tag:parking:lane=parallel": {
+        "message": "aparcament en línia",
+        "description": "Tag \"parking:lane=parallel\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=parallel"
+    },
+    "tag:parking:lane=perpendicular": {
+        "message": "aparcament en bateria",
+        "description": "Tag \"parking:lane=perpendicular\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=perpendicular"
+    },
+    "tag:payment": {
+        "message": "pagament",
+        "description": "Key \"payment\". See https://wiki.openstreetmap.org/wiki/Key:payment"
+    },
+    "tag:payment:american_express": {
+        "message": "Pagament amb American Express",
+        "description": "Key \"payment:american_express\". See https://wiki.openstreetmap.org/wiki/Key:payment:american_express"
+    },
+    "tag:payment:bitcoin": {
+        "message": "Pagament amb BitCoin",
+        "description": "Key \"payment:bitcoin\". See https://wiki.openstreetmap.org/wiki/Key:payment:bitcoin"
+    },
+    "tag:payment:cash": {
+        "message": "Pagament en efectiu",
+        "description": "Key \"payment:cash\". See https://wiki.openstreetmap.org/wiki/Key:payment:cash"
+    },
+    "tag:payment:coins": {
+        "message": "Pagament amb monedes",
+        "description": "Key \"payment:coins\". See https://wiki.openstreetmap.org/wiki/Key:payment:coins"
+    },
+    "tag:payment:credit_cards": {
+        "message": "Pagament amb targeta",
+        "description": "Key \"payment:credit_cards\". See https://wiki.openstreetmap.org/wiki/Key:payment:credit_cards"
+    },
+    "tag:payment:cryptocurrencies": {
+        "message": "Pagament amb criptomoneda",
+        "description": "Key \"payment:cryptocurrencies\". See https://wiki.openstreetmap.org/wiki/Key:payment:cryptocurrencies"
+    },
+    "tag:payment:debit_cards": {
+        "message": "Pagament amb targeta",
+        "description": "Key \"payment:debit_cards\". See https://wiki.openstreetmap.org/wiki/Key:payment:debit_cards"
+    },
+    "tag:payment:mastercard": {
+        "message": "Pagament amb MasterCard",
+        "description": "Key \"payment:mastercard\". See https://wiki.openstreetmap.org/wiki/Key:payment:mastercard"
+    },
+    "tag:payment:visa": {
+        "message": "Pagament amb Visa",
+        "description": "Key \"payment:visa\". See https://wiki.openstreetmap.org/wiki/Key:payment:visa"
+    },
+    "tag:phone": {
+        "message": "Número de telèfon",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
+    },
+    "tag:place": {
+        "message": "Lloc",
+        "description": "Key \"place\". See https://wiki.openstreetmap.org/wiki/Key:place"
+    },
+    "tag:place=city": {
+        "message": "Ciutat",
+        "description": "Tag \"place=city\". See https://wiki.openstreetmap.org/wiki/Tag:place=city"
+    },
+    "tag:place=city population<200000": {
+        "message": "Ciutat petita",
+        "description": "Combined tag \"place=city\" and key \"population\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:place=city and https://wiki.openstreetmap.org/wiki/Key:population"
+    },
+    "tag:place=continent": {
+        "message": "Continent",
+        "description": "Tag \"place=continent\". See https://wiki.openstreetmap.org/wiki/Tag:place=continent"
+    },
+    "tag:place=country": {
+        "message": "País",
+        "description": "Tag \"place=country\". See https://wiki.openstreetmap.org/wiki/Tag:place=country"
+    },
+    "tag:place=county": {
+        "message": "Comarca",
+        "description": "Tag \"place=county\". See https://wiki.openstreetmap.org/wiki/Tag:place=county"
+    },
+    "tag:place=farm": {
+        "message": "Granja",
+        "description": "Tag \"place=farm\". See https://wiki.openstreetmap.org/wiki/Tag:place=farm"
+    },
+    "tag:place=island": {
+        "message": "Illa",
+        "description": "Tag \"place=island\". See https://wiki.openstreetmap.org/wiki/Tag:place=island"
+    },
+    "tag:place=islet": {
+        "message": "Illot",
+        "description": "Tag \"place=islet\". See https://wiki.openstreetmap.org/wiki/Tag:place=islet"
+    },
+    "tag:place=locality": {
+        "message": "Localitat",
+        "description": "Tag \"place=locality\". See https://wiki.openstreetmap.org/wiki/Tag:place=locality"
+    },
+    "tag:place=neighbourhood": {
+        "message": "Barri",
+        "description": "Tag \"place=neighbourhood\". See https://wiki.openstreetmap.org/wiki/Tag:place=neighbourhood"
+    },
+    "tag:place=ocean": {
+        "message": "Oceà",
+        "description": "Tag \"place=ocean\". See https://wiki.openstreetmap.org/wiki/Tag:place=ocean"
+    },
+    "tag:place=quarter": {
+        "message": "Districte",
+        "description": "Tag \"place=quarter\". See https://wiki.openstreetmap.org/wiki/Tag:place=quarter"
+    },
+    "tag:place=region": {
+        "message": "Regió",
+        "description": "Tag \"place=region\". See https://wiki.openstreetmap.org/wiki/Tag:place=region"
+    },
+    "tag:place=sea": {
+        "message": "Mar",
+        "description": "Tag \"place=sea\". See https://wiki.openstreetmap.org/wiki/Tag:place=sea"
+    },
+    "tag:place=state": {
+        "message": "Estat",
+        "description": "Tag \"place=state\". See https://wiki.openstreetmap.org/wiki/Tag:place=state"
+    },
+    "tag:place=town": {
+        "message": "Poble",
+        "description": "Tag \"place=town\". See https://wiki.openstreetmap.org/wiki/Tag:place=town"
+    },
+    "tag:place=town population>=30000": {
+        "message": "Poble gran",
+        "description": "Combined tag \"place=town\" and key \"population\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:place=town and https://wiki.openstreetmap.org/wiki/Key:population"
+    },
+    "tag:place=village": {
+        "message": "Vila",
+        "description": "Tag \"place=village\". See https://wiki.openstreetmap.org/wiki/Tag:place=village"
+    },
+    "tag:population": {
+        "message": "Població",
+        "description": "Key \"population\". See https://wiki.openstreetmap.org/wiki/Key:population"
+    },
+    "tag:postal_code": {
+        "message": "Codi Postal",
+        "description": "Key \"postal_code\". See https://wiki.openstreetmap.org/wiki/Key:postal_code"
+    },
+    "tag:power": {
+        "message": "Energia",
+        "description": "Key \"power\". See https://wiki.openstreetmap.org/wiki/Key:power"
+    },
+    "tag:power=cable": {
+        "message": "Cable",
+        "description": "Tag \"power=cable\". See https://wiki.openstreetmap.org/wiki/Tag:power=cable"
+    },
+    "tag:power=generator": {
+        "message": "Generador",
+        "description": "Tag \"power=generator\". See https://wiki.openstreetmap.org/wiki/Tag:power=generator"
+    },
+    "tag:religion=jewish": {
+        "message": "judaisme",
+        "description": "Tag \"religion=jewish\". See https://wiki.openstreetmap.org/wiki/Tag:religion=jewish"
+    },
+    "tag:religion=muslim": {
+        "message": "islam",
+        "description": "Tag \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
+    },
+    "tag:religion=scientologist": {
+        "message": "Cienciologia",
+        "description": "Tag \"religion=scientologist\". See https://wiki.openstreetmap.org/wiki/Tag:religion=scientologist"
+    },
+    "tag:religion=sikh": {
+        "message": "sikh",
+        "description": "Tag \"religion=sikh\". See https://wiki.openstreetmap.org/wiki/Tag:religion=sikh"
+    },
+    "tag:religion=taoist": {
+        "message": "taoisme",
+        "description": "Tag \"religion=taoist\". See https://wiki.openstreetmap.org/wiki/Tag:religion=taoist"
+    },
+    "tag:religion=zoroastrian": {
+        "message": "zoroastrisme",
+        "description": "Tag \"religion=zoroastrian\". See https://wiki.openstreetmap.org/wiki/Tag:religion=zoroastrian"
+    },
+    "tag:residential=apartments": {
+        "message": "Bloc d'habitatges",
+        "description": "Tag \"residential=apartments\". See https://wiki.openstreetmap.org/wiki/Tag:residential=apartments"
+    },
+    "tag:residential=irregular_settlement": {
+        "message": "Assentament irregular",
+        "description": "Tag \"residential=irregular_settlement\". See https://wiki.openstreetmap.org/wiki/Tag:residential=irregular_settlement"
+    },
+    "tag:residential=single_family": {
+        "message": "Habitatge unifamiliar",
+        "description": "Tag \"residential=single_family\". See https://wiki.openstreetmap.org/wiki/Tag:residential=single_family"
     }
 }
