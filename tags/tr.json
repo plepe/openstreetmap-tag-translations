@@ -2331,5 +2331,45 @@
     "tag:place=suburb": {
         "message": "Banliyö",
         "description": "Tag \"place=suburb\". See https://wiki.openstreetmap.org/wiki/Tag:place=suburb"
+    },
+    "tag:cuisine=italian": {
+        "message": "İtalyan",
+        "description": "Tag \"cuisine=italian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=kebab": {
+        "message": "Kebab",
+        "description": "Tag \"cuisine=kebab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=korean": {
+        "message": "Kore",
+        "description": "Tag \"cuisine=korean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=lebanese": {
+        "message": "Lübnan",
+        "description": "Tag \"cuisine=lebanese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=local": {
+        "message": "yerel",
+        "description": "Tag \"cuisine=local\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=mexican": {
+        "message": "meksika",
+        "description": "Tag \"cuisine=mexican\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pizza": {
+        "message": "pizza",
+        "description": "Tag \"cuisine=pizza\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=portuguese": {
+        "message": "portekiz",
+        "description": "Tag \"cuisine=portuguese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=regional": {
+        "message": "bölgesel",
+        "description": "Tag \"cuisine=regional\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=turkish": {
+        "message": "türk",
+        "description": "Tag \"cuisine=turkish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     }
 }
