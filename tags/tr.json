@@ -2371,5 +2371,505 @@
     "tag:cuisine=turkish": {
         "message": "türk",
         "description": "Tag \"cuisine=turkish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:clothes": {
+        "message": "Giysiler",
+        "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=babies": {
+        "message": "Bebek kıyafetleri",
+        "description": "Tag \"clothes=babies\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=lingerie": {
+        "message": "İç çamaşırı",
+        "description": "Tag \"clothes=lingerie\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=men": {
+        "message": "Erkek giyim",
+        "description": "Tag \"clothes=men\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=oversize": {
+        "message": "Büyük beden giysiler",
+        "description": "Tag \"clothes=oversize\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=schoolwear": {
+        "message": "Okul kıyafetleri",
+        "description": "Tag \"clothes=schoolwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=sports": {
+        "message": "Spor Giyim",
+        "description": "Tag \"clothes=sports\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=traditional": {
+        "message": "Geleneksel kıyafetler",
+        "description": "Tag \"clothes=traditional\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=underwear": {
+        "message": "İç çamaşırı",
+        "description": "Tag \"clothes=underwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=unisexs": {
+        "message": "Unisex giyim",
+        "description": "Tag \"clothes=unisexs\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=wedding": {
+        "message": "Düğün kıyafetleri",
+        "description": "Tag \"clothes=wedding\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=women": {
+        "message": "Kadın giyim",
+        "description": "Tag \"clothes=women\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=workwear": {
+        "message": "İş kıyafetleri",
+        "description": "Tag \"clothes=workwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:community_centre=club_home": {
+        "message": "Yerel dernek/kulüp",
+        "description": "Tag \"community_centre=club_home\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=club_home"
+    },
+    "tag:community_centre=cultural_centre": {
+        "message": "Kültür merkezi",
+        "description": "Tag \"community_centre=cultural_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=cultural_centre"
+    },
+    "tag:community_centre=family_centre": {
+        "message": "Aile merkezi",
+        "description": "Tag \"community_centre=family_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=family_centre"
+    },
+    "tag:community_centre=language_centre": {
+        "message": "Dil merkezi",
+        "description": "Tag \"community_centre=language_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=language_centre"
+    },
+    "tag:craft=agricultural_engines": {
+        "message": "Tarım makineleri üreticisi",
+        "description": "Tag \"craft=agricultural_engines\". See https://wiki.openstreetmap.org/wiki/Tag:craft=agricultural_engines"
+    },
+    "tag:craft=bakery": {
+        "message": "Fırın",
+        "description": "Tag \"craft=bakery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=bakery"
+    },
+    "tag:craft=beekeeper": {
+        "message": "Arıcı",
+        "description": "Tag \"craft=beekeeper\". See https://wiki.openstreetmap.org/wiki/Tag:craft=beekeeper"
+    },
+    "tag:craft=car_painter": {
+        "message": "Araç boyacısı",
+        "description": "Tag \"craft=car_painter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=car_painter"
+    },
+    "tag:craft=cleaning": {
+        "message": "Temizlik",
+        "description": "Tag \"craft=cleaning\". See https://wiki.openstreetmap.org/wiki/Tag:craft=cleaning"
+    },
+    "tag:craft=clockmaker": {
+        "message": "Saatçi",
+        "description": "Tag \"craft=clockmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=clockmaker"
+    },
+    "tag:craft=confectionery": {
+        "message": "şekercilik",
+        "description": "Tag \"craft=confectionery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=confectionery"
+    },
+    "tag:craft=dental_technician": {
+        "message": "Diş teknisyeni",
+        "description": "Tag \"craft=dental_technician\". See https://wiki.openstreetmap.org/wiki/Tag:craft=dental_technician"
+    },
+    "tag:craft=dressmaker": {
+        "message": "Dikiş atölyesi",
+        "description": "Tag \"craft=dressmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=dressmaker"
+    },
+    "tag:craft=electrician": {
+        "message": "Elektrikçi",
+        "description": "Tag \"craft=electrician\". See https://wiki.openstreetmap.org/wiki/Tag:craft=electrician"
+    },
+    "tag:craft=electronics_repair": {
+        "message": "Elektronik onarımları",
+        "description": "Tag \"craft=electronics_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=electronics_repair"
+    },
+    "tag:craft=engraver": {
+        "message": "Gravürcü",
+        "description": "Tag \"craft=engraver\". See https://wiki.openstreetmap.org/wiki/Tag:craft=engraver"
+    },
+    "tag:craft=furniture": {
+        "message": "mobilya",
+        "description": "Tag \"craft=furniture\". See https://wiki.openstreetmap.org/wiki/Tag:craft=furniture"
+    },
+    "tag:craft=graphic_design": {
+        "message": "Grafik tasarım",
+        "description": "Tag \"craft=graphic_design\". See https://wiki.openstreetmap.org/wiki/Tag:craft=graphic_design"
+    },
+    "tag:craft=heating_engineer": {
+        "message": "Isıtma mühendisi",
+        "description": "Tag \"craft=heating_engineer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=heating_engineer"
+    },
+    "tag:craft=laboratory": {
+        "message": "Laboratuvar",
+        "description": "Tag \"craft=laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:craft=laboratory"
+    },
+    "tag:craft=metal_works": {
+        "message": "Metal İşçisi",
+        "description": "Tag \"craft=metal_works\". See https://wiki.openstreetmap.org/wiki/Tag:craft=metal_works"
+    },
+    "tag:craft=mint": {
+        "message": "Para atölyesi",
+        "description": "Tag \"craft=mint\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mint"
+    },
+    "tag:craft=mobile_phone": {
+        "message": "Cep telefonu tamircisi",
+        "description": "Tag \"craft=mobile_phone\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mobile_phone"
+    },
+    "tag:craft=musical_instrument": {
+        "message": "Müzik aleti yapımcısı",
+        "description": "Tag \"craft=musical_instrument\". See https://wiki.openstreetmap.org/wiki/Tag:craft=musical_instrument"
+    },
+    "tag:craft=painter": {
+        "message": "Ev boyacısı",
+        "description": "Tag \"craft=painter\". See https://wiki.openstreetmap.org/wiki/Tag:craft=painter"
+    },
+    "tag:craft=photo_studio": {
+        "message": "Fotoğraf stüdyosu",
+        "description": "Tag \"craft=photo_studio\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photo_studio"
+    },
+    "tag:craft=photographer": {
+        "message": "Fotoğrafçı",
+        "description": "Tag \"craft=photographer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photographer"
+    },
+    "tag:craft=photographic_laboratory": {
+        "message": "Fotoğraf Laboratuvarı",
+        "description": "Tag \"craft=photographic_laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photographic_laboratory"
+    },
+    "tag:craft=shoe_repair": {
+        "message": "Ayakkabı tamircisi",
+        "description": "Tag \"craft=shoe_repair\". See https://wiki.openstreetmap.org/wiki/Tag:craft=shoe_repair"
+    },
+    "tag:craft=signmaker": {
+        "message": "Tabela üreticisi",
+        "description": "Tag \"craft=signmaker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=signmaker"
+    },
+    "tag:craft=tailor": {
+        "message": "Terzi",
+        "description": "Tag \"craft=tailor\". See https://wiki.openstreetmap.org/wiki/Tag:craft=tailor"
+    },
+    "tag:crossing=traffic_signals": {
+        "message": "Trafik ışıkları",
+        "description": "Tag \"crossing=traffic_signals\". See https://wiki.openstreetmap.org/wiki/Tag:crossing=traffic_signals"
+    },
+    "tag:cuisine=balkan": {
+        "message": "Balkan",
+        "description": "Tag \"cuisine=balkan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=fish": {
+        "message": "Balık",
+        "description": "Tag \"cuisine=fish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=ice_cream": {
+        "message": "Dondurma",
+        "description": "Tag \"cuisine=ice_cream\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=international": {
+        "message": "Uluslararası",
+        "description": "Tag \"cuisine=international\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=vegetarian": {
+        "message": "vejetaryen",
+        "description": "Tag \"cuisine=vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cycleway": {
+        "message": "Bisiklet yolu",
+        "description": "Key \"cycleway\". See https://wiki.openstreetmap.org/wiki/Key:cycleway"
+    },
+    "tag:diet:halal": {
+        "message": "helal",
+        "description": "Key \"diet:halal\". See https://wiki.openstreetmap.org/wiki/Key:diet:halal"
+    },
+    "tag:direction=E": {
+        "message": "Doğu",
+        "description": "Tag \"direction=E\". See https://wiki.openstreetmap.org/wiki/Tag:direction=E"
+    },
+    "tag:direction=ENE": {
+        "message": "Doğu-kuzeydoğu",
+        "description": "Tag \"direction=NEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NEE"
+    },
+    "tag:direction=ESE": {
+        "message": "Doğu-güneydoğu",
+        "description": "Tag \"direction=SEE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SEE"
+    },
+    "tag:direction=N": {
+        "message": "Kuzey",
+        "description": "Tag \"direction=N\". See https://wiki.openstreetmap.org/wiki/Tag:direction=N"
+    },
+    "tag:direction=NNE": {
+        "message": "Kuzey-kuzeydoğu",
+        "description": "Tag \"direction=NNE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNE"
+    },
+    "tag:direction=NNW": {
+        "message": "Kuzey-kuzeybatı",
+        "description": "Tag \"direction=NNW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NNW"
+    },
+    "tag:direction=NW": {
+        "message": "Kuzeybatı",
+        "description": "Tag \"direction=NW\". See https://wiki.openstreetmap.org/wiki/Tag:direction=NW"
+    },
+    "tag:direction=S": {
+        "message": "Güney",
+        "description": "Tag \"direction=S\". See https://wiki.openstreetmap.org/wiki/Tag:direction=S"
+    },
+    "tag:direction=SE": {
+        "message": "Güneydoğu",
+        "description": "Tag \"direction=SE\". See https://wiki.openstreetmap.org/wiki/Tag:direction=SE"
+    },
+    "tag:footway=access_aisle": {
+        "message": "Erişim koridoru",
+        "description": "Tag \"footway=access_aisle\". See https://wiki.openstreetmap.org/wiki/Tag:footway=access_aisle"
+    },
+    "tag:highway=bridleway": {
+        "message": "Binicilik parkuru",
+        "description": "Tag \"highway=bridleway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=bridleway"
+    },
+    "tag:highway=motorway_link": {
+        "message": "Otoyol Bağlantısı",
+        "description": "Tag \"highway=motorway_link\". See https://wiki.openstreetmap.org/wiki/Tag:highway=motorway_link"
+    },
+    "tag:highway=trunk": {
+        "message": "Anayol",
+        "description": "Tag \"highway=trunk\". See https://wiki.openstreetmap.org/wiki/Tag:highway=trunk"
+    },
+    "tag:highway=trunk_link": {
+        "message": "Ana Yol Bağlantısı",
+        "description": "Tag \"highway=trunk_link\". See https://wiki.openstreetmap.org/wiki/Tag:highway=trunk_link"
+    },
+    "tag:historic=archaeological_site": {
+        "message": "Arkeolojik alan",
+        "description": "Tag \"historic=archaeological_site\". See https://wiki.openstreetmap.org/wiki/Tag:historic=archaeological_site"
+    },
+    "tag:historic=battlefield": {
+        "message": "Savaş Alanı",
+        "description": "Tag \"historic=battlefield\". See https://wiki.openstreetmap.org/wiki/Tag:historic=battlefield"
+    },
+    "tag:historic=bridge": {
+        "message": "Tarihi köprü",
+        "description": "Tag \"historic=bridge\". See https://wiki.openstreetmap.org/wiki/Tag:historic=bridge"
+    },
+    "tag:historic=citywalls": {
+        "message": "Surlar",
+        "description": "Tag \"historic=citywalls\". See https://wiki.openstreetmap.org/wiki/Tag:historic=citywalls"
+    },
+    "tag:historic=memorial": {
+        "message": "Anıt",
+        "description": "Tag \"historic=memorial\". See https://wiki.openstreetmap.org/wiki/Tag:historic=memorial"
+    },
+    "tag:historic=ship": {
+        "message": "Tarihi tekne",
+        "description": "Tag \"historic=ship\". See https://wiki.openstreetmap.org/wiki/Tag:historic=ship"
+    },
+    "tag:information=board": {
+        "message": "Bilgi paneli",
+        "description": "Tag \"information=board\". See https://wiki.openstreetmap.org/wiki/Tag:information=board"
+    },
+    "tag:leisure=park": {
+        "message": "Park",
+        "description": "Tag \"leisure=park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=park"
+    },
+    "tag:leisure=pitch sport=basketball": {
+        "message": "Basketbol Sahası",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=basketball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=basketball"
+    },
+    "tag:leisure=pitch sport=beachvolleyball": {
+        "message": "Plaj Voleybolu Sahası",
+        "description": "Combined tag \"leisure=pitch\" and \"sport=beachvolleyball\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch and https://wiki.openstreetmap.org/wiki/Tag:sport=beachvolleyball"
+    },
+    "tag:leisure=playground": {
+        "message": "Oyun alanı",
+        "description": "Tag \"leisure=playground\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=playground"
+    },
+    "tag:memorial=war_memorial": {
+        "message": "Savaş Anıtı",
+        "description": "Tag \"memorial=war_memorial\" or \"memorial:type=war_memorial\" or \"monument=war_memorial\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=war_memorial"
+    },
+    "tag:military=danger_area": {
+        "message": "Tehlikeli alan",
+        "description": "Tag \"military=danger_area\". See https://wiki.openstreetmap.org/wiki/Tag:military=danger_area"
+    },
+    "tag:military=nuclear_explosion_site": {
+        "message": "Nükleer patlama alanı",
+        "description": "Tag \"military=nuclear_explosion_site\". See https://wiki.openstreetmap.org/wiki/Tag:military=nuclear_explosion_site"
+    },
+    "tag:military=training_area": {
+        "message": "Askeri eğitim kampı/Test alanı",
+        "description": "Tag \"military=training_area\". See https://wiki.openstreetmap.org/wiki/Tag:military=training_area"
+    },
+    "tag:minspeed": {
+        "message": "Asgari hız",
+        "description": "Key \"minspeed\". See https://wiki.openstreetmap.org/wiki/Key:minspeed"
+    },
+    "tag:office": {
+        "message": "Ofis",
+        "description": "Key \"office\". See https://wiki.openstreetmap.org/wiki/Key:office"
+    },
+    "tag:office=accountant": {
+        "message": "Muhasebeci",
+        "description": "Tag \"office=accountant\". See https://wiki.openstreetmap.org/wiki/Tag:office=accountant"
+    },
+    "tag:office=advertising_agency": {
+        "message": "Reklam ajansı",
+        "description": "Tag \"office=advertising_agency\". See https://wiki.openstreetmap.org/wiki/Tag:office=advertising_agency"
+    },
+    "tag:office=association": {
+        "message": "Dernek",
+        "description": "Tag \"office=association\". See https://wiki.openstreetmap.org/wiki/Tag:office=association"
+    },
+    "tag:office=company": {
+        "message": "Şirket",
+        "description": "Tag \"office=company\". See https://wiki.openstreetmap.org/wiki/Tag:office=company"
+    },
+    "tag:office=diplomatic": {
+        "message": "Elçilik/Konsolosluk",
+        "description": "Tag \"office=diplomatic\". See https://wiki.openstreetmap.org/wiki/Tag:office=diplomatic"
+    },
+    "tag:office=educational_institution": {
+        "message": "Eğitim kurumu",
+        "description": "Tag \"office=educational_institution\". See https://wiki.openstreetmap.org/wiki/Tag:office=educational_institution"
+    },
+    "tag:office=estate_agent": {
+        "message": "Emlakçı",
+        "description": "Tag \"office=estate_agent\". See https://wiki.openstreetmap.org/wiki/Tag:office=estate_agent"
+    },
+    "tag:office=government": {
+        "message": "Devlet yönetimi",
+        "description": "Tag \"office=government\". See https://wiki.openstreetmap.org/wiki/Tag:office=government"
+    },
+    "tag:office=logistics": {
+        "message": "Lojistik/taşımacılık şirketi",
+        "description": "Tag \"office=logistics\". See https://wiki.openstreetmap.org/wiki/Tag:office=logistics"
+    },
+    "tag:office=moving_company": {
+        "message": "Nakliye şirketi",
+        "description": "Tag \"office=moving_company\". See https://wiki.openstreetmap.org/wiki/Tag:office=moving_company"
+    },
+    "tag:office=religion": {
+        "message": "Dini kuruluş",
+        "description": "Tag \"office=religion\". See https://wiki.openstreetmap.org/wiki/Tag:office=religion"
+    },
+    "tag:office=research": {
+        "message": "Araştırma ve geliştirme",
+        "description": "Tag \"office=research\". See https://wiki.openstreetmap.org/wiki/Tag:office=research"
+    },
+    "tag:office=tax": {
+        "message": "Vergi",
+        "description": "Tag \"office=tax\". See https://wiki.openstreetmap.org/wiki/Tag:office=tax"
+    },
+    "tag:opening_date": {
+        "message": "Planlanan açılış tarihi",
+        "description": "Key \"opening_date\". See https://wiki.openstreetmap.org/wiki/Key:opening_date"
+    },
+    "tag:opening_hours": {
+        "message": "Çalışma saatleri",
+        "description": "Key \"opening_hours\". See https://wiki.openstreetmap.org/wiki/Key:opening_hours"
+    },
+    "tag:shop": {
+        "message": "Mağaza",
+        "description": "Key \"shop\". See https://wiki.openstreetmap.org/wiki/Key:shop"
+    },
+    "tag:shop=alcohol": {
+        "message": "Alkol satışı",
+        "description": "Tag \"shop=alcohol\". See https://wiki.openstreetmap.org/wiki/Tag:shop=alcohol"
+    },
+    "tag:shop=appliance": {
+        "message": "Beyaz eşya",
+        "description": "Tag \"shop=appliance\". See https://wiki.openstreetmap.org/wiki/Tag:shop=appliance"
+    },
+    "tag:shop=art": {
+        "message": "Sanat galerisi",
+        "description": "Tag \"shop=art\". See https://wiki.openstreetmap.org/wiki/Tag:shop=art"
+    },
+    "tag:shop=bakery": {
+        "message": "Fırın",
+        "description": "Tag \"shop=bakery\". See https://wiki.openstreetmap.org/wiki/Tag:shop=bakery"
+    },
+    "tag:shop=beauty": {
+        "message": "Güzellik Salonu",
+        "description": "Tag \"shop=beauty\". See https://wiki.openstreetmap.org/wiki/Tag:shop=beauty"
+    },
+    "tag:shop=bed": {
+        "message": "Yatak Mağazası",
+        "description": "Tag \"shop=bed\". See https://wiki.openstreetmap.org/wiki/Tag:shop=bed"
+    },
+    "tag:shop=bicycle": {
+        "message": "Bisiklet Dükkanı",
+        "description": "Tag \"shop=bicycle\". See https://wiki.openstreetmap.org/wiki/Tag:shop=bicycle"
+    },
+    "tag:shop=books": {
+        "message": "Kitapçı",
+        "description": "Tag \"shop=books\". See https://wiki.openstreetmap.org/wiki/Tag:shop=books"
+    },
+    "tag:shop=butcher": {
+        "message": "Kasap",
+        "description": "Tag \"shop=butcher\". See https://wiki.openstreetmap.org/wiki/Tag:shop=butcher"
+    },
+    "tag:shop=car_parts": {
+        "message": "Araba yedek parçaları",
+        "description": "Tag \"shop=car_parts\". See https://wiki.openstreetmap.org/wiki/Tag:shop=car_parts"
+    },
+    "tag:shop=chocolate": {
+        "message": "Çikolatacı",
+        "description": "Tag \"shop=chocolate\". See https://wiki.openstreetmap.org/wiki/Tag:shop=chocolate"
+    },
+    "tag:shop=clothes": {
+        "message": "Giyim mağazası",
+        "description": "Tag \"shop=clothes\". See https://wiki.openstreetmap.org/wiki/Tag:shop=clothes"
+    },
+    "tag:shop=convenience": {
+        "message": "Bakkal",
+        "description": "Tag \"shop=convenience\". See https://wiki.openstreetmap.org/wiki/Tag:shop=convenience"
+    },
+    "tag:shop=dairy": {
+        "message": "Süt ürünleri satışı",
+        "description": "Tag \"shop=dairy\". See https://wiki.openstreetmap.org/wiki/Tag:shop=dairy"
+    },
+    "tag:shop=deli": {
+        "message": "Şarküteri",
+        "description": "Tag \"shop=deli\". See https://wiki.openstreetmap.org/wiki/Tag:shop=deli"
+    },
+    "tag:shop=doityourself": {
+        "message": "Kendin Yap Mağazası",
+        "description": "Tag \"shop=doityourself\". See https://wiki.openstreetmap.org/wiki/Tag:shop=doityourself"
+    },
+    "tag:shop=dry_cleaning": {
+        "message": "Kuru Temizleme",
+        "description": "Tag \"shop=dry_cleaning\". See https://wiki.openstreetmap.org/wiki/Tag:shop=dry_cleaning"
+    },
+    "tag:shop=electrical": {
+        "message": "Elektrik malzemeleri",
+        "description": "Tag \"shop=electrical\". See https://wiki.openstreetmap.org/wiki/Tag:shop=electrical"
+    },
+    "tag:shop=estate_agent": {
+        "message": "Emlakçı",
+        "description": "Tag \"shop=estate_agent\". See https://wiki.openstreetmap.org/wiki/Tag:shop=estate_agent"
+    },
+    "tag:shop=fish": {
+        "message": "Balıkçı dükkanı",
+        "description": "Tag \"shop=fish\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fish"
+    },
+    "tag:shop=frozen_food": {
+        "message": "Dondurulmuş gıda satışı",
+        "description": "Tag \"shop=frozen_food\". See https://wiki.openstreetmap.org/wiki/Tag:shop=frozen_food"
+    },
+    "tag:shop=furniture": {
+        "message": "Mobilya mağazası",
+        "description": "Tag \"shop=furniture\". See https://wiki.openstreetmap.org/wiki/Tag:shop=furniture"
+    },
+    "tag:shop=optician": {
+        "message": "Gözlükçü",
+        "description": "Tag \"shop=optician\". See https://wiki.openstreetmap.org/wiki/Tag:shop=optician"
+    },
+    "tag:shop=tailor": {
+        "message": "Terzi",
+        "description": "Tag \"shop=tailor\". See https://wiki.openstreetmap.org/wiki/Tag:shop=tailor"
+    },
+    "tag:sport=volleyball": {
+        "message": "Voleybol",
+        "description": "Tag \"sport=volleyball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=volleyball"
+    },
+    "tag:vehicle": {
+        "message": "Araç erişim izni",
+        "description": "Key \"vehicle\". See https://wiki.openstreetmap.org/wiki/Key:vehicle"
     }
 }
