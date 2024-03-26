@@ -1965,7 +1965,7 @@
         "description": "Key \"aerialway\". See https://wiki.openstreetmap.org/wiki/Key:aerialway"
     },
     "tag:aeroway": {
-        "message": "Havacılık",
+        "message": "Hava yolu",
         "description": "Key \"aeroway\". See https://wiki.openstreetmap.org/wiki/Key:aeroway"
     },
     "tag:aeroway=aerodrome": {
@@ -1973,7 +1973,7 @@
         "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome"
     },
     "tag:aeroway=airstrip": {
-        "message": "Heliport",
+        "message": "Uçak pisti",
         "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
     },
     "tag:aeroway=heliport": {
@@ -2871,5 +2871,25 @@
     "tag:vehicle": {
         "message": "Araç erişim izni",
         "description": "Key \"vehicle\". See https://wiki.openstreetmap.org/wiki/Key:vehicle"
+    },
+    "tag:abandoned": {
+        "message": "Terk edilmiş",
+        "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
+    },
+    "tag:abutters": {
+        "message": "Bitişik mülk",
+        "description": "Key \"abutters\". See https://wiki.openstreetmap.org/wiki/Key:abutters"
+    },
+    "tag:access=designated": {
+        "message": "Özel Alan",
+        "description": "Tag \"access=designated\". See https://wiki.openstreetmap.org/wiki/Tag:access=designated"
+    },
+    "tag:access=discouraged": {
+        "message": "Yasaklanmış",
+        "description": "Tag \"access=discouraged\". See https://wiki.openstreetmap.org/wiki/Tag:access=discouraged"
+    },
+    "tag:xmas:feature=market": {
+        "message": "Noel marketi",
+        "description": "Tag \"xmas:feature=market\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=market"
     }
 }
