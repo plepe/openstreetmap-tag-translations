@@ -525,7 +525,7 @@
         "description": "Tag \"amenity=waste_basket\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_basket"
     },
     "tag:amenity=waste_disposal": {
-        "message": "Wysypisko śmieci",
+        "message": "Pojemnik (średni/duży) na odpady",
         "description": "Tag \"amenity=waste_disposal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_disposal"
     },
     "tag:amenity=waste_transfer_station": {
@@ -1533,7 +1533,7 @@
         "description": "Tag \"craft=stonemason\". See https://wiki.openstreetmap.org/wiki/Tag:craft=stonemason"
     },
     "tag:craft=sun_protection": {
-        "message": "",
+        "message": "Produkcja rolet, markiz",
         "description": "Tag \"craft=sun_protection\". See https://wiki.openstreetmap.org/wiki/Tag:craft=sun_protection"
     },
     "tag:craft=tailor": {
@@ -1658,7 +1658,7 @@
         "description": "Tag \"cuisine=belarusan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=biscuit": {
-        "message": "",
+        "message": "ciasteczka",
         "description": "Tag \"cuisine=biscuit\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=bolivian": {
@@ -1774,7 +1774,7 @@
         "description": "Tag \"cuisine=french\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=fried_food": {
-        "message": "",
+        "message": "smażone jedzenie",
         "description": "Tag \"cuisine=fried_food\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=friture": {
@@ -6568,5 +6568,25 @@
     "tag:kerb": {
         "message": "Krawężnik",
         "description": "Key \"kerb\". See https://wiki.openstreetmap.org/wiki/Key:kerb"
+    },
+    "tag:amenity=canteen": {
+        "message": "Kantyna",
+        "description": "Tag \"amenity=canteen\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=canteen"
+    },
+    "tag:climbing:toprope": {
+        "message": "Asekuracja na wędkę",
+        "description": "Key \"climbing:toprope\". See https://wiki.openstreetmap.org/wiki/Key:climbing:toprope"
+    },
+    "tag:climbing=route_bottom": {
+        "message": "Wspinaczka z dolną asekuracją",
+        "description": "Tag \"climbing=route_bottom\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route_bottom"
+    },
+    "tag:climbing=route_top": {
+        "message": "Szczyt trasy wspinaczkowej",
+        "description": "Tag \"climbing=route_top\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route_top"
+    },
+    "tag:conveying=reversible": {
+        "message": "odwracalny",
+        "description": "Tag \"conveying=reversible\". See https://wiki.openstreetmap.org/wiki/Tag:conveying=reversible"
     }
 }
