@@ -2824,5 +2824,9 @@
     "tag:climbing:rock": {
         "message": "Escalada",
         "description": "Key \"climbing:rock\". See https://wiki.openstreetmap.org/wiki/Key:climbing:rock"
+    },
+    "tag:cuisine=sub": {
+        "message": "Entrepan",
+        "description": "Tag \"cuisine=sub\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     }
 }
