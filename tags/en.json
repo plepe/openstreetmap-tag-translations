@@ -4177,6 +4177,10 @@
         "message": "Etymology of name",
         "description": "Key \"name:etymology\". See https://wiki.openstreetmap.org/wiki/Key:name:etymology"
     },
+    "tag:name:start_date": {
+        "message": "Named since",
+        "description": "Key \"name:start_date\". See https://wiki.openstreetmap.org/wiki/Key:name:start_date"
+    },
     "tag:narrow": {
         "message": "Narrow",
         "description": "Key \"narrow\". See https://wiki.openstreetmap.org/wiki/Key:narrow"
