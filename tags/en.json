@@ -2341,6 +2341,58 @@
         "message": "",
         "description": "Tag \"denomination=united_reformed\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=united_reformed"
     },
+    "tag:denotation": {
+        "message": "",
+        "description": "Key \"denotation\". See https://wiki.openstreetmap.org/wiki/Key:denotation"
+    },
+    "tag:denotation=agricultural": {
+        "message": "",
+        "description": "Tag \"denotation=agricultural\". See https://wiki.openstreetmap.org/wiki/Tag:denotation=agricultural"
+    },
+    "tag:denotation=art": {
+        "message": "",
+        "description": "Tag \"denotation=art\". See https://wiki.openstreetmap.org/wiki/Tag:denotation=art"
+    },
+    "tag:denotation=avenue": {
+        "message": "",
+        "description": "Tag \"denotation=avenue\". See https://wiki.openstreetmap.org/wiki/Tag:denotation=avenue"
+    },
+    "tag:denotation=decoration": {
+        "message": "",
+        "description": "Tag \"denotation=decoration\". See https://wiki.openstreetmap.org/wiki/Tag:denotation=decoration"
+    },
+    "tag:denotation=garden": {
+        "message": "",
+        "description": "Tag \"denotation=garden\". See https://wiki.openstreetmap.org/wiki/Tag:denotation=garden"
+    },
+    "tag:denotation=landmark": {
+        "message": "",
+        "description": "Tag \"denotation=landmark\". See https://wiki.openstreetmap.org/wiki/Tag:denotation=landmark"
+    },
+    "tag:denotation=natural_monument": {
+        "message": "",
+        "description": "Tag \"denotation=natural_monument\". See https://wiki.openstreetmap.org/wiki/Tag:denotation=natural_monument"
+    },
+    "tag:denotation=park": {
+        "message": "",
+        "description": "Tag \"denotation=park\". See https://wiki.openstreetmap.org/wiki/Tag:denotation=park"
+    },
+    "tag:denotation=single": {
+        "message": "",
+        "description": "Tag \"denotation=single\". See https://wiki.openstreetmap.org/wiki/Tag:denotation=single"
+    },
+    "tag:denotation=street": {
+        "message": "",
+        "description": "Tag \"denotation=street\". See https://wiki.openstreetmap.org/wiki/Tag:denotation=street"
+    },
+    "tag:denotation=urban": {
+        "message": "",
+        "description": "Tag \"denotation=urban\". See https://wiki.openstreetmap.org/wiki/Tag:denotation=urban"
+    },
+    "tag:denotation=windbreak": {
+        "message": "",
+        "description": "Tag \"denotation=windbreak\". See https://wiki.openstreetmap.org/wiki/Tag:denotation=windbreak"
+    },
     "tag:description": {
         "message": "Description",
         "description": "Key \"description\". See https://wiki.openstreetmap.org/wiki/Key:description"
