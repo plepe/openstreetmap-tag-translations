@@ -98,11 +98,11 @@
     },
     "tag:admin_level=7": {
         "message": "admin_level (7)",
-        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
-    },
-    "tag:admin_level=7.5": {
-        "message": "Limites d'agglomérations urbaines",
-        "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
+        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7",
+        "5": {
+            "message": "Limites d'agglomérations urbaines",
+            "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
+        }
     },
     "tag:admin_level=8": {
         "message": "Municipalité (8)",
@@ -6904,5 +6904,8 @@
     "tag:waste=trash": {
         "message": "déchets non-recyclables",
         "description": "Tag \"waste=trash\". See https://wiki.openstreetmap.org/wiki/Tag:waste=trash"
+    },
+    "tag:name:start_date": {
+        "message": "Nommé depuis"
     }
 }
