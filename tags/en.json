@@ -5061,6 +5061,26 @@
         "message": "",
         "description": "Tag \"public_transport=stop_position\". See https://wiki.openstreetmap.org/wiki/Tag:public_transport=stop_position"
     },
+    "tag:rack": {
+        "message": "Rack railway",
+        "description": "Key \"rack\". See https://wiki.openstreetmap.org/wiki/Key:rack"
+    },
+    "tag:rack=abt": {
+        "message": "Abt rack system",
+        "description": "Tag \"rack=abt\". See https://wiki.openstreetmap.org/wiki/Tag:rack=abt"
+    },
+    "tag:rack=locher": {
+        "message": "Locher rack system",
+        "description": "Tag \"rack=locher\". See https://wiki.openstreetmap.org/wiki/Tag:rack=locher"
+    },
+    "tag:rack=riggenbach": {
+        "message": "Riggenbach rack system",
+        "description": "Tag \"rack=riggenbach\". See https://wiki.openstreetmap.org/wiki/Tag:rack=riggenbach"
+    },
+    "tag:rack=strub": {
+        "message": "Strub rack system",
+        "description": "Tag \"rack=strub\". See https://wiki.openstreetmap.org/wiki/Tag:rack=strub"
+    },
     "tag:railway": {
         "message": "Railway",
         "description": "Key \"railway\". See https://wiki.openstreetmap.org/wiki/Key:railway"
@@ -5072,6 +5092,10 @@
     "tag:railway=buffer_stop": {
         "message": "",
         "description": "Tag \"railway=buffer_stop\". See https://wiki.openstreetmap.org/wiki/Tag:railway=buffer_stop"
+    },
+    "tag:railway=construction": {
+        "message": "",
+        "description": "Tag \"railway=construction\". See https://wiki.openstreetmap.org/wiki/Tag:railway=construction"
     },
     "tag:railway=crossing": {
         "message": "",
@@ -5085,6 +5109,10 @@
         "message": "",
         "description": "Tag \"railway=disused\". See https://wiki.openstreetmap.org/wiki/Tag:railway=disused"
     },
+    "tag:railway=funicular": {
+        "message": "",
+        "description": "Tag \"railway=funicular\". See https://wiki.openstreetmap.org/wiki/Tag:railway=funicular"
+    },
     "tag:railway=halt": {
         "message": "",
         "description": "Tag \"railway=halt\". See https://wiki.openstreetmap.org/wiki/Tag:railway=halt"
@@ -5097,6 +5125,14 @@
         "message": "",
         "description": "Tag \"railway=light_rail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=light_rail"
     },
+    "tag:railway=miniature": {
+        "message": "",
+        "description": "Tag \"railway=miniature\". See https://wiki.openstreetmap.org/wiki/Tag:railway=miniature"
+    },
+    "tag:railway=monorail": {
+        "message": "",
+        "description": "Tag \"railway=monorail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=monorail"
+    },
     "tag:railway=narrow_gauge": {
         "message": "",
         "description": "Tag \"railway=narrow_gauge\". See https://wiki.openstreetmap.org/wiki/Tag:railway=narrow_gauge"
@@ -5108,6 +5144,10 @@
     "tag:railway=preserved": {
         "message": "",
         "description": "Tag \"railway=preserved\". See https://wiki.openstreetmap.org/wiki/Tag:railway=preserved"
+    },
+    "tag:railway=proposed": {
+        "message": "",
+        "description": "Tag \"railway=proposed\". See https://wiki.openstreetmap.org/wiki/Tag:railway=proposed"
     },
     "tag:railway=rail": {
         "message": "Rail Track",
@@ -5160,6 +5200,10 @@
     "tag:railway=rail usage=tourism": {
         "message": "",
         "description": "Combined tag \"railway=rail\" and \"usage=tourism\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail and https://wiki.openstreetmap.org/wiki/Tag:usage=tourism"
+    },
+    "tag:railway=razed": {
+        "message": "",
+        "description": "Tag \"railway=razed\". See https://wiki.openstreetmap.org/wiki/Tag:railway=razed"
     },
     "tag:railway=station": {
         "message": "",
