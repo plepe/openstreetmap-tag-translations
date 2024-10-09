@@ -5085,6 +5085,10 @@
         "message": "Railway",
         "description": "Key \"railway\". See https://wiki.openstreetmap.org/wiki/Key:railway"
     },
+    "tag:railway:preserved": {
+        "message": "Preserved railway",
+        "description": "Key \"railway:preserved\". See https://wiki.openstreetmap.org/wiki/Key:railway:preserved"
+    },
     "tag:railway=abandoned": {
         "message": "",
         "description": "Tag \"railway=abandoned\". See https://wiki.openstreetmap.org/wiki/Tag:railway=abandoned"
