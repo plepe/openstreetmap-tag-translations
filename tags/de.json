@@ -219,10 +219,6 @@
         "message": "Tierheim",
         "description": ""
     },
-    "tag:amenity=animal_shelter;animal rescue": {
-        "message": "Tierheim; Tierrettung",
-        "description": ""
-    },
     "tag:amenity=animal_training": {
         "message": "Tiertraining",
         "description": ""
@@ -282,10 +278,6 @@
     "tag:amenity=bicycle_parking": {
         "message": "Fahrradständer",
         "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
-    },
-    "tag:amenity=bicycle_parking;car_sharing": {
-        "message": "Fahrradständer; Carsharing",
-        "description": ""
     },
     "tag:amenity=bicycle_rental": {
         "message": "Fahrradvermietung",
@@ -671,10 +663,6 @@
         "message": "Musikschule",
         "description": ""
     },
-    "tag:amenity=music_school; art_school": {
-        "message": "Musikschule; Kunstschule",
-        "description": ""
-    },
     "tag:amenity=nightclub": {
         "message": "Nachtclub",
         "description": ""
@@ -927,10 +915,6 @@
         "message": "Snackautomat",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=food"
     },
-    "tag:amenity=vending_machine vending=food;drinks": {
-        "message": "Getränkeautomat",
-        "description": "Combined tag \"amenity=vending_machine\" and \"vending=food;drinks\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=food;drinks"
-    },
     "tag:amenity=vending_machine vending=news_papers": {
         "message": "Zeitungsautomat",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=news_papers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=news_papers"
@@ -943,17 +927,9 @@
         "message": "Paketstation",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_pickup\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_pickup"
     },
-    "tag:amenity=vending_machine vending=parcel_pickup;parcel_mail_in": {
-        "message": "Paketstation",
-        "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_pickup;parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_pickup;parcel_mail_in"
-    },
     "tag:amenity=vending_machine vending=parking_tickets": {
         "message": "Parkscheinautomat",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets"
-    },
-    "tag:amenity=vending_machine vending=parking_tickets;public_transport_tickets": {
-        "message": "Ticketautomat",
-        "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets;public_transport_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets;public_transport_tickets"
     },
     "tag:amenity=vending_machine vending=public_transport_tickets": {
         "message": "Ticketautomat (ÖPV)",
@@ -962,10 +938,6 @@
     "tag:amenity=vending_machine vending=stamps": {
         "message": "Briefmarkenautomat",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=stamps\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=stamps"
-    },
-    "tag:amenity=vending_machine vending=sweets;chewing_gum": {
-        "message": "Süßigkeitenautomat",
-        "description": "Combined tag \"amenity=vending_machine\" and \"vending=sweets;chewing_gum\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=sweets;chewing_gum"
     },
     "tag:amenity=vending_machine vending=telephone_vouchers": {
         "message": "Telefonkartenautomat",
@@ -2587,10 +2559,6 @@
         "message": "Fahrradweg",
         "description": "Key \"cycleway\". See https://wiki.openstreetmap.org/wiki/Key:cycleway"
     },
-    "tag:cycleway=bike_box;asl": {
-        "message": "",
-        "description": "Tag \"cycleway=bike_box;asl\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=bike_box;asl"
-    },
     "tag:denomination": {
         "message": "Konfession",
         "description": "Key \"denomination\". See https://wiki.openstreetmap.org/wiki/Key:denomination"
@@ -3462,10 +3430,6 @@
     "tag:historic=tower": {
         "message": "",
         "description": "Tag \"historic=tower\". See https://wiki.openstreetmap.org/wiki/Tag:historic=tower"
-    },
-    "tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage": {
-        "message": "UNESCO-Weltkulturerbestätte",
-        "description": "Tag \"historic=unesco_world_heritage;historic=UNESCO_world_heritage\". See https://wiki.openstreetmap.org/wiki/Tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage"
     },
     "tag:historic=watermill": {
         "message": "Wassermühle",
@@ -5499,10 +5463,6 @@
         "message": "Eisenbahnübergang",
         "description": "Tag \"railway=crossing\". See https://wiki.openstreetmap.org/wiki/Tag:railway=crossing"
     },
-    "tag:railway=crossing;tram_crossing": {
-        "message": "Straßenbahnübergang",
-        "description": ""
-    },
     "tag:railway=crossing_box": {
         "message": "Bahnübergangskasten",
         "description": "Tag \"railway=crossing_box\". See https://wiki.openstreetmap.org/wiki/Tag:railway=crossing_box"
@@ -5659,10 +5619,6 @@
         "message": "Gleisweiche",
         "description": "Tag \"railway=switch\". See https://wiki.openstreetmap.org/wiki/Tag:railway=switch"
     },
-    "tag:railway=switch;milestone": {
-        "message": "Weiche;Meilenstein",
-        "description": ""
-    },
     "tag:railway=train_station_entrance": {
         "message": "Bahnhofseingang",
         "description": ""
@@ -5670,10 +5626,6 @@
     "tag:railway=tram": {
         "message": "Straßenbahn",
         "description": "Tag \"railway=tram\". See https://wiki.openstreetmap.org/wiki/Tag:railway=tram"
-    },
-    "tag:railway=tram;narrow_gauge": {
-        "message": "Straßenbahn oder Schmalspurbahnen",
-        "description": "Tag \"railway=tram;narrow_gauge\". See https://wiki.openstreetmap.org/wiki/Tag:railway=tram;narrow_gauge"
     },
     "tag:railway=tram_crossing": {
         "message": "Straßenbahnübergang",
@@ -6067,10 +6019,6 @@
         "message": "Kerzenladen",
         "description": ""
     },
-    "tag:shop=candles;craft": {
-        "message": "Kerzenladen; Handwerk",
-        "description": ""
-    },
     "tag:shop=cannabis": {
         "message": "Cannabisgeschäft",
         "description": ""
@@ -6094,10 +6042,6 @@
     "tag:shop=car_repair": {
         "message": "Autowerkstatt",
         "description": "Tag \"shop=car_repair\". See https://wiki.openstreetmap.org/wiki/Tag:shop=car_repair"
-    },
-    "tag:shop=car_service;travel_agency": {
-        "message": "Autoservice; Reisebüro",
-        "description": ""
     },
     "tag:shop=caravan": {
         "message": "Wohnwagengeschäft",
@@ -6154,10 +6098,6 @@
     "tag:shop=convenience": {
         "message": "Laden",
         "description": "Tag \"shop=convenience\". See https://wiki.openstreetmap.org/wiki/Tag:shop=convenience"
-    },
-    "tag:shop=convenience;newsagent;lottery": {
-        "message": "Lebensmittelgeschäft; Zeitungsladen; Lotterie",
-        "description": ""
     },
     "tag:shop=copyshop": {
         "message": "Copyshop",
@@ -6327,10 +6267,6 @@
         "message": "Geschenkgeschäft",
         "description": "Tag \"shop=gift\". See https://wiki.openstreetmap.org/wiki/Tag:shop=gift"
     },
-    "tag:shop=gift;tea": {
-        "message": "Geschenkeladen; Teegeschäft",
-        "description": ""
-    },
     "tag:shop=glaziery": {
         "message": "Glasereigeschäft",
         "description": ""
@@ -6346,10 +6282,6 @@
     "tag:shop=greengrocer": {
         "message": "Gemüsehändler",
         "description": "Tag \"shop=greengrocer\". See https://wiki.openstreetmap.org/wiki/Tag:shop=greengrocer"
-    },
-    "tag:shop=greengrocer;florist": {
-        "message": "Gemüsehändler; Florist",
-        "description": ""
     },
     "tag:shop=grocery": {
         "message": "Lebensmittelläden",
@@ -6903,10 +6835,6 @@
         "message": "Klettern",
         "description": "Tag \"sport=climbing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=climbing"
     },
-    "tag:sport=climbing;hiking": {
-        "message": "Klettern; Wandern",
-        "description": ""
-    },
     "tag:sport=climbing_adventure": {
         "message": "Hochseilklettern",
         "description": "Tag \"sport=climbing_adventure\". See https://wiki.openstreetmap.org/wiki/Tag:sport=climbing_adventure"
@@ -7307,10 +7235,6 @@
         "message": "Pension",
         "description": "Tag \"tourism=guest_house\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=guest_house"
     },
-    "tag:tourism=guest_house;apartment": {
-        "message": "Gästehaus; Wohnung",
-        "description": ""
-    },
     "tag:tourism=hostel": {
         "message": "Hostel",
         "description": "Tag \"tourism=hostel\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=hostel"
@@ -7683,10 +7607,6 @@
         "message": "Jersey-Barriere",
         "description": ""
     },
-    "tag:barrier=gate;bollard": {
-        "message": "Tor; Poller",
-        "description": ""
-    },
     "tag:aeroway=holding_position": {
         "message": "Halteposition",
         "description": ""
@@ -7755,10 +7675,6 @@
         "message": "Osteopath",
         "description": ""
     },
-    "tag:craft=carpenter;cabinet_maker;floorer;parquet_layer;stand_builder;tilerwindow_construction;door_construction": {
-        "message": "Zimmermann;Tischler;Bodenleger;Parkettleger;Standbauer;Fliesenleger;Fensterbau;Türbau",
-        "description": ""
-    },
     "tag:emergency=fire_extinguisher": {
         "message": "Feuerlöscher",
         "description": ""
@@ -7777,10 +7693,6 @@
     },
     "tag:emergency=ambulance_station": {
         "message": "Rettungswache",
-        "description": ""
-    },
-    "tag:healthcare=speech_therapist; occupational_therapist": {
-        "message": "Logopäde;Ergotherapeut",
         "description": ""
     },
     "tag:barrier=cattle_grid": {
@@ -7855,10 +7767,6 @@
         "message": "Anschluss",
         "description": ""
     },
-    "tag:craft=hvac; plumber": {
-        "message": "HLK; Klempner",
-        "description": ""
-    },
     "tag:barrier=bump_gate": {
         "message": "Stoßtor",
         "description": ""
@@ -7895,16 +7803,8 @@
         "message": "Überstieg",
         "description": ""
     },
-    "tag:healthcare=physiotherapist;occupational_therapist;speech_therapist": {
-        "message": "Physiotherapeut;Ergotherapeut;Logopäde",
-        "description": ""
-    },
     "tag:emergency=emergency_ward_entrance": {
         "message": "Notaufnahme Eingang",
-        "description": ""
-    },
-    "tag:amenity=music_school;art_school": {
-        "message": "Musikschule;Kunstschule",
         "description": ""
     },
     "tag:craft=Construction Operations": {
@@ -7951,10 +7851,6 @@
         "message": "Beratung",
         "description": ""
     },
-    "tag:craft=yes": {
-        "message": "Ja",
-        "description": ""
-    },
     "tag:aeroway=helipad": {
         "message": "Hubschrauberlandeplatz",
         "description": ""
@@ -7971,10 +7867,6 @@
         "message": "Trümmer",
         "description": ""
     },
-    "tag:barrier=cycle_barrier;gate": {
-        "message": "Radschranke;Tor",
-        "description": ""
-    },
     "tag:power=transition": {
         "message": "Übergang",
         "description": ""
@@ -7985,10 +7877,6 @@
     },
     "tag:barrier=full-height_turnstile": {
         "message": "Drehkreuz in voller Höhe",
-        "description": ""
-    },
-    "tag:amenity= music_school; art_school": {
-        "message": "Kunstschule",
         "description": ""
     },
     "tag:historic=millstone": {
