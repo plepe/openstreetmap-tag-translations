@@ -6765,6 +6765,62 @@
         "message": "Traffic sign",
         "description": "Key \"traffic_sign\". See https://wiki.openstreetmap.org/wiki/Key:traffic_sign"
     },
+    "tag:traffic_sign=city_limit": {
+        "message": "City/village sign",
+        "description": "Tag \"traffic_sign=city_limit\". See https://wiki.openstreetmap.org/wiki/Tag:traffic_sign=city_limit"
+    },
+    "tag:traffic_sign=give_way": {
+        "message": "Yield / Give way",
+        "description": "Tag \"traffic_sign=give_way\". See https://wiki.openstreetmap.org/wiki/Tag:traffic_sign=give_way"
+    },
+    "tag:traffic_sign=hazard": {
+        "message": "Hazard",
+        "description": "Tag \"traffic_sign=hazard\". See https://wiki.openstreetmap.org/wiki/Tag:traffic_sign=hazard"
+    },
+    "tag:traffic_sign=maxheight": {
+        "message": "Max. Height",
+        "description": "Tag \"traffic_sign=maxheight\". See https://wiki.openstreetmap.org/wiki/Tag:traffic_sign=maxheight"
+    },
+    "tag:traffic_sign=maxspeed": {
+        "message": "Max. Speed",
+        "description": "Tag \"traffic_sign=maxspeed\". See https://wiki.openstreetmap.org/wiki/Tag:traffic_sign=maxspeed"
+    },
+    "tag:traffic_sign=maxweight": {
+        "message": "Max. Weight",
+        "description": "Tag \"traffic_sign=maxweight\". See https://wiki.openstreetmap.org/wiki/Tag:traffic_sign=maxweight"
+    },
+    "tag:traffic_sign=maxwidth": {
+        "message": "Max. Width",
+        "description": "Tag \"traffic_sign=maxwidth\". See https://wiki.openstreetmap.org/wiki/Tag:traffic_sign=maxwidth"
+    },
+    "tag:traffic_sign=no_entry": {
+        "message": "No entry",
+        "description": "Tag \"traffic_sign=no_entry\". See https://wiki.openstreetmap.org/wiki/Tag:traffic_sign=no_entry"
+    },
+    "tag:traffic_sign=overtaking": {
+        "message": "Overtaking",
+        "description": "Tag \"traffic_sign=overtaking\". See https://wiki.openstreetmap.org/wiki/Tag:traffic_sign=overtaking"
+    },
+    "tag:traffic_sign=signal_ahead": {
+        "message": "Signal ahead",
+        "description": "Tag \"traffic_sign=signal_ahead\". See https://wiki.openstreetmap.org/wiki/Tag:traffic_sign=signal_ahead"
+    },
+    "tag:traffic_sign=stop": {
+        "message": "Stop",
+        "description": "Tag \"traffic_sign=stop\". See https://wiki.openstreetmap.org/wiki/Tag:traffic_sign=stop"
+    },
+    "tag:traffic_sign=stop_ahead": {
+        "message": "Stop ahead",
+        "description": "Tag \"traffic_sign=stop_ahead\". See https://wiki.openstreetmap.org/wiki/Tag:traffic_sign=stop_ahead"
+    },
+    "tag:traffic_sign=variable_message": {
+        "message": "Variable Message",
+        "description": "Tag \"traffic_sign=variable_message\". See https://wiki.openstreetmap.org/wiki/Tag:traffic_sign=variable_message"
+    },
+    "tag:traffic_sign=yield_ahead": {
+        "message": "Yield / Give way ahead",
+        "description": "Tag \"traffic_sign=yield_ahead\". See https://wiki.openstreetmap.org/wiki/Tag:traffic_sign=yield_ahead"
+    },
     "tag:tunnel": {
         "message": "Tunnel",
         "description": "Key \"tunnel\". See https://wiki.openstreetmap.org/wiki/Key:tunnel"
