@@ -98,11 +98,11 @@
     },
     "tag:admin_level=7": {
         "message": "Járás, kistérség",
-        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
-    },
-    "tag:admin_level=7.5": {
-        "message": "",
-        "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
+        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7",
+        "5": {
+            "message": "",
+            "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
+        }
     },
     "tag:admin_level=8": {
         "message": "Település",
@@ -6424,5 +6424,80 @@
     "tag:climbing:bolted": {
         "message": "",
         "description": "Key \"climbing:bolted\". See https://wiki.openstreetmap.org/wiki/Key:climbing:bolted"
+    },
+    "tag:amenity=canteen": {
+        "message": "Menza"
+    },
+    "tag:building:start_date": {
+        "message": "Épület elkészültének dátuma"
+    },
+    "tag:climbing=route_bottom": {
+        "message": "Mászóút legalsó pontja"
+    },
+    "tag:climbing=route_top": {
+        "message": "Mászóút legfelső pontja"
+    },
+    "tag:crossing": {
+        "message": "Gyalogosátkelő"
+    },
+    "tag:crossing=marked": {
+        "message": "csak felfestés"
+    },
+    "tag:crossing=uncontrolled": {
+        "message": "nem ellenőrzött"
+    },
+    "tag:crossing=unmarked": {
+        "message": "felfestés nélküli"
+    },
+    "tag:crossing=zebra": {
+        "message": "zebra"
+    },
+    "tag:footway=traffic_island": {
+        "message": "Járdasziget"
+    },
+    "tag:highway=cycleway segregated=no": {
+        "message": "Közös gyalog- és kerékpárút"
+    },
+    "tag:highway=cycleway segregated=yes": {
+        "message": "Elválasztott gyalog- és kerékpárút"
+    },
+    "tag:highway=elevator": {
+        "message": "Felvonó"
+    },
+    "tag:highway=steps conveying": {
+        "message": "Mozgólépcső"
+    },
+    "tag:historic=heritage": {
+        "message": "Védettség"
+    },
+    "tag:incline=down": {
+        "message": "lefelé"
+    },
+    "tag:kerb": {
+        "message": "Járdaszegély"
+    },
+    "tag:kerb=lowered": {
+        "message": "süllyesztett"
+    },
+    "tag:kerb=no": {
+        "message": "járdaszegély nincs"
+    },
+    "tag:kerb=rolled": {
+        "message": "legömbölyített"
+    },
+    "tag:area:highway": {
+        "message": "Útfelszín alakja"
+    },
+    "tag:climbing=route": {
+        "message": "Mászóút"
+    },
+    "tag:crossing=traffic_signals": {
+        "message": "jelzőlámpa"
+    },
+    "tag:highway=footway conveying": {
+        "message": "Mozgójárda"
+    },
+    "tag:incline=up": {
+        "message": "felfelé"
     }
 }

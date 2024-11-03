@@ -98,11 +98,11 @@
     },
     "tag:admin_level=7": {
         "message": "Okres",
-        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
-    },
-    "tag:admin_level=7.5": {
-        "message": "7,5",
-        "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
+        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7",
+        "5": {
+            "message": "7,5",
+            "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
+        }
     },
     "tag:admin_level=8": {
         "message": "Obec",
@@ -6464,5 +6464,107 @@
     "tag:year_of_construction": {
         "message": "Doba výstavby",
         "description": "Key \"year_of_construction\". See https://wiki.openstreetmap.org/wiki/Key:year_of_construction"
+    },
+    "tag:access=agricultural": {
+        "message": "pouze zemědělský provoz"
+    },
+    "tag:access=customers": {
+        "message": "pouze pro zákazníky"
+    },
+    "tag:access=delivery": {
+        "message": "pouze pro doručování"
+    },
+    "tag:access=designated": {
+        "message": " "
+    },
+    "tag:access=destination": {
+        "message": "cíl"
+    },
+    "tag:access=discouraged": {
+        "message": "odrazující"
+    },
+    "tag:access=dismount": {
+        "message": "pouze při sesednutí"
+    },
+    "tag:access=forestry": {
+        "message": "pouze lesnický provoz"
+    },
+    "tag:access=unknown": {
+        "message": "neznámý"
+    },
+    "tag:access=use_sidepath": {
+        "message": "místo toho použijte boční cestu"
+    },
+    "tag:access=yes": {
+        "message": "veřejně přístupný"
+    },
+    "tag:aeroway=aerodrome": {
+        "message": "Letiště"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "Letová dráha"
+    },
+    "tag:amenity=bicycle_repair_station": {
+        "message": "Stanice pro opravu jízdních kol"
+    },
+    "tag:amenity=canteen": {
+        "message": "Jídelna"
+    },
+    "tag:amenity=parcel_locker": {
+        "message": "Schránka na balíky"
+    },
+    "tag:barrier=kerb": {
+        "message": "Obrubník"
+    },
+    "tag:building:start_date": {
+        "message": "Datum dokončení stavby"
+    },
+    "tag:changing_table": {
+        "message": "Stůl na přebalování plenek"
+    },
+    "tag:conveying=reversible": {
+        "message": "Oboustranný"
+    },
+    "tag:crossing": {
+        "message": "Přechod přes ulici"
+    },
+    "tag:crossing=marked": {
+        "message": "označené"
+    },
+    "tag:crossing=traffic_signals": {
+        "message": "dopravní signály"
+    },
+    "tag:crossing=uncontrolled": {
+        "message": "nekontrolované"
+    },
+    "tag:crossing=unmarked": {
+        "message": "neoznačené"
+    },
+    "tag:crossing=zebra": {
+        "message": "zebra"
+    },
+    "tag:denotation": {
+        "message": " "
+    },
+    "tag:emergency=lifeguard": {
+        "message": "Plavčík"
+    },
+    "tag:footway=access_aisle": {
+        "message": "Přístupová chodba"
+    },
+    "tag:footway=alley": {
+        "message": "Ulička"
+    },
+    "tag:access=no": {
+        "message": "bez přístupu veřejnosti"
+    },
+    "tag:access=permissive": {
+        "message": "permisivní"
+    },
+    "tag:aeroway=heliport": {
+        "message": "Heliport"
+    },
+    "tag:area:highway": {
+        "message": "Tvar cesty"
     }
 }
