@@ -100,8 +100,7 @@
         "message": "Okres",
         "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7",
         "5": {
-            "message": "7,5",
-            "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
+            "message": "Katastr"
         }
     },
     "tag:admin_level=8": {
@@ -6566,5 +6565,230 @@
     },
     "tag:area:highway": {
         "message": "Tvar cesty"
+    },
+    "tag:footway=crossing": {
+        "message": "Přechod"
+    },
+    "tag:footway=traffic_island": {
+        "message": "Dopravní ostrůvek"
+    },
+    "tag:highway=cycleway segregated=no": {
+        "message": "Společná stezka pro cyklisty a chodce"
+    },
+    "tag:highway=cycleway segregated=yes": {
+        "message": "Oddělená stezka pro cyklisty a chodce"
+    },
+    "tag:highway=footway conveying": {
+        "message": "Pohyblivý chodník"
+    },
+    "tag:highway=elevator": {
+        "message": "Výtah"
+    },
+    "tag:highway=steps conveying": {
+        "message": "Jezdící schody"
+    },
+    "tag:incline=down": {
+        "message": "dolů"
+    },
+    "tag:incline=up": {
+        "message": "nahoru"
+    },
+    "tag:kerb": {
+        "message": "Obrubník"
+    },
+    "tag:kerb=flush": {
+        "message": "kanálová vpusť"
+    },
+    "tag:kerb=no": {
+        "message": "bez obrubníku"
+    },
+    "tag:kerb=rolled": {
+        "message": "zaoblený"
+    },
+    "tag:leisure=escape_game": {
+        "message": "Úniková hra"
+    },
+    "tag:leisure=parklet": {
+        "message": "Parčík"
+    },
+    "tag:leisure=trampoline_park": {
+        "message": "Trampolínový park"
+    },
+    "tag:man_made=monitoring_station": {
+        "message": "Monitorovací stanice"
+    },
+    "tag:maxspeed=none": {
+        "message": "bez omezení"
+    },
+    "tag:name:start_date": {
+        "message": "Pojmenován od"
+    },
+    "tag:sidewalk:right": {
+        "message": "Chodník na pravé straně ulice"
+    },
+    "tag:smoothness=excellent": {
+        "message": "vynikající"
+    },
+    "tag:smoothness=good": {
+        "message": "dobrý"
+    },
+    "tag:smoothness=horrible": {
+        "message": "hrozný"
+    },
+    "tag:smoothness=impassable": {
+        "message": "neprůchodný"
+    },
+    "tag:smoothness=very_bad": {
+        "message": "velmi špatný"
+    },
+    "tag:smoothness=very_horrible": {
+        "message": "velmi hrozný"
+    },
+    "tag:waste=paper": {
+        "message": "papír"
+    },
+    "tag:waste=organic": {
+        "message": "bioodpad"
+    },
+    "tag:xmas:feature=crib": {
+        "message": "Vánoční betlém / Betlém"
+    },
+    "tag:rack": {
+        "message": "Zubačková železnice"
+    },
+    "tag:rack=abt": {
+        "message": "Abt rack systém"
+    },
+    "tag:rack=locher": {
+        "message": "Locher rack systém"
+    },
+    "tag:rack=riggenbach": {
+        "message": "Riggenbach rack systém"
+    },
+    "tag:rack=strub": {
+        "message": "Strub rack systém"
+    },
+    "tag:smoothness=bad": {
+        "message": "špatný"
+    },
+    "tag:waste": {
+        "message": "Odpad"
+    },
+    "tag:waste=dog_excrement": {
+        "message": "psí exkrementy"
+    },
+    "tag:kerb=lowered": {
+        "message": "snížený"
+    },
+    "tag:kerb=raised": {
+        "message": "zvýšený"
+    },
+    "tag:surface=wood": {
+        "message": "dřevěná"
+    },
+    "tag:traffic_sign=overtaking": {
+        "message": "Předjíždění"
+    },
+    "tag:traffic_sign=maxspeed": {
+        "message": "Max. Rychlost"
+    },
+    "tag:traffic_sign=maxheight": {
+        "message": "Max. Výška"
+    },
+    "tag:waste=cigarettes": {
+        "message": "cigarety"
+    },
+    "tag:waste=oil": {
+        "message": "použitý olej"
+    },
+    "tag:railway:preserved": {
+        "message": "Historická železnice"
+    },
+    "tag:sidewalk:left": {
+        "message": "Chodník na levé straně ulice"
+    },
+    "tag:sidewalk=no": {
+        "message": "Ulice bez chodníku"
+    },
+    "tag:sidewalk=separate": {
+        "message": "Ulice se samostatně vyznačeným chodníkem"
+    },
+    "tag:sidewalk=yes": {
+        "message": "Ulice s chodníkem"
+    },
+    "tag:smoothness=intermediate": {
+        "message": "střední"
+    },
+    "tag:surface=acrylic": {
+        "message": "akrylový"
+    },
+    "tag:surface=artificial_turf": {
+        "message": "umělý trávník"
+    },
+    "tag:surface=asphalt": {
+        "message": "asfalt"
+    },
+    "tag:surface=carpet": {
+        "message": "koberec"
+    },
+    "tag:surface=chipseal": {
+        "message": "chipseal"
+    },
+    "tag:surface=woodchips": {
+        "message": "stěpka"
+    },
+    "tag:traffic_sign=city_limit": {
+        "message": "Značka města/obce"
+    },
+    "tag:traffic_sign=give_way": {
+        "message": "Ustupte / Uvolněte cestu"
+    },
+    "tag:traffic_sign=hazard": {
+        "message": "Nebezpečí"
+    },
+    "tag:traffic_sign=maxweight": {
+        "message": "Max. Hmotnost"
+    },
+    "tag:traffic_sign=maxwidth": {
+        "message": "Max. Šířka"
+    },
+    "tag:traffic_sign=no_entry": {
+        "message": "Zákaz vjezdu"
+    },
+    "tag:traffic_sign=signal_ahead": {
+        "message": "Signál dopředu"
+    },
+    "tag:traffic_sign=stop": {
+        "message": "Stop"
+    },
+    "tag:traffic_sign=stop_ahead": {
+        "message": "Zastavte se"
+    },
+    "tag:traffic_sign=variable_message": {
+        "message": "Proměnná zpráva"
+    },
+    "tag:traffic_sign=yield_ahead": {
+        "message": "Dejte přednost"
+    },
+    "tag:waste=drugs": {
+        "message": "drogy"
+    },
+    "tag:waste=glass": {
+        "message": "sklo"
+    },
+    "tag:waste=mixed": {
+        "message": "směsný"
+    },
+    "tag:waste=plastic": {
+        "message": "plasty"
+    },
+    "tag:waste=recycling": {
+        "message": "recyklace"
+    },
+    "tag:waste=trash": {
+        "message": "odpadky"
+    },
+    "tag:xmas:feature=lighting": {
+        "message": "Vánoční osvětlení"
     }
 }
