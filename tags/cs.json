@@ -98,10 +98,7 @@
     },
     "tag:admin_level=7": {
         "message": "Okres",
-        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7",
-        "5": {
-            "message": "Katastr"
-        }
+        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=8": {
         "message": "Obec",
@@ -6790,5 +6787,98 @@
     },
     "tag:xmas:feature=lighting": {
         "message": "Vánoční osvětlení"
+    },
+    "tag:denotation=garden": {
+        "message": "Zahrada"
+    },
+    "tag:surface=concrete:lanes": {
+        "message": "betonové pruhy"
+    },
+    "tag:surface=compacted": {
+        "message": "zhutněné"
+    },
+    "tag:surface=concrete": {
+        "message": "beton"
+    },
+    "tag:surface=concrete:plates": {
+        "message": "betonové desky"
+    },
+    "tag:surface=dirt": {
+        "message": "bláto"
+    },
+    "tag:surface=earth": {
+        "message": "hlína"
+    },
+    "tag:surface=fine_gravel": {
+        "message": "jemný štěrk"
+    },
+    "tag:surface=grass": {
+        "message": "tráva"
+    },
+    "tag:surface=grass_paver": {
+        "message": "zatravňovací dlažba"
+    },
+    "tag:surface=gravel": {
+        "message": "štěrk"
+    },
+    "tag:surface=metal": {
+        "message": "kov"
+    },
+    "tag:surface=metal_grid": {
+        "message": "kovová mřížka"
+    },
+    "tag:surface=mud": {
+        "message": "bahno"
+    },
+    "tag:surface=paving_stones": {
+        "message": "dlažební kostky"
+    },
+    "tag:surface=pebblestone": {
+        "message": "oblázek"
+    },
+    "tag:surface=rock": {
+        "message": "kamení"
+    },
+    "tag:surface=rubber": {
+        "message": "pryž"
+    },
+    "tag:surface=unpaved": {
+        "message": "nezpevněné"
+    },
+    "tag:surface=clay": {
+        "message": "jíl"
+    },
+    "tag:surface=cobblestone": {
+        "message": "dlažební kostka"
+    },
+    "tag:surface=ground": {
+        "message": "země"
+    },
+    "tag:surface=ice": {
+        "message": "led"
+    },
+    "tag:surface=paved": {
+        "message": "dlážděná"
+    },
+    "tag:surface=salt": {
+        "message": "sůl"
+    },
+    "tag:surface=sand": {
+        "message": "písek"
+    },
+    "tag:surface=sett": {
+        "message": "sett"
+    },
+    "tag:surface=snow": {
+        "message": "sníh"
+    },
+    "tag:surface=stepping_stones": {
+        "message": "nášlapné kameny"
+    },
+    "tag:surface=tartan": {
+        "message": "tartan"
+    },
+    "tag:surface=unhewn_cobblestone": {
+        "message": "neotesaný dlažební kámen"
     }
 }
