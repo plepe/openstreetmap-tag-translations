@@ -692,6 +692,10 @@
         "message": "Bicycle access permission",
         "description": "Key \"bicycle\". See https://wiki.openstreetmap.org/wiki/Key:bicycle"
     },
+    "tag:bicycle_road": {
+        "message": "Bicycle Road",
+        "description": "Key \"bicycle_road\". See https://wiki.openstreetmap.org/wiki/Key:bicycle_road"
+    },
     "tag:boundary": {
         "message": "Boundary",
         "description": "Key \"boundary\". See https://wiki.openstreetmap.org/wiki/Key:boundary"
@@ -2269,6 +2273,10 @@
         "message": "Cutting",
         "description": "Key \"cutting\". See https://wiki.openstreetmap.org/wiki/Key:cutting"
     },
+    "tag:cyclestreet": {
+        "message": "Cyclestreet",
+        "description": "Key \"cyclestreet\". See https://wiki.openstreetmap.org/wiki/Key:cyclestreet"
+    },
     "tag:cycleway": {
         "message": "Cycleway",
         "description": "Key \"cycleway\". See https://wiki.openstreetmap.org/wiki/Key:cycleway"
@@ -2277,13 +2285,33 @@
         "message": "Bike Box",
         "description": "Tag \"cycleway=bike_box;asl\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=bike_box;asl"
     },
+    "tag:cycleway=crossing": {
+        "message": "Crossing",
+        "description": "Tag \"cycleway=crossing\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=crossing"
+    },
     "tag:cycleway=lane": {
         "message": "Cycle lane",
         "description": "Tag \"cycleway=lane\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=lane"
     },
+    "tag:cycleway=shared_busway": {
+        "message": "Shared busway",
+        "description": "Tag \"cycleway=shared_busway\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=shared_busway"
+    },
+    "tag:cycleway=shared_lane": {
+        "message": "Shared lane",
+        "description": "Tag \"cycleway=shared_lane\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=shared_lane"
+    },
+    "tag:cycleway=shoulder": {
+        "message": "Shoulder",
+        "description": "Tag \"cycleway=shoulder\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=shoulder"
+    },
     "tag:cycleway=track": {
         "message": "Cycle track",
         "description": "Tag \"cycleway=track\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=track"
+    },
+    "tag:cycleway=traffic_island": {
+        "message": "",
+        "description": "Tag \"cycleway=traffic_island\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=traffic_island"
     },
     "tag:denomination": {
         "message": "Denomination",
