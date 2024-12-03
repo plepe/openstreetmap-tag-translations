@@ -98,11 +98,7 @@
     },
     "tag:admin_level=7": {
         "message": "admin_level (7)",
-        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7",
-        "5": {
-            "message": "Limites d'agglomérations urbaines",
-            "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
-        }
+        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=8": {
         "message": "Municipalité (8)",
@@ -6907,5 +6903,56 @@
     },
     "tag:name:start_date": {
         "message": "Nommé depuis"
+    },
+    "tag:bicycle_road": {
+        "message": "Route cyclable"
+    },
+    "tag:cycleway=shared_busway": {
+        "message": "Voie de bus cyclable"
+    },
+    "tag:cycleway=shared_lane": {
+        "message": "Chaussée partagée"
+    },
+    "tag:cycleway=shoulder": {
+        "message": "Accotement"
+    },
+    "tag:traffic_sign=maxweight": {
+        "message": "Poids Max"
+    },
+    "tag:traffic_sign=no_entry": {
+        "message": "Pas d'entrée"
+    },
+    "tag:traffic_sign=signal_ahead": {
+        "message": "Signal en amont"
+    },
+    "tag:traffic_sign=stop_ahead": {
+        "message": "Stop en amont"
+    },
+    "tag:traffic_sign=yield_ahead": {
+        "message": "Céder le passage"
+    },
+    "tag:traffic_sign=maxspeed": {
+        "message": "Vitesse Max"
+    },
+    "tag:traffic_sign=maxwidth": {
+        "message": "Largeur Max"
+    },
+    "tag:traffic_sign=overtaking": {
+        "message": "Dépassement"
+    },
+    "tag:traffic_sign=stop": {
+        "message": "Stop"
+    },
+    "tag:traffic_sign=variable_message": {
+        "message": "Message variable"
+    },
+    "tag:cyclestreet": {
+        "message": "Rue cyclable"
+    },
+    "tag:cycleway=crossing": {
+        "message": "Traversée"
+    },
+    "tag:rack": {
+        "message": "Chemin de fer à crémaillère"
     }
 }
