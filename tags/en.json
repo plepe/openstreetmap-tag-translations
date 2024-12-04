@@ -468,6 +468,10 @@
         "message": "Restaurant",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
+    "tag:amenity=scale": {
+        "message": "Scale",
+        "description": "Tag \"amenity=scale\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=scale"
+    },
     "tag:amenity=school": {
         "message": "School",
         "description": "Tag \"amenity=school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=school"

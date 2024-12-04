@@ -20,9 +20,61 @@
     "tag:access!=private": {
         "message": "nichtprivat"
     },
+    "tag:access=agricultural": {
+        "message": "Nur landwirtschaftlicher Verkehr",
+        "description": "Tag \"access=agricultural\". See https://wiki.openstreetmap.org/wiki/Tag:access=agricultural"
+    },
+    "tag:access=customers": {
+        "message": "Nur für Kunden",
+        "description": "Tag \"access=customers\". See https://wiki.openstreetmap.org/wiki/Tag:access=customers"
+    },
+    "tag:access=delivery": {
+        "message": "Nur für Lieferdienste",
+        "description": "Tag \"access=delivery\". See https://wiki.openstreetmap.org/wiki/Tag:access=delivery"
+    },
+    "tag:access=designated": {
+        "message": "gewidmet",
+        "description": "Tag \"access=designated\". See https://wiki.openstreetmap.org/wiki/Tag:access=designated"
+    },
+    "tag:access=destination": {
+        "message": "nur für Anlieger",
+        "description": "Tag \"access=destination\". See https://wiki.openstreetmap.org/wiki/Tag:access=destination"
+    },
+    "tag:access=discouraged": {
+        "message": "abgeraten",
+        "description": "Tag \"access=discouraged\". See https://wiki.openstreetmap.org/wiki/Tag:access=discouraged"
+    },
+    "tag:access=dismount": {
+        "message": "nur wenn abgestiegen",
+        "description": "Tag \"access=dismount\". See https://wiki.openstreetmap.org/wiki/Tag:access=dismount"
+    },
+    "tag:access=forestry": {
+        "message": "Nur für Forstbetrieb",
+        "description": "Tag \"access=forestry\". See https://wiki.openstreetmap.org/wiki/Tag:access=forestry"
+    },
+    "tag:access=no": {
+        "message": "Kein öffentlicher Zugang",
+        "description": "Tag \"access=no\". See https://wiki.openstreetmap.org/wiki/Tag:access=no"
+    },
+    "tag:access=permissive": {
+        "message": "gewährt",
+        "description": "Tag \"access=permissive\". See https://wiki.openstreetmap.org/wiki/Tag:access=permissive"
+    },
     "tag:access=private": {
         "message": "privat",
         "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
+    },
+    "tag:access=unknown": {
+        "message": "unbekannt",
+        "description": "Tag \"access=unknown\". See https://wiki.openstreetmap.org/wiki/Tag:access=unknown"
+    },
+    "tag:access=use_sidepath": {
+        "message": "stattdessen Seitenstreifen benutzen",
+        "description": "Tag \"access=use_sidepath\". See https://wiki.openstreetmap.org/wiki/Tag:access=use_sidepath"
+    },
+    "tag:access=yes": {
+        "message": "öffentlich zugänglich",
+        "description": "Tag \"access=yes\". See https://wiki.openstreetmap.org/wiki/Tag:access=yes"
     },
     "tag:accomodation": {
         "message": "Unterkunft",
@@ -120,6 +172,18 @@
         "message": "Luftverkehr",
         "description": "Key \"aeroway\". See https://wiki.openstreetmap.org/wiki/Key:aeroway"
     },
+    "tag:aeroway=aerodrome": {
+        "message": "Flugplatz",
+        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "Landepiste",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
+    "tag:aeroway=heliport": {
+        "message": "Hubschrauberlandeplatz",
+        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
+    },
     "tag:aeroway=runway": {
         "message": "Start- und Landebahn",
         "description": "Tag \"aeroway=runway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=runway"
@@ -215,6 +279,10 @@
     "tag:amenity=charging_station": {
         "message": "Ladestation",
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
+    },
+    "tag:amenity=childcare": {
+        "message": "Kinderbetreuung",
+        "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
     },
     "tag:amenity=cinema": {
         "message": "Kino",
@@ -391,6 +459,10 @@
     "tag:amenity=restaurant": {
         "message": "Restaurant",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
+    },
+    "tag:amenity=scale": {
+        "message": "Waage",
+        "description": "Tag \"amenity=scale\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=scale"
     },
     "tag:amenity=school": {
         "message": "Schule",
@@ -627,6 +699,10 @@
     "tag:building:levels": {
         "message": "Stockwerke",
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
+    },
+    "tag:building=agriculture": {
+        "message": "Landwirtschaftlich genutztes Gebäude",
+        "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
     },
     "tag:building=apartments": {
         "message": "Wohnungen",
@@ -976,9 +1052,53 @@
         "message": "Kapazität",
         "description": "Key \"capacity\". See https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
+    "tag:changing_table": {
+        "message": "Wickeltisch",
+        "description": "Key \"changing_table\". See https://wiki.openstreetmap.org/wiki/Key:changing_table"
+    },
     "tag:charge": {
         "message": "Kosten",
         "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
+    },
+    "tag:climbing": {
+        "message": "Klettern",
+        "description": "Key \"climbing\". See https://wiki.openstreetmap.org/wiki/Key:climbing"
+    },
+    "tag:climbing:boulder": {
+        "message": "Felsenklettern",
+        "description": "Key \"climbing:boulder\". See https://wiki.openstreetmap.org/wiki/Key:climbing:boulder"
+    },
+    "tag:climbing:grade:french": {
+        "message": "Klettergrad (Französisch)",
+        "description": "Key \"climbing:grade:french\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:french"
+    },
+    "tag:climbing:grade:polish": {
+        "message": "Klettergrad (Polnisch)",
+        "description": "Key \"climbing:grade:polish\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:polish"
+    },
+    "tag:climbing:grade:saxon": {
+        "message": "Klettergrad (Sächsisch)",
+        "description": "Key \"climbing:grade:saxon\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:saxon"
+    },
+    "tag:climbing:grade:uiaa": {
+        "message": "Klettergrad (UIAA)",
+        "description": "Key \"climbing:grade:uiaa\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:uiaa"
+    },
+    "tag:climbing:ice": {
+        "message": "Eisklettern",
+        "description": "Key \"climbing:ice\". See https://wiki.openstreetmap.org/wiki/Key:climbing:ice"
+    },
+    "tag:climbing:rock": {
+        "message": "Felsenklettern",
+        "description": "Key \"climbing:rock\". See https://wiki.openstreetmap.org/wiki/Key:climbing:rock"
+    },
+    "tag:climbing:speed": {
+        "message": "Geschwindigkeitsklettern",
+        "description": "Key \"climbing:speed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:speed"
+    },
+    "tag:climbing=route": {
+        "message": "Route",
+        "description": "Tag \"climbing=route\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route"
     },
     "tag:clothes": {
         "message": "Kleidung",
@@ -6224,121 +6344,5 @@
     "tag:xmas:feature=tree": {
         "message": "Weihnachtsbaum",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
-    },
-    "tag:access=agricultural": {
-        "message": "Nur landwirtschaftlicher Verkehr",
-        "description": "Tag \"access=agricultural\". See https://wiki.openstreetmap.org/wiki/Tag:access=agricultural"
-    },
-    "tag:access=customers": {
-        "message": "Nur für Kunden",
-        "description": "Tag \"access=customers\". See https://wiki.openstreetmap.org/wiki/Tag:access=customers"
-    },
-    "tag:access=delivery": {
-        "message": "Nur für Lieferdienste",
-        "description": "Tag \"access=delivery\". See https://wiki.openstreetmap.org/wiki/Tag:access=delivery"
-    },
-    "tag:access=discouraged": {
-        "message": "abgeraten",
-        "description": "Tag \"access=discouraged\". See https://wiki.openstreetmap.org/wiki/Tag:access=discouraged"
-    },
-    "tag:access=dismount": {
-        "message": "nur wenn abgestiegen",
-        "description": "Tag \"access=dismount\". See https://wiki.openstreetmap.org/wiki/Tag:access=dismount"
-    },
-    "tag:access=forestry": {
-        "message": "Nur für Forstbetrieb",
-        "description": "Tag \"access=forestry\". See https://wiki.openstreetmap.org/wiki/Tag:access=forestry"
-    },
-    "tag:access=no": {
-        "message": "Kein öffentlicher Zugang",
-        "description": "Tag \"access=no\". See https://wiki.openstreetmap.org/wiki/Tag:access=no"
-    },
-    "tag:access=permissive": {
-        "message": "gewährt",
-        "description": "Tag \"access=permissive\". See https://wiki.openstreetmap.org/wiki/Tag:access=permissive"
-    },
-    "tag:access=unknown": {
-        "message": "unbekannt",
-        "description": "Tag \"access=unknown\". See https://wiki.openstreetmap.org/wiki/Tag:access=unknown"
-    },
-    "tag:access=use_sidepath": {
-        "message": "stattdessen Seitenstreifen benutzen",
-        "description": "Tag \"access=use_sidepath\". See https://wiki.openstreetmap.org/wiki/Tag:access=use_sidepath"
-    },
-    "tag:access=yes": {
-        "message": "öffentlich zugänglich",
-        "description": "Tag \"access=yes\". See https://wiki.openstreetmap.org/wiki/Tag:access=yes"
-    },
-    "tag:aeroway=aerodrome": {
-        "message": "Flugplatz",
-        "description": "Tag \"aeroway=aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=aerodrome"
-    },
-    "tag:aeroway=airstrip": {
-        "message": "Landepiste",
-        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
-    },
-    "tag:aeroway=heliport": {
-        "message": "Hubschrauberlandeplatz",
-        "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
-    },
-    "tag:amenity=childcare": {
-        "message": "Kinderbetreuung",
-        "description": "Tag \"amenity=childcare\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=childcare"
-    },
-    "tag:building=agriculture": {
-        "message": "Landwirtschaftlich genutztes Gebäude",
-        "description": "Tag \"building=agriculture\". Meta-tag for for buildings in the agriculture group. Usually not used directly. See https://wiki.openstreetmap.org/wiki/Key:building"
-    },
-    "tag:changing_table": {
-        "message": "Wickeltisch",
-        "description": "Key \"changing_table\". See https://wiki.openstreetmap.org/wiki/Key:changing_table"
-    },
-    "tag:climbing": {
-        "message": "Klettern",
-        "description": "Key \"climbing\". See https://wiki.openstreetmap.org/wiki/Key:climbing"
-    },
-    "tag:climbing:boulder": {
-        "message": "Felsenklettern",
-        "description": "Key \"climbing:boulder\". See https://wiki.openstreetmap.org/wiki/Key:climbing:boulder"
-    },
-    "tag:climbing:grade:french": {
-        "message": "Klettergrad (Französisch)",
-        "description": "Key \"climbing:grade:french\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:french"
-    },
-    "tag:climbing:grade:polish": {
-        "message": "Klettergrad (Polnisch)",
-        "description": "Key \"climbing:grade:polish\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:polish"
-    },
-    "tag:climbing:grade:saxon": {
-        "message": "Klettergrad (Sächsisch)",
-        "description": "Key \"climbing:grade:saxon\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:saxon"
-    },
-    "tag:climbing:grade:uiaa": {
-        "message": "Klettergrad (UIAA)",
-        "description": "Key \"climbing:grade:uiaa\". See https://wiki.openstreetmap.org/wiki/Key:climbing:grade:uiaa"
-    },
-    "tag:climbing:ice": {
-        "message": "Eisklettern",
-        "description": "Key \"climbing:ice\". See https://wiki.openstreetmap.org/wiki/Key:climbing:ice"
-    },
-    "tag:climbing:rock": {
-        "message": "Felsenklettern",
-        "description": "Key \"climbing:rock\". See https://wiki.openstreetmap.org/wiki/Key:climbing:rock"
-    },
-    "tag:climbing:speed": {
-        "message": "Geschwindigkeitsklettern",
-        "description": "Key \"climbing:speed\". See https://wiki.openstreetmap.org/wiki/Key:climbing:speed"
-    },
-    "tag:climbing=route": {
-        "message": "Route",
-        "description": "Tag \"climbing=route\". See https://wiki.openstreetmap.org/wiki/Tag:climbing=route"
-    },
-    "tag:access=designated": {
-        "message": "gewidmet",
-        "description": "Tag \"access=designated\". See https://wiki.openstreetmap.org/wiki/Tag:access=designated"
-    },
-    "tag:access=destination": {
-        "message": "nur für Anlieger",
-        "description": "Tag \"access=destination\". See https://wiki.openstreetmap.org/wiki/Tag:access=destination"
     }
 }
