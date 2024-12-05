@@ -98,11 +98,7 @@
     },
     "tag:admin_level=7": {
         "message": "Járás, kistérség",
-        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7",
-        "5": {
-            "message": "",
-            "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
-        }
+        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=8": {
         "message": "Település",
@@ -6499,5 +6495,8 @@
     },
     "tag:incline=up": {
         "message": "felfelé"
+    },
+    "tag:amenity=scale": {
+        "message": "Mérleg"
     }
 }
