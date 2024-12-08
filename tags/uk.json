@@ -6,7 +6,7 @@
         "message": "так"
     },
     "tag:abandoned": {
-        "message": "",
+        "message": "Покинутий",
         "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
     },
     "tag:abutters": {
@@ -14,14 +14,14 @@
         "description": "Key \"abutters\". See https://wiki.openstreetmap.org/wiki/Key:abutters"
     },
     "tag:access": {
-        "message": "",
+        "message": "Загальний дозвіл на доступ",
         "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
     },
     "tag:access!=private": {
-        "message": ""
+        "message": "неприватний"
     },
     "tag:access=private": {
-        "message": "",
+        "message": "приватний",
         "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
     },
     "tag:accomodation": {
@@ -30,27 +30,22 @@
     },
     "tag:addr:city": {
         "message": "Місто",
-        "!=1": "Міста",
         "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
     },
     "tag:addr:country": {
         "message": "Країна",
-        "!=1": "Країни",
         "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
     },
     "tag:addr:full": {
         "message": "Повна адреса",
-        "!=1": "Повні адреси",
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
         "message": "Ім'я будинку",
-        "!=1": "Імена будинків",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
         "message": "Номер будинку",
-        "!=1": "Номери будинків",
         "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
     },
     "tag:addr:interpolation": {
@@ -59,12 +54,10 @@
     },
     "tag:addr:postcode": {
         "message": "Поштовий індекс",
-        "!=1": "Поштові індекси",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
         "message": "Вулиця",
-        "!=1": "Вулиці",
         "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
     },
     "tag:address": {
@@ -72,7 +65,7 @@
         "description": "Key \"address\". See https://wiki.openstreetmap.org/wiki/Key:address"
     },
     "tag:admin_level": {
-        "message": "",
+        "message": "Офіційний адміністративний рівень",
         "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
     },
     "tag:admin_level=10": {
@@ -80,7 +73,7 @@
         "description": "Tag \"admin_level=10\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=10"
     },
     "tag:admin_level=11": {
-        "message": "",
+        "message": "Мікрорайон (11)",
         "description": "Tag \"admin_level=11\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=11"
     },
     "tag:admin_level=2": {
@@ -105,11 +98,11 @@
     },
     "tag:admin_level=7": {
         "message": "",
-        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
-    },
-    "tag:admin_level=7.5": {
-        "message": "",
-        "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
+        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7",
+        "5": {
+            "message": "",
+            "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
+        }
     },
     "tag:admin_level=8": {
         "message": "Межі міст або районів міст",
@@ -137,7 +130,6 @@
     },
     "tag:alt_name": {
         "message": "Альтернативне ім'я",
-        "!=1": "Альтернативні імена",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
@@ -149,7 +141,7 @@
         "description": "Tag \"amenity=arts_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=arts_centre"
     },
     "tag:amenity=atm": {
-        "message": "",
+        "message": "ATM  Банкомат",
         "description": "Tag \"amenity=atm\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=atm"
     },
     "tag:amenity=baby_hatch": {
@@ -157,31 +149,31 @@
         "description": "Tag \"amenity=baby_hatch\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=baby_hatch"
     },
     "tag:amenity=bank": {
-        "message": "",
+        "message": "Банк",
         "description": "Tag \"amenity=bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bank"
     },
     "tag:amenity=bar": {
-        "message": "",
+        "message": "Бар",
         "description": "Tag \"amenity=bar\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bar"
     },
     "tag:amenity=bench": {
-        "message": "",
+        "message": "Лава",
         "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
     },
     "tag:amenity=bicycle_parking": {
-        "message": "",
+        "message": "Велопарковка",
         "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
     },
     "tag:amenity=bicycle_parking capacity<=20": {
-        "message": "",
+        "message": "Велопарковка (до 20 місць)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>20<=60": {
-        "message": "",
+        "message": "Велопарковка (20-60 місць)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>60": {
-        "message": "",
+        "message": "Велопарковка (понад 60 місць)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_rental": {
@@ -193,7 +185,7 @@
         "description": "Tag \"amenity=biergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=biergarten"
     },
     "tag:amenity=brothel": {
-        "message": "",
+        "message": "Бордель",
         "description": "Tag \"amenity=brothel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=brothel"
     },
     "tag:amenity=bureau_de_change": {
@@ -205,7 +197,7 @@
         "description": "Tag \"amenity=bus_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bus_station"
     },
     "tag:amenity=cafe": {
-        "message": "",
+        "message": "Кафе",
         "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
     },
     "tag:amenity=car_rental": {
@@ -217,11 +209,11 @@
         "description": "Tag \"amenity=car_sharing\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_sharing"
     },
     "tag:amenity=car_wash": {
-        "message": "",
+        "message": "Автомийка",
         "description": "Tag \"amenity=car_wash\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_wash"
     },
     "tag:amenity=charging_station": {
-        "message": "",
+        "message": "Зарядна станція",
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
     "tag:amenity=cinema": {
@@ -233,7 +225,7 @@
         "description": "Tag \"amenity=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clinic"
     },
     "tag:amenity=clock": {
-        "message": "",
+        "message": "Годинник",
         "description": "Tag \"amenity=clock\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clock"
     },
     "tag:amenity=college": {
@@ -273,7 +265,7 @@
         "description": "Tag \"amenity=embassy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=embassy"
     },
     "tag:amenity=fast_food": {
-        "message": "",
+        "message": "Ресторан швидкого харчування",
         "description": "Tag \"amenity=fast_food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fast_food"
     },
     "tag:amenity=ferry_terminal": {
@@ -285,7 +277,7 @@
         "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
     },
     "tag:amenity=food_court": {
-        "message": "",
+        "message": "Фуд-корт",
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
@@ -309,7 +301,7 @@
         "description": "Tag \"amenity=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=hospital"
     },
     "tag:amenity=ice_cream": {
-        "message": "",
+        "message": "Морозиво",
         "description": "Tag \"amenity=ice_cream\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ice_cream"
     },
     "tag:amenity=internet_cafe": {
@@ -366,7 +358,6 @@
     },
     "tag:amenity=pub": {
         "message": "Паб",
-        "!=1": "Паби",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
@@ -395,7 +386,6 @@
     },
     "tag:amenity=restaurant": {
         "message": "Ресторан",
-        "!=1": "Ресторани",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
@@ -556,32 +546,26 @@
     },
     "tag:barrier": {
         "message": "Перешкода",
-        "!=1": "Перешкоди",
         "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
     },
     "tag:barrier=city_wall": {
         "message": "Міська стіна",
-        "!=1": "Міські стіни",
         "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
     },
     "tag:barrier=fence": {
         "message": "Паркан",
-        "!=1": "Паркани",
         "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
     },
     "tag:barrier=hedge": {
         "message": "Кущ",
-        "!=1": "Кущі",
         "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
     },
     "tag:barrier=retaining_wall": {
         "message": "Підпірна стінка",
-        "!=1": "Підпірні стінки",
         "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
     },
     "tag:barrier=wall": {
         "message": "Стіна",
-        "!=1": "Стіни",
         "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
     },
     "tag:bath:open_air": {
@@ -2535,7 +2519,6 @@
     },
     "tag:highway": {
         "message": "Дорога",
-        "!=1": "Дороги",
         "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
     },
     "tag:highway=bridleway": {
@@ -2948,7 +2931,6 @@
     },
     "tag:int_name": {
         "message": "Міжнародна назва",
-        "!=1": "Міжнародні назви",
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
     "tag:intermittent": {
@@ -3265,7 +3247,6 @@
     },
     "tag:loc_name": {
         "message": "Місцева назва",
-        "!=1": "Місцеві назви",
         "description": "Key \"loc_name\". See https://wiki.openstreetmap.org/wiki/Key:loc_name"
     },
     "tag:man_made": {
@@ -3678,7 +3659,6 @@
     },
     "tag:name": {
         "message": "Назва",
-        "!=1": "Назви",
         "description": "Key \"name\". See https://wiki.openstreetmap.org/wiki/Key:name"
     },
     "tag:name:etymology": {
@@ -4115,7 +4095,6 @@
     },
     "tag:official_name": {
         "message": "Офіційне ім'я",
-        "!=1": "Офіційні імена",
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
@@ -4236,7 +4215,6 @@
     },
     "tag:place=city": {
         "message": "Місто",
-        "!=1": "Міста",
         "description": "Tag \"place=city\". See https://wiki.openstreetmap.org/wiki/Tag:place=city"
     },
     "tag:place=city population<200000": {
@@ -4245,17 +4223,14 @@
     },
     "tag:place=continent": {
         "message": "Континент",
-        "!=1": "Континенти",
         "description": "Tag \"place=continent\". See https://wiki.openstreetmap.org/wiki/Tag:place=continent"
     },
     "tag:place=country": {
         "message": "Країна",
-        "!=1": "Країни",
         "description": "Tag \"place=country\". See https://wiki.openstreetmap.org/wiki/Tag:place=country"
     },
     "tag:place=county": {
         "message": "Округ",
-        "!=1": "Округа",
         "description": "Tag \"place=county\". See https://wiki.openstreetmap.org/wiki/Tag:place=county"
     },
     "tag:place=farm": {
@@ -4264,17 +4239,14 @@
     },
     "tag:place=hamlet": {
         "message": "Хутір",
-        "!=1": "Хутора",
         "description": "Tag \"place=hamlet\". See https://wiki.openstreetmap.org/wiki/Tag:place=hamlet"
     },
     "tag:place=island": {
         "message": "Острів",
-        "!=1": "Острови",
         "description": "Tag \"place=island\". See https://wiki.openstreetmap.org/wiki/Tag:place=island"
     },
     "tag:place=islet": {
         "message": "Острівець",
-        "!=1": "Острівці",
         "description": "Tag \"place=islet\". See https://wiki.openstreetmap.org/wiki/Tag:place=islet"
     },
     "tag:place=isolated_dwelling": {
@@ -4283,7 +4255,6 @@
     },
     "tag:place=locality": {
         "message": "Район",
-        "!=1": "Райони",
         "description": "Tag \"place=locality\". See https://wiki.openstreetmap.org/wiki/Tag:place=locality"
     },
     "tag:place=neighbourhood": {
@@ -4292,7 +4263,6 @@
     },
     "tag:place=ocean": {
         "message": "Океан",
-        "!=1": "Океани",
         "description": "Tag \"place=ocean\". See https://wiki.openstreetmap.org/wiki/Tag:place=ocean"
     },
     "tag:place=quarter": {
@@ -4301,27 +4271,22 @@
     },
     "tag:place=region": {
         "message": "Регіон",
-        "!=1": "Регіони",
         "description": "Tag \"place=region\". See https://wiki.openstreetmap.org/wiki/Tag:place=region"
     },
     "tag:place=sea": {
         "message": "Море",
-        "!=1": "Моря",
         "description": "Tag \"place=sea\". See https://wiki.openstreetmap.org/wiki/Tag:place=sea"
     },
     "tag:place=state": {
         "message": "Штат",
-        "!=1": "Штати",
         "description": "Tag \"place=state\". See https://wiki.openstreetmap.org/wiki/Tag:place=state"
     },
     "tag:place=suburb": {
         "message": "Передмістя",
-        "!=1": "Передмістя",
         "description": "Tag \"place=suburb\". See https://wiki.openstreetmap.org/wiki/Tag:place=suburb"
     },
     "tag:place=town": {
         "message": "Місто",
-        "!=1": "Міста",
         "description": "Tag \"place=town\". See https://wiki.openstreetmap.org/wiki/Tag:place=town"
     },
     "tag:place=town population>=30000": {
@@ -4330,7 +4295,6 @@
     },
     "tag:place=village": {
         "message": "Село",
-        "!=1": "Села",
         "description": "Tag \"place=village\". See https://wiki.openstreetmap.org/wiki/Tag:place=village"
     },
     "tag:population": {
@@ -4535,7 +4499,6 @@
     },
     "tag:railway=platform": {
         "message": "Платформа",
-        "!=1": "Платформи",
         "description": "Tag \"railway=platform\". See https://wiki.openstreetmap.org/wiki/Tag:railway=platform"
     },
     "tag:railway=preserved": {
@@ -4544,7 +4507,6 @@
     },
     "tag:railway=rail": {
         "message": "Залізнична колія",
-        "!=1": "Залізничні колії",
         "description": "Tag \"railway=rail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail"
     },
     "tag:railway=rail service": {
@@ -4613,7 +4575,6 @@
     },
     "tag:railway=tram": {
         "message": "Трамвайна колія",
-        "!=1": " Трамвайні колії",
         "description": "Tag \"railway=tram\". See https://wiki.openstreetmap.org/wiki/Tag:railway=tram"
     },
     "tag:railway=tram;narrow_gauge": {
@@ -6075,5 +6036,56 @@
     "tag:xmas:feature=tree": {
         "message": "",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:access=customers": {
+        "message": "тільки для клієнтів"
+    },
+    "tag:access=delivery": {
+        "message": "тільки для доставки"
+    },
+    "tag:access=destination": {
+        "message": "призначення"
+    },
+    "tag:access=dismount": {
+        "message": "тільки в демонтованому стані"
+    },
+    "tag:access=forestry": {
+        "message": "тільки лісовий транспорт"
+    },
+    "tag:access=no": {
+        "message": "немає доступу для широкої громадськості"
+    },
+    "tag:access=unknown": {
+        "message": "невідомо"
+    },
+    "tag:access=use_sidepath": {
+        "message": "замість цього використовуйте бічну доріжку"
+    },
+    "tag:access=yes": {
+        "message": "загальнодоступний"
+    },
+    "tag:aeroway=aerodrome": {
+        "message": "Аеродром"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "Злітно-посадкова смуга"
+    },
+    "tag:amenity=bicycle_repair_station": {
+        "message": "Станція ремонту велосипедів"
+    },
+    "tag:amenity=canteen": {
+        "message": "Їдальня"
+    },
+    "tag:amenity=childcare": {
+        "message": "Догляд за дітьми"
+    },
+    "tag:access=permissive": {
+        "message": "вседозволеність"
+    },
+    "tag:access=agricultural": {
+        "message": "тільки сільськогосподарські перевезення"
+    },
+    "tag:aeroway=heliport": {
+        "message": "вертолітний майданчик"
     }
 }
