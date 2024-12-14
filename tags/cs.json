@@ -6880,5 +6880,23 @@
     },
     "tag:surface=unhewn_cobblestone": {
         "message": "neotesaný dlažební kámen"
+    },
+    "tag:bicycle_road": {
+        "message": "Silnice pro cyklisty"
+    },
+    "tag:cyclestreet": {
+        "message": "Ulice pro cyklisty"
+    },
+    "tag:cycleway=crossing": {
+        "message": "křížení"
+    },
+    "tag:cycleway=shared_busway": {
+        "message": "Sdílený pruh BUS a kolo"
+    },
+    "tag:cycleway=shared_lane": {
+        "message": "Sdílený pruh"
+    },
+    "tag:cycleway=shoulder": {
+        "message": "Rameno"
     }
 }
