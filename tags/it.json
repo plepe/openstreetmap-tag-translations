@@ -429,11 +429,11 @@
         "description": "Tag \"amenity=ticket_counter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ticket_counter"
     },
     "tag:amenity=toilets": {
-        "message": "Gabinetti-Servizi igienici",
+        "message": "Toilette",
         "description": "Tag \"amenity=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets"
     },
     "tag:amenity=toilets changing_table=yes": {
-        "message": "Gabinetti-Servizi igienici con fasciatio neonati",
+        "message": "Toilette con fasciatoio",
         "description": "Combined tag \"amenity=toilets\" and \"changing_table=yes\". See https://wiki.openstreetmap.org/wiki/Key:changing_table"
     },
     "tag:amenity=townhall": {
@@ -2202,7 +2202,7 @@
         "description": "Key \"embankment\". See https://wiki.openstreetmap.org/wiki/Key:embankment"
     },
     "tag:emergency": {
-        "message": "Servizi d'emergenza",
+        "message": "Emergenza",
         "description": "Key \"emergency\". See https://wiki.openstreetmap.org/wiki/Key:emergency"
     },
     "tag:emergency=access_point": {
@@ -3662,7 +3662,7 @@
         "description": "Key \"name\". See https://wiki.openstreetmap.org/wiki/Key:name"
     },
     "tag:name:etymology": {
-        "message": "",
+        "message": "Etimologia del nome",
         "description": "Key \"name:etymology\". See https://wiki.openstreetmap.org/wiki/Key:name:etymology"
     },
     "tag:narrow": {
@@ -3834,11 +3834,11 @@
         "description": "Tag \"natural=volcano\". See https://wiki.openstreetmap.org/wiki/Tag:natural=volcano"
     },
     "tag:natural=water": {
-        "message": "Lakes, etc.",
+        "message": "Acqua",
         "description": "Tag \"natural=water\". See https://wiki.openstreetmap.org/wiki/Tag:natural=water"
     },
     "tag:natural=wetland": {
-        "message": "Wetland",
+        "message": "Acquitrino",
         "description": "Tag \"natural=wetland\". See https://wiki.openstreetmap.org/wiki/Tag:natural=wetland"
     },
     "tag:natural=wood": {
