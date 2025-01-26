@@ -1,1 +1,2681 @@
-{}
+{
+    "tag:*=no": {
+        "message": "இல்லை"
+    },
+    "tag:*=yes": {
+        "message": "ஆம்"
+    },
+    "tag:abandoned": {
+        "message": "கைவிடப்பட்டது"
+    },
+    "tag:abutters": {
+        "message": "அபூட்ச்"
+    },
+    "tag:access": {
+        "message": "பொது அணுகல் இசைவு"
+    },
+    "tag:access!=private": {
+        "message": "தனியார் அல்லாத"
+    },
+    "tag:access=agricultural": {
+        "message": "விவசாய போக்குவரத்து மட்டுமே"
+    },
+    "tag:access=customers": {
+        "message": "வாடிக்கையாளர்களுக்கு மட்டுமே"
+    },
+    "tag:access=delivery": {
+        "message": "விநியோகங்களுக்கு மட்டுமே"
+    },
+    "tag:access=destination": {
+        "message": "இலக்கு"
+    },
+    "tag:access=discouraged": {
+        "message": "ஊக்கமளித்தது"
+    },
+    "tag:access=dismount": {
+        "message": "இறக்கும் போது மட்டுமே"
+    },
+    "tag:access=forestry": {
+        "message": "வனவியல் போக்குவரத்து மட்டுமே"
+    },
+    "tag:access=no": {
+        "message": "பொது மக்களுக்கு அணுகல் இல்லை"
+    },
+    "tag:access=private": {
+        "message": "தனிப்பட்ட"
+    },
+    "tag:access=unknown": {
+        "message": "தெரியவில்லை"
+    },
+    "tag:access=use_sidepath": {
+        "message": "அதற்கு பதிலாக பக்கவாட்டைப் பயன்படுத்தவும்"
+    },
+    "tag:access=yes": {
+        "message": "பகிரங்கமாக அணுகக்கூடியது"
+    },
+    "tag:accomodation": {
+        "message": "தங்குமிடம்"
+    },
+    "tag:addr:city": {
+        "message": "நகரம்"
+    },
+    "tag:addr:country": {
+        "message": "நாடு"
+    },
+    "tag:addr:full": {
+        "message": "முழு முகவரி"
+    },
+    "tag:addr:housename": {
+        "message": "வீட்டின் பெயர்"
+    },
+    "tag:addr:housenumber": {
+        "message": "அவுச்நம்பர்"
+    },
+    "tag:addr:interpolation": {
+        "message": "இடைக்கணிக்கப்பட்ட அவுச்நம்பர்ச்"
+    },
+    "tag:addr:postcode": {
+        "message": "அஞ்சல் குறியீடு"
+    },
+    "tag:addr:street": {
+        "message": "தெரு"
+    },
+    "tag:address": {
+        "message": "முகவரி"
+    },
+    "tag:admin_level": {
+        "message": "அதிகாரப்பூர்வ நிர்வாக நிலை"
+    },
+    "tag:admin_level=10": {
+        "message": "புறநகர் (10)"
+    },
+    "tag:admin_level=2": {
+        "message": "தேசிய எல்லை (2)"
+    },
+    "tag:admin_level=3": {
+        "message": "? (3)"
+    },
+    "tag:admin_level=4": {
+        "message": "மாநில எல்லை (4)"
+    },
+    "tag:admin_level=5": {
+        "message": "(5)"
+    },
+    "tag:admin_level=6": {
+        "message": "மாவட்டங்கள் (6)"
+    },
+    "tag:admin_level=9": {
+        "message": "(9)"
+    },
+    "tag:aerialway": {
+        "message": "வான்வழி பாதை"
+    },
+    "tag:aeroway": {
+        "message": "ஏரோவே"
+    },
+    "tag:aeroway=aerodrome": {
+        "message": "ஏரோட்ரோம்"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "வான்வழிப் பாதையில்"
+    },
+    "tag:aeroway=heliport": {
+        "message": "எலிபோர்ட்"
+    },
+    "tag:aeroway=runway": {
+        "message": "ஓடுபாதை"
+    },
+    "tag:aeroway=taxiway": {
+        "message": "நடையோடுபாதை"
+    },
+    "tag:alt_name": {
+        "message": "மாற்று பெயர்"
+    },
+    "tag:amenity": {
+        "message": "வசதி"
+    },
+    "tag:amenity=baby_hatch": {
+        "message": "குழந்தை அட்ச்"
+    },
+    "tag:amenity=bank": {
+        "message": "வைப்பகம்"
+    },
+    "tag:amenity=bar": {
+        "message": "மதுக்கூடம்"
+    },
+    "tag:amenity=bicycle_parking": {
+        "message": "சைக்கிள் பார்க்கிங்"
+    },
+    "tag:amenity=bicycle_parking capacity<=20": {
+        "message": "சைக்கிள் பார்க்கிங் (20 இடங்கள் வரை)"
+    },
+    "tag:amenity=bicycle_parking capacity>20<=60": {
+        "message": "சைக்கிள் பார்க்கிங் (20-60 இடங்கள்)"
+    },
+    "tag:amenity=bicycle_rental": {
+        "message": "சைக்கிள் வாடகை"
+    },
+    "tag:amenity=bicycle_repair_station": {
+        "message": "சைக்கிள் பழுதுபார்க்கும் நிலையம்"
+    },
+    "tag:amenity=brothel": {
+        "message": "விபச்சார விடுதி"
+    },
+    "tag:amenity=bus_station": {
+        "message": "பச் நிலையம்"
+    },
+    "tag:amenity=cafe": {
+        "message": "கபே"
+    },
+    "tag:amenity=car_wash": {
+        "message": "கார் கழுவுதல்"
+    },
+    "tag:amenity=charging_station": {
+        "message": "சார்சிங் நிலையம்"
+    },
+    "tag:amenity=childcare": {
+        "message": "குழந்தை பராமரிப்பு"
+    },
+    "tag:amenity=cinema": {
+        "message": "சினிமா"
+    },
+    "tag:amenity=clock": {
+        "message": "கடிகை"
+    },
+    "tag:amenity=college": {
+        "message": "கல்லூரி"
+    },
+    "tag:amenity=crematorium": {
+        "message": "தகனம்"
+    },
+    "tag:amenity=dentist": {
+        "message": "பல் மருத்துவர்"
+    },
+    "tag:amenity=embassy": {
+        "message": "தூதரகம்"
+    },
+    "tag:amenity=fast_food": {
+        "message": "துரித உணவு உணவகம்"
+    },
+    "tag:amenity=fire_station": {
+        "message": "தீயணைப்பு நிலையம்"
+    },
+    "tag:amenity=food_court": {
+        "message": "உணவு அறமன்றம்"
+    },
+    "tag:amenity=fuel": {
+        "message": "எரிபொருள் நிலையம்"
+    },
+    "tag:amenity=hospital": {
+        "message": "மருத்துவமனை"
+    },
+    "tag:amenity=ice_cream": {
+        "message": "ஐச்கிரீம்"
+    },
+    "tag:amenity=nursing_home": {
+        "message": "நர்சிங் ஓம்"
+    },
+    "tag:amenity=parcel_locker": {
+        "message": "பார்சல் லாக்கர்"
+    },
+    "tag:amenity=parking": {
+        "message": "பார்க்கிங்"
+    },
+    "tag:amenity=post_box": {
+        "message": "இடுகை பெட்டி"
+    },
+    "tag:amenity=post_office": {
+        "message": "தபால் அலுவலகம்"
+    },
+    "tag:amenity=pub": {
+        "message": "பப்"
+    },
+    "tag:amenity=public_bath": {
+        "message": "பொது குளியல்"
+    },
+    "tag:amenity=recycling recycling_type=centre": {
+        "message": "மறுசுழற்சி நடுவண்"
+    },
+    "tag:amenity=recycling recycling_type=container": {
+        "message": "சரக்குப் பெட்டகம்"
+    },
+    "tag:amenity=restaurant": {
+        "message": "உணவகம்"
+    },
+    "tag:amenity=scale": {
+        "message": "அளவு"
+    },
+    "tag:amenity=school": {
+        "message": "பள்ளி"
+    },
+    "tag:amenity=university": {
+        "message": "பல்கலைக்கழகம்"
+    },
+    "tag:amenity=vending_machine vending=bicycle_tube": {
+        "message": "சைக்கிள் குழாய் விநியோகிப்பான்"
+    },
+    "tag:architect": {
+        "message": "கட்டிடக் கலைஞர்"
+    },
+    "tag:artist_name": {
+        "message": "கலைஞர்"
+    },
+    "tag:barrier": {
+        "message": "தடை"
+    },
+    "tag:barrier=hedge": {
+        "message": "எட்ச்"
+    },
+    "tag:barrier=kerb": {
+        "message": "கர்ப்"
+    },
+    "tag:barrier=retaining_wall": {
+        "message": "தக்கவைக்கும் சுவர்"
+    },
+    "tag:barrier=wall": {
+        "message": "சுவர்"
+    },
+    "tag:brand": {
+        "message": "சூட்டுக்குறி"
+    },
+    "tag:bridge": {
+        "message": "பாலம்"
+    },
+    "tag:building": {
+        "message": "கட்டிடம்"
+    },
+    "tag:building:levels": {
+        "message": "நிலைகள்"
+    },
+    "tag:building:start_date": {
+        "message": "கட்டிடம் நிறைவு தேதி"
+    },
+    "tag:building=agriculture": {
+        "message": "விவசாய கட்டிடம்"
+    },
+    "tag:building=bunker": {
+        "message": "பதுங்கு குழி"
+    },
+    "tag:building=church": {
+        "message": "தேவாலயம்"
+    },
+    "tag:building=church religion=christian": {
+        "message": "தேவாலயம்"
+    },
+    "tag:building=hospital": {
+        "message": "மருத்துவமனை"
+    },
+    "tag:building=hotel": {
+        "message": "ஓட்டல்"
+    },
+    "tag:building=mosque religion=muslim": {
+        "message": "மசூதி"
+    },
+    "tag:building=pavilion": {
+        "message": "விளையாட்டு பெவிலியன்"
+    },
+    "tag:building=religious": {
+        "message": "மத கட்டிடம்"
+    },
+    "tag:building=synagogue religion=jewish": {
+        "message": "செசக்"
+    },
+    "tag:building=temple": {
+        "message": "கோயில்"
+    },
+    "tag:building=temple religion=sikh": {
+        "message": "சீக்கிய-ஆடம்பரமான"
+    },
+    "tag:cables": {
+        "message": "கேபிள்கள்"
+    },
+    "tag:changing_table": {
+        "message": "டயபர் மாற்றும் அட்டவணை"
+    },
+    "tag:charge": {
+        "message": "மின்னூட்டு"
+    },
+    "tag:climbing": {
+        "message": "ஏறுதல்"
+    },
+    "tag:climbing:bolted": {
+        "message": "போல்ட்"
+    },
+    "tag:climbing:boulder": {
+        "message": "கற்பாறை"
+    },
+    "tag:climbing:deepwater": {
+        "message": "ஆழமான நீர்-புனித"
+    },
+    "tag:climbing:grade:french": {
+        "message": "ஏறும் தகுதி (பிரஞ்சு)"
+    },
+    "tag:climbing:grade:polish": {
+        "message": "ஏறும் தகுதி"
+    },
+    "tag:climbing:grade:saxon": {
+        "message": "ஏறும் தகுதி"
+    },
+    "tag:climbing:grade:uiaa": {
+        "message": "ஏறும் கோட் (ஒன்றுபடுங்கள்)"
+    },
+    "tag:climbing:ice": {
+        "message": "பனி ஏறுதல்"
+    },
+    "tag:climbing:mixed": {
+        "message": "கலப்பு ஏறுதல்"
+    },
+    "tag:climbing:multipitch": {
+        "message": "மல்டி பிட்ச் ஏறும் வழிகள்"
+    },
+    "tag:climbing:orientation": {
+        "message": "ஏறும் நோக்குநிலை"
+    },
+    "tag:climbing:quality": {
+        "message": "ஏறும் தகுதி"
+    },
+    "tag:climbing:summit_log": {
+        "message": "ஏறும் அம்சத்தில் உச்சிமாநாடு பதிவு உள்ளது"
+    },
+    "tag:climbing:toprope": {
+        "message": "மேல் கயிறு ஏறும்"
+    },
+    "tag:climbing:trad": {
+        "message": "பாரம்பரிய ஏறுதல்"
+    },
+    "tag:climbing=boulder": {
+        "message": "கற்பாறை"
+    },
+    "tag:climbing=crag": {
+        "message": "நண்டு"
+    },
+    "tag:craft": {
+        "message": "கைவினை"
+    },
+    "tag:craft=optician": {
+        "message": "ஒளியியல்"
+    },
+    "tag:craft=painter": {
+        "message": "ஓவியர்"
+    },
+    "tag:craft=photographic_laboratory": {
+        "message": "புகைப்பட ஆய்வகம்"
+    },
+    "tag:craft=piano_tuner": {
+        "message": "ட்யூனர் பியானோ"
+    },
+    "tag:craft=roofer": {
+        "message": "கூரை"
+    },
+    "tag:craft=saddler": {
+        "message": "சாட்லர்"
+    },
+    "tag:craft=sculptor": {
+        "message": "சிற்பி"
+    },
+    "tag:created_by": {
+        "message": "உருவாக்கியது"
+    },
+    "tag:crossing=uncontrolled": {
+        "message": "கட்டுப்பாடற்றது"
+    },
+    "tag:crossing=unmarked": {
+        "message": "குறிக்கப்படாதது"
+    },
+    "tag:cuisine=kebab": {
+        "message": "கபாப்"
+    },
+    "tag:cuisine=regional": {
+        "message": "பிராந்திய"
+    },
+    "tag:cutting": {
+        "message": "கட்டிங்"
+    },
+    "tag:cyclestreet": {
+        "message": "சைக்கிள்ச்ட்ரீட்"
+    },
+    "tag:cycleway": {
+        "message": "சைக்கிள் பாதை"
+    },
+    "tag:cycleway=bike_box;asl": {
+        "message": "பைக் பெட்டி"
+    },
+    "tag:cycleway=crossing": {
+        "message": "கடத்தல்"
+    },
+    "tag:cycleway=lane": {
+        "message": "சுழற்சி பாதை"
+    },
+    "tag:cycleway=shared_busway": {
+        "message": "புச்வே பகிரப்பட்டது"
+    },
+    "tag:cycleway=shoulder": {
+        "message": "தோள்பட்டை"
+    },
+    "tag:cycleway=track": {
+        "message": "சைக்கிள் டிராக்"
+    },
+    "tag:diet": {
+        "message": "உணவு விருப்பங்கள்"
+    },
+    "tag:diet:dairy_free": {
+        "message": "பால் இலவசம்"
+    },
+    "tag:diet:fruitarian": {
+        "message": "பலனளிக்கும்"
+    },
+    "tag:diet:halal": {
+        "message": "ஆலால்"
+    },
+    "tag:diet:kosher": {
+        "message": "கோசர்"
+    },
+    "tag:diet:lacto_vegetarian": {
+        "message": "லாக்டோ மரக்கறி"
+    },
+    "tag:diet:lactose_free": {
+        "message": "லாக்டோச் இலவசம்"
+    },
+    "tag:diet:ovo_vegetarian": {
+        "message": "ஓவோ மரக்கறி"
+    },
+    "tag:diet:pescetarian": {
+        "message": "பெசெட்டேரியன்"
+    },
+    "tag:diet:raw": {
+        "message": "சமைக்கப்படாத / பதப்படுத்தப்படாத"
+    },
+    "tag:diet:vegan": {
+        "message": "சைவ உணவு"
+    },
+    "tag:diet:vegetarian": {
+        "message": "மரக்கறி"
+    },
+    "tag:direction": {
+        "message": "திசை"
+    },
+    "tag:direction=E": {
+        "message": "கிழக்கு"
+    },
+    "tag:direction=NNE": {
+        "message": "வடக்கு-வடகிழக்கு"
+    },
+    "tag:direction=NNW": {
+        "message": "வடக்கு-வடமேற்கு"
+    },
+    "tag:direction=NW": {
+        "message": "வடமேற்கு"
+    },
+    "tag:direction=S": {
+        "message": "தெற்கு"
+    },
+    "tag:direction=SE": {
+        "message": "தென்கிழக்கு"
+    },
+    "tag:direction=SSW": {
+        "message": "தெற்கு-தென்மேற்கு"
+    },
+    "tag:direction=W": {
+        "message": "மேற்கு"
+    },
+    "tag:direction=WNW": {
+        "message": "மேற்கு-வடமேற்கு"
+    },
+    "tag:direction=WSW": {
+        "message": "மேற்கு-தென்மேற்கு"
+    },
+    "tag:disused": {
+        "message": "பயன்படுத்தப்பட்டது"
+    },
+    "tag:driving_side": {
+        "message": "ஓட்டுநர் பக்கம்"
+    },
+    "tag:driving_side=left": {
+        "message": "இடது"
+    },
+    "tag:driving_side=right": {
+        "message": "வலது"
+    },
+    "tag:ele": {
+        "message": "உயர்வு ரேகை"
+    },
+    "tag:electrified=no": {
+        "message": "மின்மயமாக்கப்படவில்லை"
+    },
+    "tag:email": {
+        "message": "மின்னஞ்சல்"
+    },
+    "tag:emergency": {
+        "message": "அவசரநிலை"
+    },
+    "tag:emergency=access_point": {
+        "message": "மீட்பு புள்ளி"
+    },
+    "tag:emergency=defibrillator": {
+        "message": "டிஃபிபிரிலேட்டர்"
+    },
+    "tag:emergency=fire_hydrant": {
+        "message": "தீ ஐட்ரண்ட்"
+    },
+    "tag:emergency=fire_hydrant fire_hydrant:type=pillar": {
+        "message": "தீ ஐட்ரண்ட் தூண்"
+    },
+    "tag:emergency=fire_hydrant fire_hydrant:type=underground": {
+        "message": "தீ ஐட்ரண்ட் நிலத்தடி"
+    },
+    "tag:emergency=lifeguard": {
+        "message": "லைஃப் கார்ட்"
+    },
+    "tag:emergency=phone": {
+        "message": "அவசர தொலைபேசி"
+    },
+    "tag:end_date": {
+        "message": "அகற்றப்பட்ட தேதி"
+    },
+    "tag:entrance": {
+        "message": "நுழைவு"
+    },
+    "tag:entrance=emergency": {
+        "message": "அவசரநிலை வெளியேறுதல்"
+    },
+    "tag:entrance=exit": {
+        "message": "வெளியேறு"
+    },
+    "tag:entrance=garage": {
+        "message": "கேரேச் நுழைவு"
+    },
+    "tag:entrance=home": {
+        "message": "வீடு நுழைவாயில்"
+    },
+    "tag:entrance=main": {
+        "message": "முதன்மையான நுழைவாயில்"
+    },
+    "tag:entrance=service": {
+        "message": "பணி நுழைவு"
+    },
+    "tag:entrance=staircase": {
+        "message": "படிக்கட்டுக்கு கதவு"
+    },
+    "tag:fax": {
+        "message": "தொலைநகல் எண்"
+    },
+    "tag:fixme": {
+        "message": "என்னை சரிசெய்யவும்"
+    },
+    "tag:food": {
+        "message": "உணவு பணி செய்கிறது"
+    },
+    "tag:foot": {
+        "message": "கால் அணுகல் இசைவு"
+    },
+    "tag:footway=access_aisle": {
+        "message": "இடைகழியை அணுகவும்"
+    },
+    "tag:footway=alley": {
+        "message": "சந்து"
+    },
+    "tag:footway=crossing": {
+        "message": "கடத்தல்"
+    },
+    "tag:footway=sidewalk": {
+        "message": "நடைபாதை"
+    },
+    "tag:footway=traffic_island": {
+        "message": "போக்குவரத்து தீவு"
+    },
+    "tag:ford": {
+        "message": "ஃபோர்டு"
+    },
+    "tag:frequency": {
+        "message": "மீடிறன், மீள்திறன், நிகழ்வெண், நிகழ்வு"
+    },
+    "tag:frequency=0": {
+        "message": "நேரடி மின்னோட்டம்"
+    },
+    "tag:geological": {
+        "message": "புவியியல்"
+    },
+    "tag:goods": {
+        "message": "எல்.சி.வி அணுகல் இசைவு"
+    },
+    "tag:healthcare=hospital": {
+        "message": "மருத்துவமனை"
+    },
+    "tag:height": {
+        "message": "உயரம்"
+    },
+    "tag:hgv": {
+        "message": "HGV அணுகல் இசைவு"
+    },
+    "tag:highway": {
+        "message": "நெடுஞ்சாலை"
+    },
+    "tag:highway=bridleway": {
+        "message": "பிரிட்ல்வே"
+    },
+    "tag:highway=crossing": {
+        "message": "கடத்தல்"
+    },
+    "tag:highway=cycleway": {
+        "message": "சைக்கிள் பாதை"
+    },
+    "tag:highway=cycleway segregated=no": {
+        "message": "பகிரப்பட்ட சுழற்சி- மற்றும் கால்வாய்"
+    },
+    "tag:highway=cycleway segregated=yes": {
+        "message": "பிரிக்கப்பட்ட சுழற்சி- மற்றும் கால்வாய்"
+    },
+    "tag:highway=elevator": {
+        "message": "உயர்வு"
+    },
+    "tag:highway=footway": {
+        "message": "பாதை"
+    },
+    "tag:highway=footway conveying": {
+        "message": "நகரும் நடைபாதை"
+    },
+    "tag:highway=living_street": {
+        "message": "வாழும் தெரு"
+    },
+    "tag:highway=minor": {
+        "message": "சிறிய சாலை"
+    },
+    "tag:highway=motorway": {
+        "message": "மின்னோடி பாதை"
+    },
+    "tag:highway=motorway_link": {
+        "message": "மின்னோடி பாதை இணைப்பு"
+    },
+    "tag:highway=path": {
+        "message": "பாதை"
+    },
+    "tag:highway=pedestrian": {
+        "message": "பாதசாரி மண்டலம்"
+    },
+    "tag:highway=residential": {
+        "message": "குடியிருப்பு சாலை"
+    },
+    "tag:highway=secondary": {
+        "message": "இரண்டாம் நிலை சாலை"
+    },
+    "tag:highway=service": {
+        "message": "பணி சாலை"
+    },
+    "tag:highway=steps conveying": {
+        "message": "எச்கலேட்டர்"
+    },
+    "tag:highway=tertiary": {
+        "message": "மூன்றாம் நிலை சாலை"
+    },
+    "tag:highway=track": {
+        "message": "மின்தடம்"
+    },
+    "tag:highway=trunk": {
+        "message": "டிரங்க் சாலை"
+    },
+    "tag:highway=trunk_link": {
+        "message": "டிரங்க் சாலை இணைப்பு"
+    },
+    "tag:highway=unclassified": {
+        "message": "வகைப்படுத்தப்படாத சாலை"
+    },
+    "tag:highway=via_ferrata": {
+        "message": "ஃபெராட்டா வழியாக"
+    },
+    "tag:historic:civilization": {
+        "message": "நாகரிகத்தால் உருவாக்கப்பட்டது"
+    },
+    "tag:historic=memorial": {
+        "message": "நினைவு"
+    },
+    "tag:historic=monument": {
+        "message": "நினைவுச்சின்னம்"
+    },
+    "tag:horse": {
+        "message": "குதிரை ரைடர்ச் அணுகல் இசைவு"
+    },
+    "tag:incline": {
+        "message": "சாய்வு"
+    },
+    "tag:incline=down": {
+        "message": "கீழே"
+    },
+    "tag:information=audioguide": {
+        "message": "ஆடியோ வழிகாட்டி"
+    },
+    "tag:information=board": {
+        "message": "பலகை"
+    },
+    "tag:information=guidepost": {
+        "message": "வழிகாட்டி போச்ட்"
+    },
+    "tag:information=map": {
+        "message": "வரைபடம்"
+    },
+    "tag:information=route_marker": {
+        "message": "பாதை மார்க்கர்"
+    },
+    "tag:information=tactile_map": {
+        "message": "தொட்டுணரக்கூடிய வரைபடம்"
+    },
+    "tag:information=terminal": {
+        "message": "முனையத்தில்"
+    },
+    "tag:information=trail_blaze": {
+        "message": "டிரெயில் பிளேச்"
+    },
+    "tag:inscription": {
+        "message": "கல்வெட்டு"
+    },
+    "tag:int_name": {
+        "message": "பன்னாட்டு பெயர்"
+    },
+    "tag:internet_access=public": {
+        "message": "வரையறுக்கப்படாத இணைய அணுகல்"
+    },
+    "tag:internet_access=service": {
+        "message": "இணைய அணுகல் நடுவண்"
+    },
+    "tag:internet_access=terminal": {
+        "message": "கணினியுடன் இலவச இணைய அணுகல் இல்லை."
+    },
+    "tag:internet_access=terminal internet_access:fee=no": {
+        "message": "கணினியுடன் இலவச இணைய அணுகல்."
+    },
+    "tag:internet_access=wlan": {
+        "message": "வரையறுக்கப்படாத வைஃபை இணைய அணுகல்"
+    },
+    "tag:internet_access=wlan internet_access:fee=customers": {
+        "message": "வாடிக்கையாளர்களுக்கான இலவச வைஃபை இணைய அணுகல்"
+    },
+    "tag:internet_access=wlan internet_access:fee=no": {
+        "message": "இலவச வைஃபை இணைய அணுகல்"
+    },
+    "tag:internet_access=wlan internet_access:fee=yes": {
+        "message": "இலவச வைஃபை இணைய அணுகல் இல்லை"
+    },
+    "tag:is_in": {
+        "message": "உள்ளது"
+    },
+    "tag:kerb": {
+        "message": "கர்ப்"
+    },
+    "tag:kerb=flush": {
+        "message": "பறிப்பு"
+    },
+    "tag:kerb=lowered": {
+        "message": "தாழ்த்தப்பட்டது"
+    },
+    "tag:kerb=no": {
+        "message": "கட்டுப்பாடு இல்லை"
+    },
+    "tag:kerb=raised": {
+        "message": "உயர்த்தப்பட்டது"
+    },
+    "tag:kerb=rolled": {
+        "message": "உருட்டப்பட்டது"
+    },
+    "tag:kids_area": {
+        "message": "குழந்தைகள் பகுதி"
+    },
+    "tag:landuse": {
+        "message": "கவரும்"
+    },
+    "tag:landuse=greenfield": {
+        "message": "கிரீன்ஃபீல்ட்"
+    },
+    "tag:lanes": {
+        "message": "பாதைகள்"
+    },
+    "tag:leisure": {
+        "message": "ஓய்வு"
+    },
+    "tag:leisure=adult_gaming_centre": {
+        "message": "அகவை வந்தோர் கேமிங் நடுவண்"
+    },
+    "tag:leisure=amusement_arcade": {
+        "message": "பொழுதுபோக்கு ஆர்கேட்"
+    },
+    "tag:leisure=bandstand": {
+        "message": "பேண்ட்ச்டாண்ட்"
+    },
+    "tag:leisure=bird_hide": {
+        "message": "பறவை மறை"
+    },
+    "tag:leisure=bleachers": {
+        "message": "ப்ளீச்சர்கள்"
+    },
+    "tag:leisure=bowling_alley": {
+        "message": "பவுலிங் சந்து"
+    },
+    "tag:leisure=common": {
+        "message": "பொது"
+    },
+    "tag:leisure=dance": {
+        "message": "நடன மண்டபம்"
+    },
+    "tag:leisure=dog_park": {
+        "message": "நாய் பூங்கா"
+    },
+    "tag:leisure=escape_game": {
+        "message": "தப்பிக்கும் விளையாட்டு"
+    },
+    "tag:leisure=firepit": {
+        "message": "ஃபயர்பிட்"
+    },
+    "tag:leisure=fishing": {
+        "message": "மீன்பிடி இடம்"
+    },
+    "tag:leisure=fitness_centre": {
+        "message": "உடற்பயிற்சி நடுவண்"
+    },
+    "tag:leisure=fitness_station": {
+        "message": "உடற்பயிற்சி நிலையம்"
+    },
+    "tag:leisure=golf_course": {
+        "message": "கோல்ஃப் மைதானம்"
+    },
+    "tag:leisure=horse_riding": {
+        "message": "சவாரி நடுவண்"
+    },
+    "tag:leisure=ice_rink": {
+        "message": "பனி வளையம்"
+    },
+    "tag:leisure=indoor_play": {
+        "message": "உட்புற விளையாட்டு பகுதி"
+    },
+    "tag:leisure=miniature_golf": {
+        "message": "மினிகோல்ஃப் மைதானம்"
+    },
+    "tag:leisure=nature_reserve": {
+        "message": "இயற்கை இருப்பு"
+    },
+    "tag:leisure=outdoor_seating": {
+        "message": "வெளிப்புற இருக்கை பகுதி"
+    },
+    "tag:leisure=park": {
+        "message": "ஓய்வு பூங்கா"
+    },
+    "tag:leisure=parklet": {
+        "message": "பூங்கா"
+    },
+    "tag:leisure=picnic_table": {
+        "message": "சுற்றுலா அட்டவணை"
+    },
+    "tag:leisure=pitch sport=american_football": {
+        "message": "அமெரிக்க கால்பந்து மைதானம்"
+    },
+    "tag:leisure=pitch sport=australian_football": {
+        "message": "ஆச்திரேலிய கால்பந்து மைதானம்"
+    },
+    "tag:leisure=pitch sport=badminton": {
+        "message": "பூப்பந்து அறமன்றம்"
+    },
+    "tag:leisure=pitch sport=baseball": {
+        "message": "பேச்பால் புலம்"
+    },
+    "tag:leisure=pitch sport=basketball": {
+        "message": "கூடைப்பந்து மைதானம்"
+    },
+    "tag:leisure=pitch sport=beachvolleyball": {
+        "message": "கடற்கரை கைப்பந்து அறமன்றம்"
+    },
+    "tag:leisure=pitch sport=boules": {
+        "message": "குறுகிய பந்துகள்"
+    },
+    "tag:leisure=pitch sport=cricket": {
+        "message": "கிரிக்கெட் புலம்"
+    },
+    "tag:leisure=pitch sport=equestrian": {
+        "message": "சவாரி அரங்கம்"
+    },
+    "tag:leisure=pitch sport=field_hockey": {
+        "message": "ஃபீல்ட் ஆக்கி சுருதி"
+    },
+    "tag:leisure=pitch sport=horseshoes": {
+        "message": "குதிரைவாலி குழி"
+    },
+    "tag:leisure=pitch sport=netball": {
+        "message": "நெட்பால் கோர்ட்"
+    },
+    "tag:leisure=pitch sport=rugby_league": {
+        "message": "ரக்பி லீக் புலம்"
+    },
+    "tag:leisure=pitch sport=rugby_union": {
+        "message": "ரக்பி யூனியன் புலம்"
+    },
+    "tag:leisure=pitch sport=shuffleboard": {
+        "message": "சஃபிள் போர்டு அறமன்றம்"
+    },
+    "tag:leisure=pitch sport=skateboard": {
+        "message": "ச்கேட் பார்க்"
+    },
+    "tag:leisure=pitch sport=soccer": {
+        "message": "கால்பந்து மைதானம்"
+    },
+    "tag:leisure=pitch sport=softball": {
+        "message": "சாப்ட்பால் மைதானம்"
+    },
+    "tag:leisure=pitch sport=table_tennis": {
+        "message": "பிங் பாங் அட்டவணை"
+    },
+    "tag:leisure=pitch sport=tennis": {
+        "message": "டென்னிச் கோர்ட்"
+    },
+    "tag:leisure=pitch sport=volleyball": {
+        "message": "கைப்பந்து அறமன்றம்"
+    },
+    "tag:leisure=playground": {
+        "message": "விளையாட்டு மைதானம்"
+    },
+    "tag:leisure=sauna": {
+        "message": "ச உனா னா"
+    },
+    "tag:leisure=slipway": {
+        "message": "ச்லிப்வே"
+    },
+    "tag:leisure=sport": {
+        "message": "பிற விளையாட்டு"
+    },
+    "tag:leisure=sports_centre": {
+        "message": "விளையாட்டு நடுவண்"
+    },
+    "tag:leisure=sports_hall": {
+        "message": "விளையாட்டு மண்டபம்"
+    },
+    "tag:leisure=stadium": {
+        "message": "அரங்கம்"
+    },
+    "tag:leisure=summer_camp": {
+        "message": "கோடைக்கால முகாம்"
+    },
+    "tag:leisure=swimming_area": {
+        "message": "நீச்சல் பகுதி"
+    },
+    "tag:leisure=swimming_pool": {
+        "message": "நீச்சல் குளம்"
+    },
+    "tag:leisure=track": {
+        "message": "மின்தடம்"
+    },
+    "tag:leisure=trampoline_park": {
+        "message": "டிராம்போலைன் பார்க்"
+    },
+    "tag:lit": {
+        "message": "தெரு விளக்குகள்"
+    },
+    "tag:loc_name": {
+        "message": "உள்ளக பெயர்"
+    },
+    "tag:man_made": {
+        "message": "செயற்கை கட்டமைப்புகள்"
+    },
+    "tag:man_made=incinerator": {
+        "message": "எரியூட்டல்"
+    },
+    "tag:man_made=mineshaft": {
+        "message": "மினிசாஃப்ட்"
+    },
+    "tag:man_made=monitoring_station": {
+        "message": "கண்காணிப்பு நிலையம்"
+    },
+    "tag:man_made=wastewater_plant": {
+        "message": "கழிவு நீர் ஆலை"
+    },
+    "tag:material": {
+        "message": "பொருள்"
+    },
+    "tag:maxheight": {
+        "message": "அதிகபட்சம். உயரம்"
+    },
+    "tag:maxlength": {
+        "message": "அதிகபட்சம். நீளம்"
+    },
+    "tag:maxspeed": {
+        "message": "அதிகபட்சம். விரைவு"
+    },
+    "tag:maxspeed=none": {
+        "message": "வரம்பு இல்லை"
+    },
+    "tag:maxspeed=walk": {
+        "message": "நடைபயிற்சி விரைவு"
+    },
+    "tag:memorial:conflict": {
+        "message": "மோதல் மனப்பாடம் செய்யப்பட்டது"
+    },
+    "tag:memorial:conflict=WW1": {
+        "message": "உலகப் போர் 1"
+    },
+    "tag:memorial:conflict=WW2": {
+        "message": "உலகப் போர் 2"
+    },
+    "tag:memorial=bust": {
+        "message": "மார்பளவு"
+    },
+    "tag:memorial=obelisk": {
+        "message": "ஒபெலிச்க்"
+    },
+    "tag:memorial=plaque": {
+        "message": "நினைவு தகடு"
+    },
+    "tag:memorial=statue": {
+        "message": "சிலை"
+    },
+    "tag:memorial=stele": {
+        "message": "ச்டீல்"
+    },
+    "tag:memorial=stolperstein": {
+        "message": "தடுமாறும்"
+    },
+    "tag:memorial=stone": {
+        "message": "கல்"
+    },
+    "tag:memorial=war_memorial": {
+        "message": "போர் நினைவு"
+    },
+    "tag:military": {
+        "message": "தரைப்படை"
+    },
+    "tag:motorcycle": {
+        "message": "மின்னோடி சைக்கிள் அணுகல் இசைவு"
+    },
+    "tag:mountain_pass": {
+        "message": "மலை பாச்"
+    },
+    "tag:narrow": {
+        "message": "குறுகிய"
+    },
+    "tag:natural": {
+        "message": "இயற்கை"
+    },
+    "tag:natural=arete": {
+        "message": "மீன் எலும்பு"
+    },
+    "tag:natural=bare_rock": {
+        "message": "வெற்று பாறை"
+    },
+    "tag:natural=bay": {
+        "message": "விரிகுடா"
+    },
+    "tag:natural=beach": {
+        "message": "கடற்கரை"
+    },
+    "tag:natural=cape": {
+        "message": "கேப்"
+    },
+    "tag:natural=cave_entrance": {
+        "message": "குகை நுழைவு"
+    },
+    "tag:natural=cliff": {
+        "message": "குன்றின்"
+    },
+    "tag:natural=coastline": {
+        "message": "கடற்கரை"
+    },
+    "tag:natural=divide": {
+        "message": "பிரிக்கவும்"
+    },
+    "tag:natural=fell": {
+        "message": "விழுந்தது"
+    },
+    "tag:natural=geyser": {
+        "message": "கீசர்"
+    },
+    "tag:natural=grassland": {
+        "message": "புல்வெளி"
+    },
+    "tag:natural=heath": {
+        "message": "ஈத்"
+    },
+    "tag:natural=hill": {
+        "message": "மலை"
+    },
+    "tag:natural=hot_spring": {
+        "message": "சூடான வேனில்"
+    },
+    "tag:natural=marsh": {
+        "message": "சேற்றுத்தரை"
+    },
+    "tag:natural=mountain": {
+        "message": "மலை"
+    },
+    "tag:natural=mud": {
+        "message": "மண்"
+    },
+    "tag:natural=peak": {
+        "message": "உச்ச"
+    },
+    "tag:natural=peninsula": {
+        "message": "குடாநாடு"
+    },
+    "tag:natural=reef": {
+        "message": "ரீஃப்"
+    },
+    "tag:natural=river_terrace": {
+        "message": "நதி மொட்டை மாடி"
+    },
+    "tag:natural=rock": {
+        "message": "பாறை"
+    },
+    "tag:natural=saddle": {
+        "message": "சேணம்"
+    },
+    "tag:natural=sand": {
+        "message": "மணல்"
+    },
+    "tag:natural=scree": {
+        "message": "ச்க்ரீ"
+    },
+    "tag:natural=shingle": {
+        "message": "சிங்கிள்"
+    },
+    "tag:natural=sinkhole": {
+        "message": "சிங்க்ஓல்"
+    },
+    "tag:natural=spring": {
+        "message": "வேனில்"
+    },
+    "tag:natural=strait": {
+        "message": "சலசந்தி"
+    },
+    "tag:natural=tree_row": {
+        "message": "மர வரிசை"
+    },
+    "tag:natural=valley": {
+        "message": "பள்ளத்தாக்கு"
+    },
+    "tag:natural=volcano": {
+        "message": "எரிமலை"
+    },
+    "tag:natural=water": {
+        "message": "நீர்"
+    },
+    "tag:network": {
+        "message": "பிணையம்"
+    },
+    "tag:network=icn": {
+        "message": "பன்னாட்டு சைக்கிள் பாதை"
+    },
+    "tag:network=iwn": {
+        "message": "பன்னாட்டு நடைபயிற்சி பிணையம்"
+    },
+    "tag:network=lcn": {
+        "message": "உள்ளக சைக்கிள் பாதை"
+    },
+    "tag:network=lwn": {
+        "message": "உள்ளக நடை பிணையம்"
+    },
+    "tag:network=ncn": {
+        "message": "தேசிய சைக்கிள் பாதை"
+    },
+    "tag:network=nwn": {
+        "message": "தேசிய நடைபயிற்சி பிணையம்"
+    },
+    "tag:network=rcn": {
+        "message": "பிராந்திய சைக்கிள் பாதை"
+    },
+    "tag:network=rwn": {
+        "message": "பிராந்திய நடைபயிற்சி பிணையம்"
+    },
+    "tag:noexit": {
+        "message": "டெட் எண்ட் ரோடு"
+    },
+    "tag:note": {
+        "message": "குறிப்பு"
+    },
+    "tag:office": {
+        "message": "அலுவலகம்"
+    },
+    "tag:official_name": {
+        "message": "அதிகாரப்பூர்வ பெயர்"
+    },
+    "tag:old_name": {
+        "message": "பழைய பெயர்"
+    },
+    "tag:oneway": {
+        "message": "ஒன் வே"
+    },
+    "tag:opening_date": {
+        "message": "திட்டமிட்ட தொடக்க தேதி"
+    },
+    "tag:opening_hours": {
+        "message": "திறந்த நேரம்"
+    },
+    "tag:operator": {
+        "message": "ஆபரேட்டர்"
+    },
+    "tag:parking:lane": {
+        "message": "பார்க்கிங் பாதை"
+    },
+    "tag:parking:lane=fire_lane": {
+        "message": "தீயணைப்பு இயந்திரங்களுக்கு தெளிவாக வைக்கப்பட வேண்டும்"
+    },
+    "tag:parking:lane=marked": {
+        "message": "தனித்தனியாக குறிக்கப்பட்ட பார்க்கிங் இடங்கள்"
+    },
+    "tag:parking:lane=no": {
+        "message": "இல்லை"
+    },
+    "tag:parking:lane=no_parking": {
+        "message": "ஏற்றுகிறது மட்டுமே"
+    },
+    "tag:parking:lane=no_stopping": {
+        "message": "பார்க்கிங் மற்றும் நிறுத்த அனுமதிக்கப்படவில்லை"
+    },
+    "tag:parking:lane=perpendicular": {
+        "message": "செங்குத்தாக பார்க்கிங்"
+    },
+    "tag:place=city": {
+        "message": "நகரம்"
+    },
+    "tag:place=city population<200000": {
+        "message": "சிறிய நகரம்"
+    },
+    "tag:place=continent": {
+        "message": "கண்டம்"
+    },
+    "tag:place=country": {
+        "message": "நாடு"
+    },
+    "tag:place=county": {
+        "message": "கவுண்டி"
+    },
+    "tag:place=farm": {
+        "message": "பண்ணை"
+    },
+    "tag:place=island": {
+        "message": "தீவு"
+    },
+    "tag:place=islet": {
+        "message": "தீவு"
+    },
+    "tag:place=isolated_dwelling": {
+        "message": "தனிமைப்படுத்தப்பட்ட குடியிருப்பு"
+    },
+    "tag:place=locality": {
+        "message": "இடம்"
+    },
+    "tag:place=neighbourhood": {
+        "message": "அக்கம்"
+    },
+    "tag:place=ocean": {
+        "message": "கடல்"
+    },
+    "tag:place=quarter": {
+        "message": "கால்"
+    },
+    "tag:place=region": {
+        "message": "பகுதி"
+    },
+    "tag:place=sea": {
+        "message": "கடல்"
+    },
+    "tag:place=state": {
+        "message": "மாநிலம்"
+    },
+    "tag:place=suburb": {
+        "message": "புறநகர்"
+    },
+    "tag:place=town": {
+        "message": "நகரம்"
+    },
+    "tag:place=town population>=30000": {
+        "message": "பெரிய நகரம்"
+    },
+    "tag:place=village": {
+        "message": "சிற்றூர்"
+    },
+    "tag:population": {
+        "message": "மக்கள் தொகை"
+    },
+    "tag:power": {
+        "message": "விசை"
+    },
+    "tag:power=cable": {
+        "message": "வடம்"
+    },
+    "tag:power=catenary_mast": {
+        "message": "கேடனரி மாச்ட்"
+    },
+    "tag:power=compensator": {
+        "message": "இழப்பீட்டி"
+    },
+    "tag:power=converter": {
+        "message": "எச்.வி.டி.சி மாற்றி"
+    },
+    "tag:power=generator": {
+        "message": "ஆற்றல் செனரேட்டர்"
+    },
+    "tag:power=heliostat": {
+        "message": "ஈலியோச்டாட் கண்ணாடி"
+    },
+    "tag:power=insulator": {
+        "message": "இன்சுலேட்டர்"
+    },
+    "tag:power=line": {
+        "message": "ஆற்றல் வரி"
+    },
+    "tag:power=station": {
+        "message": "மின் நிலையம்"
+    },
+    "tag:power=substation": {
+        "message": "ஆற்றல் துணை மின்நிலையம்"
+    },
+    "tag:power=switchgear": {
+        "message": "சுவிட்ச் கியர்"
+    },
+    "tag:power=terminal": {
+        "message": "ஆற்றல் முனையம்"
+    },
+    "tag:power=tower": {
+        "message": "ஆற்றல் கோபுரம்"
+    },
+    "tag:power=transformer": {
+        "message": "மின்மாற்றி"
+    },
+    "tag:power_source": {
+        "message": "ஆற்றல் சான்று"
+    },
+    "tag:power_source=biofuel": {
+        "message": "உயிரியெரிபொருள்"
+    },
+    "tag:power_source=coal": {
+        "message": "நிலக்கரி"
+    },
+    "tag:power_source=fusion": {
+        "message": "இணைவு"
+    },
+    "tag:power_source=geothermal": {
+        "message": "உலகம் வெப்பம்"
+    },
+    "tag:power_source=hydro": {
+        "message": "ஐட்ரோ"
+    },
+    "tag:power_source=nuclear": {
+        "message": "அணு"
+    },
+    "tag:power_source=oil": {
+        "message": "எண்ணெய்"
+    },
+    "tag:power_source=photovoltaic": {
+        "message": "ஒளிமின்னழுத்த"
+    },
+    "tag:power_source=solar-thermal": {
+        "message": "சூரிய வெப்ப"
+    },
+    "tag:power_source=tidal": {
+        "message": "வற்றுப்பெருக்கு"
+    },
+    "tag:power_source=waste": {
+        "message": "கழிவு"
+    },
+    "tag:power_source=wind": {
+        "message": "காற்று"
+    },
+    "tag:proposed": {
+        "message": "முன்மொழியப்பட்டது"
+    },
+    "tag:psv": {
+        "message": "பி.எச்.வி அணுகல் இசைவு"
+    },
+    "tag:public_transport": {
+        "message": "பொது போக்குவரத்து"
+    },
+    "tag:rack": {
+        "message": "ரேக் ரயில்வே"
+    },
+    "tag:rack=abt": {
+        "message": "ABT ரேக் அமைப்பு"
+    },
+    "tag:rack=locher": {
+        "message": "லோச்சர் ரேக் அமைப்பு"
+    },
+    "tag:rack=riggenbach": {
+        "message": "ரிக்சென்பாக் ரேக் சிச்டம்"
+    },
+    "tag:rack=strub": {
+        "message": "ச்ட்ரப் ரேக் அமைப்பு"
+    },
+    "tag:railway": {
+        "message": "ரயில்வே"
+    },
+    "tag:railway=rail service=siding": {
+        "message": "பக்கப்பாதை"
+    },
+    "tag:railway=rail service=spur": {
+        "message": "ச்பர்"
+    },
+    "tag:railway=rail service=yard": {
+        "message": "முற்றம்"
+    },
+    "tag:railway=rail usage": {
+        "message": "பயன்பாடு"
+    },
+    "tag:railway=tram": {
+        "message": "டிராம் டிராக்"
+    },
+    "tag:ref": {
+        "message": "குறிப்பு"
+    },
+    "tag:religion": {
+        "message": "மதம்"
+    },
+    "tag:religion=christian": {
+        "message": "கிறிச்தவர்"
+    },
+    "tag:religion=multifaith": {
+        "message": "மல்டிஃபெத்"
+    },
+    "tag:religion=muslim": {
+        "message": "முச்லீம்"
+    },
+    "tag:route=bicycle": {
+        "message": "சைக்கிள்"
+    },
+    "tag:route=ferry": {
+        "message": "படகு"
+    },
+    "tag:route=fitness_trail": {
+        "message": "உடற்பயிற்சி பாதை"
+    },
+    "tag:route=hiking": {
+        "message": "ஐக்கிங்"
+    },
+    "tag:route=light_rail": {
+        "message": "ஒளி ரயில்"
+    },
+    "tag:route=minibus": {
+        "message": "மினி பச்"
+    },
+    "tag:route=monorail": {
+        "message": "மோனோரெயில்"
+    },
+    "tag:route=mtb": {
+        "message": "மவுண்டன் பைக்கிங்"
+    },
+    "tag:route=rail": {
+        "message": "ரயில்வே"
+    },
+    "tag:route=road": {
+        "message": "சாலை"
+    },
+    "tag:route=subway": {
+        "message": "சுரங்கப்பாதை"
+    },
+    "tag:route=train": {
+        "message": "ரயில்"
+    },
+    "tag:route=tram": {
+        "message": "டிராம்"
+    },
+    "tag:route=trolley": {
+        "message": "தள்ளுவண்டி"
+    },
+    "tag:route=trolleybus": {
+        "message": "தள்ளுவண்டி"
+    },
+    "tag:service": {
+        "message": "பணி சாலை பண்புக்கூறுகள்"
+    },
+    "tag:shop": {
+        "message": "கடை"
+    },
+    "tag:shop=bakery": {
+        "message": "பேக்கரி"
+    },
+    "tag:shop=bicycle": {
+        "message": "சைக்கிள் கடை"
+    },
+    "tag:shop=books": {
+        "message": "புத்தகங்கள்"
+    },
+    "tag:shop=toys": {
+        "message": "பொம்மைகள்"
+    },
+    "tag:sidewalk": {
+        "message": "தெருவில் நடைபாதை"
+    },
+    "tag:sidewalk=no": {
+        "message": "நடைபாதை இல்லாமல் தெரு"
+    },
+    "tag:sidewalk=separate": {
+        "message": "தனித்தனியாக வரைபட நடைபாதையுடன் தெரு"
+    },
+    "tag:sidewalk=yes": {
+        "message": "நடைபாதையுடன் தெரு"
+    },
+    "tag:smoothness": {
+        "message": "மென்மையானது"
+    },
+    "tag:smoothness=bad": {
+        "message": "மோசமான"
+    },
+    "tag:smoothness=excellent": {
+        "message": "சிறந்த"
+    },
+    "tag:smoothness=good": {
+        "message": "நல்லது"
+    },
+    "tag:smoothness=impassable": {
+        "message": "சிறப்பான"
+    },
+    "tag:smoothness=intermediate": {
+        "message": "இடைநிலை"
+    },
+    "tag:smoothness=very_bad": {
+        "message": "மிகவும் மோசமானது"
+    },
+    "tag:smoothness=very_horrible": {
+        "message": "மிகவும் பயங்கரமானது"
+    },
+    "tag:source": {
+        "message": "மூலம்"
+    },
+    "tag:species": {
+        "message": "இனங்கள்"
+    },
+    "tag:sport": {
+        "message": "விளையாட்டு"
+    },
+    "tag:sport=10pin": {
+        "message": "10 பைன் பந்துவீச்சு"
+    },
+    "tag:sport=9pin": {
+        "message": "9 பைன் பந்துவீச்சு"
+    },
+    "tag:sport=american_football": {
+        "message": "அமெரிக்க கால்பந்து"
+    },
+    "tag:sport=archery": {
+        "message": "வில்வித்தை"
+    },
+    "tag:sport=athletics": {
+        "message": "தடகள"
+    },
+    "tag:sport=australian_football": {
+        "message": "ஆச்திரேலிய கால்பந்து"
+    },
+    "tag:sport=badminton": {
+        "message": "பேட்மிண்டன்"
+    },
+    "tag:sport=baseball": {
+        "message": "பேச்பால்"
+    },
+    "tag:sport=basketball": {
+        "message": "கூடைப்பந்து"
+    },
+    "tag:sport=billiards": {
+        "message": "பில்லியர்ட்ச்"
+    },
+    "tag:sport=bmx": {
+        "message": "பி.எம்.எக்ச்"
+    },
+    "tag:sport=boules": {
+        "message": "பந்துகள்"
+    },
+    "tag:sport=bowls": {
+        "message": "கிண்ணங்கள்"
+    },
+    "tag:sport=boxing": {
+        "message": "குத்துச்சண்டை"
+    },
+    "tag:sport=canoe": {
+        "message": "கேனோ"
+    },
+    "tag:sport=chess": {
+        "message": "சதுரங்கம்"
+    },
+    "tag:sport=climbing": {
+        "message": "ஏறுதல்"
+    },
+    "tag:sport=climbing_adventure": {
+        "message": "ஏறும் துணிவு"
+    },
+    "tag:sport=cockfighting": {
+        "message": "சேவல் சண்டை"
+    },
+    "tag:sport=cricket": {
+        "message": "கிரிக்கெட்"
+    },
+    "tag:sport=croquet": {
+        "message": "குரோக்கெட்"
+    },
+    "tag:sport=cycling": {
+        "message": "சைக்கிள் ஓட்டுதல்"
+    },
+    "tag:sport=disc_golf": {
+        "message": "வட்டு கோல்ஃப்"
+    },
+    "tag:sport=dog_racing": {
+        "message": "நாய் பந்தயம்"
+    },
+    "tag:sport=equestrian": {
+        "message": "குதிரையேற்றம்"
+    },
+    "tag:sport=fitness": {
+        "message": "உடற்பயிற்சி"
+    },
+    "tag:sport=football": {
+        "message": "கால்பந்து"
+    },
+    "tag:sport=gaelic_games": {
+        "message": "கேலிக் விளையாட்டு"
+    },
+    "tag:sport=handball": {
+        "message": "ஏண்ட்பால்"
+    },
+    "tag:sport=horseshoes": {
+        "message": "குதிரைவீரர்கள்"
+    },
+    "tag:sport=ice_skating": {
+        "message": "பனி சறுக்கு"
+    },
+    "tag:sport=ice_stock": {
+        "message": "பனி பங்கு"
+    },
+    "tag:sport=korfball": {
+        "message": "கூடை"
+    },
+    "tag:sport=long_jump": {
+        "message": "நீளம் தாண்டுதல்"
+    },
+    "tag:sport=multi": {
+        "message": "பல"
+    },
+    "tag:sport=netball": {
+        "message": "நெட்பால்"
+    },
+    "tag:sport=orienteering": {
+        "message": "ஓரியண்டரிங்"
+    },
+    "tag:sport=paragliding": {
+        "message": "பாராகிளைடிங்"
+    },
+    "tag:sport=pelota": {
+        "message": "பந்து"
+    },
+    "tag:sport=racquet": {
+        "message": "ராக்கெட்"
+    },
+    "tag:sport=rugby_league": {
+        "message": "ரக்பி லீக்"
+    },
+    "tag:sport=rugby_union": {
+        "message": "ரக்பி யூனியன்"
+    },
+    "tag:sport=running": {
+        "message": "இயங்கும்"
+    },
+    "tag:sport=scuba_diving": {
+        "message": "ச்கூபா டைவிங்"
+    },
+    "tag:sport=shooting": {
+        "message": "படப்பிடிப்பு"
+    },
+    "tag:sport=skateboard": {
+        "message": "ச்கேட்போர்டிங்"
+    },
+    "tag:sport=skating": {
+        "message": "ச்கேட்டிங்"
+    },
+    "tag:sport=skiing": {
+        "message": "பனிச்சறுக்கு"
+    },
+    "tag:sport=softball": {
+        "message": "சாப்ட்பால்"
+    },
+    "tag:sport=swimming": {
+        "message": "நீச்சல்"
+    },
+    "tag:sport=table_tennis": {
+        "message": "அட்டவணை டென்னிச்"
+    },
+    "tag:sport=team_handball": {
+        "message": "ஏண்ட்பால்"
+    },
+    "tag:sport=tennis": {
+        "message": "டென்னிச்"
+    },
+    "tag:sport=trampoline": {
+        "message": "தடமறிதல்"
+    },
+    "tag:sport=volleyball": {
+        "message": "கைப்பந்து"
+    },
+    "tag:start_date": {
+        "message": "உருவாக்கிய தேதி"
+    },
+    "tag:surface": {
+        "message": "மேற்பரப்பு"
+    },
+    "tag:surface=acrylic": {
+        "message": "ஆக்கிர"
+    },
+    "tag:surface=asphalt": {
+        "message": "நிலக்கீல்"
+    },
+    "tag:surface=carpet": {
+        "message": "தரைவிரிப்பு"
+    },
+    "tag:surface=clay": {
+        "message": "களிமண்"
+    },
+    "tag:surface=cobblestone": {
+        "message": "கோப்ச்டோன்"
+    },
+    "tag:surface=compacted": {
+        "message": "சுருக்கப்பட்டது"
+    },
+    "tag:surface=concrete": {
+        "message": "கான்கிரீட்"
+    },
+    "tag:surface=concrete:lanes": {
+        "message": "கான்கிரீட் பாதைகள்"
+    },
+    "tag:surface=concrete:plates": {
+        "message": "கான்கிரீட் தட்டுகள்"
+    },
+    "tag:surface=dirt": {
+        "message": "அழுக்கு"
+    },
+    "tag:surface=earth": {
+        "message": "பூமி"
+    },
+    "tag:surface=fine_gravel": {
+        "message": "நன்றாக சரளை"
+    },
+    "tag:surface=grass": {
+        "message": "புல்"
+    },
+    "tag:surface=grass_paver": {
+        "message": "புல் பேவர்"
+    },
+    "tag:surface=gravel": {
+        "message": "சரளை"
+    },
+    "tag:surface=ground": {
+        "message": "மைதானம்"
+    },
+    "tag:surface=ice": {
+        "message": "பனி"
+    },
+    "tag:surface=metal": {
+        "message": "மாழை"
+    },
+    "tag:surface=mud": {
+        "message": "மண்"
+    },
+    "tag:surface=paved": {
+        "message": "நடைபாதை"
+    },
+    "tag:surface=paving_stones": {
+        "message": "நடைபாதை கற்கள்"
+    },
+    "tag:surface=pebblestone": {
+        "message": "பெப்பிள்ச்டோன்"
+    },
+    "tag:surface=rock": {
+        "message": "பாறை"
+    },
+    "tag:surface=rubber": {
+        "message": "மீள்மம்"
+    },
+    "tag:surface=salt": {
+        "message": "உப்பு"
+    },
+    "tag:surface=sand": {
+        "message": "மணல்"
+    },
+    "tag:surface=sett": {
+        "message": "அமைக்கவும்"
+    },
+    "tag:surface=stepping_stones": {
+        "message": "ச்டெப்பிங் கற்கள்"
+    },
+    "tag:surface=tartan": {
+        "message": "டார்டன்"
+    },
+    "tag:surface=unhewn_cobblestone": {
+        "message": "பயனற்ற கோப்ச்டோன்"
+    },
+    "tag:surface=unpaved": {
+        "message": "செப்பனிடப்படாதது"
+    },
+    "tag:surface=wood": {
+        "message": "மரம்"
+    },
+    "tag:surface=woodchips": {
+        "message": "வூட் சிப்ச்"
+    },
+    "tag:tactile_paving": {
+        "message": "தொட்டுணரக்கூடிய நடைபாதை"
+    },
+    "tag:theatre:genre": {
+        "message": "வகை"
+    },
+    "tag:tourism=camp_site": {
+        "message": "முகாம்"
+    },
+    "tag:tourism=caravan_site": {
+        "message": "கேரவன் தளம்"
+    },
+    "tag:tourism=chalet": {
+        "message": "விடுமுறை குடிசை"
+    },
+    "tag:tourism=gallery": {
+        "message": "கேலரி"
+    },
+    "tag:tourism=guest_house": {
+        "message": "விருந்தினர் மாளிகை"
+    },
+    "tag:tourism=hostel": {
+        "message": "ஆச்டல்"
+    },
+    "tag:tourism=hotel": {
+        "message": "ஓட்டல்"
+    },
+    "tag:tourism=motel": {
+        "message": "மோட்டல்"
+    },
+    "tag:tourism=museum": {
+        "message": "அருங்காட்சியகம்"
+    },
+    "tag:tourism=spa_resort": {
+        "message": "ச்பா ரிசார்ட்"
+    },
+    "tag:tourism=trail_riding_station": {
+        "message": "டிரெயில் ரைடிங் நிலையம்"
+    },
+    "tag:tracks": {
+        "message": "தடங்கள்"
+    },
+    "tag:tracks=double": {
+        "message": "இரட்டை"
+    },
+    "tag:tracks=multiple": {
+        "message": "நான்கு"
+    },
+    "tag:tracks=single": {
+        "message": "ஒற்றை"
+    },
+    "tag:tracktype": {
+        "message": "டிராக் வகை"
+    },
+    "tag:traffic_calming": {
+        "message": "போக்குவரத்து அமைதியானது"
+    },
+    "tag:traffic_sign": {
+        "message": "போக்குவரத்து அடையாளம்"
+    },
+    "tag:traffic_sign=city_limit": {
+        "message": "நகரம்/கிராம அடையாளம்"
+    },
+    "tag:traffic_sign=give_way": {
+        "message": "மகசூல் / வழியைக் கொடுங்கள்"
+    },
+    "tag:traffic_sign=hazard": {
+        "message": "இடர்"
+    },
+    "tag:traffic_sign=maxheight": {
+        "message": "அதிகபட்சம். உயரம்"
+    },
+    "tag:traffic_sign=maxspeed": {
+        "message": "அதிகபட்சம். விரைவு"
+    },
+    "tag:traffic_sign=maxweight": {
+        "message": "அதிகபட்சம். எடை"
+    },
+    "tag:traffic_sign=maxwidth": {
+        "message": "அதிகபட்சம். அகலம்"
+    },
+    "tag:traffic_sign=no_entry": {
+        "message": "நுழைவு இல்லை"
+    },
+    "tag:traffic_sign=overtaking": {
+        "message": "முந்திக்கொண்டு"
+    },
+    "tag:traffic_sign=signal_ahead": {
+        "message": "முன்னால் சமிக்ஞை"
+    },
+    "tag:traffic_sign=stop": {
+        "message": "நிறுத்து"
+    },
+    "tag:traffic_sign=stop_ahead": {
+        "message": "முன்னால் நிறுத்துங்கள்"
+    },
+    "tag:traffic_sign=variable_message": {
+        "message": "மாறக்கூடிய செய்தி"
+    },
+    "tag:traffic_sign=yield_ahead": {
+        "message": "மகசூல் / முன்னேற வழிவகுக்கும்"
+    },
+    "tag:tunnel": {
+        "message": "சுரங்கப்பாதை"
+    },
+    "tag:type": {
+        "message": "வகை"
+    },
+    "tag:type=gas": {
+        "message": "வளிமம்"
+    },
+    "tag:type=heat": {
+        "message": "வெப்பம்"
+    },
+    "tag:type=oil": {
+        "message": "எண்ணெய்"
+    },
+    "tag:type=route route=mtb": {
+        "message": "எம்டிபி பாதை"
+    },
+    "tag:type=sewage": {
+        "message": "கழிவுநீர்"
+    },
+    "tag:type=water": {
+        "message": "நீர்"
+    },
+    "tag:vehicle": {
+        "message": "வாகன அணுகல் இசைவு"
+    },
+    "tag:vending": {
+        "message": "விற்பனை"
+    },
+    "tag:via_ferrata_scale": {
+        "message": "ஃபெராட்டாவின் அளவு"
+    },
+    "tag:voltage": {
+        "message": "மின்னழுத்தம்"
+    },
+    "tag:waste": {
+        "message": "கழிவு"
+    },
+    "tag:waste=cigarettes": {
+        "message": "சிகரெட்டுகள்"
+    },
+    "tag:waste=dog_excrement": {
+        "message": "நாய் வெளியேற்றம்"
+    },
+    "tag:waste=drugs": {
+        "message": "மருந்துகள்"
+    },
+    "tag:waste=glass": {
+        "message": "கண்ணாடி"
+    },
+    "tag:waste=mixed": {
+        "message": "கலப்பு"
+    },
+    "tag:waste=oil": {
+        "message": "எண்ணெய்"
+    },
+    "tag:waste=organic": {
+        "message": "ஆர்கானிக்"
+    },
+    "tag:waste=paper": {
+        "message": "காகிதம்"
+    },
+    "tag:waste=trash": {
+        "message": "குப்பை"
+    },
+    "tag:water=canal": {
+        "message": "கால்வாய்"
+    },
+    "tag:water=fish_pass": {
+        "message": "மீன் பாச்"
+    },
+    "tag:water=lagoon": {
+        "message": "கடற்கரைக்காயல்"
+    },
+    "tag:water=moat": {
+        "message": "அகழி"
+    },
+    "tag:water=reservoir": {
+        "message": "நீர்த்தேக்கம்"
+    },
+    "tag:water=river": {
+        "message": "நதி"
+    },
+    "tag:waterway": {
+        "message": "நீர்வழி"
+    },
+    "tag:waterway=canal": {
+        "message": "கால்வாய்"
+    },
+    "tag:waterway=ditch": {
+        "message": "பள்ளம்"
+    },
+    "tag:waterway=drain": {
+        "message": "வடிகால்"
+    },
+    "tag:waterway=river": {
+        "message": "நதி"
+    },
+    "tag:waterway=river width>10": {
+        "message": "பெரிய நதி"
+    },
+    "tag:waterway=riverbank": {
+        "message": "ரிவர் பேங்க்"
+    },
+    "tag:waterway=waterfall": {
+        "message": "நீர்வீழ்ச்சி"
+    },
+    "tag:waterway=weir": {
+        "message": "வீர்"
+    },
+    "tag:website": {
+        "message": "வலைத்தளம்"
+    },
+    "tag:wheelchair": {
+        "message": "சக்கர நாற்காலி"
+    },
+    "tag:wheelchair=limited": {
+        "message": "வரையறுக்கப்பட்ட"
+    },
+    "tag:width": {
+        "message": "அகலம்"
+    },
+    "tag:wikipedia": {
+        "message": "விக்கிபீடியா"
+    },
+    "tag:wood": {
+        "message": "மர வகை"
+    },
+    "tag:xmas:feature=crib": {
+        "message": "கிறிச்துமச் எடுக்காதே / நேட்டிவிட்டி காட்சி"
+    },
+    "tag:xmas:feature=event": {
+        "message": "கிறிச்துமச் நிகழ்வு"
+    },
+    "tag:xmas:feature=market": {
+        "message": "கிறிச்துமச் சந்தை"
+    },
+    "tag:xmas:feature=pyramid": {
+        "message": "கிறிச்துமச் பிரமிட்"
+    },
+    "tag:xmas:feature=shop": {
+        "message": "கிறிச்துமச் கடை"
+    },
+    "tag:xmas:feature=tree": {
+        "message": "கிறிச்துமச் மரம்"
+    },
+    "tag:maxweight": {
+        "message": "அதிகபட்சம். எடை"
+    },
+    "tag:minspeed": {
+        "message": "மணித்துளி. விரைவு"
+    },
+    "tag:motorcar": {
+        "message": "மின்னோடி கார் அணுகல் இசைவு"
+    },
+    "tag:name": {
+        "message": "பெயர்"
+    },
+    "tag:name:etymology": {
+        "message": "பெயரின் சொற்பிறப்பியல்"
+    },
+    "tag:name:start_date": {
+        "message": "பெயரிடப்பட்டது"
+    },
+    "tag:natural=glacier": {
+        "message": "பனிப்பாறை"
+    },
+    "tag:natural=moor": {
+        "message": "மூர்"
+    },
+    "tag:natural=mountain_range": {
+        "message": "மலைத்தொடர்"
+    },
+    "tag:natural=ridge": {
+        "message": "ரிட்ச்"
+    },
+    "tag:natural=scrub": {
+        "message": "ச்க்ரப்"
+    },
+    "tag:natural=stone": {
+        "message": "கல்"
+    },
+    "tag:natural=tree": {
+        "message": "மரம்"
+    },
+    "tag:natural=wetland": {
+        "message": "ஈரநிலம்"
+    },
+    "tag:natural=wood": {
+        "message": "மரம்"
+    },
+    "tag:parking:lane=diagonal": {
+        "message": "மூலைவிட்ட பார்க்கிங்"
+    },
+    "tag:parking:lane=parallel": {
+        "message": "இணை பார்க்கிங்"
+    },
+    "tag:phone": {
+        "message": "தொலைபேசி எண்"
+    },
+    "tag:place": {
+        "message": "இடம்"
+    },
+    "tag:place=hamlet": {
+        "message": "குக்கிராமம்"
+    },
+    "tag:postal_code": {
+        "message": "அஞ்சல் குறியீடு"
+    },
+    "tag:power=pole": {
+        "message": "ஆற்றல் கம்பம்"
+    },
+    "tag:power_source=gas": {
+        "message": "வளிமம்"
+    },
+    "tag:power_source=wave": {
+        "message": "அலை"
+    },
+    "tag:railway:preserved": {
+        "message": "பாதுகாக்கப்பட்ட ரயில்வே"
+    },
+    "tag:railway=rail": {
+        "message": "ரயில் பாதை"
+    },
+    "tag:railway=rail service": {
+        "message": "பணி பாடல்"
+    },
+    "tag:real_ale": {
+        "message": "ரியல் ஆல் வழங்கப்பட்டது"
+    },
+    "tag:religion=buddhist": {
+        "message": "ப Buddhist த்த"
+    },
+    "tag:religion=hindu": {
+        "message": "இந்து"
+    },
+    "tag:religion=jewish": {
+        "message": "யூத"
+    },
+    "tag:route": {
+        "message": "பாதை"
+    },
+    "tag:route=bus": {
+        "message": "பச்"
+    },
+    "tag:route=railway": {
+        "message": "ரயில்வே"
+    },
+    "tag:route=tram_bus": {
+        "message": "டிராம் மற்றும் பச்"
+    },
+    "tag:sidewalk:left": {
+        "message": "தெருவின் இடது பக்கத்தில் நடைபாதை"
+    },
+    "tag:sidewalk:right": {
+        "message": "தெருவின் வலது பக்கத்தில் நடைபாதை"
+    },
+    "tag:smoothness=horrible": {
+        "message": "பயங்கரமான"
+    },
+    "tag:sport=beachvolleyball": {
+        "message": "பீச்ஃபுல்பால்"
+    },
+    "tag:sport=bullfighting": {
+        "message": "காளை சண்டை"
+    },
+    "tag:sport=canadian_football": {
+        "message": "கனடிய கால்பந்து"
+    },
+    "tag:sport=darts": {
+        "message": "ஈட்டிகள்"
+    },
+    "tag:sport=diving": {
+        "message": "டைவிங்"
+    },
+    "tag:sport=free_flying": {
+        "message": "இலவச பறக்கும்"
+    },
+    "tag:sport=futsal": {
+        "message": "ஃபுட்சல்"
+    },
+    "tag:sport=golf": {
+        "message": "கோல்ஃப்"
+    },
+    "tag:sport=gymnastics": {
+        "message": "சிம்னாச்டிக்ச்"
+    },
+    "tag:sport=hockey": {
+        "message": "ஆக்கி"
+    },
+    "tag:sport=horse_racing": {
+        "message": "குதிரை பந்தயம்"
+    },
+    "tag:sport=ice_hockey": {
+        "message": "ஐச் ஆக்கி"
+    },
+    "tag:sport=karting": {
+        "message": "கார்ட் ரேசிங்"
+    },
+    "tag:sport=motocross": {
+        "message": "மோட்டோகிராச்"
+    },
+    "tag:sport=motor": {
+        "message": "மின்னோடி"
+    },
+    "tag:sport=paddle_tennis": {
+        "message": "துடுப்பு டென்னிச்"
+    },
+    "tag:sport=padel": {
+        "message": "விழுந்தது"
+    },
+    "tag:sport=paintball": {
+        "message": "பெயிண்ட்பால்"
+    },
+    "tag:sport=roller_skating": {
+        "message": "ரோலர் ச்கேட்டிங்"
+    },
+    "tag:sport=rowing": {
+        "message": "ரோயிங்"
+    },
+    "tag:sport=rugby": {
+        "message": "ரக்பி"
+    },
+    "tag:sport=sailing": {
+        "message": "படகோட்டம்"
+    },
+    "tag:sport=soccer": {
+        "message": "கால்பந்து"
+    },
+    "tag:subject": {
+        "message": "பொருள்"
+    },
+    "tag:surface=artificial_turf": {
+        "message": "செயற்கை தரை"
+    },
+    "tag:surface=chipseal": {
+        "message": "சிப்சீல்"
+    },
+    "tag:surface=metal_grid": {
+        "message": "உலோக கட்டம்"
+    },
+    "tag:surface=snow": {
+        "message": "பனி"
+    },
+    "tag:toll": {
+        "message": "எண்ணிக்கை"
+    },
+    "tag:tourism": {
+        "message": "சுற்றுலா"
+    },
+    "tag:tourism=wilderness_hut": {
+        "message": "வனப்பகுதி குடிசை"
+    },
+    "tag:type=hot_water": {
+        "message": "சூடான நீர்"
+    },
+    "tag:waste=plastic": {
+        "message": "நெகிழி"
+    },
+    "tag:waste=recycling": {
+        "message": "மறுசுழற்சி"
+    },
+    "tag:water=basin": {
+        "message": "பேசின்"
+    },
+    "tag:water=lake": {
+        "message": "ஏரி"
+    },
+    "tag:water=lock": {
+        "message": "பூட்டு"
+    },
+    "tag:water=pond": {
+        "message": "குளம்"
+    },
+    "tag:water=wastewater": {
+        "message": "கழிவு நீர்"
+    },
+    "tag:wires": {
+        "message": "கம்பிகள்"
+    },
+    "tag:xmas:feature": {
+        "message": "கிறிச்துமச் நற்பொருத்தம்"
+    },
+    "tag:xmas:feature=lighting": {
+        "message": "கிறிச்துமச் விளக்குகள்"
+    },
+    "tag:year_of_construction": {
+        "message": "கட்டுமான காலம்"
+    },
+    "tag:access=permissive": {
+        "message": "இசைவு"
+    },
+    "tag:admin_level=11": {
+        "message": "அக்கம் (11)"
+    },
+    "tag:admin_level=7": {
+        "message": "(7)"
+    },
+    "tag:admin_level=8": {
+        "message": "நகராட்சி (8)"
+    },
+    "tag:amenity=arts_centre": {
+        "message": "கலை நடுவண்"
+    },
+    "tag:amenity=atm": {
+        "message": "ஏடிஎம் தானியங்கி டெல்லர் இயந்திரம்"
+    },
+    "tag:amenity=bench": {
+        "message": "பென்ச்"
+    },
+    "tag:amenity=bicycle_parking capacity>60": {
+        "message": "சைக்கிள் பார்க்கிங் (> 60 இடங்கள்)"
+    },
+    "tag:amenity=canteen": {
+        "message": "கேண்டீன்"
+    },
+    "tag:amenity=car_rental": {
+        "message": "கார் வாடகை"
+    },
+    "tag:amenity=drinking_water": {
+        "message": "குடிநீர்"
+    },
+    "tag:amenity=ferry_terminal": {
+        "message": "படகு முனையம்"
+    },
+    "tag:amenity=fountain": {
+        "message": "நீரூற்று"
+    },
+    "tag:amenity=library": {
+        "message": "நூலகம்"
+    },
+    "tag:amenity=pharmacy": {
+        "message": "மருந்தகம்"
+    },
+    "tag:amenity=place_of_worship": {
+        "message": "வழிபாட்டு இடம்"
+    },
+    "tag:amenity=police": {
+        "message": "போலீசார்"
+    },
+    "tag:amenity=recycling": {
+        "message": "மறுசுழற்சி"
+    },
+    "tag:amenity=shower": {
+        "message": "மழை"
+    },
+    "tag:amenity=telephone": {
+        "message": "தொலைபேசி"
+    },
+    "tag:amenity=theatre": {
+        "message": "தியேட்டர்"
+    },
+    "tag:amenity=toilets": {
+        "message": "கழிப்பறைகள்"
+    },
+    "tag:amenity=toilets changing_table=yes": {
+        "message": "டயபர் மாறும் அட்டவணை கொண்ட கழிப்பறைகள்"
+    },
+    "tag:amenity=townhall": {
+        "message": "பேரூர் ஆல்"
+    },
+    "tag:amenity=vending_machine": {
+        "message": "விற்பனை இயந்திரம்"
+    },
+    "tag:amenity=waste_basket": {
+        "message": "கழிவு கூடை"
+    },
+    "tag:amenity=waste_disposal": {
+        "message": "கழிவு பின்"
+    },
+    "tag:area": {
+        "message": "பகுதி"
+    },
+    "tag:area:highway": {
+        "message": "வழி வடிவம்"
+    },
+    "tag:artist": {
+        "message": "கலைஞர்"
+    },
+    "tag:barrier=city_wall": {
+        "message": "நகர சுவர்"
+    },
+    "tag:barrier=fence": {
+        "message": "வேலி"
+    },
+    "tag:bath:type=hammam": {
+        "message": "அம்மம்"
+    },
+    "tag:bath:type=hot_spring": {
+        "message": "சூடான வேனில்"
+    },
+    "tag:bicycle": {
+        "message": "சைக்கிள் அணுகல் இசைவு"
+    },
+    "tag:bicycle_road": {
+        "message": "சைக்கிள் சாலை"
+    },
+    "tag:boundary": {
+        "message": "எல்லை"
+    },
+    "tag:building=cathedral": {
+        "message": "கதீட்ரல்"
+    },
+    "tag:building=chapel": {
+        "message": "தேவாலயம்"
+    },
+    "tag:building=hangar": {
+        "message": "கூடாரம்"
+    },
+    "tag:building=hut": {
+        "message": "குடிசை"
+    },
+    "tag:building=kiosk": {
+        "message": "கியோச்க்"
+    },
+    "tag:building=military": {
+        "message": "தரைப்படை"
+    },
+    "tag:building=mosque": {
+        "message": "மசூதி"
+    },
+    "tag:building=riding_hall": {
+        "message": "சவாரி மண்டபம்"
+    },
+    "tag:building=roof": {
+        "message": "கூரை"
+    },
+    "tag:building=shed": {
+        "message": "கொட்டகை"
+    },
+    "tag:building=shrine": {
+        "message": "சன்னதி"
+    },
+    "tag:building=stable": {
+        "message": "நிலையான"
+    },
+    "tag:building=synagogue": {
+        "message": "செசக்"
+    },
+    "tag:climbing:length": {
+        "message": "ஏறும் நீளம்"
+    },
+    "tag:climbing:rock": {
+        "message": "ராக் க்ளைம்பிங்"
+    },
+    "tag:climbing:routes": {
+        "message": "ஏறும் வழிகள் இருந்தால் அளவு"
+    },
+    "tag:climbing:speed": {
+        "message": "விரைவு ஏறுதல்"
+    },
+    "tag:climbing:sport": {
+        "message": "விளையாட்டு ஏறுதல்"
+    },
+    "tag:climbing=route_bottom": {
+        "message": "ஏறும் பாதையின் கீழே"
+    },
+    "tag:climbing=route": {
+        "message": "பாதை"
+    },
+    "tag:climbing=route_top": {
+        "message": "ஏறும் பாதையின் மேல்"
+    },
+    "tag:clothes": {
+        "message": "ஆடைகள்"
+    },
+    "tag:construction": {
+        "message": "கட்டுமானம்"
+    },
+    "tag:conveying=reversible": {
+        "message": "மீளக்கூடிய"
+    },
+    "tag:covered": {
+        "message": "மூடப்பட்ட"
+    },
+    "tag:craft=mason": {
+        "message": "மேசன்"
+    },
+    "tag:craft=paver": {
+        "message": "பேவர்"
+    },
+    "tag:craft=photographer": {
+        "message": "புகைப்படக்காரர்"
+    },
+    "tag:craft=plasterer": {
+        "message": "பிளாச்டரர்"
+    },
+    "tag:craft=plumber": {
+        "message": "பிளம்பர்"
+    },
+    "tag:craft=restoration": {
+        "message": "மறுசீரமைப்பு"
+    },
+    "tag:craft=sailmaker": {
+        "message": "SAILMAKER"
+    },
+    "tag:craft=shoe_repair": {
+        "message": "சூ பழுதுபார்ப்பு"
+    },
+    "tag:craft=shoemaker": {
+        "message": "சூமேக்கர்"
+    },
+    "tag:craft=tailor": {
+        "message": "தையல்காரர்"
+    },
+    "tag:craft=tinsmith": {
+        "message": "டின்ச்மித்"
+    },
+    "tag:crossing": {
+        "message": "தெரு கடத்தல்"
+    },
+    "tag:crossing=marked": {
+        "message": "குறிக்கப்பட்டுள்ளது"
+    },
+    "tag:crossing=traffic_signals": {
+        "message": "போக்குவரத்து_சிக்னல்கள்"
+    },
+    "tag:crossing=zebra": {
+        "message": "வரிக்குதிரை"
+    },
+    "tag:cuisine": {
+        "message": "உணவு"
+    },
+    "tag:cuisine/dessert": {
+        "message": "உணவு உணவு (இனிப்பு)"
+    },
+    "tag:cuisine/ethnicity": {
+        "message": "உணவு (இனம்)"
+    },
+    "tag:cuisine/food": {
+        "message": "உணவு (உணவு)"
+    },
+    "tag:cuisine=savory_pancakes": {
+        "message": "சுவையான அப்பங்கள்"
+    },
+    "tag:cycleway=shared_lane": {
+        "message": "பகிரப்பட்ட பாதை"
+    },
+    "tag:denomination": {
+        "message": "பிரிவு"
+    },
+    "tag:description": {
+        "message": "விவரம்"
+    },
+    "tag:diet:gluten_free": {
+        "message": "பசையம் இல்லாதது"
+    },
+    "tag:direction=ENE": {
+        "message": "கிழக்கு-வடகிழக்கு"
+    },
+    "tag:direction=ESE": {
+        "message": "கிழக்கு-தென்கிழக்கு"
+    },
+    "tag:direction=N": {
+        "message": "வடக்கு"
+    },
+    "tag:direction=SSE": {
+        "message": "தென்கிழக்கு"
+    },
+    "tag:direction=SW": {
+        "message": "தென்மேற்கு"
+    },
+    "tag:embankment": {
+        "message": "கட்டை"
+    },
+    "tag:est_width": {
+        "message": "மதிப்பிடப்பட்ட அகலம்"
+    },
+    "tag:frequency>0": {
+        "message": "மாற்று மின்னோட்டம்"
+    },
+    "tag:highway=primary": {
+        "message": "முதன்மை சாலை"
+    },
+    "tag:highway=primary_link": {
+        "message": "முதன்மை சாலை இணைப்பு"
+    },
+    "tag:highway=road": {
+        "message": "சாலை"
+    },
+    "tag:highway=steps": {
+        "message": "படிகள்"
+    },
+    "tag:historic": {
+        "message": "வரலாற்று"
+    },
+    "tag:historic=battlefield": {
+        "message": "போர்க்களம்"
+    },
+    "tag:incline=up": {
+        "message": "மேலே"
+    },
+    "tag:information=office": {
+        "message": "அலுவலகம்"
+    },
+    "tag:information=tactile_model": {
+        "message": "தொட்டுணரக்கூடிய மாதிரி"
+    },
+    "tag:internet_access=wired": {
+        "message": "கம்பி இணைய அணுகல்"
+    },
+    "tag:landuse=brownfield": {
+        "message": "பிரவுன்ஃபீல்ட்"
+    },
+    "tag:landuse=landfill": {
+        "message": "நிலப்பரப்பு"
+    },
+    "tag:landuse=recreation_ground": {
+        "message": "பொழுதுபோக்கு மைதானம்"
+    },
+    "tag:layer": {
+        "message": "அடுக்கு"
+    },
+    "tag:leisure=beach_resort": {
+        "message": "கடற்கரை ரிசார்ட்"
+    },
+    "tag:leisure=garden": {
+        "message": "தோட்டம்"
+    },
+    "tag:leisure=marina": {
+        "message": "மெரினா"
+    },
+    "tag:leisure=pitch": {
+        "message": "குனிவு"
+    },
+    "tag:leisure=water_park": {
+        "message": "நீர் பூங்கா"
+    }
+}
