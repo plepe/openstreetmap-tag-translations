@@ -6498,5 +6498,29 @@
     },
     "tag:amenity=scale": {
         "message": "Mérleg"
+    },
+    "tag:sidewalk=yes": {
+        "message": "Utca járdával"
+    },
+    "tag:traffic_sign=overtaking": {
+        "message": ""
+    },
+    "tag:traffic_sign=maxspeed": {
+        "message": "Sebességkorlátozás"
+    },
+    "tag:traffic_sign=maxheight": {
+        "message": "Magasságkorlátozás"
+    },
+    "tag:traffic_sign=hazard": {
+        "message": "Veszély"
+    },
+    "tag:traffic_sign=stop": {
+        "message": "Stop"
+    },
+    "tag:traffic_sign=maxwidth": {
+        "message": "Szélességkorlátozás"
+    },
+    "tag:traffic_sign=maxweight": {
+        "message": "Súlykorlátozás"
     }
 }
