@@ -725,7 +725,7 @@
         "description": "Tag \"building=bridge\". See https://wiki.openstreetmap.org/wiki/Tag:building=bridge"
     },
     "tag:building=bungalow": {
-        "message": "",
+        "message": "Bungalow",
         "description": "Tag \"building=bungalow\". See https://wiki.openstreetmap.org/wiki/Tag:building=bungalow"
     },
     "tag:building=bunker": {
@@ -733,11 +733,11 @@
         "description": "Tag \"building=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:building=bunker"
     },
     "tag:building=cabin": {
-        "message": "",
+        "message": "Hütte",
         "description": "Tag \"building=cabin\". See https://wiki.openstreetmap.org/wiki/Tag:building=cabin"
     },
     "tag:building=carport": {
-        "message": "",
+        "message": "Carport",
         "description": "Tag \"building=carport\". See https://wiki.openstreetmap.org/wiki/Tag:building=carport"
     },
     "tag:building=cathedral": {
@@ -757,7 +757,7 @@
         "description": "Combined tag \"building=church\" and \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:building=church and https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
     },
     "tag:building=civic": {
-        "message": "",
+        "message": "Öffentliches Gebäude",
         "description": "Tag \"building=civic\". See https://wiki.openstreetmap.org/wiki/Tag:building=civic"
     },
     "tag:building=college": {
@@ -6344,5 +6344,17 @@
     "tag:xmas:feature=tree": {
         "message": "Weihnachtsbaum",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:amenity=bicycle_repair_station": {
+        "message": "Fahrradreparaturstation"
+    },
+    "tag:amenity=canteen": {
+        "message": "Kantine"
+    },
+    "tag:barrier=kerb": {
+        "message": "Bordstein"
+    },
+    "tag:bicycle_road": {
+        "message": "Fahrradstraße"
     }
 }
