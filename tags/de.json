@@ -297,7 +297,7 @@
         "description": "Tag \"amenity=clock\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clock"
     },
     "tag:amenity=college": {
-        "message": "Hochschule",
+        "message": "weitergehende Bildungseinrichtung (außer Hochschule und Universität)",
         "description": "Tag \"amenity=college\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=college"
     },
     "tag:amenity=community_centre": {
@@ -321,7 +321,7 @@
         "description": "Tag \"amenity=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=dentist"
     },
     "tag:amenity=doctors": {
-        "message": "Ärzte",
+        "message": "Arztpraxis oder Ärztehaus",
         "description": "Tag \"amenity=doctors\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=doctors"
     },
     "tag:amenity=drinking_water": {
@@ -377,7 +377,7 @@
         "description": "Tag \"amenity=internet_cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=internet_cafe"
     },
     "tag:amenity=kindergarten": {
-        "message": "Kindergärten",
+        "message": "Kindergarten",
         "description": "Tag \"amenity=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=kindergarten"
     },
     "tag:amenity=language_school": {
@@ -429,7 +429,7 @@
         "description": "Tag \"amenity=post_office\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_office"
     },
     "tag:amenity=pub": {
-        "message": "Pub",
+        "message": "Kneipe",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
@@ -517,7 +517,7 @@
         "description": "Tag \"amenity=townhall\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=townhall"
     },
     "tag:amenity=university": {
-        "message": "Universität",
+        "message": "Universität oder Hochschule",
         "description": "Tag \"amenity=university\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=university"
     },
     "tag:amenity=vending_machine": {
@@ -2322,7 +2322,7 @@
         "description": "Key \"email\". See https://wiki.openstreetmap.org/wiki/Key:email"
     },
     "tag:embankment": {
-        "message": "",
+        "message": "Damm",
         "description": "Key \"embankment\". See https://wiki.openstreetmap.org/wiki/Key:embankment"
     },
     "tag:emergency": {
@@ -2698,7 +2698,7 @@
         "description": "Tag \"highway=motorway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=motorway"
     },
     "tag:highway=motorway_junction": {
-        "message": "Autobahnab- und -zufahrten",
+        "message": "Autobahnab- oder -zufahrt",
         "description": "Tag \"highway=motorway_junction\". See https://wiki.openstreetmap.org/wiki/Tag:highway=motorway_junction"
     },
     "tag:highway=motorway_link": {
@@ -2858,7 +2858,7 @@
         "description": "Tag \"historic=aircraft\". See https://wiki.openstreetmap.org/wiki/Tag:historic=aircraft"
     },
     "tag:historic=aqueduct": {
-        "message": "",
+        "message": "Aquädukt",
         "description": "Tag \"historic=aqueduct\". See https://wiki.openstreetmap.org/wiki/Tag:historic=aqueduct"
     },
     "tag:historic=archaeological_site": {
@@ -2894,11 +2894,11 @@
         "description": "Tag \"historic=church\". See https://wiki.openstreetmap.org/wiki/Tag:historic=church"
     },
     "tag:historic=city_gate": {
-        "message": "",
+        "message": "Stadttor",
         "description": "Tag \"historic=city_gate\". See https://wiki.openstreetmap.org/wiki/Tag:historic=city_gate"
     },
     "tag:historic=citywalls": {
-        "message": "",
+        "message": "Stadtmauer",
         "description": "Tag \"historic=citywalls\". See https://wiki.openstreetmap.org/wiki/Tag:historic=citywalls"
     },
     "tag:historic=exhibit": {
@@ -2918,7 +2918,7 @@
         "description": "Tag \"historic=fort\". See https://wiki.openstreetmap.org/wiki/Tag:historic=fort"
     },
     "tag:historic=industrial": {
-        "message": "",
+        "message": "Industriedenkmal",
         "description": "Tag \"historic=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:historic=industrial"
     },
     "tag:historic=kiln": {
@@ -2946,7 +2946,7 @@
         "description": "Tag \"historic=mine\". See https://wiki.openstreetmap.org/wiki/Tag:historic=mine"
     },
     "tag:historic=monastery": {
-        "message": "",
+        "message": "Kloster",
         "description": "Tag \"historic=monastery\". See https://wiki.openstreetmap.org/wiki/Tag:historic=monastery"
     },
     "tag:historic=monument": {
@@ -2962,7 +2962,7 @@
         "description": "Tag \"historic=railway_car\". See https://wiki.openstreetmap.org/wiki/Tag:historic=railway_car"
     },
     "tag:historic=ruins": {
-        "message": "",
+        "message": "Ruinen",
         "description": "Tag \"historic=ruins\". See https://wiki.openstreetmap.org/wiki/Tag:historic=ruins"
     },
     "tag:historic=ship": {
@@ -3002,7 +3002,7 @@
         "description": "Tag \"historic=wayside_shrine\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_shrine"
     },
     "tag:historic=wreck": {
-        "message": "Wracks",
+        "message": "Wrack",
         "description": "Tag \"historic=wreck\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wreck"
     },
     "tag:historic=yes": {
@@ -3058,7 +3058,7 @@
         "description": "Tag \"information=trail_blaze\". See https://wiki.openstreetmap.org/wiki/Tag:information=trail_blaze"
     },
     "tag:inscription": {
-        "message": "",
+        "message": "Inschrift",
         "description": "Key \"inscription\". See https://wiki.openstreetmap.org/wiki/Key:inscription"
     },
     "tag:int_name": {
@@ -3126,7 +3126,7 @@
         "description": "Tag \"landuse=basin\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=basin"
     },
     "tag:landuse=brownfield": {
-        "message": "Industriebrache",
+        "message": "Brache",
         "description": "Tag \"landuse=brownfield\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=brownfield"
     },
     "tag:landuse=cemetery": {
@@ -3146,7 +3146,7 @@
         "description": "Tag \"landuse=farmyard\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=farmyard"
     },
     "tag:landuse=forest": {
-        "message": "Forste",
+        "message": "Forst (bewirtschafteter Wald)",
         "description": "Tag \"landuse=forest\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=forest"
     },
     "tag:landuse=garages": {
@@ -3198,7 +3198,7 @@
         "description": "Tag \"landuse=recreation_ground\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=recreation_ground"
     },
     "tag:landuse=reservoir": {
-        "message": "Reservoire",
+        "message": "Reservoir",
         "description": "Tag \"landuse=reservoir\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=reservoir"
     },
     "tag:landuse=residential": {
@@ -3210,11 +3210,11 @@
         "description": "Tag \"landuse=salt_pond\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=salt_pond"
     },
     "tag:landuse=vineyard": {
-        "message": "Weinberg",
+        "message": "Weinanbau",
         "description": "Tag \"landuse=vineyard\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=vineyard"
     },
     "tag:lanes": {
-        "message": "",
+        "message": "Spuren",
         "description": "Key \"lanes\". See https://wiki.openstreetmap.org/wiki/Key:lanes"
     },
     "tag:layer": {
@@ -3226,11 +3226,11 @@
         "description": "Key \"leisure\". See https://wiki.openstreetmap.org/wiki/Key:leisure"
     },
     "tag:leisure=adult_gaming_centre": {
-        "message": "",
+        "message": "Spielautomaten (Spielcasino)",
         "description": "Tag \"leisure=adult_gaming_centre\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=adult_gaming_centre"
     },
     "tag:leisure=amusement_arcade": {
-        "message": "Spielhalle",
+        "message": "Spielhalle (Videospiele)",
         "description": "Tag \"leisure=amusement_arcade\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=amusement_arcade"
     },
     "tag:leisure=bandstand": {
@@ -3274,7 +3274,7 @@
         "description": "Tag \"leisure=fishing\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=fishing"
     },
     "tag:leisure=fitness_centre": {
-        "message": "Fit­ness­zen­t­rum",
+        "message": "Fitnesszentrum",
         "description": "Tag \"leisure=fitness_centre\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=fitness_centre"
     },
     "tag:leisure=fitness_station": {
@@ -3474,7 +3474,7 @@
         "description": "Key \"loc_name\". See https://wiki.openstreetmap.org/wiki/Key:loc_name"
     },
     "tag:man_made": {
-        "message": "Menschgeschaffenes",
+        "message": "Künstliche Struktur",
         "description": "Key \"man_made\". See https://wiki.openstreetmap.org/wiki/Key:man_made"
     },
     "tag:man_made=mineshaft": {
@@ -3482,7 +3482,7 @@
         "description": "Tag \"man_made=mineshaft\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=mineshaft"
     },
     "tag:man_made=pipeline": {
-        "message": "Pipelines",
+        "message": "Pipeline",
         "description": "Tag \"man_made=pipeline\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=pipeline"
     },
     "tag:man_made=wastewater_plant": {
@@ -4126,19 +4126,19 @@
         "description": "Key \"office\". See https://wiki.openstreetmap.org/wiki/Key:office"
     },
     "tag:office=accountant": {
-        "message": "",
+        "message": "Buchhaltung",
         "description": "Tag \"office=accountant\". See https://wiki.openstreetmap.org/wiki/Tag:office=accountant"
     },
     "tag:office=administration": {
-        "message": "",
+        "message": "Verwaltung",
         "description": "Tag \"office=administration\". See https://wiki.openstreetmap.org/wiki/Tag:office=administration"
     },
     "tag:office=adoption_agency": {
-        "message": "",
+        "message": "Adoptionsbüro",
         "description": "Tag \"office=adoption_agency\". See https://wiki.openstreetmap.org/wiki/Tag:office=adoption_agency"
     },
     "tag:office=advertising_agency": {
-        "message": "",
+        "message": "Werbeagentur",
         "description": "Tag \"office=advertising_agency\". See https://wiki.openstreetmap.org/wiki/Tag:office=advertising_agency"
     },
     "tag:office=architect": {
@@ -4146,7 +4146,7 @@
         "description": "Tag \"office=architect\". See https://wiki.openstreetmap.org/wiki/Tag:office=architect"
     },
     "tag:office=association": {
-        "message": "",
+        "message": "Vereinigung",
         "description": "Tag \"office=association\". See https://wiki.openstreetmap.org/wiki/Tag:office=association"
     },
     "tag:office=camping": {
@@ -4158,7 +4158,7 @@
         "description": "Tag \"office=charity\". See https://wiki.openstreetmap.org/wiki/Tag:office=charity"
     },
     "tag:office=company": {
-        "message": "",
+        "message": "Firmenbüro",
         "description": "Tag \"office=company\". See https://wiki.openstreetmap.org/wiki/Tag:office=company"
     },
     "tag:office=cooperative": {
@@ -4166,23 +4166,23 @@
         "description": "Tag \"office=cooperative\". See https://wiki.openstreetmap.org/wiki/Tag:office=cooperative"
     },
     "tag:office=coworking": {
-        "message": "CoWorking",
+        "message": "Coworking-Büro",
         "description": "Tag \"office=coworking\". See https://wiki.openstreetmap.org/wiki/Tag:office=coworking"
     },
     "tag:office=diplomatic": {
-        "message": "",
+        "message": "Konsulat oder diplomatische Vertretung",
         "description": "Tag \"office=diplomatic\". See https://wiki.openstreetmap.org/wiki/Tag:office=diplomatic"
     },
     "tag:office=educational_institution": {
-        "message": "",
+        "message": "Büro Bildungseinrichtung",
         "description": "Tag \"office=educational_institution\". See https://wiki.openstreetmap.org/wiki/Tag:office=educational_institution"
     },
     "tag:office=employment_agency": {
-        "message": "",
+        "message": "Arbeitsvermittlung",
         "description": "Tag \"office=employment_agency\". See https://wiki.openstreetmap.org/wiki/Tag:office=employment_agency"
     },
     "tag:office=energy_supplier": {
-        "message": "",
+        "message": "Energieversorgung",
         "description": "Tag \"office=energy_supplier\". See https://wiki.openstreetmap.org/wiki/Tag:office=energy_supplier"
     },
     "tag:office=engineer": {
@@ -4190,31 +4190,31 @@
         "description": "Tag \"office=engineer\". See https://wiki.openstreetmap.org/wiki/Tag:office=engineer"
     },
     "tag:office=estate_agent": {
-        "message": "",
+        "message": "Immobilienmakler",
         "description": "Tag \"office=estate_agent\". See https://wiki.openstreetmap.org/wiki/Tag:office=estate_agent"
     },
     "tag:office=financial": {
-        "message": "",
+        "message": "Finanzen",
         "description": "Tag \"office=financial\". See https://wiki.openstreetmap.org/wiki/Tag:office=financial"
     },
     "tag:office=forestry": {
-        "message": "",
+        "message": "Forstamt",
         "description": "Tag \"office=forestry\". See https://wiki.openstreetmap.org/wiki/Tag:office=forestry"
     },
     "tag:office=foundation": {
-        "message": "",
+        "message": "Stiftung",
         "description": "Tag \"office=foundation\". See https://wiki.openstreetmap.org/wiki/Tag:office=foundation"
     },
     "tag:office=geodesist": {
-        "message": "",
+        "message": "Vermessungsingenieur",
         "description": "Tag \"office=geodesist\". See https://wiki.openstreetmap.org/wiki/Tag:office=geodesist"
     },
     "tag:office=government": {
-        "message": "",
+        "message": "Öffentliche Verwaltung",
         "description": "Tag \"office=government\". See https://wiki.openstreetmap.org/wiki/Tag:office=government"
     },
     "tag:office=guide": {
-        "message": "",
+        "message": "Büro für Fremdenführer",
         "description": "Tag \"office=guide\". See https://wiki.openstreetmap.org/wiki/Tag:office=guide"
     },
     "tag:office=insurance": {
@@ -4222,7 +4222,7 @@
         "description": "Tag \"office=insurance\". See https://wiki.openstreetmap.org/wiki/Tag:office=insurance"
     },
     "tag:office=it": {
-        "message": "",
+        "message": "Computer und IT",
         "description": "Tag \"office=it\". See https://wiki.openstreetmap.org/wiki/Tag:office=it"
     },
     "tag:office=lawyer": {
@@ -4242,7 +4242,7 @@
         "description": "Tag \"office=newspaper\". See https://wiki.openstreetmap.org/wiki/Tag:office=newspaper"
     },
     "tag:office=ngo": {
-        "message": "",
+        "message": "Nichtregierungsorganisation",
         "description": "Tag \"office=ngo\". See https://wiki.openstreetmap.org/wiki/Tag:office=ngo"
     },
     "tag:office=notary": {
@@ -4250,7 +4250,7 @@
         "description": "Tag \"office=notary\". See https://wiki.openstreetmap.org/wiki/Tag:office=notary"
     },
     "tag:office=parish": {
-        "message": "",
+        "message": "Gemeindebüro",
         "description": "Tag \"office=parish\". See https://wiki.openstreetmap.org/wiki/Tag:office=parish"
     },
     "tag:office=political_party": {
@@ -4262,7 +4262,7 @@
         "description": "Tag \"office=private_investigator\". See https://wiki.openstreetmap.org/wiki/Tag:office=private_investigator"
     },
     "tag:office=property_management": {
-        "message": "",
+        "message": "Hausverwaltung",
         "description": "Tag \"office=property_management\". See https://wiki.openstreetmap.org/wiki/Tag:office=property_management"
     },
     "tag:office=publisher": {
@@ -4278,11 +4278,11 @@
         "description": "Tag \"office=religion\". See https://wiki.openstreetmap.org/wiki/Tag:office=religion"
     },
     "tag:office=research": {
-        "message": "",
+        "message": "Forschung und Entwicklung",
         "description": "Tag \"office=research\". See https://wiki.openstreetmap.org/wiki/Tag:office=research"
     },
     "tag:office=surveyor": {
-        "message": "",
+        "message": "Sachverständiger",
         "description": "Tag \"office=surveyor\". See https://wiki.openstreetmap.org/wiki/Tag:office=surveyor"
     },
     "tag:office=tax": {
@@ -4294,19 +4294,19 @@
         "description": "Tag \"office=tax_advisor\". See https://wiki.openstreetmap.org/wiki/Tag:office=tax_advisor"
     },
     "tag:office=telecommunication": {
-        "message": "",
+        "message": "Telekommunikation",
         "description": "Tag \"office=telecommunication\". See https://wiki.openstreetmap.org/wiki/Tag:office=telecommunication"
     },
     "tag:office=therapist": {
-        "message": "",
+        "message": "Therapeut",
         "description": "Tag \"office=therapist\". See https://wiki.openstreetmap.org/wiki/Tag:office=therapist"
     },
     "tag:office=tourism": {
-        "message": "",
+        "message": "Tourismusbüro",
         "description": "Tag \"office=tourism\". See https://wiki.openstreetmap.org/wiki/Tag:office=tourism"
     },
     "tag:office=tourist_accommodation": {
-        "message": "",
+        "message": "Zimmervermittlung",
         "description": "Tag \"office=tourist_accommodation\". See https://wiki.openstreetmap.org/wiki/Tag:office=tourist_accommodation"
     },
     "tag:office=travel_agent": {
@@ -4314,15 +4314,15 @@
         "description": "Tag \"office=travel_agent\". See https://wiki.openstreetmap.org/wiki/Tag:office=travel_agent"
     },
     "tag:office=vacant": {
-        "message": "",
+        "message": "leerstehendes Büro",
         "description": "Tag \"office=vacant\". See https://wiki.openstreetmap.org/wiki/Tag:office=vacant"
     },
     "tag:office=visa": {
-        "message": "",
+        "message": "Visaagentur",
         "description": "Tag \"office=visa\". See https://wiki.openstreetmap.org/wiki/Tag:office=visa"
     },
     "tag:office=water_utility": {
-        "message": "",
+        "message": "Wasserversorgung",
         "description": "Tag \"office=water_utility\". See https://wiki.openstreetmap.org/wiki/Tag:office=water_utility"
     },
     "tag:official_name": {
@@ -6377,5 +6377,11 @@
     },
     "tag:cycleway=track": {
         "message": "Radweg neben der Fahrbahn"
+    },
+    "tag:kerb": {
+        "message": "Bordstein"
+    },
+    "tag:kerb=lowered": {
+        "message": "Abgesenkter Bordstein"
     }
 }
