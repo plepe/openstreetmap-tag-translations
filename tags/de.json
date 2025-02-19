@@ -1994,23 +1994,23 @@
         "description": "Tag \"cuisine=pakistani\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pancake": {
-        "message": "",
+        "message": "Pfannkuchen",
         "description": "Tag \"cuisine=pancake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pasta": {
-        "message": "",
+        "message": "Nudeln",
         "description": "Tag \"cuisine=pasta\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pastry": {
-        "message": "",
+        "message": "Konditorei",
         "description": "Tag \"cuisine=pastry\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=peruvian": {
-        "message": "",
+        "message": "peruanisch",
         "description": "Tag \"cuisine=peruvian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=petit_four": {
-        "message": "",
+        "message": "Petit Fours",
         "description": "Tag \"cuisine=petit_four\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=pie": {
@@ -2074,7 +2074,7 @@
         "description": "Tag \"cuisine=savory_pancakes\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=seafood": {
-        "message": "",
+        "message": "Fisch und Meeresfrüchte",
         "description": "Tag \"cuisine=seafood\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=shandong": {
@@ -2114,7 +2114,7 @@
         "description": "Tag \"cuisine=tapas\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=teahouse": {
-        "message": "",
+        "message": "Teehaus",
         "description": "Tag \"cuisine=teahouse\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=tex-mex": {
@@ -2158,7 +2158,7 @@
         "description": "Tag \"cuisine=wings\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cutting": {
-        "message": "",
+        "message": "Geländeeinschnitt",
         "description": "Key \"cutting\". See https://wiki.openstreetmap.org/wiki/Key:cutting"
     },
     "tag:cycleway": {
@@ -2242,15 +2242,15 @@
         "description": "Key \"diet:fruitarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:fruitarian"
     },
     "tag:diet:gluten_free": {
-        "message": "",
+        "message": "glutenfrei",
         "description": "Key \"diet:gluten_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:gluten_free"
     },
     "tag:diet:halal": {
-        "message": "",
+        "message": "halal",
         "description": "Key \"diet:halal\". See https://wiki.openstreetmap.org/wiki/Key:diet:halal"
     },
     "tag:diet:kosher": {
-        "message": "",
+        "message": "koscher",
         "description": "Key \"diet:kosher\". See https://wiki.openstreetmap.org/wiki/Key:diet:kosher"
     },
     "tag:diet:lacto_vegetarian": {
@@ -2258,7 +2258,7 @@
         "description": "Key \"diet:lacto_vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:lacto_vegetarian"
     },
     "tag:diet:lactose_free": {
-        "message": "",
+        "message": "laktosefrei",
         "description": "Key \"diet:lactose_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:lactose_free"
     },
     "tag:diet:ovo_vegetarian": {
@@ -2274,11 +2274,11 @@
         "description": "Key \"diet:raw\". See https://wiki.openstreetmap.org/wiki/Key:diet:raw"
     },
     "tag:diet:vegan": {
-        "message": "",
+        "message": "vegan",
         "description": "Key \"diet:vegan\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegan"
     },
     "tag:diet:vegetarian": {
-        "message": "",
+        "message": "vegetarisch",
         "description": "Key \"diet:vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegetarian"
     },
     "tag:disused": {
@@ -2330,7 +2330,7 @@
         "description": "Key \"emergency\". See https://wiki.openstreetmap.org/wiki/Key:emergency"
     },
     "tag:emergency=access_point": {
-        "message": "",
+        "message": "Rettungspunkt",
         "description": "Tag \"emergency=access_point\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=access_point"
     },
     "tag:emergency=defibrillator": {
@@ -2342,7 +2342,7 @@
         "description": "Tag \"emergency=fire_hydrant\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant"
     },
     "tag:emergency=fire_hydrant fire_hydrant:type=pillar": {
-        "message": "Überflurflurhydrant",
+        "message": "Überflurhydrant",
         "description": "Combined tag \"emergency=fire_hydrant\" and \"fire_hydrant:type=pillar\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=fire_hydrant and https://wiki.openstreetmap.org/wiki/Tag:fire_hydrant:type=pillar"
     },
     "tag:emergency=fire_hydrant fire_hydrant:type=underground": {
@@ -2362,7 +2362,7 @@
         "description": "Key \"entrance\". See https://wiki.openstreetmap.org/wiki/Key:entrance"
     },
     "tag:entrance=emergency": {
-        "message": "Noteingang",
+        "message": "Notausgang",
         "description": "Tag \"entrance=emergency\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=emergency"
     },
     "tag:entrance=exit": {
@@ -2426,11 +2426,11 @@
         "description": "Key \"food\". See https://wiki.openstreetmap.org/wiki/Key:food"
     },
     "tag:foot": {
-        "message": "Fuß",
+        "message": "zu Fuß",
         "description": "Key \"foot\". See https://wiki.openstreetmap.org/wiki/Key:foot"
     },
     "tag:ford": {
-        "message": "",
+        "message": "Furt",
         "description": "Key \"ford\". See https://wiki.openstreetmap.org/wiki/Key:ford"
     },
     "tag:frequency": {
@@ -2550,7 +2550,7 @@
         "description": "Tag \"healthcare=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=clinic"
     },
     "tag:healthcare=dentist": {
-        "message": "Zahnärzte",
+        "message": "Zahnarzt",
         "description": "Tag \"healthcare=dentist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dentist"
     },
     "tag:healthcare=dialysis": {
@@ -2574,7 +2574,7 @@
         "description": "Tag \"healthcare=midwife\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=midwife"
     },
     "tag:healthcare=nutrition_counseling": {
-        "message": "",
+        "message": "Ernährungsberatung",
         "description": "Tag \"healthcare=nutrition_counseling\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=nutrition_counseling"
     },
     "tag:healthcare=occupational_therapist": {
@@ -2638,7 +2638,7 @@
         "description": "Tag \"heritage=8\". See https://wiki.openstreetmap.org/wiki/Tag:heritage=8"
     },
     "tag:hgv": {
-        "message": "",
+        "message": "Lastkraftwagen frei",
         "description": "Key \"hgv\". See https://wiki.openstreetmap.org/wiki/Key:hgv"
     },
     "tag:highway": {
@@ -2718,11 +2718,11 @@
         "description": "Tag \"highway=pedestrian\". See https://wiki.openstreetmap.org/wiki/Tag:highway=pedestrian"
     },
     "tag:highway=platform": {
-        "message": "Bussteig",
+        "message": "Bussteig oder Bahnsteig",
         "description": "Tag \"highway=platform\". See https://wiki.openstreetmap.org/wiki/Tag:highway=platform"
     },
     "tag:highway=primary": {
-        "message": "Bundesstraße",
+        "message": "Straße mit übergeordneter Verkehrsbedeutung (z.B. viele Bundesstraßen, einige Landesstraßen, wichtige Hauptstraßen innerorts)",
         "description": "Tag \"highway=primary\". See https://wiki.openstreetmap.org/wiki/Tag:highway=primary"
     },
     "tag:highway=primary_link": {
@@ -2742,7 +2742,7 @@
         "description": "Tag \"highway=roundabout\". See https://wiki.openstreetmap.org/wiki/Tag:highway=roundabout"
     },
     "tag:highway=secondary": {
-        "message": "Staats- oder Kreisstraße",
+        "message": "Überregionale Verbindungsstraße (z.B. viele Landesstraßen, einige Kreisstraßen, Haupstraßen mittlerer Bedeutung innerorts)",
         "description": "Tag \"highway=secondary\". See https://wiki.openstreetmap.org/wiki/Tag:highway=secondary"
     },
     "tag:highway=service": {
@@ -2762,7 +2762,7 @@
         "description": "Tag \"highway=stop\". See https://wiki.openstreetmap.org/wiki/Tag:highway=stop"
     },
     "tag:highway=tertiary": {
-        "message": "Kreisstraße",
+        "message": "Untergeordnete Verbindungs- oder Erschliessungsstraße (z.B. viele Kreisstraßen)",
         "description": "Tag \"highway=tertiary\". See https://wiki.openstreetmap.org/wiki/Tag:highway=tertiary"
     },
     "tag:highway=track": {
@@ -2770,7 +2770,7 @@
         "description": "Tag \"highway=track\". See https://wiki.openstreetmap.org/wiki/Tag:highway=track"
     },
     "tag:highway=trunk": {
-        "message": "Fernstraße",
+        "message": "Schnellstraße (kreuzungsfrei)",
         "description": "Tag \"highway=trunk\". See https://wiki.openstreetmap.org/wiki/Tag:highway=trunk"
     },
     "tag:highway=trunk_link": {
@@ -2778,7 +2778,7 @@
         "description": "Tag \"highway=trunk_link\". See https://wiki.openstreetmap.org/wiki/Tag:highway=trunk_link"
     },
     "tag:highway=unclassified": {
-        "message": "Verbindungsstraße",
+        "message": "Verbindungsstraße, untergeordnete Straße außerhalb von Wohngebieten",
         "description": "Tag \"highway=unclassified\". See https://wiki.openstreetmap.org/wiki/Tag:highway=unclassified"
     },
     "tag:historic": {
@@ -5130,7 +5130,7 @@
         "description": "Tag \"shop=bakery\". See https://wiki.openstreetmap.org/wiki/Tag:shop=bakery"
     },
     "tag:shop=beauty": {
-        "message": "",
+        "message": "Schönheitssalon",
         "description": "Tag \"shop=beauty\". See https://wiki.openstreetmap.org/wiki/Tag:shop=beauty"
     },
     "tag:shop=bed": {
@@ -5210,7 +5210,7 @@
         "description": "Tag \"shop=confectionery\". See https://wiki.openstreetmap.org/wiki/Tag:shop=confectionery"
     },
     "tag:shop=convenience": {
-        "message": "Laden (Tante-Emma-Laden, Lebensmittelhändler, Tankstellenladen oder ähnliches)",
+        "message": "Tante-Emma-Laden, Lebensmittelhändler, Tankstellenladen oder ähnliches",
         "description": "Tag \"shop=convenience\". See https://wiki.openstreetmap.org/wiki/Tag:shop=convenience"
     },
     "tag:shop=copyshop": {
@@ -5246,11 +5246,11 @@
         "description": "Tag \"shop=dry_cleaning\". See https://wiki.openstreetmap.org/wiki/Tag:shop=dry_cleaning"
     },
     "tag:shop=e-cigarette": {
-        "message": "",
+        "message": "E-Zigaretten",
         "description": "Tag \"shop=e-cigarette\". See https://wiki.openstreetmap.org/wiki/Tag:shop=e-cigarette"
     },
     "tag:shop=electrical": {
-        "message": "",
+        "message": "Elektrogeschäft",
         "description": "Tag \"shop=electrical\". See https://wiki.openstreetmap.org/wiki/Tag:shop=electrical"
     },
     "tag:shop=electronics": {
@@ -5298,7 +5298,7 @@
         "description": "Tag \"shop=florist\". See https://wiki.openstreetmap.org/wiki/Tag:shop=florist"
     },
     "tag:shop=frame": {
-        "message": "",
+        "message": "Rahmengeschäft",
         "description": "Tag \"shop=frame\". See https://wiki.openstreetmap.org/wiki/Tag:shop=frame"
     },
     "tag:shop=frozen_food": {
@@ -5354,7 +5354,7 @@
         "description": "Tag \"shop=hifi\". See https://wiki.openstreetmap.org/wiki/Tag:shop=hifi"
     },
     "tag:shop=houseware": {
-        "message": "",
+        "message": "Haushaltswaren",
         "description": "Tag \"shop=houseware\". See https://wiki.openstreetmap.org/wiki/Tag:shop=houseware"
     },
     "tag:shop=ice_cream": {
@@ -5362,7 +5362,7 @@
         "description": "Tag \"shop=ice_cream\". See https://wiki.openstreetmap.org/wiki/Tag:shop=ice_cream"
     },
     "tag:shop=interior_decoration": {
-        "message": "",
+        "message": "Inneneinrichtung",
         "description": "Tag \"shop=interior_decoration\". See https://wiki.openstreetmap.org/wiki/Tag:shop=interior_decoration"
     },
     "tag:shop=jewelry": {
@@ -5390,7 +5390,7 @@
         "description": "Tag \"shop=market\". See https://wiki.openstreetmap.org/wiki/Tag:shop=market"
     },
     "tag:shop=medical_supply": {
-        "message": "",
+        "message": "Sanitätshaus",
         "description": "Tag \"shop=medical_supply\". See https://wiki.openstreetmap.org/wiki/Tag:shop=medical_supply"
     },
     "tag:shop=mobile_phone": {
@@ -5398,7 +5398,7 @@
         "description": "Tag \"shop=mobile_phone\". See https://wiki.openstreetmap.org/wiki/Tag:shop=mobile_phone"
     },
     "tag:shop=model": {
-        "message": "",
+        "message": "Modellbaugeschäft",
         "description": "Tag \"shop=model\". See https://wiki.openstreetmap.org/wiki/Tag:shop=model"
     },
     "tag:shop=motorcycle": {
@@ -5410,7 +5410,7 @@
         "description": "Tag \"shop=music\". See https://wiki.openstreetmap.org/wiki/Tag:shop=music"
     },
     "tag:shop=musical_instrument": {
-        "message": "",
+        "message": "Musikinstrumente",
         "description": "Tag \"shop=musical_instrument\". See https://wiki.openstreetmap.org/wiki/Tag:shop=musical_instrument"
     },
     "tag:shop=newsagent": {
@@ -5442,7 +5442,7 @@
         "description": "Tag \"shop=pastry\". See https://wiki.openstreetmap.org/wiki/Tag:shop=pastry"
     },
     "tag:shop=perfumery": {
-        "message": "",
+        "message": "Parfümerie",
         "description": "Tag \"shop=perfumery\". See https://wiki.openstreetmap.org/wiki/Tag:shop=perfumery"
     },
     "tag:shop=pet": {
@@ -5506,7 +5506,7 @@
         "description": "Tag \"shop=tailor\". See https://wiki.openstreetmap.org/wiki/Tag:shop=tailor"
     },
     "tag:shop=tatoo": {
-        "message": "",
+        "message": "Tätowierstudio",
         "description": "Tag \"shop=tatoo\". See https://wiki.openstreetmap.org/wiki/Tag:shop=tatoo"
     },
     "tag:shop=tea": {
@@ -5514,7 +5514,7 @@
         "description": "Tag \"shop=tea\". See https://wiki.openstreetmap.org/wiki/Tag:shop=tea"
     },
     "tag:shop=ticket": {
-        "message": "",
+        "message": "Fahrkarten oder Eintrittskarten",
         "description": "Tag \"shop=ticket\". See https://wiki.openstreetmap.org/wiki/Tag:shop=ticket"
     },
     "tag:shop=tobacco": {
@@ -6365,5 +6365,17 @@
     },
     "tag:crossing=zebra": {
         "message": "Zebrastreifen"
+    },
+    "tag:highway=elevator": {
+        "message": "Aufzug"
+    },
+    "tag:footway=sidewalk": {
+        "message": "Bürgersteig"
+    },
+    "tag:cycleway=lane": {
+        "message": "Radfahrstreifen auf der Fahrbahn"
+    },
+    "tag:cycleway=track": {
+        "message": "Radweg neben der Fahrbahn"
     }
 }
