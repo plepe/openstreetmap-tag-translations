@@ -6898,5 +6898,14 @@
     },
     "tag:cycleway=shoulder": {
         "message": "Rameno"
+    },
+    "tag:denotation=agricultural": {
+        "message": "zemědělský"
+    },
+    "tag:amenity=scale": {
+        "message": "Měřítko"
+    },
+    "tag:cycleway=traffic_island": {
+        "message": "Dopravní ostrůvek"
     }
 }
