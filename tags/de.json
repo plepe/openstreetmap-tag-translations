@@ -1473,7 +1473,7 @@
         "description": "Tag \"craft=luthier\". See https://wiki.openstreetmap.org/wiki/Tag:craft=luthier"
     },
     "tag:craft=mason": {
-        "message": "Steinmetz",
+        "message": "Maurer",
         "description": "Tag \"craft=mason\". See https://wiki.openstreetmap.org/wiki/Tag:craft=mason"
     },
     "tag:craft=metal_construction": {
@@ -1525,7 +1525,7 @@
         "description": "Tag \"craft=photo_studio\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photo_studio"
     },
     "tag:craft=photographer": {
-        "message": "Fotograph",
+        "message": "Fotograf",
         "description": "Tag \"craft=photographer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=photographer"
     },
     "tag:craft=photographic_laboratory": {
@@ -1914,7 +1914,7 @@
         "description": "Tag \"cuisine=international\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=iranian": {
-        "message": "",
+        "message": "persisch",
         "description": "Tag \"cuisine=iranian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=italian": {
@@ -1934,7 +1934,7 @@
         "description": "Tag \"cuisine=juice\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=kebab": {
-        "message": "",
+        "message": "Kebab",
         "description": "Tag \"cuisine=kebab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=korean": {
@@ -1966,7 +1966,7 @@
         "description": "Tag \"cuisine=malagasy\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=mediterranean": {
-        "message": "",
+        "message": "mediterran",
         "description": "Tag \"cuisine=mediterranean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=mexican": {
@@ -2282,7 +2282,7 @@
         "description": "Key \"diet:vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegetarian"
     },
     "tag:disused": {
-        "message": "",
+        "message": "unbenutzt",
         "description": "Key \"disused\". See https://wiki.openstreetmap.org/wiki/Key:disused"
     },
     "tag:driving_side": {
@@ -2334,7 +2334,7 @@
         "description": "Tag \"emergency=access_point\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=access_point"
     },
     "tag:emergency=defibrillator": {
-        "message": "",
+        "message": "Defibrillator",
         "description": "Tag \"emergency=defibrillator\". See https://wiki.openstreetmap.org/wiki/Tag:emergency=defibrillator"
     },
     "tag:emergency=fire_hydrant": {
@@ -2382,11 +2382,11 @@
         "description": "Tag \"entrance=main\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=main"
     },
     "tag:entrance=service": {
-        "message": "",
+        "message": "Diensteingang",
         "description": "Tag \"entrance=service\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=service"
     },
     "tag:entrance=staircase": {
-        "message": "",
+        "message": "Treppeneingang",
         "description": "Tag \"entrance=staircase\". See https://wiki.openstreetmap.org/wiki/Tag:entrance=staircase"
     },
     "tag:est_width": {
@@ -2522,7 +2522,7 @@
         "description": "Key \"goods\". See https://wiki.openstreetmap.org/wiki/Key:goods"
     },
     "tag:healthcare=alternative": {
-        "message": "",
+        "message": "Alternativmedizin",
         "description": "Tag \"healthcare=alternative\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=alternative"
     },
     "tag:healthcare=audiologist": {
@@ -2870,7 +2870,7 @@
         "description": "Tag \"historic=battlefield\". See https://wiki.openstreetmap.org/wiki/Tag:historic=battlefield"
     },
     "tag:historic=boundary_stone": {
-        "message": "",
+        "message": "Grenzstein",
         "description": "Tag \"historic=boundary_stone\". See https://wiki.openstreetmap.org/wiki/Tag:historic=boundary_stone"
     },
     "tag:historic=bridge": {
@@ -2878,7 +2878,7 @@
         "description": "Tag \"historic=bridge\". See https://wiki.openstreetmap.org/wiki/Tag:historic=bridge"
     },
     "tag:historic=building": {
-        "message": "",
+        "message": "historisches Gebäude",
         "description": "Tag \"historic=building\". See https://wiki.openstreetmap.org/wiki/Tag:historic=building"
     },
     "tag:historic=cannon": {
@@ -2938,7 +2938,7 @@
         "description": "Tag \"historic=memorial\". See https://wiki.openstreetmap.org/wiki/Tag:historic=memorial"
     },
     "tag:historic=milestone": {
-        "message": "",
+        "message": "Meilenstein",
         "description": "Tag \"historic=milestone\". See https://wiki.openstreetmap.org/wiki/Tag:historic=milestone"
     },
     "tag:historic=mine": {
@@ -3014,7 +3014,7 @@
         "description": "Key \"horse\". See https://wiki.openstreetmap.org/wiki/Key:horse"
     },
     "tag:incline": {
-        "message": "",
+        "message": "Steigung",
         "description": "Key \"incline\". See https://wiki.openstreetmap.org/wiki/Key:incline"
     },
     "tag:information=audioguide": {
@@ -3034,7 +3034,7 @@
         "description": "Tag \"information=map\". See https://wiki.openstreetmap.org/wiki/Tag:information=map"
     },
     "tag:information=office": {
-        "message": "Informations Büro",
+        "message": "Informations-Büro",
         "description": "Tag \"information=office\". See https://wiki.openstreetmap.org/wiki/Tag:information=office"
     },
     "tag:information=route_marker": {
@@ -3130,7 +3130,7 @@
         "description": "Tag \"landuse=brownfield\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=brownfield"
     },
     "tag:landuse=cemetery": {
-        "message": "",
+        "message": "Friedhof",
         "description": "Tag \"landuse=cemetery\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=cemetery"
     },
     "tag:landuse=construction": {
@@ -3490,7 +3490,7 @@
         "description": "Tag \"man_made=wastewater_plant\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=wastewater_plant"
     },
     "tag:material": {
-        "message": "",
+        "message": "Material",
         "description": "Key \"material\". See https://wiki.openstreetmap.org/wiki/Key:material"
     },
     "tag:material=adobe": {
@@ -3502,7 +3502,7 @@
         "description": "Tag \"material=andesite\". See https://wiki.openstreetmap.org/wiki/Tag:material=andesite"
     },
     "tag:material=bamboo": {
-        "message": "",
+        "message": "Bambus",
         "description": "Tag \"material=bamboo\". See https://wiki.openstreetmap.org/wiki/Tag:material=bamboo"
     },
     "tag:material=brass": {
@@ -3510,63 +3510,63 @@
         "description": "Tag \"material=brass\". See https://wiki.openstreetmap.org/wiki/Tag:material=brass"
     },
     "tag:material=brick": {
-        "message": "",
+        "message": "Ziegel",
         "description": "Tag \"material=brick\". See https://wiki.openstreetmap.org/wiki/Tag:material=brick"
     },
     "tag:material=bronze": {
-        "message": "",
+        "message": "Bronze",
         "description": "Tag \"material=bronze\". See https://wiki.openstreetmap.org/wiki/Tag:material=bronze"
     },
     "tag:material=concrete": {
-        "message": "",
+        "message": "Beton",
         "description": "Tag \"material=concrete\". See https://wiki.openstreetmap.org/wiki/Tag:material=concrete"
     },
     "tag:material=glass": {
-        "message": "",
+        "message": "Glas",
         "description": "Tag \"material=glass\". See https://wiki.openstreetmap.org/wiki/Tag:material=glass"
     },
     "tag:material=gold": {
-        "message": "",
+        "message": "Gold",
         "description": "Tag \"material=gold\". See https://wiki.openstreetmap.org/wiki/Tag:material=gold"
     },
     "tag:material=granite": {
-        "message": "",
+        "message": "Granit",
         "description": "Tag \"material=granite\". See https://wiki.openstreetmap.org/wiki/Tag:material=granite"
     },
     "tag:material=iron": {
-        "message": "",
+        "message": "Eisen",
         "description": "Tag \"material=iron\". See https://wiki.openstreetmap.org/wiki/Tag:material=iron"
     },
     "tag:material=light": {
-        "message": "",
+        "message": "Leicht",
         "description": "Tag \"material=light\". See https://wiki.openstreetmap.org/wiki/Tag:material=light"
     },
     "tag:material=limestone": {
-        "message": "",
+        "message": "Kalkstein",
         "description": "Tag \"material=limestone\". See https://wiki.openstreetmap.org/wiki/Tag:material=limestone"
     },
     "tag:material=marble": {
-        "message": "",
+        "message": "Marmor",
         "description": "Tag \"material=marble\". See https://wiki.openstreetmap.org/wiki/Tag:material=marble"
     },
     "tag:material=masonry": {
-        "message": "",
+        "message": "Mauerwerk",
         "description": "Tag \"material=masonry\". See https://wiki.openstreetmap.org/wiki/Tag:material=masonry"
     },
     "tag:material=metal": {
-        "message": "",
+        "message": "Metall",
         "description": "Tag \"material=metal\". See https://wiki.openstreetmap.org/wiki/Tag:material=metal"
     },
     "tag:material=mixed": {
-        "message": "",
+        "message": "gemischt",
         "description": "Tag \"material=mixed\". See https://wiki.openstreetmap.org/wiki/Tag:material=mixed"
     },
     "tag:material=palm_leaves": {
-        "message": "",
+        "message": "Palmwedel",
         "description": "Tag \"material=palm_leaves\". See https://wiki.openstreetmap.org/wiki/Tag:material=palm_leaves"
     },
     "tag:material=plastic": {
-        "message": "",
+        "message": "Plastik",
         "description": "Tag \"material=plastic\". See https://wiki.openstreetmap.org/wiki/Tag:material=plastic"
     },
     "tag:material=rammed_earth": {
@@ -3578,7 +3578,7 @@
         "description": "Tag \"material=reinforced_concrete\". See https://wiki.openstreetmap.org/wiki/Tag:material=reinforced_concrete"
     },
     "tag:material=sandstone": {
-        "message": "",
+        "message": "Sandstein",
         "description": "Tag \"material=sandstone\". See https://wiki.openstreetmap.org/wiki/Tag:material=sandstone"
     },
     "tag:material=silicate_brick": {
@@ -3586,23 +3586,23 @@
         "description": "Tag \"material=silicate_brick\". See https://wiki.openstreetmap.org/wiki/Tag:material=silicate_brick"
     },
     "tag:material=silver": {
-        "message": "",
+        "message": "Silber",
         "description": "Tag \"material=silver\". See https://wiki.openstreetmap.org/wiki/Tag:material=silver"
     },
     "tag:material=soil": {
-        "message": "",
+        "message": "Erde",
         "description": "Tag \"material=soil\". See https://wiki.openstreetmap.org/wiki/Tag:material=soil"
     },
     "tag:material=steel": {
-        "message": "",
+        "message": "Stahl",
         "description": "Tag \"material=steel\". See https://wiki.openstreetmap.org/wiki/Tag:material=steel"
     },
     "tag:material=stone": {
-        "message": "",
+        "message": "Stein",
         "description": "Tag \"material=stone\". See https://wiki.openstreetmap.org/wiki/Tag:material=stone"
     },
     "tag:material=wood": {
-        "message": "",
+        "message": "Holz",
         "description": "Tag \"material=wood\". See https://wiki.openstreetmap.org/wiki/Tag:material=wood"
     },
     "tag:maxheight": {
@@ -3646,19 +3646,19 @@
         "description": "Tag \"memorial=blue_plaque\" or \"memorial:type=blue_plaque\" or \"monument=blue_plaque\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=blue_plaque"
     },
     "tag:memorial=bust": {
-        "message": "",
+        "message": "Büste",
         "description": "Tag \"memorial=bust\" or \"memorial:type=bust\" or \"monument=bust\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=bust"
     },
     "tag:memorial=cross": {
-        "message": "",
+        "message": "Kreuz",
         "description": "Tag \"memorial=cross\" or \"memorial:type=cross\" or \"monument=cross\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=cross"
     },
     "tag:memorial=ghost_bike": {
-        "message": "",
+        "message": "Geisterfahrrad",
         "description": "Tag \"memorial=ghost_bike\" or \"memorial:type=ghost_bike\" or \"monument=ghost_bike\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=ghost_bike"
     },
     "tag:memorial=grave": {
-        "message": "",
+        "message": "Grab",
         "description": "Tag \"memorial=grave\" or \"memorial:type=grave\" or \"monument=grave\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=grave"
     },
     "tag:memorial=graveyard": {
@@ -3666,47 +3666,47 @@
         "description": "Tag \"memorial=graveyard\" or \"memorial:type=graveyard\" or \"monument=graveyard\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=graveyard"
     },
     "tag:memorial=high_water_mark": {
-        "message": "",
+        "message": "Flutmarke",
         "description": "Tag \"memorial=high_water_mark\" or \"memorial:type=high_water_mark\" or \"monument=high_water_mark\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=high_water_mark"
     },
     "tag:memorial=obelisk": {
-        "message": "",
+        "message": "Obelisk",
         "description": "Tag \"memorial=obelisk\" or \"memorial:type=obelisk\" or \"monument=obelisk\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=obelisk"
     },
     "tag:memorial=plaque": {
-        "message": "",
+        "message": "Gedenktafel",
         "description": "Tag \"memorial=plaque\" or \"memorial:type=plaque\" or \"monument=plaque\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=plaque"
     },
     "tag:memorial=sculpture": {
-        "message": "",
+        "message": "Skulptur",
         "description": "Tag \"memorial=sculpture\" or \"memorial:type=sculpture\" or \"monument=sculpture\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=sculpture"
     },
     "tag:memorial=statue": {
-        "message": "",
+        "message": "Statue",
         "description": "Tag \"memorial=statue\" or \"memorial:type=statue\" or \"monument=statue\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=statue"
     },
     "tag:memorial=stele": {
-        "message": "",
+        "message": "Stele",
         "description": "Tag \"memorial=stele\" or \"memorial:type=stele\" or \"monument=stele\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=stele"
     },
     "tag:memorial=stolperstein": {
-        "message": "",
+        "message": "Stolperstein",
         "description": "Tag \"memorial=stolperstein\" or \"memorial:type=stolperstein\" or \"monument=stolperstein\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=stolperstein"
     },
     "tag:memorial=stone": {
-        "message": "",
+        "message": "Stein",
         "description": "Tag \"memorial=stone\" or \"memorial:type=stone\" or \"monument=stone\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=stone"
     },
     "tag:memorial=tank": {
-        "message": "",
+        "message": "Panzer",
         "description": "Tag \"memorial=tank\" or \"memorial:type=tank\" or \"monument=tank\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=tank"
     },
     "tag:memorial=vehicle": {
-        "message": "",
+        "message": "Fahrzeug",
         "description": "Tag \"memorial=vehicle\" or \"memorial:type=vehicle\" or \"monument=vehicle\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=vehicle"
     },
     "tag:memorial=war_memorial": {
-        "message": "",
+        "message": "Kriegsdenkmal",
         "description": "Tag \"memorial=war_memorial\" or \"memorial:type=war_memorial\" or \"monument=war_memorial\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=war_memorial"
     },
     "tag:military": {
@@ -3794,27 +3794,27 @@
         "description": "Tag \"museum=archaeology\". See https://wiki.openstreetmap.org/wiki/Tag:museum=archaeology"
     },
     "tag:museum=art": {
-        "message": "",
+        "message": "Kunstmuseum",
         "description": "Tag \"museum=art\". See https://wiki.openstreetmap.org/wiki/Tag:museum=art"
     },
     "tag:museum=aviation": {
-        "message": "",
+        "message": "Luftfahrtmuseum",
         "description": "Tag \"museum=aviation\". See https://wiki.openstreetmap.org/wiki/Tag:museum=aviation"
     },
     "tag:museum=children": {
-        "message": "",
+        "message": "Museum für Kinder",
         "description": "Tag \"museum=children\". See https://wiki.openstreetmap.org/wiki/Tag:museum=children"
     },
     "tag:museum=gallery": {
-        "message": "",
+        "message": "Gallerie",
         "description": "Tag \"museum=gallery\". See https://wiki.openstreetmap.org/wiki/Tag:museum=gallery"
     },
     "tag:museum=history": {
-        "message": "",
+        "message": "Historisches Museum",
         "description": "Tag \"museum=history\". See https://wiki.openstreetmap.org/wiki/Tag:museum=history"
     },
     "tag:museum=language": {
-        "message": "",
+        "message": "Museum für Sprachen",
         "description": "Tag \"museum=language\". See https://wiki.openstreetmap.org/wiki/Tag:museum=language"
     },
     "tag:museum=living_history": {
@@ -3822,7 +3822,7 @@
         "description": "Tag \"museum=living_history\". See https://wiki.openstreetmap.org/wiki/Tag:museum=living_history"
     },
     "tag:museum=local": {
-        "message": "",
+        "message": "Heimatmuseum",
         "description": "Tag \"museum=local\". See https://wiki.openstreetmap.org/wiki/Tag:museum=local"
     },
     "tag:museum=maritime": {
@@ -3850,15 +3850,15 @@
         "description": "Tag \"museum=railway\". See https://wiki.openstreetmap.org/wiki/Tag:museum=railway"
     },
     "tag:museum=science": {
-        "message": "",
+        "message": "Museum für Wissenschaft",
         "description": "Tag \"museum=science\". See https://wiki.openstreetmap.org/wiki/Tag:museum=science"
     },
     "tag:museum=technology": {
-        "message": "",
+        "message": "Technikmuseum",
         "description": "Tag \"museum=technology\". See https://wiki.openstreetmap.org/wiki/Tag:museum=technology"
     },
     "tag:museum=transport": {
-        "message": "",
+        "message": "Verkehrsmuseum",
         "description": "Tag \"museum=transport\". See https://wiki.openstreetmap.org/wiki/Tag:museum=transport"
     },
     "tag:museum=war": {
@@ -3914,7 +3914,7 @@
         "description": "Tag \"natural=bare_rock\". See https://wiki.openstreetmap.org/wiki/Tag:natural=bare_rock"
     },
     "tag:natural=bay": {
-        "message": "",
+        "message": "Bucht",
         "description": "Tag \"natural=bay\". See https://wiki.openstreetmap.org/wiki/Tag:natural=bay"
     },
     "tag:natural=beach": {
@@ -3954,7 +3954,7 @@
         "description": "Tag \"natural=glacier\". See https://wiki.openstreetmap.org/wiki/Tag:natural=glacier"
     },
     "tag:natural=grassland": {
-        "message": "",
+        "message": "Grasland (Savanne, Prärie und ähnlich)",
         "description": "Tag \"natural=grassland\". See https://wiki.openstreetmap.org/wiki/Tag:natural=grassland"
     },
     "tag:natural=heath": {
@@ -3962,7 +3962,7 @@
         "description": "Tag \"natural=heath\". See https://wiki.openstreetmap.org/wiki/Tag:natural=heath"
     },
     "tag:natural=hill": {
-        "message": "Berg",
+        "message": "Berg (Hügel)",
         "description": "Tag \"natural=hill\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hill"
     },
     "tag:natural=hot_spring": {
@@ -3978,7 +3978,7 @@
         "description": "Tag \"natural=moor\". See https://wiki.openstreetmap.org/wiki/Tag:natural=moor"
     },
     "tag:natural=mountain": {
-        "message": "Berge",
+        "message": "Berg",
         "description": "Tag \"natural=mountain\". See https://wiki.openstreetmap.org/wiki/Tag:natural=mountain"
     },
     "tag:natural=mountain_range": {
@@ -4006,11 +4006,11 @@
         "description": "Tag \"natural=ridge\". See https://wiki.openstreetmap.org/wiki/Tag:natural=ridge"
     },
     "tag:natural=river_terrace": {
-        "message": "",
+        "message": "Flussterrasse",
         "description": "Tag \"natural=river_terrace\". See https://wiki.openstreetmap.org/wiki/Tag:natural=river_terrace"
     },
     "tag:natural=rock": {
-        "message": "",
+        "message": "Fels",
         "description": "Tag \"natural=rock\". See https://wiki.openstreetmap.org/wiki/Tag:natural=rock"
     },
     "tag:natural=saddle": {
@@ -4018,7 +4018,7 @@
         "description": "Tag \"natural=saddle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=saddle"
     },
     "tag:natural=sand": {
-        "message": "",
+        "message": "Sand",
         "description": "Tag \"natural=sand\". See https://wiki.openstreetmap.org/wiki/Tag:natural=sand"
     },
     "tag:natural=scree": {
@@ -4026,11 +4026,11 @@
         "description": "Tag \"natural=scree\". See https://wiki.openstreetmap.org/wiki/Tag:natural=scree"
     },
     "tag:natural=scrub": {
-        "message": "Büsche",
+        "message": "Buschland",
         "description": "Tag \"natural=scrub\". See https://wiki.openstreetmap.org/wiki/Tag:natural=scrub"
     },
     "tag:natural=shingle": {
-        "message": "",
+        "message": "Schotter",
         "description": "Tag \"natural=shingle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=shingle"
     },
     "tag:natural=sinkhole": {
@@ -4042,15 +4042,15 @@
         "description": "Tag \"natural=spring\". See https://wiki.openstreetmap.org/wiki/Tag:natural=spring"
     },
     "tag:natural=stone": {
-        "message": "",
+        "message": "Gesteinsblock",
         "description": "Tag \"natural=stone\". See https://wiki.openstreetmap.org/wiki/Tag:natural=stone"
     },
     "tag:natural=strait": {
-        "message": "",
+        "message": "Wasserstraße",
         "description": "Tag \"natural=strait\". See https://wiki.openstreetmap.org/wiki/Tag:natural=strait"
     },
     "tag:natural=tree": {
-        "message": "Bäume",
+        "message": "Baum",
         "description": "Tag \"natural=tree\". See https://wiki.openstreetmap.org/wiki/Tag:natural=tree"
     },
     "tag:natural=tree_row": {
@@ -4074,7 +4074,7 @@
         "description": "Tag \"natural=wetland\". See https://wiki.openstreetmap.org/wiki/Tag:natural=wetland"
     },
     "tag:natural=wood": {
-        "message": "Urwald",
+        "message": "Wald",
         "description": "Tag \"natural=wood\". See https://wiki.openstreetmap.org/wiki/Tag:natural=wood"
     },
     "tag:network": {
@@ -4162,7 +4162,7 @@
         "description": "Tag \"office=company\". See https://wiki.openstreetmap.org/wiki/Tag:office=company"
     },
     "tag:office=cooperative": {
-        "message": "",
+        "message": "Kooperative",
         "description": "Tag \"office=cooperative\". See https://wiki.openstreetmap.org/wiki/Tag:office=cooperative"
     },
     "tag:office=coworking": {
@@ -4542,7 +4542,7 @@
         "description": "Key \"power\". See https://wiki.openstreetmap.org/wiki/Key:power"
     },
     "tag:power=cable": {
-        "message": "",
+        "message": "Stromleitung",
         "description": "Tag \"power=cable\". See https://wiki.openstreetmap.org/wiki/Tag:power=cable"
     },
     "tag:power=catenary_mast": {
@@ -6383,5 +6383,65 @@
     },
     "tag:kerb=lowered": {
         "message": "Abgesenkter Bordstein"
+    },
+    "tag:direction=SSW": {
+        "message": "Südsüdwest"
+    },
+    "tag:direction=SW": {
+        "message": "Südwest"
+    },
+    "tag:direction=WSW": {
+        "message": "Westsüdwest"
+    },
+    "tag:footway=traffic_island": {
+        "message": "Verkehrsinsel"
+    },
+    "tag:footway=crossing": {
+        "message": "Fußgängerüberweg"
+    },
+    "tag:highway=steps conveying": {
+        "message": "Rolltreppe"
+    },
+    "tag:direction=ENE": {
+        "message": "Ostnordost"
+    },
+    "tag:direction=ESE": {
+        "message": "Ostsüdost"
+    },
+    "tag:direction=N": {
+        "message": "Norden"
+    },
+    "tag:direction=NNE": {
+        "message": "Nordnordost"
+    },
+    "tag:direction=NNW": {
+        "message": "Nordnordwest"
+    },
+    "tag:direction=NW": {
+        "message": "Nordwest"
+    },
+    "tag:direction=SSE": {
+        "message": "Südsüdost"
+    },
+    "tag:direction=SE": {
+        "message": "Südost"
+    },
+    "tag:direction=W": {
+        "message": "Westen"
+    },
+    "tag:emergency=lifeguard": {
+        "message": "Wasserrettung"
+    },
+    "tag:direction=S": {
+        "message": "Süden"
+    },
+    "tag:cycleway=shared_lane": {
+        "message": "gemeinsame Straße Autos und Fahrrad"
+    },
+    "tag:direction=E": {
+        "message": "Ost"
+    },
+    "tag:direction=WNW": {
+        "message": "Westnordwest"
     }
 }
