@@ -1416,5 +1416,50 @@
     },
     "tag:amenity=scale": {
         "message": "Balança"
+    },
+    "tag:amenity=vending_machine vending=parcel_pickup;parcel_mail_in": {
+        "message": "Distribuïdor automàtic per a la recollida de paquets"
+    },
+    "tag:amenity=vending_machine vending=parking_tickets": {
+        "message": "Distribuïdor automàtic de tiquets d'aparcament"
+    },
+    "tag:amenity=vending_machine vending=parking_tickets;public_transport_tickets": {
+        "message": "Distribuïdor automàtic de bitllets de transport públic"
+    },
+    "tag:amenity=veterinary": {
+        "message": "Veterinari"
+    },
+    "tag:amenity=vending_machine vending=parcel_pickup": {
+        "message": "Distribuïdor automàtic per a la recollida de paquets"
+    },
+    "tag:amenity=vending_machine vending=public_transport_tickets": {
+        "message": "Distribuïdor automàtic de bitllets de transport públic"
+    },
+    "tag:amenity=vending_machine vending=stamps": {
+        "message": "Distribuïdor automàtic de segells"
+    },
+    "tag:amenity=vending_machine vending=sweets;chewing_gum": {
+        "message": "Distribuïdor automàtic de xiclets"
+    },
+    "tag:amenity=vending_machine vending=telephone_vouchers": {
+        "message": "Distribuïdor automàtic de targetes telefòniques"
+    },
+    "tag:amenity=waste_basket": {
+        "message": "Contenidor d'escombraries"
+    },
+    "tag:amenity=waste_disposal": {
+        "message": "Contenidor d'escombraries mitjà per a deixalles domèstiques o industrials"
+    },
+    "tag:amenity=waste_transfer_station": {
+        "message": "Planta de transferència de residus"
+    },
+    "tag:architect": {
+        "message": "Arquitecte"
+    },
+    "tag:area": {
+        "message": "Àrea"
+    },
+    "tag:area:highway": {
+        "message": "Forma de la via"
     }
 }
