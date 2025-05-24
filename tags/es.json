@@ -98,11 +98,7 @@
     },
     "tag:admin_level=7": {
         "message": "(7)",
-        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7",
-        "5": {
-            "message": "Nivel administrativo (7.5)",
-            "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
-        }
+        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=8": {
         "message": "Municipio (8)",
@@ -6472,5 +6468,14 @@
     },
     "tag:waste=recycling": {
         "message": "reciclaje"
+    },
+    "tag:access=destination": {
+        "message": "solo tránsito local"
+    },
+    "tag:access=use_sidepath": {
+        "message": "usar camino lateral designado"
+    },
+    "tag:amenity=scale": {
+        "message": "Escala"
     }
 }
