@@ -1407,5 +1407,14 @@
     "tag:residential=single_family": {
         "message": "Habitatge unifamiliar",
         "description": "Tag \"residential=single_family\". See https://wiki.openstreetmap.org/wiki/Tag:residential=single_family"
+    },
+    "tag:amenity=baby_hatch": {
+        "message": "Torn d'abandonament"
+    },
+    "tag:amenity=food_court": {
+        "message": "Àrea de restauració"
+    },
+    "tag:amenity=scale": {
+        "message": "Balança"
     }
 }
