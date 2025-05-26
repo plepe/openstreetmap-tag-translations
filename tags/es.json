@@ -5822,7 +5822,7 @@
         "description": "Key \"tracktype\". See https://wiki.openstreetmap.org/wiki/Key:tracktype"
     },
     "tag:traffic_calming": {
-        "message": "",
+        "message": "Pacificación del tránsito",
         "description": "Key \"traffic_calming\". See https://wiki.openstreetmap.org/wiki/Key:traffic_calming"
     },
     "tag:traffic_sign": {
@@ -5834,7 +5834,7 @@
         "description": "Key \"tunnel\". See https://wiki.openstreetmap.org/wiki/Key:tunnel"
     },
     "tag:type": {
-        "message": "",
+        "message": "Tipo",
         "description": "Key \"type\". See https://wiki.openstreetmap.org/wiki/Key:type"
     },
     "tag:type=gas": {
@@ -5882,11 +5882,11 @@
         "description": "Key \"water\". See https://wiki.openstreetmap.org/wiki/Key:water"
     },
     "tag:water=basin": {
-        "message": "",
+        "message": "Cuenca",
         "description": "Tag \"water=basin\". See https://wiki.openstreetmap.org/wiki/Tag:water=basin"
     },
     "tag:water=canal": {
-        "message": "",
+        "message": "Canal",
         "description": "Tag \"water=canal\". See https://wiki.openstreetmap.org/wiki/Tag:water=canal"
     },
     "tag:water=fish_pass": {
@@ -5902,11 +5902,11 @@
         "description": "Tag \"water=lake\". See https://wiki.openstreetmap.org/wiki/Tag:water=lake"
     },
     "tag:water=lock": {
-        "message": "",
+        "message": "Esclusa",
         "description": "Tag \"water=lock\". See https://wiki.openstreetmap.org/wiki/Tag:water=lock"
     },
     "tag:water=moat": {
-        "message": "",
+        "message": "Foso",
         "description": "Tag \"water=moat\". See https://wiki.openstreetmap.org/wiki/Tag:water=moat"
     },
     "tag:water=oxbow": {
@@ -5914,7 +5914,7 @@
         "description": "Tag \"water=oxbow\". See https://wiki.openstreetmap.org/wiki/Tag:water=oxbow"
     },
     "tag:water=pond": {
-        "message": "",
+        "message": "Estanque",
         "description": "Tag \"water=pond\". See https://wiki.openstreetmap.org/wiki/Tag:water=pond"
     },
     "tag:water=reflecting_pool": {
@@ -5922,7 +5922,7 @@
         "description": "Tag \"water=reflecting_pool\". See https://wiki.openstreetmap.org/wiki/Tag:water=reflecting_pool"
     },
     "tag:water=reservoir": {
-        "message": "Presa",
+        "message": "Embalse",
         "description": "Tag \"water=reservoir\". See https://wiki.openstreetmap.org/wiki/Tag:water=reservoir"
     },
     "tag:water=river": {
@@ -5934,11 +5934,11 @@
         "description": "Tag \"water=stream_pool\". See https://wiki.openstreetmap.org/wiki/Tag:water=stream_pool"
     },
     "tag:water=wastewater": {
-        "message": "",
+        "message": "Aguas residuales",
         "description": "Tag \"water=wastewater\". See https://wiki.openstreetmap.org/wiki/Tag:water=wastewater"
     },
     "tag:waterway": {
-        "message": "",
+        "message": "Hidrovía",
         "description": "Key \"waterway\". See https://wiki.openstreetmap.org/wiki/Key:waterway"
     },
     "tag:waterway=canal": {
@@ -5994,11 +5994,11 @@
         "description": "Key \"wheelchair\". See https://wiki.openstreetmap.org/wiki/Key:wheelchair"
     },
     "tag:wheelchair=limited": {
-        "message": "",
+        "message": "limitado",
         "description": "Tag \"wheelchair=limited\". See https://wiki.openstreetmap.org/wiki/Tag:wheelchair=limited"
     },
     "tag:width": {
-        "message": "Ancho",
+        "message": "Anchura",
         "description": "Key \"width\". See https://wiki.openstreetmap.org/wiki/Key:width"
     },
     "tag:wikipedia": {
@@ -6010,7 +6010,7 @@
         "description": "Key \"wires\". See https://wiki.openstreetmap.org/wiki/Key:wires"
     },
     "tag:wood": {
-        "message": "",
+        "message": "Tipo de madera",
         "description": "Key \"wood\". See https://wiki.openstreetmap.org/wiki/Key:wood"
     },
     "tag:xmas:feature": {
@@ -6022,7 +6022,7 @@
         "description": "Tag \"xmas:feature=event\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=event"
     },
     "tag:xmas:feature=market": {
-        "message": "",
+        "message": "Mercado navideño",
         "description": "Tag \"xmas:feature=market\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=market"
     },
     "tag:xmas:feature=pyramid": {
@@ -6034,7 +6034,7 @@
         "description": "Tag \"xmas:feature=shop\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=shop"
     },
     "tag:xmas:feature=tree": {
-        "message": "",
+        "message": "Árbol de Navidad",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
     },
     "tag:access=forestry": {
@@ -6455,7 +6455,7 @@
         "message": "Desecho"
     },
     "tag:waste=cigarettes": {
-        "message": "cigarrillo"
+        "message": "cigarrillos"
     },
     "tag:waste=dog_excrement": {
         "message": "excrementos de perro"
@@ -6477,5 +6477,38 @@
     },
     "tag:amenity=scale": {
         "message": "Escala"
+    },
+    "tag:conveying=reversible": {
+        "message": "reversible"
+    },
+    "tag:bicycle_road": {
+        "message": "Ciclocalle"
+    },
+    "tag:cycleway=shared_lane": {
+        "message": "Carril compartido"
+    },
+    "tag:traffic_sign=maxheight": {
+        "message": "Altura máx."
+    },
+    "tag:traffic_sign=maxspeed": {
+        "message": "Velocidad máx."
+    },
+    "tag:traffic_sign=maxwidth": {
+        "message": "Anchura máx."
+    },
+    "tag:traffic_sign=signal_ahead": {
+        "message": "Semáforo próximo"
+    },
+    "tag:traffic_sign=stop_ahead": {
+        "message": "Alto próximo"
+    },
+    "tag:traffic_sign=maxweight": {
+        "message": "Peso máx."
+    },
+    "tag:traffic_sign=variable_message": {
+        "message": "Mensaje variable"
+    },
+    "tag:traffic_sign=yield_ahead": {
+        "message": "Ceda el paso próximo"
     }
 }
