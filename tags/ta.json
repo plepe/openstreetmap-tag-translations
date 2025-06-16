@@ -2574,7 +2574,7 @@
         "message": "உணவு"
     },
     "tag:cuisine/dessert": {
-        "message": "உணவு உணவு (இனிப்பு)"
+        "message": "உணவு (இனிப்பு)"
     },
     "tag:cuisine/ethnicity": {
         "message": "உணவு (இனம்)"
@@ -2677,5 +2677,2675 @@
     },
     "tag:leisure=water_park": {
         "message": "நீர் பூங்கா"
+    },
+    "tag:material=brass": {
+        "message": "குறிச்சொல்: பொருள் = பித்தளை"
+    },
+    "tag:material=brick": {
+        "message": "குறிச்சொல்: பொருள் = செங்கல்"
+    },
+    "tag:material=concrete": {
+        "message": "குறிச்சொல்: பொருள் = கான்கிரீட்"
+    },
+    "tag:material=glass": {
+        "message": "குறிச்சொல்: பொருள் = கண்ணாடி"
+    },
+    "tag:material=iron": {
+        "message": "குறிச்சொல்: பொருள் = இரும்பு"
+    },
+    "tag:material=light": {
+        "message": "குறிச்சொல்: பொருள் = ஒளி"
+    },
+    "tag:material=metal": {
+        "message": "குறிச்சொல்: பொருள் = உலோகம்"
+    },
+    "tag:material=palm_leaves": {
+        "message": "குறிச்சொல்: பொருள் = பாம்_லீவ்ச்"
+    },
+    "tag:material=silver": {
+        "message": "குறிச்சொல்: பொருள் = வெள்ளி"
+    },
+    "tag:material=soil": {
+        "message": "குறிச்சொல்: பொருள் = மண்"
+    },
+    "tag:material=wood": {
+        "message": "குறிச்சொல்: பொருள் = மரம்"
+    },
+    "tag:military=barracks": {
+        "message": "குறிச்சொல்: தரைப்படை = பாராக்ச்"
+    },
+    "tag:military=nuclear_explosion_site": {
+        "message": "குறிச்சொல்: தரைப்படை = அணு வெடிப்பு தளம்"
+    },
+    "tag:museum=agriculture": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = உழவு"
+    },
+    "tag:museum=art": {
+        "message": "நாள்: அருங்காட்சியகம் = கலை"
+    },
+    "tag:museum=aviation": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = விமான போக்குவரத்து"
+    },
+    "tag:museum=children": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = குழந்தைகள்"
+    },
+    "tag:museum=gallery": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = கேலரி"
+    },
+    "tag:museum=history": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = வரலாறு"
+    },
+    "tag:museum_type=municipal": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம்_ வகை = நகராட்சி"
+    },
+    "tag:office=accountant": {
+        "message": "குறிச்சொல்: அலுவலகம் = கணக்காளர்"
+    },
+    "tag:office=administration": {
+        "message": "குறிச்சொல்: அலுவலகம் = நிர்வாகம்"
+    },
+    "tag:office=architect": {
+        "message": "குறிச்சொல்: அலுவலகம் = கட்டிடக் கலைஞர்"
+    },
+    "tag:office=advertising_agency": {
+        "message": "குறிச்சொல்: அலுவலகம் = விளம்பர நிறுவனம்"
+    },
+    "tag:office=association": {
+        "message": "குறிச்சொல்: அலுவலகம் = சங்கம்"
+    },
+    "tag:office=camping": {
+        "message": "குறிச்சொல்: அலுவலகம் = முகாம்"
+    },
+    "tag:office=charity": {
+        "message": "குறிச்சொல்: அலுவலகம் = தொண்டு"
+    },
+    "tag:office=engineer": {
+        "message": "குறிச்சொல்: அலுவலகம் = பொறியாளர்"
+    },
+    "tag:office=energy_supplier": {
+        "message": "குறிச்சொல்: அலுவலகம் = எனர்சி_பிலியர்"
+    },
+    "tag:office=notary": {
+        "message": "குறிச்சொல்: அலுவலகம் = நோட்டரி"
+    },
+    "tag:office=political_party": {
+        "message": "குறிச்சொல்: அலுவலகம் = அரசியல் கட்சி"
+    },
+    "tag:office=private_investigator": {
+        "message": "குறிச்சொல்: அலுவலகம் = தனியார் புலனாய்வாளர்"
+    },
+    "tag:office=surveyor": {
+        "message": "குறிச்சொல்: அலுவலகம் = சர்வேயர்"
+    },
+    "tag:office=tax": {
+        "message": "குறிச்சொல்: அலுவலகம் = வரி"
+    },
+    "tag:payment": {
+        "message": "குறிச்சொல்: கட்டணம்"
+    },
+    "tag:payment:coins": {
+        "message": "குறிச்சொல்: கட்டணம்: நாணயங்கள்"
+    },
+    "tag:payment:credit_cards": {
+        "message": "குறிச்சொல்: கட்டணம்: கிரெடிட்_ கார்டுகள்"
+    },
+    "tag:payment:girocard": {
+        "message": "குறிச்சொல்: கட்டணம்: கிரோஆர்கார்ட்"
+    },
+    "tag:payment:notes": {
+        "message": "குறிச்சொல்: கட்டணம்: குறிப்புகள்"
+    },
+    "tag:power=portal": {
+        "message": "குறிச்சொல்: ஆற்றல் = போர்ட்டல்"
+    },
+    "tag:public_transport=platform": {
+        "message": "குறிச்சொல்: public_transport = இயங்குதளம்"
+    },
+    "tag:public_transport=stop_position": {
+        "message": "குறிச்சொல்: public_transport = stop_position"
+    },
+    "tag:railway=abandoned": {
+        "message": "குறிச்சொல்: ரயில்வே = கைவிடப்பட்டது"
+    },
+    "tag:railway=construction": {
+        "message": "குறிச்சொல்: ரயில்வே = கட்டுமானம்"
+    },
+    "tag:railway=crossing_box": {
+        "message": "குறிச்சொல்: ரயில்வே = கிராசிங்_பாக்ச்"
+    },
+    "tag:railway=halt": {
+        "message": "குறிச்சொல்: ரயில்வே = நிறுத்தம்"
+    },
+    "tag:railway=level_crossing": {
+        "message": "குறிச்சொல்: ரயில்வே = நிலை கடத்தல்"
+    },
+    "tag:railway=rail usage=test": {
+        "message": "குறிச்சொல்: ரயில்வே = ரயில் பயன்பாடு = சோதனை"
+    },
+    "tag:railway=tram_stop": {
+        "message": "குறிச்சொல்: ரயில்வே = டிராம்_ச்டாப்"
+    },
+    "tag:religion=bahai": {
+        "message": "நாள்: மதம் = பஆய்"
+    },
+    "tag:religion=caodaism": {
+        "message": "குறிச்சொல்: மதம் = காடிசம்"
+    },
+    "tag:religion=confucian": {
+        "message": "குறிச்சொல்: மதம் = கன்பூசியன்"
+    },
+    "tag:religion=none": {
+        "message": "குறிச்சொல்: மதம் = எதுவுமில்லை"
+    },
+    "tag:religion=shamanic": {
+        "message": "குறிச்சொல்: மதம் = சாமானிக்"
+    },
+    "tag:religion=spiritualist": {
+        "message": "குறிச்சொல்: மதம் = ஆன்மீகவாதி"
+    },
+    "tag:religion=tenrikyo": {
+        "message": "குறிச்சொல்: மதம் = டென்ரிக்யோ"
+    },
+    "tag:religion=voodoo": {
+        "message": "குறிச்சொல்: மதம் = வூடூ"
+    },
+    "tag:residential=gated": {
+        "message": "குறிச்சொல்: குடியிருப்பு = கேட்"
+    },
+    "tag:residential=halting_site": {
+        "message": "குறிச்சொல்: குடியிருப்பு = ஆல்டிங்_சைட்"
+    },
+    "tag:residential=irregular_settlement": {
+        "message": "குறிச்சொல்: குடியிருப்பு = ஒழுங்கற்ற தீர்வு"
+    },
+    "tag:residential=rural": {
+        "message": "குறிச்சொல்: குடியிருப்பு = கிராமப்புற"
+    },
+    "tag:route_type": {
+        "message": "குறிச்சொல்: பாதை_ வகை"
+    },
+    "tag:sauna=aroma": {
+        "message": "குறிச்சொல்: ச உனா னா = நறுமணம்"
+    },
+    "tag:sauna=hot": {
+        "message": "குறிச்சொல்: ச உனா னா = சூடான"
+    },
+    "tag:sauna=smoke": {
+        "message": "குறிச்சொல்: ச உனா னா = புகை"
+    },
+    "tag:sauna=steam": {
+        "message": "குறிச்சொல்: ச உனா னா = நீராவி"
+    },
+    "tag:shop=agrarian": {
+        "message": "குறிச்சொல்: கடை = விவசாய"
+    },
+    "tag:shop=alcohol": {
+        "message": "குறிச்சொல்: கடை = ஆல்கஆல்"
+    },
+    "tag:shop=antiques": {
+        "message": "குறிச்சொல்: கடை = பழம்பொருட்கள்"
+    },
+    "tag:shop=boutique": {
+        "message": "குறிச்சொல்: கடை = பூட்டிக்"
+    },
+    "tag:shop=butcher": {
+        "message": "குறிச்சொல்: கடை = கசாப்புக்காரன்"
+    },
+    "tag:shop=camera": {
+        "message": "குறிச்சொல்: கடை = கேமரா"
+    },
+    "tag:shop=carpet": {
+        "message": "குறிச்சொல்: கடை = கம்பளம்"
+    },
+    "tag:shop=cheese": {
+        "message": "குறிச்சொல்: கடை = சீச்"
+    },
+    "tag:shop=chemist": {
+        "message": "குறிச்சொல்: கடை = வேதியியலாளர்"
+    },
+    "tag:shop=convenience": {
+        "message": "குறிச்சொல்: கடை = வசதி"
+    },
+    "tag:shop=copyshop": {
+        "message": "குறிச்சொல்: SHOP = COPYSHOP"
+    },
+    "tag:shop=craft": {
+        "message": "குறிச்சொல்: கடை = கைவினை"
+    },
+    "tag:shop=deli": {
+        "message": "குறிச்சொல்: கடை = டெலி"
+    },
+    "tag:shop=electrical": {
+        "message": "குறிச்சொல்: கடை = மின்"
+    },
+    "tag:shop=electronics": {
+        "message": "குறிச்சொல்: கடை = மின்னணுவியல்"
+    },
+    "tag:shop=fabric": {
+        "message": "குறிச்சொல்: கடை = துணி"
+    },
+    "tag:shop=florist": {
+        "message": "குறிச்சொல்: கடை = பூக்கடை"
+    },
+    "tag:shop=frame": {
+        "message": "குறிச்சொல்: கடை = சட்டகம்"
+    },
+    "tag:shop=frozen_food": {
+        "message": "குறிச்சொல்: கடை = ஃப்ரோசன்_ஃபுட்"
+    },
+    "tag:shop=games": {
+        "message": "குறிச்சொல்: கடை = விளையாட்டுகள்"
+    },
+    "tag:shop=garden_centre": {
+        "message": "குறிச்சொல்: கடை = தோட்ட நடுவண்"
+    },
+    "tag:shop=general": {
+        "message": "குறிச்சொல்: கடை = பொது"
+    },
+    "tag:shop=gift": {
+        "message": "குறிச்சொல்: கடை = பரிசு"
+    },
+    "tag:shop=greengrocer": {
+        "message": "குறிச்சொல்: கடை = கிரீன் க்ரோசர்"
+    },
+    "tag:shop=hairdresser": {
+        "message": "குறிச்சொல்: கடை = சிகையலங்கார வல்லுநர்"
+    },
+    "tag:shop=hardware": {
+        "message": "குறிச்சொல்: கடை = வன்பொருள்"
+    },
+    "tag:shop=health_food": {
+        "message": "குறிச்சொல்: கடை = உடல்நலம்_பூட்"
+    },
+    "tag:shop=hearing_aids": {
+        "message": "குறிச்சொல்: கடை = செவிப்புலன் எய்ட்ச்"
+    },
+    "tag:shop=houseware": {
+        "message": "குறிச்சொல்: கடை = அவுச்வேர்"
+    },
+    "tag:shop=ice_cream": {
+        "message": "குறிச்சொல்: கடை = ஐச்கிரீம்"
+    },
+    "tag:shop=laundry": {
+        "message": "குறிச்சொல்: கடை = சலவை"
+    },
+    "tag:shop=mall": {
+        "message": "குறிச்சொல்: கடை = மால்"
+    },
+    "tag:shop=medical_supply": {
+        "message": "குறிச்சொல்: கடை = மருத்துவம்_பீ"
+    },
+    "tag:shop=mobile_phone": {
+        "message": "குறிச்சொல்: கடை = மொபைல்_போன்"
+    },
+    "tag:shop=music": {
+        "message": "குறிச்சொல்: கடை = இசை"
+    },
+    "tag:shop=organic": {
+        "message": "குறிச்சொல்: கடை = ஆர்கானிக்"
+    },
+    "tag:shop=outdoor": {
+        "message": "குறிச்சொல்: கடை = வெளிப்புறம்"
+    },
+    "tag:shop=party": {
+        "message": "குறிச்சொல்: கடை = கட்சி"
+    },
+    "tag:shop=pasta": {
+        "message": "குறிச்சொல்: கடை = பாச்தா"
+    },
+    "tag:shop=pastry": {
+        "message": "குறிச்சொல்: கடை = பேச்ட்ரி"
+    },
+    "tag:shop=perfumery": {
+        "message": "குறிச்சொல்: கடை = வாசனை திரவியங்கள்"
+    },
+    "tag:shop=photo": {
+        "message": "குறிச்சொல்: கடை = புகைப்படம்"
+    },
+    "tag:shop=seafood": {
+        "message": "குறிச்சொல்: கடை = கடல் உணவு"
+    },
+    "tag:shop=sewing": {
+        "message": "குறிச்சொல்: கடை = தையல்"
+    },
+    "tag:shop=spices": {
+        "message": "குறிச்சொல்: கடை = மசாலா"
+    },
+    "tag:shop=storage_rental": {
+        "message": "குறிச்சொல்: கடை = சேமிப்பு_ரெண்டல்"
+    },
+    "tag:shop=tailor": {
+        "message": "குறிச்சொல்: கடை = தையல்காரர்"
+    },
+    "tag:shop=tatoo": {
+        "message": "குறிச்சொல்: கடை = பச்சை"
+    },
+    "tag:shop=tea": {
+        "message": "குறிச்சொல்: கடை = தேநீர்"
+    },
+    "tag:shop=ticket": {
+        "message": "குறிச்சொல்: கடை = டிக்கெட்"
+    },
+    "tag:shop=vacant": {
+        "message": "குறிச்சொல்: கடை = காலியாக உள்ளது"
+    },
+    "tag:shop=tyres": {
+        "message": "குறிச்சொல்: கடை = டயர்கள்"
+    },
+    "tag:shop=variety_store": {
+        "message": "குறிச்சொல்: கடை = வெரைட்டி கடை"
+    },
+    "tag:shop=video_games": {
+        "message": "குறிச்சொல்: கடை = வீடியோ_கேம்ச்"
+    },
+    "tag:shop=watches": {
+        "message": "குறிச்சொல்: கடை = கடிகாரங்கள்"
+    },
+    "tag:shop=weapons": {
+        "message": "குறிச்சொல்: கடை = ஆயுதங்கள்"
+    },
+    "tag:shop=wine": {
+        "message": "குறிச்சொல்: கடை = மது"
+    },
+    "tag:smoking": {
+        "message": "குறிச்சொல்: புகைபிடித்தல்"
+    },
+    "tag:smoking=isolated": {
+        "message": "குறிச்சொல்: புகைபிடித்தல் = தனிமைப்படுத்தப்பட்டுள்ளது"
+    },
+    "tag:smoking=outside": {
+        "message": "குறிச்சொல்: புகைபிடித்தல் = வெளியே"
+    },
+    "tag:sport=model_aerodrome": {
+        "message": "குறிச்சொல்: விளையாட்டு = மாதிரி ஏரோட்ரோம்"
+    },
+    "tag:sport=surfing": {
+        "message": "குறிச்சொல்: விளையாட்டு = சர்ஃபிங்"
+    },
+    "tag:theatre:genre=ballet": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = பாலே"
+    },
+    "tag:theatre:genre=boulevard": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = பவுல்வர்டு"
+    },
+    "tag:theatre:genre=cabaret": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = காபரே"
+    },
+    "tag:theatre:genre=circus": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = சர்க்கச்"
+    },
+    "tag:theatre:genre=comedy": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = நகைச்சுவை"
+    },
+    "tag:theatre:genre=drama": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = நாடகம்"
+    },
+    "tag:theatre:genre=figure": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = படம்"
+    },
+    "tag:theatre:genre=marionette": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = மரியோனெட்"
+    },
+    "tag:theatre:genre=musical": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = இசை"
+    },
+    "tag:tourism=alpine_hut": {
+        "message": "குறிச்சொல்: சுற்றுலா = ஆல்பைன்_அட்"
+    },
+    "tag:tourism=apartment": {
+        "message": "குறிச்சொல்: சுற்றுலா = அபார்ட்மென்ட்"
+    },
+    "tag:tourism=aquarium": {
+        "message": "குறிச்சொல்: சுற்றுலா = மீன்வளம்"
+    },
+    "tag:tourism=viewpoint": {
+        "message": "குறிச்சொல்: சுற்றுலா = பார்வை"
+    },
+    "tag:tourism=yes": {
+        "message": "குறிச்சொல்: சுற்றுலா = ஆம்"
+    },
+    "tag:tourism=zoo": {
+        "message": "குறிச்சொல்: சுற்றுலா = மிருகக்காட்சிசாலை"
+    },
+    "tag:water": {
+        "message": "குறிச்சொல்: தண்ணீர்"
+    },
+    "tag:water=stream_pool": {
+        "message": "குறிச்சொல்: நீர் = ச்ட்ரீம்_பூல்"
+    },
+    "tag:admin_level=7.5": {
+        "message": "குறிச்சொல்: admin_level = 7.5"
+    },
+    "tag:amenity=community_centre": {
+        "message": "குறிச்சொல்: வசதி = சமூக நடுவண்"
+    },
+    "tag:amenity=marketplace": {
+        "message": "குறிச்சொல்: வசதி = சந்தை"
+    },
+    "tag:amenity=public_bookcase": {
+        "message": "குறிச்சொல்: வசதி = பொது புத்தக அலமாரி"
+    },
+    "tag:amenity=public_building": {
+        "message": "குறிச்சொல்: வசதி = பொது_பில்டிங்"
+    },
+    "tag:amenity=shelter": {
+        "message": "குறிச்சொல்: வசதி = தங்குமிடம்"
+    },
+    "tag:amenity=signpost": {
+        "message": "குறிச்சொல்: வசதி = சைன் போச்ட்"
+    },
+    "tag:amenity=vending_machine vending=cigarettes": {
+        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = சிகரெட்டுகள்"
+    },
+    "tag:amenity=vending_machine vending=food": {
+        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = உணவு"
+    },
+    "tag:building=barn": {
+        "message": "குறிச்சொல்: கட்டிடம் = களஞ்சியம்"
+    },
+    "tag:building=block": {
+        "message": "குறிச்சொல்: கட்டிடம் = தொகுதி"
+    },
+    "tag:building=bridge": {
+        "message": "குறிச்சொல்: கட்டிடம் = பாலம்"
+    },
+    "tag:building=cabin": {
+        "message": "குறிச்சொல்: கட்டிடம் = கேபின்"
+    },
+    "tag:building=civic": {
+        "message": "குறிச்சொல்: கட்டிடம் = சிவிக்"
+    },
+    "tag:building=commercial": {
+        "message": "குறிச்சொல்: கட்டிடம் = வணிக"
+    },
+    "tag:building=garage": {
+        "message": "குறிச்சொல்: கட்டிடம் = கேரேச்"
+    },
+    "tag:building=office": {
+        "message": "குறிச்சொல்: கட்டிடம் = அலுவலகம்"
+    },
+    "tag:building=semidetached_house": {
+        "message": "குறிச்சொல்: கட்டிடம் = செமிடெட்டாச்_அவுச்"
+    },
+    "tag:building=service": {
+        "message": "குறிச்சொல்: கட்டிடம் = பணி"
+    },
+    "tag:building=shop": {
+        "message": "குறிச்சொல்: கட்டிடம் = கடை"
+    },
+    "tag:building=terrace": {
+        "message": "குறிச்சொல்: கட்டிடம் = மொட்டை மாடி"
+    },
+    "tag:building=toilets": {
+        "message": "குறிச்சொல்: கட்டிடம் = கழிப்பறைகள்"
+    },
+    "tag:building=train_station": {
+        "message": "குறிச்சொல்: கட்டிடம் = ரயில்_ச்டேசன்"
+    },
+    "tag:building=transportation": {
+        "message": "குறிச்சொல்: கட்டிடம் = போக்குவரத்து"
+    },
+    "tag:building=trullo": {
+        "message": "குறிச்சொல்: கட்டிடம் = ட்ரல்லோ"
+    },
+    "tag:capacity": {
+        "message": "குறிச்சொல்: திறன்"
+    },
+    "tag:clothes=accessories": {
+        "message": "குறிச்சொல்: உடைகள் = பாகங்கள்"
+    },
+    "tag:clothes=babies": {
+        "message": "குறிச்சொல்: உடைகள் = குழந்தைகள்"
+    },
+    "tag:clothes=brand": {
+        "message": "குறிச்சொல்: உடைகள் = சூட்டுக்குறி"
+    },
+    "tag:clothes=bridal": {
+        "message": "குறிச்சொல்: உடைகள் = பிரைடல்"
+    },
+    "tag:clothes=children": {
+        "message": "குறிச்சொல்: உடைகள் = குழந்தைகள்"
+    },
+    "tag:clothes=costumes": {
+        "message": "குறிச்சொல்: உடைகள் = உடைகள்"
+    },
+    "tag:clothes=fashion": {
+        "message": "குறிச்சொல்: உடைகள் = ஃபேசன்"
+    },
+    "tag:clothes=leather": {
+        "message": "குறிச்சொல்: உடைகள் = தோல்"
+    },
+    "tag:clothes=maternity": {
+        "message": "குறிச்சொல்: உடைகள் = மகப்பேறு"
+    },
+    "tag:clothes=sports": {
+        "message": "குறிச்சொல்: உடைகள் = விளையாட்டு"
+    },
+    "tag:clothes=vintage": {
+        "message": "குறிச்சொல்: உடைகள் = விண்டேச்"
+    },
+    "tag:clothes=wedding": {
+        "message": "குறிச்சொல்: உடைகள் = திருமண"
+    },
+    "tag:community_centre=language_centre": {
+        "message": "குறிச்சொல்: சமூகம்_சென்ட்ரே = மொழி_சென்ட்ரே"
+    },
+    "tag:craft=agricultural_engines": {
+        "message": "குறிச்சொல்: கைவினை = விவசாய இயந்திரங்கள்"
+    },
+    "tag:craft=artist": {
+        "message": "குறிச்சொல்: கைவினை = கலைஞர்"
+    },
+    "tag:craft=brewery": {
+        "message": "குறிச்சொல்: கைவினை = மதுபானம்"
+    },
+    "tag:craft=builder": {
+        "message": "குறிச்சொல்: கைவினை = பில்டர்"
+    },
+    "tag:craft=carpet_layer": {
+        "message": "குறிச்சொல்: கைவினை = கார்பெட்_லேயர்"
+    },
+    "tag:craft=caterer": {
+        "message": "குறிச்சொல்: கைவினை = உணவு வழங்குநர்"
+    },
+    "tag:craft=computer": {
+        "message": "குறிச்சொல்: கைவினை = கணினி"
+    },
+    "tag:craft=dental_technician": {
+        "message": "குறிச்சொல்: கைவினை = பல் தொழில்நுட்ப வல்லுநர்"
+    },
+    "tag:craft=dressmaker": {
+        "message": "குறிச்சொல்: கைவினை = ஆடை தயாரிப்பாளர்"
+    },
+    "tag:craft=electrician": {
+        "message": "குறிச்சொல்: கைவினை = எலக்ட்ரீசியன்"
+    },
+    "tag:craft=electronics_repair": {
+        "message": "குறிச்சொல்: கைவினை = மின்னணுவியல் பழுது"
+    },
+    "tag:craft=embroidery": {
+        "message": "குறிச்சொல்: கைவினை = எம்பிராய்டரி"
+    },
+    "tag:craft=engraver": {
+        "message": "குறிச்சொல்: கைவினை = செதுக்குபவர்"
+    },
+    "tag:craft=floorer": {
+        "message": "குறிச்சொல்: கைவினை = மாடி"
+    },
+    "tag:craft=glaziery": {
+        "message": "குறிச்சொல்: கைவினை = கிளாசியரி"
+    },
+    "tag:craft=graphic_design": {
+        "message": "குறிச்சொல்: கைவினை = கிராஃபிக்_ டைசின்"
+    },
+    "tag:craft=hvac": {
+        "message": "குறிச்சொல்: கைவினை = HVAC"
+    },
+    "tag:craft=luthier": {
+        "message": "குறிச்சொல்: கைவினை = லூதியர்"
+    },
+    "tag:craft=metal_works": {
+        "message": "குறிச்சொல்: கைவினை = மெட்டல்_ வொர்க்ச்"
+    },
+    "tag:craft=model_maker": {
+        "message": "குறிச்சொல்: கைவினை = மாடல்_மேக்கர்"
+    },
+    "tag:craft=organ_builder": {
+        "message": "குறிச்சொல்: கைவினை = உறுப்பு_பில்டர்"
+    },
+    "tag:craft=scaffolder": {
+        "message": "குறிச்சொல்: கைவினை = சாரக்கட்டு"
+    },
+    "tag:craft=signmaker": {
+        "message": "குறிச்சொல்: கைவினை = சிக்மேக்கர்"
+    },
+    "tag:craft=stonemason": {
+        "message": "குறிச்சொல்: கைவினை = ச்டோன்மேசன்"
+    },
+    "tag:craft=tiler": {
+        "message": "கூரை: கைவினை = டைலர்"
+    },
+    "tag:craft=welder": {
+        "message": "குறிச்சொல்: கைவினை = வெல்டர்"
+    },
+    "tag:cuisine=afghan": {
+        "message": "குறிச்சொல்: உணவு = ஆப்கானிச்தான்"
+    },
+    "tag:cuisine=argentinian": {
+        "message": "குறிச்சொல்: உணவு = அர்சென்டினா"
+    },
+    "tag:cuisine=cantonese": {
+        "message": "குறிச்சொல்: உணவு = கான்டோனீச்"
+    },
+    "tag:cuisine=chicken": {
+        "message": "குறிச்சொல்: உணவு = கோழி"
+    },
+    "tag:cuisine=coffee_shop": {
+        "message": "குறிச்சொல்: உணவு = காபி_சாப்"
+    },
+    "tag:cuisine=crepe": {
+        "message": "குறிச்சொல்: உணவு = க்ரீப்"
+    },
+    "tag:cuisine=czech": {
+        "message": "குறிச்சொல்: உணவு = செக்"
+    },
+    "tag:cuisine=french": {
+        "message": "குறிச்சொல்: உணவு = பிரஞ்சு"
+    },
+    "tag:cuisine=fried_food": {
+        "message": "குறிச்சொல்: உணவு = வறுத்த_பூட்"
+    },
+    "tag:cuisine=hungarian": {
+        "message": "குறிச்சொல்: உணவு = அங்கேரியன்"
+    },
+    "tag:cuisine=ice_cream": {
+        "message": "குறிச்சொல்: உணவு = ஐச்கிரீம்"
+    },
+    "tag:cuisine=indian": {
+        "message": "குறிச்சொல்: உணவு = இந்தியன்"
+    },
+    "tag:cuisine=international": {
+        "message": "குறிச்சொல்: உணவு = சர்வதேசம்"
+    },
+    "tag:cuisine=iranian": {
+        "message": "குறிச்சொல்: உணவு = ஈரானிய"
+    },
+    "tag:cuisine=jewish": {
+        "message": "குறிச்சொல்: உணவு = யூத"
+    },
+    "tag:cuisine=juice": {
+        "message": "குறிச்சொல்: உணவு = சாறு"
+    },
+    "tag:cuisine=korean": {
+        "message": "குறிச்சொல்: உணவு = கொரிய"
+    },
+    "tag:cuisine=kyo_ryouri": {
+        "message": "குறிச்சொல்: kuishine = kyo_ryori"
+    },
+    "tag:cuisine=langos": {
+        "message": "குறிச்சொல்: உணவு = லாங்கோச்"
+    },
+    "tag:cuisine=latin_american": {
+        "message": "குறிச்சொல்: உணவு = லத்தீன் அமெரிக்கா"
+    },
+    "tag:cuisine=lebanese": {
+        "message": "குறிச்சொல்: உணவு = லெபனான்"
+    },
+    "tag:cuisine=mineira": {
+        "message": "குறிச்சொல்: உணவு = சுரங்க"
+    },
+    "tag:cuisine=noodle": {
+        "message": "குறிச்சொல்: உணவு = நூடுல்"
+    },
+    "tag:cuisine=punch_cake": {
+        "message": "குறிச்சொல்: உணவு = பஞ்ச்_ கேக்"
+    },
+    "tag:cuisine=rhenish": {
+        "message": "குறிச்சொல்: உணவு = ரெனிச்"
+    },
+    "tag:cuisine=russian": {
+        "message": "குறிச்சொல்: உணவு = ரச்ய"
+    },
+    "tag:cuisine=turkish": {
+        "message": "குறிச்சொல்: உணவு = துருக்கிய"
+    },
+    "tag:cuisine=westphalian": {
+        "message": "குறிச்சொல்: உணவு = வெச்ட்பாலியன்"
+    },
+    "tag:denomination=baptist": {
+        "message": "குறிச்சொல்: பிரிவு = பாப்டிச்ட்"
+    },
+    "tag:denomination=catholic": {
+        "message": "குறிச்சொல்: பிரிவு = கத்தோலிக்க"
+    },
+    "tag:denomination=greek_orthodox": {
+        "message": "குறிச்சொல்: பிரிவு = கிரேக்க மரபுவழி"
+    },
+    "tag:denomination=orthodox": {
+        "message": "குறிச்சொல்: பிரிவு = மரபுவழி"
+    },
+    "tag:denomination=protestant": {
+        "message": "குறிச்சொல்: பிரிவு = புராட்டச்டன்ட்"
+    },
+    "tag:denomination=roman_catholic": {
+        "message": "குறிச்சொல்: பிரிவு = ரோமன் கத்தோலிக்க"
+    },
+    "tag:denotation=art": {
+        "message": "குறிச்சொல்: குறிப்பு = கலை"
+    },
+    "tag:electrified": {
+        "message": "குறிச்சொல்: மின்மயமாக்கப்பட்ட"
+    },
+    "tag:electrified=contact_line": {
+        "message": "குறிச்சொல்: மின்மயமாக்கப்பட்ட = CONCITION_LINE"
+    },
+    "tag:flood_date": {
+        "message": "குறிச்சொல்: FLOOD_DATE"
+    },
+    "tag:flood_mark=engraving": {
+        "message": "குறிச்சொல்: FLOOD_MARK = வேலைப்பாடு"
+    },
+    "tag:flood_mark=painting": {
+        "message": "குறிச்சொல்: FLOOD_MARK = ஓவியம்"
+    },
+    "tag:flood_mark=pole": {
+        "message": "குறிச்சொல்: FLOOD_MARK = துருவ"
+    },
+    "tag:generator:source=biogas": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = பயோகாச்"
+    },
+    "tag:generator:source=diesel": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = டீசல்"
+    },
+    "tag:generator:source=geothermal": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = புவிவெப்ப"
+    },
+    "tag:generator:source=hydro": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = ஐட்ரோ"
+    },
+    "tag:generator:source=nuclear": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = அணு"
+    },
+    "tag:generator:source=solar": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = சூரிய"
+    },
+    "tag:generator:source=waste": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = கழிவு"
+    },
+    "tag:generator:source=wave": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = அலை"
+    },
+    "tag:healthcare=dentist": {
+        "message": "குறிச்சொல்: எல்த்கேர் = பல் மருத்துவர்"
+    },
+    "tag:healthcare=dialysis": {
+        "message": "குறிச்சொல்: எல்த்கேர் = டயாலிசிச்"
+    },
+    "tag:healthcare=doctor": {
+        "message": "குறிச்சொல்: எல்த்கேர் = மருத்துவர்"
+    },
+    "tag:healthcare=nutrition_counseling": {
+        "message": "குறிச்சொல்: எல்த்கேர் = ஊட்டச்சத்து அறிவுரை"
+    },
+    "tag:healthcare=occupational_therapist": {
+        "message": "குறிச்சொல்: எல்த்கேர் = தொழில்_பிராபிச்ட்"
+    },
+    "tag:healthcare=pharmacy": {
+        "message": "குறிச்சொல்: எல்த்கேர் = மருந்தகம்"
+    },
+    "tag:healthcare=physiotherapist": {
+        "message": "குறிச்சொல்: எல்த்கேர் = பிசியோதெரபிச்ட்"
+    },
+    "tag:healthcare=podiatrist": {
+        "message": "குறிச்சொல்: எல்த்கேர் = குழந்தை மருத்துவர்"
+    },
+    "tag:healthcare=psychotherapist": {
+        "message": "குறிச்சொல்: எல்த்கேர் = உளவியலாளர்"
+    },
+    "tag:highway=mini_roundabout": {
+        "message": "தாச்: நெடுஞ்சாலை = மினி ரவுண்டானா"
+    },
+    "tag:highway=motorway_junction": {
+        "message": "குறிச்சொல்: நெடுஞ்சாலை = மின்னோடி பாதை_சங்க்சன்"
+    },
+    "tag:highway=roundabout": {
+        "message": "குறிச்சொல்: நெடுஞ்சாலை = ரவுண்டானா"
+    },
+    "tag:highway=services": {
+        "message": "குறிச்சொல்: நெடுஞ்சாலை = சேவைகள்"
+    },
+    "tag:historic:civilization=ancient_egyptian": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = பண்டைய எகிப்திய"
+    },
+    "tag:historic:civilization=ancient_greek": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = பண்டைய கிரேக்கம்"
+    },
+    "tag:historic:civilization=ancient_roman": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = பண்டைய ரோமன்"
+    },
+    "tag:historic:civilization=korean": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = கொரிய"
+    },
+    "tag:historic:civilization=medieval": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = இடைக்காலம்"
+    },
+    "tag:historic:civilization=nuragic": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = நூராசிக்"
+    },
+    "tag:historic:civilization=roman": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = ரோமன்"
+    },
+    "tag:historic=aircraft": {
+        "message": "குறிச்சொல்: வரலாற்று = வானூர்தி"
+    },
+    "tag:historic=aqueduct": {
+        "message": "குறிச்சொல்: வரலாற்று = நீர்வாழ்"
+    },
+    "tag:historic=boundary_stone": {
+        "message": "குறிச்சொல்: வரலாற்று = எல்லைக் கல்"
+    },
+    "tag:historic=exhibit": {
+        "message": "குறிச்சொல்: வரலாற்று = கண்காட்சி"
+    },
+    "tag:historic=farm": {
+        "message": "குறிச்சொல்: வரலாற்று = பண்ணை"
+    },
+    "tag:historic=flood_mark": {
+        "message": "குறிச்சொல்: வரலாற்று = வெள்ளம்_மார்க்"
+    },
+    "tag:historic=heritage": {
+        "message": "குறிச்சொல்: வரலாற்று = பாரம்பரியம்"
+    },
+    "tag:historic=pillory": {
+        "message": "குறிச்சொல்: வரலாற்று = தலையணை"
+    },
+    "tag:historic=technical_monument": {
+        "message": "குறிச்சொல்: வரலாற்று = தொழில்நுட்ப நினைவுச்சின்னம்"
+    },
+    "tag:historic=wreck": {
+        "message": "குறிச்சொல்: வரலாற்று = சிதைவு"
+    },
+    "tag:intermittent": {
+        "message": "குறிச்சொல்: இடைப்பட்ட"
+    },
+    "tag:landuse=allotments": {
+        "message": "குறிச்சொல்: லேண்டச் = ஒதுக்கீடுகள்"
+    },
+    "tag:landuse=cemetery": {
+        "message": "குறிச்சொல்: லேண்டச் = கல்லறை"
+    },
+    "tag:landuse=construction": {
+        "message": "குறிச்சொல்: லேண்டச் = கட்டுமானம்"
+    },
+    "tag:landuse=farmland": {
+        "message": "குறிச்சொல்: லேண்டச் = விவசாய நிலங்கள்"
+    },
+    "tag:landuse=forest": {
+        "message": "குறிச்சொல்: லேண்டச் = காடு"
+    },
+    "tag:landuse=garages": {
+        "message": "குறிச்சொல்: லேண்டச் = கேரேச்கள்"
+    },
+    "tag:landuse=reservoir": {
+        "message": "குறிச்சொல்: லேண்டச் = நீர்த்தேக்கம்"
+    },
+    "tag:landuse=salt_pond": {
+        "message": "குறிச்சொல்: லேண்டச் = சால்ட்_பொன்ட்"
+    },
+    "tag:landuse=vineyard": {
+        "message": "குறிச்சொல்: லேண்டச் = வின்ட்"
+    },
+    "tag:leisure=hackerspace": {
+        "message": "குறிச்சொல்: leisurs = hatcspace"
+    },
+    "tag:leisure=wildlife_hide": {
+        "message": "குறிச்சொல்: ஓய்வு = வனவிலங்கு_ஐட்"
+    },
+    "tag:amenity=car_sharing": {
+        "message": "குறிச்சொல்: வசதி = கார்_சேரிங்"
+    },
+    "tag:amenity=clinic": {
+        "message": "குறிச்சொல்: வசதி = கிளினிக்"
+    },
+    "tag:amenity=compressed_air": {
+        "message": "குறிச்சொல்: வசதி = சுருக்கப்பட்ட காற்று"
+    },
+    "tag:amenity=doctors": {
+        "message": "குறிச்சொல்: வசதி = மருத்துவர்கள்"
+    },
+    "tag:amenity=courthouse": {
+        "message": "குறிச்சொல்: வசதி = அறமன்றம்"
+    },
+    "tag:amenity=government": {
+        "message": "குறிச்சொல்: வசதி = அரசு"
+    },
+    "tag:amenity=grave_yard": {
+        "message": "குறிச்சொல்: வசதி = கல்லறை_யார்ட்"
+    },
+    "tag:amenity=internet_cafe": {
+        "message": "குறிச்சொல்: வசதி = இணையம்_காஃப்"
+    },
+    "tag:amenity=kindergarten": {
+        "message": "குறிச்சொல்: வசதி = மழலையர் பள்ளி"
+    },
+    "tag:amenity=language_school": {
+        "message": "குறிச்சொல்: வசதி = மொழி_ பள்ளி"
+    },
+    "tag:amenity=motorcycle_parking": {
+        "message": "குறிச்சொல்: வசதி = மின்னோடி சைக்கிள்_பார்கிங்"
+    },
+    "tag:amenity=social_facility": {
+        "message": "குறிச்சொல்: வசதி = சமூக_பீசிலிட்டி"
+    },
+    "tag:amenity=studio": {
+        "message": "குறிச்சொல்: வசதி = ச்டுடியோ"
+    },
+    "tag:amenity=taxi": {
+        "message": "குறிச்சொல்: வசதி = டாக்சி"
+    },
+    "tag:amenity=ticket_counter": {
+        "message": "குறிச்சொல்: வசதி = டிக்கெட்_கவுண்டர்"
+    },
+    "tag:amenity=vending_machine vending=condoms": {
+        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = ஆணுறைகள்"
+    },
+    "tag:amenity=vending_machine vending=excrement_bags": {
+        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = excrement_bags"
+    },
+    "tag:amenity=vending_machine vending=food;drinks": {
+        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = உணவு; பானங்கள்"
+    },
+    "tag:amenity=vending_machine vending=news_papers": {
+        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = செய்திகள்_பேப்பர்கள்"
+    },
+    "tag:amenity=vending_machine vending=parcel_mail_in": {
+        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = பார்சல்_மெயில்_இன்"
+    },
+    "tag:amenity=vending_machine vending=parcel_pickup": {
+        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = பார்சல்_பிகப்"
+    },
+    "tag:amenity=vending_machine vending=parcel_pickup;parcel_mail_in": {
+        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = பார்சல்_பிகப்; பார்சல்_மெயில்_இன்"
+    },
+    "tag:amenity=vending_machine vending=parking_tickets": {
+        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = பார்க்கிங்_டிக்கெட்டுகள்"
+    },
+    "tag:amenity=vending_machine vending=parking_tickets;public_transport_tickets": {
+        "message": "குறிச்சொல்: வசதி = wending_machine விற்பனை = பார்க்கிங்_டிக்கெட்டுகள்; public_transport_tickets"
+    },
+    "tag:amenity=vending_machine vending=public_transport_tickets": {
+        "message": "குறிச்சொல்: வசதி = wending_machine விற்பனை = public_transport_tickets"
+    },
+    "tag:amenity=vending_machine vending=stamps": {
+        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = முத்திரைகள்"
+    },
+    "tag:amenity=vending_machine vending=sweets;chewing_gum": {
+        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = இனிப்புகள்; செவிங்_சம்"
+    },
+    "tag:amenity=vending_machine vending=telephone_vouchers": {
+        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = தொலைபேசி_வலர்கள்"
+    },
+    "tag:amenity=veterinary": {
+        "message": "குறிச்சொல்: வசதி = கால்நடை"
+    },
+    "tag:bath:open_air": {
+        "message": "குறிச்சொல்: குளியல்: திறந்த_யர்"
+    },
+    "tag:bath:type": {
+        "message": "குறிச்சொல்: குளியல்: வகை"
+    },
+    "tag:amenity=waste_transfer_station": {
+        "message": "குறிச்சொல்: வசதி = கழிவு_ டிரான்ச்ஃபர்_ச்டேசன்"
+    },
+    "tag:bath:type=lake": {
+        "message": "குறிச்சொல்: குளியல்: வகை = ஏரி"
+    },
+    "tag:bath:type=onsen": {
+        "message": "குறிச்சொல்: குளியல்: வகை = ஒன்சென்"
+    },
+    "tag:bath:type=river": {
+        "message": "குறிச்சொல்: குளியல்: வகை = நதி"
+    },
+    "tag:bath:type=thermal": {
+        "message": "குறிச்சொல்: குளியல்: வகை = வெப்ப"
+    },
+    "tag:building=apartments": {
+        "message": "குறிச்சொல்: கட்டிடம் = குடியிருப்புகள்"
+    },
+    "tag:building=bakehouse": {
+        "message": "குறிச்சொல்: கட்டிடம் = பேக்அவுச்"
+    },
+    "tag:building=bungalow": {
+        "message": "குறிச்சொல்: கட்டிடம் = பங்களா"
+    },
+    "tag:building=carport": {
+        "message": "குறிச்சொல்: கட்டிடம் = கார்போர்ட்"
+    },
+    "tag:building=college": {
+        "message": "குறிச்சொல்: கட்டிடம் = கல்லூரி"
+    },
+    "tag:building=conservatory": {
+        "message": "குறிச்சொல்: கட்டிடம் = கன்சர்வேட்டரி"
+    },
+    "tag:building=construction": {
+        "message": "குறிச்சொல்: கட்டிடம் = கட்டுமானம்"
+    },
+    "tag:building=cowshed": {
+        "message": "குறிச்சொல்: கட்டிடம் = மோசெட்"
+    },
+    "tag:building=detached": {
+        "message": "குறிச்சொல்: கட்டிடம் = பிரிக்கப்பட்டுள்ளது"
+    },
+    "tag:building=dormitory": {
+        "message": "குறிச்சொல்: கட்டிடம் = தங்குமிடம்"
+    },
+    "tag:building=farm": {
+        "message": "குறிச்சொல்: கட்டிடம் = பண்ணை"
+    },
+    "tag:building=farm_auxiliary": {
+        "message": "குறிச்சொல்: கட்டிடம் = பண்ணை_அக்சிலியரி"
+    },
+    "tag:building=garages": {
+        "message": "குறிச்சொல்: கட்டிடம் = கேரேச்கள்"
+    },
+    "tag:building=garbage_shed": {
+        "message": "குறிச்சொல்: கட்டிடம் = குப்பை_செட்"
+    },
+    "tag:building=generic": {
+        "message": "குறிச்சொல்: கட்டிடம் = பொதுவானது"
+    },
+    "tag:building=flats": {
+        "message": "குறிச்சொல்: கட்டிடம் = பிளாட்"
+    },
+    "tag:building=ger": {
+        "message": "குறிச்சொல்: கட்டிடம் = செர்"
+    },
+    "tag:building=government": {
+        "message": "குறிச்சொல்: கட்டிடம் = அரசு"
+    },
+    "tag:building=greenhouse": {
+        "message": "குறிச்சொல்: கட்டிடம் = கிரீன்அவுச்"
+    },
+    "tag:building=house": {
+        "message": "குறிச்சொல்: கட்டிடம் = வீடு"
+    },
+    "tag:building=grandstand": {
+        "message": "குறிச்சொல்: கட்டிடம் = கிராண்ட்ச்டாண்ட்"
+    },
+    "tag:building=houseboat": {
+        "message": "குறிச்சொல்: கட்டிடம் = அவுச் போட்"
+    },
+    "tag:building=industrial": {
+        "message": "குறிச்சொல்: கட்டிடம் = தொழில்துறை"
+    },
+    "tag:building=kindergarten": {
+        "message": "குறிச்சொல்: கட்டிடம் = மழலையர் பள்ளி"
+    },
+    "tag:building=kitchen": {
+        "message": "குறிச்சொல்: கட்டிடம் = சமையலறை"
+    },
+    "tag:building=mall": {
+        "message": "குறிச்சொல்: கட்டிடம் = மால்"
+    },
+    "tag:building=monastery": {
+        "message": "குறிச்சொல்: கட்டிடம் = மடாலயம்"
+    },
+    "tag:building=parking": {
+        "message": "குறிச்சொல்: கட்டிடம் = பார்க்கிங்"
+    },
+    "tag:building=public": {
+        "message": "குறிச்சொல்: கட்டிடம் = பொது"
+    },
+    "tag:building=residential": {
+        "message": "குறிச்சொல்: கட்டிடம் = குடியிருப்பு"
+    },
+    "tag:building=retail": {
+        "message": "குறிச்சொல்: கட்டிடம் = சில்லறை"
+    },
+    "tag:building=ruins": {
+        "message": "குறிச்சொல்: கட்டிடம் = இடிபாடுகள்"
+    },
+    "tag:building=school": {
+        "message": "குறிச்சொல்: கட்டிடம் = பள்ளி"
+    },
+    "tag:building=silo": {
+        "message": "குறிச்சொல்: கட்டிடம் = சிலோ"
+    },
+    "tag:building=slurry_tank": {
+        "message": "குறிச்சொல்: கட்டிடம் = குழம்பு தொட்டி"
+    },
+    "tag:building=sports_hall": {
+        "message": "குறிச்சொல்: கட்டிடம் = விளையாட்டு_ஆல்"
+    },
+    "tag:building=stadium": {
+        "message": "குறிச்சொல்: கட்டிடம் = அரங்கம்"
+    },
+    "tag:building=static_caravan": {
+        "message": "குறிச்சொல்: கட்டிடம் = static_caravan"
+    },
+    "tag:building=storage_tank": {
+        "message": "குறிச்சொல்: கட்டிடம் = சேமிப்பக தொட்டி"
+    },
+    "tag:building=sty": {
+        "message": "குறிச்சொல்: கட்டிடம் = ச்டை"
+    },
+    "tag:building=supermarket": {
+        "message": "குறிச்சொல்: கட்டிடம் = சூப்பர் மார்க்கெட்"
+    },
+    "tag:building=transformer_tower": {
+        "message": "குறிச்சொல்: கட்டிடம் = மின்மாற்றி_டவர்"
+    },
+    "tag:building=university": {
+        "message": "குறிச்சொல்: கட்டிடம் = பல்கலைக்கழகம்"
+    },
+    "tag:building=warehouse": {
+        "message": "குறிச்சொல்: கட்டிடம் = கிடங்கு"
+    },
+    "tag:building=water_tower": {
+        "message": "குறிச்சொல்: கட்டிடம் = வாட்டர்_டவர்"
+    },
+    "tag:clothes=denim": {
+        "message": "குறிச்சொல்: உடைகள் = டெனிம்"
+    },
+    "tag:clothes=fur": {
+        "message": "குறிச்சொல்: உடைகள் = ஃபர்"
+    },
+    "tag:clothes=hats": {
+        "message": "குறிச்சொல்: உடைகள் = தொப்பிகள்"
+    },
+    "tag:clothes=lingerie": {
+        "message": "குறிச்சொல்: உடைகள் = உள்ளாடை"
+    },
+    "tag:clothes=men": {
+        "message": "குறிச்சொல்: உடைகள் = ஆண்கள்"
+    },
+    "tag:clothes=oversize": {
+        "message": "குறிச்சொல்: உடைகள் = பெரிதாக்கு"
+    },
+    "tag:clothes=schoolwear": {
+        "message": "குறிச்சொல்: உடைகள் = பள்ளி வாரங்கள்"
+    },
+    "tag:clothes=military": {
+        "message": "குறிச்சொல்: உடைகள் = தரைப்படை"
+    },
+    "tag:clothes=motorcycle": {
+        "message": "குறிச்சொல்: உடைகள் = மின்னோடி சைக்கிள்"
+    },
+    "tag:clothes=suits": {
+        "message": "குறிச்சொல்: உடைகள் = வழக்குகள்"
+    },
+    "tag:clothes=swimwear": {
+        "message": "குறிச்சொல்: உடைகள் = நீச்சலுடை"
+    },
+    "tag:clothes=traditional": {
+        "message": "குறிச்சொல்: உடைகள் = பாரம்பரியம்"
+    },
+    "tag:clothes=unisexs": {
+        "message": "குறிச்சொல்: உடைகள் = யுனிசெக்ச்"
+    },
+    "tag:clothes=women": {
+        "message": "குறிச்சொல்: உடைகள் = பெண்கள்"
+    },
+    "tag:clothes=workwear": {
+        "message": "குறிச்சொல்: உடைகள் = வேலை உடைகள்"
+    },
+    "tag:community_centre=club_home": {
+        "message": "குறிச்சொல்: சமூகம்_சென்ட்ரே = கிளப்_ஓம்"
+    },
+    "tag:clothes=underwear": {
+        "message": "குறிச்சொல்: உடைகள் = உள்ளாடை"
+    },
+    "tag:community_centre=community_hall": {
+        "message": "குறிச்சொல்: சமூகம்_சென்ட்ரே = சமூகம்_ஆல்"
+    },
+    "tag:community_centre=cultural_centre": {
+        "message": "குறிச்சொல்: சமூகம்_சென்ட்ரே = கலாச்சார_சென்ட்ரே"
+    },
+    "tag:community_centre=environment_centre": {
+        "message": "குறிச்சொல்: சமூகம்_சென்ட்ரே = சுற்றுச்சூழல்_சென்ட்ரே"
+    },
+    "tag:community_centre=events_venue": {
+        "message": "குறிச்சொல்: சமூகம்_சென்ட்ரே = நிகழ்வுகள்_வனூ"
+    },
+    "tag:community_centre=family_centre": {
+        "message": "குறிச்சொல்: சமூக நடுவண் = குடும்ப நடுவண்"
+    },
+    "tag:community_centre=meeting_room": {
+        "message": "குறிச்சொல்: சமூகம்_சென்ட்ரே = சந்திப்பு_ரூம்"
+    },
+    "tag:community_centre=parish_hall": {
+        "message": "குறிச்சொல்: சமூகம்_சென்ட்ரே = பாரிச்_ஆல்"
+    },
+    "tag:community_centre=village_hall": {
+        "message": "குறிச்சொல்: சமூக நடுவண் = கிராம மண்டபம்"
+    },
+    "tag:community_centre=youth_centre": {
+        "message": "குறிச்சொல்: சமூகம்_சென்ட்ரே = இளைஞர்_ சென்ட்ரே"
+    },
+    "tag:craft=bakery": {
+        "message": "குறிச்சொல்: கைவினை = பேக்கரி"
+    },
+    "tag:craft=basket_maker": {
+        "message": "குறிச்சொல்: கைவினை = கூடை_மேக்கர்"
+    },
+    "tag:craft=beekeeper": {
+        "message": "குறிச்சொல்: கைவினை = தேனீ வளர்ப்பவர்"
+    },
+    "tag:craft=blacksmith": {
+        "message": "குறிச்சொல்: கைவினை = கறுப்பான்"
+    },
+    "tag:craft=boatbuilder": {
+        "message": "குறிச்சொல்: கைவினை = படகு பில்டர்"
+    },
+    "tag:craft=bookbinder": {
+        "message": "குறிச்சொல்: கைவினை = புத்தக பைண்டர்"
+    },
+    "tag:craft=cabinet_maker": {
+        "message": "குறிச்சொல்: கைவினை = அமைச்சரவை_மேக்கர்"
+    },
+    "tag:craft=car_painter": {
+        "message": "குறிச்சொல்: கைவினை = கார்_பைன்டர்"
+    },
+    "tag:craft=car_repair": {
+        "message": "குறிச்சொல்: கைவினை = CAR_REPAIR"
+    },
+    "tag:craft=carpenter": {
+        "message": "குறிச்சொல்: கைவினை = தச்சு"
+    },
+    "tag:craft=ceramist": {
+        "message": "குறிச்சொல்: கைவினை = செரமிச்ட்"
+    },
+    "tag:craft=cleaning": {
+        "message": "குறிச்சொல்: கைவினை = தூய்மை"
+    },
+    "tag:craft=clockmaker": {
+        "message": "குறிச்சொல்: கைவினை = கடிகார தயாரிப்பாளர்"
+    },
+    "tag:craft=confectionery": {
+        "message": "குறிச்சொல்: கைவினை = மிட்டாய்"
+    },
+    "tag:craft=construction": {
+        "message": "குறிச்சொல்: கைவினை = கட்டுமானம்"
+    },
+    "tag:craft=chimney_sweeper": {
+        "message": "குறிச்சொல்: கைவினை = புகைபோக்கி துப்புரவாளர்"
+    },
+    "tag:craft=gardener": {
+        "message": "குறிச்சொல்: கைவினை = தோட்டக்காரர்"
+    },
+    "tag:craft=goldsmith": {
+        "message": "குறிச்சொல்: கைவினை = கோல்ட்ச்மித்"
+    },
+    "tag:craft=distillery": {
+        "message": "குறிச்சொல்: கைவினை = டிச்டில்லரி"
+    },
+    "tag:craft=furniture": {
+        "message": "குறிச்சொல்: கைவினை = தளபாடங்கள்"
+    },
+    "tag:craft=grinding_mill": {
+        "message": "குறிச்சொல்: கைவினை = அரைக்கும் ஆலை"
+    },
+    "tag:craft=insulation": {
+        "message": "குறிச்சொல்: கைவினை = காப்பு"
+    },
+    "tag:craft=iron_craftsman": {
+        "message": "குறிச்சொல்: கைவினை = இரும்பு_ கிராஃப்ட்ச்மேன்"
+    },
+    "tag:craft=handicraft": {
+        "message": "குறிச்சொல்: கைவினை = கைவினைப்பொருள்"
+    },
+    "tag:craft=heating_engineer": {
+        "message": "குறிச்சொல்: கைவினை = வெப்பம்_இங்கினியர்"
+    },
+    "tag:craft=jeweller": {
+        "message": "குறிச்சொல்: கைவினை = நகைக்கடைக்காரர்"
+    },
+    "tag:craft=joiner": {
+        "message": "குறிச்சொல்: கைவினை = இணைப்பான்"
+    },
+    "tag:craft=juice_bottler": {
+        "message": "குறிச்சொல்: கைவினை = சூச்_பட்லர்"
+    },
+    "tag:craft=key_cutter": {
+        "message": "குறிச்சொல்: கைவினை = விசை_கட்டர்"
+    },
+    "tag:craft=laboratory": {
+        "message": "குறிச்சொல்: கைவினை = ஆய்வகம்"
+    },
+    "tag:craft=leather": {
+        "message": "குறிச்சொல்: கைவினை = தோல்"
+    },
+    "tag:craft=locksmith": {
+        "message": "குறிச்சொல்: கைவினை = பூட்டு தொழிலாளி"
+    },
+    "tag:craft=metal_construction": {
+        "message": "குறிச்சொல்: கைவினை = மெட்டல்_சான்ச்ட்ரக்சன்"
+    },
+    "tag:craft=mint": {
+        "message": "குறிச்சொல்: கைவினை = புதினா"
+    },
+    "tag:craft=parquet_layer": {
+        "message": "குறிச்சொல்: கைவினை = பார்க்வெட்_லேயர்"
+    },
+    "tag:craft=photo_studio": {
+        "message": "குறிச்சொல்: கைவினை = புகைப்படம்_ச்டுடியோ"
+    },
+    "tag:craft=mobile_phone": {
+        "message": "குறிச்சொல்: கைவினை = மொபைல்_போன்"
+    },
+    "tag:craft=musical_instrument": {
+        "message": "குறிச்சொல்: கைவினை = இசைக்கருவி"
+    },
+    "tag:craft=print_shop": {
+        "message": "குறிச்சொல்: கைவினை = print_shop"
+    },
+    "tag:craft=printer": {
+        "message": "குறிச்சொல்: கைவினை = அச்சுப்பொறி"
+    },
+    "tag:craft=printmaker": {
+        "message": "குறிச்சொல்: கைவினை = அச்சு தயாரிப்பாளர்"
+    },
+    "tag:craft=pottery": {
+        "message": "குறிச்சொல்: கைவினை = மட்பாண்டங்கள்"
+    },
+    "tag:craft=repair": {
+        "message": "குறிச்சொல்: கைவினை = பழுது"
+    },
+    "tag:craft=rigger": {
+        "message": "குறிச்சொல்: கைவினை = ரிகர்"
+    },
+    "tag:craft=sawmill": {
+        "message": "குறிச்சொல்: கைவினை = மரத்தூள்"
+    },
+    "tag:craft=stand_builder": {
+        "message": "குறிச்சொல்: கைவினை = ச்டாண்ட்_பில்டர்"
+    },
+    "tag:craft=sun_protection": {
+        "message": "குறிச்சொல்: கைவினை = சன்_பிராடெக்சன்"
+    },
+    "tag:craft=toolmaker": {
+        "message": "குறிச்சொல்: கைவினை = கருவி தயாரிப்பாளர்"
+    },
+    "tag:craft=turner": {
+        "message": "குறிச்சொல்: கைவினை = டர்னர்"
+    },
+    "tag:craft=upholsterer": {
+        "message": "குறிச்சொல்: கைவினை = அப்ஓல்ச்டரர்"
+    },
+    "tag:craft=varnisher": {
+        "message": "குறிச்சொல்: கைவினை = வார்னிசர்"
+    },
+    "tag:craft=watchmaker": {
+        "message": "குறிச்சொல்: கைவினை = வாட்ச்மேக்கர்"
+    },
+    "tag:craft=window_construction": {
+        "message": "குறிச்சொல்: கைவினை = சாளர கட்டுமானம்"
+    },
+    "tag:craft=winery": {
+        "message": "குறிச்சொல்: கைவினை = ஒயின்"
+    },
+    "tag:cuisine=african": {
+        "message": "குறிச்சொல்: உணவு = ஆப்பிரிக்க"
+    },
+    "tag:cuisine=american": {
+        "message": "குறிச்சொல்: உணவு = அமெரிக்கன்"
+    },
+    "tag:cuisine=arab": {
+        "message": "குறிச்சொல்: உணவு = அரபு"
+    },
+    "tag:cuisine=asian": {
+        "message": "குறிச்சொல்: உணவு = ஆசிய"
+    },
+    "tag:cuisine=australian": {
+        "message": "குறிச்சொல்: உணவு = ஆச்திரேலிய"
+    },
+    "tag:cuisine=austrian": {
+        "message": "குறிச்சொல்: உணவு = ஆச்திரிய"
+    },
+    "tag:cuisine=bagel": {
+        "message": "குறிச்சொல்: உணவு = பேகல்"
+    },
+    "tag:cuisine=baiana": {
+        "message": "குறிச்சொல்: உணவு = பியானா"
+    },
+    "tag:cuisine=balkan": {
+        "message": "குறிச்சொல்: உணவு = பால்கன்"
+    },
+    "tag:cuisine=barbecue": {
+        "message": "குறிச்சொல்: உணவு = பார்பிக்யூ"
+    },
+    "tag:cuisine=bavarian": {
+        "message": "குறிச்சொல்: உணவு = பவேரியன்"
+    },
+    "tag:cuisine=belarusan": {
+        "message": "குறிச்சொல்: உணவு = பெலாருசன்"
+    },
+    "tag:cuisine=biscuit": {
+        "message": "குறிச்சொல்: உணவு = பிச்கட்"
+    },
+    "tag:cuisine=bolivian": {
+        "message": "குறிச்சொல்: உணவு = பொலிவியன்"
+    },
+    "tag:cuisine=bougatsa": {
+        "message": "குறிச்சொல்: உணவு = போகாட்சா"
+    },
+    "tag:cuisine=brazilian": {
+        "message": "குறிச்சொல்: உணவு = பிரேசிலியன்"
+    },
+    "tag:cuisine=basque": {
+        "message": "குறிச்சொல்: உணவு = பாச்க்"
+    },
+    "tag:cuisine=burger": {
+        "message": "குறிச்சொல்: உணவு = பர்கர்"
+    },
+    "tag:cuisine=cake": {
+        "message": "குறிச்சொல்: உணவு = கேக்"
+    },
+    "tag:cuisine=capixaba": {
+        "message": "குறிச்சொல்: உணவு = கபிக்சாபா"
+    },
+    "tag:cuisine=caribbean": {
+        "message": "குறிச்சொல்: உணவு = கரீபியன்"
+    },
+    "tag:cuisine=caribean": {
+        "message": "குறிச்சொல்: உணவு = கரீபியன்"
+    },
+    "tag:cuisine=casserole": {
+        "message": "குறிச்சொல்: உணவு = கேசரோல்"
+    },
+    "tag:cuisine=chimney_cake": {
+        "message": "குறிச்சொல்: உணவு = புகைபோக்கி_ கேக்"
+    },
+    "tag:cuisine=chinese": {
+        "message": "குறிச்சொல்: உணவு = சீன"
+    },
+    "tag:cuisine=coffee": {
+        "message": "குறிச்சொல்: உணவு = காபி"
+    },
+    "tag:cuisine=cookie": {
+        "message": "குறிச்சொல்: உணவு = குக்கீ"
+    },
+    "tag:cuisine=couscous": {
+        "message": "குறிச்சொல்: உணவு = கூச்கச்"
+    },
+    "tag:cuisine=croatian": {
+        "message": "குறிச்சொல்: உணவு = குரோசியன்"
+    },
+    "tag:cuisine=danish": {
+        "message": "குறிச்சொல்: உணவு = டேனிச்"
+    },
+    "tag:cuisine=dessert": {
+        "message": "குறிச்சொல்: உணவு = இனிப்பு"
+    },
+    "tag:cuisine=curry": {
+        "message": "குறிச்சொல்: உணவு = கறி"
+    },
+    "tag:cuisine=donut": {
+        "message": "குறிச்சொல்: உணவு = டோனட்"
+    },
+    "tag:cuisine=empanada": {
+        "message": "குறிச்சொல்: உணவு = எம்பனாடா"
+    },
+    "tag:cuisine=fish": {
+        "message": "குறிச்சொல்: உணவு = மீன்"
+    },
+    "tag:cuisine=friture": {
+        "message": "குறிச்சொல்: சமையலறை = வறுக்கப்படுகிறது"
+    },
+    "tag:cuisine=fish_and_chips": {
+        "message": "குறிச்சொல்: உணவு = மீன் மற்றும் சில்லுகள்"
+    },
+    "tag:cuisine=frozen_yogurt": {
+        "message": "குறிச்சொல்: உணவு = உறைந்த தயிர்"
+    },
+    "tag:cuisine=gaucho": {
+        "message": "குறிச்சொல்: உணவு = க uch சோ"
+    },
+    "tag:cuisine=german": {
+        "message": "குறிச்சொல்: உணவு = செர்மன்"
+    },
+    "tag:cuisine=gingerbread": {
+        "message": "குறிச்சொல்: உணவு = கிங்கர்பிரெட்"
+    },
+    "tag:cuisine=greek": {
+        "message": "குறிச்சொல்: உணவு = கிரேக்கம்"
+    },
+    "tag:cuisine=gyros": {
+        "message": "குறிச்சொல்: உணவு = கைரோச்"
+    },
+    "tag:cuisine=hawaiian": {
+        "message": "குறிச்சொல்: உணவு = அவாய்"
+    },
+    "tag:cuisine=hunan": {
+        "message": "குறிச்சொல்: உணவு = உனான்"
+    },
+    "tag:cuisine=italian": {
+        "message": "குறிச்சொல்: உணவு = இத்தாலியன்"
+    },
+    "tag:cuisine=japanese": {
+        "message": "குறிச்சொல்: உணவு = சப்பானிய"
+    },
+    "tag:cuisine=local": {
+        "message": "குறிச்சொல்: உணவு = உள்ளக"
+    },
+    "tag:cuisine=mediterranean": {
+        "message": "குறிச்சொல்: உணவு = நடு தரைக்கடல்"
+    },
+    "tag:cuisine=mexican": {
+        "message": "குறிச்சொல்: உணவு = மெக்சிகன்"
+    },
+    "tag:cuisine=malagasy": {
+        "message": "குறிச்சொல்: உணவு = மலகாசி"
+    },
+    "tag:cuisine=new_mexican": {
+        "message": "குறிச்சொல்: உணவு = புதிய_மெக்சிகன்"
+    },
+    "tag:cuisine=okinawa_ryori": {
+        "message": "குறிச்சொல்: kuishine = ஒகினாவா _ryori"
+    },
+    "tag:cuisine=pakistani": {
+        "message": "குறிச்சொல்: உணவு = பாகிச்தான்"
+    },
+    "tag:cuisine=pancake": {
+        "message": "குறிச்சொல்: உணவு = பான்கேக்"
+    },
+    "tag:cuisine=pasta": {
+        "message": "குறிச்சொல்: உணவு = பாச்தா"
+    },
+    "tag:cuisine=pastry": {
+        "message": "குறிச்சொல்: உணவு = பேச்ட்ரி"
+    },
+    "tag:cuisine=peruvian": {
+        "message": "குறிச்சொல்: உணவு = பெருவியன்"
+    },
+    "tag:cuisine=petit_four": {
+        "message": "குறிச்சொல்: சமையலறை = சிறிய_ஃபோர்"
+    },
+    "tag:cuisine=pie": {
+        "message": "குறிச்சொல்: உணவு = பை"
+    },
+    "tag:cuisine=pizza": {
+        "message": "குறிச்சொல்: உணவு = பீச்சா"
+    },
+    "tag:cuisine=pogacha": {
+        "message": "குறிச்சொல்: உணவு = போகாச்சா"
+    },
+    "tag:cuisine=polish": {
+        "message": "குறிச்சொல்: உணவு = பாலிச்"
+    },
+    "tag:cuisine=poppy_seed_roll": {
+        "message": "குறிச்சொல்: உணவு = பாப்பி விதை ரோல்"
+    },
+    "tag:cuisine=portuguese": {
+        "message": "குறிச்சொல்: உணவு = போர்த்துகீசியம்"
+    },
+    "tag:cuisine=profiterole": {
+        "message": "குறிச்சொல்: உணவு = லாபம்"
+    },
+    "tag:cuisine=salad": {
+        "message": "குறிச்சொல்: உணவு = சாலட்"
+    },
+    "tag:cuisine=sandwich": {
+        "message": "குறிச்சொல்: உணவு = சாண்ட்விச்"
+    },
+    "tag:cuisine=sausage": {
+        "message": "குறிச்சொல்: உணவு = தொத்திறைச்சி"
+    },
+    "tag:cuisine=seafood": {
+        "message": "குறிச்சொல்: உணவு = கடல் உணவு"
+    },
+    "tag:cuisine=shandong": {
+        "message": "குறிச்சொல்: உணவு = சாண்டோங்"
+    },
+    "tag:cuisine=sichuan": {
+        "message": "குறிச்சொல்: உணவு = சிச்சுவான்"
+    },
+    "tag:cuisine=soup": {
+        "message": "குறிச்சொல்: உணவு = சூப்"
+    },
+    "tag:cuisine=spanish": {
+        "message": "குறிச்சொல்: உணவு = ச்பானிச்"
+    },
+    "tag:cuisine=steak_house": {
+        "message": "குறிச்சொல்: உணவு = ச்டீக்_அவுச்"
+    },
+    "tag:cuisine=strudel": {
+        "message": "குறிச்சொல்: உணவு = ச்ட்ரூடெல்"
+    },
+    "tag:cuisine=sub": {
+        "message": "குறிச்சொல்: உணவு = துணை"
+    },
+    "tag:cuisine=sushi": {
+        "message": "குறிச்சொல்: உணவு = சுசி"
+    },
+    "tag:cuisine=tapas": {
+        "message": "குறிச்சொல்: உணவு = தபாச்"
+    },
+    "tag:cuisine=teahouse": {
+        "message": "குறிச்சொல்: உணவு = டீஅவுச்"
+    },
+    "tag:cuisine=tex-mex": {
+        "message": "குறிச்சொல்: உணவு = டெக்ச்-மெக்ச்"
+    },
+    "tag:cuisine=texan": {
+        "message": "குறிச்சொல்: உணவு = டெக்சன்"
+    },
+    "tag:cuisine=thai": {
+        "message": "குறிச்சொல்: உணவு = தாய்"
+    },
+    "tag:cuisine=vegan": {
+        "message": "குறிச்சொல்: உணவு = சைவ உணவு"
+    },
+    "tag:cuisine=vegetarian": {
+        "message": "குறிச்சொல்: உணவு = மரக்கறி"
+    },
+    "tag:cuisine=vietnamese": {
+        "message": "குறிச்சொல்: உணவு = வியட்நாமிய"
+    },
+    "tag:cuisine=wings": {
+        "message": "குறிச்சொல்: உணவு = இறக்கைகள்"
+    },
+    "tag:cuisine=waffle": {
+        "message": "குறிச்சொல்: உணவு = வாப்பிள்"
+    },
+    "tag:cycleway=traffic_island": {
+        "message": "குறிச்சொல்: சைக்கிள் பாதை = போக்குவரத்து தீவு"
+    },
+    "tag:denomination=anglican": {
+        "message": "குறிச்சொல்: பிரிவு = ஆங்கிலிகன்"
+    },
+    "tag:denomination=assemblies_of_god": {
+        "message": "குறிச்சொல்: பிரிவு = assemplies_of_god"
+    },
+    "tag:denomination=congregational": {
+        "message": "குறிச்சொல்: பிரிவு = அவை"
+    },
+    "tag:denomination=lutheran": {
+        "message": "குறிச்சொல்: பிரிவு = லூத்தரன்"
+    },
+    "tag:denomination=old-catholic": {
+        "message": "குறிச்சொல்: பிரிவு = பழைய கத்தோலிக்க"
+    },
+    "tag:denomination=russian_orthodox": {
+        "message": "குறிச்சொல்: பிரிவு = ரச்ய ஆர்த்தடாக்ச்"
+    },
+    "tag:denomination=united_reformed": {
+        "message": "குறிச்சொல்: பிரிவு = யுனைடெட்_ ரோமர்"
+    },
+    "tag:denotation": {
+        "message": "குறிச்சொல்: குறிப்பு"
+    },
+    "tag:denotation=agricultural": {
+        "message": "குறிச்சொல்: குறிப்பு = உழவு"
+    },
+    "tag:denotation=avenue": {
+        "message": "குறிச்சொல்: குறிப்பு = அவென்யூ"
+    },
+    "tag:denotation=decoration": {
+        "message": "குறிச்சொல்: குறிப்பு = ஒப்பனை"
+    },
+    "tag:denotation=garden": {
+        "message": "குறிச்சொல்: குறிப்பு = தோட்டம்"
+    },
+    "tag:denotation=landmark": {
+        "message": "குறிச்சொல்: குறிப்பு = மைல்கல்"
+    },
+    "tag:denotation=natural_monument": {
+        "message": "குறிச்சொல்: வரையறை = இயற்கை நினைவுச்சின்னம்"
+    },
+    "tag:denotation=park": {
+        "message": "குறிச்சொல்: குறிப்பு = பூங்கா"
+    },
+    "tag:denotation=single": {
+        "message": "குறிச்சொல்: குறிப்பு = ஒற்றை"
+    },
+    "tag:denotation=street": {
+        "message": "குறிச்சொல்: குறிப்பு = தெரு"
+    },
+    "tag:denotation=urban": {
+        "message": "குறிச்சொல்: குறிப்பு = நகர்ப்புற"
+    },
+    "tag:denotation=windbreak": {
+        "message": "குறிச்சொல்: குறிப்பு = விண்ட் பிரேக்"
+    },
+    "tag:electrified=rail": {
+        "message": "குறிச்சொல்: மின்மயமாக்கப்பட்ட = ரயில்"
+    },
+    "tag:flood_mark=plaque": {
+        "message": "குறிச்சொல்: FLOOD_MARK = பிளேக்"
+    },
+    "tag:gauge": {
+        "message": "குறிச்சொல்: பாதை"
+    },
+    "tag:generator:source": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல"
+    },
+    "tag:generator:source=biofuel": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = உயிரி எரிபொருள்"
+    },
+    "tag:generator:source=biomass": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = பயோமாச்"
+    },
+    "tag:generator:source=gas": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = காற்று"
+    },
+    "tag:generator:source=gasoline": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = பெட்ரோல்"
+    },
+    "tag:generator:source=oil": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = எண்ணெய்"
+    },
+    "tag:generator:source=tidal": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = அலை"
+    },
+    "tag:generator:source=wind": {
+        "message": "குறிச்சொல்: செனரேட்டர்: மூல = காற்று"
+    },
+    "tag:healthcare=alternative": {
+        "message": "குறிச்சொல்: எல்த்கேர் = மாற்று"
+    },
+    "tag:healthcare=audiologist": {
+        "message": "குறிச்சொல்: எல்த்கேர் = ஆடியோலசிச்ட்"
+    },
+    "tag:healthcare=birthing_centre": {
+        "message": "குறிச்சொல்: எல்த்கேர் = பிறப்பு_ சென்ட்ரே"
+    },
+    "tag:healthcare=blood_donation": {
+        "message": "குறிச்சொல்: எல்த்கேர் = இரத்த_ டோனேசன்"
+    },
+    "tag:healthcare=centre": {
+        "message": "குறிச்சொல்: எல்த்கேர் = நடுவண்"
+    },
+    "tag:healthcare=clinic": {
+        "message": "குறிச்சொல்: எல்த்கேர் = கிளினிக்"
+    },
+    "tag:healthcare=laboratory": {
+        "message": "குறிச்சொல்: எல்த்கேர் = ஆய்வகம்"
+    },
+    "tag:healthcare=blood_bank": {
+        "message": "குறிச்சொல்: எல்த்கேர் = இரத்தம்_பேங்க்"
+    },
+    "tag:healthcare=midwife": {
+        "message": "குறிச்சொல்: எல்த்கேர் = மருத்துவச்சி"
+    },
+    "tag:healthcare=optometrist": {
+        "message": "குறிச்சொல்: எல்த்கேர் = ஆப்டோமெட்ரிச்ட்"
+    },
+    "tag:healthcare=rehabilitation": {
+        "message": "குறிச்சொல்: எல்த்கேர் = மறுவாழ்வு"
+    },
+    "tag:heritage": {
+        "message": "குறிச்சொல்: பாரம்பரியம்"
+    },
+    "tag:heritage=1": {
+        "message": "குறிச்சொல்: எரிடேச் = 1"
+    },
+    "tag:healthcare=speech_therapist": {
+        "message": "குறிச்சொல்: எல்த்கேர் = பேச்சு சிகிச்சையாளர்"
+    },
+    "tag:heritage=2": {
+        "message": "குறிச்சொல்: பாரம்பரியம் = 2"
+    },
+    "tag:heritage=3": {
+        "message": "குறிச்சொல்: பாரம்பரியம் = 3"
+    },
+    "tag:heritage=4": {
+        "message": "குறிச்சொல்: பாரம்பரியம் = 4"
+    },
+    "tag:heritage=8": {
+        "message": "குறிச்சொல்: பாரம்பரியம் = 8"
+    },
+    "tag:highway=construction": {
+        "message": "குறிச்சொல்: நெடுஞ்சாலை = கட்டுமானம்"
+    },
+    "tag:highway=emergency_access_point": {
+        "message": "தாச்: நெடுஞ்சாலை = அவசர அணுகல் புள்ளி"
+    },
+    "tag:highway=passing_place": {
+        "message": "குறிச்சொல்: நெடுஞ்சாலை = பாசிங்_ப்ளேச்"
+    },
+    "tag:highway=platform": {
+        "message": "குறிச்சொல்: நெடுஞ்சாலை = தளம்"
+    },
+    "tag:highway=stop": {
+        "message": "குறிச்சொல்: நெடுஞ்சாலை = நிறுத்து"
+    },
+    "tag:highway=bus_stop": {
+        "message": "குறிச்சொல்: நெடுஞ்சாலை = பச்_ச்டாப்"
+    },
+    "tag:historic:civilization=byzantine": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = பைசண்டைன்"
+    },
+    "tag:historic:civilization=celtic": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = செல்டிக்"
+    },
+    "tag:historic:civilization=etruscan": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = எட்ருச்கன்"
+    },
+    "tag:historic:civilization=imperial_chinese": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = இம்பீரியல்_சினீச்"
+    },
+    "tag:historic:civilization=modern": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = நவீன"
+    },
+    "tag:historic:civilization=neolithic": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = கற்கால"
+    },
+    "tag:historic:civilization=ottoman": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = ஒட்டோமான்"
+    },
+    "tag:historic:civilization=prehistoric": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = வரலாற்றுக்கு முந்தைய"
+    },
+    "tag:historic:civilization=western_roman": {
+        "message": "குறிச்சொல்: வரலாற்று: நாகரிகம் = வெச்டர்ன்_ரோமன்"
+    },
+    "tag:historic=archaeological_site": {
+        "message": "குறிச்சொல்: வரலாற்று = தொல்பொருள் தளம்"
+    },
+    "tag:historic=bridge": {
+        "message": "குறிச்சொல்: வரலாற்று = பாலம்"
+    },
+    "tag:historic=building": {
+        "message": "குறிச்சொல்: வரலாற்று = கட்டிடம்"
+    },
+    "tag:historic=cannon": {
+        "message": "குறிச்சொல்: வரலாற்று = பீரங்கி"
+    },
+    "tag:historic=castle": {
+        "message": "குறிச்சொல்: வரலாற்று = கோட்டை"
+    },
+    "tag:historic=church": {
+        "message": "குறிச்சொல்: வரலாற்று = சர்ச்"
+    },
+    "tag:historic=city_gate": {
+        "message": "குறிச்சொல்: வரலாற்று = சிட்டி_கேட்"
+    },
+    "tag:historic=citywalls": {
+        "message": "குறிச்சொல்: வரலாற்று = நகரங்கள்"
+    },
+    "tag:historic=fort": {
+        "message": "குறிச்சொல்: வரலாற்று = கோட்டை"
+    },
+    "tag:historic=industrial": {
+        "message": "குறிச்சொல்: வரலாற்று = தொழில்துறை"
+    },
+    "tag:historic=kiln": {
+        "message": "குறிச்சொல்: வரலாற்று = சூளை"
+    },
+    "tag:historic=locomotive": {
+        "message": "குறிச்சொல்: வரலாற்று = லோகோமோட்டிவ்"
+    },
+    "tag:historic=manor": {
+        "message": "குறிச்சொல்: வரலாற்று = மேனர்"
+    },
+    "tag:historic=milestone": {
+        "message": "குறிச்சொல்: வரலாற்று = மைல்கல்"
+    },
+    "tag:historic=mine": {
+        "message": "குறிச்சொல்: வரலாற்று = என்னுடையது"
+    },
+    "tag:historic=monastery": {
+        "message": "குறிச்சொல்: வரலாற்று = மடாலயம்"
+    },
+    "tag:historic=railway_car": {
+        "message": "குறிச்சொல்: வரலாற்று = ரயில்வே_கார்"
+    },
+    "tag:historic=ruins": {
+        "message": "குறிச்சொல்: வரலாற்று = இடிபாடுகள்"
+    },
+    "tag:historic=ship": {
+        "message": "குறிச்சொல்: வரலாற்று = கப்பல்"
+    },
+    "tag:historic=stone": {
+        "message": "குறிச்சொல்: வரலாற்று = கல்"
+    },
+    "tag:historic=tomb": {
+        "message": "குறிச்சொல்: வரலாற்று = கல்லறை"
+    },
+    "tag:historic=tower": {
+        "message": "குறிச்சொல்: வரலாற்று = கோபுரம்"
+    },
+    "tag:historic=unesco_world_heritage;historic=UNESCO_world_heritage": {
+        "message": "குறிச்சொல்: வரலாற்று = unesco_world_heritage; வரலாற்று = unesco_world_heritage"
+    },
+    "tag:historic=wayside_chapel": {
+        "message": "குறிச்சொல்: வரலாற்று = வேசைட் சேப்பல்"
+    },
+    "tag:historic=wayside_cross": {
+        "message": "குறிச்சொல்: வரலாற்று = வேசிட்_ கிராச்"
+    },
+    "tag:historic=wayside_shrine": {
+        "message": "குறிச்சொல்: வரலாற்று = வேசைட் சன்னதி"
+    },
+    "tag:historic=yes": {
+        "message": "குறிச்சொல்: வரலாற்று = ஆம்"
+    },
+    "tag:landuse=basin": {
+        "message": "குறிச்சொல்: லேண்டச் = பேசின்"
+    },
+    "tag:landuse=farmyard": {
+        "message": "குறிச்சொல்: லேண்டச் = பண்ணை"
+    },
+    "tag:landuse=grass": {
+        "message": "குறிச்சொல்: லேண்டச் = புல்"
+    },
+    "tag:landuse=industrial": {
+        "message": "குறிச்சொல்: லேண்டச் = தொழில்துறை"
+    },
+    "tag:landuse=meadow": {
+        "message": "குறிச்சொல்: லேண்டச் = புல்வெளி"
+    },
+    "tag:landuse=greenhouse_horticulture": {
+        "message": "குறிச்சொல்: லேண்டச் = கிரீன்அவுச்_ஆர்டிகல்ச்சர்"
+    },
+    "tag:landuse=military": {
+        "message": "குறிச்சொல்: லேண்டச் = தரைப்படை"
+    },
+    "tag:landuse=orchard": {
+        "message": "குறிச்சொல்: லேண்டச் = பழத்தோட்டம்"
+    },
+    "tag:landuse=quarry": {
+        "message": "குறிச்சொல்: லேண்டச் = குவாரி"
+    },
+    "tag:landuse=railway": {
+        "message": "குறிச்சொல்: லேண்டச் = ரயில்வே"
+    },
+    "tag:landuse=residential": {
+        "message": "குறிச்சொல்: லேண்டச் = குடியிருப்பு"
+    },
+    "tag:man_made=pipeline": {
+        "message": "குறிச்சொல்: man_made = குழாய்"
+    },
+    "tag:material=adobe": {
+        "message": "குறிச்சொல்: பொருள் = அடோப்"
+    },
+    "tag:material=andesite": {
+        "message": "குறிச்சொல்: பொருள் = ஆண்டிசைட்"
+    },
+    "tag:material=bamboo": {
+        "message": "குறிச்சொல்: பொருள் = மூங்கில்"
+    },
+    "tag:material=bronze": {
+        "message": "குறிச்சொல்: பொருள் = வெண்கலம்"
+    },
+    "tag:material=gold": {
+        "message": "குறிச்சொல்: பொருள் = தங்கம்"
+    },
+    "tag:material=granite": {
+        "message": "குறிச்சொல்: பொருள் = கிரானைட்"
+    },
+    "tag:material=limestone": {
+        "message": "குறிச்சொல்: பொருள் = சுண்ணாம்பு"
+    },
+    "tag:material=masonry": {
+        "message": "குறிச்சொல்: பொருள் = கொத்து"
+    },
+    "tag:material=mixed": {
+        "message": "குறிச்சொல்: பொருள் = கலப்பு"
+    },
+    "tag:material=plastic": {
+        "message": "குறிச்சொல்: பொருள் = பிளாச்டிக்"
+    },
+    "tag:material=rammed_earth": {
+        "message": "குறிச்சொல்: பொருள் = அழிந்த பூமி"
+    },
+    "tag:material=marble": {
+        "message": "குறிச்சொல்: பொருள் = பளிங்கு"
+    },
+    "tag:material=reinforced_concrete": {
+        "message": "குறிச்சொல்: பொருள் = வலுவூட்டப்பட்ட கான்கிரீட்"
+    },
+    "tag:material=sandstone": {
+        "message": "குறிச்சொல்: பொருள் = மணற்கல்"
+    },
+    "tag:material=silicate_brick": {
+        "message": "குறிச்சொல்: பொருள் = சிலிக்கேட்_பிரிக்"
+    },
+    "tag:material=steel": {
+        "message": "குறிச்சொல்: பொருள் = எஃகு"
+    },
+    "tag:material=stone": {
+        "message": "குறிச்சொல்: பொருள் = கல்"
+    },
+    "tag:memorial=blue_plaque": {
+        "message": "குறிச்சொல்: நினைவு = ப்ளூ_பிளாக்"
+    },
+    "tag:memorial=cross": {
+        "message": "குறிச்சொல்: நினைவு = குறுக்கு"
+    },
+    "tag:memorial=ghost_bike": {
+        "message": "குறிச்சொல்: நினைவு = கோச்ட்_பைக்"
+    },
+    "tag:memorial=grave": {
+        "message": "குறிச்சொல்: நினைவு = கல்லறை"
+    },
+    "tag:memorial=graveyard": {
+        "message": "குறிச்சொல்: நினைவு = கல்லறை"
+    },
+    "tag:memorial=high_water_mark": {
+        "message": "குறிச்சொல்: நினைவு = High_water_mark"
+    },
+    "tag:memorial=sculpture": {
+        "message": "குறிச்சொல்: நினைவு = சிற்பம்"
+    },
+    "tag:memorial=tank": {
+        "message": "குறிச்சொல்: நினைவு = தொட்டி"
+    },
+    "tag:memorial=vehicle": {
+        "message": "குறிச்சொல்: நினைவு = வண்டி"
+    },
+    "tag:military=airfield": {
+        "message": "குறிச்சொல்: தரைப்படை = விமானநிலையம்"
+    },
+    "tag:military=ammunition": {
+        "message": "குறிச்சொல்: தரைப்படை = வெடிமருந்து"
+    },
+    "tag:military=bunker": {
+        "message": "குறிச்சொல்: தரைப்படை = பதுங்கு குழி"
+    },
+    "tag:military=checkpoint": {
+        "message": "குறிச்சொல்: தரைப்படை = சோதனைச் சாவடி"
+    },
+    "tag:military=danger_area": {
+        "message": "குறிச்சொல்: தரைப்படை = ஆபத்து_அரியா"
+    },
+    "tag:military=naval_base": {
+        "message": "குறிச்சொல்: தரைப்படை = கடற்படை_பேச்"
+    },
+    "tag:military=obstacle_course": {
+        "message": "குறிச்சொல்: தரைப்படை = தடையாக பாடநெறி"
+    },
+    "tag:military=office": {
+        "message": "குறிச்சொல்: தரைப்படை = அலுவலகம்"
+    },
+    "tag:military=range": {
+        "message": "குறிச்சொல்: தரைப்படை = வரம்பு"
+    },
+    "tag:military=training_area": {
+        "message": "குறிச்சொல்: தரைப்படை = பயிற்சி பகுதி"
+    },
+    "tag:military=trench": {
+        "message": "குறிச்சொல்: தரைப்படை = அகழி"
+    },
+    "tag:military=yes": {
+        "message": "குறிச்சொல்: தரைப்படை = ஆம்"
+    },
+    "tag:museum=archaeology": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = தொல்பொருள்"
+    },
+    "tag:museum=language": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = மொழி"
+    },
+    "tag:museum=living_history": {
+        "message": "தாச்: அருங்காட்சியகம் = வாழ்க்கை வரலாறு"
+    },
+    "tag:museum=local": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = உள்ளக"
+    },
+    "tag:museum=maritime": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = கடல்"
+    },
+    "tag:museum=military": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = தரைப்படை"
+    },
+    "tag:museum=nature": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = இயற்கை"
+    },
+    "tag:museum=open_air": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = திறந்த_இர்"
+    },
+    "tag:museum=person": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = நபர்"
+    },
+    "tag:museum=railway": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = ரயில்வே"
+    },
+    "tag:museum=science": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = அறிவியல்"
+    },
+    "tag:museum=technology": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = தொழில்நுட்பம்"
+    },
+    "tag:museum=transport": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம் = போக்குவரத்து"
+    },
+    "tag:museum=war": {
+        "message": "நாள்: அருங்காட்சியகம் = இருந்தது"
+    },
+    "tag:museum_type=departmental": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம்_ வகை = துறை"
+    },
+    "tag:museum_type=institutional": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம்_ வகை = நிறுவன"
+    },
+    "tag:museum_type=national": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம்_ வகை = தேசிய"
+    },
+    "tag:museum_type=private": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம்_ வகை = தனியார்"
+    },
+    "tag:museum_type=public": {
+        "message": "குறிச்சொல்: அருங்காட்சியகம்_ வகை = பொது"
+    },
+    "tag:office=company": {
+        "message": "குறிச்சொல்: அலுவலகம் = நிறுவனம்"
+    },
+    "tag:office=cooperative": {
+        "message": "குறிச்சொல்: அலுவலகம் = கூட்டுறவு"
+    },
+    "tag:office=adoption_agency": {
+        "message": "குறிச்சொல்: அலுவலகம் = தத்தெடுப்பு_சென்சி"
+    },
+    "tag:office=coworking": {
+        "message": "குறிச்சொல்: அலுவலகம் = தம பணியாளர்"
+    },
+    "tag:office=educational_institution": {
+        "message": "குறிச்சொல்: அலுவலகம் = கல்வி_இன்ச்டிடியூசன்"
+    },
+    "tag:office=employment_agency": {
+        "message": "குறிச்சொல்: அலுவலகம் = வேலைவாய்ப்பு நிறுவனம்"
+    },
+    "tag:office=estate_agent": {
+        "message": "குறிச்சொல்: அலுவலகம் = எச்டேட்_சென்ட்"
+    },
+    "tag:office=financial": {
+        "message": "குறிச்சொல்: அலுவலகம் = பொருள்"
+    },
+    "tag:office=diplomatic": {
+        "message": "குறிச்சொல்: அலுவலகம் = இராசதந்திர"
+    },
+    "tag:office=forestry": {
+        "message": "குறிச்சொல்: அலுவலகம் = வனவியல்"
+    },
+    "tag:office=foundation": {
+        "message": "குறிச்சொல்: அலுவலகம் = அடித்தளம்"
+    },
+    "tag:office=geodesist": {
+        "message": "குறிச்சொல்: அலுவலகம் = புவிசார்"
+    },
+    "tag:office=government": {
+        "message": "குறிச்சொல்: அலுவலகம் = அரசு"
+    },
+    "tag:office=guide": {
+        "message": "குறிச்சொல்: அலுவலகம் = வழிகாட்டி"
+    },
+    "tag:office=insurance": {
+        "message": "குறிச்சொல்: அலுவலகம் = காப்பீடு"
+    },
+    "tag:office=it": {
+        "message": "குறிச்சொல்: அலுவலகம் = அது"
+    },
+    "tag:office=lawyer": {
+        "message": "குறிச்சொல்: அலுவலகம் = வழக்கறிஞர்"
+    },
+    "tag:office=logistics": {
+        "message": "குறிச்சொல்: அலுவலகம் = தளவாடங்கள்"
+    },
+    "tag:office=moving_company": {
+        "message": "குறிச்சொல்: அலுவலகம் = movy_company"
+    },
+    "tag:office=newspaper": {
+        "message": "குறிச்சொல்: அலுவலகம் = செய்தித்தாள்"
+    },
+    "tag:office=ngo": {
+        "message": "குறிச்சொல்: அலுவலகம் = தன்னார்வ தொண்டு நிறுவனம்"
+    },
+    "tag:office=parish": {
+        "message": "குறிச்சொல்: அலுவலகம் = பாரிச்"
+    },
+    "tag:office=property_management": {
+        "message": "குறிச்சொல்: அலுவலகம் = சொத்து மேலாண்மை"
+    },
+    "tag:office=quango": {
+        "message": "குறிச்சொல்: அலுவலகம் = குவாங்கோ"
+    },
+    "tag:office=religion": {
+        "message": "குறிச்சொல்: அலுவலகம் = மதம்"
+    },
+    "tag:office=research": {
+        "message": "குறிச்சொல்: அலுவலகம் = ஆராய்ச்சி"
+    },
+    "tag:office=tax_advisor": {
+        "message": "குறிச்சொல்: அலுவலகம் = வரி_அட்வைசர்"
+    },
+    "tag:office=publisher": {
+        "message": "குறிச்சொல்: அலுவலகம் = வெளியீட்டாளர்"
+    },
+    "tag:office=telecommunication": {
+        "message": "குறிச்சொல்: அலுவலகம் = தொலைத்தொடர்பு"
+    },
+    "tag:office=therapist": {
+        "message": "குறிச்சொல்: அலுவலகம் = சிகிச்சையாளர்"
+    },
+    "tag:office=tourism": {
+        "message": "குறிச்சொல்: அலுவலகம் = சுற்றுலா"
+    },
+    "tag:office=tourist_accommodation": {
+        "message": "குறிச்சொல்: அலுவலகம் = சுற்றுலா விடுதி"
+    },
+    "tag:office=travel_agent": {
+        "message": "குறிச்சொல்: அலுவலகம் = பயண முகவர்"
+    },
+    "tag:office=vacant": {
+        "message": "குறிச்சொல்: அலுவலகம் = காலியாக உள்ளது"
+    },
+    "tag:office=visa": {
+        "message": "குறிச்சொல்: அலுவலகம் = விசா"
+    },
+    "tag:office=water_utility": {
+        "message": "குறிச்சொல்: அலுவலகம் = நீர்_ பயன்பாடு"
+    },
+    "tag:payment:account_cards": {
+        "message": "குறிச்சொல்: கட்டணம்: கணக்கு_ கார்டுகள்"
+    },
+    "tag:payment:american_express": {
+        "message": "குறிச்சொல்: கட்டணம்: அமெரிக்கன்_எக்ச்பிரச்"
+    },
+    "tag:payment:bitcoin": {
+        "message": "குறிச்சொல்: கட்டணம்: பிட்காயின்"
+    },
+    "tag:payment:cash": {
+        "message": "குறிச்சொல்: கட்டணம்: பணம்"
+    },
+    "tag:payment:cryptocurrencies": {
+        "message": "குறிச்சொல்: கட்டணம்: கிரிப்டோகரன்ச்கள்"
+    },
+    "tag:payment:discover_card": {
+        "message": "குறிச்சொல்: கட்டணம்: டிச்கவர்_ கார்ட்"
+    },
+    "tag:payment:debit_cards": {
+        "message": "குறிச்சொல்: கட்டணம்: டெபிட்_ கார்டுகள்"
+    },
+    "tag:payment:diners_club": {
+        "message": "குறிச்சொல்: கட்டணம்: டைர்ச்_க்ளப்"
+    },
+    "tag:payment:electronic_purses": {
+        "message": "குறிச்சொல்: கட்டணம்: எலக்ட்ரானிக்_பர்ச்"
+    },
+    "tag:payment:ep_geldkarte": {
+        "message": "குறிச்சொல்: கட்டணம்: EP_GELDKARTE"
+    },
+    "tag:payment:maestro": {
+        "message": "குறிச்சொல்: கட்டணம்: மேச்ட்ரோ"
+    },
+    "tag:payment:mastercard": {
+        "message": "குறிச்சொல்: கட்டணம்: மாச்டர்கார்டு"
+    },
+    "tag:payment:none": {
+        "message": "குறிச்சொல்: கட்டணம்: எதுவுமில்லை"
+    },
+    "tag:payment:telephone_cards": {
+        "message": "குறிச்சொல்: கட்டணம்: தொலைபேசி_ கார்டுகள்"
+    },
+    "tag:payment:visa": {
+        "message": "குறிச்சொல்: கட்டணம்: விசா"
+    },
+    "tag:payment:visa_debit": {
+        "message": "குறிச்சொல்: கட்டணம்: விசா_டிபிட்"
+    },
+    "tag:payment:visa_electron": {
+        "message": "குறிச்சொல்: கட்டணம்: விசா_ எலக்ட்ரான்"
+    },
+    "tag:power=minor_line": {
+        "message": "குறிச்சொல்: ஆற்றல் = மைனர்_ லைன்"
+    },
+    "tag:railway=buffer_stop": {
+        "message": "குறிச்சொல்: ரயில்வே = இடையக_ச்டாப்"
+    },
+    "tag:railway=crossing": {
+        "message": "குறிச்சொல்: ரயில்வே = கடத்தல்"
+    },
+    "tag:railway=disused": {
+        "message": "குறிச்சொல்: ரயில்வே = பயன்படுத்தப்படாதது"
+    },
+    "tag:railway=funicular": {
+        "message": "குறிச்சொல்: ரயில்வே = வேடிக்கையானது"
+    },
+    "tag:railway=light_rail": {
+        "message": "குறிச்சொல்: ரயில்வே = லைட்_ரெயில்"
+    },
+    "tag:railway=monorail": {
+        "message": "குறிச்சொல்: ரயில்வே = மோனோரெயில்"
+    },
+    "tag:railway=narrow_gauge": {
+        "message": "குறிச்சொல்: ரயில்வே = குறுகிய பாதை"
+    },
+    "tag:railway=miniature": {
+        "message": "குறிச்சொல்: ரயில்வே = மினியேச்சர்"
+    },
+    "tag:railway=platform": {
+        "message": "குறிச்சொல்: ரயில்வே = தளம்"
+    },
+    "tag:railway=preserved": {
+        "message": "குறிச்சொல்: ரயில்வே = பாதுகாக்கப்பட்டது"
+    },
+    "tag:railway=proposed": {
+        "message": "குறிச்சொல்: ரயில்வே = முன்மொழியப்பட்டது"
+    },
+    "tag:railway=rail service=crossover": {
+        "message": "குறிச்சொல்: ரயில்வே = ரயில் பணி = குறுக்குவழி"
+    },
+    "tag:railway=rail usage=branch": {
+        "message": "குறிச்சொல்: ரயில்வே = ரயில் பயன்பாடு = கிளை"
+    },
+    "tag:railway=rail usage=main": {
+        "message": "குறிச்சொல்: ரயில்வே = ரயில் பயன்பாடு = முதன்மை"
+    },
+    "tag:railway=rail usage=industrial": {
+        "message": "குறிச்சொல்: ரயில்வே = ரயில் பயன்பாடு = தொழில்துறை"
+    },
+    "tag:railway=rail usage=military": {
+        "message": "குறிச்சொல்: ரயில்வே = ரயில் பயன்பாடு = தரைப்படை"
+    },
+    "tag:railway=razed": {
+        "message": "குறிச்சொல்: ரயில்வே = அழிக்கப்பட்டது"
+    },
+    "tag:railway=station": {
+        "message": "குறிச்சொல்: ரயில்வே = நிலையம்"
+    },
+    "tag:railway=subway": {
+        "message": "குறிச்சொல்: ரயில்வே = சுரங்கப்பாதை"
+    },
+    "tag:railway=rail usage=tourism": {
+        "message": "குறிச்சொல்: ரயில்வே = ரயில் பயன்பாடு = சுற்றுலா"
+    },
+    "tag:railway=subway_entrance": {
+        "message": "குறிச்சொல்: ரயில்வே = சுரங்கப்பாதை_இஎன்டன்ச்"
+    },
+    "tag:railway=switch": {
+        "message": "குறிச்சொல்: ரயில்வே = சுவிட்ச்"
+    },
+    "tag:railway=tram;narrow_gauge": {
+        "message": "குறிச்சொல்: ரயில்வே = ரயில்; குறுகிய பாதை"
+    },
+    "tag:railway=yard": {
+        "message": "குறிச்சொல்: ரயில்வே = முற்றத்தில்"
+    },
+    "tag:religion=jain": {
+        "message": "குறிச்சொல்: மதம் = செயின்"
+    },
+    "tag:religion=pagan": {
+        "message": "குறிச்சொல்: மதம் = பேகன்"
+    },
+    "tag:religion=pentecostal": {
+        "message": "குறிச்சொல்: மதம் = பெந்தேகோச்தே"
+    },
+    "tag:religion=scientologist": {
+        "message": "குறிச்சொல்: மதம் = அறிவியல் வல்லுநர்"
+    },
+    "tag:religion=shinto": {
+        "message": "குறிச்சொல்: மதம் = சின்டோ"
+    },
+    "tag:religion=unitarian_universialist": {
+        "message": "குறிச்சொல்: மதம் = யூனிடேரியன் யுனிவர்சலிச்ட்"
+    },
+    "tag:religion=vientamese_folk": {
+        "message": "குறிச்சொல்: மதம் = வியட்நாமிய நாட்டுப்புற"
+    },
+    "tag:religion=sikh": {
+        "message": "குறிச்சொல்: மதம் = சீக்கிய"
+    },
+    "tag:religion=taoist": {
+        "message": "குறிச்சொல்: மதம் = தாவோயிச்ட்"
+    },
+    "tag:religion=zoroastrian": {
+        "message": "குறிச்சொல்: மதம் = சோராச்ட்ரியன்"
+    },
+    "tag:residential=HDB": {
+        "message": "குறிச்சொல்: குடியிருப்பு = HDB"
+    },
+    "tag:residential=cottage": {
+        "message": "குறிச்சொல்: குடியிருப்பு = குடிசை"
+    },
+    "tag:residential=apartments": {
+        "message": "குறிச்சொல்: குடியிருப்பு = குடியிருப்புகள்"
+    },
+    "tag:residential=detached": {
+        "message": "குறிச்சொல்: குடியிருப்பு = பிரிக்கப்பட்டுள்ளது"
+    },
+    "tag:residential=garden": {
+        "message": "குறிச்சொல்: குடியிருப்பு = தோட்டம்"
+    },
+    "tag:residential=single_family": {
+        "message": "குறிச்சொல்: குடியிருப்பு = ஒற்றை குடும்பம்"
+    },
+    "tag:residential=urban": {
+        "message": "குறிச்சொல்: குடியிருப்பு = நகர்ப்புற"
+    },
+    "tag:route=aerialway": {
+        "message": "குறிச்சொல்: பாதை = வான்வழி பாதை"
+    },
+    "tag:sauna=dry": {
+        "message": "குறிச்சொல்: ச உனா னா = உலர்ந்த"
+    },
+    "tag:sauna=hanjeungmak": {
+        "message": "குறிச்சொல்: ச உனா னா = கட்டிப்பிடித்தல்"
+    },
+    "tag:sauna=infrared": {
+        "message": "குறிச்சொல்: ச உனா னா = அகச்சிவப்பு"
+    },
+    "tag:shop=anime": {
+        "message": "குறிச்சொல்: கடை = அனிம்"
+    },
+    "tag:shop=appliance": {
+        "message": "குறிச்சொல்: கடை = சாதனம்"
+    },
+    "tag:shop=art": {
+        "message": "குறிச்சொல்: கடை = கலை"
+    },
+    "tag:shop=baby_goods": {
+        "message": "குறிச்சொல்: கடை = baby_goods"
+    },
+    "tag:shop=beauty": {
+        "message": "குறிச்சொல்: கடை = அழகு"
+    },
+    "tag:shop=bag": {
+        "message": "குறிச்சொல்: கடை = பை"
+    },
+    "tag:shop=bed": {
+        "message": "குறிச்சொல்: கடை = படுக்கை"
+    },
+    "tag:shop=beverages": {
+        "message": "குறிச்சொல்: கடை = பானங்கள்"
+    },
+    "tag:shop=car_repair": {
+        "message": "குறிச்சொல்: கடை = CAR_REPAIR"
+    },
+    "tag:shop=car_repair service=wheel_repair": {
+        "message": "குறிச்சொல்: கடை = CAR_REPAIR பணி = Wheel_repair"
+    },
+    "tag:shop=car_parts": {
+        "message": "குறிச்சொல்: கடை = கார் பாகங்கள்"
+    },
+    "tag:shop=charity": {
+        "message": "குறிச்சொல்: கடை = தொண்டு"
+    },
+    "tag:shop=clothes": {
+        "message": "குறிச்சொல்: கடை = உடைகள்"
+    },
+    "tag:shop=chocolate": {
+        "message": "குறிச்சொல்: கடை = சாக்லேட்"
+    },
+    "tag:shop=coffee": {
+        "message": "குறிச்சொல்: கடை = காபி"
+    },
+    "tag:shop=computer": {
+        "message": "குறிச்சொல்: கடை = கணினி"
+    },
+    "tag:shop=confectionery": {
+        "message": "குறிச்சொல்: கடை = மிட்டாய்"
+    },
+    "tag:shop=curtain": {
+        "message": "குறிச்சொல்: கடை = திரை"
+    },
+    "tag:shop=dairy": {
+        "message": "குறிச்சொல்: கடை = பால்"
+    },
+    "tag:shop=department_store": {
+        "message": "குறிச்சொல்: கடை = துறை_ச்டோர்"
+    },
+    "tag:shop=doityourself": {
+        "message": "குறிச்சொல்: கடை = doityourself"
+    },
+    "tag:shop=dry_cleaning": {
+        "message": "குறிச்சொல்: கடை = உலர்_ கிளீனிங்"
+    },
+    "tag:shop=e-cigarette": {
+        "message": "குறிச்சொல்: கடை = மின்-சிகரெட்"
+    },
+    "tag:shop=erotic": {
+        "message": "குறிச்சொல்: கடை = சிற்றின்ப"
+    },
+    "tag:shop=estate_agent": {
+        "message": "குறிச்சொல்: கடை = எச்டேட்_சென்ட்"
+    },
+    "tag:shop=farm": {
+        "message": "குறிச்சொல்: கடை = பண்ணை"
+    },
+    "tag:shop=fashion": {
+        "message": "குறிச்சொல்: கடை = ஃபேசன்"
+    },
+    "tag:shop=fish": {
+        "message": "குறிச்சொல்: கடை = மீன்"
+    },
+    "tag:shop=fishing": {
+        "message": "குறிச்சொல்: கடை = மீன்பிடித்தல்"
+    },
+    "tag:shop=fishmonger": {
+        "message": "குறிச்சொல்: கடை = ஃபிச்மொங்கர்"
+    },
+    "tag:shop=fixme": {
+        "message": "நாள்: கடை = சரி"
+    },
+    "tag:shop=furniture": {
+        "message": "குறிச்சொல்: கடை = தளபாடங்கள்"
+    },
+    "tag:shop=hifi": {
+        "message": "நாள்: கடை = ஐஃபி"
+    },
+    "tag:shop=interior_decoration": {
+        "message": "குறிச்சொல்: கடை = உள்துறை ஒப்பனை"
+    },
+    "tag:shop=jewelry": {
+        "message": "குறிச்சொல்: கடை = நகைகள்"
+    },
+    "tag:shop=grocery": {
+        "message": "குறிச்சொல்: கடை = மளிகை"
+    },
+    "tag:shop=kiosk": {
+        "message": "குறிச்சொல்: கடை = கியோச்க்"
+    },
+    "tag:shop=leather": {
+        "message": "குறிச்சொல்: கடை = தோல்"
+    },
+    "tag:shop=market": {
+        "message": "குறிச்சொல்: கடை = சந்தை"
+    },
+    "tag:shop=model": {
+        "message": "குறிச்சொல்: கடை = மாதிரி"
+    },
+    "tag:shop=motorcycle": {
+        "message": "குறிச்சொல்: கடை = மின்னோடி சைக்கிள்"
+    },
+    "tag:shop=musical_instrument": {
+        "message": "குறிச்சொல்: கடை = இசைக்கருவி"
+    },
+    "tag:shop=printing": {
+        "message": "குறிச்சொல்: கடை = அச்சிடுதல்"
+    },
+    "tag:shop=newsagent": {
+        "message": "குறிச்சொல்: கடை = செய்தி"
+    },
+    "tag:shop=optician": {
+        "message": "குறிச்சொல்: கடை = ஒளியியல்"
+    },
+    "tag:shop=pet": {
+        "message": "குறிச்சொல்: கடை = செல்லப்பிராணி"
+    },
+    "tag:shop=second_hand": {
+        "message": "குறிச்சொல்: கடை = இரண்டாவது_ஆன்ட்"
+    },
+    "tag:shop=shoemaker": {
+        "message": "குறிச்சொல்: கடை = சூமேக்கர்"
+    },
+    "tag:shop=shoes": {
+        "message": "குறிச்சொல்: கடை = காலணிகள்"
+    },
+    "tag:shop=shopping_centre": {
+        "message": "குறிச்சொல்: கடை = சாப்பிங்_சென்ட்ரே"
+    },
+    "tag:shop=sports": {
+        "message": "குறிச்சொல்: கடை = விளையாட்டு"
+    },
+    "tag:shop=stationery": {
+        "message": "குறிச்சொல்: கடை = எழுதுபொருள்"
+    },
+    "tag:shop=supermarket": {
+        "message": "குறிச்சொல்: கடை = சூப்பர் மார்க்கெட்"
+    },
+    "tag:shop=video": {
+        "message": "குறிச்சொல்: கடை = வீடியோ"
+    },
+    "tag:shop=tobacco": {
+        "message": "குறிச்சொல்: கடை = புகையிலை"
+    },
+    "tag:shop=travel_agency": {
+        "message": "குறிச்சொல்: கடை = பயணம்_சென்சி"
+    },
+    "tag:smoking=dedicated": {
+        "message": "குறிச்சொல்: புகைபிடித்தல் = அர்ப்பணிப்பு"
+    },
+    "tag:smoking=separated": {
+        "message": "குறிச்சொல்: புகைபிடித்தல் = பிரிக்கப்பட்டுள்ளது"
+    },
+    "tag:sport=field_hockey": {
+        "message": "குறிச்சொல்: விளையாட்டு = புலம் ஆக்கி"
+    },
+    "tag:sport=weightlifting": {
+        "message": "குறிச்சொல்: விளையாட்டு = பளுதூக்குதல்"
+    },
+    "tag:theatre:genre=chamber_music": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = சேம்பர்_மூசிக்"
+    },
+    "tag:theatre:genre=opera": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = ஓபரா"
+    },
+    "tag:theatre:genre=philharmonic": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = பில்ஆர்மோனிக்"
+    },
+    "tag:theatre:genre=political": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = அரசியல்"
+    },
+    "tag:theatre:genre=puppet": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = பொம்மை"
+    },
+    "tag:theatre:genre=shadow_play": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = நிழல்_ பிளே"
+    },
+    "tag:theatre:genre=stand_up_comedy": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = நகைச்சுவை"
+    },
+    "tag:theatre:genre=variety": {
+        "message": "குறிச்சொல்: தியேட்டர்: வகை = வகை"
+    },
+    "tag:tourism=artwork": {
+        "message": "குறிச்சொல்: சுற்றுலா = கலைப்படைப்பு"
+    },
+    "tag:tourism=attraction": {
+        "message": "குறிச்சொல்: சுற்றுலா = ஈர்ப்பு"
+    },
+    "tag:tourism=information": {
+        "message": "குறிச்சொல்: சுற்றுலா = செய்தி"
+    },
+    "tag:tourism=picnic_site": {
+        "message": "குறிச்சொல்: சுற்றுலா = பிக்னிக்_சைட்"
+    },
+    "tag:tourism=theme_park": {
+        "message": "குறிச்சொல்: சுற்றுலா = தீம்_பார்க்"
+    },
+    "tag:water=oxbow": {
+        "message": "குறிச்சொல்: நீர் = ஆக்ச்போ"
+    },
+    "tag:water=reflecting_pool": {
+        "message": "குறிச்சொல்: நீர் = பிரதிபலிக்கும் குளம்"
+    },
+    "tag:waterway=dam": {
+        "message": "குறிச்சொல்: நீர்வழி = அணை"
+    },
+    "tag:waterway=divide": {
+        "message": "குறிச்சொல்: நீர்வழி = பிரிக்கவும்"
+    },
+    "tag:waterway=stream": {
+        "message": "குறிச்சொல்: நீர்வழி = ச்ட்ரீம்"
+    },
+    "tag:access=designated": {
+        "message": "குறிச்சொல்: அணுகல் = நியமிக்கப்பட்டுள்ளது"
+    },
+    "tag:amenity=biergarten": {
+        "message": "நாள்: வசதி = பீர் தோட்டம்"
+    },
+    "tag:amenity=bureau_de_change": {
+        "message": "குறிச்சொல்: வசதி = பணியகம்_டி_சேஞ்ச்"
     }
 }
