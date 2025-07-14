@@ -4449,6 +4449,14 @@
         "message": "Network",
         "description": "Key \"network\". See https://wiki.openstreetmap.org/wiki/Key:network"
     },
+    "tag:network:type=node_network": {
+        "message": "Node network",
+        "description": "Tag \"network:type=node_network\". See https://wiki.openstreetmap.org/wiki/Node_Networks"
+    },
+    "tag:network:type=node_network node": {
+        "message": "Node",
+        "description": "Node of a \"network:type=node_network\". See https://wiki.openstreetmap.org/wiki/Node_Networks"
+    },
     "tag:network=icn": {
         "message": "International Bicycle Route",
         "description": "Tag \"network=icn\". See https://wiki.openstreetmap.org/wiki/Tag:network=icn"

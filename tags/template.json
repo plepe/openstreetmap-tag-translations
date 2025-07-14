@@ -3868,6 +3868,14 @@
         "message": "key:network",
         "description": "Key \"network\". See https://wiki.openstreetmap.org/wiki/Key:network"
     },
+    "tag:network:type=node_network": {
+        "message": "",
+        "description": "Tag \"network:type=node_network\". See https://wiki.openstreetmap.org/wiki/Node_Networks"
+    },
+    "tag:network:type=node_network node": {
+        "message": "",
+        "description": "Node of a \"network:type=node_network\". See https://wiki.openstreetmap.org/wiki/Node_Networks"
+    },
     "tag:network=icn": {
         "message": "tag:network=icn",
         "description": "Tag \"network=icn\". See https://wiki.openstreetmap.org/wiki/Tag:network=icn"
