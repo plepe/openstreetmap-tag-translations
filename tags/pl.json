@@ -2354,11 +2354,11 @@
         "description": "Key \"frequency\". See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:frequency=0": {
-        "message": "",
+        "message": "prąd stały",
         "description": "Tag \"frequency=0\" (direct current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:frequency>0": {
-        "message": "",
+        "message": "prąd zmienny",
         "description": "Tag \"frequency=*\" (not 0, meaning alternating current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
     },
     "tag:gauge": {
@@ -2558,7 +2558,7 @@
         "description": "Key \"hgv\". See https://wiki.openstreetmap.org/wiki/Key:hgv"
     },
     "tag:highway": {
-        "message": "Droga",
+        "message": "Autostrada",
         "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
     },
     "tag:highway=bridleway": {
@@ -2598,7 +2598,7 @@
         "description": "Tag \"highway=mini_roundabout\". See https://wiki.openstreetmap.org/wiki/Tag:highway=mini_roundabout"
     },
     "tag:highway=minor": {
-        "message": "",
+        "message": "Boczna droga",
         "description": "Tag \"highway=minor\". See https://wiki.openstreetmap.org/wiki/Tag:highway=minor"
     },
     "tag:highway=motorway": {
@@ -2630,7 +2630,7 @@
         "description": "Tag \"highway=platform\". See https://wiki.openstreetmap.org/wiki/Tag:highway=platform"
     },
     "tag:highway=primary": {
-        "message": "",
+        "message": "Główna droga",
         "description": "Tag \"highway=primary\". See https://wiki.openstreetmap.org/wiki/Tag:highway=primary"
     },
     "tag:highway=primary_link": {
@@ -2694,7 +2694,7 @@
         "description": "Key \"historic\". See https://wiki.openstreetmap.org/wiki/Key:historic"
     },
     "tag:historic:civilization": {
-        "message": "",
+        "message": "Stworzone przez cywilizacje",
         "description": "Key \"historic:civilization\". See https://wiki.openstreetmap.org/wiki/Key:historic:civilization"
     },
     "tag:historic:civilization=ancient_egyptian": {
@@ -3062,7 +3062,7 @@
         "description": "Tag \"landuse=garages\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=garages"
     },
     "tag:landuse=grass": {
-        "message": "",
+        "message": "Trawa",
         "description": "Tag \"landuse=grass\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=grass"
     },
     "tag:landuse=greenfield": {
@@ -3122,7 +3122,7 @@
         "description": "Tag \"landuse=vineyard\". See https://wiki.openstreetmap.org/wiki/Tag:landuse=vineyard"
     },
     "tag:lanes": {
-        "message": "",
+        "message": "Pasy",
         "description": "Key \"lanes\". See https://wiki.openstreetmap.org/wiki/Key:lanes"
     },
     "tag:layer": {
@@ -3490,7 +3490,7 @@
         "description": "Tag \"memorial=sculpture\" or \"memorial:type=sculpture\" or \"monument=sculpture\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=sculpture"
     },
     "tag:memorial=statue": {
-        "message": "",
+        "message": "Statuła",
         "description": "Tag \"memorial=statue\" or \"memorial:type=statue\" or \"monument=statue\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=statue"
     },
     "tag:memorial=stele": {
@@ -3590,7 +3590,7 @@
         "description": "Key \"motorcycle\". See https://wiki.openstreetmap.org/wiki/Key:motorcycle"
     },
     "tag:mountain_pass": {
-        "message": "",
+        "message": "Górska przełęcz",
         "description": "Key \"mountain_pass\". See https://wiki.openstreetmap.org/wiki/Key:mountain_pass"
     },
     "tag:museum=agriculture": {
@@ -6588,5 +6588,14 @@
     "tag:conveying=reversible": {
         "message": "odwracalny",
         "description": "Tag \"conveying=reversible\". See https://wiki.openstreetmap.org/wiki/Tag:conveying=reversible"
+    },
+    "tag:bicycle_road": {
+        "message": "Ścieżka rowerowa"
+    },
+    "tag:footway=sidewalk": {
+        "message": "Chodnik"
+    },
+    "tag:highway=elevator": {
+        "message": "Winda"
     }
 }
