@@ -1,1 +1,20 @@
-{}
+{
+    "tag:access=customers": {
+        "message": "ഉപഭോക്താക്കൾക്ക് മാത്രം"
+    },
+    "tag:access=destination": {
+        "message": "ലക്ഷ്യസ്ഥാനം"
+    },
+    "tag:access=discouraged": {
+        "message": "നിരുത്സഹപെടുത്തിയിരികുന്നു"
+    },
+    "tag:access=no": {
+        "message": "പൊതുജനങ്ങൾക്ക് പ്രവേശനം ഇല്ല"
+    },
+    "tag:access=private": {
+        "message": "സ്വകാര്യം"
+    },
+    "tag:addr:postcode": {
+        "message": "തപാൽ കോഡ്"
+    }
+}
