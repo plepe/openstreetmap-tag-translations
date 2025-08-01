@@ -6907,5 +6907,8 @@
     },
     "tag:cycleway=traffic_island": {
         "message": "Dopravní ostrůvek"
+    },
+    "tag:admin_level=7.5": {
+        "message": "Katastr"
     }
 }
