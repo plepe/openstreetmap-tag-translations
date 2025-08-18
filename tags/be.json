@@ -1,1 +1,44 @@
-{}
+{
+    "tag:*=no": {
+        "message": "не"
+    },
+    "tag:*=yes": {
+        "message": "так"
+    },
+    "tag:abandoned": {
+        "message": "Закінуты"
+    },
+    "tag:access": {
+        "message": "Агульны дазвол на доступ"
+    },
+    "tag:access!=private": {
+        "message": "непрыватны"
+    },
+    "tag:access=agricultural": {
+        "message": "толькі сельскагаспадарчы транспарт"
+    },
+    "tag:access=customers": {
+        "message": "толькі для кліентаў"
+    },
+    "tag:access=delivery": {
+        "message": "толькі для даставак"
+    },
+    "tag:access=destination": {
+        "message": "пункт прызначэння"
+    },
+    "tag:access=discouraged": {
+        "message": "не рэкамендуецца"
+    },
+    "tag:access=dismount": {
+        "message": "толькі спешыўшыся"
+    },
+    "tag:access=forestry": {
+        "message": "толькі лясны рух"
+    },
+    "tag:access=no": {
+        "message": "няма доступу для шырокай публікі"
+    },
+    "tag:access=permissive": {
+        "message": "дазвольны"
+    }
+}
