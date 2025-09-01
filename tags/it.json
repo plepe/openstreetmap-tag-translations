@@ -6036,5 +6036,26 @@
     "tag:xmas:feature=tree": {
         "message": "",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:access=destination": {
+        "message": "destinazione"
+    },
+    "tag:access=unknown": {
+        "message": "sconosciuto"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "Pista di atterraggio"
+    },
+    "tag:aeroway=heliport": {
+        "message": "Eliporto"
+    },
+    "tag:amenity=bicycle_repair_station": {
+        "message": "Ciclo officina"
+    },
+    "tag:amenity=canteen": {
+        "message": "Mensa"
+    },
+    "tag:year_of_construction": {
+        "message": "Periodo di costruzione"
     }
 }
