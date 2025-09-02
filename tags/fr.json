@@ -472,18 +472,6 @@
         "message": "Distributeur de journaux",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=news_papers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=news_papers"
     },
-    "tag:amenity=vending_machine vending=parcel_mail_in": {
-        "message": "Boite postale",
-        "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_mail_in"
-    },
-    "tag:amenity=vending_machine vending=parcel_pickup": {
-        "message": "Boite, réception de colis",
-        "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_pickup\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_pickup"
-    },
-    "tag:amenity=vending_machine vending=parcel_pickup;parcel_mail_in": {
-        "message": "Guichet automatique, réception de colis",
-        "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_pickup;parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_pickup;parcel_mail_in"
-    },
     "tag:amenity=vending_machine vending=parking_tickets": {
         "message": "Guichet automatisé, tickets de stationnement",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets"

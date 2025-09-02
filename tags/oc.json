@@ -476,18 +476,6 @@
         "message": "Distributor automatic de jornaus",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=news_papers\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=news_papers"
     },
-    "tag:amenity=vending_machine vending=parcel_mail_in": {
-        "message": "Boita postala",
-        "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_mail_in"
-    },
-    "tag:amenity=vending_machine vending=parcel_pickup": {
-        "message": "Retirament automatic de paquets",
-        "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_pickup\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_pickup"
-    },
-    "tag:amenity=vending_machine vending=parcel_pickup;parcel_mail_in": {
-        "message": "Distributor automatic per retirar e enviar de paquets",
-        "description": "Combined tag \"amenity=vending_machine\" and \"vending=parcel_pickup;parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parcel_pickup;parcel_mail_in"
-    },
     "tag:amenity=vending_machine vending=parking_tickets": {
         "message": "Distributor automatic de bilhetas per l'aparcament",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=parking_tickets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=parking_tickets"

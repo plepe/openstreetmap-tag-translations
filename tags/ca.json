@@ -1417,9 +1417,6 @@
     "tag:amenity=scale": {
         "message": "Balança"
     },
-    "tag:amenity=vending_machine vending=parcel_pickup;parcel_mail_in": {
-        "message": "Distribuïdor automàtic per a la recollida de paquets"
-    },
     "tag:amenity=vending_machine vending=parking_tickets": {
         "message": "Distribuïdor automàtic de tiquets d'aparcament"
     },
@@ -1428,9 +1425,6 @@
     },
     "tag:amenity=veterinary": {
         "message": "Veterinari"
-    },
-    "tag:amenity=vending_machine vending=parcel_pickup": {
-        "message": "Distribuïdor automàtic per a la recollida de paquets"
     },
     "tag:amenity=vending_machine vending=public_transport_tickets": {
         "message": "Distribuïdor automàtic de bitllets de transport públic"

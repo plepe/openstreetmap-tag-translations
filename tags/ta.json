@@ -3638,15 +3638,6 @@
     "tag:amenity=vending_machine vending=news_papers": {
         "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = செய்திகள்_பேப்பர்கள்"
     },
-    "tag:amenity=vending_machine vending=parcel_mail_in": {
-        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = பார்சல்_மெயில்_இன்"
-    },
-    "tag:amenity=vending_machine vending=parcel_pickup": {
-        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = பார்சல்_பிகப்"
-    },
-    "tag:amenity=vending_machine vending=parcel_pickup;parcel_mail_in": {
-        "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = பார்சல்_பிகப்; பார்சல்_மெயில்_இன்"
-    },
     "tag:amenity=vending_machine vending=parking_tickets": {
         "message": "குறிச்சொல்: வசதி = விற்பனை_மச்சின் விற்பனை = பார்க்கிங்_டிக்கெட்டுகள்"
     },
