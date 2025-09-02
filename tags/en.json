@@ -4725,6 +4725,18 @@
         "message": "Operator",
         "description": "Key \"operator\". See https://wiki.openstreetmap.org/wiki/Key:operator"
     },
+    "tag:parcel_mail_in": {
+        "message": "Parcel drop off",
+        "description": "Key \"parcel_mail_in\". See https://wiki.openstreetmap.org/wiki/Key:parcel_mail_in"
+    },
+    "tag:parcel_mail_in=returns_only": {
+        "message": "only for returns",
+        "description": "Tag \"parcel_mail_in=returns_only\". See https://wiki.openstreetmap.org/wiki/Tag:parcel_mail_in=returns_only"
+    },
+    "tag:parcel_pickup": {
+        "message": "Parcel pickup",
+        "description": "Key \"parcel_pickup\". See https://wiki.openstreetmap.org/wiki/Key:parcel_pickup"
+    },
     "tag:parking:lane": {
         "message": "Parking lane",
         "description": "Key \"parking:lane\". See https://wiki.openstreetmap.org/wiki/Key:parking:lane"
