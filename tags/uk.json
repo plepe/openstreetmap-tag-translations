@@ -97,19 +97,15 @@
         "description": "Tag \"admin_level=6\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=6"
     },
     "tag:admin_level=7": {
-        "message": "",
-        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7",
-        "5": {
-            "message": "",
-            "description": "Tag \"admin_level=7.5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7.5"
-        }
+        "message": "(7)",
+        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
     },
     "tag:admin_level=8": {
         "message": "Межі міст або районів міст",
         "description": "Tag \"admin_level=8\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=8"
     },
     "tag:admin_level=9": {
-        "message": "",
+        "message": "(9)",
         "description": "Tag \"admin_level=9\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=9"
     },
     "tag:aerialway": {
@@ -329,7 +325,7 @@
         "description": "Tag \"amenity=motorcycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=motorcycle_parking"
     },
     "tag:amenity=nursing_home": {
-        "message": "",
+        "message": "Будинок для людей похилого віку",
         "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
     },
     "tag:amenity=parking": {
@@ -341,7 +337,7 @@
         "description": "Tag \"amenity=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pharmacy"
     },
     "tag:amenity=place_of_worship": {
-        "message": "",
+        "message": "Місце поклоніння",
         "description": "Tag \"amenity=place_of_worship\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship"
     },
     "tag:amenity=police": {
@@ -361,7 +357,7 @@
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
-        "message": "",
+        "message": "Громадська лазня",
         "description": "Tag \"amenity=public_bath\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bath"
     },
     "tag:amenity=public_bookcase": {
@@ -373,7 +369,7 @@
         "description": "Tag \"amenity=public_building\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_building"
     },
     "tag:amenity=recycling": {
-        "message": "",
+        "message": "Переробка",
         "description": "Tag \"amenity=recycling\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=recycling"
     },
     "tag:amenity=recycling recycling_type=centre": {
@@ -381,7 +377,7 @@
         "description": "Tag \"recycling_type=centre\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=centre"
     },
     "tag:amenity=recycling recycling_type=container": {
-        "message": "",
+        "message": "Контейнер",
         "description": "Tag \"recycling_type=container\". See https://wiki.openstreetmap.org/wiki/Tag:recycling_type=container"
     },
     "tag:amenity=restaurant": {
@@ -6075,5 +6071,14 @@
     },
     "tag:aeroway=heliport": {
         "message": "вертолітний майданчик"
+    },
+    "tag:access=discouraged": {
+        "message": "знеохочений"
+    },
+    "tag:amenity=parcel_locker": {
+        "message": "Поштомат"
+    },
+    "tag:amenity=scale": {
+        "message": "Масштаб"
     }
 }
