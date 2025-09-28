@@ -393,7 +393,7 @@
         "description": "Tag \"amenity=shelter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shelter"
     },
     "tag:amenity=shower": {
-        "message": "",
+        "message": "Душ",
         "description": "Tag \"amenity=shower\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shower"
     },
     "tag:amenity=signpost": {
@@ -425,11 +425,11 @@
         "description": "Tag \"amenity=ticket_counter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ticket_counter"
     },
     "tag:amenity=toilets": {
-        "message": "",
+        "message": "Туалети",
         "description": "Tag \"amenity=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets"
     },
     "tag:amenity=toilets changing_table=yes": {
-        "message": "",
+        "message": "Туалети зі столиком для сповивання підгузків",
         "description": "Combined tag \"amenity=toilets\" and \"changing_table=yes\". See https://wiki.openstreetmap.org/wiki/Key:changing_table"
     },
     "tag:amenity=townhall": {
@@ -437,7 +437,7 @@
         "description": "Tag \"amenity=townhall\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=townhall"
     },
     "tag:amenity=university": {
-        "message": "",
+        "message": "Університет",
         "description": "Tag \"amenity=university\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=university"
     },
     "tag:amenity=vending_machine": {
@@ -445,7 +445,7 @@
         "description": "Tag \"amenity=vending_machine\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine"
     },
     "tag:amenity=vending_machine vending=bicycle_tube": {
-        "message": "",
+        "message": "Диспенсер для велосипедних трубок",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=bicycle_tube\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=bicycle_tube"
     },
     "tag:amenity=vending_machine vending=cigarettes": {
@@ -501,11 +501,11 @@
         "description": "Tag \"amenity=veterinary\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=veterinary"
     },
     "tag:amenity=waste_basket": {
-        "message": "",
+        "message": "Кошик для сміття",
         "description": "Tag \"amenity=waste_basket\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_basket"
     },
     "tag:amenity=waste_disposal": {
-        "message": "",
+        "message": "Сміттєвий бак",
         "description": "Tag \"amenity=waste_disposal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_disposal"
     },
     "tag:amenity=waste_transfer_station": {
@@ -513,11 +513,11 @@
         "description": "Tag \"amenity=waste_transfer_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_transfer_station"
     },
     "tag:architect": {
-        "message": "",
+        "message": "Архітектор",
         "description": "Key \"architect\". See https://wiki.openstreetmap.org/wiki/Key:architect"
     },
     "tag:area": {
-        "message": "",
+        "message": "Площа",
         "description": "Key \"area\". See https://wiki.openstreetmap.org/wiki/Key:area"
     },
     "tag:artist": {
@@ -561,11 +561,11 @@
         "description": "Key \"bath:type\". See https://wiki.openstreetmap.org/wiki/Key:bath:type"
     },
     "tag:bath:type=hammam": {
-        "message": "",
+        "message": "Хамам",
         "description": "Tag \"bath:type=hammam\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hammam"
     },
     "tag:bath:type=hot_spring": {
-        "message": "",
+        "message": "Гаряче джерело",
         "description": "Tag \"bath:type=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hot_spring"
     },
     "tag:bath:type=lake": {
@@ -6080,5 +6080,11 @@
     },
     "tag:amenity=scale": {
         "message": "Масштаб"
+    },
+    "tag:area:highway": {
+        "message": "Форма шляху"
+    },
+    "tag:barrier=kerb": {
+        "message": "Бордюр"
     }
 }
