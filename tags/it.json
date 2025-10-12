@@ -109,7 +109,7 @@
         "description": "Tag \"admin_level=8\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=8"
     },
     "tag:admin_level=9": {
-        "message": "",
+        "message": "(9)",
         "description": "Tag \"admin_level=9\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=9"
     },
     "tag:aerialway": {
@@ -181,7 +181,7 @@
         "description": "Tag \"amenity=bicycle_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_rental"
     },
     "tag:amenity=biergarten": {
-        "message": "",
+        "message": "Biergarten",
         "description": "Tag \"amenity=biergarten\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=biergarten"
     },
     "tag:amenity=brothel": {
@@ -233,7 +233,7 @@
         "description": "Tag \"amenity=college\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=college"
     },
     "tag:amenity=community_centre": {
-        "message": "",
+        "message": "Centro comunutario",
         "description": "Tag \"amenity=community_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=community_centre"
     },
     "tag:amenity=compressed_air": {
@@ -365,7 +365,7 @@
         "description": "Tag \"amenity=public_bath\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bath"
     },
     "tag:amenity=public_bookcase": {
-        "message": "",
+        "message": "Cassetta pubblica dei libri",
         "description": "Tag \"amenity=public_bookcase\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bookcase"
     },
     "tag:amenity=public_building": {
@@ -393,11 +393,11 @@
         "description": "Tag \"amenity=school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=school"
     },
     "tag:amenity=shelter": {
-        "message": "",
+        "message": "Riparo",
         "description": "Tag \"amenity=shelter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shelter"
     },
     "tag:amenity=shower": {
-        "message": "",
+        "message": "Doccia",
         "description": "Tag \"amenity=shower\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shower"
     },
     "tag:amenity=signpost": {
@@ -405,7 +405,7 @@
         "description": "Tag \"amenity=signpost\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=signpost"
     },
     "tag:amenity=social_facility": {
-        "message": "",
+        "message": "Centro assistenziale",
         "description": "Tag \"amenity=social_facility\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=social_facility"
     },
     "tag:amenity=studio": {
@@ -441,7 +441,7 @@
         "description": "Tag \"amenity=townhall\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=townhall"
     },
     "tag:amenity=university": {
-        "message": "",
+        "message": "Università",
         "description": "Tag \"amenity=university\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=university"
     },
     "tag:amenity=vending_machine": {
@@ -505,19 +505,19 @@
         "description": "Tag \"amenity=veterinary\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=veterinary"
     },
     "tag:amenity=waste_basket": {
-        "message": "",
+        "message": "Cesto dei rifiuti",
         "description": "Tag \"amenity=waste_basket\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_basket"
     },
     "tag:amenity=waste_disposal": {
-        "message": "",
+        "message": "Cestino",
         "description": "Tag \"amenity=waste_disposal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_disposal"
     },
     "tag:amenity=waste_transfer_station": {
-        "message": "",
+        "message": "Centro raccolta rifiuti",
         "description": "Tag \"amenity=waste_transfer_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_transfer_station"
     },
     "tag:architect": {
-        "message": "",
+        "message": "Architetto",
         "description": "Key \"architect\". See https://wiki.openstreetmap.org/wiki/Key:architect"
     },
     "tag:area": {
@@ -525,7 +525,7 @@
         "description": "Key \"area\". See https://wiki.openstreetmap.org/wiki/Key:area"
     },
     "tag:artist": {
-        "message": "",
+        "message": "Artista",
         "description": "Key \"artist\". See https://wiki.openstreetmap.org/wiki/Key:artist"
     },
     "tag:artist_name": {
@@ -557,35 +557,35 @@
         "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
     },
     "tag:bath:open_air": {
-        "message": "",
+        "message": "All'aperto",
         "description": "Key \"bath:open_air\". See https://wiki.openstreetmap.org/wiki/Key:bath:open_air"
     },
     "tag:bath:type": {
-        "message": "",
+        "message": "Tipo di bagno",
         "description": "Key \"bath:type\". See https://wiki.openstreetmap.org/wiki/Key:bath:type"
     },
     "tag:bath:type=hammam": {
-        "message": "",
+        "message": "Hammam",
         "description": "Tag \"bath:type=hammam\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hammam"
     },
     "tag:bath:type=hot_spring": {
-        "message": "",
+        "message": "Sorgente calda",
         "description": "Tag \"bath:type=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hot_spring"
     },
     "tag:bath:type=lake": {
-        "message": "",
+        "message": "Lago",
         "description": "Tag \"bath:type=lake\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=lake"
     },
     "tag:bath:type=onsen": {
-        "message": "",
+        "message": "Onsen",
         "description": "Tag \"bath:type=onsen\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=onsen"
     },
     "tag:bath:type=river": {
-        "message": "",
+        "message": "Fiume",
         "description": "Tag \"bath:type=river\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=river"
     },
     "tag:bath:type=thermal": {
-        "message": "",
+        "message": "Termale",
         "description": "Tag \"bath:type=thermal\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=thermal"
     },
     "tag:bicycle": {
@@ -613,7 +613,7 @@
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
     "tag:building=apartments": {
-        "message": "",
+        "message": "Condominio",
         "description": "Tag \"building=apartments\". See https://wiki.openstreetmap.org/wiki/Tag:building=apartments"
     },
     "tag:building=bakehouse": {
@@ -621,7 +621,7 @@
         "description": "Tag \"building=bakehouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=bakehouse"
     },
     "tag:building=barn": {
-        "message": "",
+        "message": "Fienile",
         "description": "Tag \"building=barn\". See https://wiki.openstreetmap.org/wiki/Tag:building=barn"
     },
     "tag:building=block": {
@@ -637,7 +637,7 @@
         "description": "Tag \"building=bungalow\". See https://wiki.openstreetmap.org/wiki/Tag:building=bungalow"
     },
     "tag:building=bunker": {
-        "message": "",
+        "message": "Bunker",
         "description": "Tag \"building=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:building=bunker"
     },
     "tag:building=cabin": {
@@ -6045,5 +6045,59 @@
     },
     "tag:year_of_construction": {
         "message": "Periodo di costruzione"
+    },
+    "tag:access=agricultural": {
+        "message": "solo traffico agricolo"
+    },
+    "tag:access=customers": {
+        "message": "solo per i clienti"
+    },
+    "tag:access=delivery": {
+        "message": "solo per consegne"
+    },
+    "tag:access=discouraged": {
+        "message": "scoraggiato"
+    },
+    "tag:access=dismount": {
+        "message": "solo non in sella"
+    },
+    "tag:access=forestry": {
+        "message": "solo traffico forestale"
+    },
+    "tag:access=no": {
+        "message": "nessun accesso al pubblico"
+    },
+    "tag:access=permissive": {
+        "message": "permissivo"
+    },
+    "tag:access=use_sidepath": {
+        "message": "urilizzare il percorso vicino"
+    },
+    "tag:access=yes": {
+        "message": "accessibile al pubblico"
+    },
+    "tag:aeroway=aerodrome": {
+        "message": "Aerodromo"
+    },
+    "tag:amenity=childcare": {
+        "message": "Asilo nido"
+    },
+    "tag:amenity=parcel_locker": {
+        "message": "Armadietto per i pacchi"
+    },
+    "tag:area:highway": {
+        "message": "Superficie stradale"
+    },
+    "tag:barrier=kerb": {
+        "message": "Cordolo"
+    },
+    "tag:bicycle_road": {
+        "message": "Strada ciclabile"
+    },
+    "tag:building:start_date": {
+        "message": "Data di completamento dell'edificio"
+    },
+    "tag:building=agriculture": {
+        "message": "Edificio agricolo"
     }
 }
