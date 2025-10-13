@@ -649,15 +649,15 @@
         "description": "Tag \"building=carport\". See https://wiki.openstreetmap.org/wiki/Tag:building=carport"
     },
     "tag:building=cathedral": {
-        "message": "",
+        "message": "Cattedrale",
         "description": "Tag \"building=cathedral\". See https://wiki.openstreetmap.org/wiki/Tag:building=cathedral"
     },
     "tag:building=chapel": {
-        "message": "",
+        "message": "Cappella",
         "description": "Tag \"building=chapel\". See https://wiki.openstreetmap.org/wiki/Tag:building=chapel"
     },
     "tag:building=church": {
-        "message": "",
+        "message": "Chiese",
         "description": "Tag \"building=church\". See https://wiki.openstreetmap.org/wiki/Tag:building=church"
     },
     "tag:building=church religion=christian": {
@@ -741,15 +741,15 @@
         "description": "Tag \"building=greenhouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=greenhouse"
     },
     "tag:building=hangar": {
-        "message": "",
+        "message": "Hangar",
         "description": "Tag \"building=hangar\". See https://wiki.openstreetmap.org/wiki/Tag:building=hangar"
     },
     "tag:building=hospital": {
-        "message": "",
+        "message": "Ospedale",
         "description": "Tag \"building=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:building=hospital"
     },
     "tag:building=hotel": {
-        "message": "",
+        "message": "Albergo",
         "description": "Tag \"building=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:building=hotel"
     },
     "tag:building=house": {
@@ -761,7 +761,7 @@
         "description": "Tag \"building=houseboat\". See https://wiki.openstreetmap.org/wiki/Tag:building=houseboat"
     },
     "tag:building=hut": {
-        "message": "",
+        "message": "Capanna",
         "description": "Tag \"building=hut\". See https://wiki.openstreetmap.org/wiki/Tag:building=hut"
     },
     "tag:building=industrial": {
@@ -773,7 +773,7 @@
         "description": "Tag \"building=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:building=kindergarten"
     },
     "tag:building=kiosk": {
-        "message": "",
+        "message": "Chiosco",
         "description": "Tag \"building=kiosk\". See https://wiki.openstreetmap.org/wiki/Tag:building=kiosk"
     },
     "tag:building=kitchen": {
@@ -793,7 +793,7 @@
         "description": "Tag \"building=monastery\". See https://wiki.openstreetmap.org/wiki/Tag:building=monastery"
     },
     "tag:building=mosque": {
-        "message": "",
+        "message": "Moschea",
         "description": "Tag \"building=mosque\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque"
     },
     "tag:building=mosque religion=muslim": {
@@ -809,7 +809,7 @@
         "description": "Tag \"building=parking\". See https://wiki.openstreetmap.org/wiki/Tag:building=parking"
     },
     "tag:building=pavilion": {
-        "message": "",
+        "message": "Padiglione sportivo",
         "description": "Tag \"building=pavilion\". See https://wiki.openstreetmap.org/wiki/Tag:building=pavilion"
     },
     "tag:building=public": {
@@ -817,7 +817,7 @@
         "description": "Tag \"building=public\". See https://wiki.openstreetmap.org/wiki/Tag:building=public"
     },
     "tag:building=religious": {
-        "message": "",
+        "message": "Edificio religioso",
         "description": "Tag \"building=religious\". See https://wiki.openstreetmap.org/wiki/Tag:building=religious"
     },
     "tag:building=residential": {
@@ -829,11 +829,11 @@
         "description": "Tag \"building=retail\". See https://wiki.openstreetmap.org/wiki/Tag:building=retail"
     },
     "tag:building=riding_hall": {
-        "message": "",
+        "message": "Sala di equitazione",
         "description": "Tag \"building=riding_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=riding_hall"
     },
     "tag:building=roof": {
-        "message": "",
+        "message": "Tetto",
         "description": "Tag \"building=roof\". See https://wiki.openstreetmap.org/wiki/Tag:building=roof"
     },
     "tag:building=ruins": {
@@ -853,7 +853,7 @@
         "description": "Tag \"building=service\". See https://wiki.openstreetmap.org/wiki/Tag:building=service"
     },
     "tag:building=shed": {
-        "message": "",
+        "message": "Capannone",
         "description": "Tag \"building=shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=shed"
     },
     "tag:building=shop": {
@@ -861,7 +861,7 @@
         "description": "Tag \"building=shop\". See https://wiki.openstreetmap.org/wiki/Tag:building=shop"
     },
     "tag:building=shrine": {
-        "message": "",
+        "message": "Santuario",
         "description": "Tag \"building=shrine\". See https://wiki.openstreetmap.org/wiki/Tag:building=shrine"
     },
     "tag:building=silo": {
@@ -877,7 +877,7 @@
         "description": "Tag \"building=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=sports_hall"
     },
     "tag:building=stable": {
-        "message": "",
+        "message": "Stalla",
         "description": "Tag \"building=stable\". See https://wiki.openstreetmap.org/wiki/Tag:building=stable"
     },
     "tag:building=stadium": {
@@ -901,7 +901,7 @@
         "description": "Tag \"building=supermarket\". See https://wiki.openstreetmap.org/wiki/Tag:building=supermarket"
     },
     "tag:building=synagogue": {
-        "message": "",
+        "message": "Sinagoga",
         "description": "Tag \"building=synagogue\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue"
     },
     "tag:building=synagogue religion=jewish": {
@@ -909,7 +909,7 @@
         "description": "Combined tag \"building=synagogue\" and \"religion=jewish\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue and https://wiki.openstreetmap.org/wiki/Tag:religion=jewish"
     },
     "tag:building=temple": {
-        "message": "",
+        "message": "Tempio",
         "description": "Tag \"building=temple\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple"
     },
     "tag:building=temple religion=sikh": {
@@ -6099,5 +6099,11 @@
     },
     "tag:building=agriculture": {
         "message": "Edificio agricolo"
+    },
+    "tag:changing_table": {
+        "message": "Fasciatoio"
+    },
+    "tag:climbing": {
+        "message": "Arrampicata"
     }
 }
