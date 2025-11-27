@@ -6812,5 +6812,41 @@
     "tag:surface=mud": {
         "message": "lama",
         "description": "Tag \"surface=mud\". See https://wiki.openstreetmap.org/wiki/Tag:surface=mud"
+    },
+    "tag:amenity=canteen": {
+        "message": "Buffet"
+    },
+    "tag:amenity=scale": {
+        "message": "Escala"
+    },
+    "tag:bicycle_road": {
+        "message": "Ciclovia"
+    },
+    "tag:conveying=reversible": {
+        "message": "reversível"
+    },
+    "tag:cyclestreet": {
+        "message": "Rua de bicicletas"
+    },
+    "tag:cycleway=crossing": {
+        "message": "Cruzamento"
+    },
+    "tag:cycleway=shared_busway": {
+        "message": "corredor de ônibus compartilhado"
+    },
+    "tag:cycleway=shared_lane": {
+        "message": "Faixa compartilhada"
+    },
+    "tag:cycleway=shoulder": {
+        "message": "Ressalto"
+    },
+    "tag:cycleway=traffic_island": {
+        "message": "Ilha de Trânsito"
+    },
+    "tag:denotation": {
+        "message": "Indicação"
+    },
+    "tag:denotation=agricultural": {
+        "message": "Agrícola"
     }
 }
