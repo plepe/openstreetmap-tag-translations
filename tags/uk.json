@@ -521,11 +521,11 @@
         "description": "Key \"area\". See https://wiki.openstreetmap.org/wiki/Key:area"
     },
     "tag:artist": {
-        "message": "",
+        "message": "Художник",
         "description": "Key \"artist\". See https://wiki.openstreetmap.org/wiki/Key:artist"
     },
     "tag:artist_name": {
-        "message": "",
+        "message": "Художник",
         "description": "Key \"artist_name\". See https://wiki.openstreetmap.org/wiki/Key:artist_name"
     },
     "tag:barrier": {
@@ -585,7 +585,7 @@
         "description": "Tag \"bath:type=thermal\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=thermal"
     },
     "tag:bicycle": {
-        "message": "",
+        "message": "Дозвіл на доступ велосипедистів",
         "description": "Key \"bicycle\". See https://wiki.openstreetmap.org/wiki/Key:bicycle"
     },
     "tag:boundary": {
@@ -593,7 +593,7 @@
         "description": "Key \"boundary\". See https://wiki.openstreetmap.org/wiki/Key:boundary"
     },
     "tag:brand": {
-        "message": "",
+        "message": "Бренд",
         "description": "Key \"brand\". See https://wiki.openstreetmap.org/wiki/Key:brand"
     },
     "tag:bridge": {
@@ -601,11 +601,11 @@
         "description": "Key \"bridge\". See https://wiki.openstreetmap.org/wiki/Key:bridge"
     },
     "tag:building": {
-        "message": "",
+        "message": "Будівля",
         "description": "Key \"building\". See https://wiki.openstreetmap.org/wiki/Key:building"
     },
     "tag:building:levels": {
-        "message": "",
+        "message": "рівні",
         "description": "Key \"building:levels\". See https://wiki.openstreetmap.org/wiki/Key:building:levels"
     },
     "tag:building=apartments": {
@@ -633,7 +633,7 @@
         "description": "Tag \"building=bungalow\". See https://wiki.openstreetmap.org/wiki/Tag:building=bungalow"
     },
     "tag:building=bunker": {
-        "message": "",
+        "message": "Бункер",
         "description": "Tag \"building=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:building=bunker"
     },
     "tag:building=cabin": {
@@ -645,19 +645,19 @@
         "description": "Tag \"building=carport\". See https://wiki.openstreetmap.org/wiki/Tag:building=carport"
     },
     "tag:building=cathedral": {
-        "message": "",
+        "message": "Собор",
         "description": "Tag \"building=cathedral\". See https://wiki.openstreetmap.org/wiki/Tag:building=cathedral"
     },
     "tag:building=chapel": {
-        "message": "",
+        "message": "Каплиця",
         "description": "Tag \"building=chapel\". See https://wiki.openstreetmap.org/wiki/Tag:building=chapel"
     },
     "tag:building=church": {
-        "message": "",
+        "message": "Церква",
         "description": "Tag \"building=church\". See https://wiki.openstreetmap.org/wiki/Tag:building=church"
     },
     "tag:building=church religion=christian": {
-        "message": "",
+        "message": "Церква",
         "description": "Combined tag \"building=church\" and \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:building=church and https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
     },
     "tag:building=civic": {
@@ -6086,5 +6086,14 @@
     },
     "tag:barrier=kerb": {
         "message": "Бордюр"
+    },
+    "tag:bicycle_road": {
+        "message": "Велосипедна дорога"
+    },
+    "tag:building:start_date": {
+        "message": "Дата завершення будівництва"
+    },
+    "tag:building=agriculture": {
+        "message": "Сільськогосподарська будівля"
     }
 }
