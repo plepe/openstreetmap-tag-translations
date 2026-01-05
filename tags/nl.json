@@ -569,7 +569,7 @@
         "description": "Tag \"bath:type=hammam\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hammam"
     },
     "tag:bath:type=hot_spring": {
-        "message": "",
+        "message": "Warmwaterbron",
         "description": "Tag \"bath:type=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hot_spring"
     },
     "tag:bath:type=lake": {
@@ -777,7 +777,7 @@
         "description": "Tag \"building=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:building=kindergarten"
     },
     "tag:building=kiosk": {
-        "message": "",
+        "message": "Kiosk",
         "description": "Tag \"building=kiosk\". See https://wiki.openstreetmap.org/wiki/Tag:building=kiosk"
     },
     "tag:building=kitchen": {
@@ -813,7 +813,7 @@
         "description": "Tag \"building=parking\". See https://wiki.openstreetmap.org/wiki/Tag:building=parking"
     },
     "tag:building=pavilion": {
-        "message": "",
+        "message": "Sportpaviljoen",
         "description": "Tag \"building=pavilion\". See https://wiki.openstreetmap.org/wiki/Tag:building=pavilion"
     },
     "tag:building=public": {
@@ -821,7 +821,7 @@
         "description": "Tag \"building=public\". See https://wiki.openstreetmap.org/wiki/Tag:building=public"
     },
     "tag:building=religious": {
-        "message": "",
+        "message": "Religieus gebouw",
         "description": "Tag \"building=religious\". See https://wiki.openstreetmap.org/wiki/Tag:building=religious"
     },
     "tag:building=residential": {
@@ -837,15 +837,15 @@
         "description": "Tag \"building=riding_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=riding_hall"
     },
     "tag:building=roof": {
-        "message": "",
+        "message": "Dak",
         "description": "Tag \"building=roof\". See https://wiki.openstreetmap.org/wiki/Tag:building=roof"
     },
     "tag:building=ruins": {
-        "message": "",
+        "message": "Ruïne",
         "description": "Tag \"building=ruins\". See https://wiki.openstreetmap.org/wiki/Tag:building=ruins"
     },
     "tag:building=school": {
-        "message": "",
+        "message": "School",
         "description": "Tag \"building=school\". See https://wiki.openstreetmap.org/wiki/Tag:building=school"
     },
     "tag:building=semidetached_house": {
@@ -857,7 +857,7 @@
         "description": "Tag \"building=service\". See https://wiki.openstreetmap.org/wiki/Tag:building=service"
     },
     "tag:building=shed": {
-        "message": "",
+        "message": "Schuur",
         "description": "Tag \"building=shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=shed"
     },
     "tag:building=shop": {
@@ -6028,5 +6028,65 @@
     "tag:xmas:feature=tree": {
         "message": "Kerstboom",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:access=agricultural": {
+        "message": "alleen landbouwverkeer"
+    },
+    "tag:access=customers": {
+        "message": "alleen voor klanten"
+    },
+    "tag:access=delivery": {
+        "message": "alleen voor bezorgdiensten"
+    },
+    "tag:access=destination": {
+        "message": "alleen bestemmingsverkeer"
+    },
+    "tag:access=discouraged": {
+        "message": "afgeraden"
+    },
+    "tag:access=dismount": {
+        "message": "alleen als afgestapt"
+    },
+    "tag:access=forestry": {
+        "message": "alleen bosbouwverkeer"
+    },
+    "tag:access=no": {
+        "message": "geen openbare toegang"
+    },
+    "tag:access=unknown": {
+        "message": "onbekend"
+    },
+    "tag:access=yes": {
+        "message": "openbaar toegankelijk"
+    },
+    "tag:aeroway=aerodrome": {
+        "message": "Vliegveld"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "Helikopterhaven"
+    },
+    "tag:aeroway=heliport": {
+        "message": "Helikopterhaven"
+    },
+    "tag:amenity=bicycle_repair_station": {
+        "message": "Fietsreparatiestation"
+    },
+    "tag:amenity=canteen": {
+        "message": "Kantine"
+    },
+    "tag:amenity=childcare": {
+        "message": "Kinderopvang"
+    },
+    "tag:amenity=parcel_locker": {
+        "message": "Pakketpunt"
+    },
+    "tag:amenity=scale": {
+        "message": "Weegschaal"
+    },
+    "tag:barrier=kerb": {
+        "message": "Stoeprand"
+    },
+    "tag:bicycle_road": {
+        "message": "Fietspad"
     }
 }
