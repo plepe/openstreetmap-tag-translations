@@ -3918,7 +3918,7 @@
         "message": "குறிச்சொல்: கைவினை = கார்_பைன்டர்"
     },
     "tag:craft=car_repair": {
-        "message": "குறிச்சொல்: கைவினை = CAR_REPAIR"
+        "message": "குறிச்சொல்: கைவினை = car_repair"
     },
     "tag:craft=carpenter": {
         "message": "குறிச்சொல்: கைவினை = தச்சு"
@@ -5338,5 +5338,20 @@
     },
     "tag:amenity=bureau_de_change": {
         "message": "குறிச்சொல்: வசதி = பணியகம்_டி_சேஞ்ச்"
+    },
+    "tag:network:type=node_network": {
+        "message": "முனை பிணையம்"
+    },
+    "tag:network:type=node_network node": {
+        "message": "கணு"
+    },
+    "tag:parcel_mail_in": {
+        "message": "பார்சல் கைவிடப்பட்டது"
+    },
+    "tag:parcel_mail_in=returns_only": {
+        "message": "வருமானத்திற்காக மட்டுமே"
+    },
+    "tag:parcel_pickup": {
+        "message": "பார்சல் எடுப்பது"
     }
 }
