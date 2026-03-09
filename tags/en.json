@@ -2429,6 +2429,10 @@
         "message": "",
         "description": "Key \"diet:alcohol_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:alcohol_free"
     },
+    "tag:diet:carnivore": {
+        "message": "",
+        "description": "Key \"diet:carnivore\". See https://wiki.openstreetmap.org/wiki/Key:diet:carnivore"
+    },
     "tag:diet:dairy_free": {
         "message": "dairy free",
         "description": "Key \"diet:dairy_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:dairy_free"
@@ -2448,6 +2452,10 @@
     "tag:diet:halal": {
         "message": "halal",
         "description": "Key \"diet:halal\". See https://wiki.openstreetmap.org/wiki/Key:diet:halal"
+    },
+    "tag:diet:healthy": {
+        "message": "",
+        "description": "Key \"diet:healthy\". See https://wiki.openstreetmap.org/wiki/Key:diet:healthy"
     },
     "tag:diet:keto": {
         "message": "",
@@ -2473,6 +2481,14 @@
         "message": "",
         "description": null
     },
+    "tag:diet:omnivore": {
+        "message": "",
+        "description": "Key \"diet:omnivore\". See https://wiki.openstreetmap.org/wiki/Key:diet:omnivore"
+    },
+    "tag:diet:organic": {
+        "message": "",
+        "description": "Key \"diet:organic\". See https://wiki.openstreetmap.org/wiki/Key:diet:organic"
+    },
     "tag:diet:ovo_vegetarian": {
         "message": "ovo vegetarian",
         "description": "Key \"diet:ovo_vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:ovo_vegetarian"
@@ -2480,6 +2496,10 @@
     "tag:diet:pescetarian": {
         "message": "pescetarian",
         "description": "Key \"diet:pescetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:pescetarian"
+    },
+    "tag:diet:plant-based": {
+        "message": "",
+        "description": null
     },
     "tag:diet:raw": {
         "message": "uncooked / unprocessed",
@@ -2496,6 +2516,10 @@
     "tag:diet:vegetarian": {
         "message": "vegetarian",
         "description": "Key \"diet:vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegetarian"
+    },
+    "tag:diet:wholegrain": {
+        "message": "",
+        "description": "Key \"diet:wholegrain\". See https://wiki.openstreetmap.org/wiki/Key:diet:wholegrain"
     },
     "tag:direction": {
         "message": "Direction",
