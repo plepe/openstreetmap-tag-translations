@@ -6898,5 +6898,20 @@
     },
     "tag:admin_level=7.5": {
         "message": "Katastr"
+    },
+    "tag:amenity=nightclub": {
+        "message": "Noční klub"
+    },
+    "tag:denotation=natural_monument": {
+        "message": "Přírodní památka"
+    },
+    "tag:denotation=landmark": {
+        "message": "Orientační bod"
+    },
+    "tag:denotation=windbreak": {
+        "message": "větrolam"
+    },
+    "tag:diet:alcohol_free": {
+        "message": "bez alkoholu"
     }
 }
