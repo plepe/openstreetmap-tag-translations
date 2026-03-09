@@ -404,6 +404,10 @@
         "message": "",
         "description": "Tag \"amenity=motorcycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=motorcycle_parking"
     },
+    "tag:amenity=nightclub": {
+        "message": "Nightclub",
+        "description": "Tag \"amenity=nightclub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nightclub"
+    },
     "tag:amenity=nursing_home": {
         "message": "Nursing Home",
         "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
