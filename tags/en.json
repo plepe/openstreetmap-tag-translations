@@ -2425,9 +2425,17 @@
         "message": "Dietary options",
         "description": "Key \"diet\". See https://wiki.openstreetmap.org/wiki/Key:diet"
     },
+    "tag:diet:alcohol_free": {
+        "message": "",
+        "description": "Key \"diet:alcohol_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:alcohol_free"
+    },
     "tag:diet:dairy_free": {
         "message": "dairy free",
         "description": "Key \"diet:dairy_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:dairy_free"
+    },
+    "tag:diet:excipient_free": {
+        "message": "",
+        "description": "Key \"diet:excipient_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:excipient_free"
     },
     "tag:diet:fruitarian": {
         "message": "fruitarian",
@@ -2441,6 +2449,10 @@
         "message": "halal",
         "description": "Key \"diet:halal\". See https://wiki.openstreetmap.org/wiki/Key:diet:halal"
     },
+    "tag:diet:keto": {
+        "message": "",
+        "description": "Key \"diet:keto\". See https://wiki.openstreetmap.org/wiki/Key:diet:keto"
+    },
     "tag:diet:kosher": {
         "message": "kosher",
         "description": "Key \"diet:kosher\". See https://wiki.openstreetmap.org/wiki/Key:diet:kosher"
@@ -2453,6 +2465,14 @@
         "message": "lactose free",
         "description": "Key \"diet:lactose_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:lactose_free"
     },
+    "tag:diet:meat": {
+        "message": "",
+        "description": "Key \"diet:meat\". See https://wiki.openstreetmap.org/wiki/Key:diet:meat"
+    },
+    "tag:diet:non-vegetarian": {
+        "message": "",
+        "description": null
+    },
     "tag:diet:ovo_vegetarian": {
         "message": "ovo vegetarian",
         "description": "Key \"diet:ovo_vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:ovo_vegetarian"
@@ -2464,6 +2484,10 @@
     "tag:diet:raw": {
         "message": "uncooked / unprocessed",
         "description": "Key \"diet:raw\". See https://wiki.openstreetmap.org/wiki/Key:diet:raw"
+    },
+    "tag:diet:sugar_free": {
+        "message": "",
+        "description": "Key \"diet:sugar_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:sugar_free"
     },
     "tag:diet:vegan": {
         "message": "vegan",
