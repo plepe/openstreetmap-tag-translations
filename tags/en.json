@@ -2453,10 +2453,6 @@
         "message": "halal",
         "description": "Key \"diet:halal\". See https://wiki.openstreetmap.org/wiki/Key:diet:halal"
     },
-    "tag:diet:healthy": {
-        "message": "",
-        "description": "Key \"diet:healthy\". See https://wiki.openstreetmap.org/wiki/Key:diet:healthy"
-    },
     "tag:diet:keto": {
         "message": "",
         "description": "Key \"diet:keto\". See https://wiki.openstreetmap.org/wiki/Key:diet:keto"
@@ -2481,10 +2477,6 @@
         "message": "",
         "description": null
     },
-    "tag:diet:omnivore": {
-        "message": "",
-        "description": "Key \"diet:omnivore\". See https://wiki.openstreetmap.org/wiki/Key:diet:omnivore"
-    },
     "tag:diet:organic": {
         "message": "",
         "description": "Key \"diet:organic\". See https://wiki.openstreetmap.org/wiki/Key:diet:organic"
@@ -2496,10 +2488,6 @@
     "tag:diet:pescetarian": {
         "message": "pescetarian",
         "description": "Key \"diet:pescetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:pescetarian"
-    },
-    "tag:diet:plant-based": {
-        "message": "",
-        "description": null
     },
     "tag:diet:raw": {
         "message": "uncooked / unprocessed",
