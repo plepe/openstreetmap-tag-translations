@@ -737,15 +737,15 @@
         "description": "Tag \"building=greenhouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=greenhouse"
     },
     "tag:building=hangar": {
-        "message": "",
+        "message": "Ангар",
         "description": "Tag \"building=hangar\". See https://wiki.openstreetmap.org/wiki/Tag:building=hangar"
     },
     "tag:building=hospital": {
-        "message": "",
+        "message": "Лікарня",
         "description": "Tag \"building=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:building=hospital"
     },
     "tag:building=hotel": {
-        "message": "",
+        "message": "Готель",
         "description": "Tag \"building=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:building=hotel"
     },
     "tag:building=house": {
@@ -757,7 +757,7 @@
         "description": "Tag \"building=houseboat\". See https://wiki.openstreetmap.org/wiki/Tag:building=houseboat"
     },
     "tag:building=hut": {
-        "message": "",
+        "message": "Хатина",
         "description": "Tag \"building=hut\". See https://wiki.openstreetmap.org/wiki/Tag:building=hut"
     },
     "tag:building=industrial": {
@@ -769,7 +769,7 @@
         "description": "Tag \"building=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:building=kindergarten"
     },
     "tag:building=kiosk": {
-        "message": "",
+        "message": "Кіоск",
         "description": "Tag \"building=kiosk\". See https://wiki.openstreetmap.org/wiki/Tag:building=kiosk"
     },
     "tag:building=kitchen": {
@@ -781,7 +781,7 @@
         "description": "Tag \"building=mall\". See https://wiki.openstreetmap.org/wiki/Tag:building=mall"
     },
     "tag:building=military": {
-        "message": "",
+        "message": "Військові",
         "description": "Tag \"building=military\". See https://wiki.openstreetmap.org/wiki/Tag:building=military"
     },
     "tag:building=monastery": {
@@ -789,11 +789,11 @@
         "description": "Tag \"building=monastery\". See https://wiki.openstreetmap.org/wiki/Tag:building=monastery"
     },
     "tag:building=mosque": {
-        "message": "",
+        "message": "Мечеть",
         "description": "Tag \"building=mosque\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque"
     },
     "tag:building=mosque religion=muslim": {
-        "message": "",
+        "message": "Мечеть",
         "description": "Combined tag \"building=mosque\" and \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque and https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
     },
     "tag:building=office": {
@@ -805,7 +805,7 @@
         "description": "Tag \"building=parking\". See https://wiki.openstreetmap.org/wiki/Tag:building=parking"
     },
     "tag:building=pavilion": {
-        "message": "",
+        "message": "Спортивний павільйон",
         "description": "Tag \"building=pavilion\". See https://wiki.openstreetmap.org/wiki/Tag:building=pavilion"
     },
     "tag:building=public": {
@@ -813,7 +813,7 @@
         "description": "Tag \"building=public\". See https://wiki.openstreetmap.org/wiki/Tag:building=public"
     },
     "tag:building=religious": {
-        "message": "",
+        "message": "Релігійна будівля",
         "description": "Tag \"building=religious\". See https://wiki.openstreetmap.org/wiki/Tag:building=religious"
     },
     "tag:building=residential": {
@@ -825,11 +825,11 @@
         "description": "Tag \"building=retail\". See https://wiki.openstreetmap.org/wiki/Tag:building=retail"
     },
     "tag:building=riding_hall": {
-        "message": "",
+        "message": "Верхова їзда",
         "description": "Tag \"building=riding_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=riding_hall"
     },
     "tag:building=roof": {
-        "message": "",
+        "message": "Дах",
         "description": "Tag \"building=roof\". See https://wiki.openstreetmap.org/wiki/Tag:building=roof"
     },
     "tag:building=ruins": {
@@ -849,7 +849,7 @@
         "description": "Tag \"building=service\". See https://wiki.openstreetmap.org/wiki/Tag:building=service"
     },
     "tag:building=shed": {
-        "message": "",
+        "message": "Сарай",
         "description": "Tag \"building=shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=shed"
     },
     "tag:building=shop": {
@@ -857,7 +857,7 @@
         "description": "Tag \"building=shop\". See https://wiki.openstreetmap.org/wiki/Tag:building=shop"
     },
     "tag:building=shrine": {
-        "message": "",
+        "message": "Святиня",
         "description": "Tag \"building=shrine\". See https://wiki.openstreetmap.org/wiki/Tag:building=shrine"
     },
     "tag:building=silo": {
@@ -873,7 +873,7 @@
         "description": "Tag \"building=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=sports_hall"
     },
     "tag:building=stable": {
-        "message": "",
+        "message": "Стабільний",
         "description": "Tag \"building=stable\". See https://wiki.openstreetmap.org/wiki/Tag:building=stable"
     },
     "tag:building=stadium": {
@@ -897,19 +897,19 @@
         "description": "Tag \"building=supermarket\". See https://wiki.openstreetmap.org/wiki/Tag:building=supermarket"
     },
     "tag:building=synagogue": {
-        "message": "",
+        "message": "Синагога",
         "description": "Tag \"building=synagogue\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue"
     },
     "tag:building=synagogue religion=jewish": {
-        "message": "",
+        "message": "Синагога",
         "description": "Combined tag \"building=synagogue\" and \"religion=jewish\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue and https://wiki.openstreetmap.org/wiki/Tag:religion=jewish"
     },
     "tag:building=temple": {
-        "message": "",
+        "message": "Храм",
         "description": "Tag \"building=temple\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple"
     },
     "tag:building=temple religion=sikh": {
-        "message": "",
+        "message": "Сикхський храм",
         "description": "Combined tag \"building=temple\" and \"religion=sikh\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple and https://wiki.openstreetmap.org/wiki/Tag:religion=sikh"
     },
     "tag:building=terrace": {
@@ -957,7 +957,7 @@
         "description": "Key \"capacity\". See https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:charge": {
-        "message": "",
+        "message": "Заряд",
         "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
     },
     "tag:clothes": {
@@ -2966,7 +2966,7 @@
         "description": "Key \"kids_area\". See https://wiki.openstreetmap.org/wiki/Key:kids_area"
     },
     "tag:landuse": {
-        "message": "Територія",
+        "message": "Землекористування",
         "description": "Key \"landuse\". See https://wiki.openstreetmap.org/wiki/Key:landuse"
     },
     "tag:landuse=allotments": {
@@ -6095,5 +6095,44 @@
     },
     "tag:building=agriculture": {
         "message": "Сільськогосподарська будівля"
+    },
+    "tag:amenity=nightclub": {
+        "message": "Нічний клуб"
+    },
+    "tag:changing_table": {
+        "message": "Пеленальний столик"
+    },
+    "tag:climbing": {
+        "message": "Скелелазіння"
+    },
+    "tag:climbing:bolted": {
+        "message": "Болтове кріплення"
+    },
+    "tag:climbing:boulder": {
+        "message": "Боулдеринг"
+    },
+    "tag:climbing:grade:french": {
+        "message": "Ступінь скелелазіння (французька)"
+    },
+    "tag:climbing:grade:polish": {
+        "message": "Ступінь скелелазіння (польський)"
+    },
+    "tag:climbing:grade:saxon": {
+        "message": "Ступінь скелелазіння (Саксон)"
+    },
+    "tag:climbing:grade:uiaa": {
+        "message": "Ступінь скелелазіння (UIAA)"
+    },
+    "tag:climbing:ice": {
+        "message": "Льодолазіння"
+    },
+    "tag:climbing:length": {
+        "message": "Довжина підйому"
+    },
+    "tag:climbing:mixed": {
+        "message": "Змішане скелелазіння"
+    },
+    "tag:climbing:multipitch": {
+        "message": "Багатоступеневі маршрути для скелелазіння"
     }
 }
