@@ -961,7 +961,7 @@
         "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
     },
     "tag:clothes": {
-        "message": "",
+        "message": "Одяг",
         "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=accessories": {
@@ -6134,5 +6134,44 @@
     },
     "tag:climbing:multipitch": {
         "message": "Багатоступеневі маршрути для скелелазіння"
+    },
+    "tag:climbing:orientation": {
+        "message": "Орієнтація в скелелазінні"
+    },
+    "tag:climbing:quality": {
+        "message": "Якість скелелазіння"
+    },
+    "tag:climbing:rock": {
+        "message": "Скелелазіння"
+    },
+    "tag:climbing:routes": {
+        "message": "Кількість альпіністських маршрутів"
+    },
+    "tag:climbing:speed": {
+        "message": "Швидкісне скелелазіння"
+    },
+    "tag:climbing:sport": {
+        "message": "Спортивне скелелазіння"
+    },
+    "tag:climbing:toprope": {
+        "message": "Лазіння по канату"
+    },
+    "tag:climbing:trad": {
+        "message": "Традиційне скелелазіння"
+    },
+    "tag:climbing=boulder": {
+        "message": "Боулдеринг"
+    },
+    "tag:climbing=crag": {
+        "message": "Скеля"
+    },
+    "tag:climbing=route": {
+        "message": "Маршрут"
+    },
+    "tag:climbing=route_bottom": {
+        "message": "Нижня частина маршруту сходження"
+    },
+    "tag:climbing=route_top": {
+        "message": "Вершина маршруту сходження"
     }
 }
