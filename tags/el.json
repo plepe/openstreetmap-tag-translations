@@ -6,7 +6,7 @@
         "message": "ναι"
     },
     "tag:abandoned": {
-        "message": "",
+        "message": "Εγκαταλελειμμένο",
         "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
     },
     "tag:abutters": {
@@ -18,10 +18,10 @@
         "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
     },
     "tag:access!=private": {
-        "message": ""
+        "message": "όχι ιδιωτική"
     },
     "tag:access=private": {
-        "message": "",
+        "message": "ιδιωτική",
         "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
     },
     "tag:accomodation": {
@@ -30,27 +30,22 @@
     },
     "tag:addr:city": {
         "message": "Πόλη",
-        "!=1": "Πόλεις",
         "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
     },
     "tag:addr:country": {
         "message": "Χώρα",
-        "!=1": "Χώρες",
         "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
     },
     "tag:addr:full": {
         "message": "Πλήρης διεύθυνση",
-        "!=1": "Πλήρεις διευθύνσεις",
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
         "message": "Όνομα σπιτιού",
-        "!=1": "Ονόματα σπιτιών",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
         "message": "Αριθμός σπιτιού",
-        "!=1": "Αριθμοί σπιτιών",
         "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
     },
     "tag:addr:interpolation": {
@@ -59,12 +54,10 @@
     },
     "tag:addr:postcode": {
         "message": "Ταχ. Κώδικας",
-        "!=1": "Ταχ. Κώδικες",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
         "message": "Οδός",
-        "!=1": "Οδοί",
         "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
     },
     "tag:address": {
@@ -137,7 +130,6 @@
     },
     "tag:alt_name": {
         "message": "Εναλλακτικό όνομα",
-        "!=1": "Εναλλακτικά ονόματα",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
@@ -149,7 +141,7 @@
         "description": "Tag \"amenity=arts_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=arts_centre"
     },
     "tag:amenity=atm": {
-        "message": "",
+        "message": "ΑΤΜ  Αυτοματοποιημένο Ταμειακό Μηχάνημα",
         "description": "Tag \"amenity=atm\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=atm"
     },
     "tag:amenity=baby_hatch": {
@@ -157,35 +149,35 @@
         "description": "Tag \"amenity=baby_hatch\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=baby_hatch"
     },
     "tag:amenity=bank": {
-        "message": "",
+        "message": "Τράπεζα",
         "description": "Tag \"amenity=bank\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bank"
     },
     "tag:amenity=bar": {
-        "message": "",
+        "message": "Μπαρ",
         "description": "Tag \"amenity=bar\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bar"
     },
     "tag:amenity=bench": {
-        "message": "",
+        "message": "Παγκάκι",
         "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
     },
     "tag:amenity=bicycle_parking": {
-        "message": "",
+        "message": "Στάθμευση ποδηλάτων",
         "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
     },
     "tag:amenity=bicycle_parking capacity<=20": {
-        "message": "",
+        "message": "Στάθμευση ποδηλάτων (μέχρι 20 θέσεις)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>20<=60": {
-        "message": "",
+        "message": "Στάθμευση ποδηλάτων (20-60 θέσεις)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>60": {
-        "message": "",
+        "message": "Στάθμευση ποδηλάτων (>60 θέσεις)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_rental": {
-        "message": "",
+        "message": "Ενοικίαση ποδηλάτου",
         "description": "Tag \"amenity=bicycle_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_rental"
     },
     "tag:amenity=biergarten": {
@@ -201,15 +193,15 @@
         "description": "Tag \"amenity=bureau_de_change\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bureau_de_change"
     },
     "tag:amenity=bus_station": {
-        "message": "",
+        "message": "Σταθμός λεωφορείων",
         "description": "Tag \"amenity=bus_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bus_station"
     },
     "tag:amenity=cafe": {
-        "message": "",
+        "message": "Καφετέρια",
         "description": "Tag \"amenity=cafe\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cafe"
     },
     "tag:amenity=car_rental": {
-        "message": "",
+        "message": "Ενοικίαση αυτοκινήτου",
         "description": "Tag \"amenity=car_rental\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_rental"
     },
     "tag:amenity=car_sharing": {
@@ -217,15 +209,14 @@
         "description": "Tag \"amenity=car_sharing\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_sharing"
     },
     "tag:amenity=car_wash": {
-        "message": "",
+        "message": "Πλυντήριο αυτοκινήτου",
         "description": "Tag \"amenity=car_wash\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_wash"
     },
     "tag:amenity=charging_station": {
-        "message": "",
+        "message": "Σταθμός φόρτισης",
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
     "tag:amenity=cinema": {
-        "!=1": "Κινηματογράφοι",
         "message": "Κινηματογράφος",
         "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
     },
@@ -234,11 +225,11 @@
         "description": "Tag \"amenity=clinic\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clinic"
     },
     "tag:amenity=clock": {
-        "message": "",
+        "message": "Ρολόι",
         "description": "Tag \"amenity=clock\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=clock"
     },
     "tag:amenity=college": {
-        "message": "",
+        "message": "Κολλέγιο",
         "description": "Tag \"amenity=college\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=college"
     },
     "tag:amenity=community_centre": {
@@ -270,7 +261,7 @@
         "description": "Tag \"amenity=drinking_water\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=drinking_water"
     },
     "tag:amenity=embassy": {
-        "message": "",
+        "message": "Πρεσβεία",
         "description": "Tag \"amenity=embassy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=embassy"
     },
     "tag:amenity=fast_food": {
@@ -282,7 +273,7 @@
         "description": "Tag \"amenity=ferry_terminal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ferry_terminal"
     },
     "tag:amenity=fire_station": {
-        "message": "",
+        "message": "Πυροσβεστικός σταθμός",
         "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
     },
     "tag:amenity=food_court": {
@@ -290,11 +281,11 @@
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
-        "message": "",
+        "message": "Συντριβάνι",
         "description": "Tag \"amenity=fountain\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fountain"
     },
     "tag:amenity=fuel": {
-        "message": "",
+        "message": "Βενζινάδικο",
         "description": "Tag \"amenity=fuel\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fuel"
     },
     "tag:amenity=government": {
@@ -310,7 +301,7 @@
         "description": "Tag \"amenity=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=hospital"
     },
     "tag:amenity=ice_cream": {
-        "message": "",
+        "message": "Παγωτατζίδικο",
         "description": "Tag \"amenity=ice_cream\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ice_cream"
     },
     "tag:amenity=internet_cafe": {
@@ -326,7 +317,7 @@
         "description": "Tag \"amenity=language_school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=language_school"
     },
     "tag:amenity=library": {
-        "message": "",
+        "message": "Βιβλιοθήκη",
         "description": "Tag \"amenity=library\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=library"
     },
     "tag:amenity=marketplace": {
@@ -342,11 +333,11 @@
         "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
     },
     "tag:amenity=parking": {
-        "message": "",
+        "message": "Στάθμευση",
         "description": "Tag \"amenity=parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=parking"
     },
     "tag:amenity=pharmacy": {
-        "message": "",
+        "message": "Φαρμακείο",
         "description": "Tag \"amenity=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pharmacy"
     },
     "tag:amenity=place_of_worship": {
@@ -354,7 +345,7 @@
         "description": "Tag \"amenity=place_of_worship\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship"
     },
     "tag:amenity=police": {
-        "message": "",
+        "message": "Αστυνομία",
         "description": "Tag \"amenity=police\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=police"
     },
     "tag:amenity=post_box": {
@@ -362,15 +353,15 @@
         "description": "Tag \"amenity=post_box\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_box"
     },
     "tag:amenity=post_office": {
-        "message": "",
+        "message": "Ταχυδρομείο",
         "description": "Tag \"amenity=post_office\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=post_office"
     },
     "tag:amenity=pub": {
-        "message": "",
+        "message": "Παμπ",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
-        "message": "",
+        "message": "Δημόσια λουτρά",
         "description": "Tag \"amenity=public_bath\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bath"
     },
     "tag:amenity=public_bookcase": {
@@ -382,7 +373,7 @@
         "description": "Tag \"amenity=public_building\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_building"
     },
     "tag:amenity=recycling": {
-        "message": "",
+        "message": "Ανακύκλωση",
         "description": "Tag \"amenity=recycling\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=recycling"
     },
     "tag:amenity=recycling recycling_type=centre": {
@@ -395,11 +386,10 @@
     },
     "tag:amenity=restaurant": {
         "message": "Εστιατόριο",
-        "!=1": "Εστιατόρια",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
-        "message": "",
+        "message": "Σχολείο",
         "description": "Tag \"amenity=school\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=school"
     },
     "tag:amenity=shelter": {
@@ -427,11 +417,11 @@
         "description": "Tag \"amenity=taxi\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=taxi"
     },
     "tag:amenity=telephone": {
-        "message": "",
+        "message": "Τηλέφωνο",
         "description": "Tag \"amenity=telephone\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=telephone"
     },
     "tag:amenity=theatre": {
-        "message": "",
+        "message": "Θέατρο",
         "description": "Tag \"amenity=theatre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=theatre"
     },
     "tag:amenity=ticket_counter": {
@@ -544,7 +534,6 @@
     },
     "tag:barrier": {
         "message": "Μπάρα",
-        "!=1": "Μπάρες",
         "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
     },
     "tag:barrier=city_wall": {
@@ -553,7 +542,6 @@
     },
     "tag:barrier=fence": {
         "message": "Φράχτης",
-        "!=1": "Φράχτες",
         "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
     },
     "tag:barrier=hedge": {
@@ -566,7 +554,6 @@
     },
     "tag:barrier=wall": {
         "message": "Τοίχος",
-        "!=1": "Τοίχοι",
         "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
     },
     "tag:bath:open_air": {
@@ -2520,7 +2507,6 @@
     },
     "tag:highway": {
         "message": "Οδική αρτηρία",
-        "!=1": "Οδικές αρτηρίες",
         "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
     },
     "tag:highway=bridleway": {
@@ -2933,7 +2919,6 @@
     },
     "tag:int_name": {
         "message": "Διεθνές όνομα",
-        "!=1": "Διεθνή ονόματα",
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
     "tag:intermittent": {
@@ -3197,7 +3182,7 @@
         "description": "Tag \"leisure=pitch\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=pitch"
     },
     "tag:leisure=playground": {
-        "message": "",
+        "message": "Παιδική χαρά",
         "description": "Tag \"leisure=playground\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=playground"
     },
     "tag:leisure=sauna": {
@@ -3221,11 +3206,11 @@
         "description": "Tag \"leisure=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=stadium"
     },
     "tag:leisure=summer_camp": {
-        "message": "",
+        "message": "Θερινή κατασκήνωση",
         "description": "Tag \"leisure=summer_camp\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=summer_camp"
     },
     "tag:leisure=swimming_area": {
-        "message": "",
+        "message": "Περιοχή κολύμβησης",
         "description": "Tag \"leisure=swimming_area\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=swimming_area"
     },
     "tag:leisure=swimming_pool": {
@@ -3250,7 +3235,6 @@
     },
     "tag:loc_name": {
         "message": "Τοπικό όνομα",
-        "!=1": "Τοπικά ονόματα",
         "description": "Key \"loc_name\". See https://wiki.openstreetmap.org/wiki/Key:loc_name"
     },
     "tag:man_made": {
@@ -3263,7 +3247,6 @@
     },
     "tag:man_made=pipeline": {
         "message": "Αγωγός",
-        "!=1": "Αγωγοί",
         "description": "Tag \"man_made=pipeline\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=pipeline"
     },
     "tag:man_made=wastewater_plant": {
@@ -3271,7 +3254,7 @@
         "description": "Tag \"man_made=wastewater_plant\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=wastewater_plant"
     },
     "tag:material": {
-        "message": "",
+        "message": "Υλικό",
         "description": "Key \"material\". See https://wiki.openstreetmap.org/wiki/Key:material"
     },
     "tag:material=adobe": {
@@ -3664,7 +3647,6 @@
     },
     "tag:name": {
         "message": "Όνομα",
-        "!=1": "Ονόματα",
         "description": "Key \"name\". See https://wiki.openstreetmap.org/wiki/Key:name"
     },
     "tag:name:etymology": {
@@ -4101,7 +4083,6 @@
     },
     "tag:official_name": {
         "message": "Επίσημο όνομα",
-        "!=1": "Επίσημα ονόματα",
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
@@ -4222,7 +4203,6 @@
     },
     "tag:place=city": {
         "message": "Πόλη",
-        "!=1": "Πόλεις",
         "description": "Tag \"place=city\". See https://wiki.openstreetmap.org/wiki/Tag:place=city"
     },
     "tag:place=city population<200000": {
@@ -4239,7 +4219,6 @@
     },
     "tag:place=county": {
         "message": "Επαρχία",
-        "!=1": "Επαρχίες",
         "description": "Tag \"place=county\". See https://wiki.openstreetmap.org/wiki/Tag:place=county"
     },
     "tag:place=farm": {
@@ -4252,7 +4231,6 @@
     },
     "tag:place=island": {
         "message": "Νησί",
-        "!=1": "Νησιά",
         "description": "Tag \"place=island\". See https://wiki.openstreetmap.org/wiki/Tag:place=island"
     },
     "tag:place=islet": {
@@ -4265,7 +4243,6 @@
     },
     "tag:place=locality": {
         "message": "Τοποθεσία",
-        "!=1": "Τοποθεσίες",
         "description": "Tag \"place=locality\". See https://wiki.openstreetmap.org/wiki/Tag:place=locality"
     },
     "tag:place=neighbourhood": {
@@ -4510,7 +4487,6 @@
     },
     "tag:railway=platform": {
         "message": "Πλατφόρμα",
-        "!=1": "Πλατφόρμες",
         "description": "Tag \"railway=platform\". See https://wiki.openstreetmap.org/wiki/Tag:railway=platform"
     },
     "tag:railway=preserved": {
@@ -4519,7 +4495,6 @@
     },
     "tag:railway=rail": {
         "message": "Τροχιά Τρένου",
-        "!=1": "Τροχιές Τρένου",
         "description": "Tag \"railway=rail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail"
     },
     "tag:railway=rail service": {
@@ -4588,7 +4563,6 @@
     },
     "tag:railway=tram": {
         "message": "Τροχιά Τραμ",
-        "!=1": "Τροχιές Τραμ",
         "description": "Tag \"railway=tram\". See https://wiki.openstreetmap.org/wiki/Tag:railway=tram"
     },
     "tag:railway=tram;narrow_gauge": {
@@ -5900,7 +5874,7 @@
         "description": "Tag \"water=basin\". See https://wiki.openstreetmap.org/wiki/Tag:water=basin"
     },
     "tag:water=canal": {
-        "message": "",
+        "message": "Κανάλι",
         "description": "Tag \"water=canal\". See https://wiki.openstreetmap.org/wiki/Tag:water=canal"
     },
     "tag:water=fish_pass": {
@@ -5912,7 +5886,7 @@
         "description": "Tag \"water=lagoon\". See https://wiki.openstreetmap.org/wiki/Tag:water=lagoon"
     },
     "tag:water=lake": {
-        "message": "",
+        "message": "Λίμνη",
         "description": "Tag \"water=lake\". See https://wiki.openstreetmap.org/wiki/Tag:water=lake"
     },
     "tag:water=lock": {
@@ -5940,7 +5914,7 @@
         "description": "Tag \"water=reservoir\". See https://wiki.openstreetmap.org/wiki/Tag:water=reservoir"
     },
     "tag:water=river": {
-        "message": "",
+        "message": "Ποτάμι",
         "description": "Tag \"water=river\". See https://wiki.openstreetmap.org/wiki/Tag:water=river"
     },
     "tag:water=stream_pool": {
@@ -5956,7 +5930,7 @@
         "description": "Key \"waterway\". See https://wiki.openstreetmap.org/wiki/Key:waterway"
     },
     "tag:waterway=canal": {
-        "message": "",
+        "message": "Κανάλι",
         "description": "Tag \"waterway=canal\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=canal"
     },
     "tag:waterway=dam": {
@@ -5976,7 +5950,7 @@
         "description": "Tag \"waterway=drain\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=drain"
     },
     "tag:waterway=river": {
-        "message": "",
+        "message": "Ποτάμι",
         "description": "Tag \"waterway=river\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=river"
     },
     "tag:waterway=river width>10": {
@@ -6016,7 +5990,7 @@
         "description": "Key \"width\". See https://wiki.openstreetmap.org/wiki/Key:width"
     },
     "tag:wikipedia": {
-        "message": "",
+        "message": "Βικιπαίδεια",
         "description": "Key \"wikipedia\". See https://wiki.openstreetmap.org/wiki/Key:wikipedia"
     },
     "tag:wires": {
@@ -6050,5 +6024,62 @@
     "tag:xmas:feature=tree": {
         "message": "",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:amenity=canteen": {
+        "message": "Καντίνα"
+    },
+    "tag:amenity=bicycle_repair_station": {
+        "message": "Σταθμός επισκευής ποδηλάτου"
+    },
+    "tag:aeroway=aerodrome": {
+        "message": "Αεροδρόμιο"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "Αεροδιάδρομος"
+    },
+    "tag:aeroway=heliport": {
+        "message": "Ελικοδρόμιο"
+    },
+    "tag:waste=recycling": {
+        "message": "ανακύκλωση"
+    },
+    "tag:waste=trash": {
+        "message": "σκουπίδια"
+    },
+    "tag:amenity=nightclub": {
+        "message": "Νυχτερινό κέντρο"
+    },
+    "tag:access=unknown": {
+        "message": "άγνωστη"
+    },
+    "tag:access=permissive": {
+        "message": "επιτρεπτική"
+    },
+    "tag:access=no": {
+        "message": "χωρίς πρόσβαση στο ευρύ κοινό"
+    },
+    "tag:access=yes": {
+        "message": "δημόσια προσβάσιμο"
+    },
+    "tag:access=agricultural": {
+        "message": "μόνο γεωργική κυκλοφορία"
+    },
+    "tag:access=customers": {
+        "message": "μόνο για πελάτες"
+    },
+    "tag:access=delivery": {
+        "message": "μόνο για διανομή"
+    },
+    "tag:access=destination": {
+        "message": "προορισμού"
+    },
+    "tag:access=discouraged": {
+        "message": "αποφεύγεται"
+    },
+    "tag:access=dismount": {
+        "message": "μόνο όταν δεν καβαλάτε"
+    },
+    "tag:access=forestry": {
+        "message": "μόνο δασική κυκλοφορία"
     }
 }
