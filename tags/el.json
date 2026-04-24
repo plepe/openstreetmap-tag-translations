@@ -4238,7 +4238,7 @@
         "description": "Tag \"place=islet\". See https://wiki.openstreetmap.org/wiki/Tag:place=islet"
     },
     "tag:place=isolated_dwelling": {
-        "message": "",
+        "message": "Απομονωμένη κατοικία",
         "description": "Tag \"place=isolated_dwelling\". See https://wiki.openstreetmap.org/wiki/Tag:place=isolated_dwelling"
     },
     "tag:place=locality": {
