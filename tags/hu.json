@@ -705,7 +705,7 @@
         "description": "Tag \"building=farm_auxiliary\". See https://wiki.openstreetmap.org/wiki/Tag:building=farm_auxiliary"
     },
     "tag:building=flats": {
-        "message": "",
+        "message": "Társasház",
         "description": "Tag \"building=flats\". See https://wiki.openstreetmap.org/wiki/Tag:building=flats"
     },
     "tag:building=garage": {
@@ -721,7 +721,7 @@
         "description": "Tag \"building=garbage_shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=garbage_shed"
     },
     "tag:building=generic": {
-        "message": "",
+        "message": "Általános",
         "description": "Tag \"building=generic\". See https://wiki.openstreetmap.org/wiki/Tag:building=generic"
     },
     "tag:building=ger": {
@@ -1225,7 +1225,7 @@
         "description": "Tag \"craft=confectionery\". See https://wiki.openstreetmap.org/wiki/Tag:craft=confectionery"
     },
     "tag:craft=construction": {
-        "message": "",
+        "message": "Építőipari vállalkozás",
         "description": "Tag \"craft=construction\". See https://wiki.openstreetmap.org/wiki/Tag:craft=construction"
     },
     "tag:craft=dental_technician": {
@@ -1261,7 +1261,7 @@
         "description": "Tag \"craft=floorer\". See https://wiki.openstreetmap.org/wiki/Tag:craft=floorer"
     },
     "tag:craft=furniture": {
-        "message": "",
+        "message": "Bútorkészítő",
         "description": "Tag \"craft=furniture\". See https://wiki.openstreetmap.org/wiki/Tag:craft=furniture"
     },
     "tag:craft=gardener": {
@@ -6510,5 +6510,11 @@
     },
     "tag:traffic_sign=maxweight": {
         "message": "Súlykorlátozás"
+    },
+    "tag:amenity=nightclub": {
+        "message": "Diszkó"
+    },
+    "tag:conveying=reversible": {
+        "message": "kétirányú"
     }
 }
