@@ -6942,5 +6942,17 @@
     },
     "tag:rack": {
         "message": "Chemin de fer à crémaillère"
+    },
+    "tag:amenity=nightclub": {
+        "message": "Boîte de nuit"
+    },
+    "tag:amenity=scale": {
+        "message": "Pèse-personne"
+    },
+    "tag:climbing:bolted": {
+        "message": "Ancré"
+    },
+    "tag:denotation=garden": {
+        "message": "Jardin"
     }
 }
