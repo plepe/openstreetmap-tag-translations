@@ -6954,5 +6954,38 @@
     },
     "tag:denotation=garden": {
         "message": "Jardin"
+    },
+    "tag:denotation=agricultural": {
+        "message": "Agricultural"
+    },
+    "tag:denotation=art": {
+        "message": "Art"
+    },
+    "tag:denotation=natural_monument": {
+        "message": "Monument naturel"
+    },
+    "tag:denotation=park": {
+        "message": "Parc"
+    },
+    "tag:denotation=urban": {
+        "message": "Urbain"
+    },
+    "tag:denotation=windbreak": {
+        "message": "Coupe-vent"
+    },
+    "tag:diet:alcohol_free": {
+        "message": "Sans alcool"
+    },
+    "tag:diet:carnivore": {
+        "message": "Carnivore"
+    },
+    "tag:diet:excipient_free": {
+        "message": "Sans excipient"
+    },
+    "tag:diet:keto": {
+        "message": "Cétogène"
+    },
+    "tag:diet:meat": {
+        "message": "Viande"
     }
 }
