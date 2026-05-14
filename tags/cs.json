@@ -6917,5 +6917,53 @@
     "tag:contact:phone": {
         "message": "Tel. číslo",
         "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
+    },
+    "tag:contact": {
+        "message": "Kontakt"
+    },
+    "tag:contact:email": {
+        "message": "E-Mail"
+    },
+    "tag:contact:facebook": {
+        "message": "Facebook"
+    },
+    "tag:contact:instagram": {
+        "message": "Instagram"
+    },
+    "tag:contact:linkedin": {
+        "message": "LinkedIn"
+    },
+    "tag:contact:mastodon": {
+        "message": "Mastodon"
+    },
+    "tag:contact:mobile": {
+        "message": "Mobilní telefon"
+    },
+    "tag:contact:ok": {
+        "message": "Odnoklassniki"
+    },
+    "tag:contact:telegram": {
+        "message": "Telegram"
+    },
+    "tag:contact:threads": {
+        "message": "Threads"
+    },
+    "tag:contact:tiktok": {
+        "message": "TikTok"
+    },
+    "tag:contact:twitter": {
+        "message": "X"
+    },
+    "tag:contact:vk": {
+        "message": "VKontakte"
+    },
+    "tag:contact:whatsapp": {
+        "message": "WhatsApp"
+    },
+    "tag:contact:youtube": {
+        "message": "YouTube"
+    },
+    "tag:denotation=park": {
+        "message": "Park"
     }
 }
