@@ -6088,5 +6088,9 @@
     },
     "tag:bicycle_road": {
         "message": "Fietspad"
+    },
+    "tag:contact:phone": {
+        "message": "Telefoonnummer",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
     }
 }

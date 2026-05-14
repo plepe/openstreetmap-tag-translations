@@ -6987,5 +6987,9 @@
     },
     "tag:diet:meat": {
         "message": "Viande"
+    },
+    "tag:contact:phone": {
+        "message": "Numéro de téléphone",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
     }
 }

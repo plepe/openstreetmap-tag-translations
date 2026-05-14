@@ -6516,5 +6516,9 @@
     },
     "tag:conveying=reversible": {
         "message": "kétirányú"
+    },
+    "tag:contact:phone": {
+        "message": "Telefonszám",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
     }
 }

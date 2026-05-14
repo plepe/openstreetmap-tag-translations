@@ -6431,5 +6431,9 @@
     },
     "tag:direction=WNW": {
         "message": "Westnordwest"
+    },
+    "tag:contact:phone": {
+        "message": "Telefonnummer",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
     }
 }

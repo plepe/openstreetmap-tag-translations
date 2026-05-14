@@ -6848,5 +6848,9 @@
     },
     "tag:denotation=agricultural": {
         "message": "Agrícola"
+    },
+    "tag:contact:phone": {
+        "message": "Telefone",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
     }
 }

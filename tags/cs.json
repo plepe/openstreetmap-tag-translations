@@ -6913,5 +6913,9 @@
     },
     "tag:diet:alcohol_free": {
         "message": "bez alkoholu"
+    },
+    "tag:contact:phone": {
+        "message": "Tel. číslo",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
     }
 }

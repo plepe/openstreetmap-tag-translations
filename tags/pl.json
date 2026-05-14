@@ -6585,5 +6585,9 @@
     },
     "tag:highway=elevator": {
         "message": "Winda"
+    },
+    "tag:contact:phone": {
+        "message": "Numer telefonu",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
     }
 }

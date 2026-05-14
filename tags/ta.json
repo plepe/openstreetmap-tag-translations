@@ -5353,5 +5353,8 @@
     },
     "tag:parcel_pickup": {
         "message": "பார்சல் எடுப்பது"
+    },
+    "tag:contact:phone": {
+        "message": "தொலைபேசி எண்"
     }
 }

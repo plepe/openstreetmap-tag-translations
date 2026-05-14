@@ -2891,5 +2891,9 @@
     "tag:xmas:feature=market": {
         "message": "Noel marketi",
         "description": "Tag \"xmas:feature=market\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=market"
+    },
+    "tag:contact:phone": {
+        "message": "Telefon numarası",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
     }
 }

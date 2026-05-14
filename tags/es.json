@@ -6498,5 +6498,9 @@
     },
     "tag:traffic_sign=yield_ahead": {
         "message": "Ceda el paso próximo"
+    },
+    "tag:contact:phone": {
+        "message": "Número de teléfono",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
     }
 }

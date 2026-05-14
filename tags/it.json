@@ -6105,5 +6105,9 @@
     },
     "tag:climbing": {
         "message": "Arrampicata"
+    },
+    "tag:contact:phone": {
+        "message": "Numero telefonico",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
     }
 }

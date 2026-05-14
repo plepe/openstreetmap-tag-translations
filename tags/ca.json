@@ -1455,5 +1455,9 @@
     },
     "tag:area:highway": {
         "message": "Forma de la via"
+    },
+    "tag:contact:phone": {
+        "message": "Número de telèfon",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
     }
 }

@@ -1344,6 +1344,70 @@
         "message": "Construction",
         "description": "Key \"construction\". See https://wiki.openstreetmap.org/wiki/Key:construction"
     },
+    "tag:contact": {
+        "message": "Contact",
+        "description": "Key \"contact\". See https://wiki.openstreetmap.org/wiki/Key:contact"
+    },
+    "tag:contact:email": {
+        "message": "E-Mail",
+        "description": "Key \"contact:email\". See https://wiki.openstreetmap.org/wiki/Key:contact:email"
+    },
+    "tag:contact:facebook": {
+        "message": "Facebook",
+        "description": "Key \"contact:facebook\". See https://wiki.openstreetmap.org/wiki/Key:contact:facebook"
+    },
+    "tag:contact:instagram": {
+        "message": "Instagram",
+        "description": "Key \"contact:instagram\". See https://wiki.openstreetmap.org/wiki/Key:contact:instagram"
+    },
+    "tag:contact:linkedin": {
+        "message": "LinkedIn",
+        "description": "Key \"contact:linkedin\". See https://wiki.openstreetmap.org/wiki/Key:contact:linkedin"
+    },
+    "tag:contact:mastodon": {
+        "message": "Mastodon",
+        "description": "Key \"contact:mastodon\". See https://wiki.openstreetmap.org/wiki/Key:contact:mastodon"
+    },
+    "tag:contact:mobile": {
+        "message": "Mobile phone",
+        "description": "Key \"contact:mobile\". See https://wiki.openstreetmap.org/wiki/Key:contact:mobile"
+    },
+    "tag:contact:ok": {
+        "message": "Odnoklassniki",
+        "description": "Key \"contact:ok\". See https://wiki.openstreetmap.org/wiki/Key:contact:ok"
+    },
+    "tag:contact:phone": {
+        "message": "Phone number",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
+    },
+    "tag:contact:telegram": {
+        "message": "Telegram",
+        "description": "Key \"contact:telegram\". See https://wiki.openstreetmap.org/wiki/Key:contact:telegram"
+    },
+    "tag:contact:threads": {
+        "message": "Threads",
+        "description": "Key \"contact:threads\". See https://wiki.openstreetmap.org/wiki/Key:contact:threads"
+    },
+    "tag:contact:tiktok": {
+        "message": "TikTok",
+        "description": "Key \"contact:tiktok\". See https://wiki.openstreetmap.org/wiki/Key:contact:tiktok"
+    },
+    "tag:contact:twitter": {
+        "message": "X",
+        "description": "Key \"contact:twitter\". See https://wiki.openstreetmap.org/wiki/Key:contact:twitter"
+    },
+    "tag:contact:vk": {
+        "message": "VKontakte",
+        "description": "Key \"contact:vk\". See https://wiki.openstreetmap.org/wiki/Key:contact:vk"
+    },
+    "tag:contact:whatsapp": {
+        "message": "WhatsApp",
+        "description": "Key \"contact:whatsapp\". See https://wiki.openstreetmap.org/wiki/Key:contact:whatsapp"
+    },
+    "tag:contact:youtube": {
+        "message": "YouTube",
+        "description": "Key \"contact:youtube\". See https://wiki.openstreetmap.org/wiki/Key:contact:youtube"
+    },
     "tag:conveying=reversible": {
         "message": "reversible",
         "description": "Tag \"conveying=reversible\". See https://wiki.openstreetmap.org/wiki/Tag:conveying=reversible"

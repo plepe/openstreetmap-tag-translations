@@ -6065,5 +6065,9 @@
     "tag:xmas:feature=tree": {
         "message": "",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:contact:phone": {
+        "message": "Númberu de teléfonu",
+        "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
     }
 }
