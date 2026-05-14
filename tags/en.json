@@ -4985,6 +4985,18 @@
         "message": "Population",
         "description": "Key \"population\". See https://wiki.openstreetmap.org/wiki/Key:population"
     },
+    "tag:post_office=bureau": {
+        "message": "Full post office",
+        "description": "Tag \"post_office=bureau\". See https://wiki.openstreetmap.org/wiki/Tag:post_office=bureau"
+    },
+    "tag:post_office=post_annex": {
+        "message": "Privately operated post office",
+        "description": "Tag \"post_office=post_annex\". See https://wiki.openstreetmap.org/wiki/Tag:post_office=post_annex"
+    },
+    "tag:post_office=post_partner": {
+        "message": "Post partner",
+        "description": "Tag \"post_office=post_partner\". See https://wiki.openstreetmap.org/wiki/Tag:post_office=post_partner"
+    },
     "tag:postal_code": {
         "message": "Postal Code",
         "description": "Key \"postal_code\". See https://wiki.openstreetmap.org/wiki/Key:postal_code"
