@@ -6520,5 +6520,38 @@
     "tag:contact:phone": {
         "message": "Telefonszám",
         "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
+    },
+    "tag:contact": {
+        "message": "Kapcsolat"
+    },
+    "tag:contact:email": {
+        "message": "E-mail"
+    },
+    "tag:contact:facebook": {
+        "message": "Facebook"
+    },
+    "tag:contact:instagram": {
+        "message": "Instagram"
+    },
+    "tag:contact:linkedin": {
+        "message": "LinkedIn"
+    },
+    "tag:contact:mastodon": {
+        "message": "Mastodon"
+    },
+    "tag:contact:mobile": {
+        "message": "Mobiltelefon"
+    },
+    "tag:contact:ok": {
+        "message": "OK (Odnoklassznyiki)"
+    },
+    "tag:contact:telegram": {
+        "message": "Telegram"
+    },
+    "tag:contact:twitter": {
+        "message": "X (Twitter)"
+    },
+    "tag:contact:youtube": {
+        "message": "YouTube"
     }
 }
