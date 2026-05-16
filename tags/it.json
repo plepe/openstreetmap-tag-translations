@@ -5910,11 +5910,11 @@
         "description": "Tag \"water=reflecting_pool\". See https://wiki.openstreetmap.org/wiki/Tag:water=reflecting_pool"
     },
     "tag:water=reservoir": {
-        "message": "",
+        "message": "Riserva",
         "description": "Tag \"water=reservoir\". See https://wiki.openstreetmap.org/wiki/Tag:water=reservoir"
     },
     "tag:water=river": {
-        "message": "",
+        "message": "Fiume",
         "description": "Tag \"water=river\". See https://wiki.openstreetmap.org/wiki/Tag:water=river"
     },
     "tag:water=stream_pool": {
@@ -5922,7 +5922,7 @@
         "description": "Tag \"water=stream_pool\". See https://wiki.openstreetmap.org/wiki/Tag:water=stream_pool"
     },
     "tag:water=wastewater": {
-        "message": "",
+        "message": "Acque reflue",
         "description": "Tag \"water=wastewater\". See https://wiki.openstreetmap.org/wiki/Tag:water=wastewater"
     },
     "tag:waterway": {
@@ -5930,7 +5930,7 @@
         "description": "Key \"waterway\". See https://wiki.openstreetmap.org/wiki/Key:waterway"
     },
     "tag:waterway=canal": {
-        "message": "",
+        "message": "Canale",
         "description": "Tag \"waterway=canal\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=canal"
     },
     "tag:waterway=dam": {
@@ -5938,7 +5938,7 @@
         "description": "Tag \"waterway=dam\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=dam"
     },
     "tag:waterway=ditch": {
-        "message": "",
+        "message": "Fosso",
         "description": "Tag \"waterway=ditch\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=ditch"
     },
     "tag:waterway=divide": {
@@ -5946,19 +5946,19 @@
         "description": "Tag \"waterway=divide\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=divide"
     },
     "tag:waterway=drain": {
-        "message": "",
+        "message": "Scolo",
         "description": "Tag \"waterway=drain\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=drain"
     },
     "tag:waterway=river": {
-        "message": "",
+        "message": "Fiume",
         "description": "Tag \"waterway=river\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=river"
     },
     "tag:waterway=river width>10": {
-        "message": "",
+        "message": "Grande fiume",
         "description": "Combined tag \"waterway=river\" and key \"width\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:waterway=river and https://wiki.openstreetmap.org/wiki/Key:width"
     },
     "tag:waterway=riverbank": {
-        "message": "",
+        "message": "Argine",
         "description": "Tag \"waterway=riverbank\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=riverbank"
     },
     "tag:waterway=stream": {
@@ -5966,11 +5966,11 @@
         "description": "Tag \"waterway=stream\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=stream"
     },
     "tag:waterway=waterfall": {
-        "message": "",
+        "message": "Cascata",
         "description": "Tag \"waterway=waterfall\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=waterfall"
     },
     "tag:waterway=weir": {
-        "message": "",
+        "message": "Briglia",
         "description": "Tag \"waterway=weir\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=weir"
     },
     "tag:website": {
@@ -6002,27 +6002,27 @@
         "description": "Key \"wood\". See https://wiki.openstreetmap.org/wiki/Key:wood"
     },
     "tag:xmas:feature": {
-        "message": "",
+        "message": "Elemento natalizio",
         "description": "Key \"xmas:feature\". See https://wiki.openstreetmap.org/wiki/Key:xmas:feature"
     },
     "tag:xmas:feature=event": {
-        "message": "",
+        "message": "Evento di Natale",
         "description": "Tag \"xmas:feature=event\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=event"
     },
     "tag:xmas:feature=market": {
-        "message": "",
+        "message": "Mercatino di Natale",
         "description": "Tag \"xmas:feature=market\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=market"
     },
     "tag:xmas:feature=pyramid": {
-        "message": "",
+        "message": "Piramide di Natale",
         "description": "Tag \"xmas:feature=pyramid\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=pyramid"
     },
     "tag:xmas:feature=shop": {
-        "message": "",
+        "message": "Negozio di Natale",
         "description": "Tag \"xmas:feature=shop\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=shop"
     },
     "tag:xmas:feature=tree": {
-        "message": "",
+        "message": "Albero di Natale",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
     },
     "tag:access=destination": {
@@ -6109,5 +6109,26 @@
     "tag:contact:phone": {
         "message": "Numero telefonico",
         "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
+    },
+    "tag:contact:youtube": {
+        "message": "YouTube"
+    },
+    "tag:conveying=reversible": {
+        "message": "reversibile"
+    },
+    "tag:amenity=nightclub": {
+        "message": "Nightclub"
+    },
+    "tag:amenity=scale": {
+        "message": "Pesa"
+    },
+    "tag:contact:whatsapp": {
+        "message": "WhatsApp"
+    },
+    "tag:xmas:feature=lighting": {
+        "message": "Luci di Natale"
+    },
+    "tag:xmas:feature=crib": {
+        "message": "Capanna della natività"
     }
 }
