@@ -6,7 +6,7 @@
         "message": "jah"
     },
     "tag:abandoned": {
-        "message": "",
+        "message": "Hüljatud",
         "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
     },
     "tag:abutters": {
@@ -30,27 +30,22 @@
     },
     "tag:addr:city": {
         "message": "Linn",
-        "!=1": "Linnad",
         "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
     },
     "tag:addr:country": {
         "message": "Riik",
-        "!=1": "Riigid",
         "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
     },
     "tag:addr:full": {
         "message": "Täielik aadress",
-        "!=1": "Täielikud aadressid",
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
         "message": "Majanimi",
-        "!=1": "Majanimed",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
         "message": "Majanumber",
-        "!=1": "Majanumbrid",
         "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
     },
     "tag:addr:interpolation": {
@@ -59,12 +54,10 @@
     },
     "tag:addr:postcode": {
         "message": "Postiindeks",
-        "!=1": "Postiindeksid",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
         "message": "Tänav",
-        "!=1": "Tänavad",
         "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
     },
     "tag:address": {
@@ -137,7 +130,6 @@
     },
     "tag:alt_name": {
         "message": "Alternatiivne nimi",
-        "!=1": "Alternatiivsed nimed",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
@@ -225,7 +217,6 @@
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
     "tag:amenity=cinema": {
-        "!=1": "Kinod",
         "message": "Kino",
         "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
     },
@@ -367,7 +358,6 @@
     },
     "tag:amenity=pub": {
         "message": "Pubi",
-        "!=1": "Pubid",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
@@ -396,7 +386,6 @@
     },
     "tag:amenity=restaurant": {
         "message": "Restoran",
-        "!=1": "Restoranid",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
@@ -549,17 +538,14 @@
     },
     "tag:barrier=city_wall": {
         "message": "Linnamüür",
-        "!=1": "Linnamüürid",
         "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
     },
     "tag:barrier=fence": {
         "message": "Aed",
-        "!=1": "Aiad",
         "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
     },
     "tag:barrier=hedge": {
         "message": "Hekk",
-        "!=1": "Hekid",
         "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
     },
     "tag:barrier=retaining_wall": {
@@ -1143,7 +1129,7 @@
         "description": "Key \"construction\". See https://wiki.openstreetmap.org/wiki/Key:construction"
     },
     "tag:covered": {
-        "message": "",
+        "message": "Kaetud",
         "description": "Key \"covered\". See https://wiki.openstreetmap.org/wiki/Key:covered"
     },
     "tag:craft": {
@@ -1167,19 +1153,19 @@
         "description": "Tag \"craft=basket_maker\". See https://wiki.openstreetmap.org/wiki/Tag:craft=basket_maker"
     },
     "tag:craft=beekeeper": {
-        "message": "",
+        "message": "Mesinik",
         "description": "Tag \"craft=beekeeper\". See https://wiki.openstreetmap.org/wiki/Tag:craft=beekeeper"
     },
     "tag:craft=blacksmith": {
-        "message": "",
+        "message": "Sepp",
         "description": "Tag \"craft=blacksmith\". See https://wiki.openstreetmap.org/wiki/Tag:craft=blacksmith"
     },
     "tag:craft=boatbuilder": {
-        "message": "",
+        "message": "Paadiehitaja",
         "description": "Tag \"craft=boatbuilder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=boatbuilder"
     },
     "tag:craft=bookbinder": {
-        "message": "",
+        "message": "Köitja",
         "description": "Tag \"craft=bookbinder\". See https://wiki.openstreetmap.org/wiki/Tag:craft=bookbinder"
     },
     "tag:craft=brewery": {
@@ -2933,7 +2919,6 @@
     },
     "tag:int_name": {
         "message": "Rahvusvaheline nimi",
-        "!=1": "Rahvusvahelised nimed",
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
     "tag:intermittent": {
@@ -3250,7 +3235,6 @@
     },
     "tag:loc_name": {
         "message": "Kohalik nimi",
-        "!=1": "Kohalikud nimed",
         "description": "Key \"loc_name\". See https://wiki.openstreetmap.org/wiki/Key:loc_name"
     },
     "tag:man_made": {
@@ -3263,7 +3247,6 @@
     },
     "tag:man_made=pipeline": {
         "message": "Torujuhe",
-        "!=1": "Torujuhtmed",
         "description": "Tag \"man_made=pipeline\". See https://wiki.openstreetmap.org/wiki/Tag:man_made=pipeline"
     },
     "tag:man_made=wastewater_plant": {
@@ -3664,7 +3647,6 @@
     },
     "tag:name": {
         "message": "Nimi",
-        "!=1": "Nimed",
         "description": "Key \"name\". See https://wiki.openstreetmap.org/wiki/Key:name"
     },
     "tag:name:etymology": {
@@ -4101,7 +4083,6 @@
     },
     "tag:official_name": {
         "message": "Ametlik nimi",
-        "!=1": "Ametlikud nimed",
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
@@ -4234,7 +4215,6 @@
     },
     "tag:place=country": {
         "message": "Riik",
-        "!=1": "Riigid",
         "description": "Tag \"place=country\". See https://wiki.openstreetmap.org/wiki/Tag:place=country"
     },
     "tag:place=county": {
@@ -4251,7 +4231,6 @@
     },
     "tag:place=island": {
         "message": "Saar",
-        "!=1": "Saared",
         "description": "Tag \"place=island\". See https://wiki.openstreetmap.org/wiki/Tag:place=island"
     },
     "tag:place=islet": {
@@ -6049,5 +6028,8 @@
     "tag:contact:phone": {
         "message": "Telefoninumber",
         "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
+    },
+    "tag:contact:youtube": {
+        "message": "YouTube"
     }
 }
