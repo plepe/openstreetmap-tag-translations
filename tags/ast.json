@@ -30,27 +30,22 @@
     },
     "tag:addr:city": {
         "message": "Ciudá",
-        "!=1": "Ciudaes",
         "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
     },
     "tag:addr:country": {
         "message": "País",
-        "!=1": "Paises",
         "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
     },
     "tag:addr:full": {
         "message": "Direición completa",
-        "!=1": "Direiciones completes",
         "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
     },
     "tag:addr:housename": {
         "message": "Nome de casa",
-        "!=1": "Nomes de cases",
         "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
     },
     "tag:addr:housenumber": {
         "message": "Númberu de portal",
-        "!=1": "Númberos de portal",
         "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
     },
     "tag:addr:interpolation": {
@@ -59,12 +54,10 @@
     },
     "tag:addr:postcode": {
         "message": "Códigu postal",
-        "!=1": "Códigos postales",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
         "message": "Cai",
-        "!=1": "Cais",
         "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
     },
     "tag:address": {
@@ -137,7 +130,6 @@
     },
     "tag:alt_name": {
         "message": "Nome alternativu",
-        "!=1": "Nomes alternativos",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
     },
     "tag:amenity": {
@@ -225,7 +217,6 @@
         "description": "Tag \"amenity=charging_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=charging_station"
     },
     "tag:amenity=cinema": {
-        "!=1": "Cines",
         "message": "Cine",
         "description": "Tag \"amenity=cinema\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema"
     },
@@ -254,7 +245,6 @@
         "description": "Tag \"amenity=courthouse\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=courthouse"
     },
     "tag:amenity=crematorium": {
-        "!=1": "Crematorios",
         "message": "Crematoriu",
         "description": "Tag \"amenity=crematorium\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=crematorium"
     },
@@ -291,7 +281,6 @@
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
-        "!=1": "Fontes",
         "message": "Fonte",
         "description": "Tag \"amenity=fountain\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fountain"
     },
@@ -369,7 +358,6 @@
     },
     "tag:amenity=pub": {
         "message": "Pub",
-        "!=1": "Pubs",
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
@@ -398,7 +386,6 @@
     },
     "tag:amenity=restaurant": {
         "message": "Restaurante",
-        "!=1": "Restaurantes",
         "description": "Tag \"amenity=restaurant\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=restaurant"
     },
     "tag:amenity=school": {
@@ -414,7 +401,6 @@
         "description": "Tag \"amenity=shower\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shower"
     },
     "tag:amenity=signpost": {
-        "!=1": "Señales",
         "message": "Señal",
         "description": "Tag \"amenity=signpost\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=signpost"
     },
@@ -435,7 +421,6 @@
         "description": "Tag \"amenity=telephone\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=telephone"
     },
     "tag:amenity=theatre": {
-        "!=1": "Teatros",
         "message": "Teatru",
         "description": "Tag \"amenity=theatre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=theatre"
     },
@@ -549,32 +534,26 @@
     },
     "tag:barrier": {
         "message": "Barrera",
-        "!=1": "Barreres",
         "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
     },
     "tag:barrier=city_wall": {
         "message": "Muralla",
-        "!=1": "Muralles",
         "description": "Tag \"barrier=city_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=city_wall"
     },
     "tag:barrier=fence": {
         "message": "Valla",
-        "!=1": "Valles",
         "description": "Tag \"barrier=fence\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=fence"
     },
     "tag:barrier=hedge": {
         "message": "Sebe",
-        "!=1": "Sebes",
         "description": "Tag \"barrier=hedge\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=hedge"
     },
     "tag:barrier=retaining_wall": {
         "message": "Muria d'encontu",
-        "!=1": "Muries d'encontu",
         "description": "Tag \"barrier=retaining_wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=retaining_wall"
     },
     "tag:barrier=wall": {
         "message": "Muria",
-        "!=1": "Muries",
         "description": "Tag \"barrier=wall\". See https://wiki.openstreetmap.org/wiki/Tag:barrier=wall"
     },
     "tag:bath:open_air": {
@@ -682,7 +661,6 @@
         "description": "Tag \"building=church\". See https://wiki.openstreetmap.org/wiki/Tag:building=church"
     },
     "tag:building=church religion=christian": {
-        "!=1": "Ilesies",
         "message": "Ilesia",
         "description": "Combined tag \"building=church\" and \"religion=christian\". See https://wiki.openstreetmap.org/wiki/Tag:building=church and https://wiki.openstreetmap.org/wiki/Tag:religion=christian"
     },
@@ -819,7 +797,6 @@
         "description": "Tag \"building=mosque\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque"
     },
     "tag:building=mosque religion=muslim": {
-        "!=1": "Mezquites",
         "message": "Mezquita",
         "description": "Combined tag \"building=mosque\" and \"religion=muslim\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque and https://wiki.openstreetmap.org/wiki/Tag:religion=muslim"
     },
@@ -928,7 +905,6 @@
         "description": "Tag \"building=synagogue\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue"
     },
     "tag:building=synagogue religion=jewish": {
-        "!=1": "Sinagogues",
         "message": "Sinagoga",
         "description": "Combined tag \"building=synagogue\" and \"religion=jewish\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue and https://wiki.openstreetmap.org/wiki/Tag:religion=jewish"
     },
@@ -2531,7 +2507,6 @@
     },
     "tag:highway": {
         "message": "Carretera",
-        "!=1": "Carreteres",
         "description": "Key \"highway\". See https://wiki.openstreetmap.org/wiki/Key:highway"
     },
     "tag:highway=bridleway": {
@@ -2944,7 +2919,6 @@
     },
     "tag:int_name": {
         "message": "Nome internacional",
-        "!=1": "Nomes internacionales",
         "description": "Key \"int_name\". See https://wiki.openstreetmap.org/wiki/Key:int_name"
     },
     "tag:intermittent": {
@@ -3261,7 +3235,6 @@
     },
     "tag:loc_name": {
         "message": "Nome llocal",
-        "!=1": "Nomes llocales",
         "description": "Key \"loc_name\". See https://wiki.openstreetmap.org/wiki/Key:loc_name"
     },
     "tag:man_made": {
@@ -3674,7 +3647,6 @@
     },
     "tag:name": {
         "message": "Nome",
-        "!=1": "Nomes",
         "description": "Key \"name\". See https://wiki.openstreetmap.org/wiki/Key:name"
     },
     "tag:name:etymology": {
@@ -4111,7 +4083,6 @@
     },
     "tag:official_name": {
         "message": "Nome oficial",
-        "!=1": "Nomes oficiales",
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
@@ -4232,7 +4203,6 @@
     },
     "tag:place=city": {
         "message": "Ciudá",
-        "!=1": "Ciudaes",
         "description": "Tag \"place=city\". See https://wiki.openstreetmap.org/wiki/Tag:place=city"
     },
     "tag:place=city population<200000": {
@@ -4249,7 +4219,6 @@
     },
     "tag:place=county": {
         "message": "Condáu",
-        "!=1": "Condaos",
         "description": "Tag \"place=county\". See https://wiki.openstreetmap.org/wiki/Tag:place=county"
     },
     "tag:place=farm": {
@@ -4262,7 +4231,6 @@
     },
     "tag:place=island": {
         "message": "Islla",
-        "!=1": "Islles",
         "description": "Tag \"place=island\". See https://wiki.openstreetmap.org/wiki/Tag:place=island"
     },
     "tag:place=islet": {
@@ -4307,7 +4275,6 @@
     },
     "tag:place=town": {
         "message": "Villa",
-        "!=1": "Villes",
         "description": "Tag \"place=town\". See https://wiki.openstreetmap.org/wiki/Tag:place=town"
     },
     "tag:place=town population>=30000": {
@@ -4528,7 +4495,6 @@
     },
     "tag:railway=rail": {
         "message": "Vía de tren",
-        "!=1": "Víes de tren",
         "description": "Tag \"railway=rail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail"
     },
     "tag:railway=rail service": {
@@ -4597,7 +4563,6 @@
     },
     "tag:railway=tram": {
         "message": "Vía de tranvía",
-        "!=1": "Víes de tranvía",
         "description": "Tag \"railway=tram\". See https://wiki.openstreetmap.org/wiki/Tag:railway=tram"
     },
     "tag:railway=tram;narrow_gauge": {
@@ -4933,7 +4898,6 @@
         "description": "Tag \"shop=beverages\". See https://wiki.openstreetmap.org/wiki/Tag:shop=beverages"
     },
     "tag:shop=bicycle": {
-        "!=1": "Tiendes de ciclismu",
         "message": "Tienda de ciclismu",
         "description": "Tag \"shop=bicycle\". See https://wiki.openstreetmap.org/wiki/Tag:shop=bicycle"
     },
@@ -5754,7 +5718,6 @@
         "description": "Tag \"tourism=artwork\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=artwork"
     },
     "tag:tourism=attraction": {
-        "!=1": "Atracciones turístiques",
         "message": "Atracción turística",
         "description": "Tag \"tourism=attraction\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=attraction"
     },
@@ -5771,7 +5734,6 @@
         "description": "Tag \"tourism=chalet\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=chalet"
     },
     "tag:tourism=gallery": {
-        "!=1": "Galeríes",
         "message": "Galería",
         "description": "Tag \"tourism=gallery\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=gallery"
     },
@@ -5808,12 +5770,10 @@
         "description": "Tag \"tourism=spa_resort\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=spa_resort"
     },
     "tag:tourism=theme_park": {
-        "!=1": "Parques temáticos",
         "message": "Parque temáticu",
         "description": "Tag \"tourism=theme_park\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=theme_park"
     },
     "tag:tourism=viewpoint": {
-        "!=1": "Miradores",
         "message": "Mirador",
         "description": "Tag \"tourism=viewpoint\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=viewpoint"
     },
@@ -5826,7 +5786,6 @@
         "description": "Tag \"tourism=yes\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=yes"
     },
     "tag:tourism=zoo": {
-        "!=1": "Zoos",
         "message": "Zoo",
         "description": "Tag \"tourism=zoo\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=zoo"
     },
