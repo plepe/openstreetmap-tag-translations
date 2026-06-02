@@ -624,6 +624,70 @@
         "message": "Artist",
         "description": "Key \"artist_name\". See https://wiki.openstreetmap.org/wiki/Key:artist_name"
     },
+    "tag:artwork_type": {
+        "message": "Type of artwork",
+        "description": "Key \"artwork_type\". See https://wiki.openstreetmap.org/wiki/Key:artwork_type"
+    },
+    "tag:artwork_type=architecture": {
+        "message": "Architecture",
+        "description": "Tag \"artwork_type=architecture\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=architecture"
+    },
+    "tag:artwork_type=bust": {
+        "message": "Bust",
+        "description": "Tag \"artwork_type=bust\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=bust"
+    },
+    "tag:artwork_type=fountain": {
+        "message": "Fountain",
+        "description": "Tag \"artwork_type=fountain\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=fountain"
+    },
+    "tag:artwork_type=graffiti": {
+        "message": "Graffiti",
+        "description": "Tag \"artwork_type=graffiti\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=graffiti"
+    },
+    "tag:artwork_type=installation": {
+        "message": "Art installation",
+        "description": "Tag \"artwork_type=installation\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=installation"
+    },
+    "tag:artwork_type=land_art": {
+        "message": "Land art",
+        "description": "Tag \"artwork_type=land_art\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=land_art"
+    },
+    "tag:artwork_type=mosaic": {
+        "message": "Mosaic",
+        "description": "Tag \"artwork_type=mosaic\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=mosaic"
+    },
+    "tag:artwork_type=mural": {
+        "message": "Mural",
+        "description": "Tag \"artwork_type=mural\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=mural"
+    },
+    "tag:artwork_type=painting": {
+        "message": "Painting",
+        "description": "Tag \"artwork_type=painting\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=painting"
+    },
+    "tag:artwork_type=relief": {
+        "message": "Relief",
+        "description": "Tag \"artwork_type=relief\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=relief"
+    },
+    "tag:artwork_type=sculpture": {
+        "message": "Sculpture",
+        "description": "Tag \"artwork_type=sculpture\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=sculpture"
+    },
+    "tag:artwork_type=statue": {
+        "message": "Statue",
+        "description": "Tag \"artwork_type=statue\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=statue"
+    },
+    "tag:artwork_type=stone": {
+        "message": "Stone",
+        "description": "Tag \"artwork_type=stone\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=stone"
+    },
+    "tag:artwork_type=street_art": {
+        "message": "Street art",
+        "description": "Tag \"artwork_type=street_art\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=street_art"
+    },
+    "tag:artwork_type=tilework": {
+        "message": "Tilework",
+        "description": "Tag \"artwork_type=tilework\". See https://wiki.openstreetmap.org/wiki/Tag:artwork_type=tilework"
+    },
     "tag:barrier": {
         "message": "Barrier",
         "description": "Key \"barrier\". See https://wiki.openstreetmap.org/wiki/Key:barrier"
@@ -6814,7 +6878,7 @@
         "description": "Tag \"tourism=aquarium\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=aquarium"
     },
     "tag:tourism=artwork": {
-        "message": "",
+        "message": "Artwork",
         "description": "Tag \"tourism=artwork\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=artwork"
     },
     "tag:tourism=attraction": {
