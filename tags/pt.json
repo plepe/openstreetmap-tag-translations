@@ -1,1 +1,2306 @@
-{}
+{
+    "tag:*=no": {
+        "message": "não"
+    },
+    "tag:*=yes": {
+        "message": "sim"
+    },
+    "tag:abandoned": {
+        "message": "Abandonado"
+    },
+    "tag:abutters": {
+        "message": "Uso da via"
+    },
+    "tag:access": {
+        "message": "Permissão de acesso geral"
+    },
+    "tag:access!=private": {
+        "message": "não privado"
+    },
+    "tag:access=agricultural": {
+        "message": "tráfego somente agrícola"
+    },
+    "tag:access=customers": {
+        "message": "somente clientes"
+    },
+    "tag:access=delivery": {
+        "message": "somente entrega"
+    },
+    "tag:access=destination": {
+        "message": "somente tráfego local"
+    },
+    "tag:access=discouraged": {
+        "message": "não recomendado"
+    },
+    "tag:access=dismount": {
+        "message": "somente desmontado"
+    },
+    "tag:access=forestry": {
+        "message": "somente tráfego florestal"
+    },
+    "tag:access=no": {
+        "message": "sem acesso"
+    },
+    "tag:access=permissive": {
+        "message": "permissivo"
+    },
+    "tag:access=private": {
+        "message": "privado"
+    },
+    "tag:access=unknown": {
+        "message": "desconhecido"
+    },
+    "tag:access=use_sidepath": {
+        "message": "use caminho ao lado"
+    },
+    "tag:access=yes": {
+        "message": "acesso público"
+    },
+    "tag:accomodation": {
+        "message": "Acomodação"
+    },
+    "tag:addr:city": {
+        "message": "Cidade"
+    },
+    "tag:addr:country": {
+        "message": "País"
+    },
+    "tag:addr:full": {
+        "message": "Endereço completo"
+    },
+    "tag:addr:housename": {
+        "message": "Nome de casa"
+    },
+    "tag:addr:housenumber": {
+        "message": "Número"
+    },
+    "tag:addr:interpolation": {
+        "message": "Números interpolados"
+    },
+    "tag:addr:street": {
+        "message": "Rua"
+    },
+    "tag:address": {
+        "message": "Endereço"
+    },
+    "tag:admin_level": {
+        "message": "Nível administrativo"
+    },
+    "tag:admin_level=10": {
+        "message": "Bairro (10)"
+    },
+    "tag:admin_level=11": {
+        "message": "Sub-bairro/Bairro menor (11)"
+    },
+    "tag:admin_level=2": {
+        "message": "País (2)"
+    },
+    "tag:admin_level=3": {
+        "message": "Região (3)"
+    },
+    "tag:admin_level=4": {
+        "message": "Unidade Federativa (4)"
+    },
+    "tag:admin_level=5": {
+        "message": "Região Intermediária (5)"
+    },
+    "tag:admin_level=6": {
+        "message": "Região Metropolitana (6)"
+    },
+    "tag:admin_level=7": {
+        "message": "Região Imediata (7)"
+    },
+    "tag:admin_level=8": {
+        "message": "Município (8)"
+    },
+    "tag:admin_level=9": {
+        "message": "Distrito (9)"
+    },
+    "tag:aerialway": {
+        "message": "Teleférico"
+    },
+    "tag:aeroway": {
+        "message": "Aviação"
+    },
+    "tag:aeroway=aerodrome": {
+        "message": "Aeródromo"
+    },
+    "tag:aeroway=heliport": {
+        "message": "Heliporto"
+    },
+    "tag:aeroway=runway": {
+        "message": "Pista de pouso e descolagem"
+    },
+    "tag:aeroway=taxiway": {
+        "message": "Pista de táxi"
+    },
+    "tag:alt_name": {
+        "message": "Nome alternativo"
+    },
+    "tag:amenity": {
+        "message": "Equipamento"
+    },
+    "tag:amenity=arts_centre": {
+        "message": "Centro cultural"
+    },
+    "tag:amenity=bank": {
+        "message": "Banco"
+    },
+    "tag:amenity=bar": {
+        "message": "Bar/Drinqueria"
+    },
+    "tag:amenity=bench": {
+        "message": "Assento"
+    },
+    "tag:amenity=bicycle_parking": {
+        "message": "Bicicletário"
+    },
+    "tag:amenity=bicycle_parking capacity<=20": {
+        "message": "Bicicletário (até 20 vagas)"
+    },
+    "tag:amenity=bicycle_parking capacity>20<=60": {
+        "message": "Bicicletário (20-60 vagas)"
+    },
+    "tag:amenity=bicycle_parking capacity>60": {
+        "message": "Bicicletário (>60 vagas)"
+    },
+    "tag:amenity=bicycle_rental": {
+        "message": "Estação de bicicletas públicas"
+    },
+    "tag:amenity=bicycle_repair_station": {
+        "message": "Estação de reparos de bicicletas"
+    },
+    "tag:amenity=brothel": {
+        "message": "Bordel"
+    },
+    "tag:amenity=bus_station": {
+        "message": "Terminal de autocarros"
+    },
+    "tag:amenity=canteen": {
+        "message": "Buffet"
+    },
+    "tag:amenity=car_rental": {
+        "message": "Aluguel de automóveis"
+    },
+    "tag:amenity=car_wash": {
+        "message": "Lava-rápido"
+    },
+    "tag:amenity=charging_station": {
+        "message": "Eletroposto"
+    },
+    "tag:amenity=childcare": {
+        "message": "Berçário"
+    },
+    "tag:amenity=clock": {
+        "message": "Relógio"
+    },
+    "tag:amenity=college": {
+        "message": "Escola técnica"
+    },
+    "tag:amenity=crematorium": {
+        "message": "Crematório"
+    },
+    "tag:amenity=dentist": {
+        "message": "Dentista"
+    },
+    "tag:amenity=drinking_water": {
+        "message": "Bebedouro"
+    },
+    "tag:amenity=embassy": {
+        "message": "Embaixada"
+    },
+    "tag:amenity=fast_food": {
+        "message": "Lanchonete"
+    },
+    "tag:amenity=ferry_terminal": {
+        "message": "Porto de balsa"
+    },
+    "tag:amenity=fire_station": {
+        "message": "Corpo de bombeiros"
+    },
+    "tag:amenity=food_court": {
+        "message": "Praça de restauração"
+    },
+    "tag:amenity=fountain": {
+        "message": "Chafariz"
+    },
+    "tag:amenity=fuel": {
+        "message": "Bomba de gasolina"
+    },
+    "tag:amenity=ice_cream": {
+        "message": "Sorveteria"
+    },
+    "tag:amenity=library": {
+        "message": "Biblioteca"
+    },
+    "tag:amenity=nursing_home": {
+        "message": "Casa de repouso"
+    },
+    "tag:amenity=parcel_locker": {
+        "message": "Estação de pacotes"
+    },
+    "tag:amenity=parking": {
+        "message": "Estacionamento"
+    },
+    "tag:amenity=pharmacy": {
+        "message": "Farmácia"
+    },
+    "tag:amenity=place_of_worship": {
+        "message": "Local de culto"
+    },
+    "tag:amenity=police": {
+        "message": "Polícia"
+    },
+    "tag:amenity=post_box": {
+        "message": "Caixa de correios"
+    },
+    "tag:amenity=post_office": {
+        "message": "Agência dos correios"
+    },
+    "tag:amenity=pub": {
+        "message": "Boteco"
+    },
+    "tag:amenity=public_bath": {
+        "message": "Banho público"
+    },
+    "tag:amenity=recycling": {
+        "message": "Reciclagem"
+    },
+    "tag:amenity=recycling recycling_type=centre": {
+        "message": "Centro de reciclagem"
+    },
+    "tag:amenity=restaurant": {
+        "message": "Restaurante"
+    },
+    "tag:amenity=scale": {
+        "message": "Escala"
+    },
+    "tag:amenity=school": {
+        "message": "Escola"
+    },
+    "tag:amenity=shower": {
+        "message": "Duche"
+    },
+    "tag:amenity=telephone": {
+        "message": "Telefone"
+    },
+    "tag:amenity=theatre": {
+        "message": "Teatro"
+    },
+    "tag:amenity=toilets": {
+        "message": "Casas de banho públicos"
+    },
+    "tag:amenity=toilets changing_table=yes": {
+        "message": "Casas de banho com trocador de fraldas"
+    },
+    "tag:amenity=townhall": {
+        "message": "Prefeitura"
+    },
+    "tag:amenity=university": {
+        "message": "Universidade"
+    },
+    "tag:amenity=vending_machine": {
+        "message": "Máquina de vendas"
+    },
+    "tag:amenity=vending_machine vending=bicycle_tube": {
+        "message": "Pneus de bicicleta"
+    },
+    "tag:amenity=waste_basket": {
+        "message": "Lixo"
+    },
+    "tag:amenity=waste_disposal": {
+        "message": "Contentor de lixo não reciclável"
+    },
+    "tag:architect": {
+        "message": "Arquiteto"
+    },
+    "tag:area": {
+        "message": "Área"
+    },
+    "tag:area:highway": {
+        "message": "Contorno da via"
+    },
+    "tag:barrier": {
+        "message": "Barreira"
+    },
+    "tag:barrier=city_wall": {
+        "message": "Muralha da cidade"
+    },
+    "tag:barrier=fence": {
+        "message": "Cerca"
+    },
+    "tag:barrier=hedge": {
+        "message": "Cerca viva"
+    },
+    "tag:barrier=kerb": {
+        "message": "Meio-fio"
+    },
+    "tag:barrier=retaining_wall": {
+        "message": "Muro de arrimo"
+    },
+    "tag:barrier=wall": {
+        "message": "Muro"
+    },
+    "tag:bath:type=hammam": {
+        "message": "hammam"
+    },
+    "tag:bath:type=hot_spring": {
+        "message": "fonte termal"
+    },
+    "tag:bicycle": {
+        "message": "Permissão de acesso a bicicletas"
+    },
+    "tag:bicycle_road": {
+        "message": "Ciclovia"
+    },
+    "tag:boundary": {
+        "message": "Limite"
+    },
+    "tag:brand": {
+        "message": "Rede/marca"
+    },
+    "tag:bridge": {
+        "message": "Ponte"
+    },
+    "tag:building": {
+        "message": "Edificação"
+    },
+    "tag:building:levels": {
+        "message": "pavimentos"
+    },
+    "tag:building:start_date": {
+        "message": "Data de conclusão da obra"
+    },
+    "tag:building=agriculture": {
+        "message": "Agrícola"
+    },
+    "tag:building=cathedral": {
+        "message": "Catedral"
+    },
+    "tag:building=chapel": {
+        "message": "Capela"
+    },
+    "tag:building=church": {
+        "message": "Igreja"
+    },
+    "tag:building=church religion=christian": {
+        "message": "cristão"
+    },
+    "tag:building=hotel": {
+        "message": "Hotel"
+    },
+    "tag:building=hut": {
+        "message": "Choupana"
+    },
+    "tag:building=kiosk": {
+        "message": "Quiosque"
+    },
+    "tag:building=military": {
+        "message": "Militar"
+    },
+    "tag:building=mosque": {
+        "message": "Mesquita"
+    },
+    "tag:building=mosque religion=muslim": {
+        "message": "muçulmano"
+    },
+    "tag:building=pavilion": {
+        "message": "Edifício de apoio desportivo"
+    },
+    "tag:building=religious": {
+        "message": "Religioso"
+    },
+    "tag:building=riding_hall": {
+        "message": "Salão de equitação"
+    },
+    "tag:building=roof": {
+        "message": "Cobertura"
+    },
+    "tag:building=shed": {
+        "message": "Barracão"
+    },
+    "tag:building=shrine": {
+        "message": "Santuário"
+    },
+    "tag:building=stable": {
+        "message": "Estábulo"
+    },
+    "tag:building=synagogue": {
+        "message": "Sinagoga"
+    },
+    "tag:building=synagogue religion=jewish": {
+        "message": "judeu"
+    },
+    "tag:building=temple": {
+        "message": "Templo"
+    },
+    "tag:building=temple religion=sikh": {
+        "message": "sikh"
+    },
+    "tag:cables": {
+        "message": "Cabos"
+    },
+    "tag:changing_table": {
+        "message": "Mesa de troca de fraldas"
+    },
+    "tag:charge": {
+        "message": "Carga"
+    },
+    "tag:climbing": {
+        "message": "Escalada"
+    },
+    "tag:climbing:bolted": {
+        "message": "Aparafusado"
+    },
+    "tag:climbing:deepwater": {
+        "message": "Solo em águas profundas"
+    },
+    "tag:climbing:grade:french": {
+        "message": "Grau de escalada (francês)"
+    },
+    "tag:climbing:grade:polish": {
+        "message": "Grau de escalada (polonês)"
+    },
+    "tag:climbing:grade:saxon": {
+        "message": "Grau de escalada (saxão)"
+    },
+    "tag:climbing:grade:uiaa": {
+        "message": "Grau de escalada (UIAA)"
+    },
+    "tag:climbing:ice": {
+        "message": "Escalada no gelo"
+    },
+    "tag:climbing:length": {
+        "message": "Comprimento da escalada"
+    },
+    "tag:climbing:mixed": {
+        "message": "Escalada mista"
+    },
+    "tag:climbing:multipitch": {
+        "message": "Rotas de escalada multi-pitch"
+    },
+    "tag:climbing:orientation": {
+        "message": "Direção de escalada"
+    },
+    "tag:climbing:quality": {
+        "message": "Qualidade da escalada"
+    },
+    "tag:climbing:rock": {
+        "message": "Escalada na rocha"
+    },
+    "tag:climbing:routes": {
+        "message": "Número de rotas de escalada"
+    },
+    "tag:climbing:speed": {
+        "message": "Escalada em velocidade"
+    },
+    "tag:climbing:sport": {
+        "message": "Escalada desportiva"
+    },
+    "tag:climbing:summit_log": {
+        "message": "Elemento de escalada possui registo de chegada"
+    },
+    "tag:climbing:toprope": {
+        "message": "Escalada em corda superior"
+    },
+    "tag:climbing:trad": {
+        "message": "Escalada tradicional"
+    },
+    "tag:climbing=crag": {
+        "message": "Penhasco"
+    },
+    "tag:climbing=route": {
+        "message": "Rota"
+    },
+    "tag:climbing=route_bottom": {
+        "message": "Ponto mais baixo da rota de escalada"
+    },
+    "tag:climbing=route_top": {
+        "message": "Ponto mais alto da rota de escalada"
+    },
+    "tag:clothes": {
+        "message": "Roupas"
+    },
+    "tag:construction": {
+        "message": "Construção"
+    },
+    "tag:contact:phone": {
+        "message": "Telefone"
+    },
+    "tag:conveying=reversible": {
+        "message": "reversível"
+    },
+    "tag:covered": {
+        "message": "Coberto"
+    },
+    "tag:craft": {
+        "message": "Ofícios"
+    },
+    "tag:craft=mason": {
+        "message": "Pedreiro"
+    },
+    "tag:craft=optician": {
+        "message": "Oculista"
+    },
+    "tag:craft=painter": {
+        "message": "Pintor"
+    },
+    "tag:craft=paver": {
+        "message": "Calceteiro"
+    },
+    "tag:craft=photographer": {
+        "message": "Fotógrafo"
+    },
+    "tag:craft=photographic_laboratory": {
+        "message": "Laboratório fotográfico"
+    },
+    "tag:craft=piano_tuner": {
+        "message": "Afinador de pianos"
+    },
+    "tag:craft=plasterer": {
+        "message": "Gesseiro"
+    },
+    "tag:craft=plumber": {
+        "message": "Encanador"
+    },
+    "tag:craft=restoration": {
+        "message": "Restauros"
+    },
+    "tag:craft=roofer": {
+        "message": "Reparador de telhados"
+    },
+    "tag:craft=saddler": {
+        "message": "Seleiro"
+    },
+    "tag:craft=sailmaker": {
+        "message": "Fabricante de velas náuticas"
+    },
+    "tag:craft=sculptor": {
+        "message": "Escultor"
+    },
+    "tag:craft=shoe_repair": {
+        "message": "Conserto de sapatos"
+    },
+    "tag:craft=shoemaker": {
+        "message": "Sapateiro"
+    },
+    "tag:craft=tailor": {
+        "message": "Alfaiate"
+    },
+    "tag:craft=tinsmith": {
+        "message": "Tintureiro"
+    },
+    "tag:created_by": {
+        "message": "Criado por"
+    },
+    "tag:crossing": {
+        "message": "Travessia"
+    },
+    "tag:crossing=marked": {
+        "message": "com marcação"
+    },
+    "tag:crossing=traffic_signals": {
+        "message": "sinais de tráfego"
+    },
+    "tag:crossing=uncontrolled": {
+        "message": "sem sinais de tráfego"
+    },
+    "tag:crossing=unmarked": {
+        "message": "sem marcação"
+    },
+    "tag:crossing=zebra": {
+        "message": "faixa zebrada"
+    },
+    "tag:cuisine": {
+        "message": "Cozinha"
+    },
+    "tag:cuisine/dessert": {
+        "message": "Cozinha (sobremesa)"
+    },
+    "tag:cuisine/ethnicity": {
+        "message": "Cuisine (etnia)"
+    },
+    "tag:cuisine/food": {
+        "message": "Cozinha (comida)"
+    },
+    "tag:cuisine=kebab": {
+        "message": "kebab"
+    },
+    "tag:cuisine=regional": {
+        "message": "local"
+    },
+    "tag:cuisine=savory_pancakes": {
+        "message": "panqueca salgada"
+    },
+    "tag:cutting": {
+        "message": "Corte"
+    },
+    "tag:cyclestreet": {
+        "message": "Rua de bicicletas"
+    },
+    "tag:cycleway": {
+        "message": "Ciclovia"
+    },
+    "tag:cycleway=bike_box;asl": {
+        "message": "Linha avançada de bicicleta"
+    },
+    "tag:cycleway=crossing": {
+        "message": "Cruzamento"
+    },
+    "tag:cycleway=lane": {
+        "message": "Ciclofaixa"
+    },
+    "tag:cycleway=shared_busway": {
+        "message": "corredor de autocarros partilhado"
+    },
+    "tag:cycleway=shared_lane": {
+        "message": "Faixa partilhada"
+    },
+    "tag:cycleway=shoulder": {
+        "message": "Ressalto"
+    },
+    "tag:cycleway=track": {
+        "message": "Ciclovia"
+    },
+    "tag:denomination": {
+        "message": "Denominação"
+    },
+    "tag:description": {
+        "message": "Descrição"
+    },
+    "tag:diet": {
+        "message": "Dieta"
+    },
+    "tag:diet:dairy_free": {
+        "message": "sem laticínios"
+    },
+    "tag:diet:fruitarian": {
+        "message": "frutariana"
+    },
+    "tag:diet:gluten_free": {
+        "message": "sem glúten"
+    },
+    "tag:diet:lacto_vegetarian": {
+        "message": "lactovegetariana"
+    },
+    "tag:diet:lactose_free": {
+        "message": "sem lactose"
+    },
+    "tag:diet:ovo_vegetarian": {
+        "message": "ovo vegetariana"
+    },
+    "tag:diet:pescetarian": {
+        "message": "pescetariano"
+    },
+    "tag:diet:raw": {
+        "message": "crua"
+    },
+    "tag:diet:vegan": {
+        "message": "vegana"
+    },
+    "tag:diet:vegetarian": {
+        "message": "vegetariana"
+    },
+    "tag:direction": {
+        "message": "Direção"
+    },
+    "tag:direction=E": {
+        "message": "Leste"
+    },
+    "tag:direction=ENE": {
+        "message": "Leste-nordeste"
+    },
+    "tag:direction=ESE": {
+        "message": "Leste-sudeste"
+    },
+    "tag:direction=N": {
+        "message": "Norte"
+    },
+    "tag:direction=NNE": {
+        "message": "Norte-nordeste"
+    },
+    "tag:direction=NNW": {
+        "message": "Norte-noroeste"
+    },
+    "tag:direction=NW": {
+        "message": "Noroeste"
+    },
+    "tag:direction=S": {
+        "message": "Sul"
+    },
+    "tag:direction=SE": {
+        "message": "Sudeste"
+    },
+    "tag:direction=SSE": {
+        "message": "Sul-sudeste"
+    },
+    "tag:direction=SSW": {
+        "message": "Sul-sudoeste"
+    },
+    "tag:direction=SW": {
+        "message": "Sudoeste"
+    },
+    "tag:direction=W": {
+        "message": "Oeste"
+    },
+    "tag:direction=WNW": {
+        "message": "Oeste-noroeste"
+    },
+    "tag:direction=WSW": {
+        "message": "Oeste-Sudoeste"
+    },
+    "tag:disused": {
+        "message": "Sem uso"
+    },
+    "tag:driving_side": {
+        "message": "Mão de direção"
+    },
+    "tag:driving_side=left": {
+        "message": "esquerda"
+    },
+    "tag:driving_side=right": {
+        "message": "direita"
+    },
+    "tag:ele": {
+        "message": "Altitude"
+    },
+    "tag:electrified=no": {
+        "message": "não eletrificado"
+    },
+    "tag:email": {
+        "message": "E-mail"
+    },
+    "tag:emergency": {
+        "message": "Emergência"
+    },
+    "tag:emergency=defibrillator": {
+        "message": "Desfibrilador"
+    },
+    "tag:emergency=fire_hydrant": {
+        "message": "Hidrante"
+    },
+    "tag:emergency=fire_hydrant fire_hydrant:type=pillar": {
+        "message": "Hidrante - tipo coluna"
+    },
+    "tag:emergency=fire_hydrant fire_hydrant:type=underground": {
+        "message": "Hidrante - tipo subterrâneo"
+    },
+    "tag:emergency=phone": {
+        "message": "Telefone de emergência"
+    },
+    "tag:end_date": {
+        "message": "Data de retirada"
+    },
+    "tag:entrance": {
+        "message": "Entrada"
+    },
+    "tag:entrance=emergency": {
+        "message": "Saída de emergência"
+    },
+    "tag:entrance=exit": {
+        "message": "Saída"
+    },
+    "tag:entrance=garage": {
+        "message": "Entrada de garagens"
+    },
+    "tag:entrance=home": {
+        "message": "Entrada de casa"
+    },
+    "tag:entrance=main": {
+        "message": "Entrada principal"
+    },
+    "tag:entrance=service": {
+        "message": "Entrada de serviço"
+    },
+    "tag:entrance=staircase": {
+        "message": "Porta para escada"
+    },
+    "tag:est_width": {
+        "message": "Largura estimada"
+    },
+    "tag:fax": {
+        "message": "Número de fax"
+    },
+    "tag:fixme": {
+        "message": "Corrija-me"
+    },
+    "tag:food": {
+        "message": "Serve comida"
+    },
+    "tag:foot": {
+        "message": "Permissão de acesso à pé"
+    },
+    "tag:footway=access_aisle": {
+        "message": "Corredor de acesso"
+    },
+    "tag:footway=alley": {
+        "message": "Beco"
+    },
+    "tag:footway=crossing": {
+        "message": "Travessia"
+    },
+    "tag:footway=sidewalk": {
+        "message": "Calçada"
+    },
+    "tag:footway=traffic_island": {
+        "message": "Ilha de refúgio"
+    },
+    "tag:ford": {
+        "message": "Vau"
+    },
+    "tag:frequency": {
+        "message": "Frequência"
+    },
+    "tag:frequency=0": {
+        "message": "corrente contínua"
+    },
+    "tag:frequency>0": {
+        "message": "corrente alternada"
+    },
+    "tag:geological": {
+        "message": "Geológico"
+    },
+    "tag:height": {
+        "message": "Altura"
+    },
+    "tag:hgv": {
+        "message": "Permissão para veículos pesados"
+    },
+    "tag:highway": {
+        "message": "Via"
+    },
+    "tag:highway=bridleway": {
+        "message": "Hipovia"
+    },
+    "tag:highway=crossing": {
+        "message": "Travessia"
+    },
+    "tag:highway=cycleway": {
+        "message": "Ciclovia"
+    },
+    "tag:highway=cycleway segregated=no": {
+        "message": "Partilhado"
+    },
+    "tag:highway=cycleway segregated=yes": {
+        "message": "Segregado"
+    },
+    "tag:highway=footway": {
+        "message": "Via de peão"
+    },
+    "tag:highway=living_street": {
+        "message": "Via de espaço partilhado"
+    },
+    "tag:highway=minor": {
+        "message": "Via menor"
+    },
+    "tag:highway=motorway": {
+        "message": "Autoestrada"
+    },
+    "tag:highway=motorway_link": {
+        "message": "Ligação de autoestrada"
+    },
+    "tag:highway=path": {
+        "message": "Trilha"
+    },
+    "tag:highway=pedestrian": {
+        "message": "Calçadão"
+    },
+    "tag:highway=primary": {
+        "message": "Via primária"
+    },
+    "tag:highway=primary_link": {
+        "message": "Ligação de via primária"
+    },
+    "tag:highway=residential": {
+        "message": "Via residencial"
+    },
+    "tag:highway=road": {
+        "message": "Via"
+    },
+    "tag:highway=secondary": {
+        "message": "Via secundária"
+    },
+    "tag:highway=service": {
+        "message": "Via de serviço"
+    },
+    "tag:highway=steps": {
+        "message": "Escada"
+    },
+    "tag:highway=tertiary": {
+        "message": "Via terciária"
+    },
+    "tag:highway=track": {
+        "message": "Caminho rural"
+    },
+    "tag:highway=trunk": {
+        "message": "Via troncal"
+    },
+    "tag:highway=trunk_link": {
+        "message": "Ligação de via troncal"
+    },
+    "tag:highway=unclassified": {
+        "message": "Via local/Estrada vicinal"
+    },
+    "tag:historic": {
+        "message": "Histórico"
+    },
+    "tag:historic:civilization": {
+        "message": "Civilização"
+    },
+    "tag:historic=battlefield": {
+        "message": "Campo de batalha"
+    },
+    "tag:historic=monument": {
+        "message": "Monumento"
+    },
+    "tag:incline": {
+        "message": "declividade"
+    },
+    "tag:incline=down": {
+        "message": "declive"
+    },
+    "tag:incline=up": {
+        "message": "aclive"
+    },
+    "tag:information=audioguide": {
+        "message": "Audioguia"
+    },
+    "tag:information=board": {
+        "message": "Painel"
+    },
+    "tag:information=guidepost": {
+        "message": "Sinalização"
+    },
+    "tag:information=map": {
+        "message": "Mapa"
+    },
+    "tag:information=office": {
+        "message": "Posto"
+    },
+    "tag:information=route_marker": {
+        "message": "Marca de rota"
+    },
+    "tag:information=tactile_map": {
+        "message": "Mapa tátil"
+    },
+    "tag:information=tactile_model": {
+        "message": "Maquete tátil"
+    },
+    "tag:information=terminal": {
+        "message": "Terminal"
+    },
+    "tag:information=trail_blaze": {
+        "message": "Marca de rota"
+    },
+    "tag:inscription": {
+        "message": "Inscrição"
+    },
+    "tag:int_name": {
+        "message": "International name"
+    },
+    "tag:internet_access=public": {
+        "message": "Acesso à Internet não especificado"
+    },
+    "tag:is_in": {
+        "message": "Dentro de"
+    },
+    "tag:kerb": {
+        "message": "Meio-fio"
+    },
+    "tag:kerb=flush": {
+        "message": "nivelado"
+    },
+    "tag:kerb=lowered": {
+        "message": "rebaixado"
+    },
+    "tag:kerb=no": {
+        "message": "sem guia de passeio"
+    },
+    "tag:kerb=raised": {
+        "message": "elevado"
+    },
+    "tag:kerb=rolled": {
+        "message": "boleado"
+    },
+    "tag:kids_area": {
+        "message": "Área de recreação"
+    },
+    "tag:landuse": {
+        "message": "Uso do Solo"
+    },
+    "tag:landuse=brownfield": {
+        "message": "Terreno de demolição"
+    },
+    "tag:landuse=greenfield": {
+        "message": "Terreno gramado"
+    },
+    "tag:landuse=landfill": {
+        "message": "Aterro sanitário"
+    },
+    "tag:landuse=recreation_ground": {
+        "message": "Pátio de recreação"
+    },
+    "tag:lanes": {
+        "message": "Faixas"
+    },
+    "tag:layer": {
+        "message": "Camada"
+    },
+    "tag:leisure": {
+        "message": "Lazer"
+    },
+    "tag:leisure=adult_gaming_centre": {
+        "message": "Centro de jogos para adultos"
+    },
+    "tag:leisure=amusement_arcade": {
+        "message": "Fliperama"
+    },
+    "tag:leisure=bandstand": {
+        "message": "Coreto"
+    },
+    "tag:leisure=bird_hide": {
+        "message": "Observatório de pássaros"
+    },
+    "tag:leisure=bleachers": {
+        "message": "Arquibancada"
+    },
+    "tag:leisure=bowling_alley": {
+        "message": "Pista de boliche"
+    },
+    "tag:leisure=common": {
+        "message": "Área comunitária"
+    },
+    "tag:leisure=dance": {
+        "message": "Danceteria"
+    },
+    "tag:leisure=dog_park": {
+        "message": "Cachorródromo"
+    },
+    "tag:leisure=escape_game": {
+        "message": "Jogo de fuga"
+    },
+    "tag:leisure=firepit": {
+        "message": "Fogueira"
+    },
+    "tag:leisure=fishing": {
+        "message": "Pesqueiro"
+    },
+    "tag:leisure=fitness_centre": {
+        "message": "Academia"
+    },
+    "tag:leisure=fitness_station": {
+        "message": "Academia ao ar livre"
+    },
+    "tag:leisure=garden": {
+        "message": "Jardim/Horta"
+    },
+    "tag:leisure=horse_riding": {
+        "message": "Centro de hipismo"
+    },
+    "tag:leisure=ice_rink": {
+        "message": "Pista de patinação no gelo"
+    },
+    "tag:leisure=indoor_play": {
+        "message": "Recreação infantil"
+    },
+    "tag:leisure=miniature_golf": {
+        "message": "Miniature Golf"
+    },
+    "tag:leisure=nature_reserve": {
+        "message": "Reserva natural"
+    },
+    "tag:leisure=outdoor_seating": {
+        "message": "Área de estar ao ar livre"
+    },
+    "tag:leisure=park": {
+        "message": "Praça"
+    },
+    "tag:leisure=picnic_table": {
+        "message": "Mesa de piquenique"
+    },
+    "tag:leisure=pitch": {
+        "message": "Quadra/Campo"
+    },
+    "tag:leisure=pitch sport=american_football": {
+        "message": "Campo de futebol americano"
+    },
+    "tag:leisure=pitch sport=australian_football": {
+        "message": "Campo de futebol australiano"
+    },
+    "tag:leisure=pitch sport=badminton": {
+        "message": "Quadra de badminton"
+    },
+    "tag:leisure=pitch sport=baseball": {
+        "message": "Campo de basebol"
+    },
+    "tag:leisure=pitch sport=basketball": {
+        "message": "Quadra de basquete"
+    },
+    "tag:leisure=pitch sport=beachvolleyball": {
+        "message": "Quadra de vôlei de praia"
+    },
+    "tag:leisure=pitch sport=boules": {
+        "message": "Quadra de bocha"
+    },
+    "tag:leisure=pitch sport=cricket": {
+        "message": "Campo de críquete"
+    },
+    "tag:leisure=pitch sport=equestrian": {
+        "message": "Arena de Equitação"
+    },
+    "tag:leisure=pitch sport=field_hockey": {
+        "message": "Campo de hóquei em campo"
+    },
+    "tag:leisure=pitch sport=horseshoes": {
+        "message": "Jogo de ferradura"
+    },
+    "tag:leisure=pitch sport=netball": {
+        "message": "Quadra de netball"
+    },
+    "tag:leisure=pitch sport=rugby_league": {
+        "message": "Campo de rugby league"
+    },
+    "tag:leisure=pitch sport=rugby_union": {
+        "message": "Campo de rugby union"
+    },
+    "tag:leisure=pitch sport=shuffleboard": {
+        "message": "Quadra de shuffleboard"
+    },
+    "tag:leisure=pitch sport=skateboard": {
+        "message": "Pista de skate"
+    },
+    "tag:leisure=pitch sport=soccer": {
+        "message": "Campo de futebol"
+    },
+    "tag:leisure=pitch sport=softball": {
+        "message": "Campo de softbol"
+    },
+    "tag:leisure=pitch sport=table_tennis": {
+        "message": "Mesa de ping pong"
+    },
+    "tag:leisure=pitch sport=tennis": {
+        "message": "Quadra de tênis"
+    },
+    "tag:leisure=pitch sport=volleyball": {
+        "message": "Quadra de vôlei"
+    },
+    "tag:leisure=playground": {
+        "message": "Parquinho"
+    },
+    "tag:leisure=sauna": {
+        "message": "Sauna"
+    },
+    "tag:leisure=slipway": {
+        "message": "Rampa náutica"
+    },
+    "tag:leisure=sport": {
+        "message": "Área de lazer"
+    },
+    "tag:leisure=sports_centre": {
+        "message": "Centro desportivo/Clube"
+    },
+    "tag:leisure=sports_hall": {
+        "message": "Ginásio de desportos"
+    },
+    "tag:leisure=stadium": {
+        "message": "Estádio"
+    },
+    "tag:leisure=summer_camp": {
+        "message": "Acampamento educativo"
+    },
+    "tag:leisure=swimming_area": {
+        "message": "Área de natação"
+    },
+    "tag:leisure=swimming_pool": {
+        "message": "Piscina"
+    },
+    "tag:leisure=track": {
+        "message": "Pista para desportos não motorizados"
+    },
+    "tag:leisure=trampoline_park": {
+        "message": "Parque de trampolim"
+    },
+    "tag:leisure=water_park": {
+        "message": "Parque aquático"
+    },
+    "tag:lit": {
+        "message": "Iluminação viária"
+    },
+    "tag:loc_name": {
+        "message": "Nome local"
+    },
+    "tag:man_made": {
+        "message": "Estruturas"
+    },
+    "tag:man_made=incinerator": {
+        "message": "Incinerador"
+    },
+    "tag:man_made=monitoring_station": {
+        "message": "Estação de monitoramento"
+    },
+    "tag:man_made=wastewater_plant": {
+        "message": "Estação de Tratamento de Esgoto"
+    },
+    "tag:material": {
+        "message": "Material"
+    },
+    "tag:maxspeed=none": {
+        "message": "sem limite"
+    },
+    "tag:maxspeed=walk": {
+        "message": "velocidade de peão"
+    },
+    "tag:memorial:conflict": {
+        "message": "Conflito registado"
+    },
+    "tag:memorial:conflict=WW1": {
+        "message": "1ª Guerra Mundial"
+    },
+    "tag:memorial:conflict=WW2": {
+        "message": "2ª Guerra Mundial"
+    },
+    "tag:memorial=bust": {
+        "message": "Busto"
+    },
+    "tag:memorial=obelisk": {
+        "message": "Obelisco"
+    },
+    "tag:memorial=plaque": {
+        "message": "Placa"
+    },
+    "tag:memorial=statue": {
+        "message": "Estátua"
+    },
+    "tag:memorial=stele": {
+        "message": "Estela"
+    },
+    "tag:memorial=stolperstein": {
+        "message": "Stolpersteine"
+    },
+    "tag:memorial=stone": {
+        "message": "Pedra"
+    },
+    "tag:memorial=war_memorial": {
+        "message": "Memorial de guerra"
+    },
+    "tag:military": {
+        "message": "Militar"
+    },
+    "tag:motorcycle": {
+        "message": "Permissão para Motorcycle access permission"
+    },
+    "tag:mountain_pass": {
+        "message": "Passo de montanha"
+    },
+    "tag:name": {
+        "message": "Nome"
+    },
+    "tag:name:etymology": {
+        "message": "Etimologia"
+    },
+    "tag:natural=bare_rock": {
+        "message": "Leito rochoso"
+    },
+    "tag:natural=bay": {
+        "message": "Baía"
+    },
+    "tag:natural=beach": {
+        "message": "Praia"
+    },
+    "tag:natural=cape": {
+        "message": "Cabo"
+    },
+    "tag:natural=cliff": {
+        "message": "Penhasco"
+    },
+    "tag:natural=coastline": {
+        "message": "Linha costeira"
+    },
+    "tag:natural=divide": {
+        "message": "Divisor"
+    },
+    "tag:natural=fell": {
+        "message": "Encosta"
+    },
+    "tag:natural=geyser": {
+        "message": "Gêiser"
+    },
+    "tag:natural=glacier": {
+        "message": "Geleira"
+    },
+    "tag:natural=grassland": {
+        "message": "Pradaria"
+    },
+    "tag:natural=heath": {
+        "message": "Mato"
+    },
+    "tag:natural=hill": {
+        "message": "Morro"
+    },
+    "tag:natural=hot_spring": {
+        "message": "Fontes termais"
+    },
+    "tag:natural=marsh": {
+        "message": "Brejo"
+    },
+    "tag:natural=mountain": {
+        "message": "Mountanha"
+    },
+    "tag:natural=mountain_range": {
+        "message": "Serra"
+    },
+    "tag:natural=mud": {
+        "message": "Lama"
+    },
+    "tag:natural=peak": {
+        "message": "Cume"
+    },
+    "tag:natural=peninsula": {
+        "message": "Península"
+    },
+    "tag:natural=reef": {
+        "message": "Recife"
+    },
+    "tag:natural=ridge": {
+        "message": "Cumeeira"
+    },
+    "tag:natural=river_terrace": {
+        "message": "Terraço aluvial"
+    },
+    "tag:natural=rock": {
+        "message": "Rocha"
+    },
+    "tag:natural=saddle": {
+        "message": "Passo de montanha"
+    },
+    "tag:natural=sand": {
+        "message": "Areia"
+    },
+    "tag:natural=scree": {
+        "message": "Seixos"
+    },
+    "tag:natural=scrub": {
+        "message": "Arbustos"
+    },
+    "tag:natural=shingle": {
+        "message": "Praia de pedrinhas"
+    },
+    "tag:natural=spring": {
+        "message": "Nascente"
+    },
+    "tag:natural=stone": {
+        "message": "Pedra"
+    },
+    "tag:natural=strait": {
+        "message": "Estreito"
+    },
+    "tag:natural=tree": {
+        "message": "Árvore"
+    },
+    "tag:natural=tree_row": {
+        "message": "Fileira de árvores"
+    },
+    "tag:natural=valley": {
+        "message": "Vale"
+    },
+    "tag:natural=volcano": {
+        "message": "Vulcão"
+    },
+    "tag:natural=water": {
+        "message": "Água"
+    },
+    "tag:natural=wetland": {
+        "message": "Área úmida"
+    },
+    "tag:natural=wood": {
+        "message": "Mata"
+    },
+    "tag:network": {
+        "message": "Rede"
+    },
+    "tag:network=icn": {
+        "message": "Ciclorrota international"
+    },
+    "tag:network=iwn": {
+        "message": "Rota de caminhada international"
+    },
+    "tag:network=lcn": {
+        "message": "Ciclorrota local"
+    },
+    "tag:network=lwn": {
+        "message": "Rota de caminhada local"
+    },
+    "tag:network=ncn": {
+        "message": "Ciclorrota national"
+    },
+    "tag:network=nwn": {
+        "message": "Rota de caminhada nacional"
+    },
+    "tag:network=rcn": {
+        "message": "Ciclorrota regional"
+    },
+    "tag:network=rwn": {
+        "message": "Rota de caminhada regional"
+    },
+    "tag:noexit": {
+        "message": "Via sem saída"
+    },
+    "tag:note": {
+        "message": "Nota"
+    },
+    "tag:office": {
+        "message": "Escritório"
+    },
+    "tag:official_name": {
+        "message": "Nome oficial"
+    },
+    "tag:old_name": {
+        "message": "Nome antigo"
+    },
+    "tag:oneway": {
+        "message": "Mão única"
+    },
+    "tag:opening_date": {
+        "message": "Data de inauguração"
+    },
+    "tag:opening_hours": {
+        "message": "Hora de funcionamento"
+    },
+    "tag:operator": {
+        "message": "Operador"
+    },
+    "tag:parking:lane": {
+        "message": "Estacionamento"
+    },
+    "tag:parking:lane=diagonal": {
+        "message": "na diagonal"
+    },
+    "tag:parking:lane=fire_lane": {
+        "message": "deixar livre para veículos de combate a incêndios"
+    },
+    "tag:parking:lane=marked": {
+        "message": "vagas demarcadas"
+    },
+    "tag:parking:lane=no": {
+        "message": "não"
+    },
+    "tag:parking:lane=no_parking": {
+        "message": "proibido estacionar"
+    },
+    "tag:parking:lane=no_stopping": {
+        "message": "proibido parar e estacionar"
+    },
+    "tag:parking:lane=parallel": {
+        "message": "em paralelo"
+    },
+    "tag:parking:lane=perpendicular": {
+        "message": "na perpendicular"
+    },
+    "tag:phone": {
+        "message": "Telefone"
+    },
+    "tag:place": {
+        "message": "Lugar"
+    },
+    "tag:place=city": {
+        "message": "Cidade"
+    },
+    "tag:place=city population<200000": {
+        "message": "Cidade média"
+    },
+    "tag:place=continent": {
+        "message": "Continente"
+    },
+    "tag:place=country": {
+        "message": "País"
+    },
+    "tag:place=county": {
+        "message": "Condado"
+    },
+    "tag:place=farm": {
+        "message": "Núcleo de fazenda"
+    },
+    "tag:place=hamlet": {
+        "message": "Povoado/Lugarejo"
+    },
+    "tag:place=island": {
+        "message": "Ilha"
+    },
+    "tag:place=islet": {
+        "message": "Ilhota"
+    },
+    "tag:place=isolated_dwelling": {
+        "message": "Moradia isolada"
+    },
+    "tag:place=locality": {
+        "message": "Localidade"
+    },
+    "tag:place=neighbourhood": {
+        "message": "Vizinhança"
+    },
+    "tag:place=ocean": {
+        "message": "Oceano"
+    },
+    "tag:place=quarter": {
+        "message": "Sub-bairro/Bairro menor"
+    },
+    "tag:place=region": {
+        "message": "Região"
+    },
+    "tag:place=sea": {
+        "message": "Mar"
+    },
+    "tag:place=state": {
+        "message": "Estado"
+    },
+    "tag:place=suburb": {
+        "message": "Bairro"
+    },
+    "tag:place=town": {
+        "message": "Cidade menor"
+    },
+    "tag:place=town population>=30000": {
+        "message": "Cidade média-pequena"
+    },
+    "tag:place=village": {
+        "message": "Vila sede de distrito"
+    },
+    "tag:population": {
+        "message": "População"
+    },
+    "tag:power": {
+        "message": "Energia"
+    },
+    "tag:power=cable": {
+        "message": "Cabo"
+    },
+    "tag:power=catenary_mast": {
+        "message": "Poste de catenária"
+    },
+    "tag:power=compensator": {
+        "message": "Compensador"
+    },
+    "tag:power=converter": {
+        "message": "Conversor"
+    },
+    "tag:power=generator": {
+        "message": "Generador de energia"
+    },
+    "tag:power=heliostat": {
+        "message": "Heliostato"
+    },
+    "tag:power=insulator": {
+        "message": "Isolador"
+    },
+    "tag:power=line": {
+        "message": "Linha de transmissão"
+    },
+    "tag:power=pole": {
+        "message": "Poste de energia"
+    },
+    "tag:power=station": {
+        "message": "Estação de energia"
+    },
+    "tag:power=substation": {
+        "message": "Subestação de energia"
+    },
+    "tag:power=switchgear": {
+        "message": "Aparelhagem"
+    },
+    "tag:power=terminal": {
+        "message": "Terminal"
+    },
+    "tag:power=tower": {
+        "message": "Torre de alta tensão"
+    },
+    "tag:power=transformer": {
+        "message": "Transformador"
+    },
+    "tag:power_source": {
+        "message": "Fonte de energia"
+    },
+    "tag:power_source=biofuel": {
+        "message": "Biomassa"
+    },
+    "tag:power_source=coal": {
+        "message": "Carvão"
+    },
+    "tag:power_source=fusion": {
+        "message": "Fusão"
+    },
+    "tag:power_source=gas": {
+        "message": "Gás"
+    },
+    "tag:power_source=geothermal": {
+        "message": "Geotermal"
+    },
+    "tag:power_source=hydro": {
+        "message": "Hidráulica"
+    },
+    "tag:power_source=oil": {
+        "message": "Óleo"
+    },
+    "tag:power_source=photovoltaic": {
+        "message": "Fotovoltaico"
+    },
+    "tag:power_source=solar-thermal": {
+        "message": "Termossolar"
+    },
+    "tag:power_source=tidal": {
+        "message": "Marés"
+    },
+    "tag:power_source=waste": {
+        "message": "Lixo"
+    },
+    "tag:power_source=wave": {
+        "message": "Ondas"
+    },
+    "tag:power_source=wind": {
+        "message": "Ventos"
+    },
+    "tag:proposed": {
+        "message": "Proposto"
+    },
+    "tag:public_transport": {
+        "message": "Transporte público"
+    },
+    "tag:railway": {
+        "message": "Ferrovia"
+    },
+    "tag:railway=rail": {
+        "message": "Trilho de comboio"
+    },
+    "tag:railway=rail service": {
+        "message": "Manobras"
+    },
+    "tag:railway=rail service=siding": {
+        "message": "Ultrapassagem"
+    },
+    "tag:railway=rail service=spur": {
+        "message": "Esporão"
+    },
+    "tag:railway=rail service=yard": {
+        "message": "Linha de pátio de manobras"
+    },
+    "tag:railway=rail usage": {
+        "message": "Uso"
+    },
+    "tag:real_ale": {
+        "message": "Serve real ale"
+    },
+    "tag:ref": {
+        "message": "Referência"
+    },
+    "tag:religion": {
+        "message": "Religião"
+    },
+    "tag:religion=buddhist": {
+        "message": "budista"
+    },
+    "tag:religion=christian": {
+        "message": "cristã"
+    },
+    "tag:religion=jewish": {
+        "message": "judia"
+    },
+    "tag:religion=multifaith": {
+        "message": "múltiplas"
+    },
+    "tag:religion=muslim": {
+        "message": "muçulmana"
+    },
+    "tag:route": {
+        "message": "Rota"
+    },
+    "tag:route=bicycle": {
+        "message": "Bicicleta"
+    },
+    "tag:route=bus": {
+        "message": "Autocarro"
+    },
+    "tag:route=ferry": {
+        "message": "Balsa"
+    },
+    "tag:route=fitness_trail": {
+        "message": "Trilha de fitness"
+    },
+    "tag:route=light_rail": {
+        "message": "Comboio leve"
+    },
+    "tag:route=minibus": {
+        "message": "Micro-autocarro"
+    },
+    "tag:route=monorail": {
+        "message": "Monotrilho"
+    },
+    "tag:route=mtb": {
+        "message": "Mountain bike"
+    },
+    "tag:route=rail": {
+        "message": "Ferrovia"
+    },
+    "tag:route=railway": {
+        "message": "Ferrovia"
+    },
+    "tag:route=road": {
+        "message": "Autoestrada"
+    },
+    "tag:route=subway": {
+        "message": "Metro"
+    },
+    "tag:route=train": {
+        "message": "Comboio"
+    },
+    "tag:route=tram": {
+        "message": "Eléctrico"
+    },
+    "tag:route=tram_bus": {
+        "message": "Eléctrico e Autocarro"
+    },
+    "tag:route=trolley": {
+        "message": "Trólebus"
+    },
+    "tag:route=trolleybus": {
+        "message": "Trólebus"
+    },
+    "tag:service": {
+        "message": "Tipo de via de serviço"
+    },
+    "tag:shop": {
+        "message": "Compras"
+    },
+    "tag:shop=bakery": {
+        "message": "Padaria"
+    },
+    "tag:shop=bicycle": {
+        "message": "Bicicletaria"
+    },
+    "tag:shop=books": {
+        "message": "Livraria"
+    },
+    "tag:shop=toys": {
+        "message": "Loja de brinquedos"
+    },
+    "tag:sidewalk": {
+        "message": "Calçada ao longo da via"
+    },
+    "tag:sidewalk:left": {
+        "message": "Calçada esquerda"
+    },
+    "tag:sidewalk:right": {
+        "message": "Calçada direita"
+    },
+    "tag:sidewalk=no": {
+        "message": "Via sem calçada"
+    },
+    "tag:sidewalk=separate": {
+        "message": "Via com calçada mapeada separadamente"
+    },
+    "tag:sidewalk=yes": {
+        "message": "Via com calçada"
+    },
+    "tag:smoothness": {
+        "message": "Trafegabilidade"
+    },
+    "tag:smoothness=bad": {
+        "message": "ruim"
+    },
+    "tag:smoothness=excellent": {
+        "message": "excelente"
+    },
+    "tag:smoothness=good": {
+        "message": "boa"
+    },
+    "tag:smoothness=horrible": {
+        "message": "horrível"
+    },
+    "tag:smoothness=impassable": {
+        "message": "intransitável"
+    },
+    "tag:smoothness=intermediate": {
+        "message": "intermediário"
+    },
+    "tag:smoothness=very_bad": {
+        "message": "muito ruim"
+    },
+    "tag:smoothness=very_horrible": {
+        "message": "muito horrível"
+    },
+    "tag:source": {
+        "message": "Fonte"
+    },
+    "tag:species": {
+        "message": "Espécies"
+    },
+    "tag:sport": {
+        "message": "Desporto"
+    },
+    "tag:sport=10pin": {
+        "message": "Boliche"
+    },
+    "tag:sport=9pin": {
+        "message": "Bolão"
+    },
+    "tag:sport=american_football": {
+        "message": "Futebol americano"
+    },
+    "tag:sport=archery": {
+        "message": "Tiro com arco"
+    },
+    "tag:sport=athletics": {
+        "message": "Atletismo"
+    },
+    "tag:sport=australian_football": {
+        "message": "Futebol australiano"
+    },
+    "tag:sport=baseball": {
+        "message": "Basebol"
+    },
+    "tag:sport=basketball": {
+        "message": "Basquete"
+    },
+    "tag:sport=beachvolleyball": {
+        "message": "Vôlei de praia"
+    },
+    "tag:sport=billiards": {
+        "message": "Bilhar"
+    },
+    "tag:sport=bmx": {
+        "message": "BMX"
+    },
+    "tag:sport=boules": {
+        "message": "Bocha"
+    },
+    "tag:sport=boxing": {
+        "message": "Boxe"
+    },
+    "tag:sport=bullfighting": {
+        "message": "Tourada"
+    },
+    "tag:sport=canadian_football": {
+        "message": "Futebol canadiano"
+    },
+    "tag:sport=canoe": {
+        "message": "Canoa"
+    },
+    "tag:sport=chess": {
+        "message": "Xadrez"
+    },
+    "tag:sport=climbing": {
+        "message": "Escalada"
+    },
+    "tag:sport=climbing_adventure": {
+        "message": "Aventura de escalada"
+    },
+    "tag:sport=cockfighting": {
+        "message": "Rinha de galo"
+    },
+    "tag:sport=cycling": {
+        "message": "Ciclismo"
+    },
+    "tag:sport=darts": {
+        "message": "Dardos"
+    },
+    "tag:sport=disc_golf": {
+        "message": "Disco de golfe"
+    },
+    "tag:sport=diving": {
+        "message": "Mergulho"
+    },
+    "tag:sport=dog_racing": {
+        "message": "Corrida de cães"
+    },
+    "tag:sport=equestrian": {
+        "message": "Equitação"
+    },
+    "tag:sport=fitness": {
+        "message": "Exercícios"
+    },
+    "tag:sport=football": {
+        "message": "Futebol americano"
+    },
+    "tag:sport=free_flying": {
+        "message": "Voo livre"
+    },
+    "tag:sport=gaelic_games": {
+        "message": "Jogos gaélicos"
+    },
+    "tag:sport=golf": {
+        "message": "Golfe"
+    },
+    "tag:sport=gymnastics": {
+        "message": "Ginástica"
+    },
+    "tag:sport=handball": {
+        "message": "Andebol"
+    },
+    "tag:sport=horse_racing": {
+        "message": "Corrida de cavalos"
+    },
+    "tag:sport=horseshoes": {
+        "message": "Ferradura"
+    },
+    "tag:sport=ice_hockey": {
+        "message": "Hockey no gelo"
+    },
+    "tag:sport=ice_skating": {
+        "message": "Patinagem no gelo"
+    },
+    "tag:sport=karting": {
+        "message": "Corrida de kart"
+    },
+    "tag:sport=long_jump": {
+        "message": "Salto em distância"
+    },
+    "tag:sport=motor": {
+        "message": "Motorizado"
+    },
+    "tag:sport=multi": {
+        "message": "Poliesportivo"
+    },
+    "tag:sport=paragliding": {
+        "message": "Parapente"
+    },
+    "tag:sport=roller_skating": {
+        "message": "Patinação in-line"
+    },
+    "tag:sport=rugby_league": {
+        "message": "Rugby league"
+    },
+    "tag:sport=rugby_union": {
+        "message": "Rugby de quinze"
+    },
+    "tag:sport=running": {
+        "message": "Corrida"
+    },
+    "tag:sport=sailing": {
+        "message": "Navegação"
+    },
+    "tag:sport=scuba_diving": {
+        "message": "Mergulho"
+    },
+    "tag:sport=shooting": {
+        "message": "Tiro"
+    },
+    "tag:sport=skateboard": {
+        "message": "Skate"
+    },
+    "tag:sport=skating": {
+        "message": "Patinação"
+    },
+    "tag:sport=skiing": {
+        "message": "Ski"
+    },
+    "tag:sport=soccer": {
+        "message": "Futebol"
+    },
+    "tag:sport=softball": {
+        "message": "Softbol"
+    },
+    "tag:sport=swimming": {
+        "message": "Natação"
+    },
+    "tag:sport=table_tennis": {
+        "message": "Tênis de Mesa"
+    },
+    "tag:sport=team_handball": {
+        "message": "Handbol"
+    },
+    "tag:sport=tennis": {
+        "message": "Tênis"
+    },
+    "tag:sport=trampoline": {
+        "message": "Trampolim"
+    },
+    "tag:sport=volleyball": {
+        "message": "Vôlei"
+    },
+    "tag:start_date": {
+        "message": "Data de início"
+    },
+    "tag:subject": {
+        "message": "Tema"
+    },
+    "tag:surface": {
+        "message": "Superfície"
+    },
+    "tag:surface=acrylic": {
+        "message": "acrílico"
+    },
+    "tag:surface=asphalt": {
+        "message": "alcatrão"
+    },
+    "tag:surface=carpet": {
+        "message": "carpete"
+    },
+    "tag:surface=compacted": {
+        "message": "compactado"
+    },
+    "tag:surface=concrete": {
+        "message": "concreto"
+    },
+    "tag:surface=earth": {
+        "message": "terra"
+    },
+    "tag:surface=fine_gravel": {
+        "message": "cascalho fino"
+    },
+    "tag:surface=grass": {
+        "message": "grama"
+    },
+    "tag:surface=gravel": {
+        "message": "cascalho"
+    },
+    "tag:surface=ice": {
+        "message": "gelo"
+    },
+    "tag:surface=metal": {
+        "message": "metal"
+    },
+    "tag:surface=mud": {
+        "message": "lama"
+    },
+    "tag:surface=paved": {
+        "message": "pavimentado"
+    },
+    "tag:surface=paving_stones": {
+        "message": "blocos intertravados"
+    },
+    "tag:surface=pebblestone": {
+        "message": "pedregulho"
+    },
+    "tag:surface=rock": {
+        "message": "rocha"
+    },
+    "tag:surface=rubber": {
+        "message": "borracha"
+    },
+    "tag:surface=salt": {
+        "message": "sal"
+    },
+    "tag:surface=sand": {
+        "message": "areia"
+    },
+    "tag:surface=sett": {
+        "message": "paralelepípedo"
+    },
+    "tag:surface=snow": {
+        "message": "neve"
+    },
+    "tag:surface=stepping_stones": {
+        "message": "intertravado"
+    },
+    "tag:surface=unhewn_cobblestone": {
+        "message": "pedra irregular"
+    },
+    "tag:surface=unpaved": {
+        "message": "não pavimentado"
+    },
+    "tag:surface=wood": {
+        "message": "madeira"
+    },
+    "tag:surface=woodchips": {
+        "message": "lascas de madeira"
+    },
+    "tag:tactile_paving": {
+        "message": "Piso tátil"
+    },
+    "tag:theatre:genre": {
+        "message": "Género"
+    },
+    "tag:tourism": {
+        "message": "Turismo"
+    },
+    "tag:tourism=camp_site": {
+        "message": "Área de Acampamento"
+    },
+    "tag:tourism=caravan_site": {
+        "message": "Estacionamento de trailers"
+    },
+    "tag:tourism=chalet": {
+        "message": "Chalé"
+    },
+    "tag:tourism=gallery": {
+        "message": "Galeria de arte"
+    },
+    "tag:tourism=guest_house": {
+        "message": "Casa de hóspedes"
+    },
+    "tag:tourism=hostel": {
+        "message": "Hostel"
+    },
+    "tag:tourism=hotel": {
+        "message": "Hotel"
+    },
+    "tag:tourism=motel": {
+        "message": "Hotel de estrada"
+    },
+    "tag:tourism=museum": {
+        "message": "Museu"
+    },
+    "tag:tourism=spa_resort": {
+        "message": "Estância termal"
+    },
+    "tag:tourism=trail_riding_station": {
+        "message": "Estação de hipismo de trilha"
+    },
+    "tag:tourism=wilderness_hut": {
+        "message": "Abrigo isolado"
+    },
+    "tag:tracks": {
+        "message": "Caminhos"
+    },
+    "tag:tracks=double": {
+        "message": "Duplo"
+    },
+    "tag:tracks=multiple": {
+        "message": "Múltiplo"
+    },
+    "tag:tracks=single": {
+        "message": "Singelo"
+    },
+    "tag:tracktype": {
+        "message": "Tipo de caminho"
+    },
+    "tag:traffic_calming": {
+        "message": "Moderador de tráfego"
+    },
+    "tag:traffic_sign": {
+        "message": "Sinal de trânsito"
+    },
+    "tag:tunnel": {
+        "message": "Túnel"
+    },
+    "tag:type": {
+        "message": "Tipo"
+    },
+    "tag:type=gas": {
+        "message": "Gás"
+    },
+    "tag:type=heat": {
+        "message": "Calor"
+    },
+    "tag:type=hot_water": {
+        "message": "Água quente"
+    },
+    "tag:type=oil": {
+        "message": "Óleo"
+    },
+    "tag:type=route route=mtb": {
+        "message": "Rota MTB"
+    },
+    "tag:type=sewage": {
+        "message": "Esgotos"
+    },
+    "tag:type=water": {
+        "message": "Água"
+    },
+    "tag:vehicle": {
+        "message": "Permissão de acesso a veículos"
+    },
+    "tag:via_ferrata_scale": {
+        "message": "Escala da via ferrata"
+    },
+    "tag:voltage": {
+        "message": "Voltagem"
+    },
+    "tag:water=basin": {
+        "message": "Bacia"
+    },
+    "tag:water=fish_pass": {
+        "message": "Escada de peixes"
+    },
+    "tag:water=lagoon": {
+        "message": "Laguna"
+    },
+    "tag:water=lake": {
+        "message": "Lago"
+    },
+    "tag:water=lock": {
+        "message": "Eclusa"
+    },
+    "tag:water=moat": {
+        "message": "Fosso"
+    },
+    "tag:water=pond": {
+        "message": "Lagoa/Tanque"
+    },
+    "tag:water=reservoir": {
+        "message": "Reservatório"
+    },
+    "tag:water=river": {
+        "message": "Rio"
+    },
+    "tag:water=wastewater": {
+        "message": "Águas residuais"
+    },
+    "tag:waterway": {
+        "message": "Hidrografia"
+    },
+    "tag:waterway=ditch": {
+        "message": "Vala"
+    },
+    "tag:waterway=drain": {
+        "message": "Valeta de drenagem"
+    },
+    "tag:waterway=river": {
+        "message": "Rio"
+    },
+    "tag:waterway=river width>10": {
+        "message": "Rio largo"
+    },
+    "tag:waterway=riverbank": {
+        "message": "Margem de rio"
+    },
+    "tag:waterway=waterfall": {
+        "message": "Cachoeira"
+    },
+    "tag:waterway=weir": {
+        "message": "Vertedouro/Mini-barragem"
+    },
+    "tag:website": {
+        "message": "Website"
+    },
+    "tag:wheelchair": {
+        "message": "Cadeirante"
+    },
+    "tag:wheelchair=limited": {
+        "message": "limitado"
+    },
+    "tag:width": {
+        "message": "Largura"
+    },
+    "tag:wikipedia": {
+        "message": "Wikipédia"
+    },
+    "tag:wires": {
+        "message": "Fios"
+    },
+    "tag:wood": {
+        "message": "Tipo de mata"
+    },
+    "tag:xmas:feature=crib": {
+        "message": "Presépio"
+    },
+    "tag:xmas:feature=event": {
+        "message": "Evento natalino"
+    },
+    "tag:xmas:feature=lighting": {
+        "message": "Luzes natalinas"
+    },
+    "tag:xmas:feature=market": {
+        "message": "Mercado"
+    },
+    "tag:xmas:feature=pyramid": {
+        "message": "Pirâmide"
+    },
+    "tag:xmas:feature=shop": {
+        "message": "Loja"
+    },
+    "tag:xmas:feature=tree": {
+        "message": "Árvore de Natal"
+    },
+    "tag:year_of_construction": {
+        "message": "Período de construção"
+    }
+}
