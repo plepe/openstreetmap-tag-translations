@@ -6334,7 +6334,7 @@
         "description": "Tag \"parking:lane=perpendicular\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=perpendicular"
     },
     "tag:sidewalk": {
-        "message": "",
+        "message": "Útszéli járda",
         "description": "Key \"sidewalk\". See https://wiki.openstreetmap.org/wiki/Key:sidewalk"
     },
     "tag:sport=boxing": {
@@ -6553,5 +6553,164 @@
     },
     "tag:contact:youtube": {
         "message": "YouTube"
+    },
+    "tag:artwork_type": {
+        "message": "Mű típusa"
+    },
+    "tag:artwork_type=architecture": {
+        "message": "Építészet"
+    },
+    "tag:artwork_type=bust": {
+        "message": "Mellszobor"
+    },
+    "tag:artwork_type=fountain": {
+        "message": "Szökőkút"
+    },
+    "tag:artwork_type=graffiti": {
+        "message": ""
+    },
+    "tag:artwork_type=installation": {
+        "message": "Installáció"
+    },
+    "tag:artwork_type=mosaic": {
+        "message": "Mozaik"
+    },
+    "tag:artwork_type=mural": {
+        "message": "Falfestmény"
+    },
+    "tag:artwork_type=painting": {
+        "message": "Festmény"
+    },
+    "tag:artwork_type=relief": {
+        "message": "Dombormű"
+    },
+    "tag:artwork_type=sculpture": {
+        "message": "Szobrászat"
+    },
+    "tag:artwork_type=statue": {
+        "message": "Szobor"
+    },
+    "tag:artwork_type=stone": {
+        "message": ""
+    },
+    "tag:bicycle_road": {
+        "message": "Bicikli út"
+    },
+    "tag:cycleway=crossing": {
+        "message": "Biciklis átkelő"
+    },
+    "tag:emergency=lifeguard": {
+        "message": "Vízimentő"
+    },
+    "tag:footway=crossing": {
+        "message": "Gyalogosátkelő"
+    },
+    "tag:leisure=pitch sport=equestrian": {
+        "message": "Lovaglópálya"
+    },
+    "tag:leisure=pitch sport=softball": {
+        "message": "Softball pálya"
+    },
+    "tag:leisure=trampoline_park": {
+        "message": "Trambulin park"
+    },
+    "tag:parcel_mail_in=returns_only": {
+        "message": "csak visszaküldés"
+    },
+    "tag:parking:lane": {
+        "message": "Leállósáv"
+    },
+    "tag:parking:lane=no_parking": {
+        "message": "csak berakodás"
+    },
+    "tag:post_office=post_annex": {
+        "message": "Magán posta"
+    },
+    "tag:sidewalk:left": {
+        "message": "Bal oldali járda"
+    },
+    "tag:sidewalk:right": {
+        "message": "Jobb oldali járda"
+    },
+    "tag:sidewalk=no": {
+        "message": "Utca járda nélkül"
+    },
+    "tag:smoothness=bad": {
+        "message": "rossz"
+    },
+    "tag:smoothness=excellent": {
+        "message": "kiváló"
+    },
+    "tag:smoothness=good": {
+        "message": "jó"
+    },
+    "tag:smoothness=horrible": {
+        "message": "borzalmas"
+    },
+    "tag:smoothness=intermediate": {
+        "message": "közepes"
+    },
+    "tag:smoothness=very_bad": {
+        "message": "nagyon rossz"
+    },
+    "tag:sport=roller_skating": {
+        "message": "Görkorcsolya"
+    },
+    "tag:sport=trampoline": {
+        "message": "Trambulin"
+    },
+    "tag:surface=acrylic": {
+        "message": "akril"
+    },
+    "tag:surface=artificial_turf": {
+        "message": "műfű"
+    },
+    "tag:surface=asphalt": {
+        "message": "aszfalt"
+    },
+    "tag:surface=carpet": {
+        "message": "szőnyeg"
+    },
+    "tag:surface=clay": {
+        "message": "agyag"
+    },
+    "tag:surface=cobblestone": {
+        "message": "macskakő"
+    },
+    "tag:surface=concrete": {
+        "message": "beton"
+    },
+    "tag:surface=dirt": {
+        "message": ""
+    },
+    "tag:surface=grass": {
+        "message": "fű"
+    },
+    "tag:surface=ice": {
+        "message": "jég"
+    },
+    "tag:surface=metal": {
+        "message": "fém"
+    },
+    "tag:surface=mud": {
+        "message": "sár"
+    },
+    "tag:surface=pebblestone": {
+        "message": "kavics"
+    },
+    "tag:surface=rock": {
+        "message": "kő"
+    },
+    "tag:surface=rubber": {
+        "message": "gumi"
+    },
+    "tag:surface=salt": {
+        "message": "só"
+    },
+    "tag:surface=sand": {
+        "message": "homok"
+    },
+    "tag:surface=snow": {
+        "message": "hó"
     }
 }
