@@ -6555,10 +6555,10 @@
         "message": "YouTube"
     },
     "tag:artwork_type": {
-        "message": "Mű típusa"
+        "message": "Műalkotás típusa"
     },
     "tag:artwork_type=architecture": {
-        "message": "Építészet"
+        "message": "Építészeti alkotás"
     },
     "tag:artwork_type=bust": {
         "message": "Mellszobor"
@@ -6567,7 +6567,7 @@
         "message": "Szökőkút"
     },
     "tag:artwork_type=graffiti": {
-        "message": ""
+        "message": "Graffiti"
     },
     "tag:artwork_type=installation": {
         "message": "Installáció"
@@ -6585,19 +6585,19 @@
         "message": "Dombormű"
     },
     "tag:artwork_type=sculpture": {
-        "message": "Szobrászat"
+        "message": "Absztrakt szobor"
     },
     "tag:artwork_type=statue": {
         "message": "Szobor"
     },
     "tag:artwork_type=stone": {
-        "message": ""
+        "message": "Kő"
     },
     "tag:bicycle_road": {
-        "message": "Bicikli út"
+        "message": "Kerékpáros út (Fahrradstraße)"
     },
     "tag:cycleway=crossing": {
-        "message": "Biciklis átkelő"
+        "message": "Kerékpáros-átkelő"
     },
     "tag:emergency=lifeguard": {
         "message": "Vízimentő"
@@ -6612,16 +6612,16 @@
         "message": "Softball pálya"
     },
     "tag:leisure=trampoline_park": {
-        "message": "Trambulin park"
+        "message": "Trambulinpark"
     },
     "tag:parcel_mail_in=returns_only": {
         "message": "csak visszaküldés"
     },
     "tag:parking:lane": {
-        "message": "Leállósáv"
+        "message": "Út széli parkolás"
     },
     "tag:parking:lane=no_parking": {
-        "message": "csak berakodás"
+        "message": ""
     },
     "tag:post_office=post_annex": {
         "message": "Magán posta"
@@ -6633,7 +6633,7 @@
         "message": "Jobb oldali járda"
     },
     "tag:sidewalk=no": {
-        "message": "Utca járda nélkül"
+        "message": "Járda nélküli utca"
     },
     "tag:smoothness=bad": {
         "message": "rossz"
@@ -6669,7 +6669,7 @@
         "message": "aszfalt"
     },
     "tag:surface=carpet": {
-        "message": "szőnyeg"
+        "message": "padlószőnyeg"
     },
     "tag:surface=clay": {
         "message": "agyag"
@@ -6681,7 +6681,7 @@
         "message": "beton"
     },
     "tag:surface=dirt": {
-        "message": ""
+        "message": "föld"
     },
     "tag:surface=grass": {
         "message": "fű"
