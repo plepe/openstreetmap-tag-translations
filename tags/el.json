@@ -953,7 +953,7 @@
         "description": "Tag \"building=water_tower\". See https://wiki.openstreetmap.org/wiki/Tag:building=water_tower"
     },
     "tag:cables": {
-        "message": "",
+        "message": "Καλώδια",
         "description": "Key \"cables\". See https://wiki.openstreetmap.org/wiki/Key:cables"
     },
     "tag:capacity": {
@@ -5490,7 +5490,7 @@
         "description": "Tag \"sport=ice_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_hockey"
     },
     "tag:sport=ice_skating": {
-        "message": "",
+        "message": "Παγοδρομία",
         "description": "Tag \"sport=ice_skating\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_skating"
     },
     "tag:sport=korfball": {
@@ -5970,7 +5970,7 @@
         "description": "Tag \"waterway=waterfall\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=waterfall"
     },
     "tag:waterway=weir": {
-        "message": "",
+        "message": "Υδατοφράχτης",
         "description": "Tag \"waterway=weir\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=weir"
     },
     "tag:website": {
@@ -5978,7 +5978,7 @@
         "description": "Key \"website\". See https://wiki.openstreetmap.org/wiki/Key:website"
     },
     "tag:wheelchair": {
-        "message": "Αναπηρική πολυθρόνα",
+        "message": "Αναπηρικό αμαξίδιο",
         "description": "Key \"wheelchair\". See https://wiki.openstreetmap.org/wiki/Key:wheelchair"
     },
     "tag:wheelchair=limited": {
@@ -6006,7 +6006,7 @@
         "description": "Key \"xmas:feature\". See https://wiki.openstreetmap.org/wiki/Key:xmas:feature"
     },
     "tag:xmas:feature=event": {
-        "message": "",
+        "message": "Χριστουγεννιάτικη εκδήλωση",
         "description": "Tag \"xmas:feature=event\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=event"
     },
     "tag:xmas:feature=market": {
@@ -6202,5 +6202,14 @@
     "tag:contact:phone": {
         "message": "Αριθμ. τηλεφώνου",
         "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
+    },
+    "tag:climbing": {
+        "message": "Αναρρίχηση"
+    },
+    "tag:xmas:feature=lighting": {
+        "message": "Χριστουγεννιάτικος φωτισμός"
+    },
+    "tag:access=use_sidepath": {
+        "message": "χρήση πεζοδρομίου αντ' αυτού"
     }
 }
