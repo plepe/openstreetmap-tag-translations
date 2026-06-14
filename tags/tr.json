@@ -2895,5 +2895,8 @@
     "tag:contact:phone": {
         "message": "Telefon numarası",
         "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
+    },
+    "tag:addr:interpolation": {
+        "message": "Aradeğerle hesaplanmış kapı numaraları"
     }
 }
