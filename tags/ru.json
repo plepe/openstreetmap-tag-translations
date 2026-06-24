@@ -14,7 +14,7 @@
         "description": "Key \"abutters\". See https://wiki.openstreetmap.org/wiki/Key:abutters"
     },
     "tag:access": {
-        "message": "",
+        "message": "Ключ «access». Подробнее https://wiki.openstreetmap.org/wiki/Key:access",
         "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
     },
     "tag:access!=private": {
@@ -73,7 +73,7 @@
         "description": "Tag \"admin_level=10\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=10"
     },
     "tag:admin_level=11": {
-        "message": "",
+        "message": "Район (11)",
         "description": "Tag \"admin_level=11\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=11"
     },
     "tag:admin_level=2": {
@@ -209,7 +209,7 @@
         "description": "Tag \"amenity=car_sharing\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_sharing"
     },
     "tag:amenity=car_wash": {
-        "message": "",
+        "message": "Автомойка",
         "description": "Tag \"amenity=car_wash\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=car_wash"
     },
     "tag:amenity=charging_station": {
@@ -269,7 +269,7 @@
         "description": "Tag \"amenity=fast_food\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fast_food"
     },
     "tag:amenity=ferry_terminal": {
-        "message": "",
+        "message": "Паромная переправа",
         "description": "Tag \"amenity=ferry_terminal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ferry_terminal"
     },
     "tag:amenity=fire_station": {
@@ -301,7 +301,7 @@
         "description": "Tag \"amenity=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=hospital"
     },
     "tag:amenity=ice_cream": {
-        "message": "",
+        "message": "Мороженое",
         "description": "Tag \"amenity=ice_cream\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=ice_cream"
     },
     "tag:amenity=internet_cafe": {
@@ -329,7 +329,7 @@
         "description": "Tag \"amenity=motorcycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=motorcycle_parking"
     },
     "tag:amenity=nursing_home": {
-        "message": "",
+        "message": "Дом пристарелых",
         "description": "Tag \"amenity=nursing_home\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=nursing_home"
     },
     "tag:amenity=parking": {
@@ -341,7 +341,7 @@
         "description": "Tag \"amenity=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pharmacy"
     },
     "tag:amenity=place_of_worship": {
-        "message": "",
+        "message": "Священное место",
         "description": "Tag \"amenity=place_of_worship\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship"
     },
     "tag:amenity=police": {
@@ -361,7 +361,7 @@
         "description": "Tag \"amenity=pub\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=pub"
     },
     "tag:amenity=public_bath": {
-        "message": "",
+        "message": "Общественная баня",
         "description": "Tag \"amenity=public_bath\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=public_bath"
     },
     "tag:amenity=public_bookcase": {
@@ -397,7 +397,7 @@
         "description": "Tag \"amenity=shelter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shelter"
     },
     "tag:amenity=shower": {
-        "message": "",
+        "message": "Душ",
         "description": "Tag \"amenity=shower\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shower"
     },
     "tag:amenity=signpost": {
@@ -433,7 +433,7 @@
         "description": "Tag \"amenity=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets"
     },
     "tag:amenity=toilets changing_table=yes": {
-        "message": "",
+        "message": "Туалеты с пеленальным столом",
         "description": "Combined tag \"amenity=toilets\" and \"changing_table=yes\". See https://wiki.openstreetmap.org/wiki/Key:changing_table"
     },
     "tag:amenity=townhall": {
@@ -441,7 +441,7 @@
         "description": "Tag \"amenity=townhall\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=townhall"
     },
     "tag:amenity=university": {
-        "message": "",
+        "message": "Университет",
         "description": "Tag \"amenity=university\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=university"
     },
     "tag:amenity=vending_machine": {
@@ -449,7 +449,7 @@
         "description": "Tag \"amenity=vending_machine\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine"
     },
     "tag:amenity=vending_machine vending=bicycle_tube": {
-        "message": "",
+        "message": "Автомат по выдаче велосипедных камер",
         "description": "Combined tag \"amenity=vending_machine\" and \"vending=bicycle_tube\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=vending_machine and https://wiki.openstreetmap.org/wiki/Tag:vending=bicycle_tube"
     },
     "tag:amenity=vending_machine vending=cigarettes": {
@@ -505,11 +505,11 @@
         "description": "Tag \"amenity=veterinary\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=veterinary"
     },
     "tag:amenity=waste_basket": {
-        "message": "",
+        "message": "Мусорное ведро",
         "description": "Tag \"amenity=waste_basket\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_basket"
     },
     "tag:amenity=waste_disposal": {
-        "message": "",
+        "message": "Мусорный бак",
         "description": "Tag \"amenity=waste_disposal\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_disposal"
     },
     "tag:amenity=waste_transfer_station": {
@@ -517,19 +517,19 @@
         "description": "Tag \"amenity=waste_transfer_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=waste_transfer_station"
     },
     "tag:architect": {
-        "message": "",
+        "message": "Архитектор",
         "description": "Key \"architect\". See https://wiki.openstreetmap.org/wiki/Key:architect"
     },
     "tag:area": {
-        "message": "",
+        "message": "Площадь",
         "description": "Key \"area\". See https://wiki.openstreetmap.org/wiki/Key:area"
     },
     "tag:artist": {
-        "message": "",
+        "message": "Автор",
         "description": "Key \"artist\". See https://wiki.openstreetmap.org/wiki/Key:artist"
     },
     "tag:artist_name": {
-        "message": "",
+        "message": "Автор",
         "description": "Key \"artist_name\". See https://wiki.openstreetmap.org/wiki/Key:artist_name"
     },
     "tag:barrier": {
@@ -569,7 +569,7 @@
         "description": "Tag \"bath:type=hammam\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hammam"
     },
     "tag:bath:type=hot_spring": {
-        "message": "",
+        "message": "Горячий источник",
         "description": "Tag \"bath:type=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hot_spring"
     },
     "tag:bath:type=lake": {
@@ -589,7 +589,7 @@
         "description": "Tag \"bath:type=thermal\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=thermal"
     },
     "tag:bicycle": {
-        "message": "",
+        "message": "Получение разрешения на проезд на велосипеде",
         "description": "Key \"bicycle\". See https://wiki.openstreetmap.org/wiki/Key:bicycle"
     },
     "tag:boundary": {
@@ -597,7 +597,7 @@
         "description": "Key \"boundary\". See https://wiki.openstreetmap.org/wiki/Key:boundary"
     },
     "tag:brand": {
-        "message": "",
+        "message": "Бренд",
         "description": "Key \"brand\". See https://wiki.openstreetmap.org/wiki/Key:brand"
     },
     "tag:bridge": {
@@ -637,7 +637,7 @@
         "description": "Tag \"building=bungalow\". See https://wiki.openstreetmap.org/wiki/Tag:building=bungalow"
     },
     "tag:building=bunker": {
-        "message": "",
+        "message": "Бункер",
         "description": "Tag \"building=bunker\". See https://wiki.openstreetmap.org/wiki/Tag:building=bunker"
     },
     "tag:building=cabin": {
@@ -649,15 +649,15 @@
         "description": "Tag \"building=carport\". See https://wiki.openstreetmap.org/wiki/Tag:building=carport"
     },
     "tag:building=cathedral": {
-        "message": "",
+        "message": "Собор",
         "description": "Tag \"building=cathedral\". See https://wiki.openstreetmap.org/wiki/Tag:building=cathedral"
     },
     "tag:building=chapel": {
-        "message": "",
+        "message": "Часовня",
         "description": "Tag \"building=chapel\". See https://wiki.openstreetmap.org/wiki/Tag:building=chapel"
     },
     "tag:building=church": {
-        "message": "",
+        "message": "Церковь",
         "description": "Tag \"building=church\". See https://wiki.openstreetmap.org/wiki/Tag:building=church"
     },
     "tag:building=church religion=christian": {
@@ -741,15 +741,15 @@
         "description": "Tag \"building=greenhouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=greenhouse"
     },
     "tag:building=hangar": {
-        "message": "",
+        "message": "Ангар",
         "description": "Tag \"building=hangar\". See https://wiki.openstreetmap.org/wiki/Tag:building=hangar"
     },
     "tag:building=hospital": {
-        "message": "",
+        "message": "Больница",
         "description": "Tag \"building=hospital\". See https://wiki.openstreetmap.org/wiki/Tag:building=hospital"
     },
     "tag:building=hotel": {
-        "message": "",
+        "message": "Отель",
         "description": "Tag \"building=hotel\". See https://wiki.openstreetmap.org/wiki/Tag:building=hotel"
     },
     "tag:building=house": {
@@ -773,7 +773,7 @@
         "description": "Tag \"building=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:building=kindergarten"
     },
     "tag:building=kiosk": {
-        "message": "",
+        "message": "Киоск",
         "description": "Tag \"building=kiosk\". See https://wiki.openstreetmap.org/wiki/Tag:building=kiosk"
     },
     "tag:building=kitchen": {
@@ -793,7 +793,7 @@
         "description": "Tag \"building=monastery\". See https://wiki.openstreetmap.org/wiki/Tag:building=monastery"
     },
     "tag:building=mosque": {
-        "message": "",
+        "message": "Мечеть",
         "description": "Tag \"building=mosque\". See https://wiki.openstreetmap.org/wiki/Tag:building=mosque"
     },
     "tag:building=mosque religion=muslim": {
@@ -809,7 +809,7 @@
         "description": "Tag \"building=parking\". See https://wiki.openstreetmap.org/wiki/Tag:building=parking"
     },
     "tag:building=pavilion": {
-        "message": "",
+        "message": "Спортивный павильон",
         "description": "Tag \"building=pavilion\". See https://wiki.openstreetmap.org/wiki/Tag:building=pavilion"
     },
     "tag:building=public": {
@@ -829,11 +829,11 @@
         "description": "Tag \"building=retail\". See https://wiki.openstreetmap.org/wiki/Tag:building=retail"
     },
     "tag:building=riding_hall": {
-        "message": "",
+        "message": "Манеж",
         "description": "Tag \"building=riding_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=riding_hall"
     },
     "tag:building=roof": {
-        "message": "",
+        "message": "Навес",
         "description": "Tag \"building=roof\". See https://wiki.openstreetmap.org/wiki/Tag:building=roof"
     },
     "tag:building=ruins": {
@@ -853,7 +853,7 @@
         "description": "Tag \"building=service\". See https://wiki.openstreetmap.org/wiki/Tag:building=service"
     },
     "tag:building=shed": {
-        "message": "",
+        "message": "Сарай",
         "description": "Tag \"building=shed\". See https://wiki.openstreetmap.org/wiki/Tag:building=shed"
     },
     "tag:building=shop": {
@@ -877,7 +877,7 @@
         "description": "Tag \"building=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=sports_hall"
     },
     "tag:building=stable": {
-        "message": "",
+        "message": "Стойло",
         "description": "Tag \"building=stable\". See https://wiki.openstreetmap.org/wiki/Tag:building=stable"
     },
     "tag:building=stadium": {
@@ -901,7 +901,7 @@
         "description": "Tag \"building=supermarket\". See https://wiki.openstreetmap.org/wiki/Tag:building=supermarket"
     },
     "tag:building=synagogue": {
-        "message": "",
+        "message": "Синагога",
         "description": "Tag \"building=synagogue\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue"
     },
     "tag:building=synagogue religion=jewish": {
@@ -909,7 +909,7 @@
         "description": "Combined tag \"building=synagogue\" and \"religion=jewish\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue and https://wiki.openstreetmap.org/wiki/Tag:religion=jewish"
     },
     "tag:building=temple": {
-        "message": "",
+        "message": "Храм",
         "description": "Tag \"building=temple\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple"
     },
     "tag:building=temple religion=sikh": {
@@ -961,11 +961,11 @@
         "description": "Key \"capacity\". See https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:charge": {
-        "message": "",
+        "message": "Оплата",
         "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
     },
     "tag:clothes": {
-        "message": "",
+        "message": "Одежда",
         "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=accessories": {
@@ -1125,11 +1125,11 @@
         "description": "Tag \"community_centre=youth_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=youth_centre"
     },
     "tag:construction": {
-        "message": "",
+        "message": "Строительство",
         "description": "Key \"construction\". See https://wiki.openstreetmap.org/wiki/Key:construction"
     },
     "tag:covered": {
-        "message": "",
+        "message": "Накрыто",
         "description": "Key \"covered\". See https://wiki.openstreetmap.org/wiki/Key:covered"
     },
     "tag:craft": {
@@ -6024,5 +6024,167 @@
     "tag:xmas:feature=tree": {
         "message": "",
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
+    },
+    "tag:access=agricultural": {
+        "message": "только сельхозтехника"
+    },
+    "tag:access=customers": {
+        "message": "только для клиентов"
+    },
+    "tag:access=delivery": {
+        "message": "только для доставок"
+    },
+    "tag:area:highway": {
+        "message": "Форма пути"
+    },
+    "tag:artwork_type": {
+        "message": "Тип произведения искусства"
+    },
+    "tag:artwork_type=architecture": {
+        "message": "Архитектура"
+    },
+    "tag:artwork_type=bust": {
+        "message": "Бюст"
+    },
+    "tag:artwork_type=fountain": {
+        "message": "Фонтан"
+    },
+    "tag:artwork_type=graffiti": {
+        "message": "Граффити"
+    },
+    "tag:artwork_type=installation": {
+        "message": "Инсталляция"
+    },
+    "tag:artwork_type=land_art": {
+        "message": "Ленд-арт"
+    },
+    "tag:artwork_type=mosaic": {
+        "message": "Мозаика"
+    },
+    "tag:artwork_type=mural": {
+        "message": "Мурал"
+    },
+    "tag:artwork_type=painting": {
+        "message": "Картина"
+    },
+    "tag:artwork_type=relief": {
+        "message": "Рельеф"
+    },
+    "tag:artwork_type=sculpture": {
+        "message": "Скульптура"
+    },
+    "tag:artwork_type=statue": {
+        "message": "Статуя"
+    },
+    "tag:artwork_type=stone": {
+        "message": "Камень"
+    },
+    "tag:artwork_type=street_art": {
+        "message": "Стрит-арт"
+    },
+    "tag:artwork_type=tilework": {
+        "message": "Изразцы"
+    },
+    "tag:barrier=kerb": {
+        "message": "Бордюр"
+    },
+    "tag:access=destination": {
+        "message": "место назначения"
+    },
+    "tag:access=discouraged": {
+        "message": "не рекомендуется"
+    },
+    "tag:access=dismount": {
+        "message": "только при движении пешком"
+    },
+    "tag:access=forestry": {
+        "message": "только траеспорт для работы в лесу"
+    },
+    "tag:access=no": {
+        "message": "Без общественного доступа"
+    },
+    "tag:access=permissive": {
+        "message": "по разрешению"
+    },
+    "tag:access=unknown": {
+        "message": "неизвестно"
+    },
+    "tag:access=use_sidepath": {
+        "message": "используйте боковую дорожку"
+    },
+    "tag:access=yes": {
+        "message": "Доступно широкой общественности"
+    },
+    "tag:amenity=childcare": {
+        "message": "Уход за детьми"
+    },
+    "tag:amenity=nightclub": {
+        "message": "Ночной клуб"
+    },
+    "tag:amenity=parcel_locker": {
+        "message": "Шкаф для посылок"
+    },
+    "tag:bicycle_road": {
+        "message": "Велосипедная дорога"
+    },
+    "tag:building:start_date": {
+        "message": "Дата окончания строительства здания"
+    },
+    "tag:building=agriculture": {
+        "message": "Сельскохозяйственное строение"
+    },
+    "tag:changing_table": {
+        "message": "Пеленальный стол"
+    },
+    "tag:climbing": {
+        "message": "Скалолазание"
+    },
+    "tag:climbing:ice": {
+        "message": "Ледолазание"
+    },
+    "tag:climbing:length": {
+        "message": "Длина восхождения"
+    },
+    "tag:climbing:mixed": {
+        "message": "Смешанное скалолазание"
+    },
+    "tag:climbing:multipitch": {
+        "message": "Многоучастковые скалолазные маршруты"
+    },
+    "tag:climbing:orientation": {
+        "message": "Направление скалолазания"
+    },
+    "tag:climbing:quality": {
+        "message": "Качество скалолазания"
+    },
+    "tag:climbing:rock": {
+        "message": "Восхождение по камням"
+    },
+    "tag:climbing=route": {
+        "message": "Маршрут"
+    },
+    "tag:climbing=route_bottom": {
+        "message": "Нижняя точка маршрута восхождения"
+    },
+    "tag:climbing=route_top": {
+        "message": "Вершина маршрута восхождения"
+    },
+    "tag:contact": {
+        "message": "Контактные данные"
+    },
+    "tag:contact:email": {
+        "message": "Электронная почта"
+    },
+    "tag:contact:ok": {
+        "message": "Одноклассники"
+    },
+    "tag:contact:phone": {
+        "message": "Номер телефона"
+    },
+    "tag:contact:vk": {
+        "message": "ВКонтакте"
+    },
+    "tag:year_of_construction": {
+        "message": "Период строительства"
     }
 }
