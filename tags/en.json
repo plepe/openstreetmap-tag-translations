@@ -192,6 +192,14 @@
         "message": "Taxiway",
         "description": "Tag \"aeroway=taxiway\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=taxiway"
     },
+    "tag:air_conditioning": {
+        "message": "Air conditioning",
+        "description": "Key \"air_conditioning\". See https://wiki.openstreetmap.org/wiki/Key:air_conditioning"
+    },
+    "tag:air_conditioning=no": {
+        "message": "No air conditioning",
+        "description": "Tag \"air_conditioning=no\". See https://wiki.openstreetmap.org/wiki/Key:air_conditioning"
+    },
     "tag:alt_name": {
         "message": "Alternative name",
         "description": "Key \"alt_name\". See https://wiki.openstreetmap.org/wiki/Key:alt_name"
