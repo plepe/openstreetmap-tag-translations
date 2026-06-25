@@ -2603,7 +2603,7 @@
     },
     "tag:diet:non-vegetarian": {
         "message": "",
-        "description": null
+        "description": "Key \"diet:non-vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:non-vegetarian"
     },
     "tag:diet:organic": {
         "message": "",
