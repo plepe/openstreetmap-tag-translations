@@ -6130,5 +6130,11 @@
     },
     "tag:xmas:feature=crib": {
         "message": "Capanna della natività"
+    },
+    "tag:air_conditioning": {
+        "message": "Aria condizionata"
+    },
+    "tag:air_conditioning=no": {
+        "message": "Senza aria condizionata"
     }
 }
