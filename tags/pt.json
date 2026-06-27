@@ -2302,5 +2302,164 @@
     },
     "tag:year_of_construction": {
         "message": "Período de construção"
+    },
+    "tag:addr:postcode": {
+        "message": "Código Postal"
+    },
+    "tag:aeroway=airstrip": {
+        "message": "Pista de aterragem"
+    },
+    "tag:air_conditioning": {
+        "message": "Ar condicionado"
+    },
+    "tag:air_conditioning=no": {
+        "message": "Sem ar condicionado"
+    },
+    "tag:amenity=baby_hatch": {
+        "message": "Roda dos expostos"
+    },
+    "tag:amenity=cinema": {
+        "message": "Cinema"
+    },
+    "tag:amenity=hospital": {
+        "message": "Hospital"
+    },
+    "tag:amenity=recycling recycling_type=container": {
+        "message": "Contentor"
+    },
+    "tag:artist": {
+        "message": "Artista"
+    },
+    "tag:artist_name": {
+        "message": "Artista"
+    },
+    "tag:artwork_type=bust": {
+        "message": "Busto"
+    },
+    "tag:artwork_type=fountain": {
+        "message": "Chafariz"
+    },
+    "tag:artwork_type=statue": {
+        "message": "Estátua"
+    },
+    "tag:artwork_type=stone": {
+        "message": "Pedra"
+    },
+    "tag:building=hospital": {
+        "message": "Hospital"
+    },
+    "tag:contact": {
+        "message": "Contacto"
+    },
+    "tag:contact:email": {
+        "message": "E-mail"
+    },
+    "tag:contact:facebook": {
+        "message": "Facebook"
+    },
+    "tag:contact:instagram": {
+        "message": "Instagram"
+    },
+    "tag:contact:linkedin": {
+        "message": "LinkedIn"
+    },
+    "tag:contact:mastodon": {
+        "message": "Mastodon"
+    },
+    "tag:contact:telegram": {
+        "message": "Telegram"
+    },
+    "tag:contact:tiktok": {
+        "message": "TikTok"
+    },
+    "tag:contact:twitter": {
+        "message": "X"
+    },
+    "tag:embankment": {
+        "message": "Aterro"
+    },
+    "tag:healthcare=hospital": {
+        "message": "Hospital"
+    },
+    "tag:highway=elevator": {
+        "message": "Elevador"
+    },
+    "tag:leisure=golf_course": {
+        "message": "Campo de Golfe"
+    },
+    "tag:leisure=marina": {
+        "message": "Marina"
+    },
+    "tag:natural=cave_entrance": {
+        "message": "Pórtico de caverna"
+    },
+    "tag:network:type=node_network node": {
+        "message": "Nó"
+    },
+    "tag:postal_code": {
+        "message": "Código Postal"
+    },
+    "tag:sport=badminton": {
+        "message": "Badminton"
+    },
+    "tag:sport=cricket": {
+        "message": "Críquete"
+    },
+    "tag:sport=croquet": {
+        "message": "Croquete"
+    },
+    "tag:sport=futsal": {
+        "message": "Futsal"
+    },
+    "tag:sport=hockey": {
+        "message": "Hóquei"
+    },
+    "tag:surface=metal_grid": {
+        "message": "grade metálica"
+    },
+    "tag:toll": {
+        "message": "Pedágio"
+    },
+    "tag:tourism=artwork": {
+        "message": "Arte"
+    },
+    "tag:traffic_sign=hazard": {
+        "message": "Perigo"
+    },
+    "tag:traffic_sign=stop": {
+        "message": "Stop"
+    },
+    "tag:waste": {
+        "message": "Lixo"
+    },
+    "tag:waste=cigarettes": {
+        "message": "cigarros"
+    },
+    "tag:waste=drugs": {
+        "message": "drogas"
+    },
+    "tag:waste=glass": {
+        "message": "vidro"
+    },
+    "tag:waste=organic": {
+        "message": "orgánico"
+    },
+    "tag:waste=paper": {
+        "message": "papel"
+    },
+    "tag:waste=plastic": {
+        "message": "plástico"
+    },
+    "tag:waste=recycling": {
+        "message": "reciclagem"
+    },
+    "tag:waste=trash": {
+        "message": "lixo"
+    },
+    "tag:water=canal": {
+        "message": "Canal"
+    },
+    "tag:waterway=canal": {
+        "message": "Canal"
     }
 }
