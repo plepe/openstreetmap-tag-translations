@@ -4582,7 +4582,7 @@
         "description": "Key \"real_ale\". See https://wiki.openstreetmap.org/wiki/Key:real_ale"
     },
     "tag:ref": {
-        "message": "",
+        "message": "Αναγνωριστικό",
         "description": "Key \"ref\". See https://wiki.openstreetmap.org/wiki/Key:ref"
     },
     "tag:religion": {
