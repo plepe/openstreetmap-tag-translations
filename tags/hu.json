@@ -2030,7 +2030,7 @@
         "description": "Key \"cycleway\". See https://wiki.openstreetmap.org/wiki/Key:cycleway"
     },
     "tag:cycleway=bike_box;asl": {
-        "message": "",
+        "message": "Előretolt kerékpáros felállóhely",
         "description": "Tag \"cycleway=bike_box;asl\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=bike_box;asl"
     },
     "tag:denomination": {
@@ -6394,7 +6394,7 @@
         "description": "Tag \"sport=softball\". See https://wiki.openstreetmap.org/wiki/Tag:sport=softball"
     },
     "tag:access=designated": {
-        "message": "kifejezetten",
+        "message": "",
         "description": "Tag \"access=designated\". See https://wiki.openstreetmap.org/wiki/Tag:access=designated"
     },
     "tag:amenity=bicycle_repair_station": {
@@ -6712,5 +6712,38 @@
     },
     "tag:surface=snow": {
         "message": "hó"
+    },
+    "tag:air_conditioning": {
+        "message": "Klimatizált helyiség"
+    },
+    "tag:air_conditioning=no": {
+        "message": "Nem klimatizált helyiség"
+    },
+    "tag:contact:threads": {
+        "message": "Threads"
+    },
+    "tag:contact:tiktok": {
+        "message": "TikTok"
+    },
+    "tag:contact:vk": {
+        "message": "VKontakte"
+    },
+    "tag:contact:whatsapp": {
+        "message": "WhatsApp"
+    },
+    "tag:diet:alcohol_free": {
+        "message": "Alkoholmentes"
+    },
+    "tag:diet:carnivore": {
+        "message": "Húsevő"
+    },
+    "tag:diet:sugar_free": {
+        "message": "Cukormentes"
+    },
+    "tag:diet:wholegrain": {
+        "message": "Teljes kiőrlésű"
+    },
+    "tag:man_made=monitoring_station": {
+        "message": "Megfigyelő-állomás"
     }
 }
