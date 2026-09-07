@@ -1766,35 +1766,35 @@
         "description": "Tag \"cuisine=fried_food\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=friture": {
-        "message": "",
+        "message": "Frytownica",
         "description": "Tag \"cuisine=friture\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=frozen_yogurt": {
-        "message": "",
+        "message": "Jogurt mrożony",
         "description": "Tag \"cuisine=frozen_yogurt\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=gaucho": {
-        "message": "",
+        "message": "Kuchnia gaucho",
         "description": "Tag \"cuisine=gaucho\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=german": {
-        "message": "",
+        "message": "niemieckie",
         "description": "Tag \"cuisine=german\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=gingerbread": {
-        "message": "",
+        "message": "Piernik",
         "description": "Tag \"cuisine=gingerbread\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=greek": {
-        "message": "",
+        "message": "grecki",
         "description": "Tag \"cuisine=greek\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=gyros": {
-        "message": "",
+        "message": "gyros",
         "description": "Tag \"cuisine=gyros\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=hawaiian": {
-        "message": "",
+        "message": "hawajskie",
         "description": "Tag \"cuisine=hawaiian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=hunan": {
@@ -1802,19 +1802,19 @@
         "description": "Tag \"cuisine=hunan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=hungarian": {
-        "message": "",
+        "message": "węgierskie",
         "description": "Tag \"cuisine=hungarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=ice_cream": {
-        "message": "",
+        "message": "lody",
         "description": "Tag \"cuisine=ice_cream\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=indian": {
-        "message": "",
+        "message": "indyjskie",
         "description": "Tag \"cuisine=indian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=international": {
-        "message": "",
+        "message": "międzynarodowe",
         "description": "Tag \"cuisine=international\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=iranian": {
@@ -2062,23 +2062,23 @@
         "description": "Tag \"cuisine=wings\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cutting": {
-        "message": "",
+        "message": "Wykop",
         "description": "Key \"cutting\". See https://wiki.openstreetmap.org/wiki/Key:cutting"
     },
     "tag:cycleway": {
-        "message": "",
+        "message": "Droga rowerowa",
         "description": "Key \"cycleway\". See https://wiki.openstreetmap.org/wiki/Key:cycleway"
     },
     "tag:cycleway=bike_box;asl": {
-        "message": "",
+        "message": "Schowek rowerowy",
         "description": "Tag \"cycleway=bike_box;asl\". See https://wiki.openstreetmap.org/wiki/Tag:cycleway=bike_box;asl"
     },
     "tag:denomination": {
-        "message": "",
+        "message": "Wyznanie",
         "description": "Key \"denomination\". See https://wiki.openstreetmap.org/wiki/Key:denomination"
     },
     "tag:denomination=anglican": {
-        "message": "",
+        "message": "anglikańskie",
         "description": "Tag \"denomination=anglican\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=anglican"
     },
     "tag:denomination=assemblies_of_god": {
@@ -2090,7 +2090,7 @@
         "description": "Tag \"denomination=baptist\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=baptist"
     },
     "tag:denomination=catholic": {
-        "message": "",
+        "message": "katolickie",
         "description": "Tag \"denomination=catholic\". See https://wiki.openstreetmap.org/wiki/Tag:denomination=catholic"
     },
     "tag:denomination=congregational": {
@@ -6589,5 +6589,164 @@
     "tag:contact:phone": {
         "message": "Numer telefonu",
         "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
+    },
+    "tag:air_conditioning": {
+        "message": "Klimatyzacja"
+    },
+    "tag:air_conditioning=no": {
+        "message": "Brak klimatyzacji"
+    },
+    "tag:amenity=nightclub": {
+        "message": "Klub"
+    },
+    "tag:amenity=scale": {
+        "message": "Skala"
+    },
+    "tag:artwork_type": {
+        "message": "Typ sztuki"
+    },
+    "tag:artwork_type=architecture": {
+        "message": "Architektura"
+    },
+    "tag:artwork_type=bust": {
+        "message": "Popiersie"
+    },
+    "tag:artwork_type=fountain": {
+        "message": "Fontanna"
+    },
+    "tag:artwork_type=graffiti": {
+        "message": "Graffiti"
+    },
+    "tag:artwork_type=installation": {
+        "message": "Instalacja artystyczna"
+    },
+    "tag:artwork_type=land_art": {
+        "message": "Sztuka ziemi"
+    },
+    "tag:artwork_type=mosaic": {
+        "message": "Mozajka"
+    },
+    "tag:artwork_type=mural": {
+        "message": "Mural"
+    },
+    "tag:artwork_type=painting": {
+        "message": "Malarstwo"
+    },
+    "tag:artwork_type=relief": {
+        "message": "Płaskorzeźba"
+    },
+    "tag:artwork_type=sculpture": {
+        "message": "Rzeźba"
+    },
+    "tag:artwork_type=statue": {
+        "message": "Statua"
+    },
+    "tag:artwork_type=stone": {
+        "message": "Głaz"
+    },
+    "tag:artwork_type=street_art": {
+        "message": "Sztuka ulic"
+    },
+    "tag:artwork_type=tilework": {
+        "message": "Mozaika ceramiczna"
+    },
+    "tag:climbing:routes": {
+        "message": "Liczba dróg wspinaczkowych"
+    },
+    "tag:climbing:summit_log": {
+        "message": "Księga wejść na szczycie"
+    },
+    "tag:contact": {
+        "message": "Kontakt"
+    },
+    "tag:contact:email": {
+        "message": "E-Mail"
+    },
+    "tag:contact:facebook": {
+        "message": "Facebook"
+    },
+    "tag:contact:instagram": {
+        "message": "Instagram"
+    },
+    "tag:contact:linkedin": {
+        "message": "LinkedIn"
+    },
+    "tag:contact:mastodon": {
+        "message": "Mastodon"
+    },
+    "tag:contact:mobile": {
+        "message": "Telefon komórkowy"
+    },
+    "tag:contact:telegram": {
+        "message": "Telegram"
+    },
+    "tag:contact:threads": {
+        "message": "Threads"
+    },
+    "tag:contact:tiktok": {
+        "message": "TikTok"
+    },
+    "tag:contact:twitter": {
+        "message": "X"
+    },
+    "tag:contact:vk": {
+        "message": "VKontakte"
+    },
+    "tag:contact:whatsapp": {
+        "message": "WhatsApp"
+    },
+    "tag:contact:youtube": {
+        "message": "YouTube"
+    },
+    "tag:cycleway=crossing": {
+        "message": "Przejazd rowerowy"
+    },
+    "tag:cycleway=lane": {
+        "message": "Pas rowerowy"
+    },
+    "tag:cycleway=shared_busway": {
+        "message": "Bus pas"
+    },
+    "tag:cycleway=shoulder": {
+        "message": "Pas awaryjny"
+    },
+    "tag:traffic_sign=yield_ahead": {
+        "message": "Ustąp pierwszeństwa"
+    },
+    "tag:waste": {
+        "message": "Odpady"
+    },
+    "tag:waste=cigarettes": {
+        "message": "papierosy"
+    },
+    "tag:waste=dog_excrement": {
+        "message": "psie odchody"
+    },
+    "tag:waste=drugs": {
+        "message": "leki"
+    },
+    "tag:waste=glass": {
+        "message": "szkło"
+    },
+    "tag:waste=mixed": {
+        "message": "zmieszane"
+    },
+    "tag:waste=oil": {
+        "message": "olej"
+    },
+    "tag:waste=organic": {
+        "message": "bio"
+    },
+    "tag:waste=paper": {
+        "message": "makulatura"
+    },
+    "tag:waste=plastic": {
+        "message": "plastik"
+    },
+    "tag:waste=recycling": {
+        "message": "recykling"
+    },
+    "tag:waste=trash": {
+        "message": "śmieci"
     }
 }
