@@ -2534,11 +2534,11 @@
         "description": "Tag \"highway=footway\". See https://wiki.openstreetmap.org/wiki/Tag:highway=footway"
     },
     "tag:highway=living_street": {
-        "message": "Calle peatonal",
+        "message": "Calle de convivencia",
         "description": "Tag \"highway=living_street\". See https://wiki.openstreetmap.org/wiki/Tag:highway=living_street"
     },
     "tag:highway=mini_roundabout": {
-        "message": "",
+        "message": "Minirrotonda",
         "description": "Tag \"highway=mini_roundabout\". See https://wiki.openstreetmap.org/wiki/Tag:highway=mini_roundabout"
     },
     "tag:highway=minor": {
@@ -2562,7 +2562,7 @@
         "description": "Tag \"highway=passing_place\". See https://wiki.openstreetmap.org/wiki/Tag:highway=passing_place"
     },
     "tag:highway=path": {
-        "message": "Camino",
+        "message": "Sendero",
         "description": "Tag \"highway=path\". See https://wiki.openstreetmap.org/wiki/Tag:highway=path"
     },
     "tag:highway=pedestrian": {
@@ -2618,15 +2618,15 @@
         "description": "Tag \"highway=tertiary\". See https://wiki.openstreetmap.org/wiki/Tag:highway=tertiary"
     },
     "tag:highway=track": {
-        "message": "Pista forestal",
+        "message": "Camino rural",
         "description": "Tag \"highway=track\". See https://wiki.openstreetmap.org/wiki/Tag:highway=track"
     },
     "tag:highway=trunk": {
-        "message": "",
+        "message": "Carretera troncal",
         "description": "Tag \"highway=trunk\". See https://wiki.openstreetmap.org/wiki/Tag:highway=trunk"
     },
     "tag:highway=trunk_link": {
-        "message": "",
+        "message": "Enlace a carretera troncal",
         "description": "Tag \"highway=trunk_link\". See https://wiki.openstreetmap.org/wiki/Tag:highway=trunk_link"
     },
     "tag:highway=unclassified": {
@@ -3214,7 +3214,7 @@
         "description": "Tag \"leisure=swimming_pool\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=swimming_pool"
     },
     "tag:leisure=track": {
-        "message": "Pista",
+        "message": "Camino",
         "description": "Tag \"leisure=track\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=track"
     },
     "tag:leisure=water_park": {
@@ -4494,11 +4494,11 @@
         "description": "Tag \"railway=preserved\". See https://wiki.openstreetmap.org/wiki/Tag:railway=preserved"
     },
     "tag:railway=rail": {
-        "message": "",
+        "message": "Vía férrea",
         "description": "Tag \"railway=rail\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail"
     },
     "tag:railway=rail service": {
-        "message": "",
+        "message": "Vía de servicio",
         "description": "Combined tag \"railway=rail\" with key \"service\". See https://wiki.openstreetmap.org/wiki/Tag:railway=rail and https://wiki.openstreetmap.org/wiki/Key:service"
     },
     "tag:railway=rail service=crossover": {
@@ -4562,7 +4562,7 @@
         "description": "Tag \"railway=switch\". See https://wiki.openstreetmap.org/wiki/Tag:railway=switch"
     },
     "tag:railway=tram": {
-        "message": "",
+        "message": "Vía de tranvía",
         "description": "Tag \"railway=tram\". See https://wiki.openstreetmap.org/wiki/Tag:railway=tram"
     },
     "tag:railway=tram;narrow_gauge": {
@@ -5502,7 +5502,7 @@
         "description": "Tag \"sport=model_aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:sport=model_aerodrome"
     },
     "tag:sport=motocross": {
-        "message": "Motocross",
+        "message": "Motocrós",
         "description": "Tag \"sport=motocross\". See https://wiki.openstreetmap.org/wiki/Tag:sport=motocross"
     },
     "tag:sport=motor": {
@@ -5618,7 +5618,7 @@
         "description": "Key \"surface\". See https://wiki.openstreetmap.org/wiki/Key:surface"
     },
     "tag:tactile_paving": {
-        "message": "",
+        "message": "Pavimento táctil",
         "description": "Key \"tactile_paving\". See https://wiki.openstreetmap.org/wiki/Key:tactile_paving"
     },
     "tag:theatre:genre": {
@@ -5790,23 +5790,23 @@
         "description": "Tag \"tourism=zoo\". See https://wiki.openstreetmap.org/wiki/Tag:tourism=zoo"
     },
     "tag:tracks": {
-        "message": "",
+        "message": "Vías",
         "description": "Key \"tracks\". See https://wiki.openstreetmap.org/wiki/Key:tracks"
     },
     "tag:tracks=double": {
-        "message": "",
+        "message": "Doble",
         "description": "Tag \"tracks=double\". See https://wiki.openstreetmap.org/wiki/Tag:tracks=double"
     },
     "tag:tracks=multiple": {
-        "message": "",
+        "message": "Múltiples",
         "description": "Tag \"tracks=multiple\". See https://wiki.openstreetmap.org/wiki/Tag:tracks=multiple"
     },
     "tag:tracks=single": {
-        "message": "",
+        "message": "Sencilla",
         "description": "Tag \"tracks=single\". See https://wiki.openstreetmap.org/wiki/Tag:tracks=single"
     },
     "tag:tracktype": {
-        "message": "",
+        "message": "Tipo de camino",
         "description": "Key \"tracktype\". See https://wiki.openstreetmap.org/wiki/Key:tracktype"
     },
     "tag:traffic_calming": {
@@ -5842,7 +5842,7 @@
         "description": "Tag \"type=oil\". See https://wiki.openstreetmap.org/wiki/Tag:type=oil"
     },
     "tag:type=route route=mtb": {
-        "message": "Ruta de bicicleta de monta;a",
+        "message": "Ruta de bicicleta de montaña",
         "description": "Combined tag \"type=route\" and \"route=mtb\". See https://wiki.openstreetmap.org/wiki/Tag:type=route and https://wiki.openstreetmap.org/wiki/Tag:route=mtb"
     },
     "tag:type=sewage": {
@@ -5878,7 +5878,7 @@
         "description": "Tag \"water=canal\". See https://wiki.openstreetmap.org/wiki/Tag:water=canal"
     },
     "tag:water=fish_pass": {
-        "message": "",
+        "message": "Paso para peces",
         "description": "Tag \"water=fish_pass\". See https://wiki.openstreetmap.org/wiki/Tag:water=fish_pass"
     },
     "tag:water=lagoon": {
@@ -5938,7 +5938,7 @@
         "description": "Tag \"waterway=dam\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=dam"
     },
     "tag:waterway=ditch": {
-        "message": "",
+        "message": "Zanja",
         "description": "Tag \"waterway=ditch\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=ditch"
     },
     "tag:waterway=divide": {
@@ -5946,7 +5946,7 @@
         "description": "Tag \"waterway=divide\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=divide"
     },
     "tag:waterway=drain": {
-        "message": "",
+        "message": "Desagüe",
         "description": "Tag \"waterway=drain\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=drain"
     },
     "tag:waterway=river": {
@@ -6014,7 +6014,7 @@
         "description": "Tag \"xmas:feature=market\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=market"
     },
     "tag:xmas:feature=pyramid": {
-        "message": "",
+        "message": "Pirámide de Navidad",
         "description": "Tag \"xmas:feature=pyramid\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=pyramid"
     },
     "tag:xmas:feature=shop": {
@@ -6502,5 +6502,65 @@
     "tag:contact:phone": {
         "message": "Número de teléfono",
         "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
+    },
+    "tag:cycleway=track": {
+        "message": "Ciclovía"
+    },
+    "tag:air_conditioning=no": {
+        "message": "Sin aire acondicionado"
+    },
+    "tag:amenity=nightclub": {
+        "message": "Discoteca"
+    },
+    "tag:artwork_type": {
+        "message": "Tipo de obra"
+    },
+    "tag:artwork_type=architecture": {
+        "message": "Arquitectura"
+    },
+    "tag:artwork_type=bust": {
+        "message": "Busto"
+    },
+    "tag:artwork_type=fountain": {
+        "message": "Fuente"
+    },
+    "tag:artwork_type=graffiti": {
+        "message": "Grafiti"
+    },
+    "tag:artwork_type=installation": {
+        "message": "Instalación artística"
+    },
+    "tag:artwork_type=land_art": {
+        "message": "Arte paisajístico"
+    },
+    "tag:artwork_type=mural": {
+        "message": "Mural"
+    },
+    "tag:artwork_type=painting": {
+        "message": "Pintura"
+    },
+    "tag:artwork_type=sculpture": {
+        "message": "Escultura"
+    },
+    "tag:artwork_type=statue": {
+        "message": "Estatua"
+    },
+    "tag:artwork_type=street_art": {
+        "message": "Arte callejero"
+    },
+    "tag:xmas:feature=lighting": {
+        "message": "Luces de Navidad"
+    },
+    "tag:traffic_sign=stop": {
+        "message": "Alto"
+    },
+    "tag:traffic_sign=overtaking": {
+        "message": "Adelantamiento"
+    },
+    "tag:traffic_sign=give_way": {
+        "message": "Ceda el paso"
+    },
+    "tag:surface=chipseal": {
+        "message": "sello de agregados"
     }
 }
