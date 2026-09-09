@@ -397,7 +397,7 @@
         "description": "Tag \"amenity=shelter\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shelter"
     },
     "tag:amenity=shower": {
-        "message": "",
+        "message": "Ντουζιέρα",
         "description": "Tag \"amenity=shower\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=shower"
     },
     "tag:amenity=signpost": {
@@ -6373,5 +6373,8 @@
     },
     "tag:name:start_date": {
         "message": "Ονομασμένο από"
+    },
+    "tag:amenity=scale": {
+        "message": "Ζυγαριά"
     }
 }
