@@ -277,7 +277,7 @@
         "description": "Tag \"amenity=fire_station\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=fire_station"
     },
     "tag:amenity=food_court": {
-        "message": "",
+        "message": "Restauranthoek",
         "description": "Tag \"amenity=food_court\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=food_court"
     },
     "tag:amenity=fountain": {
@@ -573,7 +573,7 @@
         "description": "Tag \"bath:type=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=hot_spring"
     },
     "tag:bath:type=lake": {
-        "message": "",
+        "message": "Meer",
         "description": "Tag \"bath:type=lake\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=lake"
     },
     "tag:bath:type=onsen": {
@@ -581,11 +581,11 @@
         "description": "Tag \"bath:type=onsen\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=onsen"
     },
     "tag:bath:type=river": {
-        "message": "",
+        "message": "Rivier",
         "description": "Tag \"bath:type=river\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=river"
     },
     "tag:bath:type=thermal": {
-        "message": "",
+        "message": "Thermaalbad",
         "description": "Tag \"bath:type=thermal\". See https://wiki.openstreetmap.org/wiki/Tag:bath:type=thermal"
     },
     "tag:bicycle": {
@@ -629,7 +629,7 @@
         "description": "Tag \"building=barn\". See https://wiki.openstreetmap.org/wiki/Tag:building=barn"
     },
     "tag:building=block": {
-        "message": "",
+        "message": "Blok",
         "description": "Tag \"building=block\". See https://wiki.openstreetmap.org/wiki/Tag:building=block"
     },
     "tag:building=bridge": {
@@ -673,7 +673,7 @@
         "description": "Tag \"building=civic\". See https://wiki.openstreetmap.org/wiki/Tag:building=civic"
     },
     "tag:building=college": {
-        "message": "",
+        "message": "Hogeschool/College",
         "description": "Tag \"building=college\". See https://wiki.openstreetmap.org/wiki/Tag:building=college"
     },
     "tag:building=commercial": {
@@ -773,7 +773,7 @@
         "description": "Tag \"building=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:building=industrial"
     },
     "tag:building=kindergarten": {
-        "message": "",
+        "message": "Kinderopvang/Crèche",
         "description": "Tag \"building=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:building=kindergarten"
     },
     "tag:building=kiosk": {
@@ -809,7 +809,7 @@
         "description": "Tag \"building=office\". See https://wiki.openstreetmap.org/wiki/Tag:building=office"
     },
     "tag:building=parking": {
-        "message": "",
+        "message": "Parkeerplaats",
         "description": "Tag \"building=parking\". See https://wiki.openstreetmap.org/wiki/Tag:building=parking"
     },
     "tag:building=pavilion": {
@@ -817,7 +817,7 @@
         "description": "Tag \"building=pavilion\". See https://wiki.openstreetmap.org/wiki/Tag:building=pavilion"
     },
     "tag:building=public": {
-        "message": "",
+        "message": "Publiek gebouw",
         "description": "Tag \"building=public\". See https://wiki.openstreetmap.org/wiki/Tag:building=public"
     },
     "tag:building=religious": {
@@ -829,11 +829,11 @@
         "description": "Tag \"building=residential\". See https://wiki.openstreetmap.org/wiki/Tag:building=residential"
     },
     "tag:building=retail": {
-        "message": "",
+        "message": "Winkelpand",
         "description": "Tag \"building=retail\". See https://wiki.openstreetmap.org/wiki/Tag:building=retail"
     },
     "tag:building=riding_hall": {
-        "message": "",
+        "message": "Manège",
         "description": "Tag \"building=riding_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=riding_hall"
     },
     "tag:building=roof": {
@@ -849,7 +849,7 @@
         "description": "Tag \"building=school\". See https://wiki.openstreetmap.org/wiki/Tag:building=school"
     },
     "tag:building=semidetached_house": {
-        "message": "",
+        "message": "Twee-onder-één-kapwoning",
         "description": "Tag \"building=semidetached_house\". See https://wiki.openstreetmap.org/wiki/Tag:building=semidetached_house"
     },
     "tag:building=service": {
@@ -869,43 +869,43 @@
         "description": "Tag \"building=shrine\". See https://wiki.openstreetmap.org/wiki/Tag:building=shrine"
     },
     "tag:building=silo": {
-        "message": "",
+        "message": "Silo",
         "description": "Tag \"building=silo\". See https://wiki.openstreetmap.org/wiki/Tag:building=silo"
     },
     "tag:building=slurry_tank": {
-        "message": "",
+        "message": "Mestsilo",
         "description": "Tag \"building=slurry_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=slurry_tank"
     },
     "tag:building=sports_hall": {
-        "message": "",
+        "message": "Sporthal",
         "description": "Tag \"building=sports_hall\". See https://wiki.openstreetmap.org/wiki/Tag:building=sports_hall"
     },
     "tag:building=stable": {
-        "message": "",
+        "message": "Paardenstal",
         "description": "Tag \"building=stable\". See https://wiki.openstreetmap.org/wiki/Tag:building=stable"
     },
     "tag:building=stadium": {
-        "message": "",
+        "message": "Stadion",
         "description": "Tag \"building=stadium\". See https://wiki.openstreetmap.org/wiki/Tag:building=stadium"
     },
     "tag:building=static_caravan": {
-        "message": "",
+        "message": "Caravan",
         "description": "Tag \"building=static_caravan\". See https://wiki.openstreetmap.org/wiki/Tag:building=static_caravan"
     },
     "tag:building=storage_tank": {
-        "message": "",
+        "message": "Opslagtank",
         "description": "Tag \"building=storage_tank\". See https://wiki.openstreetmap.org/wiki/Tag:building=storage_tank"
     },
     "tag:building=sty": {
-        "message": "",
+        "message": "Zwijnenstal",
         "description": "Tag \"building=sty\". See https://wiki.openstreetmap.org/wiki/Tag:building=sty"
     },
     "tag:building=supermarket": {
-        "message": "",
+        "message": "Supermarkt",
         "description": "Tag \"building=supermarket\". See https://wiki.openstreetmap.org/wiki/Tag:building=supermarket"
     },
     "tag:building=synagogue": {
-        "message": "",
+        "message": "Synagoge",
         "description": "Tag \"building=synagogue\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue"
     },
     "tag:building=synagogue religion=jewish": {
@@ -913,7 +913,7 @@
         "description": "Combined tag \"building=synagogue\" and \"religion=jewish\". See https://wiki.openstreetmap.org/wiki/Tag:building=synagogue and https://wiki.openstreetmap.org/wiki/Tag:religion=jewish"
     },
     "tag:building=temple": {
-        "message": "",
+        "message": "Tempel",
         "description": "Tag \"building=temple\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple"
     },
     "tag:building=temple religion=sikh": {
@@ -921,39 +921,39 @@
         "description": "Combined tag \"building=temple\" and \"religion=sikh\". See https://wiki.openstreetmap.org/wiki/Tag:building=temple and https://wiki.openstreetmap.org/wiki/Tag:religion=sikh"
     },
     "tag:building=terrace": {
-        "message": "",
+        "message": "Rijtjeshuis",
         "description": "Tag \"building=terrace\". See https://wiki.openstreetmap.org/wiki/Tag:building=terrace"
     },
     "tag:building=toilets": {
-        "message": "",
+        "message": "Toiletten",
         "description": "Tag \"building=toilets\". See https://wiki.openstreetmap.org/wiki/Tag:building=toilets"
     },
     "tag:building=train_station": {
-        "message": "",
+        "message": "Station",
         "description": "Tag \"building=train_station\". See https://wiki.openstreetmap.org/wiki/Tag:building=train_station"
     },
     "tag:building=transformer_tower": {
-        "message": "",
+        "message": "Transformatorhuisje",
         "description": "Tag \"building=transformer_tower\". See https://wiki.openstreetmap.org/wiki/Tag:building=transformer_tower"
     },
     "tag:building=transportation": {
-        "message": "",
+        "message": "Openbaar vervoersgebouw",
         "description": "Tag \"building=transportation\". See https://wiki.openstreetmap.org/wiki/Tag:building=transportation"
     },
     "tag:building=trullo": {
-        "message": "",
+        "message": "Trullo",
         "description": "Tag \"building=trullo\". See https://wiki.openstreetmap.org/wiki/Tag:building=trullo"
     },
     "tag:building=university": {
-        "message": "",
+        "message": "Universiteit",
         "description": "Tag \"building=university\". See https://wiki.openstreetmap.org/wiki/Tag:building=university"
     },
     "tag:building=warehouse": {
-        "message": "",
+        "message": "Magazijn",
         "description": "Tag \"building=warehouse\". See https://wiki.openstreetmap.org/wiki/Tag:building=warehouse"
     },
     "tag:building=water_tower": {
-        "message": "",
+        "message": "Watertoren",
         "description": "Tag \"building=water_tower\". See https://wiki.openstreetmap.org/wiki/Tag:building=water_tower"
     },
     "tag:cables": {
@@ -961,7 +961,7 @@
         "description": "Key \"cables\". See https://wiki.openstreetmap.org/wiki/Key:cables"
     },
     "tag:capacity": {
-        "message": "",
+        "message": "Capaciteit",
         "description": "Key \"capacity\". See https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:charge": {
@@ -969,131 +969,131 @@
         "description": "Key \"charge\". See https://wiki.openstreetmap.org/wiki/Key:charge"
     },
     "tag:clothes": {
-        "message": "",
+        "message": "Kleren",
         "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=accessories": {
-        "message": "",
+        "message": "Accessoires",
         "description": "Tag \"clothes=accessories\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=babies": {
-        "message": "",
+        "message": "Babykleding",
         "description": "Tag \"clothes=babies\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=brand": {
-        "message": "",
+        "message": "Merkkleding",
         "description": "Tag \"clothes=brand\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=bridal": {
-        "message": "",
+        "message": "Bruidsmode",
         "description": "Tag \"clothes=bridal\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=children": {
-        "message": "",
+        "message": "Kinderkleding",
         "description": "Tag \"clothes=children\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=costumes": {
-        "message": "",
+        "message": "Kostuums",
         "description": "Tag \"clothes=costumes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=denim": {
-        "message": "",
+        "message": "Jeans",
         "description": "Tag \"clothes=denim\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=fashion": {
-        "message": "",
+        "message": "Fashion",
         "description": "Tag \"clothes=fashion\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=fur": {
-        "message": "",
+        "message": "Bont",
         "description": "Tag \"clothes=fur\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=hats": {
-        "message": "",
+        "message": "Hoeden",
         "description": "Tag \"clothes=hats\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=leather": {
-        "message": "",
+        "message": "Leer",
         "description": "Tag \"clothes=leather\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=lingerie": {
-        "message": "",
+        "message": "Lingerie",
         "description": "Tag \"clothes=lingerie\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=maternity": {
-        "message": "",
+        "message": "Zwangerschapskleding",
         "description": "Tag \"clothes=maternity\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=men": {
-        "message": "",
+        "message": "Mannen",
         "description": "Tag \"clothes=men\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=military": {
-        "message": "",
+        "message": "Militaire kleding",
         "description": "Tag \"clothes=military\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=motorcycle": {
-        "message": "",
+        "message": "Motorkleding",
         "description": "Tag \"clothes=motorcycle\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=oversize": {
-        "message": "",
+        "message": "Grote maten",
         "description": "Tag \"clothes=oversize\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=schoolwear": {
-        "message": "",
+        "message": "Schooluniformen",
         "description": "Tag \"clothes=schoolwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=sports": {
-        "message": "",
+        "message": "Sportkleding",
         "description": "Tag \"clothes=sports\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=suits": {
-        "message": "",
+        "message": "Pakken",
         "description": "Tag \"clothes=suits\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=swimwear": {
-        "message": "",
+        "message": "Badkleding",
         "description": "Tag \"clothes=swimwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=traditional": {
-        "message": "",
+        "message": "Traditionele kleding",
         "description": "Tag \"clothes=traditional\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=underwear": {
-        "message": "",
+        "message": "Ondergoed",
         "description": "Tag \"clothes=underwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=unisexs": {
-        "message": "",
+        "message": "Unisex",
         "description": "Tag \"clothes=unisexs\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=vintage": {
-        "message": "",
+        "message": "Vintage kleding",
         "description": "Tag \"clothes=vintage\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=wedding": {
-        "message": "",
+        "message": "Trouwkleding",
         "description": "Tag \"clothes=wedding\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=women": {
-        "message": "",
+        "message": "Vrouwenkleding",
         "description": "Tag \"clothes=women\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:clothes=workwear": {
-        "message": "",
+        "message": "Werkkleding",
         "description": "Tag \"clothes=workwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
     },
     "tag:community_centre=club_home": {
-        "message": "",
+        "message": "Clubhuis",
         "description": "Tag \"community_centre=club_home\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=club_home"
     },
     "tag:community_centre=community_hall": {
-        "message": "",
+        "message": "Aula",
         "description": "Tag \"community_centre=community_hall\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=community_hall"
     },
     "tag:community_centre=cultural_centre": {
-        "message": "",
+        "message": "Cultuurcentrum",
         "description": "Tag \"community_centre=cultural_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=cultural_centre"
     },
     "tag:community_centre=environment_centre": {
@@ -1101,35 +1101,35 @@
         "description": "Tag \"community_centre=environment_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=environment_centre"
     },
     "tag:community_centre=events_venue": {
-        "message": "",
+        "message": "Evenementenhal",
         "description": "Tag \"community_centre=events_venue\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=events_venue"
     },
     "tag:community_centre=family_centre": {
-        "message": "",
+        "message": "Familiecentrum",
         "description": "Tag \"community_centre=family_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=family_centre"
     },
     "tag:community_centre=language_centre": {
-        "message": "",
+        "message": "Taalcentrum",
         "description": "Tag \"community_centre=language_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=language_centre"
     },
     "tag:community_centre=meeting_room": {
-        "message": "",
+        "message": "Vergaderzaal",
         "description": "Tag \"community_centre=meeting_room\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=meeting_room"
     },
     "tag:community_centre=parish_hall": {
-        "message": "",
+        "message": "Parochiezaal",
         "description": "Tag \"community_centre=parish_hall\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=parish_hall"
     },
     "tag:community_centre=village_hall": {
-        "message": "",
+        "message": "Dorpshuis",
         "description": "Tag \"community_centre=village_hall\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=village_hall"
     },
     "tag:community_centre=youth_centre": {
-        "message": "",
+        "message": "Jeugdcentrum",
         "description": "Tag \"community_centre=youth_centre\". See https://wiki.openstreetmap.org/wiki/Tag:community_centre=youth_centre"
     },
     "tag:construction": {
-        "message": "Constructie",
+        "message": "Onder constructie",
         "description": "Key \"construction\". See https://wiki.openstreetmap.org/wiki/Key:construction"
     },
     "tag:covered": {
@@ -6092,5 +6092,122 @@
     "tag:contact:phone": {
         "message": "Telefoonnummer",
         "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
+    },
+    "tag:access=use_sidepath": {
+        "message": "Gebruik het voetpad"
+    },
+    "tag:air_conditioning": {
+        "message": "Airconditioning"
+    },
+    "tag:air_conditioning=no": {
+        "message": "Geen airconditioning"
+    },
+    "tag:amenity=nightclub": {
+        "message": "Nachtclub"
+    },
+    "tag:area:highway": {
+        "message": "Wegvorm"
+    },
+    "tag:artwork_type": {
+        "message": "Type kunstwerk"
+    },
+    "tag:artwork_type=architecture": {
+        "message": "Architectuur"
+    },
+    "tag:artwork_type=fountain": {
+        "message": "Fontein"
+    },
+    "tag:artwork_type=graffiti": {
+        "message": "Graffiti"
+    },
+    "tag:artwork_type=installation": {
+        "message": "Kunstinstallatie"
+    },
+    "tag:artwork_type=land_art": {
+        "message": "Landkunst"
+    },
+    "tag:artwork_type=mosaic": {
+        "message": "Mozaïek"
+    },
+    "tag:artwork_type=mural": {
+        "message": "Muurschildering"
+    },
+    "tag:artwork_type=painting": {
+        "message": "Schilderij"
+    },
+    "tag:artwork_type=relief": {
+        "message": "Reliëf"
+    },
+    "tag:artwork_type=sculpture": {
+        "message": "Sculptuur"
+    },
+    "tag:artwork_type=statue": {
+        "message": "Standbeeld"
+    },
+    "tag:artwork_type=stone": {
+        "message": "Steen"
+    },
+    "tag:artwork_type=street_art": {
+        "message": "Straatkunst"
+    },
+    "tag:artwork_type=tilework": {
+        "message": "Tegelwerk"
+    },
+    "tag:building:start_date": {
+        "message": "Datum einde bouw"
+    },
+    "tag:changing_table": {
+        "message": "Commode"
+    },
+    "tag:climbing": {
+        "message": "Klimmen"
+    },
+    "tag:climbing:boulder": {
+        "message": "Rotswandklimmen"
+    },
+    "tag:climbing:deepwater": {
+        "message": "Diepzeeduiken"
+    },
+    "tag:climbing:grade:french": {
+        "message": "Klimhelling (Frans)"
+    },
+    "tag:climbing:grade:polish": {
+        "message": "Hellingsgraad (Pools)"
+    },
+    "tag:climbing:grade:saxon": {
+        "message": "Hellingsgraad (Saksisch)"
+    },
+    "tag:climbing:grade:uiaa": {
+        "message": "Hellingsgraad (UIAA)"
+    },
+    "tag:climbing:ice": {
+        "message": "IJsklimmen"
+    },
+    "tag:climbing:length": {
+        "message": "Lengte klim"
+    },
+    "tag:climbing:mixed": {
+        "message": "Gemixt klimmen"
+    },
+    "tag:contact": {
+        "message": "Contact"
+    },
+    "tag:contact:email": {
+        "message": "E-mail"
+    },
+    "tag:contact:facebook": {
+        "message": "Facebook"
+    },
+    "tag:contact:instagram": {
+        "message": "Instagram"
+    },
+    "tag:contact:linkedin": {
+        "message": "LinkedIn"
+    },
+    "tag:contact:mastodon": {
+        "message": "Mastodon"
+    },
+    "tag:contact:mobile": {
+        "message": "Mobiele telefoon"
     }
 }
