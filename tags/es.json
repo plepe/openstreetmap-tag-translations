@@ -53,7 +53,7 @@
         "description": "Key \"addr:interpolation\". See https://wiki.openstreetmap.org/wiki/Key:addr:interpolation"
     },
     "tag:addr:postcode": {
-        "message": "Código Postal",
+        "message": "Código postal",
         "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
     },
     "tag:addr:street": {
@@ -77,7 +77,7 @@
         "description": "Tag \"admin_level=11\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=11"
     },
     "tag:admin_level=2": {
-        "message": "Frontera Nacional (2)",
+        "message": "Frontera nacional (2)",
         "description": "Tag \"admin_level=2\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=2"
     },
     "tag:admin_level=3": {
@@ -85,7 +85,7 @@
         "description": "Tag \"admin_level=3\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=3"
     },
     "tag:admin_level=4": {
-        "message": "Frontera del estado (4)",
+        "message": "Frontera estatal/provincial (4)",
         "description": "Tag \"admin_level=4\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=4"
     },
     "tag:admin_level=5": {
@@ -3218,7 +3218,7 @@
         "description": "Tag \"leisure=track\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=track"
     },
     "tag:leisure=water_park": {
-        "message": "Parque Acuático",
+        "message": "Parque acuático",
         "description": "Tag \"leisure=water_park\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=water_park"
     },
     "tag:leisure=wildlife_hide": {
@@ -3702,7 +3702,7 @@
         "description": "Tag \"natural=fell\". See https://wiki.openstreetmap.org/wiki/Tag:natural=fell"
     },
     "tag:natural=geyser": {
-        "message": "",
+        "message": "Géiser",
         "description": "Tag \"natural=geyser\". See https://wiki.openstreetmap.org/wiki/Tag:natural=geyser"
     },
     "tag:natural=glacier": {
@@ -6041,7 +6041,7 @@
         "message": "accesible públicamente"
     },
     "tag:crossing=traffic_signals": {
-        "message": "señales de tráfico"
+        "message": ""
     },
     "tag:direction=N": {
         "message": "Norte"
@@ -6562,5 +6562,59 @@
     },
     "tag:surface=chipseal": {
         "message": "sello de agregados"
+    },
+    "tag:contact:email": {
+        "message": "Correo electrónico"
+    },
+    "tag:contact": {
+        "message": "Contacto"
+    },
+    "tag:contact:facebook": {
+        "message": "Facebook"
+    },
+    "tag:contact:instagram": {
+        "message": "Instagram"
+    },
+    "tag:contact:linkedin": {
+        "message": "LinkedIn"
+    },
+    "tag:contact:mastodon": {
+        "message": "Mastodon"
+    },
+    "tag:contact:mobile": {
+        "message": "Teléfono móvil"
+    },
+    "tag:contact:telegram": {
+        "message": "Telegram"
+    },
+    "tag:contact:threads": {
+        "message": "Threads"
+    },
+    "tag:contact:tiktok": {
+        "message": "TikTok"
+    },
+    "tag:contact:whatsapp": {
+        "message": "WhatsApp"
+    },
+    "tag:contact:youtube": {
+        "message": "YouTube"
+    },
+    "tag:sidewalk=separate": {
+        "message": "Calle con acera trazada por separado"
+    },
+    "tag:highway=cycleway segregated=no": {
+        "message": "Vía ciclopeatonal compartida"
+    },
+    "tag:highway=cycleway segregated=yes": {
+        "message": "Vía ciclopeatonal segregada"
+    },
+    "tag:air_conditioning": {
+        "message": "Aire acondicionado"
+    },
+    "tag:smoothness=excellent": {
+        "message": "excelente"
+    },
+    "tag:leisure=trampoline_park": {
+        "message": "Parque de trampolines"
     }
 }
