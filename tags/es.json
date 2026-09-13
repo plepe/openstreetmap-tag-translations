@@ -3130,7 +3130,7 @@
         "description": "Tag \"leisure=garden\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=garden"
     },
     "tag:leisure=golf_course": {
-        "message": "Campo de Golf",
+        "message": "Campo de golf",
         "description": "Tag \"leisure=golf_course\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=golf_course"
     },
     "tag:leisure=hackerspace": {
@@ -3146,7 +3146,7 @@
         "description": "Tag \"leisure=ice_rink\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=ice_rink"
     },
     "tag:leisure=indoor_play": {
-        "message": "",
+        "message": "Área de recreación interior",
         "description": "Tag \"leisure=indoor_play\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=indoor_play"
     },
     "tag:leisure=marina": {
@@ -3158,7 +3158,7 @@
         "description": "Tag \"leisure=miniature_golf\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=miniature_golf"
     },
     "tag:leisure=nature_reserve": {
-        "message": "Reserva Natural",
+        "message": "Reserva natural",
         "description": "Tag \"leisure=nature_reserve\". See https://wiki.openstreetmap.org/wiki/Tag:leisure=nature_reserve"
     },
     "tag:leisure=outdoor_seating": {
@@ -3662,7 +3662,7 @@
         "description": "Key \"natural\". See https://wiki.openstreetmap.org/wiki/Key:natural"
     },
     "tag:natural=arete": {
-        "message": "",
+        "message": "Arista",
         "description": "Tag \"natural=arete\". See https://wiki.openstreetmap.org/wiki/Tag:natural=arete"
     },
     "tag:natural=bare_rock": {
@@ -3678,7 +3678,7 @@
         "description": "Tag \"natural=beach\". See https://wiki.openstreetmap.org/wiki/Tag:natural=beach"
     },
     "tag:natural=cape": {
-        "message": "",
+        "message": "Cabo",
         "description": "Tag \"natural=cape\". See https://wiki.openstreetmap.org/wiki/Tag:natural=cape"
     },
     "tag:natural=cave_entrance": {
@@ -3722,7 +3722,7 @@
         "description": "Tag \"natural=hill\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hill"
     },
     "tag:natural=hot_spring": {
-        "message": "",
+        "message": "Aguas termales",
         "description": "Tag \"natural=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hot_spring"
     },
     "tag:natural=marsh": {
@@ -3742,7 +3742,7 @@
         "description": "Tag \"natural=mountain_range\". See https://wiki.openstreetmap.org/wiki/Tag:natural=mountain_range"
     },
     "tag:natural=mud": {
-        "message": "",
+        "message": "Lodo",
         "description": "Tag \"natural=mud\". See https://wiki.openstreetmap.org/wiki/Tag:natural=mud"
     },
     "tag:natural=peak": {
@@ -3802,7 +3802,7 @@
         "description": "Tag \"natural=stone\". See https://wiki.openstreetmap.org/wiki/Tag:natural=stone"
     },
     "tag:natural=strait": {
-        "message": "",
+        "message": "Estrecho",
         "description": "Tag \"natural=strait\". See https://wiki.openstreetmap.org/wiki/Tag:natural=strait"
     },
     "tag:natural=tree": {
@@ -4086,11 +4086,11 @@
         "description": "Key \"official_name\". See https://wiki.openstreetmap.org/wiki/Key:official_name"
     },
     "tag:old_name": {
-        "message": "Antiguo nombre",
+        "message": "Nombre antiguo",
         "description": "Key \"old_name\". See https://wiki.openstreetmap.org/wiki/Key:old_name"
     },
     "tag:oneway": {
-        "message": "Un sólo sentido",
+        "message": "Un solo sentido",
         "description": "Key \"oneway\". See https://wiki.openstreetmap.org/wiki/Key:oneway"
     },
     "tag:opening_date": {
@@ -6616,5 +6616,32 @@
     },
     "tag:leisure=trampoline_park": {
         "message": "Parque de trampolines"
+    },
+    "tag:leisure=escape_game": {
+        "message": "Juego de escape"
+    },
+    "tag:parcel_pickup": {
+        "message": "Recogida de paquetes"
+    },
+    "tag:maxspeed=walk": {
+        "message": "velocidad de marcha"
+    },
+    "tag:smoothness=impassable": {
+        "message": "intransitable"
+    },
+    "tag:parcel_mail_in": {
+        "message": "Entrega de paquetes"
+    },
+    "tag:parcel_mail_in=returns_only": {
+        "message": "solo para devoluciones"
+    },
+    "tag:contact:vk": {
+        "message": "VKontakte"
+    },
+    "tag:contact:twitter": {
+        "message": "Twitter"
+    },
+    "tag:parking:lane=fire_lane": {
+        "message": "debe mantenerse despejado para camiones de bomberos"
     }
 }
