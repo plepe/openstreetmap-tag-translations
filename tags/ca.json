@@ -3,7 +3,7 @@
         "message": "no"
     },
     "tag:*=yes": {
-        "message": "si"
+        "message": "sí"
     },
     "tag:abandoned": {
         "message": "Abandonat",
@@ -33,7 +33,7 @@
         "description": "Tag \"access=delivery\". See https://wiki.openstreetmap.org/wiki/Tag:access=delivery"
     },
     "tag:access=destination": {
-        "message": "destí",
+        "message": "només trànsit local",
         "description": "Tag \"access=destination\". See https://wiki.openstreetmap.org/wiki/Tag:access=destination"
     },
     "tag:access=discouraged": {
@@ -193,7 +193,7 @@
         "description": "Key \"amenity\". See https://wiki.openstreetmap.org/wiki/Key:amenity"
     },
     "tag:amenity=arts_centre": {
-        "message": "Centre d'Arts",
+        "message": "Centre d'arts",
         "description": "Tag \"amenity=arts_centre\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=arts_centre"
     },
     "tag:amenity=atm": {
@@ -1459,5 +1459,53 @@
     "tag:contact:phone": {
         "message": "Número de telèfon",
         "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
+    },
+    "tag:contact:twitter": {
+        "message": "Twitter"
+    },
+    "tag:sidewalk:right": {
+        "message": "Vorera a la dreta del carrer"
+    },
+    "tag:internet_access=terminal": {
+        "message": "No hi ha accés gratuït a Internet amb un ordinador."
+    },
+    "tag:sidewalk:left": {
+        "message": "Vorera a l'esquerra del carrer"
+    },
+    "tag:parking:lane=fire_lane": {
+        "message": "ha de mantenir-se buidat perquè puguin passar els camions de bombers"
+    },
+    "tag:internet_access=terminal internet_access:fee=no": {
+        "message": "Accés gratuït a Internet amb un ordinador."
+    },
+    "tag:xmas:feature=crib": {
+        "message": "Betlem / escena de la Nativitat"
+    },
+    "tag:parking:lane=no_stopping": {
+        "message": "Prohibit aparcar i detenir-se"
+    },
+    "tag:sidewalk=separate": {
+        "message": "Carrer amb vorera traçada per separat"
+    },
+    "tag:name:etymology": {
+        "message": "Etimologia del nom"
+    },
+    "tag:sidewalk": {
+        "message": "Vorera al costat del carrer"
+    },
+    "tag:sidewalk=yes": {
+        "message": "Carrer amb vorera"
+    },
+    "tag:traffic_sign=yield_ahead": {
+        "message": "Cediu el pas endavant"
+    },
+    "tag:traffic_sign=give_way": {
+        "message": "Cediu el pas"
+    },
+    "tag:air_conditioning": {
+        "message": "Aire condicionat"
+    },
+    "tag:air_conditioning=no": {
+        "message": "Sense aire condicionat"
     }
 }
