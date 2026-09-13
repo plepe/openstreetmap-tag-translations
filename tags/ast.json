@@ -3,7 +3,7 @@
         "message": "non"
     },
     "tag:*=yes": {
-        "message": "si"
+        "message": "sí"
     },
     "tag:abandoned": {
         "message": "",
@@ -6028,5 +6028,11 @@
     "tag:contact:phone": {
         "message": "Númberu de teléfonu",
         "description": "Key \"phone\". See https://wiki.openstreetmap.org/wiki/Key:phone"
+    },
+    "tag:contact:twitter": {
+        "message": "Twitter"
+    },
+    "tag:access=destination": {
+        "message": "namás tráficu llocal"
     }
 }
