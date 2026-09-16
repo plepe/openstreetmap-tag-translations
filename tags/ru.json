@@ -2094,55 +2094,55 @@
         "description": "Key \"description\". See https://wiki.openstreetmap.org/wiki/Key:description"
     },
     "tag:diet": {
-        "message": "",
+        "message": "варианты для диабетиков",
         "description": "Key \"diet\". See https://wiki.openstreetmap.org/wiki/Key:diet"
     },
     "tag:diet:dairy_free": {
-        "message": "",
+        "message": "безмолочное",
         "description": "Key \"diet:dairy_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:dairy_free"
     },
     "tag:diet:fruitarian": {
-        "message": "",
+        "message": "фрукторианство",
         "description": "Key \"diet:fruitarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:fruitarian"
     },
     "tag:diet:gluten_free": {
-        "message": "",
+        "message": "безглютеновое",
         "description": "Key \"diet:gluten_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:gluten_free"
     },
     "tag:diet:halal": {
-        "message": "",
+        "message": "халяль",
         "description": "Key \"diet:halal\". See https://wiki.openstreetmap.org/wiki/Key:diet:halal"
     },
     "tag:diet:kosher": {
-        "message": "",
+        "message": "кошерное",
         "description": "Key \"diet:kosher\". See https://wiki.openstreetmap.org/wiki/Key:diet:kosher"
     },
     "tag:diet:lacto_vegetarian": {
-        "message": "",
+        "message": "лактовегетарианство",
         "description": "Key \"diet:lacto_vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:lacto_vegetarian"
     },
     "tag:diet:lactose_free": {
-        "message": "",
+        "message": "безлактозное",
         "description": "Key \"diet:lactose_free\". See https://wiki.openstreetmap.org/wiki/Key:diet:lactose_free"
     },
     "tag:diet:ovo_vegetarian": {
-        "message": "",
+        "message": "оволактовегетарианство",
         "description": "Key \"diet:ovo_vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:ovo_vegetarian"
     },
     "tag:diet:pescetarian": {
-        "message": "",
+        "message": "пескетарианство",
         "description": "Key \"diet:pescetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:pescetarian"
     },
     "tag:diet:raw": {
-        "message": "",
+        "message": "сыроедение / необработанное",
         "description": "Key \"diet:raw\". See https://wiki.openstreetmap.org/wiki/Key:diet:raw"
     },
     "tag:diet:vegan": {
-        "message": "",
+        "message": "веганство",
         "description": "Key \"diet:vegan\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegan"
     },
     "tag:diet:vegetarian": {
-        "message": "",
+        "message": "вегетарианство",
         "description": "Key \"diet:vegetarian\". See https://wiki.openstreetmap.org/wiki/Key:diet:vegetarian"
     },
     "tag:disused": {
@@ -6210,5 +6210,29 @@
     },
     "tag:amenity=scale": {
         "message": "Весы"
+    },
+    "tag:contact:twitter": {
+        "message": "X"
+    },
+    "tag:contact:tiktok": {
+        "message": "TikTok"
+    },
+    "tag:contact:mobile": {
+        "message": "Мобильный телефон"
+    },
+    "tag:contact:mastodon": {
+        "message": "Mastodon"
+    },
+    "tag:contact:linkedin": {
+        "message": "LinkedIn"
+    },
+    "tag:post_office=post_partner": {
+        "message": "Почтовый партнер"
+    },
+    "tag:post_office=post_annex": {
+        "message": "Частное почтовое отделение"
+    },
+    "tag:post_office=bureau": {
+        "message": "Полноценное почтовое отделение"
     }
 }
