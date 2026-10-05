@@ -6965,5 +6965,77 @@
     },
     "tag:denotation=park": {
         "message": "Park"
+    },
+    "tag:air_conditioning": {
+        "message": "Klimatizace"
+    },
+    "tag:air_conditioning=no": {
+        "message": "Bez klimatizace"
+    },
+    "tag:artwork_type": {
+        "message": "Typ díla"
+    },
+    "tag:artwork_type=architecture": {
+        "message": "Architektura"
+    },
+    "tag:artwork_type=bust": {
+        "message": "busta"
+    },
+    "tag:artwork_type=fountain": {
+        "message": "Fontána"
+    },
+    "tag:artwork_type=graffiti": {
+        "message": "Graffiti"
+    },
+    "tag:artwork_type=installation": {
+        "message": "Instalace umění"
+    },
+    "tag:artwork_type=land_art": {
+        "message": "Umění v krajině"
+    },
+    "tag:artwork_type=mosaic": {
+        "message": "Mozaika"
+    },
+    "tag:artwork_type=mural": {
+        "message": "Nástěnná malba"
+    },
+    "tag:artwork_type=painting": {
+        "message": "Malba"
+    },
+    "tag:artwork_type=relief": {
+        "message": "Reliéf"
+    },
+    "tag:artwork_type=sculpture": {
+        "message": "Plastika"
+    },
+    "tag:artwork_type=statue": {
+        "message": "Socha"
+    },
+    "tag:artwork_type=stone": {
+        "message": "kámen"
+    },
+    "tag:artwork_type=street_art": {
+        "message": "Pouliční umění"
+    },
+    "tag:artwork_type=tilework": {
+        "message": "Obklady a dlažba"
+    },
+    "tag:network:type=node_network node": {
+        "message": "Uzel"
+    },
+    "tag:parcel_mail_in=returns_only": {
+        "message": "pouze pro vrácení"
+    },
+    "tag:parcel_pickup": {
+        "message": "Vyzvednutí balíku"
+    },
+    "tag:post_office=bureau": {
+        "message": "Poštovní úřad"
+    },
+    "tag:post_office=post_annex": {
+        "message": "Soukromý provozovatel pošty"
+    },
+    "tag:post_office=post_partner": {
+        "message": "Poštovní partner"
     }
 }
