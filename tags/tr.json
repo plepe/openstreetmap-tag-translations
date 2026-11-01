@@ -130,11 +130,11 @@
         "description": "Tag \"amenity=bicycle_parking\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking"
     },
     "tag:amenity=bicycle_parking capacity>20<=60": {
-        "message": "Bisiklet park yeri (20-60 alan)",
+        "message": "Bisiklet park yeri (20-60 araçlık)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_parking capacity>60": {
-        "message": "Bisiklet park yeri (>60 alan)",
+        "message": "Bisiklet park yeri (60'tan çok araçlık)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=bicycle_rental": {
@@ -1466,7 +1466,7 @@
         "description": "Tag \"theatre:genre=puppet\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=puppet"
     },
     "tag:theatre:genre=shadow_play": {
-        "message": "Gölge Tiyatrosu",
+        "message": "Gölge Oyunu",
         "description": "Tag \"theatre:genre=shadow_play\". See https://wiki.openstreetmap.org/wiki/Tag:theatre:genre=shadow_play"
     },
     "tag:tourism": {
@@ -1746,7 +1746,7 @@
         "description": "Tag \"parking:lane=diagonal\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=diagonal"
     },
     "tag:parking:lane=marked": {
-        "message": "ayrı ayrı işaretlenmiş park yerleri",
+        "message": "tek tek işaretlenmiş park yerleri",
         "description": "Tag \"parking:lane=marked\". See https://wiki.openstreetmap.org/wiki/Tag:parking:lane=marked"
     },
     "tag:parking:lane=no_parking": {
@@ -1977,7 +1977,7 @@
         "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
     },
     "tag:aeroway=heliport": {
-        "message": "Heliport",
+        "message": "Helikopter pisti",
         "description": "Tag \"aeroway=heliport\". See https://wiki.openstreetmap.org/wiki/Tag:aeroway=heliport"
     },
     "tag:amenity": {
@@ -1997,7 +1997,7 @@
         "description": "Tag \"amenity=bench\". See https://wiki.openstreetmap.org/wiki/Tag:amenity=bench"
     },
     "tag:amenity=bicycle_parking capacity<=20": {
-        "message": "Bisiklet park yeri (20 alana kadar)",
+        "message": "Bisiklet park yeri (en fazla 20 araçlık)",
         "description": "Combined tag \"amenity=bicycle_parking\" and key \"capacity\" with special values. See https://wiki.openstreetmap.org/wiki/Tag:amenity=bicycle_parking and https://wiki.openstreetmap.org/wiki/Key:capacity"
     },
     "tag:amenity=biergarten": {
@@ -2149,7 +2149,7 @@
         "description": "Tag \"building=industrial\". See https://wiki.openstreetmap.org/wiki/Tag:building=industrial"
     },
     "tag:building=kindergarten": {
-        "message": "Kreşler/anaokulları",
+        "message": "Anaokulu",
         "description": "Tag \"building=kindergarten\". See https://wiki.openstreetmap.org/wiki/Tag:building=kindergarten"
     },
     "tag:building=kiosk": {
@@ -2165,7 +2165,7 @@
         "description": "Tag \"building=monastery\". See https://wiki.openstreetmap.org/wiki/Tag:building=monastery"
     },
     "tag:building=office": {
-        "message": "ofis",
+        "message": "Ofis",
         "description": "Tag \"building=office\". See https://wiki.openstreetmap.org/wiki/Tag:building=office"
     },
     "tag:building=parking": {
@@ -2313,7 +2313,7 @@
         "description": "Tag \"xmas:feature=tree\". See https://wiki.openstreetmap.org/wiki/Tag:xmas:feature=tree"
     },
     "tag:admin_level=10": {
-        "message": "Banliyö (10)",
+        "message": "Yörekent (10)",
         "description": "Tag \"admin_level=10\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=10"
     },
     "tag:natural=peak": {
@@ -2329,7 +2329,7 @@
         "description": "Tag \"natural=wood\". See https://wiki.openstreetmap.org/wiki/Tag:natural=wood"
     },
     "tag:place=suburb": {
-        "message": "Banliyö",
+        "message": "Yörekent",
         "description": "Tag \"place=suburb\". See https://wiki.openstreetmap.org/wiki/Tag:place=suburb"
     },
     "tag:cuisine=italian": {
@@ -2337,7 +2337,7 @@
         "description": "Tag \"cuisine=italian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=kebab": {
-        "message": "Kebab",
+        "message": "Kebap",
         "description": "Tag \"cuisine=kebab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
     },
     "tag:cuisine=korean": {
@@ -2881,7 +2881,7 @@
         "description": "Key \"abutters\". See https://wiki.openstreetmap.org/wiki/Key:abutters"
     },
     "tag:access=designated": {
-        "message": "Özel Alan",
+        "message": "Ayrılmış",
         "description": "Tag \"access=designated\". See https://wiki.openstreetmap.org/wiki/Tag:access=designated"
     },
     "tag:access=discouraged": {
@@ -2898,5 +2898,218 @@
     },
     "tag:addr:interpolation": {
         "message": "Aradeğerle hesaplanmış kapı numaraları"
+    },
+    "tag:access=dismount": {
+        "message": "yalnızca bisikletten inilerek geçilebilir"
+    },
+    "tag:admin_level=7.5": {
+        "message": "İdari Düzey 7,5"
+    },
+    "tag:air_conditioning": {
+        "message": "İklimlendirme"
+    },
+    "tag:air_conditioning=no": {
+        "message": "İklimlendirme Yok"
+    },
+    "tag:amenity=college": {
+        "message": "Yüksekokul"
+    },
+    "tag:amenity=food_court": {
+        "message": "Yeme İçme Alanı"
+    },
+    "tag:amenity=nightclub": {
+        "message": "Gece kulübü"
+    },
+    "tag:amenity=public_bath": {
+        "message": "Umumi Hamam"
+    },
+    "tag:amenity=scale": {
+        "message": "Tartı"
+    },
+    "tag:amenity=signpost": {
+        "message": "Yön levhası"
+    },
+    "tag:amenity=ticket_counter": {
+        "message": "Bilet gişesi"
+    },
+    "tag:amenity=vending_machine vending=excrement_bags": {
+        "message": "Köpek Dışkısı Poşeti Otomatı"
+    },
+    "tag:amenity=vending_machine vending=food": {
+        "message": "Yiyecek Otomatı"
+    },
+    "tag:amenity=vending_machine vending=sweets;chewing_gum": {
+        "message": "Şeker ve Sakız Otomatı"
+    },
+    "tag:artist_name": {
+        "message": "Sanataçı adı"
+    },
+    "tag:artwork_type": {
+        "message": "Eser Türü"
+    },
+    "tag:artwork_type=architecture": {
+        "message": "Mimari Yapı"
+    },
+    "tag:artwork_type=bust": {
+        "message": "Büst"
+    },
+    "tag:artwork_type=fountain": {
+        "message": "Çeşme"
+    },
+    "tag:artwork_type=graffiti": {
+        "message": "Grafiti"
+    },
+    "tag:artwork_type=installation": {
+        "message": "Sanat Yerleştirmesi"
+    },
+    "tag:artwork_type=land_art": {
+        "message": "Arazi Sanatı"
+    },
+    "tag:artwork_type=mosaic": {
+        "message": "Mozaik"
+    },
+    "tag:artwork_type=mural": {
+        "message": "Duvar Resmi"
+    },
+    "tag:artwork_type=painting": {
+        "message": "Resim"
+    },
+    "tag:artwork_type=relief": {
+        "message": "Kabartma"
+    },
+    "tag:artwork_type=sculpture": {
+        "message": "Heykel"
+    },
+    "tag:artwork_type=statue": {
+        "message": "Heykel (insan ya da hayvan)"
+    },
+    "tag:artwork_type=stone": {
+        "message": "İşlenmiş taş"
+    },
+    "tag:artwork_type=street_art": {
+        "message": "Sokak Sanatı"
+    },
+    "tag:artwork_type=tilework": {
+        "message": "Çini işçiliği"
+    },
+    "tag:barrier=hedge": {
+        "message": "Bitki çiti"
+    },
+    "tag:bath:open_air": {
+        "message": "Açık Hava Banyosu"
+    },
+    "tag:bath:type=hot_spring": {
+        "message": "Kaplıca"
+    },
+    "tag:bath:type=onsen": {
+        "message": "Japon Kaplıcası"
+    },
+    "tag:bicycle_road": {
+        "message": "Bisiklet Yolu"
+    },
+    "tag:boundary": {
+        "message": "Sınır"
+    },
+    "tag:brand": {
+        "message": "Marka"
+    },
+    "tag:building:start_date": {
+        "message": "Binanın Tamamlanma Tarihi"
+    },
+    "tag:building=agriculture": {
+        "message": "Tarımsal yapı"
+    },
+    "tag:building=apartments": {
+        "message": "Apartman"
+    },
+    "tag:building=barn": {
+        "message": "Ahır"
+    },
+    "tag:building=block": {
+        "message": "Yapı Bloğu"
+    },
+    "tag:building=bridge": {
+        "message": "Köprü"
+    },
+    "tag:building=bungalow": {
+        "message": "Bungalov"
+    },
+    "tag:building=bunker": {
+        "message": "Sığınak"
+    },
+    "tag:building=cabin": {
+        "message": "Kulübe"
+    },
+    "tag:building=civic": {
+        "message": "Kamusal Yapı"
+    },
+    "tag:building=college": {
+        "message": "Yüksekokul Binası"
+    },
+    "tag:building=commercial": {
+        "message": "Ticari Yapı"
+    },
+    "tag:building=detached": {
+        "message": "Müstakil Ev"
+    },
+    "tag:building=hangar": {
+        "message": "Hangar"
+    },
+    "tag:building=mall": {
+        "message": "AVM"
+    },
+    "tag:building=semidetached_house": {
+        "message": "Sıralı evler"
+    },
+    "tag:building=shop": {
+        "message": "Dükkan"
+    },
+    "tag:building=shrine": {
+        "message": "Adak Tapınağı"
+    },
+    "tag:building=silo": {
+        "message": "Silo"
+    },
+    "tag:building=transportation": {
+        "message": "Toplu Taşıma Binası"
+    },
+    "tag:building=water_tower": {
+        "message": "Su Kulesi"
+    },
+    "tag:capacity": {
+        "message": "Sığa"
+    },
+    "tag:website": {
+        "message": "Genel Ağ Sitesi"
+    },
+    "tag:wheelchair": {
+        "message": "Tekerlekli Sandalye"
+    },
+    "tag:water=pond": {
+        "message": "Gölet"
+    },
+    "tag:traffic_sign=maxspeed": {
+        "message": "En Yüksek Hız"
+    },
+    "tag:traffic_sign=maxweight": {
+        "message": "En Yüksek Ağırlık"
+    },
+    "tag:traffic_sign=maxwidth": {
+        "message": "En Yüksek Genişlik"
+    },
+    "tag:traffic_sign=no_entry": {
+        "message": "Giriş yasak"
+    },
+    "tag:traffic_sign=overtaking": {
+        "message": "Sollama"
+    },
+    "tag:tracks=double": {
+        "message": "Koşa"
+    },
+    "tag:theatre:genre=stand_up_comedy": {
+        "message": "Ayaküstü Güldürü"
+    },
+    "tag:theatre:genre=boulevard": {
+        "message": "Bulvar"
     }
 }
