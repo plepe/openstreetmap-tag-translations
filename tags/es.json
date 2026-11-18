@@ -601,7 +601,7 @@
         "description": "Key \"bridge\". See https://wiki.openstreetmap.org/wiki/Key:bridge"
     },
     "tag:building": {
-        "message": "Edificio",
+        "message": "Edificación",
         "description": "Key \"building\". See https://wiki.openstreetmap.org/wiki/Key:building"
     },
     "tag:building:levels": {
@@ -813,7 +813,7 @@
         "description": "Tag \"building=public\". See https://wiki.openstreetmap.org/wiki/Tag:building=public"
     },
     "tag:building=religious": {
-        "message": "Edificio religioso",
+        "message": "Edificación religiosa",
         "description": "Tag \"building=religious\". See https://wiki.openstreetmap.org/wiki/Tag:building=religious"
     },
     "tag:building=residential": {
@@ -6194,7 +6194,7 @@
         "message": "Fecha de finalización de construcción"
     },
     "tag:building=agriculture": {
-        "message": "Edificio agrícola"
+        "message": "Edificación agrícola"
     },
     "tag:changing_table": {
         "message": "Mesa para cambiar pañales"
@@ -6643,5 +6643,8 @@
     },
     "tag:parking:lane=fire_lane": {
         "message": "debe mantenerse despejado para camiones de bomberos"
+    },
+    "tag:surface=concrete:plates": {
+        "message": "losas de hormigón"
     }
 }
